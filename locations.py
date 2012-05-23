@@ -310,11 +310,11 @@ if __name__ == '__main__':
     f.write('% Countries\n')
     for country, attrs in COUNTRIES:
         attrs = ', '.join(['%s="%s"' % x for x in sorted(attrs.items())])
-        f.write('@country{%s, %s}\n' % (country, attrs))
+        f.write('@country{%-20s %s}\n' % (country + ',', attrs))
     f.write('\n% US States\n@default country=USA\n')
     for state, attrs in US_STATES:
         attrs = ', '.join(['%s="%s"' % x for x in sorted(attrs.items())])
-        f.write('@state{%s, %s}\n' % (state, attrs))
+        f.write('@state{%-2s %s}\n' % (state + ',', attrs))
     f.write('\n% US Locations\n')
     for loc, attrs in US_LOCATIONS:
         newattrs = {}
@@ -324,7 +324,7 @@ if __name__ == '__main__':
             else:
                 newattrs[k] = '"%s"' % v
         attrs = ', '.join(['%s=%s' % x for x in sorted(newattrs.items())])
-        f.write('@location{%s, %s}\n' % (loc, attrs))
+        f.write('@location{%-20s %s}\n' % (loc + ',', attrs))
     def sortkey(x):
         try:
             return ['city', 'state', 'country'].index(x)
@@ -339,4 +339,4 @@ if __name__ == '__main__':
             else:
                 newattrs[k] = '"%s"' % v
         attrs = ', '.join(['%s=%s' % x for x in sorted(newattrs.items(), key=sortkey)])
-        f.write('@location{%s, %s}\n' % (loc, attrs))
+        f.write('@location{%-20s %s}\n' % (loc + ',', attrs))
