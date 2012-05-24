@@ -1,5 +1,2070 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/nsdi/AdyaDW10,
+  author    = {Atul Adya and
+               John Dunagan and
+               Alec Wolman},
+  title     = {Centrifuge: Integrated Lease Management and Partitioning for Cloud Services},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {1-16},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalDJSW10,
+  author    = {Sharad Agarwal and
+               John Dunagan and
+               Navendu Jain and
+               Stefan Saroiu and
+               Alec Wolman},
+  title     = {Volley: Automated Data Placement for Geo-Distributed Cloud Services},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {17-32},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangZGHMC10,
+  author    = {Zheng Zhang and
+               Ming Zhang and
+               Albert G. Greenberg and
+               Y. Charlie Hu and
+               Ratul Mahajan and
+               Blaine Christian},
+  title     = {Optimizing Cost and Performance in Online Service Provider Networks},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {33-48},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhuZHZ10,
+  author    = {Ting Zhu and
+               Ziguo Zhong and
+               Tian He and
+               Zhi-Li Zhang},
+  title     = {Exploring Link Correlation for Efficient Flooding in Wireless Sensor Networks},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {49-64},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/YangHCZZ10,
+  author    = {Lei Yang and
+               Wei Hou and
+               Lili Cao and
+               Ben Y. Zhao and
+               Haitao Zheng},
+  title     = {Supporting Demanding Wireless Applications with Frequency-agile Radios},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {65-80},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/PiatekKVYZJ10,
+  author    = {Michael Piatek and
+               Arvind Krishnamurthy and
+               Arun Venkataramani and
+               Yang Richard Yang and
+               David Zhang and
+               Alexander Jaffe},
+  title     = {Contracts: Practical Contribution Incentives for P2P Live Streaming},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {81-94},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/Freedman10,
+  author    = {Michael J. Freedman},
+  title     = {Experiences with CoralCDN: A Five-Year Operational View},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {95-110},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/Lesniewski-LaasK10,
+  author    = {Chris Lesniewski-Laas and
+               M. Frans Kaashoek},
+  title     = {Whanau: A Sybil-proof Distributed Hash Table},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {111-126},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MickensEHL10,
+  author    = {James Mickens and
+               Jeremy Elson and
+               Jon Howell and
+               Jay Lorch},
+  title     = {Crom: Faster Web Browsing Using Speculative Execution},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {127-142},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LiZZCGW10,
+  author    = {Zhichun Li and
+               Ming Zhang and
+               Zhaosheng Zhu and
+               Yan Chen and
+               Albert G. Greenberg and
+               Yi-Min Wang},
+  title     = {WebProphet: Automating Performance Prediction for Web Services},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {143-158},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MickensEH10,
+  author    = {James Mickens and
+               Jeremy Elson and
+               Jon Howell},
+  title     = {Mugshot: Deterministic Capture and Replay for JavaScript Applications},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {159-174},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SenSCN10,
+  author    = {Souvik Sen and
+               Naveen Santhapuri and
+               Romit Roy Choudhury and
+               Srihari Nelakuditi},
+  title     = {AccuRate: Constellation Based Rate Estimation in Wireless Networks},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {175-190},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SenMB10,
+  author    = {Sayandeep Sen and
+               Neel Kamal Madabhushi and
+               Suman Banerjee},
+  title     = {Scalable WiFi Media Delivery through Adaptive Broadcasts},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {191-204},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/HanSGSBNJLM10,
+  author    = {Bo Han and
+               Aaron Schulman and
+               Francesco Gringoli and
+               Neil Spring and
+               Bobby Bhattacharjee and
+               Lorenzo Nava and
+               Lusheng Ji and
+               Seungjoon Lee and
+               Robert R. Miller},
+  title     = {Maranello: Practical Partial Packet Recovery for 802.11},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {205-218},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/Katz-BassettMASSWAK10,
+  author    = {Ethan Katz-Bassett and
+               Harsha V. Madhyastha and
+               Vijay Kumar Adhikari and
+               Colin Scott and
+               Justine Sherry and
+               Peter van Wesep and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy},
+  title     = {Reverse traceroute},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {219-234},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/KellerRM10,
+  author    = {Eric Keller and
+               Jennifer Rexford and
+               Jacobus E. van der Merwe},
+  title     = {Seamless BGP Migration with Router Grafting},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {235-248},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/HellerSMYSBM10,
+  author    = {Brandon Heller and
+               Srinivasan Seetharaman and
+               Priya Mahadevan and
+               Yiannis Yiakoumis and
+               Puneet Sharma and
+               Sujata Banerjee and
+               Nick McKeown},
+  title     = {ElasticTree: Saving Energy in Data Center Networks},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {249-264},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MudigondaYAM10,
+  author    = {Jayaram Mudigonda and
+               Praveen Yalagandula and
+               Mohammad Al-Fares and
+               Jeffrey C. Mogul},
+  title     = {SPAIN: COTS Data-Center Ethernet for Multipathing over Arbitrary Topologies},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {265-280},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/Al-FaresRRHV10,
+  author    = {Mohammad Al-Fares and
+               Sivasankar Radhakrishnan and
+               Barath Raghavan and
+               Nelson Huang and
+               Amin Vahdat},
+  title     = {Hedera: Dynamic Flow Scheduling for Data Center Networks},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {281-296},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/RoySKSW10,
+  author    = {Indrajit Roy and
+               Srinath T. V. Setty and
+               Ann Kilzer and
+               Vitaly Shmatikov and
+               Emmett Witchel},
+  title     = {Airavat: Security and Privacy for MapReduce},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {297-312},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/CondieCAHES10,
+  author    = {Tyson Condie and
+               Neil Conway and
+               Peter Alvaro and
+               Joseph M. Hellerstein and
+               Khaled Elmeleegy and
+               Russell Sears},
+  title     = {MapReduce Online},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {313-328},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/HsiehGL10,
+  author    = {Jonathan M. Hsieh and
+               Steven D. Gribble and
+               Henry M. Levy},
+  title     = {The Architecture and Implementation of an Extensible Web Crawler},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {329-344},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SenLF10,
+  author    = {Siddhartha Sen and
+               Wyatt Lloyd and
+               Michael J. Freedman},
+  title     = {Prophecy: Using History for High-Throughput Fault Tolerance},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {345-360},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LamMV10,
+  author    = {Vinh The Lam and
+               Michael Mitzenmacher and
+               George Varghese},
+  title     = {Carousel: Scalable Logging for Intrusion Prevention Systems},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {361-376},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ChaMJTBA10,
+  author    = {Sang Kil Cha and
+               Iulian Moraru and
+               Jiyong Jang and
+               John Truelove and
+               David Brumley and
+               David G. Andersen},
+  title     = {SplitScreen: Enabling Efficient, Distributed Malware Detection},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {377-390},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/PerdisciLF10,
+  author    = {Roberto Perdisci and
+               Wenke Lee and
+               Nick Feamster},
+  title     = {Behavioral Clustering of HTTP-Based Malware and Signature Generation Using Malicious Network Traces},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {391-404},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/DischingerMGGMS10,
+  author    = {Marcel Dischinger and
+               Massimiliano Marcon and
+               Saikat Guha and
+               P. Krishna Gummadi and
+               Ratul Mahajan and
+               Stefan Saroiu},
+  title     = {Glasnost: Enabling End Users to Detect Traffic Differentiation},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {405-418},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalAABCMRV10,
+  author    = {Bhavish Agarwal and
+               Aditya Akella and
+               Ashok Anand and
+               Athula Balachandran and
+               Pushkar Chitnis and
+               Chitra Muthukrishnan and
+               Ramachandran Ramjee and
+               George Varghese},
+  title     = {EndRE: An End-System Redundancy Elimination Service for Enterprises},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {419-432},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AnandMKAN10,
+  author    = {Ashok Anand and
+               Chitra Muthukrishnan and
+               Steven Kappes and
+               Aditya Akella and
+               Suman Nath},
+  title     = {Cheap and Large CAMs for High Performance Data-Intensive Networked Systems},
+  booktitle = nsdi,
+  year      = 2010,
+  pages     = {433-448},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LevinDLM09,
+  author    = {Dave Levin and
+               John R. Douceur and
+               Jacob R. Lorch and
+               Thomas Moscibroda},
+  title     = {TrInc: Small Trusted Hardware for Large Distributed Systems},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {1-14},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/TranMLS09,
+  author    = {Nguyen Tran and
+               Bonan Min and
+               Jinyang Li and
+               Lakshminarayanan Subramanian},
+  title     = {Sybil-Resilient Online Content Voting},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {15-28},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MiklasSWB09,
+  author    = {Andrew G. Miklas and
+               Stefan Saroiu and
+               Alec Wolman and
+               Angela Demke Brown},
+  title     = {Bunker: A Privacy-Oriented Platform for Network Tracing},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {29-42},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/StriblingSZPLKM09,
+  author    = {Jeremy Stribling and
+               Yair Sovran and
+               Irene Zhang and
+               Xavid Pretzer and
+               Jinyang Li and
+               M. Frans Kaashoek and
+               Robert Morris},
+  title     = {Flexible, Wide-Area Storage for Distributed Systems with WheelFS},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {43-58},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BelaramaniZNSDG09,
+  author    = {Nalini Moti Belaramani and
+               Jiandan Zheng and
+               Amol Nayate and
+               Robert Soul{\'e} and
+               Michael Dahlin and
+               Robert Grimm},
+  title     = {PADS: A Policy Architecture for Distributed Storage Systems},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {59-74},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/TanZFLYWZWWV09,
+  author    = {Kun Tan and
+               Jiansong Zhang and
+               Ji Fang and
+               He Liu and
+               Yusheng Ye and
+               Shen Wang and
+               Yongguang Zhang and
+               Haitao Wu and
+               Wei Wang and
+               Geoffrey M. Voelker},
+  title     = {Sora: High Performance Software Radio Using General Purpose Multi-core Processors},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {75-90},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/NychisHYSS09,
+  author    = {George Nychis and
+               Thibaud Hottelier and
+               Zhuocheng Yang and
+               Srinivasan Seshan and
+               Peter Steenkiste},
+  title     = {Enabling MAC Protocol Implementations on Software-Defined Radios},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {91-106},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/PetersonS09,
+  author    = {Ryan Peterson and
+               Emin G{\"u}n Sirer},
+  title     = {AntFarm: Efficient Content Distribution with Managed Swarms},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {107-122},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BadamPPP09,
+  author    = {Anirudh Badam and
+               KyoungSoo Park and
+               Vivek S. Pai and
+               Larry L. Peterson},
+  title     = {HashCache: Cache Storage for the Next Billion},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {123-136},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MadhyasthaKAKV09,
+  author    = {Harsha V. Madhyastha and
+               Ethan Katz-Bassett and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy and
+               Arun Venkataramani},
+  title     = {iPlane Nano: Path Prediction for Peer-to-Peer Applications},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {137-152},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ClementWADM09,
+  author    = {Allen Clement and
+               Edmund L. Wong and
+               Lorenzo Alvisi and
+               Michael Dahlin and
+               Mirco Marchetti},
+  title     = {Making Byzantine Fault Tolerant Systems Tolerate Byzantine Faults},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {153-168},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SinghFKRM09,
+  author    = {Atul Singh and
+               Pedro Fonseca and
+               Petr Kuznetsov and
+               Rodrigo Rodrigues and
+               Petros Maniatis},
+  title     = {Zeno: Eventually Consistent Byzantine-Fault Tolerance},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {169-184},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LeoniniRF09,
+  author    = {Lorenzo Leonini and
+               Etienne Riviere and
+               Pascal Felber},
+  title     = {SPLAY: Distributed Systems Evaluation Made Simple (or How to Turn Ideas into Live Systems in a Breeze)},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {185-198},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SanagaDRL09,
+  author    = {Pramod Sanaga and
+               Jonathon Duerig and
+               Robert Ricci and
+               Jay Lepreau},
+  title     = {Modeling and Emulation of Internet Paths},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {199-212},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/YangCWXLLYLZZ09,
+  author    = {Junfeng Yang and
+               Tisheng Chen and
+               Ming Wu and
+               Zhilei Xu and
+               Xuezheng Liu and
+               Haoxiang Lin and
+               Mao Yang and
+               Fan Long and
+               Lintao Zhang and
+               Lidong Zhou},
+  title     = {MODIST: Transparent Model Checking of Unmodified Distributed Systems},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {213-228},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/YabandehKKK09,
+  author    = {Maysam Yabandeh and
+               Nikola Knezevic and
+               Dejan Kostic and
+               Viktor Kuncak},
+  title     = {CrystalBall: Predicting and Preventing Inconsistencies in Deployed Distributed Systems},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {229-244},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/WesterCNCFL09,
+  author    = {Benjamin Wester and
+               James A. Cowling and
+               Edmund B. Nightingale and
+               Peter M. Chen and
+               Jason Flinn and
+               Barbara Liskov},
+  title     = {Tolerating Latency in Replicated State Machines Through Client Speculation},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {245-260},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/RamasubramanianRTWWMV09,
+  author    = {Venugopalan Ramasubramanian and
+               Thomas L. Rodeheffer and
+               Douglas B. Terry and
+               Meg Walraed-Sullivan and
+               Ted Wobber and
+               Catherine C. Marshall and
+               Amin Vahdat},
+  title     = {A Platform for Content-based Partial Replication},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {261-276},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SongAKM09,
+  author    = {Yee Jiun Song and
+               Marcos Kawazoe Aguilera and
+               Ramakrishna Kotla and
+               Dahlia Malkhi},
+  title     = {RPC Chains: Efficient Client-Server Communication in Geodistributed Systems},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {277-290},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/JohnMGK09,
+  author    = {John P. John and
+               Alexander Moshchuk and
+               Steven D. Gribble and
+               Arvind Krishnamurthy},
+  title     = {Studying Spamming Botnets Using Botlab},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {291-306},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/GummadiBMR09,
+  author    = {Ramakrishna Gummadi and
+               Hari Balakrishnan and
+               Petros Maniatis and
+               Sylvia Ratnasamy},
+  title     = {Not-a-Bot: Improving Service Availability in the Face of Botnet Attacks},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {307-320},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhaoXYKYCG09,
+  author    = {Yao Zhao and
+               Yinglian Xie and
+               Fang Yu and
+               Qifa Ke and
+               Yuan Yu and
+               Yan Chen and
+               Eliot Gillum},
+  title     = {BotGraph: Large Scale Spamming Botnet Detection},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {321-334},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BensonAM09,
+  author    = {Theophilus Benson and
+               Aditya Akella and
+               David A. Maltz},
+  title     = {Unraveling the Complexity of Network Management},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {335-348},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalBDEPV09,
+  author    = {Bhavish Agarwal and
+               Ranjita Bhagwan and
+               Tathagata Das and
+               Siddharth Eswaran and
+               Venkata N. Padmanabhan and
+               Geoffrey M. Voelker},
+  title     = {NetPrints: Diagnosing Home Network Misconfigurations Using Shared Knowledge},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {349-364},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AgarwalHCSBG09,
+  author    = {Yuvraj Agarwal and
+               Steve Hodges and
+               Ranveer Chandra and
+               James Scott and
+               Paramvir Bahl and
+               Rajesh Gupta},
+  title     = {Somniloquy: Augmenting Network Interfaces to Reduce PC Energy Usage},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {365-380},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/NedevschiCLNRT09,
+  author    = {Sergiu Nedevschi and
+               Jaideep Chandrashekar and
+               Junda Liu and
+               Bruce Nordman and
+               Sylvia Ratnasamy and
+               Nina Taft},
+  title     = {Skilled in the Art of Being Idle: Reducing Energy Waste in Networked Systems},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {381-394},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/NewtonTGBM09,
+  author    = {Ryan Newton and
+               Sivan Toledo and
+               Lewis Girod and
+               Hari Balakrishnan and
+               Samuel Madden},
+  title     = {Wishbone: Profile-based Partitioning for Sensornet Applications},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {395-408},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/VerkaikAGS09,
+  author    = {Patrick Verkaik and
+               Yuvraj Agarwal and
+               Rajesh Gupta and
+               Alex C. Snoeren},
+  title     = {Softspeak: Making VoIP Play Well in Existing 802.11 Deployments},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {409-422},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LiAGV09,
+  author    = {Ming Li and
+               Devesh Agrawal and
+               Deepak Ganesan and
+               Arun Venkataramani},
+  title     = {Block-switched Networks: A New Paradigm for Wireless Transport},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {423-436},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/HaeberlenARD09,
+  author    = {Andreas Haeberlen and
+               Ioannis C. Avramopoulos and
+               Jennifer Rexford and
+               Peter Druschel},
+  title     = {NetReview: Detecting When Interdomain Routing Goes Wrong},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {437-452},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BallaniFCW09,
+  author    = {Hitesh Ballani and
+               Paul Francis and
+               Tuan Cao and
+               Jia Wang},
+  title     = {Making Routers Last Longer with ViAggre},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {453-466},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LumezanuBLSB09,
+  author    = {Cristian Lumezanu and
+               Randolph Baden and
+               Dave Levin and
+               Neil Spring and
+               Bobby Bhattacharjee},
+  title     = {Symbiotic Relationships in Internet Routing Overlays},
+  booktitle = nsdi,
+  year      = 2009,
+  pages     = {467-480},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/PiatekIKA08,
+  author    = {Michael Piatek and
+               Tomas Isdal and
+               Arvind Krishnamurthy and
+               Thomas E. Anderson},
+  title     = {One Hop Reputations for Peer to Peer File Sharing Workloads},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {1-14},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MislovePDG08,
+  author    = {Alan Mislove and
+               Ansley Post and
+               Peter Druschel and
+               P. Krishna Gummadi},
+  title     = {Ostra: Leveraging Trust to Thwart Unwanted Communication},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {15-30},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ReisGKW08,
+  author    = {Charles Reis and
+               Steven D. Gribble and
+               Tadayoshi Kohno and
+               Nicholas C. Weaver},
+  title     = {Detecting In-Flight Page Changes with Web Tripwires},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {31-44},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/DixonAK08,
+  author    = {Colin Dixon and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy},
+  title     = {Phalanx: Withstanding Multimillion-Node Botnets},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {45-58},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/VutukuruJB08,
+  author    = {Mythili Vutukuru and
+               Kyle Jamieson and
+               Hari Balakrishnan},
+  title     = {Harnessing Exposed Terminals in Wireless Networks},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {59-72},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MurtyPCWZ08,
+  author    = {Rohan Murty and
+               Jitendra Padhye and
+               Ranveer Chandra and
+               Alec Wolman and
+               Brian Zill},
+  title     = {Designing High Performance Enterprise Wi-Fi Networks},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {73-88},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/KandulaLBK08,
+  author    = {Srikanth Kandula and
+               Kate Ching-Ju Lin and
+               Tural Badirkhanli and
+               Dina Katabi},
+  title     = {FatVAP: Aggregating AP Backhaul Capacity to Maximize Throughput},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {89-104},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AfanasyevAS08,
+  author    = {Mikhail Afanasyev and
+               David G. Andersen and
+               Alex C. Snoeren},
+  title     = {Efficiency Through Eavesdropping: Link-layer Packet Caching},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {105-118},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SuranaPNRSBB08,
+  author    = {Sonesh Surana and
+               Rabin K. Patra and
+               Sergiu Nedevschi and
+               Manuel Ramos and
+               Lakshminarayanan Subramanian and
+               Yahel Ben-David and
+               Eric A. Brewer},
+  title     = {Beyond Pilots: Keeping Rural Wireless Networks Alive},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {119-132},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SitMK08,
+  author    = {Emil Sit and
+               Robert Morris and
+               M. Frans Kaashoek},
+  title     = {UsenetDHT: A Low-Overhead Design for Usenet},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {133-146},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/CapposH08,
+  author    = {Justin Cappos and
+               John H. Hartman},
+  title     = {San Ferm{\'\i}n: Aggregating Large Data Sets Using a Binomial Swap Forest},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {147-160},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/CullyLMFHW08,
+  author    = {Brendan Cully and
+               Geoffrey Lefebvre and
+               Dutch T. Meyer and
+               Mike Feeley and
+               Norman C. Hutchinson and
+               Andrew Warfield},
+  title     = {Remus: High Availability via Asynchronous Virtual Machine Replication},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {161},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/HoRBD08,
+  author    = {Chi Ho and
+               Robbert van Renesse and
+               Mark Bickford and
+               Danny Dolev},
+  title     = {Nysiad: Practical Protocol Transformation to Tolerate Byzantine Failures},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {175-188},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SinghDMDR08,
+  author    = {Atul Singh and
+               Tathagata Das and
+               Petros Maniatis and
+               Peter Druschel and
+               Timothy Roscoe},
+  title     = {BFT Protocols Under Fire},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {189-204},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MahajanZPP08,
+  author    = {Ratul Mahajan and
+               Ming Zhang and
+               Lindsey Poole and
+               Vivek S. Pai},
+  title     = {Uncovering Performance Differences Among Backbone ISPs with Netdiff},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {205-218},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhangMZ08,
+  author    = {Ying Zhang and
+               Zhuoqing Morley Mao and
+               Ming Zhang},
+  title     = {Effective Diagnosis of Routing Disruptions from End Systems},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {219-232},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SekarRWZKA08,
+  author    = {Vyas Sekar and
+               Michael K. Reiter and
+               Walter Willinger and
+               Hui Zhang and
+               Ramana Rao Kompella and
+               David G. Andersen},
+  title     = {cSamp: A System for Network-Wide Flow Monitoring},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {233-246},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/Katz-BassettMJKWA08,
+  author    = {Ethan Katz-Bassett and
+               Harsha V. Madhyastha and
+               John P. John and
+               Arvind Krishnamurthy and
+               David Wetherall and
+               Thomas E. Anderson},
+  title     = {Studying Black Holes in the Internet with Hubble},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {247-262},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BalakrishnanMBWV08,
+  author    = {Mahesh Balakrishnan and
+               Tudor Marian and
+               Ken Birman and
+               Hakim Weatherspoon and
+               Einar Vollset},
+  title     = {Maelstrom: Transparent Error Correction for Lambda Networks},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {263-278},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/WuXW08,
+  author    = {Zhenyu Wu and
+               Mengjun Xie and
+               Haining Wang},
+  title     = {Swift: A Fast Dynamic Packet Filter},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {279-292},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ZeldovichBM08,
+  author    = {Nickolai Zeldovich and
+               Silas Boyd-Wickizer and
+               David Mazi{\`e}res},
+  title     = {Securing Distributed Systems with Information Flow Control},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {293-308},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BittauMHK08,
+  author    = {Andrea Bittau and
+               Petr Marchenko and
+               Mark Handley and
+               Brad Karp},
+  title     = {Wedge: Splitting Applications into Reduced-Privilege Compartments},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {309-322},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/NedevschiPIRW08,
+  author    = {Sergiu Nedevschi and
+               Lucian Popa and
+               Gianluca Iannaccone and
+               Sylvia Ratnasamy and
+               David Wetherall},
+  title     = {Reducing Network Energy Consumption via Sleeping and Rate-Adaptation},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {323-336},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ChenHLNRXZ08,
+  author    = {Gong Chen and
+               Wenbo He and
+               Jie Liu and
+               Suman Nath and
+               Leonidas Rigas and
+               Lin Xiao and
+               Feng Zhao},
+  title     = {Energy-Aware Server Provisioning and Load Dispatching for Connection-Intensive Internet Services},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {337-350},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/JohnKKAV08,
+  author    = {John P. John and
+               Ethan Katz-Bassett and
+               Arvind Krishnamurthy and
+               Thomas E. Anderson and
+               Arun Venkataramani},
+  title     = {Consensus Routing: The Internet as a Distributed System},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {351-364},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuLYW08,
+  author    = {Xin Liu and
+               Ang Li and
+               Xiaowei Yang and
+               David Wetherall},
+  title     = {Passport: Secure and Adoptable Source Authentication},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {365-376},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/DasWCH08,
+  author    = {Saumitra M. Das and
+               Yunnan Wu and
+               Ranveer Chandra and
+               Y. Charlie Hu},
+  title     = {Context-based Routing: Technique, Applications, and Experience},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {379-392},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ChunRK08,
+  author    = {Byung-Gon Chun and
+               Sylvia Ratnasamy and
+               Eddie Kohler},
+  title     = {NetComplex: A Complexity Metric for Networked System Designs},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {393-406},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/GuptaVV08,
+  author    = {Diwaker Gupta and
+               Kashi Venkatesh Vishwanath and
+               Amin Vahdat},
+  title     = {DieCast: Testing Distributed Systems with an Accurate Scale Model},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {407-422},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuGWCLTWKZ08,
+  author    = {Xuezheng Liu and
+               Zhenyu Guo and
+               Xi Wang and
+               Feibo Chen and
+               Xiaochen Lian and
+               Jian Tang and
+               Ming Wu and
+               M. Frans Kaashoek and
+               Zheng Zhang},
+  title     = {D3S: Debugging Deployed Distributed Systems},
+  booktitle = nsdi,
+  year      = 2008,
+  pages     = {423-437},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BalakrishnanBPP07,
+  author    = {Mahesh Balakrishnan and
+               Kenneth P. Birman and
+               Amar Phanishayee and
+               Stefan Pleisch},
+  title     = {Ricochet: Lateral Error Correction for Time-Critical Multicast},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/CasadoF07,
+  author    = {Martin Casado and
+               Michael J. Freedman},
+  title     = {Peering Through the Shroud: The Effect of Edge Opacity on IP-Based Client Identification},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ChandraPWZ07,
+  author    = {Ranveer Chandra and
+               Jitendra Padhye and
+               Alec Wolman and
+               Brian Zill},
+  title     = {A Location-Based Management System for Enterprise Wireless LANs},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/EideSL07,
+  author    = {Eric Eide and
+               Leigh Stoller and
+               Jay Lepreau},
+  title     = {An Experimentation Workbench for Replayable Networking Research},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/FonsecaPKSS07,
+  author    = {Rodrigo Fonseca and
+               George Porter and
+               Randy H. Katz and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {X-Trace: A Pervasive Network Tracing Framework},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/GeelsAMRS07,
+  author    = {Dennis Geels and
+               Gautam Altekar and
+               Petros Maniatis and
+               Timothy Roscoe and
+               Ion Stoica},
+  title     = {Friday: Global Comprehension for Distributed Replay},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/HeSFK07,
+  author    = {Yihua He and
+               Georgos Siganos and
+               Michalis Faloutsos and
+               Srikanth V. Krishnamurthy},
+  title     = {A Systematic Framework for Unearthing the Missing Links: Measurements and Impact},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/KattiCK07,
+  author    = {Sachin Katti and
+               Jeff Cohen and
+               Dina Katabi},
+  title     = {Information Slicing: Anonymity Using Unreliable Overlays},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/KillianAJV07,
+  author    = {Charles Edwin Killian and
+               James W. Anderson and
+               Ranjit Jhala and
+               Amin Vahdat},
+  title     = {Life, Death, and the Critical Transition: Finding Liveness Bugs in Systems Code},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/KushmanKKM07,
+  author    = {Nate Kushman and
+               Srikanth Kandula and
+               Dina Katabi and
+               Bruce M. Maggs},
+  title     = {R-BGP: Staying Connected in a Connected World},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LedlieGS07,
+  author    = {Jonathan Ledlie and
+               Paul Gardner and
+               Margo I. Seltzer},
+  title     = {Network Coordinates in the Wild},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LiM07,
+  author    = {Jinyuan Li and
+               David Mazi{\`e}res},
+  title     = {Beyond One-Third Faulty Replicas in Byzantine Fault Tolerant Systems},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LiuLPZ07,
+  author    = {Xuezheng Liu and
+               Wei Lin and
+               Aimin Pan and
+               Zheng Zhang},
+  title     = {WiDS Checker: Combating Bugs in Distributed Systems},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MahajanWA07,
+  author    = {Ratul Mahajan and
+               David Wetherall and
+               Thomas E. Anderson},
+  title     = {Mutually Controlled Routing with Independent ISPs},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MahimkarDSVZ07,
+  author    = {Ajay Mahimkar and
+               Jasraj Dange and
+               Vitaly Shmatikov and
+               Harrick M. Vin and
+               Yin Zhang},
+  title     = {dFence: Transparent Network-based Denial of Service Mitigation},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MaoWQLS07,
+  author    = {Yun Mao and
+               Feng Wang and
+               Lili Qiu and
+               Simon S. Lam and
+               Jonathan M. Smith},
+  title     = {S4: Small State and Small Stretch Routing Protocol for Large Wireless Sensor Networks},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MichalakisSG07,
+  author    = {Nikolaos Michalakis and
+               Robert Soul{\'e} and
+               Robert Grimm},
+  title     = {Ensuring Content Integrity for Untrusted Peer-to-Peer Content Distribution Networks},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/NandiGDNSZB07,
+  author    = {Animesh Nandi and
+               Aditya Ganjam and
+               Peter Druschel and
+               T. S. Eugene Ng and
+               Ion Stoica and
+               Hui Zhang and
+               Bobby Bhattacharjee},
+  title     = {SAAR: A Shared Control Plane for Overlay Multicast},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/PatraNSSSB07,
+  author    = {Rabin K. Patra and
+               Sergiu Nedevschi and
+               Sonesh Surana and
+               Anmol Sheth and
+               Lakshminarayanan Subramanian and
+               Eric A. Brewer},
+  title     = {WiLDNet: Design and Implementation of High Performance WiFi Based Long Distance Networks},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/PiatekIAKV07,
+  author    = {Michael Piatek and
+               Tomas Isdal and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy and
+               Arun Venkataramani},
+  title     = {Do Incentives Build Robustness in BitTorrent?},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/PuchaAK07,
+  author    = {Himabindu Pucha and
+               David G. Andersen and
+               Michael Kaminsky},
+  title     = {Exploiting Similarity for Multi-Source Downloads Using File Handprints},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/RicciDSGHAZKL07,
+  author    = {Robert Ricci and
+               Jonathon Duerig and
+               Pramod Sanaga and
+               Daniel Gebhardt and
+               Mike Hibler and
+               Kevin Atkinson and
+               Junxing Zhang and
+               Sneha Kumar Kasera and
+               Jay Lepreau},
+  title     = {The Flexlab Approach to Realistic Evaluation of Networked Systems},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/Rivest07,
+  author    = {Ronald L. Rivest},
+  title     = {Security of Voting Systems},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/RoseMPLRW07,
+  author    = {Ian Rose and
+               Rohan Murty and
+               Peter R. Pietzuch and
+               Jonathan Ledlie and
+               Mema Roussopoulos and
+               Matt Welsh},
+  title     = {Cobra: Content-based Filtering and Aggregation of Blogs and RSS Feeds},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/WongSS07,
+  author    = {Bernard Wong and
+               Ivan Stoyanov and
+               Emin G{\"u}n Sirer},
+  title     = {Octant: A Comprehensive Framework for the Geolocalization of Internet Hosts},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/WoodSVY07,
+  author    = {Timothy Wood and
+               Prashant J. Shenoy and
+               Arun Venkataramani and
+               Mazin S. Yousif},
+  title     = {Black-box and Gray-box Strategies for Virtual Machine Migration},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/YanMNGZC07,
+  author    = {Hong Yan and
+               David A. Maltz and
+               T. S. Eugene Ng and
+               Hemant Gogineni and
+               Hui Zhang and
+               Zheng Cai},
+  title     = {Tesseract: A 4D Network Control Plane},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/YumerefendiMC07,
+  author    = {Aydan R. Yumerefendi and
+               Benjamin Mickle and
+               Landon P. Cox},
+  title     = {TightLip: Keeping Applications from Spilling the Beans},
+  booktitle = nsdi,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AguileraSV06,
+  author    = {Marcos Kawazoe Aguilera and
+               Susan Spence and
+               Alistair C. Veitch},
+  title     = {Olive: Distributed Point-in-Time Branching Storage for Real Systems},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AndersonCKZ06,
+  author    = {Thomas E. Anderson and
+               Andy Collins and
+               Arvind Krishnamurthy and
+               John Zahorjan},
+  title     = {PCP: Efficient Endpoint Congestion Control},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BelaramaniDGNVYZ06,
+  author    = {Nalini Moti Belaramani and
+               Michael Dahlin and
+               Lei Gao and
+               Amol Nayate and
+               Arun Venkataramani and
+               Praveen Yalagandula and
+               Jiandan Zheng},
+  title     = {PRACTI Replication},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BharambePS06,
+  author    = {Ashwin R. Bharambe and
+               Jeffrey Pang and
+               Srinivasan Seshan},
+  title     = {Colyseus: A Distributed Architecture for Online Multiplayer Games},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ChunDHSWKKM06,
+  author    = {Byung-Gon Chun and
+               Frank Dabek and
+               Andreas Haeberlen and
+               Emil Sit and
+               Hakim Weatherspoon and
+               M. Frans Kaashoek and
+               John Kubiatowicz and
+               Robert Morris},
+  title     = {Efficient Replica Maintenance for Distributed Storage Systems},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/CookeBJM06,
+  author    = {Evan Cooke and
+               Michael Bailey and
+               Farnam Jahanian and
+               Richard Mortier},
+  title     = {The Dark Oracle: Perspective-Aware Unused and Unreachable Address Discovery},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/EeRS06,
+  author    = {Cheng Tien Ee and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Practical Data-Centric Storage},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/FreedmanLM06,
+  author    = {Michael J. Freedman and
+               Karthik Lakshminarayanan and
+               David Mazi{\`e}res},
+  title     = {OASIS: Anycast for Any Service},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/GarrissKFKMY06,
+  author    = {Scott Garriss and
+               Michael Kaminsky and
+               Michael J. Freedman and
+               Brad Karp and
+               David Mazi{\`e}res and
+               Haifeng Yu},
+  title     = {RE: Reliable Email},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/GrimmLMEKMR06,
+  author    = {Robert Grimm and
+               Guy Lichtman and
+               Nikolaos Michalakis and
+               Amos Elliston and
+               Adam Kravetz and
+               Jonathan Miller and
+               Sajid Raza},
+  title     = {Na Kika: Secure Service Execution and Composition in an Open Edge-Side Computing Network},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/GuptaYMSVV06,
+  author    = {Diwaker Gupta and
+               Ken Yocum and
+               Marvin McNett and
+               Alex C. Snoeren and
+               Amin Vahdat and
+               Geoffrey M. Voelker},
+  title     = {To Infinity and Beyond: Time-Warped Network Emulation},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/JosephKKLSW06,
+  author    = {Dilip Antony Joseph and
+               Jayanthkumar Kannan and
+               Ayumu Kubota and
+               Karthik Lakshminarayanan and
+               Ion Stoica and
+               Klaus Wehrle},
+  title     = {OCALA: An Architecture for Supporting Legacy Applications over Overlays},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LeongLM06,
+  author    = {Ben Leong and
+               Barbara Liskov and
+               Robert Morris},
+  title     = {Geographic Routing Without Planarization},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LiGS06,
+  author    = {Ming Li and
+               Deepak Ganesan and
+               Prashant J. Shenoy},
+  title     = {PRESTO: Feedback-driven Data Management in Sensor Networks},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/Manber06,
+  author    = {Udi Manber},
+  title     = {Keynote},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MickensN06,
+  author    = {James W. Mickens and
+               Brian D. Noble},
+  title     = {Exploiting Availability Prediction in Distributed Systems},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/NathYGS06,
+  author    = {Suman Nath and
+               Haifeng Yu and
+               Phillip B. Gibbons and
+               Srinivasan Seshan},
+  title     = {Subtleties in Tolerating Correlated Failures in Wide-area Storage Systems},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ParkP06,
+  author    = {KyoungSoo Park and
+               Vivek S. Pai},
+  title     = {Scale and Performance in the CoBlitz Large-File Distribution Service},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ParkP06a,
+  author    = {KyoungSoo Park and
+               Vivek S. Pai},
+  title     = {Connection Conditioning: Architecture-Independent Support for Simple, Robust Servers},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/PfaffGR06,
+  author    = {Ben Pfaff and
+               Tal Garfinkel and
+               Mendel Rosenblum},
+  title     = {Virtualization Aware File Systems: Getting Beyond the Limitations of Virtual Disks},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/RamasubramanianPS06,
+  author    = {Venugopalan Ramasubramanian and
+               Ryan Peterson and
+               Emin G{\"u}n Sirer},
+  title     = {Corona: A High Performance Publish-Subscribe System for the World Wide Web},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ReynoldsKWMSV06,
+  author    = {Patrick Reynolds and
+               Charles Edwin Killian and
+               Janet L. Wiener and
+               Jeffrey C. Mogul and
+               Mehul A. Shah and
+               Amin Vahdat},
+  title     = {Pip: Detecting the Unexpected in Distributed Systems},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/SchroederWH06,
+  author    = {Bianca Schroeder and
+               Adam Wierman and
+               Mor Harchol-Balter},
+  title     = {Open Versus Closed: A Cautionary Tale},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/StriblingLCKM06,
+  author    = {Jeremy Stribling and
+               Jinyang Li and
+               Isaac G. Councill and
+               M. Frans Kaashoek and
+               Robert Morris},
+  title     = {OverCite: A Distributed, Cooperative CiteSeer},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ToliaKAP06,
+  author    = {Niraj Tolia and
+               Michael Kaminsky and
+               David G. Andersen and
+               Swapnil Patil},
+  title     = {An Architecture for Internet Data Transfer},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/WalfishZBKS06,
+  author    = {Michael Walfish and
+               J. D. Zamfirescu and
+               Hari Balakrishnan and
+               David R. Karger and
+               Scott Shenker},
+  title     = {Distributed Quota Enforcement for Spam Control},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/WalshS06,
+  author    = {Kevin Walsh and
+               Emin G{\"u}n Sirer},
+  title     = {Experience with an Object Reputation System for Peer-to-Peer Filesharing},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/YipCM06,
+  author    = {Alexander Yip and
+               Benjie Chen and
+               Robert Morris},
+  title     = {Pastwatch: A Distributed Version Control System},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/YuGN06,
+  author    = {Haifeng Yu and
+               Phillip B. Gibbons and
+               Suman Nath},
+  title     = {Availability of Multi-Object Operations},
+  booktitle = nsdi,
+  year      = 2006,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AndersenBKR05,
+  author    = {David G. Andersen and
+               Hari Balakrishnan and
+               M. Frans Kaashoek and
+               Rohit N. Rao},
+  title     = {Improving Web Availability for Clients with MONET},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/AnnapureddyFM05,
+  author    = {Siddhartha Annapureddy and
+               Michael J. Freedman and
+               David Mazi{\`e}res},
+  title     = {Shark: Scaling File Servers via Cooperative Caching},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/BlanquerBSW05,
+  author    = {Josep M. Blanquer and
+               Antoni Batchelli and
+               Klaus E. Schauser and
+               Richard Wolski},
+  title     = {Quorum: Flexible Quality of Service for Internet Services},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/CaesarCFRSM05,
+  author    = {Matthew Caesar and
+               Donald F. Caldwell and
+               Nick Feamster and
+               Jennifer Rexford and
+               Aman Shaikh and
+               Jacobus E. van der Merwe},
+  title     = {Design and Implementation of a Routing Control Platform},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/CastroCR05,
+  author    = {Miguel Castro and
+               Manuel Costa and
+               Antony I. T. Rowstron},
+  title     = {Debunking Some Myths About Structured and Unstructured Overlays},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ChandraZSL05,
+  author    = {Ramesh Chandra and
+               Nickolai Zeldovich and
+               Constantine P. Sapuntzakis and
+               Monica S. Lam},
+  title     = {The Collective: A Cache-Based System Management Architecture},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ClarkFHHJLPW05,
+  author    = {Christopher Clark and
+               Keir Fraser and
+               Steven Hand and
+               Jacob Gorm Hansen and
+               Eric Jul and
+               Christian Limpach and
+               Ian Pratt and
+               Andrew Warfield},
+  title     = {Live Migration of Virtual Machines},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/FeamsterB05,
+  author    = {Nick Feamster and
+               Hari Balakrishnan},
+  title     = {Detecting BGP Configuration Faults with Static Analysis},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/FonsecaRZECSS05,
+  author    = {Rodrigo Fonseca and
+               Sylvia Ratnasamy and
+               Jerry Zhao and
+               Cheng Tien Ee and
+               David E. Culler and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {Beacon Vector Routing: Scalable Point-to-Point Routing in Wireless Sensornets},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/HaeberlenMD05,
+  author    = {Andreas Haeberlen and
+               Alan Mislove and
+               Peter Druschel},
+  title     = {Glacier: Highly Durable, Decentralized Storage Despite Massive Correlated Failures},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/HandleyKGHR05,
+  author    = {Mark Handley and
+               Eddie Kohler and
+               Atanu Ghosh and
+               Orion Hodson and
+               Pavlin Radoslavov},
+  title     = {Designing Extensible IP Router Software},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/JuddS05,
+  author    = {Glenn Judd and
+               Peter Steenkiste},
+  title     = {Using Emulation to Understand and Improve Wireless Networks and Applications},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/KandulaKJB05,
+  author    = {Srikanth Kandula and
+               Dina Katabi and
+               Matthias Jacob and
+               Arthur Berger},
+  title     = {Botz-4-Sale: Surviving Organized DDoS Attacks That Mimic Flash Crowds},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/KimGKS05,
+  author    = {Young-Jin Kim and
+               Ramesh Govindan and
+               Brad Karp and
+               Scott Shenker},
+  title     = {Geographic Routing Made Practical},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/KompellaYGS05,
+  author    = {Ramana Rao Kompella and
+               Jennifer Yates and
+               Albert G. Greenberg and
+               Alex C. Snoeren},
+  title     = {IP Fault Localization Via Risk Modeling},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/Leighton05,
+  author    = {Frank Thomson Leighton},
+  title     = {The Challenges of Delivering Content and Applications on the Internet},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LevisGC05,
+  author    = {Philip Levis and
+               David Gay and
+               David E. Culler},
+  title     = {Active Sensor Networks},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/LiSMK05,
+  author    = {Jinyang Li and
+               Jeremy Stribling and
+               Robert Morris and
+               M. Frans Kaashoek},
+  title     = {Bandwidth-efficient Management of DHT Routing Tables},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MahajanRWZ05,
+  author    = {Ratul Mahajan and
+               Maya Rodrig and
+               David Wetherall and
+               John Zahorjan},
+  title     = {Sustaining Cooperation in Multi-hop Wireless Networks},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MahajanWA05,
+  author    = {Ratul Mahajan and
+               David Wetherall and
+               Thomas E. Anderson},
+  title     = {Negotiation-Based Routing Between Neighboring ISPs},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/MainlandPW05,
+  author    = {Geoffrey Mainland and
+               David C. Parkes and
+               Matt Welsh},
+  title     = {Decentralized, Adaptive Resource Allocation for Sensor Networks},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ShermanLBW05,
+  author    = {Alex Sherman and
+               Philip A. Lisiecki and
+               Andy Berkheimer and
+               Joel Wein},
+  title     = {ACMS: The Akamai Configuration Management System},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ShiehMS05,
+  author    = {Alan Shieh and
+               Andrew C. Myers and
+               Emin G{\"u}n Sirer},
+  title     = {Trickles: A Stateless Network Stack for Improved Scalability, Resilience, and Flexibility},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/StewartS05,
+  author    = {Christopher Stewart and
+               Kai Shen},
+  title     = {Performance Modeling and System Management for Multi-component Online Services},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/WuMRW05,
+  author    = {Jian Wu and
+               Zhuoqing Morley Mao and
+               Jennifer Rexford and
+               Jia Wang},
+  title     = {Finding a Needle in a Haystack: Pinpointing Significant BGP Routing Changes in an IP Network},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/nsdi/ZhuangZZR05,
+  author    = {Li Zhuang and
+               Feng Zhou and
+               Ben Y. Zhao and
+               Antony I. T. Rowstron},
+  title     = {Cashmere: Resilient Anonymous Routing},
+  booktitle = nsdi,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
 @inproceedings{DBLP:conf/nsdi/Lawrence04,
   author    = {Richard Lawrence},
   title     = {Running Massively Multiplayer Games as a Business},
@@ -17,12 +2082,10 @@
                Alec Woo and
                Eric A. Brewer and
                David E. Culler},
-  title     = {The Emergence of Networking Abstractions and Techniques
-               in TinyOS},
+  title     = {The Emergence of Networking Abstractions and Techniques in TinyOS},
   booktitle = nsdi,
   year      = 2004,
   pages     = {1-14},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/levisEmerge.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -31,24 +2094,20 @@
                Neil Patel and
                David E. Culler and
                Scott Shenker},
-  title     = {Trickle: A Self-Regulating Algorithm for Code Propagation
-               and Maintenance in Wireless Sensor Networks (Awarded Best
-               Paper!)},
+  title     = {Trickle: A Self-Regulating Algorithm for Code Propagation and Maintenance in Wireless Sensor Networks},
   booktitle = nsdi,
   year      = 2004,
   pages     = {15-28},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/levisTrickle.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/nsdi/WelshM04,
   author    = {Matt Welsh and
-               Geoff Mainland},
+               Geoffrey Mainland},
   title     = {Programming Sensor Networks Using Abstract Regions},
   booktitle = nsdi,
   year      = 2004,
   pages     = {29-42},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/welsh.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -56,12 +2115,10 @@
   author    = {Jeffrey C. Mogul and
                Yee-Man Chan and
                Terence Kelly},
-  title     = {Design, Implementation, and Evaluation of Duplicate Transfer
-               Detection in HTTP},
+  title     = {Design, Implementation, and Evaluation of Duplicate Transfer Detection in HTTP},
   booktitle = nsdi,
   year      = 2004,
   pages     = {43-56},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/mogul.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -72,7 +2129,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {57-70},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/shaikh.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -81,12 +2137,10 @@
                Ion Stoica and
                Hari Balakrishnan and
                Randy H. Katz},
-  title     = {OverQoS: An Overlay Based Architecture for Enhancing Internet
-               QoS},
+  title     = {OverQoS: An Overlay Based Architecture for Enhancing Internet QoS},
   booktitle = nsdi,
   year      = 2004,
   pages     = {71-84},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/subramanianOver.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -101,19 +2155,16 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {85-98},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/dabek.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/nsdi/RamasubramanianS04,
   author    = {Venugopalan Ramasubramanian and
                Emin G{\"u}n Sirer},
-  title     = {Beehive: O(1) Lookup Performance for Power-Law Query Distributions
-               in Peer-to-Peer Overlays},
+  title     = {Beehive: O(1) Lookup Performance for Power-Law Query Distributions in Peer-to-Peer Overlays},
   booktitle = nsdi,
   year      = 2004,
   pages     = {99-112},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/ramasubramanian.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -125,7 +2176,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {113-126},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/gupta.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -135,12 +2185,10 @@
                Ion Stoica and
                Scott Shenker and
                Randy H. Katz},
-  title     = {Listen and Whisper: Security Mechanisms for BGP (Awarded
-               Best Student Paper!)},
+  title     = {Listen and Whisper: Security Mechanisms for BGP},
   booktitle = nsdi,
   year      = 2004,
   pages     = {127-140},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/subramanianListen.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -152,7 +2200,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {141-153},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/saroiu.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -163,7 +2210,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {155-168},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/musuvathi.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -176,7 +2222,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {169-182},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/whitaker.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -187,7 +2232,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {183-196},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/zheng.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -195,24 +2239,20 @@
   author    = {Magdalena Balazinska and
                Hari Balakrishnan and
                Michael Stonebraker},
-  title     = {Contract-Based Load Management in Federated Distributed
-               Systems},
+  title     = {Contract-Based Load Management in Federated Distributed Systems},
   booktitle = nsdi,
   year      = 2004,
   pages     = {197-210},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/balazinska.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/nsdi/TangD04,
   author    = {Chunqiang Tang and
                Sandhya Dwarkadas},
-  title     = {Hybrid Global-Local Indexing for Efficient Peer-to-Peer
-               Information Retrieval},
+  title     = {Hybrid Global-Local Indexing for Efficient Peer-to-Peer Information Retrieval},
   booktitle = nsdi,
   year      = 2004,
   pages     = {211-224},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/tang.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -223,7 +2263,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {225-238},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/walfish.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -235,7 +2274,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {239-252},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/freedman.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -254,22 +2292,19 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {253-266},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/bavier.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/nsdi/RodriguezKBKV04,
   author    = {Adolfo Rodriguez and
-               Charles Killian and
+               Charles Edwin Killian and
                Sooraj Bhat and
                Dejan Kostic and
                Amin Vahdat},
-  title     = {MACEDON: Methodology for Automatically Creating, Evaluating,
-               and Designing Overlay Networks},
+  title     = {MACEDON: Methodology for Automatically Creating, Evaluating, and Designing Overlay Networks},
   booktitle = nsdi,
   year      = 2004,
   pages     = {267-280},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/rodriguez.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -279,7 +2314,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {281-294},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/shen.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -291,7 +2325,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {295-308},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/ling.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -306,7 +2339,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {309-322},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/chen.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -317,7 +2349,6 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {323-336},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/yu.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -327,24 +2358,20 @@
                Yu-Chung Cheng and
                Stefan Savage and
                Geoffrey M. Voelker},
-  title     = {Total Recall: System Support for Automated Availability
-               Management},
+  title     = {Total Recall: System Support for Automated Availability Management},
   booktitle = nsdi,
   year      = 2004,
   pages     = {337-350},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/bhagwan.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/nsdi/MohL04,
   author    = {Chuang-Hue Moh and
                Barbara Liskov},
-  title     = {TimeLine: A High Performance Archive for a Distributed Object
-               Store},
+  title     = {TimeLine: A High Performance Archive for a Distributed Object Store},
   booktitle = nsdi,
   year      = 2004,
   pages     = {351-364},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/moh.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -358,6 +2385,5 @@
   booktitle = nsdi,
   year      = 2004,
   pages     = {365-378},
-  ee        = {http://www.usenix.org/events/nsdi04/tech/bent.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
