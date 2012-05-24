@@ -312,6 +312,8 @@ LOCATION_ALIASES = {'alzburg': 'Salzburg'
                    ,'SanFrancisco': 'SF'
                    }
 
+MANUAL_LOCATIONS = {'conf/soda/1995': 'SF'}
+
 LOCATIONS = [x[0] for x in US_LOCATIONS + INTL_LOCATIONS]
 
 if __name__ == '__main__':

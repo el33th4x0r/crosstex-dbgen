@@ -13,6 +13,7 @@ import parentheticals
 from locations import LOCATION_AMBIGUITIES
 from locations import LOCATION_ALIASES
 from locations import LOCATIONS
+from locations import MANUAL_LOCATIONS
 
 
 MONTHS = {'January': 'jan',
@@ -122,6 +123,8 @@ class Conference:
             print 'WARNING:  no year for "%s"' % citekey
 
     def _extract_location(self, citekey, citeattrs):
+        if citekey in MANUAL_LOCATIONS:
+            return MANUAL_LOCATIONS[citekey]
         possible = citeattrs.get('title', '').split(',')
         possible = [x.replace(' ', '').replace('.', '').replace("'", '') for x in possible]
         for p in possible:
