@@ -36,52 +36,6 @@ page_range_re = re.compile(r'(?P<start>[0-9]+)[^0-9]+(?P<end>[0-9]+)')
 page_re = re.compile(r'(?P<page>[0-9]+)')
 
 
-def dblp_preprocess(infilename, outfilename):
-    with open(outfilename, 'w') as fout:
-        e = lxml.etree.iterparse(infilename, events=('start', 'end'),
-                                 dtd_validation=True, load_dtd=True)
-        event, element = e.next()
-        assert event == 'start'
-        assert element.tag == 'dblp'
-
-        for event, element in e:
-            if event == 'end' and element.tag == 'dblp':
-                break
-            citetype = element.tag
-            citekey = element.attrib.get('key', None)
-            citeattrs = {'author': []}
-            count = 0
-            while True:
-                element.clear()
-                del element
-                event, element = e.next()
-                if event == 'end' and element.tag == citetype and count == 0:
-                    break
-                elif event == 'end' and element.tag == citetype:
-                    count -= 1
-                elif event == 'start' and element.tag == citetype:
-                    count += 1
-                elif event == 'start' or event == 'end':
-                    if element.text is not None:
-                        if element.tag == 'author':
-                            citeattrs['author'].append(element.text)
-                        elif citeattrs.get(element.tag, None) is None:
-                            citeattrs[element.tag] = element.text
-            fout.write('%s\n' % repr((citetype, citekey, citeattrs)))
-            element.clear()
-            del element
-        assert event == 'end'
-        assert element.tag == 'dblp'
-        del e
-
-
-def conditional_dblp_preprocess(infilename, outfilename):
-    if os.path.exists(outfilename) and \
-            os.stat(infilename).st_ctime < os.stat(outfilename).st_ctime:
-        return
-    dblp_preprocess(infilename, outfilename)
-
-
 class Conference:
 
     def __init__(self, output, slug, shortname, longname, booktitle):
@@ -215,6 +169,7 @@ class Conference:
                 elif s in WHITELISTED_PARENTHETICALS:
                     firstbad = r
                 else:
+                    firstbad = r
                     print 'WARNING:  parenthetical in title for "%s"' % citekey, citeattrs
             else:
                 firstbad = r
@@ -238,10 +193,12 @@ class DBLPProcessor:
 
     # infilename is a pre-processed file, that may be opened and closed
     # repeatedly throughout the processing.
-    def __init__(self, infilename, outdir):
+    def __init__(self, infilename, ppfilename, outdir):
         self._infilename = infilename
+        self._ppfilename = ppfilename
         self._outdir = outdir
         self._proceedings = {}
+        self._filters = set()
 
     def add_conference(self, slug, shortname, longname, booktitle=None):
         key = ('proceedings', 'conf', booktitle or shortname)
@@ -249,8 +206,12 @@ class DBLPProcessor:
         conf = Conference(out, slug, shortname, longname, booktitle)
         assert slug not in self._proceedings
         self._proceedings[key] = conf
+        self._filters.add(slug)
+        self._filters.add(shortname)
+        self._filters.add(booktitle)
 
     def process(self):
+        self._conditional_preprocess()
         containers = {}
         for citetype, citekey, citeattrs in self._iterate():
             if citetype == 'proceedings':
@@ -276,13 +237,58 @@ class DBLPProcessor:
         for proceedings in self._proceedings.values():
             proceedings.post_process()
 
+    def _preprocess(self):
+        with open(self._ppfilename, 'w') as fout:
+            e = lxml.etree.iterparse(self._infilename, events=('start', 'end'),
+                                     dtd_validation=True, load_dtd=True)
+            event, element = e.next()
+            assert event == 'start'
+            assert element.tag == 'dblp'
+
+            for event, element in e:
+                if event == 'end' and element.tag == 'dblp':
+                    break
+                citetype = element.tag
+                citekey = element.attrib.get('key', None)
+                select = bool(set(citekey.split('/')) & self._filters)
+                citeattrs = {'author': []}
+                count = 0
+                while True:
+                    element.clear()
+                    del element
+                    event, element = e.next()
+                    if event == 'end' and element.tag == citetype and count == 0:
+                        break
+                    elif event == 'end' and element.tag == citetype:
+                        count -= 1
+                    elif event == 'start' and element.tag == citetype:
+                        count += 1
+                    elif select and (event == 'start' or event == 'end'):
+                        if element.text is not None:
+                            if element.tag == 'author':
+                                citeattrs['author'].append(element.text)
+                            elif citeattrs.get(element.tag, None) is None:
+                                citeattrs[element.tag] = element.text
+                if select:
+                    fout.write('%s\n' % repr((citetype, citekey, citeattrs)))
+                element.clear()
+                del element
+            assert event == 'end'
+            assert element.tag == 'dblp'
+            del e
+
+    def _conditional_preprocess(self):
+        if os.path.exists(self._ppfilename) and \
+                os.stat(self._infilename).st_ctime < os.stat(self._ppfilename).st_ctime:
+            return
+        self._preprocess()
+
     def _iterate(self):
-        with open(self._infilename) as fin:
+        with open(self._ppfilename) as fin:
             for line in fin:
                 yield eval(line[:-1])
 
 
-conditional_dblp_preprocess('dblp.xml', 'dblp.xml.pp')
-d = DBLPProcessor('dblp.xml.pp', 'xtx')
+d = DBLPProcessor('dblp.xml', 'dblp.xml.pp', 'xtx')
 d.add_conference('sosp', 'SOSP', 'Symposium on Operating Systems Principles')
 d.process()
