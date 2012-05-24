@@ -1,16 +1,1114 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/osdi/Boyd-WickizerCMPKMZ10,
+  author    = {Silas Boyd-Wickizer and
+               Austin T. Clements and
+               Yandong Mao and
+               Aleksey Pesterev and
+               M. Frans Kaashoek and
+               Robert Morris and
+               Nickolai Zeldovich},
+  title     = {An Analysis of Linux Scalability to Many Cores},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {1-16},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/TangMK10,
+  author    = {Shuo Tang and
+               Haohui Mai and
+               Samuel T. King},
+  title     = {Trust and Protection in the Illinois Browser Operating System},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {17-32},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/SoaresS10,
+  author    = {Livio Soares and
+               Michael Stumm},
+  title     = {FlexSC: Flexible System Call Scheduling with Exception-Less System Calls},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {33-46},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/BeaverKLSV10,
+  author    = {Doug Beaver and
+               Sanjeev Kumar and
+               Harry C. Li and
+               Jason Sobel and
+               Peter Vajgel},
+  title     = {Finding a Needle in Haystack: Facebook's Photo Storage},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {47-60},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/FordLPSTBGQ10,
+  author    = {Daniel Ford and
+               Fran{\c{c}}ois Labelle and
+               Florentina I. Popovici and
+               Murray Stokely and
+               Van-Anh Truong and
+               Luiz Barroso and
+               Carrie Grimes and
+               Sean Quinlan},
+  title     = {Availability in Globally Distributed Storage Systems},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {61-74},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/GundaRTYZ10,
+  author    = {Pradeep Kumar Gunda and
+               Lenin Ravindranath and
+               Chandramohan A. Thekkath and
+               Yuan Yu and
+               Li Zhuang},
+  title     = {Nectar: Automatic Management of Data and Computation in Datacenters},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {75-88},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/KimWZK10,
+  author    = {Taesoo Kim and
+               Xi Wang and
+               Nickolai Zeldovich and
+               M. Frans Kaashoek},
+  title     = {Intrusion Recovery Using Selective Re-execution},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {89-104},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/Chlipala10,
+  author    = {Adam Chlipala},
+  title     = {Static Checking of Dynamically-Varying Security Policies in Database-Backed Applications},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {105-118},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/HaeberlenARD10,
+  author    = {Andreas Haeberlen and
+               Paarijaat Aditya and
+               Rodrigo Rodrigues and
+               Peter Druschel},
+  title     = {Accountable Virtual Machines},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {119-134},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/WuCY10,
+  author    = {Jingyue Wu and
+               Heming Cui and
+               Junfeng Yang},
+  title     = {Bypassing Races in Live Applications with Execution Filters},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {135-149},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/EricksonMBO10,
+  author    = {John Erickson and
+               Madanlal Musuvathi and
+               Sebastian Burckhardt and
+               Kirk Olynyk},
+  title     = {Effective Data-Race Detection for the Kernel},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {151-162},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/XiongPZZM10,
+  author    = {Weiwei Xiong and
+               Soyeon Park and
+               Jiaqi Zhang and
+               Yuanyuan Zhou and
+               Zhiqiang Ma},
+  title     = {Ad Hoc Synchronization Considered Harmful},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {163-176},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/BerganHCG10,
+  author    = {Tom Bergan and
+               Nicholas Hunt and
+               Luis Ceze and
+               Steven D. Gribble},
+  title     = {Deterministic Process Groups in dOS},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {177-191},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/AviramWHF10,
+  author    = {Amittai Aviram and
+               Shu-Chun Weng and
+               Sen Hu and
+               Bryan Ford},
+  title     = {Efficient System-Enforced Deterministic Parallelism},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {193-206},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/CuiWTY10,
+  author    = {Heming Cui and
+               Jingyue Wu and
+               Chia-che Tsai and
+               Junfeng Yang},
+  title     = {Stable Deterministic Multithreading through Schedule Memoization},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {207-221},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/KushmanK10,
+  author    = {Nate Kushman and
+               Dina Katabi},
+  title     = {Enabling Configuration-Independent Automation by Non-Expert Users},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {223-236},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/AttariyanF10,
+  author    = {Mona Attariyan and
+               Jason Flinn},
+  title     = {Automating Configuration Troubleshooting with Dynamic Information Flow Analysis},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {237-250},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/PengD10,
+  author    = {Daniel Peng and
+               Frank Dabek},
+  title     = {Large-scale Incremental Processing Using Distributed Transactions and Notifications},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {251-264},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/AnanthanarayananKGSLSH10,
+  author    = {Ganesh Ananthanarayanan and
+               Srikanth Kandula and
+               Albert G. Greenberg and
+               Ion Stoica and
+               Yi Lu and
+               Bikas Saha and
+               Edward Harris},
+  title     = {Reining in the Outliers in Map-Reduce Clusters using Mantri},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {265-278},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/PortsCZML10,
+  author    = {Dan R. K. Ports and
+               Austin T. Clements and
+               Irene Zhang and
+               Samuel Madden and
+               Barbara Liskov},
+  title     = {Transactional Consistency and Automatic Management in an Application Data Cache},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {279-292},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/PowerL10,
+  author    = {Russell Power and
+               Jinyang Li},
+  title     = {Piccolo: Building Fast, Distributed Programs with Partitioned Tables},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {293-306},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/MahajanSLCADW10,
+  author    = {Prince Mahajan and
+               Srinath T. V. Setty and
+               Sangmin Lee and
+               Allen Clement and
+               Lorenzo Alvisi and
+               Michael Dahlin and
+               Michael Walfish},
+  title     = {Depot: Cloud Storage with Minimal Trust},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {307-322},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/GeambasuLKKL10,
+  author    = {Roxana Geambasu and
+               Amit A. Levy and
+               Tadayoshi Kohno and
+               Arvind Krishnamurthy and
+               Henry M. Levy},
+  title     = {Comet: An active distributed key-value store},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {323-336},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/FeldmanZFF10,
+  author    = {Ariel J. Feldman and
+               William P. Zeller and
+               Michael J. Freedman and
+               Edward W. Felten},
+  title     = {SPORC: Group Collaboration using Untrusted Cloud Resources},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {337-350},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/KoponenCGSPZRIIHS10,
+  author    = {Teemu Koponen and
+               Martin Casado and
+               Natasha Gude and
+               Jeremy Stribling and
+               Leon Poutievski and
+               Min Zhu and
+               Rajiv Ramanathan and
+               Yuichiro Iwata and
+               Hiroaki Inoue and
+               Takayuki Hama and
+               Scott Shenker},
+  title     = {Onix: A Distributed Control Platform for Large-scale Production Networks},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {351-364},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/SherwoodGYACMP10,
+  author    = {Rob Sherwood and
+               Glen Gibb and
+               Kok-Kiong Yap and
+               Guido Appenzeller and
+               Martin Casado and
+               Nick McKeown and
+               Guru M. Parulkar},
+  title     = {Can the Production Network Be the Testbed?},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {365-378},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/PopaERS10,
+  author    = {Lucian Popa and
+               Norbert Egi and
+               Sylvia Ratnasamy and
+               Ion Stoica},
+  title     = {Building Extensible Networks with Rule-Based Forwarding},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {379-392},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/EnckGCCJMS10,
+  author    = {William Enck and
+               Peter Gilbert and
+               Byung-gon Chun and
+               Landon P. Cox and
+               Jaeyeon Jung and
+               Patrick McDaniel and
+               Anmol Sheth},
+  title     = {TaintDroid: An Information-Flow Tracking System for Realtime Privacy Monitoring on Smartphones},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {393-407},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/HaridasanMTTZ10,
+  author    = {Maya Haridasan and
+               Iqbal Mohomed and
+               Doug Terry and
+               Chandramohan A. Thekkath and
+               Li Zhang},
+  title     = {StarTrack Next Generation: A Scalable Infrastructure for Track-Based Applications},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {409-422},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/Ben-YehudaDDFHGLWY10,
+  author    = {Muli Ben-Yehuda and
+               Michael D. Day and
+               Zvi Dubitzky and
+               Michael Factor and
+               Nadav Har'El and
+               Abel Gordon and
+               Anthony Liguori and
+               Orit Wasserman and
+               Ben-Ami Yassour},
+  title     = {The Turtles Project: Design and Implementation of Nested Virtualization},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {423-436},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/GulatiMV10,
+  author    = {Ajay Gulati and
+               Arif Merchant and
+               Peter J. Varman},
+  title     = {mClock: Handling Throughput Variability for Hypervisor IO Scheduling},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {437-450},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/BroomheadCRV10,
+  author    = {Timothy Broomhead and
+               Laurence Cremean and
+               Julien Ridoux and
+               Darryl Veitch},
+  title     = {Virtualize Everything but Time},
+  booktitle = osdi,
+  year      = 2010,
+  pages     = {451-464},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/YuIFBEGC08,
+  author    = {Yuan Yu and
+               Michael Isard and
+               Dennis Fetterly and
+               Mihai Budiu and
+               {\'U}lfar Erlingsson and
+               Pradeep Kumar Gunda and
+               Jon Currey},
+  title     = {DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {1-14},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/NarayananDTER08,
+  author    = {Dushyanth Narayanan and
+               Austin Donnelly and
+               Eno Thereska and
+               Sameh Elnikety and
+               Antony I. T. Rowstron},
+  title     = {Everest: Scaling Down Peak Loads Through I/O Off-Loading},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {15-28},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ZahariaKJKS08,
+  author    = {Matei Zaharia and
+               Andy Konwinski and
+               Anthony D. Joseph and
+               Randy H. Katz and
+               Ion Stoica},
+  title     = {Improving MapReduce Performance in Heterogeneous Environments},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {29-42},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/Boyd-WickizerCCMKMPSWDZZ08,
+  author    = {Silas Boyd-Wickizer and
+               Haibo Chen and
+               Rong Chen and
+               Yandong Mao and
+               M. Frans Kaashoek and
+               Robert Morris and
+               Aleksey Pesterev and
+               Lex Stein and
+               Ming Wu and
+               Yue-hua Dai and
+               Yang Zhang and
+               Zheng Zhang},
+  title     = {Corey: An Operating System for Many Cores},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {43-57},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/DavidCCC08,
+  author    = {Francis M. David and
+               Ellick Chan and
+               Jeffrey C. Carlyle and
+               Roy H. Campbell},
+  title     = {CuriOS: Improving Reliability through Operating System Structure},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {59-72},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/YangLBKM08,
+  author    = {Ting Yang and
+               Tongping Liu and
+               Emery D. Berger and
+               Scott F. Kaplan and
+               J. Eliot B. Moss},
+  title     = {Redline: First Class Support for Interactivity in Commodity Operating Systems},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {73-86},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/JainMKYDZ08,
+  author    = {Navendu Jain and
+               Prince Mahajan and
+               Dmitry Kit and
+               Praveen Yalagandula and
+               Michael Dahlin and
+               Yin Zhang},
+  title     = {Network Imprecision: A New Consistency Metric for Scalable Monitoring},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {87-102},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/BhatiaKFP08,
+  author    = {Sapan Bhatia and
+               Abhishek Kumar and
+               Marc E. Fiuczynski and
+               Larry L. Peterson},
+  title     = {Lightweight, High-Resolution Monitoring for Troubleshooting Production Systems},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {103-116},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ChenZMB08,
+  author    = {Xu Chen and
+               Ming Zhang and
+               Zhuoqing Morley Mao and
+               Paramvir Bahl},
+  title     = {Automating Network Application Dependency Discovery: Experiences, Limitations, and New Solutions},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {117-130},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/GunawiRAA08,
+  author    = {Haryadi S. Gunawi and
+               Abhishek Rajimwale and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {SQCK: A Declarative File System Checker},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {131-146},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/PrabhakaranRZ08,
+  author    = {Vijayan Prabhakaran and
+               Thomas L. Rodeheffer and
+               Lidong Zhou},
+  title     = {Transactional Flash},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {147-160},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/AnandSKPAAAB08,
+  author    = {Ashok Anand and
+               Sayandeep Sen and
+               Andrew Krioukov and
+               Florentina I. Popovici and
+               Aditya Akella and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Suman Banerjee},
+  title     = {Avoiding File System Micromanagement with Range Writes},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {161-176},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/BansalA08,
+  author    = {Sorav Bansal and
+               Alex Aiken},
+  title     = {Binary Translation Using Peephole Superoptimizers},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {177-192},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/GuoWTLXWKZ08,
+  author    = {Zhenyu Guo and
+               Xi Wang and
+               Jian Tang and
+               Xuezheng Liu and
+               Zhilei Xu and
+               Ming Wu and
+               M. Frans Kaashoek and
+               Zheng Zhang},
+  title     = {R2: An Application-Level Kernel for Record and Replay},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {193-208},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/CadarDE08,
+  author    = {Cristian Cadar and
+               Daniel Dunbar and
+               Dawson R. Engler},
+  title     = {KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {209-224},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ZeldovichKDK08,
+  author    = {Nickolai Zeldovich and
+               Hari Kannan and
+               Michael Dalton and
+               Christos Kozyrakis},
+  title     = {Hardware Enforcement of Application Security Policies Using Tagged Memory},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {225-240},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/WilliamsRWSS08,
+  author    = {Dan Williams and
+               Patrick Reynolds and
+               Kevin Walsh and
+               Emin G{\"u}n Sirer and
+               Fred B. Schneider},
+  title     = {Device Driver Safety Through a Reference Validation Mechanism},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {241-254},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/CozzieSXK08,
+  author    = {Anthony Cozzie and
+               Frank Stratton and
+               Hui Xue and
+               Samuel T. King},
+  title     = {Digging for Data Structures},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {255-266},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/MusuvathiQBBNN08,
+  author    = {Madanlal Musuvathi and
+               Shaz Qadeer and
+               Thomas Ball and
+               G{\'e}rard Basler and
+               Piramanayagam Arumuga Nainar and
+               Iulian Neamtiu},
+  title     = {Finding and Reproducing Heisenbugs in Concurrent Programs},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {267-280},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/WangKKLM08,
+  author    = {Yin Wang and
+               Terence Kelly and
+               Manjunath Kudlur and
+               St{\'e}phane Lafortune and
+               Scott A. Mahlke},
+  title     = {Gadara: Dynamic Deadlock Avoidance for Multithreaded Programs},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {281-294},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/JulaTZC08,
+  author    = {Horatiu Jula and
+               Daniel M. Tralamazza and
+               Cristian Zamfir and
+               George Candea},
+  title     = {Deadlock Immunity: Enabling Systems to Defend Against Deadlocks},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {295-308},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/GuptaLVSSVVV08,
+  author    = {Diwaker Gupta and
+               Sangmin Lee and
+               Michael Vrable and
+               Stefan Savage and
+               Alex C. Snoeren and
+               George Varghese and
+               Geoffrey M. Voelker and
+               Amin Vahdat},
+  title     = {Difference Engine: Harnessing Memory Redundancy in Virtual Machines},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {309-322},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/FonsecaDLS08,
+  author    = {Rodrigo Fonseca and
+               Prabal Dutta and
+               Philip Levis and
+               Ion Stoica},
+  title     = {Quanto: Tracking Energy in Networked Embedded Systems},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {323-338},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/DouceurEHL08,
+  author    = {John R. Douceur and
+               Jeremy Elson and
+               Jon Howell and
+               Jacob R. Lorch},
+  title     = {Leveraging Legacy Code to Deploy Desktop Applications on the Web},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {339-354},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/LiCMKRAD08,
+  author    = {Harry C. Li and
+               Allen Clement and
+               Mirco Marchetti and
+               Manos Kapritsos and
+               Luke Robison and
+               Lorenzo Alvisi and
+               Michael Dahlin},
+  title     = {FlightPath: Obedience vs. Choice in Cooperative Services},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {355-368},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/MaoJM08,
+  author    = {Yanhua Mao and
+               Flavio Paiva Junqueira and
+               Keith Marzullo},
+  title     = {Mencius: Building Efficient Replicated State Machine for WANs},
+  booktitle = osdi,
+  year      = 2008,
+  pages     = {369-384},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/NightingaleVCF06,
+  author    = {Edmund B. Nightingale and
+               Kaushik Veeraraghavan and
+               Peter M. Chen and
+               Jason Flinn},
+  title     = {Rethink the Sync},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {1-14},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/SivathanuSZ06,
+  author    = {Gopalan Sivathanu and
+               Swaminathan Sundararaman and
+               Erez Zadok},
+  title     = {Type-Safe Disks},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {15-28},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/SearsB06,
+  author    = {Russell Sears and
+               Eric A. Brewer},
+  title     = {Stasis: Flexible Transactional Storage},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {29-44},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ZhouCABEHNB06,
+  author    = {Feng Zhou and
+               Jeremy Condit and
+               Zachary R. Anderson and
+               Ilya Bagrak and
+               Robert Ennals and
+               Matthew Harren and
+               George C. Necula and
+               Eric A. Brewer},
+  title     = {SafeDrive: Safe and Recoverable Extensions Using Language-Based Techniques},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {45-60},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ReisDWDE06,
+  author    = {Charles Reis and
+               John Dunagan and
+               Helen J. Wang and
+               Opher Dubrovsky and
+               Saher Esmeir},
+  title     = {BrowserShield: Vulnerability-Driven Filtering of Dynamic HTML},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {61-74},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ErlingssonAVBN06,
+  author    = {{\'U}lfar Erlingsson and
+               Mart{\'\i}n Abadi and
+               Michael Vrable and
+               Mihai Budiu and
+               George C. Necula},
+  title     = {XFI: Software Guards for System Address Spaces},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {75-88},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/JoukovTIWZ06,
+  author    = {Nikolai Joukov and
+               Avishay Traeger and
+               Rakesh Iyer and
+               Charles P. Wright and
+               Erez Zadok},
+  title     = {Operating System Profiling via Latency Analysis},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {89-102},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/YangBKM06,
+  author    = {Ting Yang and
+               Emery D. Berger and
+               Scott F. Kaplan and
+               J. Eliot B. Moss},
+  title     = {CRAMM: Virtual Memory Support for Garbage-Collected Applications},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {103-116},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/VerbowskiKKDLLWR06,
+  author    = {Chad Verbowski and
+               Emre Kiciman and
+               Arunvijay Kumar and
+               Brad Daniels and
+               Shan Lu and
+               Juhan Lee and
+               Yi-Min Wang and
+               Roussi Roussev},
+  title     = {Flight Data Recorder: Monitoring Persistent-State Interactions to Improve Systems Management},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {117-130},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/YangSE06,
+  author    = {Junfeng Yang and
+               Can Sar and
+               Dawson R. Engler},
+  title     = {EXPLODE: A Lightweight, General System for Finding Serious Storage System Errors},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {131-146},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/CastroCH06,
+  author    = {Miguel Castro and
+               Manuel Costa and
+               Timothy L. Harris},
+  title     = {Securing Software by Enforcing Data-flow Integrity},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {147-160},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/KremenekTBNE06,
+  author    = {Ted Kremenek and
+               Paul Twohey and
+               Godmar Back and
+               Andrew Y. Ng and
+               Dawson R. Engler},
+  title     = {From Uncertainty to Belief: Inferring the Specification Within},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {161-176},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/CowlingMLRS06,
+  author    = {James A. Cowling and
+               Daniel S. Myers and
+               Barbara Liskov and
+               Rodrigo Rodrigues and
+               Liuba Shrira},
+  title     = {HQ Replication: A Hybrid Quorum Protocol for Byzantine Fault Tolerance},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {177-190},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/LiCWNRAD06,
+  author    = {Harry C. Li and
+               Allen Clement and
+               Edmund L. Wong and
+               Jeff Napper and
+               Indrajit Roy and
+               Lorenzo Alvisi and
+               Michael Dahlin},
+  title     = {BAR Gossip},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {191-204},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ChangDGHWBCFG06,
+  author    = {Fay Chang and
+               Jeffrey Dean and
+               Sanjay Ghemawat and
+               Wilson C. Hsieh and
+               Deborah A. Wallach and
+               Michael Burrows and
+               Tushar Chandra and
+               Andrew Fikes and
+               Robert Gruber},
+  title     = {Bigtable: A Distributed Storage System for Structured Data},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {205-218},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/PeekF06,
+  author    = {Daniel Peek and
+               Jason Flinn},
+  title     = {EnsemBlue: Integrating Distributed Storage and Consumer Electronics},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {219-232},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/FordSLRKM06,
+  author    = {Bryan Ford and
+               Jacob Strauss and
+               Chris Lesniewski-Laas and
+               Sean C. Rhea and
+               M. Frans Kaashoek and
+               Robert Morris},
+  title     = {Persistent Personal Names for Globally Connected Mobile Devices},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {233-248},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/EeFKMTCSS06,
+  author    = {Cheng Tien Ee and
+               Rodrigo Fonseca and
+               Sukun Kim and
+               Daekyeong Moon and
+               Arsalan Tavakoli and
+               David E. Culler and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {A Modular Network Layer for Sensornets},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {249-262},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ZeldovichBKM06,
+  author    = {Nickolai Zeldovich and
+               Silas Boyd-Wickizer and
+               Eddie Kohler and
+               David Mazi{\`e}res},
+  title     = {Making Information Flow Explicit in HiStar},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {263-278},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/Ta-MinLL06,
+  author    = {Richard Ta-Min and
+               Lionel Litty and
+               David Lie},
+  title     = {Splitting Interfaces: Making Trust Between Applications and Operating Systems Configurable},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {279-292},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/KimR06,
+  author    = {Hyong-youb Kim and
+               Scott Rixner},
+  title     = {Connection Handoff Policies for TCP Offload Network Interfaces},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {293-306},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/WeilBMLM06,
+  author    = {Sage A. Weil and
+               Scott A. Brandt and
+               Ethan L. Miller and
+               Darrell D. E. Long and
+               Carlos Maltzahn},
+  title     = {Ceph: A Scalable, High-Performance Distributed File System},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {307-320},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/DouceurH06,
+  author    = {John R. Douceur and
+               Jon Howell},
+  title     = {Distributed Directory Service in the Farsite File System},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {321-334},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/Burrows06,
+  author    = {Michael Burrows},
+  title     = {The Chubby Lock Service for Loosely-Coupled Distributed Systems},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {335-350},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/PetersonBFM06,
+  author    = {Larry L. Peterson and
+               Andy C. Bavier and
+               Marc E. Fiuczynski and
+               Steve Muir},
+  title     = {Experiences Building PlanetLab},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {351-366},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/MadhyasthaIPDAKV06,
+  author    = {Harsha V. Madhyastha and
+               Tomas Isdal and
+               Michael Piatek and
+               Colin Dixon and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy and
+               Arun Venkataramani},
+  title     = {iPlane: An Information Plane for Distributed Services},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {367-380},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/Werner-AllenLJLW06,
+  author    = {Geoffrey Werner-Allen and
+               Konrad Lorincz and
+               Jeff Johnson and
+               Jonathan Lees and
+               Matt Welsh},
+  title     = {Fidelity and Yield in a Volcano Monitoring Sensor Network},
+  booktitle = osdi,
+  year      = 2006,
+  pages     = {381-396},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/SwiftABL04,
+  author    = {Michael M. Swift and
+               Muthukaruppan Annamalai and
+               Brian N. Bershad and
+               Henry M. Levy},
+  title     = {Recovering Device Drivers},
+  booktitle = osdi,
+  year      = 2004,
+  pages     = {1-16},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
 @inproceedings{DBLP:conf/osdi/LevasseurUSG04,
   author    = {Joshua LeVasseur and
                Volkmar Uhlig and
                Jan Stoess and
                Stefan G{\"o}tz},
-  title     = {Unmodified Device Driver Reuse and Improved System Dependability
-               via Virtual Machines},
+  title     = {Unmodified Device Driver Reuse and Improved System Dependability via Virtual Machines},
   booktitle = osdi,
   year      = 2004,
   pages     = {17-30},
-  ee        = {http://www.usenix.org/events/osdi04/tech/levasseur.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -24,7 +1122,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {31-44},
-  ee        = {http://www.usenix.org/events/osdi04/tech/candea.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -37,7 +1134,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {45-60},
-  ee        = {http://www.usenix.org/events/osdi04/tech/singh.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -47,12 +1143,10 @@
                Ricardo Bianchini and
                Richard P. Martin and
                Thu D. Nguyen},
-  title     = {Understanding and Dealing with Operator Mistakes in Internet
-               Services},
+  title     = {Understanding and Dealing with Operator Mistakes in Internet Services},
   booktitle = osdi,
   year      = 2004,
   pages     = {61-76},
-  ee        = {http://www.usenix.org/events/osdi04/tech/naragaraja.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -60,12 +1154,10 @@
   author    = {Andrew Whitaker and
                Richard S. Cox and
                Steven D. Gribble},
-  title     = {Configuration Debugging as Search: Finding the Needle in
-               the Haystack},
+  title     = {Configuration Debugging as Search: Finding the Needle in the Haystack},
   booktitle = osdi,
   year      = 2004,
   pages     = {77-90},
-  ee        = {http://www.usenix.org/events/osdi04/tech/whitaker.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -76,7 +1168,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {91-104},
-  ee        = {http://www.usenix.org/events/osdi04/tech/renesse.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -90,7 +1181,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {105-120},
-  ee        = {http://www.usenix.org/events/osdi04/tech/maccormick.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -103,7 +1193,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {121-136},
-  ee        = {http://www.usenix.org/events/osdi04/tech/li_j.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -114,7 +1203,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {137-150},
-  ee        = {http://www.usenix.org/events/osdi04/tech/dean.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -129,7 +1217,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {151-166},
-  ee        = {http://www.usenix.org/events/osdi04/tech/dunagan.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -139,12 +1226,10 @@
                Vivek S. Pai and
                Larry L. Peterson and
                Randolph Y. Wang},
-  title     = {PlanetSeer: Internet Path Failure Monitoring and Characterization
-               in Wide-Area Services},
+  title     = {PlanetSeer: Internet Path Failure Monitoring and Characterization in Wide-Area Services},
   booktitle = osdi,
   year      = 2004,
   pages     = {167-182},
-  ee        = {http://www.usenix.org/events/osdi04/tech/zhang.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -154,12 +1239,10 @@
                Steven D. Gribble and
                Henry M. Levy and
                David Wetherall},
-  title     = {Improving the Reliability of Internet Paths with One-hop
-               Source Routing},
+  title     = {Improving the Reliability of Internet Paths with One-hop Source Routing},
   booktitle = osdi,
   year      = 2004,
   pages     = {183-198},
-  ee        = {http://www.usenix.org/events/osdi04/tech/gummadi.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -168,12 +1251,10 @@
                Vivek S. Pai and
                Larry L. Peterson and
                Zhe Wang},
-  title     = {CoDNS: Improving DNS Performance and Reliability via Cooperative
-               Lookups},
+  title     = {CoDNS: Improving DNS Performance and Reliability via Cooperative Lookups},
   booktitle = osdi,
   year      = 2004,
   pages     = {199-214},
-  ee        = {http://www.usenix.org/events/osdi04/tech/park.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -188,7 +1269,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {215-230},
-  ee        = {http://www.usenix.org/events/osdi04/tech/walfish.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -198,12 +1278,10 @@
                Mois{\'e}s Goldszmidt and
                Terence Kelly and
                Julie Symons},
-  title     = {Correlating Instrumentation Data to System States: A Building
-               Block for Automated Diagnosis and Control},
+  title     = {Correlating Instrumentation Data to System States: A Building Block for Automated Diagnosis and Control},
   booktitle = osdi,
   year      = 2004,
   pages     = {231-244},
-  ee        = {http://www.usenix.org/events/osdi04/tech/cohen.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -217,12 +1295,11 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {245-258},
-  ee        = {http://www.usenix.org/events/osdi04/tech/wang.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/osdi/BarhamDIM04,
-  author    = {Paul T. Barham and
+  author    = {Paul Barham and
                Austin Donnelly and
                Rebecca Isaacs and
                Richard Mortier},
@@ -230,7 +1307,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {259-272},
-  ee        = {http://www.usenix.org/events/osdi04/tech/barham.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -239,12 +1315,10 @@
                Paul Twohey and
                Dawson R. Engler and
                Madanlal Musuvathi},
-  title     = {Using Model Checking to Find Serious File System Errors
-               (Awarded Best Paper!)},
+  title     = {Using Model Checking to Find Serious File System Errors},
   booktitle = osdi,
   year      = 2004,
   pages     = {273-288},
-  ee        = {http://www.usenix.org/events/osdi04/tech/yang.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -253,12 +1327,10 @@
                Shan Lu and
                Suvda Myagmar and
                Yuanyuan Zhou},
-  title     = {CP-Miner: A Tool for Finding Copy-paste and Related Bugs
-               in Operating System Code},
+  title     = {CP-Miner: A Tool for Finding Copy-paste and Related Bugs in Operating System Code},
   booktitle = osdi,
   year      = 2004,
   pages     = {289-302},
-  ee        = {http://www.usenix.org/events/osdi04/tech/li_z.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -269,12 +1341,10 @@
                Daniel M. Roy and
                Tudor Leu and
                William S. Beebee},
-  title     = {Enhancing Server Availability and Security Through Failure-Oblivious
-               Computing},
+  title     = {Enhancing Server Availability and Security Through Failure-Oblivious Computing},
   booktitle = osdi,
   year      = 2004,
   pages     = {303-316},
-  ee        = {http://www.usenix.org/events/osdi04/tech/rinard.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -286,7 +1356,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {317-332},
-  ee        = {http://www.usenix.org/events/osdi04/tech/gunawi.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -294,12 +1363,10 @@
   author    = {David P. Olshefski and
                Jason Nieh and
                Erich M. Nahum},
-  title     = {ksniffer: Determining the Remote Client Perceived Response
-               Time from Live Packet Streams},
+  title     = {ksniffer: Determining the Remote Client Perceived Response Time from Live Packet Streams},
   booktitle = osdi,
   year      = 2004,
   pages     = {333-346},
-  ee        = {http://www.usenix.org/events/osdi04/tech/olshefski.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -313,19 +1380,16 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {347-363},
-  ee        = {http://www.usenix.org/events/osdi04/tech/bos.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/osdi/NightingaleF04,
   author    = {Edmund B. Nightingale and
                Jason Flinn},
-  title     = {Energy-Efficiency and Storage Flexibility in the Blue File
-               System},
+  title     = {Energy-Efficiency and Storage Flexibility in the Blue File System},
   booktitle = osdi,
   year      = 2004,
   pages     = {363-378},
-  ee        = {http://www.usenix.org/events/osdi04/tech/nightingale.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -338,7 +1402,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {379-394},
-  ee        = {http://www.usenix.org/events/osdi04/tech/sivathanu.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -350,7 +1413,6 @@
   booktitle = osdi,
   year      = 2004,
   pages     = {395-408},
-  ee        = {http://www.usenix.org/events/osdi04/tech/gnaidy.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -365,83 +1427,53 @@
                Jacob R. Lorch and
                Marvin Theimer and
                Roger Wattenhofer},
-  title     = {FARSITE: Federated, Available, and Reliable Storage for
-               an Incompletely Trusted Environment},
+  title     = {FARSITE: Federated, Available, and Reliable Storage for an Incompletely Trusted Environment},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/adya.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
-@inproceedings{DBLP:conf/osdi/SaitoKKM02,
-  author    = {Yasushi Saito and
-               Christos T. Karamanolis and
-               Magnus Karlsson and
-               Mallik Mahalingam},
-  title     = {Taming Aggressive Replication in the Pangaea Wide-Area File
-               System},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/saito.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/MuthitacharoenMGC02,
-  author    = {Athicha Muthitacharoen and
-               Robert Morris and
-               Thomer M. Gil and
-               Benjie Chen},
-  title     = {Ivy: A Read/Write Peer-to-Peer File System},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/muthitacharoen.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/QiePP02,
-  author    = {Xiaohu Qie and
-               Ruoming Pang and
-               Larry L. Peterson},
-  title     = {Defensive Programming: Using an Annotation Toolkit to Build
-               DoS-Resistant Software},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/qie.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/KumarL02,
-  author    = {Sanjeev Kumar and
-               Kai Li},
-  title     = {Using Model Checking to Debug Device Firmware},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/kumar.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/MusuvathiPCED02,
-  author    = {Madanlal Musuvathi and
-               David Y. W. Park and
-               Andy Chou and
-               Dawson R. Engler and
-               David L. Dill},
-  title     = {CMC: A Pragmatic Approach to Model Checking Real Code},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/musuvathi.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/NavarroIDC02,
-  author    = {Juan Navarro and
-               Sitaram Iyer and
+@inproceedings{DBLP:conf/osdi/CastroDGRW02,
+  author    = {Miguel Castro and
                Peter Druschel and
-               Alan L. Cox},
-  title     = {Practical, Transparent Operating System Support for Superpages},
+               Ayalvadi J. Ganesh and
+               Antony I. T. Rowstron and
+               Dan S. Wallach},
+  title     = {Secure Routing for Structured Peer-to-Peer Overlay Networks},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/navarro.html},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/CoxMN02,
+  author    = {Landon P. Cox and
+               Christopher D. Murray and
+               Brian D. Noble},
+  title     = {Pastiche: Making Backup Cheap and Easy},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/DunlapKCBC02,
+  author    = {George W. Dunlap and
+               Samuel T. King and
+               Sukru Cinar and
+               Murtaza A. Basrai and
+               Peter M. Chen},
+  title     = {ReVirt: Enabling Intrusion Analysis Through Virtual-Machine Logging and Replay},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/ElsonGE02,
+  author    = {Jeremy Elson and
+               Lewis Girod and
+               Deborah Estrin},
+  title     = {Fine-Grained Network Time Synchronization Using Reference Broadcasts},
+  booktitle = osdi,
+  year      = 2002,
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -451,43 +1483,6 @@
   title     = {Vertigo: Automatic Performance-Setting for Linux},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/flautner.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/WeisselBB02,
-  author    = {Andreas Weissel and
-               Bj{\'o}rn Beutel and
-               Frank Bellosa},
-  title     = {Cooperative I/O: A Novel I/O Semantics for Energy-Aware
-               Applications},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/weissel.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/MaddenFHH02,
-  author    = {Samuel Madden and
-               Michael J. Franklin and
-               Joseph M. Hellerstein and
-               Wei Hong},
-  title     = {TAG: A Tiny AGgregation Service for Ad-Hoc Sensor Networks},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/madden.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/ElsonGE02,
-  author    = {Jeremy Elson and
-               Lewis Girod and
-               Deborah Estrin},
-  title     = {Fine-Grained Network Time Synchronization Using Reference
-               Broadcasts},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/elson.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -500,41 +1495,126 @@
   title     = {Supporting Time-Sensitive Applications on a Commodity OS},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/goel.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
-@inproceedings{DBLP:conf/osdi/Waldspurger02,
-  author    = {Carl A. Waldspurger},
-  title     = {Memory Resource Management in VMware ESX Server},
+@inproceedings{DBLP:conf/osdi/HawblitzelE02,
+  author    = {Chris Hawblitzel and
+               Thorsten von Eicken},
+  title     = {Luna: A Flexible Java Protection System},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/waldspurger.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
-@inproceedings{DBLP:conf/osdi/WhitakerSG02,
-  author    = {Andrew Whitaker and
-               Marianne Shaw and
-               Steven D. Gribble},
-  title     = {Scale and Performance in the Denali Isolation Kernel},
+@inproceedings{DBLP:conf/osdi/KumarL02,
+  author    = {Sanjeev Kumar and
+               Kai Li},
+  title     = {Using Model Checking to Debug Device Firmware},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/whitaker.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
-@inproceedings{DBLP:conf/osdi/DunlapKCBC02,
-  author    = {George W. Dunlap and
-               Samuel T. King and
-               Sukru Cinar and
-               Murtaza A. Basrai and
-               Peter M. Chen},
-  title     = {ReVirt: Enabling Intrusion Analysis Through Virtual-Machine
-               Logging and Replay},
+@inproceedings{DBLP:conf/osdi/MaddenFHH02,
+  author    = {Samuel Madden and
+               Michael J. Franklin and
+               Joseph M. Hellerstein and
+               Wei Hong},
+  title     = {TAG: A Tiny AGgregation Service for Ad-Hoc Sensor Networks},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/dunlap.html},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/MusuvathiPCED02,
+  author    = {Madanlal Musuvathi and
+               David Y. W. Park and
+               Andy Chou and
+               Dawson R. Engler and
+               David L. Dill},
+  title     = {CMC: A Pragmatic Approach to Model Checking Real Code},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/MuthitacharoenMGC02,
+  author    = {Athicha Muthitacharoen and
+               Robert Morris and
+               Thomer M. Gil and
+               Benjie Chen},
+  title     = {Ivy: A Read/Write Peer-to-Peer File System},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/NavarroIDC02,
+  author    = {Juan Navarro and
+               Sitaram Iyer and
+               Peter Druschel and
+               Alan L. Cox},
+  title     = {Practical, Transparent Operating System Support for Superpages},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/OsmanSSN02,
+  author    = {Steven Osman and
+               Dinesh Subhraveti and
+               Gong Su and
+               Jason Nieh},
+  title     = {The Design and Implementation of Zap: A System for Migrating Computing Environments},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/QiePP02,
+  author    = {Xiaohu Qie and
+               Ruoming Pang and
+               Larry L. Peterson},
+  title     = {Defensive Programming: Using an Annotation Toolkit to Build DoS-Resistant Software},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/SaitoKKM02,
+  author    = {Yasushi Saito and
+               Christos T. Karamanolis and
+               Magnus Karlsson and
+               Mallik Mahalingam},
+  title     = {Taming Aggressive Replication in the Pangaea Wide-Area File System},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/SapuntzakisCPCLR02,
+  author    = {Constantine P. Sapuntzakis and
+               Ramesh Chandra and
+               Ben Pfaff and
+               Jim Chow and
+               Monica S. Lam and
+               Mendel Rosenblum},
+  title     = {Optimizing the Migration of Virtual Computers},
+  booktitle = osdi,
+  year      = 2002,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/SaroiuGDGL02,
+  author    = {Stefan Saroiu and
+               P. Krishna Gummadi and
+               Richard J. Dunn and
+               Steven D. Gribble and
+               Henry M. Levy},
+  title     = {An Analysis of Internet Content Delivery Systems},
+  booktitle = osdi,
+  year      = 2002,
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -543,11 +1623,9 @@
                Hong Tang and
                Tao Yang and
                Lingkun Chu},
-  title     = {Integrated Resource Management for Cluster-based Internet
-               Services},
+  title     = {Integrated Resource Management for Cluster-based Internet Services},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/shen.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -555,29 +1633,9 @@
   author    = {Bhuvan Urgaonkar and
                Prashant J. Shenoy and
                Timothy Roscoe},
-  title     = {Resource Overbooking and Application Profiling in Shared
-               Hosting Platforms},
+  title     = {Resource Overbooking and Application Profiling in Shared Hosting Platforms},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/urgaonkar.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/WhiteLSRGNHBJ02,
-  author    = {Brian White and
-               Jay Lepreau and
-               Leigh Stoller and
-               Robert Ricci and
-               Shashi Guruprasad and
-               Mac Newbold and
-               Mike Hibler and
-               Chad Barb and
-               Abhijeet Joglekar},
-  title     = {An Integrated Experimental Environment for Distributed Systems
-               and Networks},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/white.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -592,44 +1650,6 @@
   title     = {Scalability and Accuracy in a Large-Scale Network Emulator},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/vahdat.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/CoxMN02,
-  author    = {Landon P. Cox and
-               Christopher D. Murray and
-               Brian D. Noble},
-  title     = {Pastiche: Making Backup Cheap and Easy},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/cox.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/CastroDGRW02,
-  author    = {Miguel Castro and
-               Peter Druschel and
-               Ayalvadi J. Ganesh and
-               Antony I. T. Rowstron and
-               Dan S. Wallach},
-  title     = {Secure Routing for Structured Peer-to-Peer Overlay Networks},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/castro.html},
-  bibsource = {DBLP, http://dblp.uni-trier.de}
-}
-
-@inproceedings{DBLP:conf/osdi/SaroiuGDGL02,
-  author    = {Stefan Saroiu and
-               P. Krishna Gummadi and
-               Richard J. Dunn and
-               Steven D. Gribble and
-               Henry M. Levy},
-  title     = {An Analysis of Internet Content Delivery Systems},
-  booktitle = osdi,
-  year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/saroiu.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -640,7 +1660,14 @@
   title     = {TCP Nice: A Mechanism for Background Transfers},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/venkataramani.html},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/osdi/Waldspurger02,
+  author    = {Carl A. Waldspurger},
+  title     = {Memory Resource Management in VMware ESX Server},
+  booktitle = osdi,
+  year      = 2002,
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -651,44 +1678,42 @@
   title     = {The Effectiveness of Request Redirection on CDN Robustness},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/wang.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
-@inproceedings{DBLP:conf/osdi/OsmanSSN02,
-  author    = {Steven Osman and
-               Dinesh Subhraveti and
-               Gong Su and
-               Jason Nieh},
-  title     = {The Design and Implementation of Zap: A System for Migrating
-               Computing Environments},
+@inproceedings{DBLP:conf/osdi/WeisselBB02,
+  author    = {Andreas Weissel and
+               Bj{\'o}rn Beutel and
+               Frank Bellosa},
+  title     = {Cooperative I/O: A Novel I/O Semantics for Energy-Aware Applications},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/osman.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
-@inproceedings{DBLP:conf/osdi/SapuntzakisCPCLR02,
-  author    = {Constantine P. Sapuntzakis and
-               Ramesh Chandra and
-               Ben Pfaff and
-               Jim Chow and
-               Monica S. Lam and
-               Mendel Rosenblum},
-  title     = {Optimizing the Migration of Virtual Computers},
+@inproceedings{DBLP:conf/osdi/WhitakerSG02,
+  author    = {Andrew Whitaker and
+               Marianne Shaw and
+               Steven D. Gribble},
+  title     = {Scale and Performance in the Denali Isolation Kernel},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/sapuntzakis.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
-@inproceedings{DBLP:conf/osdi/HawblitzelE02,
-  author    = {Chris Hawblitzel and
-               Thorsten von Eicken},
-  title     = {Luna: A Flexible Java Protection System},
+@inproceedings{DBLP:conf/osdi/WhiteLSRGNHBJ02,
+  author    = {Brian White and
+               Jay Lepreau and
+               Leigh Stoller and
+               Robert Ricci and
+               Shashi Guruprasad and
+               Mac Newbold and
+               Mike Hibler and
+               Chad Barb and
+               Abhijeet Joglekar},
+  title     = {An Integrated Experimental Environment for Distributed Systems and Networks},
   booktitle = osdi,
   year      = 2002,
-  ee        = {http://www.usenix.org/events/osdi02/tech/hawblitzel.html},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -697,8 +1722,7 @@
                Benjamin Chelf and
                Andy Chou and
                Seth Hallem},
-  title     = {Checking System Rules Using System-Specific, Programmer-Written
-               Compiler Extensions},
+  title     = {Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions},
   booktitle = osdi,
   year      = 2000,
   pages     = {1-16},
@@ -721,8 +1745,7 @@
 @inproceedings{DBLP:conf/osdi/BrownM00,
   author    = {Angela Demke Brown and
                Todd C. Mowry},
-  title     = {Taming the Memory Hogs: Using Compiler-Inserted Releases
-               to Manage Physical Memory Intelligently},
+  title     = {Taming the Memory Hogs: Using Compiler-Inserted Releases to Manage Physical Memory Intelligently},
   booktitle = osdi,
   year      = 2000,
   pages     = {31-44},
@@ -734,8 +1757,7 @@
                Micah Adler and
                Pawan Goyal and
                Prashant J. Shenoy},
-  title     = {Surplus Fair Scheduling: A Proportional-Share CPU Scheduling
-               Algorithm for Symmetric Multiprocessors},
+  title     = {Surplus Fair Scheduling: A Proportional-Share CPU Scheduling Algorithm for Symmetric Multiprocessors},
   booktitle = osdi,
   year      = 2000,
   pages     = {45-58},
@@ -772,8 +1794,7 @@
                Gregory R. Ganger and
                David Nagle and
                Erik Riedel},
-  title     = {Towards Higher Disk Head Utilization: Extracting "Free"
-               Bandwidth from Busy Disk Drives},
+  title     = {Towards Higher Disk Head Utilization: Extracting "Free" Bandwidth from Busy Disk Drives},
   booktitle = osdi,
   year      = 2000,
   pages     = {87-102},
@@ -798,8 +1819,7 @@
                Sang Lyul Min and
                Yookun Cho and
                Chong-Sang Kim},
-  title     = {A Low-Overhead, High-Performance Unified Buffer Management
-               Scheme That Exploits Sequential and Looping References},
+  title     = {A Low-Overhead, High-Performance Unified Buffer Management Scheme That Exploits Sequential and Looping References},
   booktitle = osdi,
   year      = 2000,
   pages     = {119-134},
@@ -856,7 +1876,7 @@
                David K. Gifford and
                Kirk L. Johnson and
                M. Frans Kaashoek and
-               James O'Toole Jr},
+               James O'Toole Jr.},
   title     = {Overcast: Reliable Multicasting with an Overlay Network},
   booktitle = osdi,
   year      = 2000,
@@ -870,8 +1890,7 @@
                Dorothy Curtis and
                Srinivasan Seshan and
                Hari Balakrishnan},
-  title     = {System Support for Bandwidth Management and Content Adaptation
-               in Internet Applications},
+  title     = {System Support for Bandwidth Management and Content Adaptation in Internet Applications},
   booktitle = osdi,
   year      = 2000,
   pages     = {213-226},
@@ -930,8 +1949,7 @@
   author    = {David E. Lowell and
                Subhachandra Chandra and
                Peter M. Chen},
-  title     = {Exploring Failure Transparency and the Limits of Generic
-               Recovery},
+  title     = {Exploring Failure Transparency and the Limits of Generic Recovery},
   booktitle = osdi,
   year      = 2000,
   pages     = {289-304},
@@ -941,8 +1959,7 @@
 @inproceedings{DBLP:conf/osdi/YuV00,
   author    = {Haifeng Yu and
                Amin Vahdat},
-  title     = {Design and Evaluation of a Continuous Consistency Model
-               for Replicated Services},
+  title     = {Design and Evaluation of a Continuous Consistency Model for Replicated Services},
   booktitle = osdi,
   year      = 2000,
   pages     = {305-318},
@@ -954,8 +1971,7 @@
                Eric A. Brewer and
                Joseph M. Hellerstein and
                David E. Culler},
-  title     = {Scalable, Distributed Data Structures for Internet Service
-               Construction},
+  title     = {Scalable, Distributed Data Structures for Internet Service Construction},
   booktitle = osdi,
   year      = 2000,
   pages     = {319-332},
@@ -966,8 +1982,7 @@
   author    = {Godmar Back and
                Wilson C. Hsieh and
                Jay Lepreau},
-  title     = {Processes in KaffeOS: Isolation, Resource Management, and
-               Sharing in Java},
+  title     = {Processes in KaffeOS: Isolation, Resource Management, and Sharing in Java},
   booktitle = osdi,
   year      = 2000,
   pages     = {333-346},
@@ -994,7 +2009,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {1-14},
-  ee        = {http://doi.acm.org/10.1145/296806.296807},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1006,7 +2020,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {15-28},
-  ee        = {http://doi.acm.org/10.1145/296806.296808},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1018,7 +2031,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {29-43},
-  ee        = {http://doi.acm.org/10.1145/296806.296809},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1026,12 +2038,10 @@
   author    = {Gaurav Banga and
                Peter Druschel and
                Jeffrey C. Mogul},
-  title     = {Resource Containers: A New Facility for Resource Management
-               in Server Systems},
+  title     = {Resource Containers: A New Facility for Resource Management in Server Systems},
   booktitle = osdi,
   year      = 1999,
   pages     = {45-58},
-  ee        = {http://doi.acm.org/10.1145/296806.296810},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1042,7 +2052,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {59-72},
-  ee        = {http://doi.acm.org/10.1145/296806.296811},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1052,7 +2061,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {73-86},
-  ee        = {http://doi.acm.org/10.1145/296806.296812},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1061,12 +2069,10 @@
                Orran Krieger and
                Jonathan Appavoo and
                Michael Stumm},
-  title     = {Tornado: Maximizing Locality and Concurrency in a Shared
-               Memory Multiprocessor Operating System},
+  title     = {Tornado: Maximizing Locality and Concurrency in a Shared Memory Multiprocessor Operating System},
   booktitle = osdi,
   year      = 1999,
   pages     = {87-100},
-  ee        = {http://doi.acm.org/10.1145/296806.296814},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1080,30 +2086,25 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {101-115},
-  ee        = {http://doi.acm.org/10.1145/296806.296815},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/osdi/TamchesM99,
   author    = {Ariel Tamches and
                Barton P. Miller},
-  title     = {Fine-Grained Dynamic Instrumentation of Commodity Operating
-               System Kernels},
+  title     = {Fine-Grained Dynamic Instrumentation of Commodity Operating System Kernels},
   booktitle = osdi,
   year      = 1999,
   pages     = {117-130},
-  ee        = {http://doi.acm.org/10.1145/296806.296817},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/osdi/Baker-Harvey99,
   author    = {Miche Baker-Harvey},
-  title     = {ETI Resource Distributor: Guaranteed Resource Allocation
-               and Scheduling in Multimedia Systems},
+  title     = {ETI Resource Distributor: Guaranteed Resource Allocation and Scheduling in Multimedia Systems},
   booktitle = osdi,
   year      = 1999,
   pages     = {131-144},
-  ee        = {http://doi.acm.org/10.1145/296806.296819},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1118,19 +2119,16 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {145-158},
-  ee        = {http://doi.acm.org/10.1145/296806.296820},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/osdi/Cota-RoblesH99,
   author    = {Erik Cota-Robles and
                James P. Held},
-  title     = {A Comparison of Windows Driver Model Latency Performance
-               on Windows NT and Windows 98},
+  title     = {A Comparison of Windows Driver Model Latency Performance on Windows NT and Windows 98},
   booktitle = osdi,
   year      = 1999,
   pages     = {159-172},
-  ee        = {http://doi.acm.org/10.1145/296806.296823},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1141,7 +2139,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {173-186},
-  ee        = {http://doi.acm.org/10.1145/296806.296824},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1152,7 +2149,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {187-200},
-  ee        = {http://doi.acm.org/10.1145/296806.296826},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1162,19 +2158,16 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {201-214},
-  ee        = {http://doi.acm.org/10.1145/296806.296828},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/osdi/ItzkovitzS99,
   author    = {Ayal Itzkovitz and
                Assaf Schuster},
-  title     = {MultiView and Millipage - Fine-Grain Sharing in Page-Based
-               DSMs},
+  title     = {MultiView and Millipage - Fine-Grain Sharing in Page-Based DSMs},
   booktitle = osdi,
   year      = 1999,
   pages     = {215-228},
-  ee        = {http://doi.acm.org/10.1145/296806.296830},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1186,7 +2179,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {229-237},
-  ee        = {http://doi.acm.org/10.1145/296806.296833},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1202,7 +2194,6 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {239-249},
-  ee        = {http://doi.acm.org/10.1145/296806.296835},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
@@ -1214,25 +2205,22 @@
   booktitle = osdi,
   year      = 1999,
   pages     = {251-264},
-  ee        = {http://doi.acm.org/10.1145/296806.296837},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/osdi/GopalM99,
   author    = {Burra Gopal and
                Udi Manber},
-  title     = {Integrating Content-Based Access Mechanisms with Hierarchical
-               File Systems},
+  title     = {Integrating Content-Based Access Mechanisms with Hierarchical File Systems},
   booktitle = osdi,
   year      = 1999,
   pages     = {265-278},
-  ee        = {http://doi.acm.org/10.1145/296806.296838},
   bibsource = {DBLP, http://dblp.uni-trier.de}
 }
 
 @inproceedings{DBLP:conf/osdi/Mitchell96,
   author    = {James G. Mitchell},
-  title     = {JavaOS: Back to the Future (Abstract)},
+  title     = {JavaOS: Back to the Future},
   booktitle = osdi,
   year      = 1996,
   pages     = {1},
@@ -1243,8 +2231,7 @@
   author    = {Todd C. Mowry and
                Angela K. Demke and
                Orran Krieger},
-  title     = {Automatic Compiler-Inserted I/O Prefetching for Out-of-Core
-               Applications},
+  title     = {Automatic Compiler-Inserted I/O Prefetching for Out-of-Core Applications},
   booktitle = osdi,
   year      = 1996,
   pages     = {3-17},
@@ -1261,8 +2248,7 @@
                Garth A. Gibson and
                Anna R. Karlin and
                Kai Li},
-  title     = {A Trace-Driven Comparison of Algorithms for Parallel Prefetching
-               and Caching},
+  title     = {A Trace-Driven Comparison of Algorithms for Parallel Prefetching and Caching},
   booktitle = osdi,
   year      = 1996,
   pages     = {19-34},
@@ -1295,8 +2281,7 @@
                Manuel Sequeira and
                Nuno Neves and
                Miguel Castro},
-  title     = {Lightweight Logging for Lazy Release Consistent Distributed
-               Shared Memory},
+  title     = {Lightweight Logging for Lazy Release Consistent Distributed Shared Memory},
   booktitle = osdi,
   year      = 1996,
   pages     = {59-73},
@@ -1307,8 +2292,7 @@
   author    = {Yuanyuan Zhou and
                Liviu Iftode and
                Kai Li},
-  title     = {Performance Evaluation of Two Home-Based Lazy Release Consistency
-               Protocols for Shared Virtual Memory Systems},
+  title     = {Performance Evaluation of Two Home-Based Lazy Release Consistency Protocols for Shared Virtual Memory Systems},
   booktitle = osdi,
   year      = 1996,
   pages     = {75-88},
@@ -1317,7 +2301,7 @@
 
 @inproceedings{DBLP:conf/osdi/Tennenhouse96,
   author    = {David L. Tennenhouse},
-  title     = {Active Networks (Abstract)},
+  title     = {Active Networks},
   booktitle = osdi,
   year      = 1996,
   pages     = {89},
@@ -1348,8 +2332,7 @@
 @inproceedings{DBLP:conf/osdi/GreenwaldC96,
   author    = {Michael Greenwald and
                David R. Cheriton},
-  title     = {The Synergy Between Non-Blocking Synchronization and Operating
-               System Structure},
+  title     = {The Synergy Between Non-Blocking Synchronization and Operating System Structure},
   booktitle = osdi,
   year      = 1996,
   pages     = {123-136},
@@ -1383,8 +2366,7 @@
 @inproceedings{DBLP:conf/osdi/PerlS96,
   author    = {Sharon E. Perl and
                Richard L. Sites},
-  title     = {Studies of Windows NT Performance Using Dynamic Execution
-               Traces},
+  title     = {Studies of Windows NT Performance Using Dynamic Execution Traces},
   booktitle = osdi,
   year      = 1996,
   pages     = {169-183},
@@ -1441,8 +2423,7 @@
                Milon Mackey and
                Scott Marovich and
                John Wilkes},
-  title     = {An Implementation of the Hamlyn Sender-Managed Interface
-               Architecture},
+  title     = {An Implementation of the Hamlyn Sender-Managed Interface Architecture},
   booktitle = osdi,
   year      = 1996,
   pages     = {245-259},
@@ -1452,8 +2433,7 @@
 @inproceedings{DBLP:conf/osdi/DruschelB96,
   author    = {Peter Druschel and
                Gaurav Banga},
-  title     = {Lazy Receiver Processing (LRP): A Network Subsystem Architecture
-               for Server Systems},
+  title     = {Lazy Receiver Processing (LRP): A Network Subsystem Architecture for Server Systems},
   booktitle = osdi,
   year      = 1996,
   pages     = {261-275},
@@ -1473,8 +2453,7 @@
 @inproceedings{DBLP:conf/osdi/WaldspurgerW94,
   author    = {Carl A. Waldspurger and
                William E. Weihl},
-  title     = {Lottery Scheduling: Flexible Proportional-Share Resource
-               Management},
+  title     = {Lottery Scheduling: Flexible Proportional-Share Resource Management},
   booktitle = osdi,
   year      = 1994,
   pages     = {1-11},
@@ -1510,8 +2489,7 @@
 @inproceedings{DBLP:conf/osdi/OTooleS94,
   author    = {James O'Toole and
                Liuba Shrira},
-  title     = {Opportunistic Log: Efficient Installation Reads in a Reliable
-               Storage Server},
+  title     = {Opportunistic Log: Efficient Installation Reads in a Reliable Storage Server},
   booktitle = osdi,
   year      = 1994,
   pages     = {39-48},
@@ -1541,8 +2519,7 @@
   author    = {Povl T. Koch and
                Robert J. Fowler and
                Eric Jul},
-  title     = {Message-Driven Relaxed Consistency in a Software Distributed
-               Shared Memory},
+  title     = {Message-Driven Relaxed Consistency in a Software Distributed Shared Memory},
   booktitle = osdi,
   year      = 1994,
   pages     = {75-85},
@@ -1563,8 +2540,7 @@
 @inproceedings{DBLP:conf/osdi/ScalesL94,
   author    = {Daniel J. Scales and
                Monica S. Lam},
-  title     = {The Design and Evaluation of a Shared Object System for
-               Distributed Memory Machines},
+  title     = {The Design and Evaluation of a Shared Object System for Distributed Memory Machines},
   booktitle = osdi,
   year      = 1994,
   pages     = {101-114},
@@ -1601,8 +2577,7 @@
                Orran Krieger and
                Benjamin Gamsa and
                Michael Stumm},
-  title     = {Experiences with Locking in a NUMA Multiprocessor Operating
-               System Kernel},
+  title     = {Experiences with Locking in a NUMA Multiprocessor Operating System Kernel},
   booktitle = osdi,
   year      = 1994,
   pages     = {139-152},
@@ -1624,8 +2599,7 @@
   author    = {Pei Cao and
                Edward W. Felten and
                Kai Li},
-  title     = {Implementation and Performance of Application-Controlled
-               File Caching},
+  title     = {Implementation and Performance of Application-Controlled File Caching},
   booktitle = osdi,
   year      = 1994,
   pages     = {165-177},
@@ -1654,8 +2628,7 @@
 @inproceedings{DBLP:conf/osdi/SavageB94,
   author    = {Stefan Savage and
                Brian N. Bershad},
-  title     = {Some Issues in the Design of an Extensible Operating System
-               (Panel Statement)},
+  title     = {Some Issues in the Design of an Extensible Operating System},
   booktitle = osdi,
   year      = 1994,
   pages     = {196},
@@ -1664,8 +2637,7 @@
 
 @inproceedings{DBLP:conf/osdi/Cheriton94,
   author    = {David R. Cheriton},
-  title     = {Low and High Risk Operating System Architectures (Panel
-               Statement)},
+  title     = {Low and High Risk Operating System Architectures},
   booktitle = osdi,
   year      = 1994,
   pages     = {197},
@@ -1676,8 +2648,7 @@
   author    = {Dawson R. Engler and
                M. Frans Kaashoek and
                James O'Toole},
-  title     = {The Exokernel Approach to Operating System Extensibility
-               (Panel Statement)},
+  title     = {The Exokernel Approach to Operating System Extensibility},
   booktitle = osdi,
   year      = 1994,
   pages     = {198},
@@ -1686,7 +2657,7 @@
 
 @inproceedings{DBLP:conf/osdi/Lucco94,
   author    = {Steven Lucco},
-  title     = {High-Performance Microkernel Systems (Panel Statement)},
+  title     = {High-Performance Microkernel Systems},
   booktitle = osdi,
   year      = 1994,
   pages     = {199},
@@ -1700,7 +2671,7 @@
                Larry L. Peterson and
                Todd A. Proebsting and
                John H. Hartman},
-  title     = {Scout: A Communications-Oriented Operating System (Abstract)},
+  title     = {Scout: A Communications-Oriented Operating System},
   booktitle = osdi,
   year      = 1994,
   pages     = {200},
@@ -1711,8 +2682,7 @@
   author    = {Vincent W. Freeh and
                David K. Lowenthal and
                Gregory R. Andrews},
-  title     = {Distributed Filaments: Efficient Fine-Grain Parallelism
-               on a Cluster of Workstations},
+  title     = {Distributed Filaments: Efficient Fine-Grain Parallelism on a Cluster of Workstations},
   booktitle = osdi,
   year      = 1994,
   pages     = {201-213},
@@ -1724,8 +2694,7 @@
                Jeffrey S. Chase and
                Vivek R. Narasayya and
                Henry M. Levy},
-  title     = {Integrating Coherency and Recoverability in Distributed
-               Systems},
+  title     = {Integrating Coherency and Recoverability in Distributed Systems},
   booktitle = osdi,
   year      = 1994,
   pages     = {215-227},
@@ -1746,8 +2715,7 @@
   author    = {Kavita Bala and
                M. Frans Kaashoek and
                William E. Weihl},
-  title     = {Software Prefetching and Caching for Translation Lookaside
-               Buffers},
+  title     = {Software Prefetching and Caching for Translation Lookaside Buffers},
   booktitle = osdi,
   year      = 1994,
   pages     = {243-253},
@@ -1759,8 +2727,7 @@
                Dennis Lee and
                Brian N. Bershad and
                J. Bradley Chen},
-  title     = {Dynamic Page Mapping Policies for Cache Conflict Resolution
-               on Standard Hardware},
+  title     = {Dynamic Page Mapping Policies for Cache Conflict Resolution on Standard Hardware},
   booktitle = osdi,
   year      = 1994,
   pages     = {255-266},
@@ -1772,8 +2739,7 @@
                Randolph Y. Wang and
                Thomas E. Anderson and
                David A. Patterson},
-  title     = {Cooperative Caching: Using Remote Client Memory to Improve
-               File System Performance},
+  title     = {Cooperative Caching: Using Remote Client Memory to Improve File System Performance},
   booktitle = osdi,
   year      = 1994,
   pages     = {267-280},

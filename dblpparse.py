@@ -30,9 +30,11 @@ MONTHS = {'January': 'jan',
 
 BLACKLISTED_PARENTHETICALS = set(['abstract', 'awarded best paper',
     'awarded best paper!', 'best paper', 'awarded best student paper',
-    'awarded best student paper!', 'extended abstract', 'summary'])
-WHITELISTED_PARENTHETICALS = set(['1', 'bvt',
-    'or how to turn ideas into live systems in a breeze', 'pff', 'very'])
+    'awarded best student paper!', 'extended abstract', 'panel statement',
+    'summary'])
+WHITELISTED_PARENTHETICALS = set(['1', 'bvt', 'lrp',
+    'or how to turn ideas into live systems in a breeze', 'pff', 'sundr',
+    'very'])
 
 
 numbered_author_re = re.compile(r' [0-9]{4}$')
@@ -295,5 +297,6 @@ class DBLPProcessor:
 
 d = DBLPProcessor('dblp.xml', 'dblp.xml.pp', 'xtx')
 d.add_conference('nsdi', 'NSDI', 'Symposium on Networked System Design and Implementation')
+d.add_conference('osdi', 'OSDI', 'Symposium on Operating System Design and Implementation')
 d.add_conference('sosp', 'SOSP', 'Symposium on Operating Systems Principles')
 d.process()
