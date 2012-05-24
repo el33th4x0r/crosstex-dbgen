@@ -73,7 +73,7 @@ class Conference:
             print 'ERROR:  key "%s" has no attribute "year"' % citekey
             return
         if 'pages' not in citeattrs:
-            print 'WARNING:  key "%s" has no attribute "pages"' % citekey
+            print 'INFO:  key "%s" has no attribute "pages"' % citekey
         try:
             citeattrs['year'] = int(citeattrs['year'])
         except ValueError:
