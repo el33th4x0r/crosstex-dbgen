@@ -233,6 +233,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Elmau', {'city': 'Elmau', 'country': 'Germany'})
                  ,('Florence', {'city': 'Florence', 'country': 'Italy'})
                  ,('Geneva', {'city': 'Geneva', 'country': 'Switzerland'})
+                 ,('Glasgow', {'city': 'Glasgow', 'country': 'Scotland'})
                  ,('GoldCoast', {'city': 'Gold Coast', 'state': 'Queensland', 'country': 'Oz'})
                  ,('Grenoble', {'city': 'Grenoble', 'country': 'France'})
                  ,('Heidelberg', {'city': 'Heidelberg', 'country': 'Germany'})
@@ -243,6 +244,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Istanbul', {'city': 'Istanbul', 'country': 'Turkey'})
                  ,('Karlsruhe', {'city': 'Karlsruhe', 'country': 'Germany'})
                  ,('Kobe', {'city': 'Kobe', 'country': 'Japan'})
+                 ,('Kyoto', {'city': 'Kyoto', 'country': 'Japan'})
                  ,('Lausanne', {'city': 'Lausanne', 'country': 'Switzerland'})
                  ,('Leuven', {'city': 'Leuven', 'country': 'Belgium'})
                  ,('Lisbon', {'city': 'Lisbon', 'country': 'Portugal'})
@@ -255,6 +257,8 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Munich', {'city': 'Munich', 'country': 'Germany'})
                  ,('NaraCity', {'city': 'Nara City', 'country': 'Japan'})
                  ,('Newcastle', {'city': 'Newcastle', 'country': 'Oz'})
+                 ,('NewDelhi', {'city': 'New Delhi', 'country': 'India'})
+                 ,('Nuremberg', {'city': 'Nuremberg', 'country': 'Germany'})
                  ,('Nice', {'city': 'Nice', 'country': 'France'})
                  ,('Osaka', {'city': 'Osaka', 'country': 'Japan'})
                  ,('Ottawa', {'city': 'Ottawa', 'country': 'Canada'})
@@ -268,11 +272,13 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Rome', {'city': 'Rome', 'country': 'Italy'})
                  ,('SaintEmilion', {'city': 'Saint Emilion', 'country': 'France'})
                  ,('SaintMalo', {'city': 'Saint Malo', 'country': 'France'})
+                 ,('Salzburg', {'city': 'Salzburg', 'country': 'Austria'})
                  ,('SanJuan', {'city': 'San Juan', 'country': 'PuertoRico'})
                  ,('Seoul', {'city': 'Seoul', 'country': 'Korea'})
                  ,('Sintra', {'city': 'Sintra', 'country': 'Portugal'})
                  ,('SophiaAntipolis', {'city': 'Sophia Antipolis', 'country': 'France'})
                  ,('Stockholm', {'city': 'Stockholm', 'country': 'Sweden'})
+                 ,('StJohns', {'city': "St. John's", 'country': 'Canada'})
                  ,('Sydney', {'city': 'Sydney', 'country': 'Oz'})
                  ,('Taipei', {'city': 'Taipei', 'country': 'Taiwan'})
                  ,('Taormina', {'city': 'Taormina', 'country': 'Italy'})
@@ -301,7 +307,10 @@ LOCATION_AMBIGUITIES = {'Cambridge': {'Massachusetts': 'CambridgeMA',
                                       'UK': 'CambridgeUK'}
                        }
 # Location aliases are under multiple names.  E.g. SanFrancisco -> sf
-LOCATION_ALIASES = {'SanFrancisco': 'SF'}
+LOCATION_ALIASES = {'alzburg': 'Salzburg'
+                   ,'Pisa': 'Piza'
+                   ,'SanFrancisco': 'SF'
+                   }
 
 LOCATIONS = [x[0] for x in US_LOCATIONS + INTL_LOCATIONS]
 
