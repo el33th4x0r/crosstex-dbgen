@@ -184,6 +184,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('SantaClara', {'city': 'Santa Clara', 'state': 'CA'})
                ,('SantaCruz', {'city': 'Santa Cruz', 'state': 'CA'})
                ,('SantaFe', {'city': 'Santa Fe', 'state': 'NM'})
+               ,('Savannah', {'city': 'Savannah', 'state': 'GA'})
                ,('Scottsdale', {'city': 'Scottsdale', 'state': 'AZ'})
                ,('Seattle', {'city': 'Seattle', 'state': 'WA'})
                ,('SF', {'city': 'San Francisco', 'state': 'CA'})
@@ -227,6 +228,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Chiba', {'city': 'Chiba', 'country': 'Japan'})
                  ,('Cologne', {'city': 'Cologne', 'country': 'Germany'})
                  ,('Dagstuhl', {'city': 'Dagstuhl', 'country': 'Germany'})
+                 ,('Dublin', {'city': 'Dublin', 'country': 'Ireland'})
                  ,('Dunedin', {'city': 'Dunedin', 'country': 'NewZealand'})
                  ,('Edinburgh', {'city': 'Edinburgh', 'country': 'Scotland'})
                  ,('Edmonton', {'city': 'Edmonton', 'country': 'Canada'})
@@ -308,6 +310,7 @@ LOCATION_AMBIGUITIES = {'Cambridge': {'Massachusetts': 'CambridgeMA',
                        }
 # Location aliases are under multiple names.  E.g. SanFrancisco -> sf
 LOCATION_ALIASES = {'alzburg': 'Salzburg'
+                   ,'NewYork': 'NYC'
                    ,'Pisa': 'Piza'
                    ,'SanFrancisco': 'SF'
                    }
