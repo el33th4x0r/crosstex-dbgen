@@ -10,6 +10,7 @@ import lxml.etree
 
 import latex
 import parentheticals
+import overrides
 from locations import LOCATION_AMBIGUITIES
 from locations import LOCATION_ALIASES
 from locations import LOCATIONS
@@ -98,7 +99,10 @@ class Conference:
             pagesrt = ''
             pages = ''
         authors = ' and\n               '.join([self._normalize_author(a) for a in citeattrs['author']])
-        title = self._normalize_title(citekey, citeattrs)
+        if citekey in overrides.TITLE:
+            title = overrides.TITLE[citekey]
+        else:
+            title = self._normalize_title(citekey, citeattrs)
         bibtex = templ % (citekey, authors, title, self._slug,
                           citeattrs['year'], pages)
         self._out.write(repr((0 - citeattrs['year'], pagesrt, citekey, bibtex)) + '\n')
@@ -343,11 +347,14 @@ class DBLPProcessor:
 
 
 d = DBLPProcessor('dblp.xml', 'dblp.xml.pp', 'xtx')
-d.add_conference('eurosys', 'EuroSys', 'European Conference on Computer Systems')
-d.add_conference('fast', 'FAST', 'Conference on File and Storage Technologies')
-d.add_conference('nsdi', 'NSDI', 'Symposium on Networked System Design and Implementation')
-d.add_conference('osdi', 'OSDI', 'Symposium on Operating System Design and Implementation')
-d.add_conference('podc', 'PODC', 'ACM Symposium on Principles of Distributed Computing')
-d.add_conference('sigcomm', 'SIGCOMM', 'SIGCOMM Conference')
-d.add_conference('sosp', 'SOSP', 'Symposium on Operating Systems Principles')
+d.add_conference('eurosys',     'EuroSys', 'European Conference on Computer Systems')
+d.add_conference('fast',        'FAST', 'Conference on File and Storage Technologies')
+d.add_conference('nsdi',        'NSDI', 'Symposium on Networked System Design and Implementation')
+d.add_conference('osdi',        'OSDI', 'Symposium on Operating System Design and Implementation')
+d.add_conference('pldi',        'PLDI', 'SIGPLAN Conference on Programming Language Design and Implementation')
+d.add_conference('podc',        'PODC', 'ACM Symposium on Principles of Distributed Computing')
+d.add_conference('popl',        'POPL', 'Symposium on Principles of Programming Languages')
+d.add_conference('sigcomm',     'SIGCOMM', 'SIGCOMM Conference')
+d.add_conference('soda',        'SODA', 'Symposium on Discrete Algorithms')
+d.add_conference('sosp',        'SOSP', 'Symposium on Operating Systems Principles')
 d.process()
