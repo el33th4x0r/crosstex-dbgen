@@ -78,8 +78,7 @@ class Conference:
   title     = {%s},
   booktitle = %s,
   year      = %i,
-%s  bibsource = {DBLP, http://dblp.uni-trier.de}
-}\n'''
+%s}\n'''
         if 'pages' in citeattrs:
             match = page_range_re.search(citeattrs['pages'])
             if match:
