@@ -161,9 +161,14 @@ class Conference:
         title = citeattrs['title']
         stack = []
         openparen = title.find('(')
+        equation = None
         if openparen >= 0:
             stack.append(openparen)
             ptr = openparen + 1
+            if openparen > 0 and \
+               title[openparen - 1] not in string.whitespace and \
+               equation is None:
+                equation = openparen
         while stack:
             openparen = title.find('(', ptr)
             openparen = openparen if openparen >= 0 else len(title)
@@ -174,22 +179,37 @@ class Conference:
             elif openparen < closeparen:
                 stack.append(openparen)
                 ptr = openparen + 1
+                if openparen > 0 and \
+                   title[openparen - 1] not in string.whitespace and \
+                   equation is None:
+                    equation = openparen
             elif openparen > closeparen:
                 substr = title[stack[-1] + 1:closeparen]
                 if substr.lower() in parentheticals.BLACKLIST:
                     prefix = title[:stack[-1]].strip(' ')
                     suffix = title[closeparen + 1:].strip(' ')
                     title = prefix + ' ' + suffix
+                    if equation == stack[-1]:
+                        equation = None
                     stack.pop()
                     if stack:
                         ptr = stack[-1] + 1
                 elif substr.lower() in parentheticals.WHITELIST:
                     ptr = closeparen + 1
+                    if equation == stack[-1]:
+                        equation = None
                     stack.pop()
                 elif substr in parentheticals.TRANSLATE:
                     replace = parentheticals.TRANSLATE[substr]
                     title = title[:stack[-1] + 1] + replace + title[closeparen:]
                     ptr = stack[-1] + len(replace) + 2
+                    if equation == stack[-1]:
+                        equation = None
+                    stack.pop()
+                elif equation is not None:
+                    if equation == stack[-1]:
+                        equation = None
+                    ptr = closeparen + 1
                     stack.pop()
                 else:
                     # See if the words leading up to the parenthetical could be
@@ -200,6 +220,8 @@ class Conference:
                     if acronym != substr.lower():
                         print 'WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs
                     ptr = closeparen + 1
+                    if equation == stack[-1]:
+                        equation = None
                     stack.pop()
         return self._to_latex(title.strip(' .'))
 
