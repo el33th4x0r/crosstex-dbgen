@@ -123,7 +123,7 @@ class Conference:
 
     def _extract_location(self, citekey, citeattrs):
         possible = citeattrs.get('title', '').split(',')
-        possible = [x.replace(' ', '') for x in possible]
+        possible = [x.replace(' ', '').replace('.', '').replace("'", '') for x in possible]
         for p in possible:
             if p in LOCATION_AMBIGUITIES:
                 count = 0
