@@ -1,511 +1,2255 @@
 @include conferences-cs
 
-@default bibsource = "DBLP, http://dblp.uni-trier.de"
+@inproceedings{DBLP:conf/fast/MeyerB11,
+  author    = {Dutch T. Meyer and
+               William J. Bolosky},
+  title     = {A Study of Practical Deduplication},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {1-13},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
-@default booktitle = fast
+@inproceedings{DBLP:conf/fast/DongDLPRS11,
+  author    = {Wei Dong and
+               Fred Douglis and
+               Kai Li and
+               R. Hugo Patterson and
+               Sazzala Reddy and
+               Philip Shilane},
+  title     = {Tradeoffs in Scalable Data Routing for Deduplication Clusters},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {15-29},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
-@default year = 2005
+@inproceedings{DBLP:conf/fast/ShammaMWIHW11,
+  author    = {Mohammad Shamma and
+               Dutch T. Meyer and
+               Jake Wires and
+               Maria Ivanova and
+               Norman C. Hutchinson and
+               Andrew Warfield},
+  title     = {Capo: Recapitulating Storage for Virtual Desktops},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {31-45},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SalajeghehWFJL11,
+  author    = {Mastooreh Salajegheh and
+               Yue Wang and
+               Kevin Fu and
+               Anxiao Jiang and
+               Erik G. Learned-Miller},
+  title     = {Exploiting Half-Wits: Smarter Storage for Low-Power Devices},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {47-60},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/VenkataramanTRC11,
+  author    = {Shivaram Venkataraman and
+               Niraj Tolia and
+               Parthasarathy Ranganathan and
+               Roy H. Campbell},
+  title     = {Consistent and Durable Data Structures for Non-Volatile Byte-Addressable Memory},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {61-75},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ChenLZ11,
+  author    = {Feng Chen and
+               Tian Luo and
+               Xiaodong Zhang},
+  title     = {CAFTL: A Content-Aware Flash Translation Layer Enhancing the Lifespan of Flash Memory based Solid State Drives},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {77-90},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/GuptaPUS11,
+  author    = {Aayush Gupta and
+               Raghav Pisolkar and
+               Bhuvan Urgaonkar and
+               Anand Sivasubramaniam},
+  title     = {Leveraging Value Locality in Optimizing NAND Flash-based SSDs},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {91-103},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/WeiGSS11,
+  author    = {Michael Yung Chung Wei and
+               Laura M. Grupp and
+               Frederick E. Spada and
+               Steven Swanson},
+  title     = {Reliably Erasing Data from Flash-Based Solid State Drives},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {105-117},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/XuJ11,
+  author    = {Yuehai Xu and
+               Song Jiang},
+  title     = {A Scheduling Framework That Makes Any Disk Schedulers Non-Work-Conserving Solely Based on Request Characteristics},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {119-132},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SchindlerSS11,
+  author    = {Jiri Schindler and
+               Sandip Shete and
+               Keith A. Smith},
+  title     = {Improving Throughput for Small Disk Requests with Proximal I/O},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {133-147},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ZhengZ11,
+  author    = {Weimin Zheng and
+               Guangyan Zhang},
+  title     = {FastScale: Accelerate RAID Scaling by Minimizing Data Migration},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {149-161},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/TrushkowskyBFFJP11,
+  author    = {Beth Trushkowsky and
+               Peter Bod{\'\i}k and
+               Armando Fox and
+               Michael J. Franklin and
+               Michael I. Jordan and
+               David A. Patterson},
+  title     = {The SCADS Director: Scaling a Distributed Storage System Under Stringent Performance Requirements},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {163-176},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/PatilG11,
+  author    = {Swapnil Patil and
+               Garth A. Gibson},
+  title     = {Scale and Concurrency of GIGA+: File System Directories with Millions of Files},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {177-190},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ReschP11,
+  author    = {Jason K. Resch and
+               James S. Plank},
+  title     = {AONT-RS: Blending Security and Performance in Dispersed Storage Systems},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {191-202},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/AgrawalAAA11,
+  author    = {Nitin Agrawal and
+               Leo Arulraj and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Emulating Goliath Storage Systems with David},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {203-216},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/HuangZWDS11,
+  author    = {H. Howie Huang and
+               Nan Zhang and
+               Wei Wang and
+               Gautam Das and
+               Alexander S. Szalay},
+  title     = {Just-in-Time Analytics on Large File Systems},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {217-230},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SundararamanZSAA11,
+  author    = {Swaminathan Sundararaman and
+               Yupu Zhang and
+               Sriram Subramanian and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Making the Common Case the Only Case with Anticipatory Memory Allocation},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {231-244},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/PanDZ11,
+  author    = {Yangyang Pan and
+               Guiqiang Dong and
+               Tong Zhang},
+  title     = {Exploiting Memory Device Wear-Out Dynamics to Improve NAND Flash Memory System Performance},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {245-258},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/JooRPS11,
+  author    = {Yongsoo Joo and
+               Junhee Ryu and
+               Sangsoo Park and
+               Kang G. Shin},
+  title     = {FAST: Quick Application Launch on Solid-State Drives},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {259-272},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/GuerraPGBR11,
+  author    = {Jorge Guerra and
+               Himabindu Pucha and
+               Joseph S. Glider and
+               Wendy Belluomini and
+               Raju Rangaswami},
+  title     = {Cost Effective Storage using Extent Based Dynamic Tiering},
+  booktitle = fast,
+  year      = 2011,
+  pages     = {273-286},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/VeeraraghavanFNN10,
+  author    = {Kaushik Veeraraghavan and
+               Jason Flinn and
+               Edmund B. Nightingale and
+               Brian Noble},
+  title     = {quFiles: The Right File at the Right Time},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {1-14},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/MackoSS10,
+  author    = {Peter Macko and
+               Margo I. Seltzer and
+               Keith A. Smith},
+  title     = {Tracking Back References in a Write-Anywhere File System},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {15-28},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ZhangRAA10,
+  author    = {Yupu Zhang and
+               Abhishek Rajimwale and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {End-to-end Data Integrity for File Systems: A ZFS Case Study},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {29-42},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/KasickTGN10,
+  author    = {Michael P. Kasick and
+               Jiaqi Tan and
+               Rajeev Gandhi and
+               Priya Narasimhan},
+  title     = {Black-Box Problem Diagnosis in Parallel File Systems},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {43-56},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/OpreaJ10,
+  author    = {Alina Oprea and
+               Ari Juels},
+  title     = {A Clean-Slate Look at Disk Scrubbing},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {57-70},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SchroederDG10,
+  author    = {Bianca Schroeder and
+               Sotirios Damouras and
+               Phillipa Gill},
+  title     = {Understanding Latent Sector Errors and How to Protect Against Them},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {71-84},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/JosephsonBFL10,
+  author    = {William K. Josephson and
+               Lars Ailo Bongo and
+               David Flynn and
+               Kai Li},
+  title     = {DFS: A File System for Virtualized Flash Storage},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {85-100},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SoundararajanPBW10,
+  author    = {Gokul Soundararajan and
+               Vijayan Prabhakaran and
+               Mahesh Balakrishnan and
+               Ted Wobber},
+  title     = {Extending SSD Lifetimes with Disk-Based Write Caches},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {101-114},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/BoboilaD10,
+  author    = {Simona Boboila and
+               Peter Desnoyers},
+  title     = {Write Endurance in Flash Drives: Measurements and Analysis},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {115-128},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/TuRMSDS10,
+  author    = {Tiankai Tu and
+               Charles A. Rendleman and
+               Patrick J. Miller and
+               Federico D. Sacerdoti and
+               Ron O. Dror and
+               David E. Shaw},
+  title     = {Accelerating Parallel Analysis of Scientific Simulation Data via Zazen},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {129-142},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/OralWDSMD10,
+  author    = {Sarp Oral and
+               Feiyi Wang and
+               David Dillow and
+               Galen M. Shipman and
+               Ross Miller and
+               Oleg Drokin},
+  title     = {Efficient Object Storage Journaling in a Distributed Parallel File System},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {143-154},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/EshelHHNST10,
+  author    = {Marc Eshel and
+               Roger L. Haskin and
+               Dean Hildebrand and
+               Manoj Naik and
+               Frank B. Schmuck and
+               Renu Tewari},
+  title     = {Panache: A Parallel File System Cache for Global File Access},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {155-168},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/GulatiKAK10,
+  author    = {Ajay Gulati and
+               Chethan Kumar and
+               Irfan Ahmad and
+               Karan Kumar},
+  title     = {BASIL: Automated IO Load Balancing Across Storage Devices},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {169-182},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/YadwadkarBGNS10,
+  author    = {Neeraja J. Yadwadkar and
+               Chiranjib Bhattacharyya and
+               K. Gopinath and
+               Thirumale Niranjan and
+               Sai Susarla},
+  title     = {Discovery of Application Workloads from Network File Traces},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {183-196},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Muniswamy-ReddyMS10,
+  author    = {Kiran-Kumar Muniswamy-Reddy and
+               Peter Macko and
+               Margo I. Seltzer},
+  title     = {Provenance for the Cloud},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {197-210},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/KollerR10,
+  author    = {Ricardo Koller and
+               Raju Rangaswami},
+  title     = {I/O Deduplication: Utilizing Content Similarity to Improve I/O Performance},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {211-224},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/UngureanuAAGRCDB10,
+  author    = {Cristian Ungureanu and
+               Benjamin Atkin and
+               Akshat Aranya and
+               Salil Gokhale and
+               Stephen Rago and
+               Grzegorz Calkowski and
+               Cezary Dubnicki and
+               Aniruddha Bohra},
+  title     = {HydraFS: A High-Throughput File System for the HYDRAstor Content-Addressable Storage System},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {225-238},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/KruusUD10,
+  author    = {Erik Kruus and
+               Cristian Ungureanu and
+               Cezary Dubnicki},
+  title     = {Bimodal Content Defined Chunking for Backup Streams},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {239-252},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SehgalTZ10,
+  author    = {Priya Sehgal and
+               Vasily Tarasov and
+               Erez Zadok},
+  title     = {Evaluating Performance and Energy in File System Server Workloads},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {253-266},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/VermaKUR10,
+  author    = {Akshat Verma and
+               Ricardo Koller and
+               Luis Useche and
+               Raju Rangaswami},
+  title     = {SRCMap: Energy Proportional Storage Using Dynamic Consolidation},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {267-280},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SundararamanSRAAS10,
+  author    = {Swaminathan Sundararaman and
+               Sriram Subramanian and
+               Abhishek Rajimwale and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Michael M. Swift},
+  title     = {Membrane: Operating System Support for Restartable File Systems},
+  booktitle = fast,
+  year      = 2010,
+  pages     = {281-294},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/HasanSW09,
+  author    = {Ragib Hasan and
+               Radu Sion and
+               Marianne Winslett},
+  title     = {The Case of the Fake Picasso: Preventing History Forgery with Secure Provenance},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {1-14},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Muniswamy-ReddyH09,
+  author    = {Kiran-Kumar Muniswamy-Reddy and
+               David A. Holland},
+  title     = {Causality-Based Versioning},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {15-28},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SpillaneGCZW09,
+  author    = {Richard P. Spillane and
+               Sachin Gaikwad and
+               Manjunath Chinni and
+               Erez Zadok and
+               Charles P. Wright},
+  title     = {Enabling Transactional File Access via Lightweight Kernel Extensions},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {29-42},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/JiangHPKLZ09,
+  author    = {Weihang Jiang and
+               Chongfeng Hu and
+               Shankar Pasupathy and
+               Arkady Kanevsky and
+               Zhenmin Li and
+               Yuanyuan Zhou},
+  title     = {Understanding Customer Problem Troubleshooting from Storage System Logs},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {43-56},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/BabuBURS09,
+  author    = {Shivnath Babu and
+               Nedyalko Borisov and
+               Sandeep Uttamchandani and
+               Ramani Routray and
+               Aameek Singh},
+  title     = {DIADS: Addressing the "My-Problem-or-Yours" Syndrome with Integrated SAN and Database Diagnosis},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {57-70},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SoundararajanLGPCA09,
+  author    = {Gokul Soundararajan and
+               Daniel Lupei and
+               Saeed Ghanbari and
+               Adrian Daniel Popescu and
+               Jin Chen and
+               Cristiana Amza},
+  title     = {Dynamic Resource Allocation for Database Servers Running on Virtual Storage},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {71-84},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/GulatiAW09,
+  author    = {Ajay Gulati and
+               Irfan Ahmad and
+               Carl A. Waldspurger},
+  title     = {PARDA: Proportional Allocation of Resources for Distributed Storage Access},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {85-98},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/BatsakisBKLT09,
+  author    = {Alexandros Batsakis and
+               Randal C. Burns and
+               Arkady Kanevsky and
+               James Lentini and
+               Thomas Talpey},
+  title     = {CA-NFS: A Congestion-Aware Network File System},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {99-110},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/LillibridgeEBDTC09,
+  author    = {Mark Lillibridge and
+               Kave Eshghi and
+               Deepavali Bhagwat and
+               Vinay Deolalikar and
+               Greg Trezis and
+               Peter Camble},
+  title     = {Sparse Indexing: Large Scale, Inline Deduplication Using Sampling and Locality},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {111-123},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/AgrawalAA09,
+  author    = {Nitin Agrawal and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Generating Realistic Impressions for File-System Benchmarking},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {125-138},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Anderson09,
+  author    = {Eric Anderson},
+  title     = {Capture, Conversion, and Analysis of an Intense NFS Workload},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {139-152},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/LeungSBPM09,
+  author    = {Andrew W. Leung and
+               Minglong Shao and
+               Timothy Bisson and
+               Shankar Pasupathy and
+               Ethan L. Miller},
+  title     = {Spyglass: Fast, Scalable Metadata Search for Large-Scale Storage Systems},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {153-166},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SalmonSCG09,
+  author    = {Brandon Salmon and
+               Steven W. Schlosser and
+               Lorrie Faith Cranor and
+               Gregory R. Ganger},
+  title     = {Perspective: Semantic Data Management for the Home},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {167-182},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/BhadkamkarGUBLRH09,
+  author    = {Medha Bhadkamkar and
+               Jorge Guerra and
+               Luis Useche and
+               Sam Burnett and
+               Jason Liptak and
+               Raju Rangaswami and
+               Vagelis Hristidis},
+  title     = {BORG: Block-reORGanization for Self-optimizing Storage Systems},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {183-196},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/DubnickiGHKKSSUW09,
+  author    = {Cezary Dubnicki and
+               Leszek Gryz and
+               Lukasz Heldt and
+               Michal Kaczmarczyk and
+               Wojciech Kilian and
+               Przemyslaw Strzelczak and
+               Jerzy Szczepkowski and
+               Cristian Ungureanu and
+               Michal Welnicki},
+  title     = {HYDRAstor: A Scalable Secondary Storage},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {197-210},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/WeatherspoonGMBB09,
+  author    = {Hakim Weatherspoon and
+               Lakshmi Ganesh and
+               Tudor Marian and
+               Mahesh Balakrishnan and
+               Ken Birman},
+  title     = {Smoke and Mirrors: Reflecting Files at a Geographically Remote Location Without Loss of Performance},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {211-224},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/VrableSV09,
+  author    = {Michael Vrable and
+               Stefan Savage and
+               Geoffrey M. Voelker},
+  title     = {Cumulus: Filesystem Backup to the Cloud},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {225-238},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/WuJFTM09,
+  author    = {Suzhen Wu and
+               Hong Jiang and
+               Dan Feng and
+               Lei Tian and
+               Bo Mao},
+  title     = {WorkOut: I/O Workload Outsourcing for Boosting RAID Reconstruction Performance},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {239-252},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/PlankLSXW09,
+  author    = {James S. Plank and
+               Jianqiang Luo and
+               Catherine D. Schuman and
+               Lihao Xu and
+               Zooko Wilcox-O'Hearn},
+  title     = {A Performance Evaluation and Examination of Open-Source Erasure Coding Libraries for Storage},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {253-265},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ChunMSK09,
+  author    = {Byung-Gon Chun and
+               Petros Maniatis and
+               Scott Shenker and
+               John Kubiatowicz},
+  title     = {Tiered Fault Tolerance for Long-Term Integrity},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {267-282},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SeshadriCL09,
+  author    = {Sangeetha Seshadri and
+               Lawrence Chiu and
+               Ling Liu},
+  title     = {A Systematic Approach to System State Restoration during Storage Controller Micro-Recovery},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {283-296},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/LiuASL09,
+  author    = {Xin Liu and
+               Ashraf Aboulnaga and
+               Kenneth Salem and
+               Xuhui Li},
+  title     = {CLIC: CLient-Informed Caching for Storage Servers},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {297-310},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ErmolinskiyMCS09,
+  author    = {Andrey Ermolinskiy and
+               Daekyeong Moon and
+               Byung-Gon Chun and
+               Scott Shenker},
+  title     = {Minuet: Rethinking Concurrency Control in Storage Area Networks},
+  booktitle = fast,
+  year      = 2009,
+  pages     = {311-324},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/StorerGMV08,
+  author    = {Mark W. Storer and
+               Kevin M. Greenan and
+               Ethan L. Miller and
+               Kaladhar Voruganti},
+  title     = {Pergamum: Replacing Tape with Energy Efficient, Reliable, Disk-Based Archival Storage},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {1-16},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/WelchUAGMSZZ08,
+  author    = {Brent Welch and
+               Marc Unangst and
+               Zainul Abbasi and
+               Garth A. Gibson and
+               Brian Mueller and
+               Jason Small and
+               Jim Zelenka and
+               Bin Zhou},
+  title     = {Scalable Performance of the Panasas Parallel File System},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {17-33},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/DemmerDB08,
+  author    = {Michael J. Demmer and
+               Bowei Du and
+               Eric A. Brewer},
+  title     = {TierStore: A Distributed Filesystem for Challenged Networks in Developing Regions},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {35-48},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Gill08,
+  author    = {Binny S. Gill},
+  title     = {On Multi-level Exclusive Caching: Offline Optimality and Why Promotions Are Better Than Demotions},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {49-65},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/BatsakisBKLT08,
+  author    = {Alexandros Batsakis and
+               Randal C. Burns and
+               Arkady Kanevsky and
+               James Lentini and
+               Thomas Talpey},
+  title     = {AWOL: An Adaptive Write Optimizations Layer},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {67-80},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/LiVBM08,
+  author    = {Mingju Li and
+               Elizabeth Varki and
+               Swapnil Bhatia and
+               Arif Merchant},
+  title     = {TaP: Table-based Prefetching for Storage Caches},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {81-96},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Plank08,
+  author    = {James S. Plank},
+  title     = {The RAID-6 Liberation Codes},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {97-110},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/JiangHZK08,
+  author    = {Weihang Jiang and
+               Chongfeng Hu and
+               Yuanyuan Zhou and
+               Arkady Kanevsky},
+  title     = {Are Disks the Dominant Contributor for Storage Failures? A Comprehensive Study of Storage Subsystem Failure Characteristics},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {111-125},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/KrioukovBGSTAA08,
+  author    = {Andrew Krioukov and
+               Lakshmi N. Bairavasundaram and
+               Garth R. Goodson and
+               Kiran Srinivasan and
+               Randy Thelen and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Parity Lost and Parity Regained},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {127-141},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SeshadriCCBDLM08,
+  author    = {Sangeetha Seshadri and
+               Lawrence Chiu and
+               Cornel Constantinescu and
+               Subashini Balachandran and
+               Clem Dickey and
+               Ling Liu and
+               Paul Muench},
+  title     = {Enhancing Storage System Availability on Multi-Core Architectures with Recovery-Conscious Scheduling},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {143-158},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/KandemirSK08,
+  author    = {Mahmut T. Kandemir and
+               Seung Woo Son and
+               Mustafa Karak{\"o}y},
+  title     = {Improving I/O Performance of Applications through Compiler-Directed Code Restructuring},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {159-174},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/PhanishayeeKVAGGS08,
+  author    = {Amar Phanishayee and
+               Elie Krevat and
+               Vijay Vasudevan and
+               David G. Andersen and
+               Gregory R. Ganger and
+               Garth A. Gibson and
+               Srinivasan Seshan},
+  title     = {Measurement and Analysis of TCP Throughput Collapse in Cluster-based Storage Systems},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {175-188},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/TsafrirHWS08,
+  author    = {Dan Tsafrir and
+               Tomer Hertz and
+               David Wagner and
+               Dilma Da Silva},
+  title     = {Portably Solving File TOCTTOU Races with Hardness Amplification},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {189-206},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/GunawiRAAL08,
+  author    = {Haryadi S. Gunawi and
+               Cindy Rubio-Gonz{\'a}lez and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Ben Liblit},
+  title     = {EIO: Error Handling is Occasionally Correct},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {207-222},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/BairavasundaramGSAA08,
+  author    = {Lakshmi N. Bairavasundaram and
+               Garth R. Goodson and
+               Bianca Schroeder and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {An Analysis of Data Corruption in the Storage Stack},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {223-238},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/KimA08,
+  author    = {Hyojun Kim and
+               Seongjun Ahn},
+  title     = {BPLRU: A Buffer Management Scheme for Improving Random Writes in Flash Storage},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {239-252},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/NarayananDR08,
+  author    = {Dushyanth Narayanan and
+               Austin Donnelly and
+               Antony I. T. Rowstron},
+  title     = {Write Off-Loading: Practical Power Management for Enterprise Storage},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {253-267},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ZhuLP08,
+  author    = {Benjamin Zhu and
+               Kai Li and
+               R. Hugo Patterson},
+  title     = {Avoiding the Disk Bottleneck in the Data Domain Deduplication File System},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {269-282},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/HartelAK08,
+  author    = {Pieter H. Hartel and
+               Leon Abelmann and
+               Mohammed G. Khatib},
+  title     = {Towards Tamper-evident Storage on Patterned Media},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {283-296},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/VermaVRJ08,
+  author    = {Akshat Verma and
+               Kaladhar Voruganti and
+               Ramani Routray and
+               Rohit Jain},
+  title     = {SWEEPER: An Efficient Disaster Recovery Point Identification Mechanism},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {297-312},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/StrunkTFG08,
+  author    = {John D. Strunk and
+               Eno Thereska and
+               Christos Faloutsos and
+               Gregory R. Ganger},
+  title     = {Using Utility to Provision Storage Systems},
+  booktitle = fast,
+  year      = 2008,
+  pages     = {313-328},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Engler07,
+  author    = {Dawson R. Engler},
+  title     = {A System's Hackers Crash Course: Techniques that Find Lots of Bugs in Real (Storage) System Code},
+  booktitle = fast,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Kleiman07,
+  author    = {Steve Kleiman},
+  title     = {Trends in Managing Data at the Petabyte Scale},
+  booktitle = fast,
+  year      = 2007,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SchroederG07,
+  author    = {Bianca Schroeder and
+               Garth A. Gibson},
+  title     = {Disk Failures in the Real World: What Does an MTTF of 1, 000, 000 Hours Mean to You?},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {1-16},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/PinheiroWB07,
+  author    = {Eduardo Pinheiro and
+               Wolf-Dietrich Weber and
+               Luiz Andr{\'e} Barroso},
+  title     = {Failure Trends in a Large Disk Drive Population},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {17-28},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/AgrawalBDL07,
+  author    = {Nitin Agrawal and
+               William J. Bolosky and
+               John R. Douceur and
+               Jacob R. Lorch},
+  title     = {A Five-Year Study of File-System Metadata},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {31-45},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/WangM07,
+  author    = {Yin Wang and
+               Arif Merchant},
+  title     = {Proportional-Share Scheduling for Distributed Storage Systems},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {47-60},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/WachsATG07,
+  author    = {Matthew Wachs and
+               Michael Abd-El-Malek and
+               Eno Thereska and
+               Gregory R. Ganger},
+  title     = {Argon: Performance Insulation for Shared Storage Servers},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {61-76},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/YumerefendiC07,
+  author    = {Aydan R. Yumerefendi and
+               Jeffrey S. Chase},
+  title     = {Strong Accountability for Network Storage},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {77-92},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/PetersonBAB07,
+  author    = {Zachary N. J. Peterson and
+               Randal C. Burns and
+               Giuseppe Ateniese and
+               Stephen Bono},
+  title     = {Design and Implementation of Verifiable Audit Trails for a Versioning File System},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {93-106},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/LadenTYFF07,
+  author    = {Guy Laden and
+               Paula Ta-Shma and
+               Eitan Yaffe and
+               Michael Factor and
+               Shachar Fienblit},
+  title     = {Architectures for Controller Based CDP},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {107-121},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/EshghiLWBH07,
+  author    = {Kave Eshghi and
+               Mark Lillibridge and
+               Lawrence Wilcock and
+               Guillaume Belrose and
+               Rycharde Hawkes},
+  title     = {Jumbo Store: Providing Efficient Incremental Upload and Versioning for a Utility Rendering Service},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {123-138},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/EislerCKNW07,
+  author    = {Michael Eisler and
+               Peter Corbett and
+               Michael Kazar and
+               Daniel S. Nydick and
+               J. Christopher Wagner},
+  title     = {Data ONTAP GX: A Scalable Storage Cluster},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {139-152},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/MesnierWSLHGO07,
+  author    = {Michael P. Mesnier and
+               Matthew Wachs and
+               Raja R. Sambasivan and
+               Julio L{\'o}pez and
+               James Hendricks and
+               Gregory R. Ganger and
+               David R. O'Hallaron},
+  title     = {//TRACE: Parallel Trace Replay with Approximate Causal Events},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {153-167},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/YadgarFS07,
+  author    = {Gala Yadgar and
+               Michael Factor and
+               Assaf Schuster},
+  title     = {Karma: Know-It-All Replacement for a Multilevel Cache},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {169-184},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/GillB07,
+  author    = {Binny S. Gill and
+               Luis Angel D. Bathen},
+  title     = {AMP: Adaptive Multi-stream Prefetching in a Shared Cache},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {185-198},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/GulatiNT07,
+  author    = {Ajay Gulati and
+               Manoj Naik and
+               Renu Tewari},
+  title     = {Nache: Design and Implementation of a Caching Proxy for NFSv4},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {199-214},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/CiparCB07,
+  author    = {James Cipar and
+               Mark D. Corner and
+               Emery D. Berger},
+  title     = {TFS: A Transparent File System for Contributory Storage},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {215-229},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/VeeraraghavanMF07,
+  author    = {Kaushik Veeraraghavan and
+               Andrew Myrick and
+               Jason Flinn},
+  title     = {Cobalt: Separating Content Distribution from Authorization in Distributed File Systems},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {231-244},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/WeddleOQWRK07,
+  author    = {Charles Weddle and
+               Mathew Oldham and
+               Jin Qian and
+               An-I Andy Wang and
+               Peter L. Reiher and
+               Geoff Kuenning},
+  title     = {PARAID: A Gear-Shifting Power-Aware RAID},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {245-260},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Kenchammana-HosekoteHH07,
+  author    = {Deepak R. Kenchammana-Hosekote and
+               Dingshan He and
+               James Lee Hafner},
+  title     = {REO: A Generic RAID Engine and Optimizer},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {261-276},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/TianFJZZCWS07,
+  author    = {Lei Tian and
+               Dan Feng and
+               Hong Jiang and
+               Ke Zhou and
+               Lingfang Zeng and
+               Jianxi Chen and
+               Zhikun Wang and
+               Zhenlei Song},
+  title     = {PRO: A Popularity-based Multi-threaded Reconstruction Optimization for RAID-Structured Storage Systems},
+  booktitle = fast,
+  year      = 2007,
+  pages     = {277-290},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/Abd-El-MalekCCGHKMPSSSSTWW05,
-	title = "Ursa Minor: Versatile Cluster-based Storage.",
-	ee = "http://www.usenix.org/events/fast05/tech/abd-el-malek.html",
-	author = "Michael Abd-El-Malek and William V. Courtright II and Chuck Cranor and Gregory R. Ganger and James Hendricks and Andrew J. Klosterman and Michael Mesnier and Manish Prasad and Brandon Salmon and Raja R. Sambasivan and Shafeeq Sinnamohideen and John D. Strunk and Eno Thereska and Matthew Wachs and Jay J. Wylie"}
+  author    = {Michael Abd-El-Malek and
+               William V. Courtright II and
+               Chuck Cranor and
+               Gregory R. Ganger and
+               James Hendricks and
+               Andrew J. Klosterman and
+               Michael P. Mesnier and
+               Manish Prasad and
+               Brandon Salmon and
+               Raja R. Sambasivan and
+               Shafeeq Sinnamohideen and
+               John D. Strunk and
+               Eno Thereska and
+               Matthew Wachs and
+               Jay J. Wylie},
+  title     = {Ursa Minor: Versatile Cluster-based Storage},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/ButtcherC05,
-	title = "A Security Model for Full-Text File System Search in Multi-User
-               Environments.",
-	ee = "http://www.usenix.org/events/fast05/tech/buettcher.html",
-	author = "Stefan B{\"u}ttcher and Charles L. A. Clarke"}
+  author    = {Stefan B{\"u}ttcher and
+               Charles L. A. Clarke},
+  title     = {A Security Model for Full-Text File System Search in Multi-User Environments},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/DenehyAA05,
-	title = "Journal-guided Resynchronization for Software RAID.",
-	ee = "http://www.usenix.org/events/fast05/tech/denehy.html",
-	author = "Timothy E. Denehy and Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau"}
+  author    = {Timothy E. Denehy and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Journal-guided Resynchronization for Software RAID},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/Ford05,
-	title = "VXA: A Virtual Architecture for Durable Compressed Archives.",
-	ee = "http://www.usenix.org/events/fast05/tech/ford.html",
-	author = "Bryan Ford"}
+  author    = {Bryan Ford},
+  title     = {VXA: A Virtual Architecture for Durable Compressed Archives},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/GillM05,
-	title = "WOW: Wise Ordering for Writes - Combining Spatial and Temporal
-               Locality in Non-Volatile Caches.",
-	ee = "http://www.usenix.org/events/fast05/tech/gill.html",
-	author = "Binny S. Gill and Dharmendra S. Modha"}
+  author    = {Binny S. Gill and
+               Dharmendra S. Modha},
+  title     = {WOW: Wise Ordering for Writes - Combining Spatial and Temporal Locality in Non-Volatile Caches},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/Gray05,
-	title = "Greetings from a Filesystem User.",
-	ee = "http://www.usenix.org/events/fast05/tech/gray.pdf",
-	author = "Jim Gray"}
+  author    = {Jim Gray},
+  title     = {Greetings from a Filesystem User},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/Hafner05,
-	title = "WEAVER Codes: Highly Fault Tolerant Erasure Codes for Storage
-               Systems.",
-	ee = "http://www.usenix.org/events/fast05/tech/hafner_weaver.html",
-	author = "James Lee Hafner"}
+  author    = {James Lee Hafner},
+  title     = {WEAVER Codes: Highly Fault Tolerant Erasure Codes for Storage Systems},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/HafnerDRT05,
-	title = "Matrix Methods for Lost Data Reconstruction in Erasure Codes.",
-	ee = "http://www.usenix.org/events/fast05/tech/hafner_matrix.html",
-	author = "James Lee Hafner and Veera Deenadhayalan and K. K. Rao and John A. Tomlin"}
+  author    = {James Lee Hafner and
+               Veera Deenadhayalan and
+               K. K. Rao and
+               John A. Tomlin},
+  title     = {Matrix Methods for Lost Data Reconstruction in Erasure Codes},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/HuangX05,
-	title = "STAR: An Efficient Coding Scheme for Correcting Triple Storage
-               Node Failures.",
-	ee = "http://www.usenix.org/events/fast05/tech/huang.html",
-	author = "Cheng Huang and Lihao Xu"}
+  author    = {Cheng Huang and
+               Lihao Xu},
+  title     = {STAR: An Efficient Coding Scheme for Correcting Triple Storage Node Failures},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/JainDT05,
-	title = "TAPER: Tiered Approach for Eliminating Redundancy in Replica
-               Synchronization.",
-	ee = "http://www.usenix.org/events/fast05/tech/jain.html",
-	author = "Navendu Jain and Michael Dahlin and Renu Tewari"}
+  author    = {Navendu Jain and
+               Michael Dahlin and
+               Renu Tewari},
+  title     = {TAPER: Tiered Approach for Eliminating Redundancy in Replica Synchronization},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/JiangDCTZ05,
-	title = "DULO: An Effective Buffer Cache Management Scheme to Exploit
-               Both Temporal and Spatial Localities.",
-	ee = "http://www.usenix.org/events/fast05/tech/jiang.html",
-	author = "Song Jiang and Xiaoning Ding and Feng Chen and Enhua Tan and Xiaodong Zhang"}
+  author    = {Song Jiang and
+               Xiaoning Ding and
+               Feng Chen and
+               Enhua Tan and
+               Xiaodong Zhang},
+  title     = {DULO: An Effective Buffer Cache Management Scheme to Exploit Both Temporal and Spatial Localities},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/JoglekarKB05,
-	title = "A Scalable and High Performance Software iSCSI Implementation.",
-	ee = "http://www.usenix.org/events/fast05/tech/joglekar.html",
-	author = "Abhijeet Joglekar and Michael E. Kounavis and Frank L. Berry"}
+  author    = {Abhijeet Joglekar and
+               Michael E. Kounavis and
+               Frank L. Berry},
+  title     = {A Scalable and High Performance Software iSCSI Implementation},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/JoukovWZ05,
-	title = "Accurate and Efficient Replaying of File System Traces.",
-	ee = "http://www.usenix.org/events/fast05/tech/joukov.html",
-	author = "Nikolai Joukov and Timothy Wong and Erez Zadok"}
+  author    = {Nikolai Joukov and
+               Timothy Wong and
+               Erez Zadok},
+  title     = {Accurate and Efficient Replaying of File System Traces},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/LiASSG05,
-	title = "Second-Tier Cache Management Using Write Hints.",
-	ee = "http://www.usenix.org/events/fast05/tech/li_x.html",
-	author = "Xuhui Li and Ashraf Aboulnaga and Kenneth Salem and Aamer Sachedina and Shaobo Gao"}
+  author    = {Xuhui Li and
+               Ashraf Aboulnaga and
+               Kenneth Salem and
+               Aamer Sachedina and
+               Shaobo Gao},
+  title     = {Second-Tier Cache Management Using Write Hints},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/LiS05,
-	title = "Managing Prefetch Memory for Data-Intensive Online Servers.",
-	ee = "http://www.usenix.org/events/fast05/tech/li_c.html",
-	author = "Chuanpeng Li and Kai Shen"}
+  author    = {Chuanpeng Li and
+               Kai Shen},
+  title     = {Managing Prefetch Memory for Data-Intensive Online Servers},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/NathGS05,
-	title = "Adaptive Data Placement for Wide-Area Sensing Services.",
-	ee = "http://www.usenix.org/events/fast05/tech/nath.html",
-	author = "Suman Nath and Phillip B. Gibbons and Srinivasan Seshan"}
+  author    = {Suman Nath and
+               Phillip B. Gibbons and
+               Srinivasan Seshan},
+  title     = {Adaptive Data Placement for Wide-Area Sensing Services},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/PetersonBHSR05,
-	title = "Secure Deletion for a Versioning File System.",
-	ee = "http://www.usenix.org/events/fast05/tech/peterson.html",
-	author = "Zachary N. J. Peterson and Randal C. Burns and Joe Herring and Adam Stubblefield and Aviel D. Rubin"}
+  author    = {Zachary N. J. Peterson and
+               Randal C. Burns and
+               Joseph Herring and
+               Adam Stubblefield and
+               Aviel D. Rubin},
+  title     = {Secure Deletion for a Versioning File System},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/SchlosserSPSAFG05,
-	title = "On Multidimensional Data and Modern Disks.",
-	ee = "http://www.usenix.org/events/fast05/tech/schlosser.html",
-	author = "Steven W. Schlosser and Jiri Schindler and Stratos Papadomanolakis and Minglong Shao and Anastassia Ailamaki and Christos Faloutsos and Gregory R. Ganger"}
+  author    = {Steven W. Schlosser and
+               Jiri Schindler and
+               Stratos Papadomanolakis and
+               Minglong Shao and
+               Anastassia Ailamaki and
+               Christos Faloutsos and
+               Gregory R. Ganger},
+  title     = {On Multidimensional Data and Modern Disks},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/ShenZL05,
-	title = "I/O System Performance Debugging Using Model-driven Anomaly
-               Characterization.",
-	ee = "http://www.usenix.org/events/fast05/tech/shen.html",
-	author = "Kai Shen and Ming Zhong and Chuanpeng Li"}
+  author    = {Kai Shen and
+               Ming Zhong and
+               Chuanpeng Li},
+  title     = {I/O System Performance Debugging Using Model-driven Anomaly Characterization},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/SinghKV05,
-	title = "Zodiac: Efficient Impact Analysis for Storage Area Networks.",
-	ee = "http://www.usenix.org/events/fast05/tech/singh.html",
-	author = "Aameek Singh and Madhukar R. Korupolu and Kaladhar Voruganti"}
+  author    = {Aameek Singh and
+               Madhukar R. Korupolu and
+               Kaladhar Voruganti},
+  title     = {Zodiac: Efficient Impact Analysis for Storage Area Networks},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/SivathanuAAJ05,
-	title = "A Logic of File Systems.",
-	ee = "http://www.usenix.org/events/fast05/tech/sivathanu_logic.html",
-	author = "Muthian Sivathanu and Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau and Somesh Jha"}
+  author    = {Muthian Sivathanu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Somesh Jha},
+  title     = {A Logic of File Systems},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/SivathanuBAA05,
-	title = "Database-Aware Semantically-Smart Storage.",
-	ee = "http://www.usenix.org/events/fast05/tech/sivathanu_db.html",
-	author = "Muthian Sivathanu and Lakshmi N. Bairavasundaram and Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau"}
+  author    = {Muthian Sivathanu and
+               Lakshmi N. Bairavasundaram and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Database-Aware Semantically-Smart Storage},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/VilayannurNS05,
-	title = "Providing Tunable Consistency for a Parallel File Store.",
-	ee = "http://www.usenix.org/events/fast05/tech/vilayannur.html",
-	author = "Murali Vilayannur and Partho Nath and Anand Sivasubramaniam"}
+  author    = {Murali Vilayannur and
+               Partho Nath and
+               Anand Sivasubramaniam},
+  title     = {Providing Tunable Consistency for a Parallel File Store},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/WeiP05,
-	title = "TOCTTOU Vulnerabilities in UNIX-Style File Systems: An Anatomical
-               Study.",
-	ee = "http://www.usenix.org/events/fast05/tech/wei.html",
-	author = "Jinpeng Wei and Calton Pu"}
+  author    = {Jinpeng Wei and
+               Calton Pu},
+  title     = {TOCTTOU Vulnerabilities in UNIX-Style File Systems: An Anatomical Study},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/Zeinalipour-YaztiLKGN05,
-	title = "MicroHash: An Efficient Index Structure for Flash-Based
-               Sensor Devices.",
-	ee = "http://www.usenix.org/events/fast05/tech/zeinalipour-yazti.html",
-	author = "Demetrios Zeinalipour-Yazti and Song Lin and Vana Kalogeraki and Dimitrios Gunopulos and Walid A. Najjar"}
+  author    = {Demetrios Zeinalipour-Yazti and
+               Song Lin and
+               Vana Kalogeraki and
+               Dimitrios Gunopulos and
+               Walid A. Najjar},
+  title     = {MicroHash: An Efficient Index Structure for Flash-Based Sensor Devices},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/ZhuCC05,
-	title = "TBBT: Scalable and Accurate Trace Replay for File Server
-               Evaluation.",
-	ee = "http://www.usenix.org/events/fast05/tech/zhu.html",
-	author = "Ningning Zhu and Jiawu Chen and Tzi-cker Chiueh"}
-
-@default year = 2004
-
-@inproceedings{DBLP:conf/fast/AnastasiadisWC04,
-	title = "Circus: Opportunistic Block Reordering for Scalable Content
-               Servers.",
-	ee = "http://www.usenix.org/events/fast04/tech/anastasiadis.html",
-	author = "Stergios V. Anastasiadis and Rajiv Wickremesinghe and Jeffrey S. Chase",
-	pages = "201-212"}
-
-@inproceedings{DBLP:conf/fast/AndersonKUS04,
-	title = "Buttress: A Toolkit for Flexible and High Fidelity I/O Benchmarking.",
-	ee = "http://www.usenix.org/events/fast04/tech/anderson.html",
-	author = "Eric Anderson and Mahesh Kallahalla and Mustafa Uysal and Ram Swaminathan",
-	pages = "45-58"}
-
-@inproceedings{DBLP:conf/fast/AranyaWZ04,
-	title = "Tracefs: A File System to Trace Them All.",
-	ee = "http://www.usenix.org/events/fast04/tech/aranya.html",
-	author = "Akshat Aranya and Charles P. Wright and Erez Zadok",
-	pages = "129-145"}
-
-@inproceedings{DBLP:conf/fast/BansalM04,
-	title = "CAR: Clock with Adaptive Replacement.",
-	ee = "http://www.usenix.org/events/fast04/tech/bansal.html",
-	author = "Sorav Bansal and Dharmendra S. Modha",
-	pages = "187-200"}
-
-@inproceedings{DBLP:conf/fast/CorbettEGGKLS04,
-	title = "Row-Diagonal Parity for Double Disk Failure Correction (Awarded
-               Best Paper!).",
-	ee = "http://www.usenix.org/events/fast04/tech/corbett.html",
-	author = "Peter F. Corbett and Robert English and Atul Goel and Tomislav Grcanac and Steven Kleiman and James Leong and Sunitha Sankar",
-	pages = "1-14"}
+  author    = {Ningning Zhu and
+               Jiawu Chen and
+               Tzi-cker Chiueh},
+  title     = {TBBT: Scalable and Accurate Trace Replay for File Server Evaluation},
+  booktitle = fast,
+  year      = 2005,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/Gibson04,
-	title = "Scaling File Service Up and Out.",
-	ee = "http://www.usenix.org/events/fast04/tech/gibson.pdf",
-	author = "Garth A. Gibson"}
+  author    = {Garth A. Gibson},
+  title     = {Scaling File Service Up and Out},
+  booktitle = fast,
+  year      = 2004,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
-@inproceedings{DBLP:conf/fast/HustonSWSGRA04,
-	title = "Diamond: A Storage Architecture for Early Discard in Interactive
-               Search.",
-	ee = "http://www.usenix.org/events/fast04/tech/huston.html",
-	author = "Larry Huston and Rahul Sukthankar and Rajiv Wickremesinghe and Mahadev Satyanarayanan and Gregory R. Ganger and Erik Riedel and Anastassia Ailamaki",
-	pages = "73-86"}
-
-@inproceedings{DBLP:conf/fast/KeetonSBCW04,
-	title = "Designing for Disasters.",
-	ee = "http://www.usenix.org/events/fast04/tech/keeton.html",
-	author = "Kimberly Keeton and Cipriano A. Santos and Dirk Beyer 0002 and Jeffrey S. Chase and John Wilkes",
-	pages = "59-72"}
-
-@inproceedings{DBLP:conf/fast/LiCSZ04,
-	title = "C-Miner: Mining Block Correlations in Storage Systems.",
-	ee = "http://www.usenix.org/events/fast04/tech/li.html",
-	author = "Zhenmin Li and Zhifeng Chen and Sudarshan M. Srinivasan and Yuanyuan Zhou",
-	pages = "173-186"}
-
-@inproceedings{DBLP:conf/fast/Muniswamy-ReddyWHZ04,
-	title = "A Versatile and User-Oriented Versioning File System.",
-	ee = "http://www.usenix.org/events/fast04/tech/muniswamy.html",
-	author = "Kiran-Kumar Muniswamy-Reddy and Charles P. Wright and Andrew Himmer and Erez Zadok",
-	pages = "115-128"}
-
-@inproceedings{DBLP:conf/fast/RadkovYGSS04,
-	title = "A Performance Comparison of NFS and iSCSI for IP-Networked
-               Storage.",
-	ee = "http://www.usenix.org/events/fast04/tech/radkov.html",
-	author = "Peter Radkov and Li Yin and Pawan Goyal and Prasenjit Sarkar and Prashant J. Shenoy",
-	pages = "101-114"}
-
-@inproceedings{DBLP:conf/fast/SchindlerSSAG04,
-	title = "Atropos: A Disk Array Volume Manager for Orchestrated Use
-               of Disks.",
-	ee = "http://www.usenix.org/events/fast04/tech/schindler.html",
-	author = "Jiri Schindler and Steven W. Schlosser and Minglong Shao and Anastassia Ailamaki and Gregory R. Ganger",
-	pages = "159-172"}
-
-@inproceedings{DBLP:conf/fast/SchlosserG04,
-	title = "MEMS-based Storage Devices and Standard Disk Interfaces:
-               A Square Peg in a Round Hole?",
-	ee = "http://www.usenix.org/events/fast04/tech/schlosser.html",
-	author = "Steven W. Schlosser and Gregory R. Ganger",
-	pages = "87-100"}
+@inproceedings{DBLP:conf/fast/CorbettEGGKLS04,
+  author    = {Peter F. Corbett and
+               Robert English and
+               Atul Goel and
+               Tomislav Grcanac and
+               Steven Kleiman and
+               James Leong and
+               Sunitha Sankar},
+  title     = {Row-Diagonal Parity for Double Disk Failure Correction},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {1-14},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/SivathanuPAA04,
-	title = "Improving Storage System Availability with D-GRAID (Awarded
-               Best Student Paper!).",
-	ee = "http://www.usenix.org/events/fast04/tech/sivathanu.html",
-	author = "Muthian Sivathanu and Vijayan Prabhakaran and Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau",
-	pages = "15-30"}
-
-@inproceedings{DBLP:conf/fast/SobtiGZLSZZKW04,
-	title = "Segank: A Distributed Mobile Storage System.",
-	ee = "http://www.usenix.org/events/fast04/tech/sobti.html",
-	author = "Sumeet Sobti and Nitin Garg and Fengzhou Zheng and Junwen Lai and Yilei Shao and Chi Zhang and Elisha Ziskind and Arvind Krishnamurthy and Randolph Y. Wang",
-	pages = "239-252"}
-
-@inproceedings{DBLP:conf/fast/ThereskaSBSLG04,
-	title = "A Framework for Building Unobtrusive Disk Maintenance Applications
-               (Awarded Best Student Paper!).",
-	ee = "http://www.usenix.org/events/fast04/tech/thereska.html",
-	author = "Eno Thereska and Jiri Schindler and John S. Bucy and Brandon Salmon and Christopher R. Lumb and Gregory R. Ganger",
-	pages = "213-226"}
-
-@inproceedings{DBLP:conf/fast/ToliaHKS04,
-	title = "Integrating Portable and Distributed Storage.",
-	ee = "http://www.usenix.org/events/fast04/tech/tolia.html",
-	author = "Niraj Tolia and Jan Harkes and Michael Kozuch and Mahadev Satyanarayanan",
-	pages = "227-238"}
+  author    = {Muthian Sivathanu and
+               Vijayan Prabhakaran and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Improving Storage System Availability with D-GRAID},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {15-30},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/UttamchandaniVSPP04,
-	title = "Polus: Growing Storage QoS Management Beyond a ``4-Year Old
-               Kid''.",
-	ee = "http://www.usenix.org/events/fast04/tech/uttamchandani.html",
-	author = "Sandeep Uttamchandani and Kaladhar Voruganti and Sudarshan M. Srinivasan and John Palmer and David Pease",
-	pages = "31-44"}
+  author    = {Sandeep Uttamchandani and
+               Kaladhar Voruganti and
+               Sudarshan M. Srinivasan and
+               John Palmer and
+               David Pease},
+  title     = {Polus: Growing Storage QoS Management Beyond a "4-Year Old Kid"},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {31-44},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/AndersonKUS04,
+  author    = {Eric Anderson and
+               Mahesh Kallahalla and
+               Mustafa Uysal and
+               Ram Swaminathan},
+  title     = {Buttress: A Toolkit for Flexible and High Fidelity I/O Benchmarking},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {45-58},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/KeetonSBCW04,
+  author    = {Kimberly Keeton and
+               Cipriano A. Santos and
+               Dirk Beyer and
+               Jeffrey S. Chase and
+               John Wilkes},
+  title     = {Designing for Disasters},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {59-72},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/HustonSWSGRA04,
+  author    = {Larry Huston and
+               Rahul Sukthankar and
+               Rajiv Wickremesinghe and
+               Mahadev Satyanarayanan and
+               Gregory R. Ganger and
+               Erik Riedel and
+               Anastassia Ailamaki},
+  title     = {Diamond: A Storage Architecture for Early Discard in Interactive Search},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {73-86},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SchlosserG04,
+  author    = {Steven W. Schlosser and
+               Gregory R. Ganger},
+  title     = {MEMS-based Storage Devices and Standard Disk Interfaces: A Square Peg in a Round Hole?},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {87-100},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/RadkovYGSS04,
+  author    = {Peter Radkov and
+               Li Yin and
+               Pawan Goyal and
+               Prasenjit Sarkar and
+               Prashant J. Shenoy},
+  title     = {A Performance Comparison of NFS and iSCSI for IP-Networked Storage},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {101-114},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/Muniswamy-ReddyWHZ04,
+  author    = {Kiran-Kumar Muniswamy-Reddy and
+               Charles P. Wright and
+               Andrew Himmer and
+               Erez Zadok},
+  title     = {A Versatile and User-Oriented Versioning File System},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {115-128},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/AranyaWZ04,
+  author    = {Akshat Aranya and
+               Charles P. Wright and
+               Erez Zadok},
+  title     = {Tracefs: A File System to Trace Them All},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {129-145},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/WangZB04,
-	title = "HyLog: A High Performance Approach to Managing Disk Layout.",
-	ee = "http://www.usenix.org/events/fast04/tech/wang.html",
-	author = "Wenguang Wang and Yanping Zhao and Rick Bunt",
-	pages = "145-158"}
+  author    = {Wenguang Wang and
+               Yanping Zhao and
+               Rick Bunt},
+  title     = {HyLog: A High Performance Approach to Managing Disk Layout},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {145-158},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
-@default year = 2003
+@inproceedings{DBLP:conf/fast/SchindlerSSAG04,
+  author    = {Jiri Schindler and
+               Steven W. Schlosser and
+               Minglong Shao and
+               Anastassia Ailamaki and
+               Gregory R. Ganger},
+  title     = {Atropos: A Disk Array Volume Manager for Orchestrated Use of Disks},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {159-172},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/LiCSZ04,
+  author    = {Zhenmin Li and
+               Zhifeng Chen and
+               Sudarshan M. Srinivasan and
+               Yuanyuan Zhou},
+  title     = {C-Miner: Mining Block Correlations in Storage Systems},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {173-186},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/BansalM04,
+  author    = {Sorav Bansal and
+               Dharmendra S. Modha},
+  title     = {CAR: Clock with Adaptive Replacement},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {187-200},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/AnastasiadisWC04,
+  author    = {Stergios V. Anastasiadis and
+               Rajiv Wickremesinghe and
+               Jeffrey S. Chase},
+  title     = {Circus: Opportunistic Block Reordering for Scalable Content Servers},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {201-212},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ThereskaSBSLG04,
+  author    = {Eno Thereska and
+               Jiri Schindler and
+               John S. Bucy and
+               Brandon Salmon and
+               Christopher R. Lumb and
+               Gregory R. Ganger},
+  title     = {A Framework for Building Unobtrusive Disk Maintenance Applications},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {213-226},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ToliaHKS04,
+  author    = {Niraj Tolia and
+               Jan Harkes and
+               Michael Kozuch and
+               Mahadev Satyanarayanan},
+  title     = {Integrating Portable and Distributed Storage},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {227-238},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SobtiGZLSZZKW04,
+  author    = {Sumeet Sobti and
+               Nitin Garg and
+               Fengzhou Zheng and
+               Junwen Lai and
+               Yilei Shao and
+               Chi Zhang and
+               Elisha Ziskind and
+               Arvind Krishnamurthy and
+               Randolph Y. Wang},
+  title     = {Segank: A Distributed Mobile Storage System},
+  booktitle = fast,
+  year      = 2004,
+  pages     = {239-252},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/AguileraJLMOABMT03,
-	title = "Block-Level Security for Network-Attached Disks.",
-	ee = "http://www.usenix.org/events/fast03/tech/aguilera.html",
-	author = "Marcos Kawazoe Aguilera and Minwen Ji and Mark Lillibridge and John MacCormick and Erwin Oertli and David G. Andersen and Michael Burrows and Timothy Mann and Chandramohan A. Thekkath"}
+  author    = {Marcos Kawazoe Aguilera and
+               Minwen Ji and
+               Mark Lillibridge and
+               John MacCormick and
+               Erwin Oertli and
+               David G. Andersen and
+               Michael Burrows and
+               Timothy Mann and
+               Chandramohan A. Thekkath},
+  title     = {Block-Level Security for Network-Attached Disks},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/AndersonDR03,
-	title = "More Than an Interface - SCSI vs. ATA.",
-	ee = "http://www.usenix.org/events/fast03/tech/anderson.html",
-	author = "Dave Anderson and Jim Dykes and Erik Riedel"}
+  author    = {Dave Anderson and
+               Jim Dykes and
+               Erik Riedel},
+  title     = {More Than an Interface - SCSI vs. ATA},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/DeBergalisCKLNTW03,
-	title = "The Direct Access File System.",
-	ee = "http://www.usenix.org/events/fast03/tech/debergalis.html",
-	author = "Matt DeBergalis and Peter F. Corbett and Steven Kleiman and Arthur Lent and Dave Noveck and Tom Talpey and Mark Wittle"}
+  author    = {Matt DeBergalis and
+               Peter F. Corbett and
+               Steven Kleiman and
+               Arthur Lent and
+               Dave Noveck and
+               Thomas Talpey and
+               Mark Wittle},
+  title     = {The Direct Access File System},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/DimitrijevicRC03,
-	title = "Design and Implementation of Semi-preemptible IO.",
-	ee = "http://www.usenix.org/events/fast03/tech/dimitrijevic.html",
-	author = "Zoran Dimitrijevic and Raju Rangaswami and Edward Y. Chang"}
+  author    = {Zoran Dimitrijevic and
+               Raju Rangaswami and
+               Edward Y. Chang},
+  title     = {Design and Implementation of Semi-preemptible IO},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/DramalievM03,
-	title = "Optimizing Probe-Based Storage.",
-	ee = "http://www.usenix.org/events/fast03/tech/dramaliev.html",
-	author = "Ivan Dramaliev and Tara M. Madhyastha"}
+  author    = {Ivan Dramaliev and
+               Tara M. Madhyastha},
+  title     = {Optimizing Probe-Based Storage},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/EllardLMS03,
-	title = "Passive NFS Tracing of Email and Research Workloads.",
-	ee = "http://www.usenix.org/events/fast03/tech/ellard.html",
-	author = "Daniel Ellard and Jonathan Ledlie and Pia Malkani and Margo I. Seltzer"}
+  author    = {Daniel Ellard and
+               Jonathan Ledlie and
+               Pia Malkani and
+               Margo I. Seltzer},
+  title     = {Passive NFS Tracing of Email and Research Workloads},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/FlinnSTS03,
-	title = "Data Staging on Untrusted Surrogates.",
-	ee = "http://www.usenix.org/events/fast03/tech/flinn.html",
-	author = "Jason Flinn and Shafeeq Sinnamohideen and Niraj Tolia and Mahadev Satyanarayanan"}
+  author    = {Jason Flinn and
+               Shafeeq Sinnamohideen and
+               Niraj Tolia and
+               Mahadev Satyanarayanan},
+  title     = {Data Staging on Untrusted Surrogates},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/KallahallaRSWF03,
-	title = "Plutus: Scalable Secure File Sharing on Untrusted Storage.",
-	ee = "http://www.usenix.org/events/fast03/tech/kallahalla.html",
-	author = "Mahesh Kallahalla and Erik Riedel and Ram Swaminathan and Qian Wang and Kevin Fu"}
+  author    = {Mahesh Kallahalla and
+               Erik Riedel and
+               Ram Swaminathan and
+               Qian Wang and
+               Kevin Fu},
+  title     = {Plutus: Scalable Secure File Sharing on Untrusted Storage},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/LumbMA03,
-	title = "Fa\c{c}ade: Virtual Storage Devices with Performance
-               Guarantees.",
-	ee = "http://www.usenix.org/events/fast03/tech/lumb.html",
-	author = "Christopher R. Lumb and Arif Merchant and Guillermo A. Alvarez"}
+  author    = {Christopher R. Lumb and
+               Arif Merchant and
+               Guillermo A. Alvarez},
+  title     = {Fa{\c{c}}ade: Virtual Storage Devices with Performance Guarantees},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/MagoutisAFS03,
-	title = "Making the Most Out of Direct-Access Network Attached Storage.",
-	ee = "http://www.usenix.org/events/fast03/tech/magoutis.html",
-	author = "Kostas Magoutis and Salimah Addetia and Alexandra Fedorova and Margo I. Seltzer"}
+  author    = {Kostas Magoutis and
+               Salimah Addetia and
+               Alexandra Fedorova and
+               Margo I. Seltzer},
+  title     = {Making the Most Out of Direct-Access Network Attached Storage},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/MegiddoM03,
-	title = "ARC: A Self-Tuning, Low Overhead Replacement Cache.",
-	ee = "http://www.usenix.org/events/fast03/tech/megiddo.html",
-	author = "Nimrod Megiddo and Dharmendra S. Modha"}
+  author    = {Nimrod Megiddo and
+               Dharmendra S. Modha},
+  title     = {ARC: A Self-Tuning, Low Overhead Replacement Cache},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/MooreBR03,
-	title = "Petabytes and Beyond.",
-	ee = "http://www.usenix.org/events/fast03/tech/ruwart/index.html",
-	author = "Reagan Moore and Dave Belanger and Thomas Ruwart"}
+  author    = {Reagan Moore and
+               Dave Belanger and
+               Thomas Ruwart},
+  title     = {Petabytes and Beyond},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/RheaEGWZK03,
-	title = "Pond: The OceanStore Prototype.",
-	ee = "http://www.usenix.org/events/fast03/tech/rhea.html",
-	author = "Sean C. Rhea and Patrick R. Eaton and Dennis Geels and Hakim Weatherspoon and Ben Y. Zhao and John Kubiatowicz"}
+  author    = {Sean C. Rhea and
+               Patrick R. Eaton and
+               Dennis Geels and
+               Hakim Weatherspoon and
+               Ben Y. Zhao and
+               John Kubiatowicz},
+  title     = {Pond: The OceanStore Prototype},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/SarkarUV03,
-	title = "Storage Over IP: When Does Hardware Support Help?",
-	ee = "http://www.usenix.org/events/fast03/tech/sarkar.html",
-	author = "Prasenjit Sarkar and Sandeep Uttamchandani and Kaladhar Voruganti"}
+  author    = {Prasenjit Sarkar and
+               Sandeep Uttamchandani and
+               Kaladhar Voruganti},
+  title     = {Storage Over IP: When Does Hardware Support Help?},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/SivathanuPPDAA03,
-	title = "Semantically-Smart Disk Systems.",
-	ee = "http://www.usenix.org/events/fast03/tech/sivathanu.html",
-	author = "Muthian Sivathanu and Vijayan Prabhakaran and Florentina I. Popovici and Timothy E. Denehy and Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau"}
+  author    = {Muthian Sivathanu and
+               Vijayan Prabhakaran and
+               Florentina I. Popovici and
+               Timothy E. Denehy and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Semantically-Smart Disk Systems},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/SoulesGSG03,
-	title = "Metadata Efficiency in Versioning File Systems.",
-	ee = "http://www.usenix.org/events/fast03/tech/soules.html",
-	author = "Craig A. N. Soules and Garth R. Goodson and John D. Strunk and Gregory R. Ganger"}
+  author    = {Craig A. N. Soules and
+               Garth R. Goodson and
+               John D. Strunk and
+               Gregory R. Ganger},
+  title     = {Metadata Efficiency in Versioning File Systems},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/UysalMA03,
-	title = "Using MEMS-Based Storage in Disk Arrays.",
-	ee = "http://www.usenix.org/events/fast03/tech/uysal.html",
-	author = "Mustafa Uysal and Arif Merchant and Guillermo A. Alvarez"}
+  author    = {Mustafa Uysal and
+               Arif Merchant and
+               Guillermo A. Alvarez},
+  title     = {Using MEMS-Based Storage in Disk Arrays},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/Wilkes03,
-	title = "Data Services - From Data to Containers.",
-	ee = "http://www.usenix.org/events/fast03/tech/fast03_keynote.pdf",
-	author = "John Wilkes"}
+  author    = {John Wilkes},
+  title     = {Data Services - From Data to Containers},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/ZedlewskiSGZKW03,
-	title = "Modeling Hard-Disk Power Consumption.",
-	ee = "http://www.usenix.org/events/fast03/tech/zedlewski.html",
-	author = "John Zedlewski and Sumeet Sobti and Nitin Garg and Fengzhou Zheng and Arvind Krishnamurthy and Randolph Y. Wang"}
+  author    = {John Zedlewski and
+               Sumeet Sobti and
+               Nitin Garg and
+               Fengzhou Zheng and
+               Arvind Krishnamurthy and
+               Randolph Y. Wang},
+  title     = {Modeling Hard-Disk Power Consumption},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/ZhangG03,
-	title = "yFS: A Journaling File System Design for Handling Large
-               Data Sets with Reduced Seeking.",
-	ee = "http://www.usenix.org/events/fast03/tech/zhang.html",
-	author = "Zhihui Zhang and Kanad Ghose"}
-
-@default year = 2002
-
-@inproceedings{DBLP:conf/fast/AndersonHKSUV02,
-	title = "Hippodrome: Running Circles Around Storage Administration.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/andersonHIP.html",
-	author = "Eric Anderson and Michael Hobbs and Kimberly Keeton and Susan Spence and Mustafa Uysal and Alistair C. Veitch",
-	pages = "175-188"}
-
-@inproceedings{DBLP:conf/fast/AndersonSVAW02,
-	title = "Selecting RAID Levels for Disk Arrays.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/andersonRAID.html",
-	author = "Eric Anderson and Ram Swaminathan and Alistair C. Veitch and Guillermo A. Alvarez and John Wilkes",
-	pages = "189-201"}
-
-@inproceedings{DBLP:conf/fast/ChangJLMPZ02,
-	title = "Myriad: Cost-Effective Disaster Tolerance.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/chang.html",
-	author = "Fay W. Chang and Minwen Ji and Shun-Tak Leung and John MacCormick and Sharon E. Perl and Li Zhang",
-	pages = "103-116"}
-
-@inproceedings{DBLP:conf/fast/ForneyAA02,
-	title = "Storage-Aware Caching: Revisiting Caching for Heterogeneous
-               Storage Systems.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/forney.html",
-	author = "Brian C. Forney and Andrea C. Arpaci-Dusseau and Remzi H. Arpaci-Dusseau",
-	pages = "61-74"}
-
-@inproceedings{DBLP:conf/fast/GriffinSSBG02,
-	title = "Timing-Accurate Storage Emulation.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/griffin.html",
-	author = "John Linwood Griffin and Jiri Schindler and Steven W. Schlosser and John S. Bucy and Gregory R. Ganger",
-	pages = "75-88"}
-
-@inproceedings{DBLP:conf/fast/KimCN02,
-	title = "Safety, Visibility, and Performance in a Wide-Area File
-               System.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/kim.html",
-	author = "Minkyong Kim and Landon P. Cox and Brian D. Noble",
-	pages = "131-144"}
-
-@inproceedings{DBLP:conf/fast/LuAW02,
-	title = "Aqueduct: Online Data Migration with Performance Guarantees.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/lu.html",
-	author = "Chenyang Lu and Guillermo A. Alvarez and John Wilkes",
-	pages = "219-230"}
-
-@inproceedings{DBLP:conf/fast/LumbSG02,
-	title = "Freeblock Scheduling Outside of Disk Firmware.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/lumb.html",
-	author = "Christopher R. Lumb and Jiri Schindler and Gregory R. Ganger",
-	pages = "275-288"}
-
-@inproceedings{DBLP:conf/fast/ManiatisB02,
-	title = "Enabling the Archival Storage of Signed Documents.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/maniatis.html",
-	author = "Petros Maniatis and Mary Baker",
-	pages = "31-45"}
-
-@inproceedings{DBLP:conf/fast/MemikKC02,
-	title = "Exploiting Inter-File Access Patterns Using Multi-Collective
-               I/O.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/memik.html",
-	author = "Gokhan Memik and Mahmut T. Kandemir and Alok N. Choudhary",
-	pages = "245-258"}
+  author    = {Zhihui Zhang and
+               Kanad Ghose},
+  title     = {yFS: A Journaling File System Design for Handling Large Data Sets with Reduced Seeking},
+  booktitle = fast,
+  year      = 2003,
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/MillerLFR02,
-	title = "Strong Security for Network-Attached Storage.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/miller.html",
-	author = "Ethan L. Miller and Darrell D. E. Long and William E. Freeman and Benjamin Reed",
-	pages = "1-13"}
-
-@inproceedings{DBLP:conf/fast/NgHSGO02,
-	title = "Obtaining High Performance for Storage Outsourcing.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/ng.html",
-	author = "Wee Teck Ng and Bruce Hillyer and Elizabeth A. M. Shriver and Eran Gabber and Banu {\"O}zden",
-	pages = "145-158"}
-
-@inproceedings{DBLP:conf/fast/PattersonMFHKO02,
-	title = "SnapMirror: File-System-Based Asynchronous Mirroring for
-               Disaster Recovery.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/patterson.html",
-	author = "R. Hugo Patterson and Stephen Manley and Mike Federwisch and Dave Hitz and Steven Kleiman and Shane Owara",
-	pages = "117-129"}
-
-@inproceedings{DBLP:conf/fast/QuinlanD02,
-	title = "Venti: A New Approach to Archival Storage.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/quinlan.html",
-	author = "Sean Quinlan and Sean Dorward",
-	pages = "89-101"}
+  author    = {Ethan L. Miller and
+               Darrell D. E. Long and
+               William E. Freeman and
+               Benjamin Reed},
+  title     = {Strong Security for Network-Attached Storage},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {1-13},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/RiedelKS02,
-	title = "A Framework for Evaluating Storage System Security.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/riedel.html",
-	author = "Erik Riedel and Mahesh Kallahalla and Ram Swaminathan",
-	pages = "15-30"}
+  author    = {Erik Riedel and
+               Mahesh Kallahalla and
+               Ram Swaminathan},
+  title     = {A Framework for Evaluating Storage System Security},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {15-30},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
-@inproceedings{DBLP:conf/fast/SchindlerGLG02,
-	title = "Track-Aligned Extents: Matching Access Patterns to Disk
-               Drive Characteristics.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/schindler.html",
-	author = "Jiri Schindler and John Linwood Griffin and Christopher R. Lumb and Gregory R. Ganger",
-	pages = "259-274"}
-
-@inproceedings{DBLP:conf/fast/SchmuckH02,
-	title = "GPFS: A Shared-Disk File System for Large Computing Clusters.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/schmuck.html",
-	author = "Frank B. Schmuck and Roger L. Haskin",
-	pages = "231-244"}
-
-@inproceedings{DBLP:conf/fast/SobtiGZYKW02,
-	title = "PersonalRAID: Mobile Storage for Distributed and Disconnected
-               Computers.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/sobti.html",
-	author = "Sumeet Sobti and Nitin Garg and Chi Zhang and Xiang Yu and Arvind Krishnamurthy and Randolph Y. Wang",
-	pages = "159-174"}
+@inproceedings{DBLP:conf/fast/ManiatisB02,
+  author    = {Petros Maniatis and
+               Mary Baker},
+  title     = {Enabling the Archival Storage of Signed Documents},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {31-45},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/WangH02,
-	title = "WOLF - A Novel Reordering Write Buffer to Boost the Performance
-               of Log-Structured File Systems.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/wang.html",
-	author = "Jun Wang and Yiming Hu",
-	pages = "47-60"}
+  author    = {Jun Wang and
+               Yiming Hu},
+  title     = {WOLF - A Novel Reordering Write Buffer to Boost the Performance of Log-Structured File Systems},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {47-60},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ForneyAA02,
+  author    = {Brian C. Forney and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Storage-Aware Caching: Revisiting Caching for Heterogeneous Storage Systems},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {61-74},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/GriffinSSBG02,
+  author    = {John Linwood Griffin and
+               Jiri Schindler and
+               Steven W. Schlosser and
+               John S. Bucy and
+               Gregory R. Ganger},
+  title     = {Timing-Accurate Storage Emulation},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {75-88},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/QuinlanD02,
+  author    = {Sean Quinlan and
+               Sean Dorward},
+  title     = {Venti: A New Approach to Archival Storage},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {89-101},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/ChangJLMPZ02,
+  author    = {Fay W. Chang and
+               Minwen Ji and
+               Shun-Tak Leung and
+               John MacCormick and
+               Sharon E. Perl and
+               Li Zhang},
+  title     = {Myriad: Cost-Effective Disaster Tolerance},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {103-116},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/PattersonMFHKO02,
+  author    = {R. Hugo Patterson and
+               Stephen Manley and
+               Mike Federwisch and
+               Dave Hitz and
+               Steven Kleiman and
+               Shane Owara},
+  title     = {SnapMirror: File-System-Based Asynchronous Mirroring for Disaster Recovery},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {117-129},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/KimCN02,
+  author    = {Minkyong Kim and
+               Landon P. Cox and
+               Brian D. Noble},
+  title     = {Safety, Visibility, and Performance in a Wide-Area File System},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {131-144},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/NgHSGO02,
+  author    = {Wee Teck Ng and
+               Bruce Hillyer and
+               Elizabeth A. M. Shriver and
+               Eran Gabber and
+               Banu {\"O}zden},
+  title     = {Obtaining High Performance for Storage Outsourcing},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {145-158},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SobtiGZYKW02,
+  author    = {Sumeet Sobti and
+               Nitin Garg and
+               Chi Zhang and
+               Xiang Yu and
+               Arvind Krishnamurthy and
+               Randolph Y. Wang},
+  title     = {PersonalRAID: Mobile Storage for Distributed and Disconnected Computers},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {159-174},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/AndersonHKSUV02,
+  author    = {Eric Anderson and
+               Michael Hobbs and
+               Kimberly Keeton and
+               Susan Spence and
+               Mustafa Uysal and
+               Alistair C. Veitch},
+  title     = {Hippodrome: Running Circles Around Storage Administration},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {175-188},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/AndersonSVAW02,
+  author    = {Eric Anderson and
+               Ram Swaminathan and
+               Alistair C. Veitch and
+               Guillermo A. Alvarez and
+               John Wilkes},
+  title     = {Selecting RAID Levels for Disk Arrays},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {189-201},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/WardOSW02,
-	title = "Appia: Automatic Storage Area Network Fabric Design.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/ward.html",
-	author = "Julie Ward and Michael O'Sullivan and Troy Shahoumian and John Wilkes",
-	pages = "203-217"}
+  author    = {Julie Ward and
+               Michael O'Sullivan and
+               Troy Shahoumian and
+               John Wilkes},
+  title     = {Appia: Automatic Storage Area Network Fabric Design},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {203-217},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/LuAW02,
+  author    = {Chenyang Lu and
+               Guillermo A. Alvarez and
+               John Wilkes},
+  title     = {Aqueduct: Online Data Migration with Performance Guarantees},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {219-230},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SchmuckH02,
+  author    = {Frank B. Schmuck and
+               Roger L. Haskin},
+  title     = {GPFS: A Shared-Disk File System for Large Computing Clusters},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {231-244},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/MemikKC02,
+  author    = {Gokhan Memik and
+               Mahmut T. Kandemir and
+               Alok N. Choudhary},
+  title     = {Exploiting Inter-File Access Patterns Using Multi-Collective I/O},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {245-258},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/SchindlerGLG02,
+  author    = {Jiri Schindler and
+               John Linwood Griffin and
+               Christopher R. Lumb and
+               Gregory R. Ganger},
+  title     = {Track-Aligned Extents: Matching Access Patterns to Disk Drive Characteristics},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {259-274},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/fast/LumbSG02,
+  author    = {Christopher R. Lumb and
+               Jiri Schindler and
+               Gregory R. Ganger},
+  title     = {Freeblock Scheduling Outside of Disk Firmware},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {275-288},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
 
 @inproceedings{DBLP:conf/fast/ZhangYKW02,
-	title = "Configuring and Scheduling an Eager-Writing Disk Array for
-               a Transaction Processing Workload.",
-	ee = "http://www.usenix.org/publications/library/proceedings/fast02/zhang.html",
-	author = "Chi Zhang and Xiang Yu and Arvind Krishnamurthy and Randolph Y. Wang",
-	pages = "289-304"}
+  author    = {Chi Zhang and
+               Xiang Yu and
+               Arvind Krishnamurthy and
+               Randolph Y. Wang},
+  title     = {Configuring and Scheduling an Eager-Writing Disk Array for a Transaction Processing Workload},
+  booktitle = fast,
+  year      = 2002,
+  pages     = {289-304},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

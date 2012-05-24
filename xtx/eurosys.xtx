@@ -1,0 +1,1929 @@
+@include conferences-cs
+
+@inproceedings{DBLP:conf/eurosys/GeambasuJGKL11,
+  author    = {Roxana Geambasu and
+               John P. John and
+               Steven D. Gribble and
+               Tadayoshi Kohno and
+               Henry M. Levy},
+  title     = {Keypad: an auditing file system for theft-prone devices},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {1-16},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SalomieSGA11,
+  author    = {Tudor-Ioan Salomie and
+               Ionut Emanuel Subasu and
+               Jana Giceva and
+               Gustavo Alonso},
+  title     = {Database engines on multicores, why parallelize when you can distribute?},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {17-30},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BessaniCQAS11,
+  author    = {Alysson Neves Bessani and
+               Miguel P. Correia and
+               Bruno Quaresma and
+               Fernando Andr{\'e} and
+               Paulo Sousa},
+  title     = {DepSky: dependable and secure storage in a cloud-of-clouds},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {31-46},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/TartlerLSS11,
+  author    = {Reinhard Tartler and
+               Daniel Lohmann and
+               Julio Sincero and
+               Wolfgang Schr{\"o}der-Preikschat},
+  title     = {Feature consistency in compile-time-configurable system software: facing the linux 10, 000 feature problem},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {47-60},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SongCCWZ11,
+  author    = {Xiang Song and
+               Haibo Chen and
+               Rong Chen and
+               Yuanxuan Wang and
+               Binyu Zang},
+  title     = {A case for scaling applications to many-core with OS clustering},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {61-76},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SundararamanVAA11,
+  author    = {Swaminathan Sundararaman and
+               Laxman Visampalli and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Refuse to crash with Re-FUSE},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {77-90},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/DistlerK11,
+  author    = {Tobias Distler and
+               R{\"u}diger Kapitza},
+  title     = {Increasing performance in byzantine fault-tolerant systems with on-demand replica consistency},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {91-106},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/GarciaRP11,
+  author    = {Rui Garcia and
+               Rodrigo Rodrigues and
+               Nuno M. Pregui{\c{c}}a},
+  title     = {Efficient middleware for byzantine fault tolerant database replication},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {107-122},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WoodSVSC11,
+  author    = {Timothy Wood and
+               Rahul Singh and
+               Arun Venkataramani and
+               Prashant J. Shenoy and
+               Emmanuel Cecchet},
+  title     = {ZZ and the art of practical BFT execution},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {123-138},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/RoyRSLMZ11,
+  author    = {Arjun Roy and
+               Stephen M. Rumble and
+               Ryan Stutsman and
+               Philip Levis and
+               David Mazi{\`e}res and
+               Nickolai Zeldovich},
+  title     = {Energy management in mobile devices with the cinder operating system},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {139-152},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PathakHZBW11,
+  author    = {Abhinav Pathak and
+               Y. Charlie Hu and
+               Ming Zhang and
+               Paramvir Bahl and
+               Yi-Min Wang},
+  title     = {Fine-grained power modeling for smartphones using system call tracing},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {153-168},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ThereskaDN11,
+  author    = {Eno Thereska and
+               Austin Donnelly and
+               Dushyanth Narayanan},
+  title     = {Sierra: practical power-proportionality for data center storage},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {169-182},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BucurUZC11,
+  author    = {Stefan Bucur and
+               Vlad Ureche and
+               Cristian Zamfir and
+               George Candea},
+  title     = {Parallel symbolic execution for automated real-world software testing},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {183-198},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/CrameriBZ11,
+  author    = {Olivier Crameri and
+               Ricardo Bianchini and
+               Willy Zwaenepoel},
+  title     = {Striking a new balance between program instrumentation and debugging time},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {199-214},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/FonsecaLR11,
+  author    = {Pedro Fonseca and
+               Cheng Li and
+               Rodrigo Rodrigues},
+  title     = {Finding complex concurrency bugs in large multi-threaded applications},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {215-228},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WesterCF11,
+  author    = {Benjamin Wester and
+               Peter M. Chen and
+               Jason Flinn},
+  title     = {Operating system support for application-specific speculation},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {229-242},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/DingWZ11,
+  author    = {Xiaoning Ding and
+               Kaibo Wang and
+               Xiaodong Zhang},
+  title     = {SRM-buffer: an OS buffer management technique to prevent last level cache from thrashing in multicores},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {243-256},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SukwongK11,
+  author    = {Orathai Sukwong and
+               Hyong S. Kim},
+  title     = {Is co-scheduling too expensive for SMP VMs?},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {257-272},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BryantTISJHLL11,
+  author    = {Roy Bryant and
+               Alexey Tumanov and
+               Olga Irzak and
+               Adin Scannell and
+               Kaustubh R. Joshi and
+               Matti A. Hiltunen and
+               H. Andr{\'e}s Lagar-Cavilla and
+               Eyal de Lara},
+  title     = {Kaleidoscope: cloud micro-elasticity via VM state coloring},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {273-286},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/AnanthanarayananAKGSHH11,
+  author    = {Ganesh Ananthanarayanan and
+               Sameer Agarwal and
+               Srikanth Kandula and
+               Albert G. Greenberg and
+               Ion Stoica and
+               Duke Harlan and
+               Ed Harris},
+  title     = {Scarlett: coping with skewed content popularity in mapreduce clusters},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {287-300},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ChunIMNP11,
+  author    = {Byung-Gon Chun and
+               Sunghwan Ihm and
+               Petros Maniatis and
+               Mayur Naik and
+               Ashwin Patti},
+  title     = {CloneCloud: elastic execution between mobile device and cloud},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {301-314},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/CollingbourneCK11,
+  author    = {Peter Collingbourne and
+               Cristian Cadar and
+               Paul H. J. Kelly},
+  title     = {Symbolic crosschecking of floating-point and SIMD code},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {315-328},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/HenzingerSWZ11,
+  author    = {Thomas A. Henzinger and
+               Vasu Singh and
+               Thomas Wies and
+               Damien Zufferey},
+  title     = {Scheduling large jobs by abstraction refinement},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {329-342},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/NightingaleDO11,
+  author    = {Edmund B. Nightingale and
+               John R. Douceur and
+               Vince Orgovan},
+  title     = {Cycles, cells and platters: an empirical analysisof hardware failures on a million consumer PCs},
+  booktitle = eurosys,
+  year      = 2011,
+  pages     = {343-356},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MakatosKMFB10,
+  author    = {Thanos Makatos and
+               Yannis Klonatos and
+               Manolis Marazakis and
+               Michail D. Flouris and
+               Angelos Bilas},
+  title     = {Using transparent compression to improve SSD-based I/O caches},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {1-14},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BalakrishnanKPM10,
+  author    = {Mahesh Balakrishnan and
+               Asim Kadav and
+               Vijayan Prabhakaran and
+               Dahlia Malkhi},
+  title     = {Differential RAID: rethinking RAID for SSD reliability},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {15-26},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ChristieCDHPFNRFMR10,
+  author    = {Dave Christie and
+               Jae-Woong Chung and
+               Stephan Diestelhorst and
+               Michael Hohmuth and
+               Martin Pohlack and
+               Christof Fetzer and
+               Martin Nowack and
+               Torvald Riegel and
+               Pascal Felber and
+               Patrick Marlier and
+               Etienne Riviere},
+  title     = {Evaluation of AMD's advanced synchronization facility within a complete transactional memory stack},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {27-40},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/LupeiSPMBKA10,
+  author    = {Daniel Lupei and
+               Bogdan Simion and
+               Don Pinto and
+               Matthew Misler and
+               Mihai Burcea and
+               William Krick and
+               Cristiana Amza},
+  title     = {Transactional memory support for scalable and transparent parallelization of multiplayer games},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {41-54},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/CucinottaCAP10,
+  author    = {Tommaso Cucinotta and
+               Fabio Checconi and
+               Luca Abeni and
+               Luigi Palopoli},
+  title     = {Self-tuning schedulers for legacy real-time applications},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {55-68},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PizloZBMV10,
+  author    = {Filip Pizlo and
+               Lukasz Ziarek and
+               Ethan Blanton and
+               Petr Maj and
+               Jan Vitek},
+  title     = {High-level programming of embedded hard real-time devices},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {69-82},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/OliveiraTBMN10,
+  author    = {F{\'a}bio Oliveira and
+               Andrew Tjang and
+               Ricardo Bianchini and
+               Richard P. Martin and
+               Thu D. Nguyen},
+  title     = {Barricade: defending systems against operator mistakes},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {83-96},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/DingHRSPZ10,
+  author    = {Xiaoning Ding and
+               Hai Huang and
+               Yaoping Ruan and
+               Anees Shaikh and
+               Brian Peterson and
+               Xiaodong Zhang},
+  title     = {Splitter: a proxy-based approach for post-migration testing of web applications},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {97-110},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BodikGFWA10,
+  author    = {Peter Bod{\'\i}k and
+               Mois{\'e}s Goldszmidt and
+               Armando Fox and
+               Dawn B. Woodard and
+               Hans Andersen},
+  title     = {Fingerprinting the datacenter: automated classification of performance crises},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {111-124},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/KoufatyRH10,
+  author    = {David A. Koufaty and
+               Dheeraj Reddy and
+               Scott Hahn},
+  title     = {Bias scheduling in heterogeneous multi-core architectures},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {125-138},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SaezPFB10,
+  author    = {Juan Carlos Saez and
+               Manuel Prieto and
+               Alexandra Fedorova and
+               Sergey Blagodurov},
+  title     = {A comprehensive scheduler for asymmetric multicore systems},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {139-152},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MerkelSB10,
+  author    = {Andreas Merkel and
+               Jan Stoess and
+               Frank Bellosa},
+  title     = {Resource-conscious scheduling for energy efficiency on multicore processors},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {153-166},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ChipounovC10,
+  author    = {Vitaly Chipounov and
+               George Candea},
+  title     = {Reverse engineering of binary device drivers with RevNIC},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {167-180},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/DepoutovitchS10,
+  author    = {Alex Depoutovitch and
+               Michael Stumm},
+  title     = {Otherworld: giving applications a chance to survive OS kernel crashes},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {181-194},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/LiWJGB10,
+  author    = {Jinku Li and
+               Zhi Wang and
+               Xuxian Jiang and
+               Michael C. Grace and
+               Sina Bahram},
+  title     = {Defeating return-oriented rootkits with "Return-Less" kernels},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {195-208},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SteinbergK10,
+  author    = {Udo Steinberg and
+               Bernhard Kauer},
+  title     = {NOVA: a microhypervisor-based secure virtualization architecture},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {209-222},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/AlvaroCCEHS10,
+  author    = {Peter Alvaro and
+               Tyson Condie and
+               Neil Conway and
+               Khaled Elmeleegy and
+               Joseph M. Hellerstein and
+               Russell Sears},
+  title     = {Boom analytics: exploring data-centric, declarative programming for the cloud},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {223-236},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/NathujiKG10,
+  author    = {Ripal Nathuji and
+               Aman Kansal and
+               Alireza Ghaffarkhah},
+  title     = {Q-clouds: managing performance interference effects for QoS-aware clouds},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {237-250},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/IuZ10,
+  author    = {Ming-Yee Iu and
+               Willy Zwaenepoel},
+  title     = {HadoopToSQL: a mapReduce query optimizer},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {251-264},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ZahariaBSESS10,
+  author    = {Matei Zaharia and
+               Dhruba Borthakur and
+               Joydeep Sen Sarma and
+               Khaled Elmeleegy and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {Delay scheduling: a simple technique for achieving locality and fairness in cluster scheduling},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {265-278},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenCC10,
+  author    = {Shuo Chen and
+               Hong Chen and
+               Manuel Caballero},
+  title     = {Residue objects: a challenge to web browser security},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {279-292},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WobberRT10,
+  author    = {Ted Wobber and
+               Thomas L. Rodeheffer and
+               Douglas B. Terry},
+  title     = {Policy-based access control for weakly consistent replication},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {293-306},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ChewL10,
+  author    = {Lee Chew and
+               David Lie},
+  title     = {Kivati: fast detection and prevention of atomicity violations},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {307-320},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ZamfirC10,
+  author    = {Cristian Zamfir and
+               George Candea},
+  title     = {Execution synthesis: a technique for automated software debugging},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {321-334},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PesterevZM10,
+  author    = {Aleksey Pesterev and
+               Nickolai Zeldovich and
+               Robert Morris},
+  title     = {Locating cache performance bottlenecks using data profiling},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {335-348},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/VigfussonABBBCLT10,
+  author    = {Ymir Vigfusson and
+               Hussam Abu-Libdeh and
+               Mahesh Balakrishnan and
+               Ken Birman and
+               Robert Burgess and
+               Gregory Chockler and
+               Haoyuan Li and
+               Yoav Tock},
+  title     = {Dr. multicast: Rx for data center communication scalability},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {349-362},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/GuerraouiKQV10,
+  author    = {Rachid Guerraoui and
+               Nikola Knezevic and
+               Vivien Qu{\'e}ma and
+               Marko Vukolic},
+  title     = {The next 700 BFT protocols},
+  booktitle = eurosys,
+  year      = 2010,
+  pages     = {363-376},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/Lagar-CavillaWSPRLBS09,
+  author    = {Horacio Andr{\'e}s Lagar-Cavilla and
+               Joseph Andrew Whitney and
+               Adin Matthew Scannell and
+               Philip Patchin and
+               Stephen M. Rumble and
+               Eyal de Lara and
+               Michael Brudno and
+               Mahadev Satyanarayanan},
+  title     = {SnowFlock: rapid virtual machine cloning for cloud computing},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {1-12},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PadalaHSZUWSM09,
+  author    = {Pradeep Padala and
+               Kai-Yuan Hou and
+               Kang G. Shin and
+               Xiaoyun Zhu and
+               Mustafa Uysal and
+               Zhikui Wang and
+               Sharad Singhal and
+               Arif Merchant},
+  title     = {Automated control of multiple virtualized resources},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {13-26},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/RasmussenKLM09,
+  author    = {Alexander Rasmussen and
+               Emre Kiciman and
+               V. Benjamin Livshits and
+               Madanlal Musuvathi},
+  title     = {Improving the responsiveness of internet services with automatic cache placement},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {27-32},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SalamatJGF09,
+  author    = {Babak Salamat and
+               Todd Jackson and
+               Andreas Gal and
+               Michael Franz},
+  title     = {Orchestra: intrusion detection using parallel execution and monitoring of program variants in user-space},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {33-46},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/RileyJX09,
+  author    = {Ryan Riley and
+               Xuxian Jiang and
+               Dongyan Xu},
+  title     = {Multi-aspect profiling of kernel rootkit behavior},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {47-60},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SlowinskaB09,
+  author    = {Asia Slowinska and
+               Herbert Bos},
+  title     = {Pointless tainting?: evaluating the practicality of pointer tainting},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {61-74},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangKMZ09,
+  author    = {Zhe Zhang and
+               Amit Kulkarni and
+               Xiaosong Ma and
+               Yuanyuan Zhou},
+  title     = {Memory resource allocation for file system prefetching: from a supply chain management perspective},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {75-88},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangDS09,
+  author    = {Xiao Zhang and
+               Sandhya Dwarkadas and
+               Kai Shen},
+  title     = {Towards practical page coloring-based multicore cache management},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {89-102},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/KrasicSSG09,
+  author    = {Charles Krasic and
+               Mayukh Saubhasik and
+               Anirban Sinha and
+               Ashvin Goel},
+  title     = {Fair and timely scheduling via cooperative polling},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {103-116},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SoulesKMM09,
+  author    = {Craig A. N. Soules and
+               Kimberly Keeton and
+               Charles B. Morrey III},
+  title     = {SCAN-Lite: enterprise-wide analysis on the cheap},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {117-130},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MahajanKMRRTW09,
+  author    = {Prince Mahajan and
+               Ramakrishna Kotla and
+               Catherine C. Marshall and
+               Venugopalan Ramasubramanian and
+               Thomas L. Rodeheffer and
+               Douglas B. Terry and
+               Ted Wobber},
+  title     = {Effective and efficient compromise recovery for weakly consistent replication},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {131-144},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/NarayananTDER09,
+  author    = {Dushyanth Narayanan and
+               Eno Thereska and
+               Austin Donnelly and
+               Sameh Elnikety and
+               Antony I. T. Rowstron},
+  title     = {Migrating server storage to SSDs: analysis of tradeoffs},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {145-158},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/GaoZTQ09,
+  author    = {Qi Gao and
+               Wenbin Zhang and
+               Yan Tang and
+               Feng Qin},
+  title     = {First-aid: surviving and preventing memory management bugs during production runs},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {159-172},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BurtsevRHL09,
+  author    = {Anton Burtsev and
+               Prashanth Radhakrishnan and
+               Mike Hibler and
+               Jay Lepreau},
+  title     = {Transparent checkpoints of closed distributed systems in Emulab},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {173-186},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ArnoldK09,
+  author    = {Jeff Arnold and
+               M. Frans Kaashoek},
+  title     = {Ksplice: automatic rebootless kernel updates},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {187-198},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/LefebvreCFHW09,
+  author    = {Geoffrey Lefebvre and
+               Brendan Cully and
+               Michael J. Feeley and
+               Norman C. Hutchinson and
+               Andrew Warfield},
+  title     = {Tralfamadore: unifying source code and execution experience},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {199-204},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WilsonBSPZ09,
+  author    = {Christo Wilson and
+               Bryce Boe and
+               Alessandra Sala and
+               Krishna P. N. Puttaswamy and
+               Ben Y. Zhao},
+  title     = {User interactions in social networks and their implications},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {205-218},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ReisG09,
+  author    = {Charles Reis and
+               Steven D. Gribble},
+  title     = {Isolating web programs in modern browser architectures},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {219-232},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/YipNKM09,
+  author    = {Alexander Yip and
+               Neha Narula and
+               Maxwell N. Krohn and
+               Robert Morris},
+  title     = {Privacy-preserving browser-side scripting with BFlow},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {233-246},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/VolosTGSW09,
+  author    = {Haris Volos and
+               Andres Jaan Tack and
+               Neelam Goyal and
+               Michael M. Swift and
+               Adam Welc},
+  title     = {xCalls: safe I/O in memory transactions},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {247-260},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/RoyHH09,
+  author    = {Amitabha Roy and
+               Steven Hand and
+               Timothy L. Harris},
+  title     = {A runtime system for software lock elision},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {261-274},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/RyzhykCKH09,
+  author    = {Leonid Ryzhyk and
+               Peter Chubb and
+               Ihor Kuz and
+               Gernot Heiser},
+  title     = {Dingo: taming device drivers},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {275-288},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SnowdonSPH09,
+  author    = {David C. Snowdon and
+               Etienne Le Sueur and
+               Stefan M. Petters and
+               Gernot Heiser},
+  title     = {Koala: a platform for OS-level power management},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {289-302},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ElniketyDCZ09,
+  author    = {Sameh Elnikety and
+               Steven G. Dropsho and
+               Emmanuel Cecchet and
+               Willy Zwaenepoel},
+  title     = {Predicting replicated database scalability from standalone database profiling},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {303-316},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/GovindanCUSB09,
+  author    = {Sriram Govindan and
+               Jeonghwan Choi and
+               Bhuvan Urgaonkar and
+               Anand Sivasubramaniam and
+               Andrea Baldini},
+  title     = {Statistical profiling-based techniques for effective power provisioning in data centers},
+  booktitle = eurosys,
+  year      = 2009,
+  pages     = {317-330},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MerkelB08,
+  author    = {Andreas Merkel and
+               Frank Bellosa},
+  title     = {Task activity vectors: a new metric for temperature-aware scheduling},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {1-12},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PovznerKBGWM08,
+  author    = {Anna Povzner and
+               Tim Kaldewey and
+               Scott A. Brandt and
+               Richard A. Golding and
+               Theodore M. Wong and
+               Carlos Maltzahn},
+  title     = {Efficient guaranteed disk request scheduling with fahrrad},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {13-25},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/AbeYK08,
+  author    = {Yoshihisa Abe and
+               Hiroshi Yamada and
+               Kenji Kono},
+  title     = {Enforcing appropriate process execution for exploiting idle resources from outside operating systems},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {27-40},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MeyerACLFHW08,
+  author    = {Dutch T. Meyer and
+               Gitika Aggarwal and
+               Brendan Cully and
+               Geoffrey Lefebvre and
+               Michael J. Feeley and
+               Norman C. Hutchinson and
+               Andrew Warfield},
+  title     = {Parallax: virtual disks for virtual machines},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {41-54},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhongSS08,
+  author    = {Ming Zhong and
+               Kai Shen and
+               Joel I. Seiferas},
+  title     = {Replication degree customization for high availability},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {55-68},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/JoukovS08,
+  author    = {Nikolai Joukov and
+               Josef Sipek},
+  title     = {GreenFS: making enterprise computers greener by protecting them better},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {69-80},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WeinholdH08,
+  author    = {Carsten Weinhold and
+               Hermann H{\"a}rtig},
+  title     = {VPFS: building a virtual private file system with a small trusted computing base},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {81-93},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/JainSDG08,
+  author    = {Shvetank Jain and
+               Fareha Shafique and
+               Vladan Djeric and
+               Ashvin Goel},
+  title     = {Application-level isolation and recovery with solitude},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {95-107},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ChengSJZ08,
+  author    = {Bin Cheng and
+               Lex Stein and
+               Hai Jin and
+               Zheng Zhang},
+  title     = {Towards cinematic internet video-on-demand},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {109-122},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/GraceHPBCT08,
+  author    = {Paul Grace and
+               Danny Hughes and
+               Barry Porter and
+               Gordon S. Blair and
+               Geoff Coulson and
+               Fran{\c{c}}ois Ta{\"\i}ani},
+  title     = {Experiences with open overlays: a middleware approach to network heterogeneity},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {123-136},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/KongSLA08,
+  author    = {Jiantao Kong and
+               Karsten Schwan and
+               Min Lee and
+               Mustaque Ahamad},
+  title     = {Protectit: trusted distributed services operating on sensitive data},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {137-147},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/HeCK08,
+  author    = {Shan He and
+               Renan G. Cattelan and
+               Darko Kirovski},
+  title     = {Modeling viral economies for digital media},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {149-162},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BessaniACF08,
+  author    = {Alysson Neves Bessani and
+               Eduardo Ad{\'\i}lio Pelinson Alchieri and
+               Miguel Correia and
+               Joni da Silva Fraga},
+  title     = {DepSpace: a byzantine fault-tolerant coordination service},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {163-176},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WangGLXLWZ08,
+  author    = {Xi Wang and
+               Zhenyu Guo and
+               Xuezheng Liu and
+               Zhilei Xu and
+               Haoxiang Lin and
+               Xiaoge Wang and
+               Zheng Zhang},
+  title     = {Hang analysis: fighting responsiveness bugs},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {177-190},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/KoskinenJ08,
+  author    = {Eric Koskinen and
+               John Jannotti},
+  title     = {BorderPatrol: isolating events for black-box tracing},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {191-203},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PeterBRBI08,
+  author    = {Simon Peter and
+               Andrew Baumann and
+               Timothy Roscoe and
+               Paul Barham and
+               Rebecca Isaacs},
+  title     = {30 seconds is not enough!: a study of operating system timer usage},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {205-218},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PattabiramanGZ08,
+  author    = {Karthik Pattabiraman and
+               Vinod Grover and
+               Benjamin G. Zorn},
+  title     = {Samurai: protecting critical data in unsafe languages},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {219-232},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/NicoaraAR08,
+  author    = {Angela Nicoara and
+               Gustavo Alonso and
+               Timothy Roscoe},
+  title     = {Controlled, systematic, and efficient code replacement for running java programs},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {233-246},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PadioleauLHM08,
+  author    = {Yoann Padioleau and
+               Julia L. Lawall and
+               Ren{\'e} Rydhof Hansen and
+               Gilles Muller},
+  title     = {Documenting and automating collateral evolutions in linux device drivers},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {247-260},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/RondaSW08,
+  author    = {Troy Ronda and
+               Stefan Saroiu and
+               Alec Wolman},
+  title     = {Itrustpage: a user-assisted anti-phishing tool},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {261-272},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/FetzerS08,
+  author    = {Christof Fetzer and
+               Martin S{\"u}{\ss}kraut},
+  title     = {Switchblade: enforcing dynamic personalized system call models},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {273-286},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PortokalidisB08,
+  author    = {Georgios Portokalidis and
+               Herbert Bos},
+  title     = {Eudaemon: involuntary and on-demand emulation against zero-day exploits},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {287-299},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/EfstathopoulosK08,
+  author    = {Petros Efstathopoulos and
+               Eddie Kohler},
+  title     = {Manageable fine-grained information flow},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {301-313},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/McCunePPRI08,
+  author    = {Jonathan M. McCune and
+               Bryan Parno and
+               Adrian Perrig and
+               Michael K. Reiter and
+               Hiroshi Isozaki},
+  title     = {Flicker: an execution infrastructure for tcb minimization},
+  booktitle = eurosys,
+  year      = 2008,
+  pages     = {315-328},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/OlszewskiMCB07,
+  author    = {Marek Olszewski and
+               Keir Mierle and
+               Adam Czajkowski and
+               Angela Demke Brown},
+  title     = {JIT instrumentation: a novel approach to dynamically instrument operating systems},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {3-16},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ChandaCZ07,
+  author    = {Anupam Chanda and
+               Alan L. Cox and
+               Willy Zwaenepoel},
+  title     = {Whodunit: transactional profiling for multi-tier applications},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {17-30},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/StewartKZ07,
+  author    = {Christopher Stewart and
+               Terence Kelly and
+               Alex Zhang},
+  title     = {Exploiting nonstationarity for performance prediction},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {31-44},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/TamAS07,
+  author    = {David K. Tam and
+               Reza Azimi and
+               Michael Stumm},
+  title     = {Thread clustering: sharing-aware scheduling on SMP-CMP-SMT multiprocessors},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {47-58},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/IsardBYBF07,
+  author    = {Michael Isard and
+               Mihai Budiu and
+               Yuan Yu and
+               Andrew Birrell and
+               Dennis Fetterly},
+  title     = {Dryad: distributed data-parallel programs from sequential building blocks},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {59-72},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SahaAGRHPMMSSRCF07,
+  author    = {Bratin Saha and
+               Ali-Reza Adl-Tabatabai and
+               Anwar M. Ghuloum and
+               Mohan Rajagopalan and
+               Richard L. Hudson and
+               Leaf Petersen and
+               Vijay Menon and
+               Brian R. Murphy and
+               Tatiana Shpeisman and
+               Eric Sprangle and
+               Anwar Rohillah and
+               Doug Carmean and
+               Jesse Fang},
+  title     = {Enabling scalability and performance in a large scale CMP environment},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {73-86},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SoS07,
+  author    = {Kelvin C. W. So and
+               Emin G{\"u}n Sirer},
+  title     = {Latency and bandwidth-minimizing failure detectors},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {89-99},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MadhavapeddyHDSS07,
+  author    = {Anil Madhavapeddy and
+               Alex Ho and
+               Tim Deegan and
+               David Scott and
+               Ripduman Sohan},
+  title     = {Melange: creating a "functional" internet},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {101-114},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/TucekNLHXBZS07,
+  author    = {Joseph Tucek and
+               James Newsome and
+               Shan Lu and
+               Chengdu Huang and
+               Spiros Xanthos and
+               David Brumley and
+               Yuanyuan Zhou and
+               Dawn Xiaodong Song},
+  title     = {Sweeper: a lightweight end-to-end system for defending against fast worms},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {115-128},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/LachenmannMGMSR07,
+  author    = {Andreas Lachenmann and
+               Pedro Jos{\'e} Marr{\'o}n and
+               Matthias Gauger and
+               Daniel Minder and
+               Olga Saukh and
+               Kurt Rothermel},
+  title     = {Removing the memory limitations of sensor networks with flash-based virtual memory},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {131-144},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MullerAK07,
+  author    = {Ren{\'e} M{\"u}ller and
+               Gustavo Alonso and
+               Donald Kossmann},
+  title     = {A virtual machine for sensor networks},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {145-158},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/AwanJG07,
+  author    = {Asad Awan and
+               Suresh Jagannathan and
+               Ananth Grama},
+  title     = {Macroprogramming heterogeneous sensor networks using cosmos},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {159-172},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangG07,
+  author    = {Zhihui Zhang and
+               Kanad Ghose},
+  title     = {hFS: a hybrid file system prototype for improving small file and metadata performance},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {175-187},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/LiSP07,
+  author    = {Chuanpeng Li and
+               Kai Shen and
+               Athanasios E. Papathanasiou},
+  title     = {Competitive prefetching for concurrent sequential I/O},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {189-202},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WiresF07,
+  author    = {Jake Wires and
+               Michael J. Feeley},
+  title     = {Secure file system versioning at the block level},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {203-215},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhengBN07,
+  author    = {Wei Zheng and
+               Ricardo Bianchini and
+               Thu D. Nguyen},
+  title     = {Automatic configuration of internet services},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {219-229},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PariagBHBSC07,
+  author    = {David Pariag and
+               Tim Brecht and
+               Ashif S. Harji and
+               Peter A. Buhr and
+               Amol Shukla and
+               David R. Cheriton},
+  title     = {Comparing the performance of web server architectures},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {231-243},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/RellermeyerA07,
+  author    = {Jan S. Rellermeyer and
+               Gustavo Alonso},
+  title     = {Concierge: a service platform for resource-constrained devices},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {245-258},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/EtsionTKF07,
+  author    = {Yoav Etsion and
+               Dan Tsafrir and
+               Scott Kirkpatrick and
+               Dror G. Feitelson},
+  title     = {Fine grained kernel logging with KLogger: experience and insights},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {259-272},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SolteszPFBP07,
+  author    = {Stephen Soltesz and
+               Herbert P{\"o}tzl and
+               Marc E. Fiuczynski and
+               Andy C. Bavier and
+               Larry L. Peterson},
+  title     = {Container-based operating system virtualization: a scalable, high-performance alternative to hypervisors},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {275-287},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PadalaSZUWSMS07,
+  author    = {Pradeep Padala and
+               Kang G. Shin and
+               Xiaoyun Zhu and
+               Mustafa Uysal and
+               Zhikui Wang and
+               Sharad Singhal and
+               Arif Merchant and
+               Kenneth Salem},
+  title     = {Adaptive control of virtualized resources in utility computing environments},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {289-302},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WangKL07,
+  author    = {Yin Wang and
+               Terence Kelly and
+               St{\'e}phane Lafortune},
+  title     = {Discrete control for safe execution of IT automation workflows},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {305-314},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/GuerraouiKV07,
+  author    = {Rachid Guerraoui and
+               Michal Kapalka and
+               Jan Vitek},
+  title     = {STMBench7: a benchmark for software transactional memory},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {315-324},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MakrisR07,
+  author    = {Kristis Makris and
+               Kyung Dong Ryu},
+  title     = {Dynamic and adaptive updates of non-quiescent subsystems in commodity operating system kernels},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {327-340},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/HuntAFHHLLSTW07,
+  author    = {Galen C. Hunt and
+               Mark Aiken and
+               Manuel F{\"a}hndrich and
+               Chris Hawblitzel and
+               Orion Hodson and
+               James R. Larus and
+               Steven Levi and
+               Bjarne Steensgaard and
+               David Tarditi and
+               Ted Wobber},
+  title     = {Sealing OS processes to improve dependability and safety},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {341-354},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WobberYABS07,
+  author    = {Ted Wobber and
+               Aydan R. Yumerefendi and
+               Mart{\'\i}n Abadi and
+               Andrew Birrell and
+               Daniel R. Simon},
+  title     = {Authorizing applications in singularity},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {355-368},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/WeatherspoonECK07,
+  author    = {Hakim Weatherspoon and
+               Patrick R. Eaton and
+               Byung-Gon Chun and
+               John Kubiatowicz},
+  title     = {Antiquity: exploiting a secure log for wide-area distributed storage},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {371-384},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/CamargosPW07,
+  author    = {L{\'a}saro J. Camargos and
+               Fernando Pedone and
+               Marcin Wieloch},
+  title     = {Sprint: a middleware for high-performance transaction processing},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {385-398},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ElniketyDZ07,
+  author    = {Sameh Elnikety and
+               Steven G. Dropsho and
+               Willy Zwaenepoel},
+  title     = {Tashkent+: memory-aware load balancing and update filtering in replicated databases},
+  booktitle = eurosys,
+  year      = 2007,
+  pages     = {399-412},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/JohansenAR06,
+  author    = {H{\aa}vard D. Johansen and
+               Andr{\'e} Allavena and
+               Robbert van Renesse},
+  title     = {Fireflies: scalable support for intrusion-tolerant network overlays},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {3-13},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PortokalidisSB06,
+  author    = {Georgios Portokalidis and
+               Asia Slowinska and
+               Herbert Bos},
+  title     = {Argos: an emulator for fingerprinting zero-day attacks for advertised honeypots with automatic signature generation},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {15-27},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/HoFCWH06,
+  author    = {Alex Ho and
+               Michael A. Fetterman and
+               Christopher Clark and
+               Andrew Warfield and
+               Steven Hand},
+  title     = {Practical taint-based protection using demand emulation},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {29-41},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SpearRHHL06,
+  author    = {Michael F. Spear and
+               Tom Roeder and
+               Orion Hodson and
+               Galen C. Hunt and
+               Steven Levi},
+  title     = {Solving the starting problem: device drivers as self-describing artifacts},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {45-57},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/PadioleauLM06,
+  author    = {Yoann Padioleau and
+               Julia L. Lawall and
+               Gilles Muller},
+  title     = {Understanding collateral evolution in Linux device drivers},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {59-71},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BallBCLLMORU06,
+  author    = {Thomas Ball and
+               Ella Bounimova and
+               Byron Cook and
+               Vladimir Levin and
+               Jakob Lichtenberg and
+               Con McGarvey and
+               Bohus Ondrusek and
+               Sriram K. Rajamani and
+               Abdullah Ustuner},
+  title     = {Thorough static analysis of device drivers},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {73-85},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SoundararajanAG06,
+  author    = {Gokul Soundararajan and
+               Cristiana Amza and
+               Ashvin Goel},
+  title     = {Database replication policies for dynamic content applications},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {89-102},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/LorchABCDH06,
+  author    = {Jacob R. Lorch and
+               Atul Adya and
+               William J. Bolosky and
+               Ronnie Chaiken and
+               John R. Douceur and
+               Jon Howell},
+  title     = {The SMART way to migrate replicated stateful services},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {103-115},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ElniketyDP06,
+  author    = {Sameh Elnikety and
+               Steven G. Dropsho and
+               Fernando Pedone},
+  title     = {Tashkent: uniting durability with transaction ordering for high-performance scalable database replication},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {117-130},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/KriegerARWXSOABMWU06,
+  author    = {Orran Krieger and
+               Marc A. Auslander and
+               Bryan S. Rosenburg and
+               Robert W. Wisniewski and
+               Jimi Xenidis and
+               Dilma Da Silva and
+               Michal Ostrowski and
+               Jonathan Appavoo and
+               Maria A. Butrico and
+               Mark F. Mergen and
+               Amos Waterland and
+               Volkmar Uhlig},
+  title     = {K42: building a complete operating system},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {133-145},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MislovePHD06,
+  author    = {Alan Mislove and
+               Ansley Post and
+               Andreas Haeberlen and
+               Peter Druschel},
+  title     = {Experiences in building and operating ePOST, a reliable peer-to-peer application},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {147-159},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SingaraveluPHH06,
+  author    = {Lenin Singaravelu and
+               Calton Pu and
+               Hermann H{\"a}rtig and
+               Christian Helmuth},
+  title     = {Reducing TCB complexity for security-sensitive applications: three case studies},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {161-174},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/FahndrichAHHHLL06,
+  author    = {Manuel F{\"a}hndrich and
+               Mark Aiken and
+               Chris Hawblitzel and
+               Orion Hodson and
+               Galen C. Hunt and
+               James R. Larus and
+               Steven Levi},
+  title     = {Language support for fast and reliable message-based communication in singularity OS},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {177-190},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/LohmannSTSS06,
+  author    = {Daniel Lohmann and
+               Fabian Scheler and
+               Reinhard Tartler and
+               Olaf Spinczyk and
+               Wolfgang Schr{\"o}der-Preikschat},
+  title     = {A quantitative analysis of aspects in the eCos kernel},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {191-204},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/KrishnaGS06,
+  author    = {Arvind S. Krishna and
+               Aniruddha S. Gokhale and
+               Douglas C. Schmidt},
+  title     = {Context-specific middleware specialization techniques for optimizing software product-line architectures},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {205-218},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BakerSRRMGB06,
+  author    = {Mary Baker and
+               Mehul A. Shah and
+               David S. H. Rosenthal and
+               Mema Roussopoulos and
+               Petros Maniatis and
+               Thomas J. Giuli and
+               Prashanth P. Bungale},
+  title     = {A fresh look at the reliability of long-term digital storage},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {221-234},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/KeetonBBMSZ06,
+  author    = {Kimberly Keeton and
+               Dirk Beyer and
+               Ernesto Brau and
+               Arif Merchant and
+               Cipriano A. Santos and
+               Alex Zhang},
+  title     = {On the road to recovery: restoring data after disasters},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {235-248},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/YaoW06,
+  author    = {Xiaoyu Yao and
+               Jun Wang},
+  title     = {RIMAC: a novel redundancy-based hierarchical cache architecture for energy efficient, high performance storage systems},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {249-262},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/BrechtJLST06,
+  author    = {Tim Brecht and
+               G. John Janakiraman and
+               Brian Lynn and
+               Vikram A. Saletore and
+               Yoshio Turner},
+  title     = {Evaluating network processing efficiency with processor partitioning and asynchronous I/O},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {265-278},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/KimR06,
+  author    = {Hyong-youb Kim and
+               Scott Rixner},
+  title     = {TCP offload through connection handoff},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {279-290},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/Mogul06,
+  author    = {Jeffrey C. Mogul},
+  title     = {Emergent (mis)behavior vs. complex software systems},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {293-304},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/ShalevS06,
+  author    = {Ori Shalev and
+               Nir Shavit},
+  title     = {Predictive log-synchronization},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {305-315},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/LvJWCL06,
+  author    = {Qin Lv and
+               William Josephson and
+               Zhe Wang and
+               Moses Charikar and
+               Kai Li},
+  title     = {Ferret: a toolkit for content-based similarity search of feature-rich data},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {317-330},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/YuZZZ06,
+  author    = {Hongliang Yu and
+               Dongdong Zheng and
+               Ben Y. Zhao and
+               Weimin Zheng},
+  title     = {Understanding user behavior in large-scale video-on-demand systems},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {333-344},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MohomedCL06,
+  author    = {Iqbal Mohomed and
+               Jim Chengming Cai and
+               Eyal de Lara},
+  title     = {URICA: Usage-awaRe Interactive Content Adaptation for mobile devices},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {345-358},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/HandurukandeKFMP06,
+  author    = {Sidath B. Handurukande and
+               Anne-Marie Kermarrec and
+               Fabrice Le Fessant and
+               Laurent Massouli{\'e} and
+               Simon Patarin},
+  title     = {Peer sharing behaviour in the eDonkey network, and implications for the design of server-less file sharing systems},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {359-371},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/YuanLWLZWM06,
+  author    = {Chun Yuan and
+               Ni Lao and
+               Ji-Rong Wen and
+               Jiwei Li and
+               Zheng Zhang and
+               Yi-Min Wang and
+               Wei-Ying Ma},
+  title     = {Automated known problem diagnosis with event traces},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {375-388},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/SinghMRD06,
+  author    = {Atul Singh and
+               Petros Maniatis and
+               Timothy Roscoe and
+               Peter Druschel},
+  title     = {Using queries for distributed monitoring and forensics},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {389-402},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}
+
+@inproceedings{DBLP:conf/eurosys/MerkelB06,
+  author    = {Andreas Merkel and
+               Frank Bellosa},
+  title     = {Balancing power consumption in multiprocessor systems},
+  booktitle = eurosys,
+  year      = 2006,
+  pages     = {403-414},
+  bibsource = {DBLP, http://dblp.uni-trier.de}
+}

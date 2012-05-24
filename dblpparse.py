@@ -318,7 +318,11 @@ class DBLPProcessor:
 
 
 d = DBLPProcessor('dblp.xml', 'dblp.xml.pp', 'xtx')
+d.add_conference('eurosys', 'EuroSys', 'European Conference on Computer Systems')
+d.add_conference('fast', 'FAST', 'Conference on File and Storage Technologies')
 d.add_conference('nsdi', 'NSDI', 'Symposium on Networked System Design and Implementation')
 d.add_conference('osdi', 'OSDI', 'Symposium on Operating System Design and Implementation')
+d.add_conference('podc', 'PODC', 'ACM Symposium on Principles of Distributed Computing')
+d.add_conference('sigcomm', 'SIGCOMM', 'SIGCOMM Conference')
 d.add_conference('sosp', 'SOSP', 'Symposium on Operating Systems Principles')
 d.process()
