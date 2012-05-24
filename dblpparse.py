@@ -277,8 +277,6 @@ class DBLPProcessor:
                 citeattrs = {'author': []}
                 count = 0
                 while True:
-                    element.clear()
-                    del element
                     event, element = e.next()
                     if event == 'end' and element.tag == citetype and count == 0:
                         break
@@ -287,14 +285,21 @@ class DBLPProcessor:
                     elif event == 'start' and element.tag == citetype:
                         count += 1
                     elif select and (event == 'start' or event == 'end'):
-                        if element.text is not None:
+                        if element.tag == 'title' and event == 'start':
+                            citeattrs['title'] = ''.join([x for x in element.itertext()])
+                        elif element.tag == 'title' and event == 'end' and not citeattrs['title']:
+                            citeattrs['title'] = ''.join([x for x in element.itertext()])
+                        elif element.text is not None:
                             if element.tag == 'author':
-                                citeattrs['author'].append(element.text)
+                                if element.text not in citeattrs['author']:
+                                    citeattrs['author'].append(element.text)
                             elif citeattrs.get(element.tag, None) is None:
                                 citeattrs[element.tag] = element.text
                 if select:
                     fout.write('%s\n' % repr((citetype, citekey, citeattrs)))
                 element.clear()
+                while element.getprevious() is not None:
+                    del element.getparent()[0]
                 del element
             assert event == 'end'
             assert element.tag == 'dblp'
