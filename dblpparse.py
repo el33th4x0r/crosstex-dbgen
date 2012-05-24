@@ -9,7 +9,7 @@ import sys
 import lxml.etree
 
 import latex
-
+import parentheticals
 from locations import LOCATION_AMBIGUITIES
 from locations import LOCATION_ALIASES
 from locations import LOCATIONS
@@ -27,14 +27,6 @@ MONTHS = {'January': 'jan',
           'October': 'oct',
           'November': 'nov',
           'December': 'dec'}
-
-BLACKLISTED_PARENTHETICALS = set(['abstract', 'awarded best paper',
-    'awarded best paper!', 'best paper', 'awarded best student paper',
-    'awarded best student paper!', 'extended abstract', 'panel statement',
-    'summary'])
-WHITELISTED_PARENTHETICALS = set(['1', 'bvt', 'lrp',
-    'or how to turn ideas into live systems in a breeze', 'pff', 'sundr',
-    'very'])
 
 
 numbered_author_re = re.compile(r' [0-9]{4}$')
@@ -164,24 +156,49 @@ class Conference:
 
     def _normalize_title(self, citekey, citeattrs):
         title = citeattrs['title']
-        firstbad = title.find('(')
-        while firstbad >= 0 and title.find(')', firstbad + 1) > 0:
-            l = title.find('(', firstbad)
-            r = title.find(')', firstbad)
-            if l < r:
-                s = title[l + 1:r].lower()
-                if s in BLACKLISTED_PARENTHETICALS:
-                    title = title[:l] + title[r + 1:]
-                elif s in WHITELISTED_PARENTHETICALS:
-                    firstbad = r
+        stack = []
+        openparen = title.find('(')
+        if openparen >= 0:
+            stack.append(openparen)
+            ptr = openparen + 1
+        while stack:
+            openparen = title.find('(', ptr)
+            openparen = openparen if openparen >= 0 else len(title)
+            closeparen = title.find(')', ptr)
+            closeparen = closeparen if closeparen >= 0 else len(title)
+            if openparen == closeparen:
+                stack = []
+            elif openparen < closeparen:
+                stack.append(openparen)
+                ptr = openparen + 1
+            elif openparen > closeparen:
+                substr = title[stack[-1] + 1:closeparen]
+                if substr.lower() in parentheticals.BLACKLIST:
+                    prefix = title[:stack[-1]].strip(' ')
+                    suffix = title[closeparen + 1:].strip(' ')
+                    title = prefix + ' ' + suffix
+                    stack.pop()
+                    if stack:
+                        ptr = stack[-1] + 1
+                elif substr.lower() in parentheticals.WHITELIST:
+                    ptr = closeparen + 1
+                    stack.pop()
+                elif substr in parentheticals.TRANSLATE:
+                    replace = parentheticals.TRANSLATE[substr]
+                    title = title[:stack[-1] + 1] + replace + title[closeparen:]
+                    ptr = stack[-1] + len(replace) + 2
+                    stack.pop()
                 else:
-                    firstbad = r
-                    print 'WARNING:  parenthetical in title for "%s"' % citekey, citeattrs
-            else:
-                firstbad = r
-        while title and title[-1] in (' ', '.'):
-            title = title[:-1]
-        return self._to_latex(title)
+                    # See if the words leading up to the parenthetical could be
+                    # made into an acronym that fits the parenthetical.
+                    words = title[:stack[-1]].replace('-', ' ').split(' ')
+                    words = [w for w in words if w]
+                    acronym = ''.join([w[0] for w in words[-len(substr):]]).lower()
+                    if acronym != substr.lower():
+                        print 'WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs
+                    ptr = closeparen + 1
+                    stack.pop()
+        return self._to_latex(title.strip(' .'))
 
     def _to_latex(self, s):
         ls = ''
