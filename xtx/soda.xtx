@@ -1,5 +1,1360 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/soda/CadekKMSVW12,
+  author    = {Martin Cadek and
+               Marek Krc{\'a}l and
+               Jir{\'\i} Matousek and
+               Francis Sergeraert and
+               Luk{\'a}s Vokr{\'\i}nek and
+               Uli Wagner},
+  title     = {Computing all maps into a sphere},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/soda/KaravelasT12,
+  author    = {Menelaos I. Karavelas and
+               Eleni Tzanaki},
+  title     = {The maximum number of faces of the Minkowski sum of two convex polytopes},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {11-28},
+}
+
+@inproceedings{DBLP:conf/soda/AryaFM12,
+  author    = {Sunil Arya and
+               Guilherme Dias da Fonseca and
+               David M. Mount},
+  title     = {Polytope approximation and the Mahler volume},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {29-42},
+}
+
+@inproceedings{DBLP:conf/soda/LeeMM12,
+  author    = {James R. Lee and
+               Arnaud de Mesmay and
+               Mohammad Moharrami},
+  title     = {Dimension reduction for finite trees in l1},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {43-50},
+}
+
+@inproceedings{DBLP:conf/soda/NewmanR12,
+  author    = {Ilan Newman and
+               Yuri Rabinovich},
+  title     = {On multiplicative {$\lambda$}-approximations and some geometric applications},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {51-67},
+}
+
+@inproceedings{DBLP:conf/soda/DellM12,
+  author    = {Holger Dell and
+               D{\'a}niel Marx},
+  title     = {Kernelization of packing problems},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {68-81},
+}
+
+@inproceedings{DBLP:conf/soda/FominLST12,
+  author    = {Fedor V. Fomin and
+               Daniel Lokshtanov and
+               Saket Saurabh and
+               Dimitrios M. Thilikos},
+  title     = {Linear kernels for (connected) dominating set on H-minor-free graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {82-93},
+}
+
+@inproceedings{DBLP:conf/soda/KratschW12,
+  author    = {Stefan Kratsch and
+               Magnus Wahlstr{\"o}m},
+  title     = {Compression via matroids: a randomized polynomial kernel for odd cycle transversal},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {94-103},
+}
+
+@inproceedings{DBLP:conf/soda/HermelinW12,
+  author    = {Danny Hermelin and
+               Xi Wu},
+  title     = {Weak compositions and their applications to polynomial lower bounds for kernelization},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {104-113},
+}
+
+@inproceedings{DBLP:conf/soda/Kratsch12,
+  author    = {Stefan Kratsch},
+  title     = {Co-nondeterminism in compositions: a kernelization lower bound for a Ramsey-type problem},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {114-122},
+}
+
+@inproceedings{DBLP:conf/soda/Kavitha12,
+  author    = {Telikepalli Kavitha},
+  title     = {Popularity vs maximum cardinality in the stable marriage setting},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {123-134},
+}
+
+@inproceedings{DBLP:conf/soda/FleinerK12,
+  author    = {Tam{\'a}s Fleiner and
+               Naoyuki Kamiyama},
+  title     = {A matroid approach to stable matchings with lower quotas},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {135-142},
+}
+
+@inproceedings{DBLP:conf/soda/KushilevitzLO12,
+  author    = {Eyal Kushilevitz and
+               Steve Lu and
+               Rafail Ostrovsky},
+  title     = {On the (in)security of hash-based oblivious RAM and a new balancing scheme},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {143-156},
+}
+
+@inproceedings{DBLP:conf/soda/GoodrichMOT12,
+  author    = {Michael T. Goodrich and
+               Michael Mitzenmacher and
+               Olga Ohrimenko and
+               Roberto Tamassia},
+  title     = {Privacy-preserving group data access via stateless oblivious RAM simulation},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {157-167},
+}
+
+@inproceedings{DBLP:conf/soda/HardtRS12,
+  author    = {Moritz Hardt and
+               Guy N. Rothblum and
+               Rocco A. Servedio},
+  title     = {Private data release via learning thresholds},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {168-187},
+}
+
+@inproceedings{DBLP:conf/soda/Grohe12,
+  author    = {Martin Grohe},
+  title     = {Structural and logical approaches to the graph isomorphism problem},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {188},
+}
+
+@inproceedings{DBLP:conf/soda/Bernstein12,
+  author    = {Aaron Bernstein},
+  title     = {Near linear time (1 + {$\epsilon$})-approximation for restricted shortest paths in undirected graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {189-201},
+}
+
+@inproceedings{DBLP:conf/soda/Wulff-Nilsen12,
+  author    = {Christian Wulff-Nilsen},
+  title     = {Approximate distance oracles with improved preprocessing time},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {202-208},
+}
+
+@inproceedings{DBLP:conf/soda/MozesS12,
+  author    = {Shay Mozes and
+               Christian Sommer},
+  title     = {Exact distance oracles for planar graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {209-222},
+}
+
+@inproceedings{DBLP:conf/soda/BaswanaLM12,
+  author    = {Surender Baswana and
+               Utkarsh Lath and
+               Anuradha S. Mehta},
+  title     = {Single source distance oracle for planar digraphs avoiding a failed node or link},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {223-232},
+}
+
+@inproceedings{DBLP:conf/soda/BonifaciMV12,
+  author    = {Vincenzo Bonifaci and
+               Kurt Mehlhorn and
+               Girish Varma},
+  title     = {Physarum can compute shortest paths},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {233-240},
+}
+
+@inproceedings{DBLP:conf/soda/Coja-OghlanZ12,
+  author    = {Amin Coja-Oghlan and
+               Lenka Zdeborov{\'a}},
+  title     = {The condensation transition in random hypergraph 2-coloring},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {241-250},
+}
+
+@inproceedings{DBLP:conf/soda/Lelarge12,
+  author    = {Marc Lelarge},
+  title     = {A new approach to the orientation of random hypergraphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {251-264},
+}
+
+@inproceedings{DBLP:conf/soda/DaudeMRR12,
+  author    = {Herv{\'e} Daud{\'e} and
+               Conrado Mart{\'\i}nez and
+               Vonjy Rasendrahasina and
+               Vlady Ravelomanana},
+  title     = {The MAX-CUT of sparse random graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {265-271},
+}
+
+@inproceedings{DBLP:conf/soda/Efthymiou12,
+  author    = {Charilaos Efthymiou},
+  title     = {A simple algorithm for random colouring G(n, d/n) using (2 + {$\epsilon$})d colours},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {272-280},
+}
+
+@inproceedings{DBLP:conf/soda/DrmotaGNPS12,
+  author    = {Michael Drmota and
+               Omer Gim{\'e}nez and
+               Marc Noy and
+               Konstantinos Panagiotou and
+               Angelika Steger},
+  title     = {The maximum degree of random planar graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {281-287},
+}
+
+@inproceedings{DBLP:conf/soda/MorozA12,
+  author    = {Guillaume Moroz and
+               Boris Aronov},
+  title     = {Computing the distance between piecewise-linear bivariate functions},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {288-293},
+}
+
+@inproceedings{DBLP:conf/soda/DumitrescuT12,
+  author    = {Adrian Dumitrescu and
+               Csaba D. T{\'o}th},
+  title     = {Packing anchored rectangles},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {294-305},
+}
+
+@inproceedings{DBLP:conf/soda/SharathkumarA12,
+  author    = {R. Sharathkumar and
+               Pankaj K. Agarwal},
+  title     = {Algorithms for the transportation problem in geometric settings},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {306-317},
+}
+
+@inproceedings{DBLP:conf/soda/DriemelH12,
+  author    = {Anne Driemel and
+               Sariel Har-Peled},
+  title     = {Jaywalking your dog: computing the Fr{\'e}chet distance with shortcuts},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {318-337},
+}
+
+@inproceedings{DBLP:conf/soda/KaplanMNS12,
+  author    = {Haim Kaplan and
+               Shay Mozes and
+               Yahav Nussbaum and
+               Micha Sharir},
+  title     = {Submatrix maximum queries in Monge matrices and Monge partial matrices, and their applications},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {338-355},
+}
+
+@inproceedings{DBLP:conf/soda/Rothvoss12,
+  author    = {Thomas Rothvo{\ss}},
+  title     = {The entropy rounding method in approximation algorithms},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {356-372},
+}
+
+@inproceedings{DBLP:conf/soda/RaghavendraT12,
+  author    = {Prasad Raghavendra and
+               Ning Tan},
+  title     = {Approximating CSPs with global cardinality constraints using SDP hierarchies},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {373-387},
+}
+
+@inproceedings{DBLP:conf/soda/BhaskaraCVGZ12,
+  author    = {Aditya Bhaskara and
+               Moses Charikar and
+               Aravindan Vijayaraghavan and
+               Venkatesan Guruswami and
+               Yuan Zhou},
+  title     = {Polynomial integrality gaps for strong SDP relaxations of Densest k-subgraph},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {388-405},
+}
+
+@inproceedings{DBLP:conf/soda/ChlamtacH12,
+  author    = {Eden Chlamtac and
+               Ishay Haviv},
+  title     = {Linear index coding via semidefinite programming},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {406-419},
+}
+
+@inproceedings{DBLP:conf/soda/MakarychevSS12,
+  author    = {Konstantin Makarychev and
+               Warren Schudy and
+               Maxim Sviridenko},
+  title     = {Concentration inequalities for nonlinear matroid intersection},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {420-436},
+}
+
+@inproceedings{DBLP:conf/soda/SchudyS12,
+  author    = {Warren Schudy and
+               Maxim Sviridenko},
+  title     = {Concentration and moment inequalities for polynomials of independent random variables},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {437-446},
+}
+
+@inproceedings{DBLP:conf/soda/AndoniN12,
+  author    = {Alexandr Andoni and
+               Huy L. Nguyen},
+  title     = {Width of points in the streaming model},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {447-452},
+}
+
+@inproceedings{DBLP:conf/soda/McGregorV12,
+  author    = {Andrew McGregor and
+               Paul Valiant},
+  title     = {The shifting sands algorithm},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {453-458},
+}
+
+@inproceedings{DBLP:conf/soda/AhnGM12,
+  author    = {Kook Jin Ahn and
+               Sudipto Guha and
+               Andrew McGregor},
+  title     = {Analyzing graph structure via linear measurements},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {459-467},
+}
+
+@inproceedings{DBLP:conf/soda/GoelKK12,
+  author    = {Ashish Goel and
+               Michael Kapralov and
+               Sanjeev Khanna},
+  title     = {On the communication and streaming complexity of maximum bipartite matching},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {468-485},
+}
+
+@inproceedings{DBLP:conf/soda/PhillipsVZ12,
+  author    = {Jeff M. Phillips and
+               Elad Verbin and
+               Qin Zhang},
+  title     = {Lower bounds for number-in-hand multiparty communication complexity, made easy},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {486-501},
+}
+
+@inproceedings{DBLP:conf/soda/AvinCHKLPP12,
+  author    = {Chen Avin and
+               Asaf Cohen and
+               Yoram Haddad and
+               Erez Kantor and
+               Zvi Lotker and
+               Merav Parter and
+               David Peleg},
+  title     = {SINR diagram with interference cancellation},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {502-515},
+}
+
+@inproceedings{DBLP:conf/soda/HalldorssonM12,
+  author    = {Magn{\'u}s M. Halld{\'o}rsson and
+               Pradipta Mitra},
+  title     = {Wireless connectivity and capacity},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {516-526},
+}
+
+@inproceedings{DBLP:conf/soda/DieudonnePP12,
+  author    = {Yoann Dieudonn{\'e} and
+               Andrzej Pelc and
+               David Peleg},
+  title     = {Gathering despite mischief},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {527-540},
+}
+
+@inproceedings{DBLP:conf/soda/LohL12,
+  author    = {Po-Shen Loh and
+               Eyal Lubetzky},
+  title     = {Stochastic coalescence in logarithmic time},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {541-550},
+}
+
+@inproceedings{DBLP:conf/soda/AugustinePRU12,
+  author    = {John Augustine and
+               Gopal Pandurangan and
+               Peter Robinson and
+               Eli Upfal},
+  title     = {Towards robust and efficient computation in dynamic peer-to-peer networks},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {551-569},
+}
+
+@inproceedings{DBLP:conf/soda/IaconoP12,
+  author    = {John Iacono and
+               Mihai Patrascu},
+  title     = {Using hashing to solve the dictionary problem},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {570-582},
+}
+
+@inproceedings{DBLP:conf/soda/LarsenP12,
+  author    = {Kasper Green Larsen and
+               Rasmus Pagh},
+  title     = {I/O-efficient data structures for colored range and prefix reporting},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {583-592},
+}
+
+@inproceedings{DBLP:conf/soda/ColletteIL12,
+  author    = {S{\'e}bastien Collette and
+               John Iacono and
+               Stefan Langerman},
+  title     = {Confluent persistence revisited},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {593-601},
+}
+
+@inproceedings{DBLP:conf/soda/BrodalTST12,
+  author    = {Gerth St{\o}lting Brodal and
+               Konstantinos Tsakalidis and
+               Spyros Sioutas and
+               Kostas Tsichlas},
+  title     = {Fully persistent B-trees},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {602-614},
+}
+
+@inproceedings{DBLP:conf/soda/ChattopadhyayEEP12,
+  author    = {Arkadev Chattopadhyay and
+               Jeff Edmonds and
+               Faith Ellen and
+               Toniann Pitassi},
+  title     = {A little advice can be very helpful},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {615-625},
+}
+
+@inproceedings{DBLP:conf/soda/EisenstatKM12,
+  author    = {David Eisenstat and
+               Philip N. Klein and
+               Claire Mathieu},
+  title     = {An efficient polynomial-time approximation scheme for Steiner forest in planar graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {626-638},
+}
+
+@inproceedings{DBLP:conf/soda/BateniHKM12,
+  author    = {MohammadHossein Bateni and
+               MohammadTaghi Hajiaghayi and
+               Philip N. Klein and
+               Claire Mathieu},
+  title     = {A polynomial-time approximation scheme for planar multiway cut},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {639-655},
+}
+
+@inproceedings{DBLP:conf/soda/KaminskiN12,
+  author    = {Marcin Kaminski and
+               Naomi Nishimura},
+  title     = {Finding an induced path of given parity in planar graphs in polynomial time},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {656-670},
+}
+
+@inproceedings{DBLP:conf/soda/KawarabayashiO12,
+  author    = {Ken-ichi Kawarabayashi and
+               Kenta Ozeki},
+  title     = {Spanning closed walks and TSP in 3-connected planar graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {671-682},
+}
+
+@inproceedings{DBLP:conf/soda/KammerT12,
+  author    = {Frank Kammer and
+               Torsten Tholey},
+  title     = {Approximate tree decompositions of planar graphs in linear time},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {683-698},
+}
+
+@inproceedings{DBLP:conf/soda/GuruswamiRSW12,
+  author    = {Venkatesan Guruswami and
+               Prasad Raghavendra and
+               Rishi Saket and
+               Yi Wu},
+  title     = {Bypassing UGC from some optimal geometric inapproximability results},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {699-717},
+}
+
+@inproceedings{DBLP:conf/soda/KrishnaswamyS12,
+  author    = {Ravishankar Krishnaswamy and
+               Maxim Sviridenko},
+  title     = {Inapproximability of the multi-level uncapacitated facility location problem},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {718-734},
+}
+
+@inproceedings{DBLP:conf/soda/PopatW12,
+  author    = {Preyas Popat and
+               Yi Wu},
+  title     = {On the hardness of pricing loss-leaders},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {735-749},
+}
+
+@inproceedings{DBLP:conf/soda/KolmogorovZ12,
+  author    = {Vladimir Kolmogorov and
+               Stanislav Zivny},
+  title     = {The complexity of conservative valued CSPs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {750-759},
+}
+
+@inproceedings{DBLP:conf/soda/IbrahimiKKM12,
+  author    = {Morteza Ibrahimi and
+               Yashodhan Kanoria and
+               Matt Kraning and
+               Andrea Montanari},
+  title     = {The set of solutions of random XORSAT formulae},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {760-779},
+}
+
+@inproceedings{DBLP:conf/soda/ChuzhoyMVZ12,
+  author    = {Julia Chuzhoy and
+               Yury Makarychev and
+               Aravindan Vijayaraghavan and
+               Yuan Zhou},
+  title     = {Approximation algorithms and hardness of the k-route cut problem},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {780-799},
+}
+
+@inproceedings{DBLP:conf/soda/KolmanS12,
+  author    = {Petr Kolman and
+               Christian Scheideler},
+  title     = {Approximate duality of multicommodity multiroute flows and cuts: single source case},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {800-810},
+}
+
+@inproceedings{DBLP:conf/soda/YousefiY12,
+  author    = {Arman Yousefi and
+               Neal E. Young},
+  title     = {On a linear program for minimum-weight triangulation},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {811-823},
+}
+
+@inproceedings{DBLP:conf/soda/Kumar12,
+  author    = {Amit Kumar},
+  title     = {Constant factor approximation algorithm for the knapsack median problem},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {824-832},
+}
+
+@inproceedings{DBLP:conf/soda/RodittyW12,
+  author    = {Liam Roditty and
+               Virginia Vassilevska Williams},
+  title     = {Subquadratic time approximation algorithms for the girth},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {833-845},
+}
+
+@inproceedings{DBLP:conf/soda/Vocking12,
+  author    = {Berthold V{\"o}cking},
+  title     = {A universally-truthful approximation scheme for multi-unit auctions},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {846-855},
+}
+
+@inproceedings{DBLP:conf/soda/ChawlaHS12,
+  author    = {Shuchi Chawla and
+               Jason D. Hartline and
+               Balasubramanian Sivan},
+  title     = {Optimal crowdsourcing contests},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {856-868},
+}
+
+@inproceedings{DBLP:conf/soda/LemeST12,
+  author    = {Renato Paes Leme and
+               Vasilis Syrgkanis and
+               {\'E}va Tardos},
+  title     = {Sequential auctions and externalities},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {869-886},
+}
+
+@inproceedings{DBLP:conf/soda/HaH12,
+  author    = {Bach Q. Ha and
+               Jason D. Hartline},
+  title     = {Mechanism design via consensus estimates, cross checking, and profit extraction},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {887-895},
+}
+
+@inproceedings{DBLP:conf/soda/GeorgiouS12,
+  author    = {Konstantinos Georgiou and
+               Chaitanya Swamy},
+  title     = {Black-box reductions for cost-sharing mechanism design},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {896-913},
+}
+
+@inproceedings{DBLP:conf/soda/Bjorklund12,
+  author    = {Andreas Bj{\"o}rklund},
+  title     = {Counting perfect matchings as fast as Ryser},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {914-921},
+}
+
+@inproceedings{DBLP:conf/soda/LiLY12,
+  author    = {Liang Li and
+               Pinyan Lu and
+               Yitong Yin},
+  title     = {Approximate counting via correlation decay in spin systems},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {922-940},
+}
+
+@inproceedings{DBLP:conf/soda/SinclairST12,
+  author    = {Alistair Sinclair and
+               Piyush Srivastava and
+               Marc Thurley},
+  title     = {Approximation algorithms for two-state anti-ferromagnetic spin systems on bounded degree graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {941-953},
+}
+
+@inproceedings{DBLP:conf/soda/DiazGMRSS12,
+  author    = {Josep D{\'\i}az and
+               Leslie Ann Goldberg and
+               George B. Mertzios and
+               David Richerby and
+               Maria J. Serna and
+               Paul G. Spirakis},
+  title     = {Approximating fixation probabilities in the generalized Moran process},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {954-960},
+}
+
+@inproceedings{DBLP:conf/soda/ImpagliazzoMP12,
+  author    = {Russell Impagliazzo and
+               William Matthews and
+               Ramamohan Paturi},
+  title     = {A satisfiability algorithm for AC0},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {961-972},
+}
+
+@inproceedings{DBLP:conf/soda/Vazirani12,
+  author    = {Vijay V. Vazirani},
+  title     = {The notion of a rational convex program, and an algorithm for the Arrow-Debreu Nash bargaining game},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {973-992},
+}
+
+@inproceedings{DBLP:conf/soda/FiatKLMO12,
+  author    = {Amos Fiat and
+               Elias Koutsoupias and
+               Katrina Ligett and
+               Yishay Mansour and
+               Svetlana Olonetsky},
+  title     = {Beyond myopic best response (in Cournot competition)},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {993-1005},
+}
+
+@inproceedings{DBLP:conf/soda/AulettaFPP12,
+  author    = {Vincenzo Auletta and
+               Diodato Ferraioli and
+               Francesco Pasquale and
+               Giuseppe Persiano},
+  title     = {Metastability of logit dynamics for coordination games},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1006-1024},
+}
+
+@inproceedings{DBLP:conf/soda/BadanidiyuruDFKNR12,
+  author    = {Ashwinkumar Badanidiyuru and
+               Shahar Dobzinski and
+               Hu Fu and
+               Robert Kleinberg and
+               Noam Nisan and
+               Tim Roughgarden},
+  title     = {Sketching valuation functions},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1025-1035},
+}
+
+@inproceedings{DBLP:conf/soda/ChierichettiK12,
+  author    = {Flavio Chierichetti and
+               Jon M. Kleinberg},
+  title     = {Voting with limited information and many alternatives},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1036-1055},
+}
+
+@inproceedings{DBLP:conf/soda/BroutinNS12,
+  author    = {Nicolas Broutin and
+               Ralph Neininger and
+               Henning Sulzbach},
+  title     = {Partial match queries in random quadtrees},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1056-1065},
+}
+
+@inproceedings{DBLP:conf/soda/NavarroN12,
+  author    = {Gonzalo Navarro and
+               Yakov Nekrich},
+  title     = {Top-k document retrieval in optimal time and linear space},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1066-1077},
+}
+
+@inproceedings{DBLP:conf/soda/ChierichettiK12a,
+  author    = {Flavio Chierichetti and
+               Ravi Kumar},
+  title     = {LSH-preserving functions and their applications},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1078-1094},
+}
+
+@inproceedings{DBLP:conf/soda/KociumakaKRRW12,
+  author    = {Tomasz Kociumaka and
+               Marcin Kubica and
+               Jakub Radoszewski and
+               Wojciech Rytter and
+               Tomasz Walen},
+  title     = {A linear time algorithm for seeds computation},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1095-1112},
+}
+
+@inproceedings{DBLP:conf/soda/CibulkaK12,
+  author    = {Josef Cibulka and
+               Jan Kyncl},
+  title     = {Tight bounds on the maximum size of a set of permutations with bounded VC-dimension},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1113-1122},
+}
+
+@inproceedings{DBLP:conf/soda/OnakRRR12,
+  author    = {Krzysztof Onak and
+               Dana Ron and
+               Michal Rosen and
+               Ronitt Rubinfeld},
+  title     = {A near-optimal sublinear-time algorithm for approximating the minimum vertex cover size},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1123-1131},
+}
+
+@inproceedings{DBLP:conf/soda/AlonRVX12,
+  author    = {Noga Alon and
+               Ronitt Rubinfeld and
+               Shai Vardi and
+               Ning Xie},
+  title     = {Space-efficient local computation algorithms},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1132-1139},
+}
+
+@inproceedings{DBLP:conf/soda/BhattacharyyaGRS12,
+  author    = {Arnab Bhattacharyya and
+               Elena Grigorescu and
+               Prasad Raghavendra and
+               Asaf Shapira},
+  title     = {Testing odd-cycle-freeness in Boolean functions},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1140-1149},
+}
+
+@inproceedings{DBLP:conf/soda/FrischknechtHW12,
+  author    = {Silvio Frischknecht and
+               Stephan Holzer and
+               Roger Wattenhofer},
+  title     = {Networks cannot compute their diameter in sublinear time},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1150-1162},
+}
+
+@inproceedings{DBLP:conf/soda/ChenD12,
+  author    = {Ho-Lin Chen and
+               David Doty},
+  title     = {Parallelism and time in hierarchical self-assembly},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1163-1182},
+}
+
+@inproceedings{DBLP:conf/soda/HassaniehIKP12,
+  author    = {Haitham Hassanieh and
+               Piotr Indyk and
+               Dina Katabi and
+               Eric Price},
+  title     = {Simple and practical algorithm for sparse Fourier transform},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1183-1194},
+}
+
+@inproceedings{DBLP:conf/soda/KaneN12,
+  author    = {Daniel M. Kane and
+               Jelani Nelson},
+  title     = {Sparser Johnson-Lindenstrauss transforms},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1195-1206},
+}
+
+@inproceedings{DBLP:conf/soda/GuruswamiS12,
+  author    = {Venkatesan Guruswami and
+               Ali Kemal Sinop},
+  title     = {Optimal column-based low-rank matrix reconstruction},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1207-1214},
+}
+
+@inproceedings{DBLP:conf/soda/PoratS12,
+  author    = {Ely Porat and
+               Martin J. Strauss},
+  title     = {Sublinear time, measurement-optimal, sparse recovery for all},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1215-1227},
+}
+
+@inproceedings{DBLP:conf/soda/AnandGK12,
+  author    = {S. Anand and
+               Naveen Garg and
+               Amit Kumar},
+  title     = {Resource augmentation for weighted flow-time explained by dual fitting},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1228-1241},
+}
+
+@inproceedings{DBLP:conf/soda/GuptaIKMP12,
+  author    = {Anupam Gupta and
+               Sungjin Im and
+               Ravishankar Krishnaswamy and
+               Benjamin Moseley and
+               Kirk Pruhs},
+  title     = {Scheduling heterogeneous processors isn't as easy as you think},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1242-1253},
+}
+
+@inproceedings{DBLP:conf/soda/ImMP12,
+  author    = {Sungjin Im and
+               Benjamin Moseley and
+               Kirk Pruhs},
+  title     = {Online scheduling with general cost functions},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1254-1265},
+}
+
+@inproceedings{DBLP:conf/soda/AlbersA12,
+  author    = {Susanne Albers and
+               Antonios Antoniadis},
+  title     = {Race to idle: new algorithms for speed scaling with a sleep state},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1266-1285},
+}
+
+@inproceedings{DBLP:conf/soda/ChangL12,
+  author    = {Hsien-Chih Chang and
+               Hsueh-I Lu},
+  title     = {A faster algorithm to recognize even-hole-free graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1286-1297},
+}
+
+@inproceedings{DBLP:conf/soda/FaenzaOS12,
+  author    = {Yuri Faenza and
+               Gianpaolo Oriolo and
+               Gautier Stauffer},
+  title     = {Separating stable sets in claw-free graphs via Padberg-Rao and compact linear programs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1298-1308},
+}
+
+@inproceedings{DBLP:conf/soda/EricksonFN12,
+  author    = {Jeff Erickson and
+               Kyle Fox and
+               Amir Nayyeri},
+  title     = {Global minimum cuts in surface embedded graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1309-1318},
+}
+
+@inproceedings{DBLP:conf/soda/BoseFRV12,
+  author    = {Prosenjit Bose and
+               Rolf Fagerberg and
+               Andr{\'e} van Renssen and
+               Sander Verdonschot},
+  title     = {Competitive routing in the half-{$\theta$}6-graph},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1319-1328},
+}
+
+@inproceedings{DBLP:conf/soda/VaradarajanX12,
+  author    = {Kasturi Varadarajan and
+               Xin Xiao},
+  title     = {A near-linear algorithm for projective clustering integer points},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1329-1342},
+}
+
+@inproceedings{DBLP:conf/soda/FeldmanS12,
+  author    = {Dan Feldman and
+               Leonard J. Schulman},
+  title     = {Data reduction for weighted and outlier-resistant clustering},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1343-1354},
+}
+
+@inproceedings{DBLP:conf/soda/BendichWM12,
+  author    = {Paul Bendich and
+               Bei Wang and
+               Sayan Mukherjee},
+  title     = {Local homology transfer and stratification learning},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1355-1370},
+}
+
+@inproceedings{DBLP:conf/soda/DaskalakisDS12,
+  author    = {Constantinos Daskalakis and
+               Ilias Diakonikolas and
+               Rocco A. Servedio},
+  title     = {Learning k-modal distributions via testing},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1371-1385},
+}
+
+@inproceedings{DBLP:conf/soda/ChatterjeeH12,
+  author    = {Krishnendu Chatterjee and
+               Monika Henzinger},
+  title     = {An O(n2) time algorithm for alternating B{\"u}chi games},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1386-1399},
+}
+
+@inproceedings{DBLP:conf/soda/HuangK12,
+  author    = {Chien-Chung Huang and
+               Telikepalli Kavitha},
+  title     = {Efficient algorithms for maximum weight matchings in general graphs with small edge weights},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1400-1412},
+}
+
+@inproceedings{DBLP:conf/soda/DuanS12,
+  author    = {Ran Duan and
+               Hsin-Hao Su},
+  title     = {A scaling algorithm for maximum weight matching in bipartite graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1413-1424},
+}
+
+@inproceedings{DBLP:conf/soda/KawarabayashiK12,
+  author    = {Ken-ichi Kawarabayashi and
+               Yusuke Kobayashi},
+  title     = {List-coloring graphs without subdivisions and without immersions},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1425-1435},
+}
+
+@inproceedings{DBLP:conf/soda/BjorklundKHNKP12,
+  author    = {Andreas Bj{\"o}rklund and
+               Mikko Koivisto and
+               Thore Husfeldt and
+               Jesper Nederlof and
+               Petteri Kaski and
+               Pekka Parviainen},
+  title     = {Fast zeta transforms for lattices with few irreducibles},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1436-1444},
+}
+
+@inproceedings{DBLP:conf/soda/DadushV12,
+  author    = {Daniel Dadush and
+               Santosh Vempala},
+  title     = {Deterministic construction of an approximate M-ellipsoid and its applications to derandomizing lattice algorithms},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1445-1456},
+}
+
+@inproceedings{DBLP:conf/soda/ChengGW12,
+  author    = {Qi Cheng and
+               Shuhong Gao and
+               Daqing Wan},
+  title     = {Constructing high order elements through subspace polynomials},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1457-1463},
+}
+
+@inproceedings{DBLP:conf/soda/Gall12,
+  author    = {Fran{\c{c}}ois Le Gall},
+  title     = {Improved output-sensitive quantum algorithms for Boolean matrix multiplication},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1464-1476},
+}
+
+@inproceedings{DBLP:conf/soda/SchalekampWZ12,
+  author    = {Frans Schalekamp and
+               David P. Williamson and
+               Anke van Zuylen},
+  title     = {A proof of the Boyd-Carr conjecture},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1477-1486},
+}
+
+@inproceedings{DBLP:conf/soda/BarmanC12,
+  author    = {Siddharth Barman and
+               Shuchi Chawla},
+  title     = {Traffic-redundancy aware network design},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1487-1498},
+}
+
+@inproceedings{DBLP:conf/soda/CheriyanLNV12,
+  author    = {Joseph Cheriyan and
+               Bundit Laekhanukit and
+               Guyslain Naves and
+               Adrian Vetta},
+  title     = {Approximating rooted Steiner networks},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1499-1511},
+}
+
+@inproceedings{DBLP:conf/soda/Zenklusen12,
+  author    = {Rico Zenklusen},
+  title     = {Matroidal degree-bounded minimum spanning trees},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1512-1521},
+}
+
+@inproceedings{DBLP:conf/soda/GuptaKNR12,
+  author    = {Anupam Gupta and
+               Ravishankar Krishnaswamy and
+               Viswanath Nagarajan and
+               R. Ravi},
+  title     = {Approximation algorithms for stochastic orienteering},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1522-1538},
+}
+
+@inproceedings{DBLP:conf/soda/JohannsenKS12,
+  author    = {Daniel Johannsen and
+               Michael Krivelevich and
+               Wojciech Samotij},
+  title     = {Expanders are universal for the class of all spanning trees},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1539-1551},
+}
+
+@inproceedings{DBLP:conf/soda/KreutzerT12,
+  author    = {Stephan Kreutzer and
+               Siamak Tazari},
+  title     = {Directed nowhere dense classes of graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1552-1562},
+}
+
+@inproceedings{DBLP:conf/soda/FominLS12,
+  author    = {Fedor V. Fomin and
+               Daniel Lokshtanov and
+               Saket Saurabh},
+  title     = {Bidimensionality and geometric graphs},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1563-1575},
+}
+
+@inproceedings{DBLP:conf/soda/ChanGKS12,
+  author    = {Timothy M. Chan and
+               Elyot Grant and
+               Jochen K{\"o}nemann and
+               Malcolm Sharpe},
+  title     = {Weighted capacitated, priority, and geometric set cover via improved quasi-uniform sampling},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1576-1585},
+}
+
+@inproceedings{DBLP:conf/soda/CheraghchiKKL12,
+  author    = {Mahdi Cheraghchi and
+               Adam Klivans and
+               Pravesh Kothari and
+               Homin K. Lee},
+  title     = {Submodular functions are noise stable},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1586-1592},
+}
+
+@inproceedings{DBLP:conf/soda/ChoureV12,
+  author    = {Ayush Choure and
+               Sundar Vishwanathan},
+  title     = {Random walks, electric networks and the transience class problem of sandpiles},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1593-1611},
+}
+
+@inproceedings{DBLP:conf/soda/LamLMSW12,
+  author    = {Henry Lam and
+               Zhenming Liu and
+               Michael Mitzenmacher and
+               Xiaorui Sun and
+               Yajun Wang},
+  title     = {Information dissemination via random walks in d-dimensional space},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1612-1622},
+}
+
+@inproceedings{DBLP:conf/soda/GiakkoupisS12,
+  author    = {George Giakkoupis and
+               Thomas Sauerwald},
+  title     = {Rumor spreading and vertex expansion},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1623-1641},
+}
+
+@inproceedings{DBLP:conf/soda/FountoulakisPS12,
+  author    = {Nikolaos Fountoulakis and
+               Konstantinos Panagiotou and
+               Thomas Sauerwald},
+  title     = {Ultra-fast rumor spreading in social networks},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1642-1660},
+}
+
+@inproceedings{DBLP:conf/soda/Addario-BerryL12,
+  author    = {Louigi Addario-Berry and
+               Tao Lei},
+  title     = {The mixing time of the Newman: Watts small world},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1661-1668},
+}
+
+@inproceedings{DBLP:conf/soda/MoruzN12,
+  author    = {Gabriel Moruz and
+               Andrei Negoescu},
+  title     = {Outperforming LRU via competitive analysis on parametrized inputs for paging},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1669-1680},
+}
+
+@inproceedings{DBLP:conf/soda/AdamaszekCER12,
+  author    = {Anna Adamaszek and
+               Artur Czumaj and
+               Matthias Englert and
+               Harald R{\"a}cke},
+  title     = {An O(log k)-competitive algorithm for generalized caching},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1681-1689},
+}
+
+@inproceedings{DBLP:conf/soda/MirrokniGZ12,
+  author    = {Vahab S. Mirrokni and
+               Shayan Oveis Gharan and
+               Morteza Zadimoghaddam},
+  title     = {Simultaneous approximations for adversarial and stochastic online budgeted allocation},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1690-1701},
+}
+
+@inproceedings{DBLP:conf/soda/ChakrabortyL12,
+  author    = {Sourav Chakraborty and
+               Oded Lachish},
+  title     = {Improved competitive ratio for the matroid secretary problem},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1702-1712},
+}
+
+@inproceedings{DBLP:conf/soda/ChitnisHM12,
+  author    = {Rajesh Hemant Chitnis and
+               MohammadTaghi Hajiaghayi and
+               D{\'a}niel Marx},
+  title     = {Fixed-parameter tractability of directed multiway cut parameterized by the size of the cutset},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1713-1725},
+}
+
+@inproceedings{DBLP:conf/soda/KakimuraKK12,
+  author    = {Naonori Kakimura and
+               Ken-ichi Kawarabayashi and
+               Yusuke Kobayashi},
+  title     = {Erd{\"o}s-P{\'o}sa property and its algorithmic applications: parity constraints, subset feedback set, and subset packing},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1726-1736},
+}
+
+@inproceedings{DBLP:conf/soda/FominV12,
+  author    = {Fedor V. Fomin and
+               Yngve Villanger},
+  title     = {Subexponential parameterized algorithm for minimum fill-in},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1737-1746},
+}
+
+@inproceedings{DBLP:conf/soda/BjorklundHT12,
+  author    = {Andreas Bj{\"o}rklund and
+               Thore Husfeldt and
+               Nina Taslaman},
+  title     = {Shortest cycle through specified elements},
+  booktitle = soda,
+  year      = 2012,
+  pages     = {1747-1753},
+}
+
 @inproceedings{DBLP:conf/soda/JayramW11,
   author    = {T. S. Jayram and
                David P. Woodruff},
@@ -4428,7 +5783,7 @@
 
 @inproceedings{DBLP:conf/soda/EbenlendrKS08,
   author    = {Tom{\'a}s Ebenlendr and
-               Marek Krcal and
+               Marek Krc{\'a}l and
                Jiri Sgall},
   title     = {Graph balancing: a special case of scheduling unrelated parallel machines},
   booktitle = soda,
@@ -6127,7 +7482,7 @@
 @inproceedings{DBLP:conf/soda/HochsteinW07,
   author    = {Jan M. Hochstein and
                Karsten Weihe},
-  title     = {Maximum s-t-flow with k crossings in O(k3},
+  title     = {Maximum s-t-flow with k crossings in O(k3n log n) time},
   booktitle = soda,
   year      = 2007,
   pages     = {843-847},
@@ -15572,7 +16927,7 @@
 @inproceedings{DBLP:conf/soda/CzumajL99,
   author    = {Artur Czumaj and
                Andrzej Lingas},
-  title     = {On Approximability of the Minimum-Cost k},
+  title     = {On Approximability of the Minimum-Cost k-Connected Spanning Subgraph Problem},
   booktitle = soda,
   year      = 1999,
   pages     = {281-290},

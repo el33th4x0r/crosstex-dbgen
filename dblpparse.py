@@ -153,6 +153,9 @@ class Conference:
         for p in possible:
             if p in MONTHS:
                 return MONTHS[p]
+        for month, abbrev in MONTHS.iteritems():
+            if month in citeattrs.get('title', ''):
+                return abbrev
         print 'WARNING:  no month for "%s"' % citekey, citeattrs
 
     def _normalize_author(self, author):

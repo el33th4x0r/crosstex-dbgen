@@ -1,5 +1,486 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/popl/BlackO12,
+  author    = {Andrew P. Black and
+               Peter W. O'Hearn},
+  title     = {Presentation of the SIGPLAN distinguished achievement award to Sir Charles Antony Richard Hoare, FRS, FREng, FBCS; and interview},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/popl/Hoare12,
+  author    = {Tony Hoare},
+  title     = {Message of thanks: on the receipt of the 2011 ACM SIGPLAN distinguished achievement award},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {3-6},
+}
+
+@inproceedings{DBLP:conf/popl/StadenCM12,
+  author    = {Stephan van Staden and
+               Cristiano Calcagno and
+               Bertrand Meyer},
+  title     = {Freefinement},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {7-18},
+}
+
+@inproceedings{DBLP:conf/popl/JoshiLL12,
+  author    = {Saurabh Joshi and
+               Shuvendu K. Lahiri and
+               Akash Lal},
+  title     = {Underspecified harnesses and interleaved bugs},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {19-30},
+}
+
+@inproceedings{DBLP:conf/popl/GardnerMS12,
+  author    = {Philippa Gardner and
+               Sergio Maffeis and
+               Gareth David Smith},
+  title     = {Towards a program logic for JavaScript},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {31-44},
+}
+
+@inproceedings{DBLP:conf/popl/KrishnaswamiBH12,
+  author    = {Neelakantan R. Krishnaswami and
+               Nick Benton and
+               Jan Hoffmann},
+  title     = {Higher-order functional reactive programming in bounded space},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {45-58},
+}
+
+@inproceedings{DBLP:conf/popl/HurDNV12,
+  author    = {Chung-Kil Hur and
+               Derek Dreyer and
+               Georg Neis and
+               Viktor Vafeiadis},
+  title     = {The marriage of bisimulations and Kripke logical relations},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {59-72},
+}
+
+@inproceedings{DBLP:conf/popl/JamesS12,
+  author    = {Roshan P. James and
+               Amr Sabry},
+  title     = {Information effects},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {73-84},
+}
+
+@inproceedings{DBLP:conf/popl/YangYS12,
+  author    = {Jean Yang and
+               Kuat Yessenov and
+               Armando Solar-Lezama},
+  title     = {A language for automatically enforcing privacy policies},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {85-96},
+}
+
+@inproceedings{DBLP:conf/popl/BartheKOB12,
+  author    = {Gilles Barthe and
+               Boris K{\"o}pf and
+               Federico Olmedo and
+               Santiago Zanella B{\'e}guelin},
+  title     = {Probabilistic relational reasoning for differential privacy},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {97-110},
+}
+
+@inproceedings{DBLP:conf/popl/HeideggerBT12,
+  author    = {Phillip Heidegger and
+               Annette Bieniusa and
+               Peter Thiemann},
+  title     = {Access permission contracts for scripting languages},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {111-122},
+}
+
+@inproceedings{DBLP:conf/popl/MadhusudanQS12,
+  author    = {Parthasarathy Madhusudan and
+               Xiaokang Qiu and
+               Andrei Stefanescu},
+  title     = {Recursive proofs for inductive tree data-structures},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {123-136},
+}
+
+@inproceedings{DBLP:conf/popl/VeanesHLMB12,
+  author    = {Margus Veanes and
+               Pieter Hooimeijer and
+               Benjamin Livshits and
+               David Molnar and
+               Nikolaj Bj{\o}rner},
+  title     = {Symbolic finite state transducers: algorithms and applications},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {137-150},
+}
+
+@inproceedings{DBLP:conf/popl/KoksalKS12,
+  author    = {Ali Sinan K{\"o}ksal and
+               Viktor Kuncak and
+               Philippe Suter},
+  title     = {Constraints as control},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {151-164},
+}
+
+@inproceedings{DBLP:conf/popl/AustinF12,
+  author    = {Thomas H. Austin and
+               Cormac Flanagan},
+  title     = {Multiple facets for dynamic information flow},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {165-178},
+}
+
+@inproceedings{DBLP:conf/popl/RayL12,
+  author    = {Donald Ray and
+               Jay Ligatti},
+  title     = {Defining code-injection attacks},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {179-190},
+}
+
+@inproceedings{DBLP:conf/popl/BasuBO12,
+  author    = {Samik Basu and
+               Tevfik Bultan and
+               Meriem Ouederni},
+  title     = {Deciding choreography realizability},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {191-202},
+}
+
+@inproceedings{DBLP:conf/popl/BouajjaniE12,
+  author    = {Ahmed Bouajjani and
+               Michael Emmi},
+  title     = {Analysis of recursively parallel programs},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {203-214},
+}
+
+@inproceedings{DBLP:conf/popl/Rexford12,
+  author    = {Jennifer Rexford},
+  title     = {Programming languages for programmable networks},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {215-216},
+}
+
+@inproceedings{DBLP:conf/popl/MonsantoFHW12,
+  author    = {Christopher Monsanto and
+               Nate Foster and
+               Rob Harrison and
+               David Walker},
+  title     = {A compiler and run-time system for network programming languages},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {217-230},
+}
+
+@inproceedings{DBLP:conf/popl/ChughRJ12,
+  author    = {Ravi Chugh and
+               Patrick Maxim Rondon and
+               Ranjit Jhala},
+  title     = {Nested refinements: a logic for duck typing},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {231-244},
+}
+
+@inproceedings{DBLP:conf/popl/CousotC12,
+  author    = {Patrick Cousot and
+               Radhia Cousot},
+  title     = {An abstract interpretation framework for termination},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {245-258},
+}
+
+@inproceedings{DBLP:conf/popl/HoderKV12,
+  author    = {Krystof Hoder and
+               Laura Kov{\'a}cs and
+               Andrei Voronkov},
+  title     = {Playing in the grey area of proofs},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {259-272},
+}
+
+@inproceedings{DBLP:conf/popl/StampoulisS12,
+  author    = {Antonis Stampoulis and
+               Zhong Shao},
+  title     = {Static and user-extensible proof checking},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {273-284},
+}
+
+@inproceedings{DBLP:conf/popl/KleinCDEFFMRTF12,
+  author    = {Casey Klein and
+               John Clements and
+               Christos Dimoulas and
+               Carl Eastlund and
+               Matthias Felleisen and
+               Matthew Flatt and
+               Jay A. McCarthy and
+               Jon Rafkind and
+               Sam Tobin-Hochstadt and
+               Robert Bruce Findler},
+  title     = {Run your research: on the effectiveness of lightweight mechanization},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {285-296},
+}
+
+@inproceedings{DBLP:conf/popl/FarzanK12,
+  author    = {Azadeh Farzan and
+               Zachary Kincaid},
+  title     = {Verification of parameterized concurrent programs by modular reasoning about data and control},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {297-308},
+}
+
+@inproceedings{DBLP:conf/popl/BotincanDJ12,
+  author    = {Matko Botincan and
+               Mike Dodds and
+               Suresh Jagannathan},
+  title     = {Resource-sensitive synchronization inference by abduction},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {309-322},
+}
+
+@inproceedings{DBLP:conf/popl/ReddyR12,
+  author    = {Uday S. Reddy and
+               John C. Reynolds},
+  title     = {Syntactic control of interference for separation logic},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {323-336},
+}
+
+@inproceedings{DBLP:conf/popl/LicataH12,
+  author    = {Daniel R. Licata and
+               Robert Harper},
+  title     = {Canonicity for 2-dimensional type theory},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {337-348},
+}
+
+@inproceedings{DBLP:conf/popl/KammarP12,
+  author    = {Ohad Kammar and
+               Gordon D. Plotkin},
+  title     = {Algebraic foundations for effect-dependent optimisations},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {349-360},
+}
+
+@inproceedings{DBLP:conf/popl/CretinR12,
+  author    = {Julien Cretin and
+               Didier R{\'e}my},
+  title     = {On the power of coercion abstraction},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {361-372},
+}
+
+@inproceedings{DBLP:conf/popl/NaikYCS12,
+  author    = {Mayur Naik and
+               Hongseok Yang and
+               Ghila Castelnuovo and
+               Mooly Sagiv},
+  title     = {Abstractions from tests},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {373-386},
+}
+
+@inproceedings{DBLP:conf/popl/SmaragdakisESYF12,
+  author    = {Yannis Smaragdakis and
+               Jacob Evans and
+               Caitlin Sadowski and
+               Jaeheon Yi and
+               Cormac Flanagan},
+  title     = {Sound predictive race detection in polynomial time},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {387-400},
+}
+
+@inproceedings{DBLP:conf/popl/BojanczykBKL12,
+  author    = {Mikolaj Bojanczyk and
+               Laurent Braud and
+               Bartek Klin and
+               Slawomir Lasota},
+  title     = {Towards nominal computation},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {401-412},
+}
+
+@inproceedings{DBLP:conf/popl/CaveP12,
+  author    = {Andrew Cave and
+               Brigitte Pientka},
+  title     = {Programming with binders and indexed data-types},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {413-424},
+}
+
+@inproceedings{DBLP:conf/popl/Moore12,
+  author    = {J. Strother Moore},
+  title     = {Meta-level features in an industrial-strength theorem prover},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {425-426},
+}
+
+@inproceedings{DBLP:conf/popl/ZhaoNMZ12,
+  author    = {Jianzhou Zhao and
+               Santosh Nagarakatte and
+               Milo M. K. Martin and
+               Steve Zdancewic},
+  title     = {Formalizing the LLVM intermediate representation for verified program transformations},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {427-440},
+}
+
+@inproceedings{DBLP:conf/popl/ZhuMKR12,
+  author    = {Zeyuan Allen Zhu and
+               Sasa Misailovic and
+               Jonathan A. Kelner and
+               Martin C. Rinard},
+  title     = {Randomized accuracy-aware program transformations for efficient approximate computations},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {441-454},
+}
+
+@inproceedings{DBLP:conf/popl/LiangFF12,
+  author    = {Hongjin Liang and
+               Xinyu Feng and
+               Ming Fu},
+  title     = {A rely-guarantee-based simulation for verifying concurrent program transformations},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {455-468},
+}
+
+@inproceedings{DBLP:conf/popl/Balabonski12,
+  author    = {Thibaut Balabonski},
+  title     = {A unified approach to fully lazy sharing},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {469-480},
+}
+
+@inproceedings{DBLP:conf/popl/RastogiCH12,
+  author    = {Aseem Rastogi and
+               Avik Chaudhuri and
+               Basil Hosmer},
+  title     = {The ins and outs of gradual type inference},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {481-494},
+}
+
+@inproceedings{DBLP:conf/popl/HofmannPW12,
+  author    = {Martin Hofmann and
+               Benjamin C. Pierce and
+               Daniel Wagner},
+  title     = {Edit lenses},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {495-508},
+}
+
+@inproceedings{DBLP:conf/popl/BattyMOSS12,
+  author    = {Mark Batty and
+               Kayvan Memarian and
+               Scott Owens and
+               Susmit Sarkar and
+               Peter Sewell},
+  title     = {Clarifying and compiling C/C++ concurrency: from C++11 to POWER},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {509-520},
+}
+
+@inproceedings{DBLP:conf/popl/RamananandroRL12,
+  author    = {Tahina Ramananandro and
+               Gabriel Dos Reis and
+               Xavier Leroy},
+  title     = {A mechanized semantics for C++ object construction and destruction, with applications to resource management},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {521-532},
+}
+
+@inproceedings{DBLP:conf/popl/EllisonR12,
+  author    = {Chucky Ellison and
+               Grigore Rosu},
+  title     = {An executable formal semantics of C with applications},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {533-544},
+}
+
+@inproceedings{DBLP:conf/popl/BhatAVG12,
+  author    = {Sooraj Bhat and
+               Ashish Agarwal and
+               Richard W. Vuduc and
+               Alexander G. Gray},
+  title     = {A type theory for probability density functions},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {545-556},
+}
+
+@inproceedings{DBLP:conf/popl/NadenBAB12,
+  author    = {Karl Naden and
+               Robert Bocchino and
+               Jonathan Aldrich and
+               Kevin Bierhoff},
+  title     = {A type system for borrowing permissions},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {557-570},
+}
+
+@inproceedings{DBLP:conf/popl/StrubSFC12,
+  author    = {Pierre-Yves Strub and
+               Nikhil Swamy and
+               C{\'e}dric Fournet and
+               Juan Chen},
+  title     = {Self-certification: bootstrapping certified typecheckers in F* with Coq},
+  booktitle = popl,
+  year      = 2012,
+  pages     = {571-584},
+}
+
 @inproceedings{DBLP:conf/popl/Leroy11,
   author    = {Xavier Leroy},
   title     = {Verified squared: does critical software deserve verified tools?},

@@ -1,5 +1,312 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurosys/DragojevicH12,
+  author    = {Aleksandar Dragojevic and
+               Tim Harris},
+  title     = {STM in the small: trading generality for performance in software transactional memory},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/eurosys/KimLDHWWP12,
+  author    = {Sangman Kim and
+               Michael Z. Lee and
+               Alan M. Dunn and
+               Owen S. Hofmann and
+               Xuan Wang and
+               Emmett Witchel and
+               Donald E. Porter},
+  title     = {Improving server applications with system transactions},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {15-28},
+}
+
+@inproceedings{DBLP:conf/eurosys/PathakHZ12,
+  author    = {Abhinav Pathak and
+               Y. Charlie Hu and
+               Ming Zhang},
+  title     = {Where is the energy spent inside my app?: fine grained energy accounting on smartphones with Eprof},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {29-42},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenABK12,
+  author    = {Yanpei Chen and
+               Sara Alspaugh and
+               Dhruba Borthakur and
+               Randy H. Katz},
+  title     = {Energy efficiency for large-scale MapReduce workloads with significant interactive analysis},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {43-56},
+}
+
+@inproceedings{DBLP:conf/eurosys/GoiriLNGTB12,
+  author    = {I{\~n}igo Goiri and
+               Kien Le and
+               Thu D. Nguyen and
+               Jordi Guitart and
+               Jordi Torres and
+               Ricardo Bianchini},
+  title     = {GreenHadoop: leveraging green energy in data-processing frameworks},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {57-70},
+}
+
+@inproceedings{DBLP:conf/eurosys/PuttaswamyNK12,
+  author    = {Krishna P. N. Puttaswamy and
+               Thyaga Nandagopal and
+               Murali S. Kodialam},
+  title     = {Frugal storage for cloud file systems},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {71-84},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChengHKMWWYZZC12,
+  author    = {Raymond Cheng and
+               Ji Hong and
+               Aapo Kyrola and
+               Youshan Miao and
+               Xuetian Weng and
+               Ming Wu and
+               Fan Yang and
+               Lidong Zhou and
+               Feng Zhao and
+               Enhong Chen},
+  title     = {Kineograph: taking the pulse of a fast-changing and connected world},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {85-98},
+}
+
+@inproceedings{DBLP:conf/eurosys/FergusonBKBF12,
+  author    = {Andrew D. Ferguson and
+               Peter Bod{\'\i}k and
+               Srikanth Kandula and
+               Eric Boutin and
+               Rodrigo Fonseca},
+  title     = {Jockey: guaranteed job latency in data parallel clusters},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {99-112},
+}
+
+@inproceedings{DBLP:conf/eurosys/WilliamsJW12,
+  author    = {Dan Williams and
+               Hani Jamjoom and
+               Hakim Weatherspoon},
+  title     = {The Xen-Blanket: virtualize once, run everywhere},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {113-126},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangWGJ12,
+  author    = {Zhi Wang and
+               Chiachih Wu and
+               Michael C. Grace and
+               Xuxian Jiang},
+  title     = {Isolating commodity hosted hypervisors with HyperLock},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {127-140},
+}
+
+@inproceedings{DBLP:conf/eurosys/NguyenRRSW12,
+  author    = {Anh Nguyen and
+               Himanshu Raj and
+               Shravan K. Rayanchu and
+               Stefan Saroiu and
+               Alec Wolman},
+  title     = {Delusional boot: securing hypervisors without massive re-engineering},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {141-154},
+}
+
+@inproceedings{DBLP:conf/eurosys/YabandehF12,
+  author    = {Maysam Yabandeh and
+               Daniel G{\'o}mez Ferro},
+  title     = {A critique of snapshot isolation},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {155-168},
+}
+
+@inproceedings{DBLP:conf/eurosys/CiparGKMSV12,
+  author    = {James Cipar and
+               Gregory R. Ganger and
+               Kimberly Keeton and
+               Charles B. Morrey III and
+               Craig A. N. Soules and
+               Alistair C. Veitch},
+  title     = {LazyBase: trading freshness for performance in a scalable database},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {169-182},
+}
+
+@inproceedings{DBLP:conf/eurosys/MaoKM12,
+  author    = {Yandong Mao and
+               Eddie Kohler and
+               Robert Tappan Morris},
+  title     = {Cache craftiness for fast multicore key-value storage},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {183-196},
+}
+
+@inproceedings{DBLP:conf/eurosys/QianCKCYMZ12,
+  author    = {Zhengping Qian and
+               Xiuwei Chen and
+               Nanxi Kang and
+               Mingcheng Chen and
+               Yuan Yu and
+               Thomas Moscibroda and
+               Zheng Zhang},
+  title     = {MadLINQ: large-scale distributed matrix computation for the cloud},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {197-210},
+}
+
+@inproceedings{DBLP:conf/eurosys/BilaLJLHS12,
+  author    = {Nilton Bila and
+               Eyal de Lara and
+               Kaustubh R. Joshi and
+               H. Andr{\'e}s Lagar-Cavilla and
+               Matti A. Hiltunen and
+               Mahadev Satyanarayanan},
+  title     = {Jettison: efficient idle desktop consolidation with partial VM migration},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {211-224},
+}
+
+@inproceedings{DBLP:conf/eurosys/VattikondaPVS12,
+  author    = {Bhanu Chandra Vattikonda and
+               George Porter and
+               Amin Vahdat and
+               Alex C. Snoeren},
+  title     = {Practical TDMA for datacenter ethernet},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {225-238},
+}
+
+@inproceedings{DBLP:conf/eurosys/CarreiraRCM12,
+  author    = {Jo{\~a}o Carlos Menezes Carreira and
+               Rodrigo Rodrigues and
+               George Candea and
+               Rupak Majumdar},
+  title     = {Scalable testing of file system checkers},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {239-252},
+}
+
+@inproceedings{DBLP:conf/eurosys/WuH12,
+  author    = {Guanying Wu and
+               Xubin He},
+  title     = {Delta-FTL: improving SSD lifetime via exploiting content locality},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {253-266},
+}
+
+@inproceedings{DBLP:conf/eurosys/SaxenaSZ12,
+  author    = {Mohit Saxena and
+               Michael M. Swift and
+               Yiying Zhang},
+  title     = {FlashTier: a lightweight, consistent and durable storage cache},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {267-280},
+}
+
+@inproceedings{DBLP:conf/eurosys/BanabicC12,
+  author    = {Radu Banabic and
+               George Candea},
+  title     = {Fast black-box testing of system recovery code},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {281-294},
+}
+
+@inproceedings{DBLP:conf/eurosys/KapitzaBCDKMSS12,
+  author    = {R{\"u}diger Kapitza and
+               Johannes Behl and
+               Christian Cachin and
+               Tobias Distler and
+               Simon Kuhnle and
+               Seyed Vahid Mohammadi and
+               Wolfgang Schr{\"o}der-Preikschat and
+               Klaus Stengel},
+  title     = {CheapBFT: resource-efficient byzantine fault tolerance},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {295-308},
+}
+
+@inproceedings{DBLP:conf/eurosys/ViswanathMGMP12,
+  author    = {Bimal Viswanath and
+               Mainack Mondal and
+               P. Krishna Gummadi and
+               Alan Mislove and
+               Ansley Post},
+  title     = {Canal: scaling social network-based Sybil tolerance schemes},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {309-322},
+}
+
+@inproceedings{DBLP:conf/eurosys/BlackhamSH12,
+  author    = {Bernard Blackham and
+               Yao Shi and
+               Gernot Heiser},
+  title     = {Improving interrupt response time in a verifiable protected microkernel},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {323-336},
+}
+
+@inproceedings{DBLP:conf/eurosys/PesterevSZM12,
+  author    = {Aleksey Pesterev and
+               Jacob Strauss and
+               Nickolai Zeldovich and
+               Robert T. Morris},
+  title     = {Improving network connection locality on multicore systems},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {337-350},
+}
+
+@inproceedings{DBLP:conf/eurosys/GramoliGT12,
+  author    = {Vincent Gramoli and
+               Rachid Guerraoui and
+               Vasileios Trigonakis},
+  title     = {TM2C: a software transactional memory for many-cores},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {351-364},
+}
+
+@inproceedings{DBLP:conf/eurosys/DingWGZ12,
+  author    = {Xiaoning Ding and
+               Kaibo Wang and
+               Phillip B. Gibbons and
+               Xiaodong Zhang},
+  title     = {BWS: balanced work stealing for time-sharing multicores},
+  booktitle = eurosys,
+  year      = 2012,
+  pages     = {365-378},
+}
+
 @inproceedings{DBLP:conf/eurosys/GeambasuJGKL11,
   author    = {Roxana Geambasu and
                John P. John and

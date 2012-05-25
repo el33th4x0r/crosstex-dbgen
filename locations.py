@@ -215,6 +215,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Barcelona', {'city': 'Barcelona', 'country': 'Spain'})
                  ,('Berlin', {'city': 'Berlin', 'country': 'Germany'})
                  ,('Belfast', {'city': 'Belfast', 'state': 'Northern Ireland', 'country': 'UK'})
+                 ,('Bern', {'city': 'Bern', 'country': 'Switzerland'})
                  ,('Bertinoro', {'city': 'Bertinoro', 'country': 'Italy'})
                  ,('Bratislava', {'city': 'Bratislava', 'country': 'Slovakia'})
                  ,('Brighton', {'city': 'Brighton', 'country': 'UK'})
@@ -248,6 +249,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Istanbul', {'city': 'Istanbul', 'country': 'Turkey'})
                  ,('Karlsruhe', {'city': 'Karlsruhe', 'country': 'Germany'})
                  ,('Kobe', {'city': 'Kobe', 'country': 'Japan'})
+                 ,('Konstanz', {'city': 'Konstanz', 'country': 'Germany'})
                  ,('Kyoto', {'city': 'Kyoto', 'country': 'Japan'})
                  ,('Lausanne', {'city': 'Lausanne', 'country': 'Switzerland'})
                  ,('Leuven', {'city': 'Leuven', 'country': 'Belgium'})
@@ -297,6 +299,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Vienna', {'city': 'Vienna', 'country': 'Austria'})
                  ,('VillaGallia', {'city': 'Villa Gallia', 'state': 'Como', 'country': 'Italy'})
                  ,('Warsaw', {'city': 'Warsaw', 'country': 'Poland'})
+                 ,('Waterloo', {'city': 'Waterloo', 'country': 'Canada'})
                  ,('Winnipeg', {'city': 'Winnipeg', 'country': 'Canada'})
                  ,('Yokohama', {'city': 'Yokohama', 'country': 'Japan'})
                  ,('Montreal', {'city': '{Montr\\\'eal}', 'country': 'Canada'})
@@ -311,9 +314,12 @@ LOCATION_AMBIGUITIES = {'Cambridge': {'Massachusetts': 'CambridgeMA',
                                       'UK': 'CambridgeUK'}
                        }
 # Location aliases are under multiple names.  E.g. SanFrancisco -> sf
-LOCATION_ALIASES = {'alzburg': 'Salzburg'
+LOCATION_ALIASES = {'99Atlanta': 'Atlanta'
+                   ,'alzburg': 'Salzburg'
                    ,'NewYork': 'NYC'
+                   ,'Philadephia': 'Philadelphia'
                    ,'Pisa': 'Piza'
+                   ,'SaltLakeCity': 'SaltLake'
                    ,'SanFrancisco': 'SF'
                    }
 
