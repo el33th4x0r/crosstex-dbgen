@@ -1,0 +1,287 @@
+@include conferences-cs
+
+@inproceedings{DBLP:conf/cloud/Dean10,
+  author    = {Jeffrey Dean},
+  title     = {Evolution and future directions of large-scale storage and computation systems at Google},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/cloud/WentzlaffGBMBYMA10,
+  author    = {David Wentzlaff and
+               Charles Gruenwald III and
+               Nathan Beckmann and
+               Kevin Modzelewski and
+               Adam Belay and
+               Lamia Youseff and
+               Jason E. Miller and
+               Anant Agarwal},
+  title     = {An operating system for multicore and clouds: mechanisms and implementation},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/cloud/HansenJ10,
+  author    = {Jacob Gorm Hansen and
+               Eric Jul},
+  title     = {Lithium: virtual machine storage for the cloud},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/cloud/KesavanGS10,
+  author    = {Mukil Kesavan and
+               Ada Gavrilovska and
+               Karsten Schwan},
+  title     = {Differential virtual time (DVT): rethinking I/O service differentiation for virtual machines},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/cloud/KansalZLKB10,
+  author    = {Aman Kansal and
+               Feng Zhao and
+               Jie Liu and
+               Nupur Kothari and
+               Arka A. Bhattacharya},
+  title     = {Virtual machine power metering and provisioning},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/cloud/LogothetisORWY10,
+  author    = {Dionysios Logothetis and
+               Christopher Olston and
+               Benjamin Reed and
+               Kevin C. Webb and
+               Ken Yocum},
+  title     = {Stateful bulk processing for incremental analytics},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {51-62},
+}
+
+@inproceedings{DBLP:conf/cloud/HeYGCSLZ10,
+  author    = {Bingsheng He and
+               Mao Yang and
+               Zhenyu Guo and
+               Rishan Chen and
+               Bing Su and
+               Wei Lin and
+               Lidong Zhou},
+  title     = {Comet: batched stream processing for data intensive distributed computing},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/cloud/KwonBHR10,
+  author    = {YongChul Kwon and
+               Magdalena Balazinska and
+               Bill Howe and
+               Jerome A. Rolia},
+  title     = {Skew-resistant parallel processing of feature-extracting scientific user-defined functions},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {75-86},
+}
+
+@inproceedings{DBLP:conf/cloud/Sobel10,
+  author    = {Jason Sobel},
+  title     = {Building facebook: performance at massive scale},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {87},
+}
+
+@inproceedings{DBLP:conf/cloud/KaragiannisGNR10,
+  author    = {Thomas Karagiannis and
+               Christos Gkantsidis and
+               Dushyanth Narayanan and
+               Antony I. T. Rowstron},
+  title     = {Hermes: clustering users in large-scale e-mail services},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {89-100},
+}
+
+@inproceedings{DBLP:conf/cloud/RamakrishnanJCCS10,
+  author    = {Lavanya Ramakrishnan and
+               Keith R. Jackson and
+               Shane Canon and
+               Shreyas Cholia and
+               John Shalf},
+  title     = {Defining future platform requirements for e-Science clouds},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {101-106},
+}
+
+@inproceedings{DBLP:conf/cloud/KicimanLMW10,
+  author    = {Emre Kiciman and
+               V. Benjamin Livshits and
+               Madanlal Musuvathi and
+               Kevin C. Webb},
+  title     = {Fluxo: a system for internet service programming by non-expert developers},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {107-118},
+}
+
+@inproceedings{DBLP:conf/cloud/BattreEHKMW10,
+  author    = {Dominic Battr{\'e} and
+               Stephan Ewen and
+               Fabian Hueske and
+               Odej Kao and
+               Volker Markl and
+               Daniel Warneke},
+  title     = {Nephele/PACTs: a programming model and execution framework for web-scale analytical processing},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {119-130},
+}
+
+@inproceedings{DBLP:conf/cloud/ArmbrustLTFFP10,
+  author    = {Michael Armbrust and
+               Nick Lanham and
+               Stephen Tu and
+               Armando Fox and
+               Michael J. Franklin and
+               David A. Patterson},
+  title     = {The case for PIQL: a performance insightful query language},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {131-136},
+}
+
+@inproceedings{DBLP:conf/cloud/Babu10,
+  author    = {Shivnath Babu},
+  title     = {Towards automatic optimization of MapReduce programs},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {137-142},
+}
+
+@inproceedings{DBLP:conf/cloud/CooperSTRS10,
+  author    = {Brian F. Cooper and
+               Adam Silberstein and
+               Erwin Tam and
+               Raghu Ramakrishnan and
+               Russell Sears},
+  title     = {Benchmarking cloud serving systems with YCSB},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {143-154},
+}
+
+@inproceedings{DBLP:conf/cloud/CandeaBZ10,
+  author    = {George Candea and
+               Stefan Bucur and
+               Cristian Zamfir},
+  title     = {Automated software testing as a service},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {155-160},
+}
+
+@inproceedings{DBLP:conf/cloud/Woollen10,
+  author    = {Rob Woollen},
+  title     = {The internal design of salesforce.com's multi-tenant architecture},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {161},
+}
+
+@inproceedings{DBLP:conf/cloud/DasAA10,
+  author    = {Sudipto Das and
+               Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {G-Store: a scalable data store for transactional multi key access in the cloud},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {163-174},
+}
+
+@inproceedings{DBLP:conf/cloud/GonzalezHJLMSS10,
+  author    = {Hector Gonzalez and
+               Alon Y. Halevy and
+               Christian S. Jensen and
+               Anno Langen and
+               Jayant Madhavan and
+               Rebecca Shapley and
+               Warren Shen},
+  title     = {Google fusion tables: data management, integration and collaboration in the cloud},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {175-180},
+}
+
+@inproceedings{DBLP:conf/cloud/KoHCG10,
+  author    = {Steven Y. Ko and
+               Imranul Hoque and
+               Brian Cho and
+               Indranil Gupta},
+  title     = {Making cloud intermediate data fault-tolerant},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {181-192},
+}
+
+@inproceedings{DBLP:conf/cloud/VishwanathN10,
+  author    = {Kashi Venkatesh Vishwanath and
+               Nachiappan Nagappan},
+  title     = {Characterizing cloud computing hardware reliability},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {193-204},
+}
+
+@inproceedings{DBLP:conf/cloud/BonvinPA10,
+  author    = {Nicolas Bonvin and
+               Thanasis G. Papaioannou and
+               Karl Aberer},
+  title     = {A self-organized, fault-tolerant and scalable replication scheme for cloud storage},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {205-216},
+}
+
+@inproceedings{DBLP:conf/cloud/AmurCGGKS10,
+  author    = {Hrishikesh Amur and
+               James Cipar and
+               Varun Gupta and
+               Gregory R. Ganger and
+               Michael A. Kozuch and
+               Karsten Schwan},
+  title     = {Robust and flexible power-proportional storage},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {217-228},
+}
+
+@inproceedings{DBLP:conf/cloud/Abu-LibdehPW10,
+  author    = {Hussam Abu-Libdeh and
+               Lonnie Princehouse and
+               Hakim Weatherspoon},
+  title     = {RACS: a case for cloud storage diversity},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {229-240},
+}
+
+@inproceedings{DBLP:conf/cloud/BodikFFJP10,
+  author    = {Peter Bod{\'\i}k and
+               Armando Fox and
+               Michael J. Franklin and
+               Michael I. Jordan and
+               David A. Patterson},
+  title     = {Characterizing, modeling, and generating workload spikes for stateful services},
+  booktitle = socc,
+  year      = 2010,
+  pages     = {241-252},
+}

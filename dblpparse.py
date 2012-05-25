@@ -355,6 +355,7 @@ d.add_conference('pldi',        'PLDI', 'SIGPLAN Conference on Programming Langu
 d.add_conference('podc',        'PODC', 'ACM Symposium on Principles of Distributed Computing')
 d.add_conference('popl',        'POPL', 'Symposium on Principles of Programming Languages')
 d.add_conference('sigcomm',     'SIGCOMM', 'SIGCOMM Conference')
+d.add_conference('socc',        'SoCC', 'Symposium on Cloud Computing', dblpslug='cloud')
 d.add_conference('soda',        'SODA', 'Symposium on Discrete Algorithms')
 d.add_conference('sosp',        'SOSP', 'Symposium on Operating Systems Principles')
 d.process()
