@@ -251,8 +251,8 @@ class DBLPProcessor:
         self._proceedings = {}
         self._filters = set()
 
-    def add_conference(self, slug, shortname, longname, booktitle=None):
-        key = ('proceedings', 'conf', booktitle or shortname)
+    def add_conference(self, slug, shortname, longname, booktitle=None, dblpslug=None):
+        key = ('proceedings', 'conf', booktitle or shortname, dblpslug or slug)
         out = os.path.join(self._outdir, slug + '.xtx')
         conf = Conference(out, slug, shortname, longname, booktitle)
         assert slug not in self._proceedings
@@ -260,6 +260,7 @@ class DBLPProcessor:
         self._filters.add(slug)
         self._filters.add(shortname)
         self._filters.add(booktitle)
+        self._filters.add(dblpslug)
 
     def process(self):
         self._conditional_preprocess()
@@ -267,8 +268,8 @@ class DBLPProcessor:
         for citetype, citekey, citeattrs in self._iterate():
             if citetype == 'proceedings':
                 booktitle = citeattrs.get('booktitle', None)
-                venuetype, junk = citekey.split('/', 1)
-                obj = self._proceedings.get((citetype, venuetype, booktitle), None)
+                venuetype, venueslug, junk = citekey.split('/', 2)
+                obj = self._proceedings.get((citetype, venuetype, booktitle, venueslug), None)
                 if obj is None:
                     continue
                 containers[citekey] = obj
@@ -281,8 +282,8 @@ class DBLPProcessor:
             # Otherwise we need to guess
             elif citetype == 'inproceedings':
                 booktitle = citeattrs.get('booktitle', None)
-                venuetype, junk = citekey.split('/', 1)
-                key = ('proceedings', venuetype, booktitle)
+                venuetype, venueslug, junk = citekey.split('/', 2)
+                key = ('proceedings', venuetype, booktitle, venueslug)
                 if key in self._proceedings:
                     self._proceedings[key].add_inproc(citetype, citekey, citeattrs)
         for proceedings in self._proceedings.values():
