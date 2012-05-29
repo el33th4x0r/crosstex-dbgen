@@ -91,7 +91,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('Anchorage', {'city': 'Anchorage', 'state': 'AK'})
                ,('Annapolis', {'city': 'Annapolis', 'state': 'MD'})
                ,('AnnArbor', {'city': 'Ann Arbor', 'state': 'MI'})
-               ,('Arlington', {'city': 'Arlington', 'state': 'TX'})
+               ,('ArlingtonTX', {'city': 'Arlington', 'state': 'TX'})
                ,('ArlingtonVA', {'city': 'Arlington', 'state': 'VA'})
                ,('Asheville', {'city': 'Asheville', 'state': 'NC'})
                ,('Atlanta', {'city': 'Atlanta', 'state': 'GA'})
@@ -310,7 +310,9 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ]
 
 # Ambiguous locations are resolved by looking for clarifying locations
-LOCATION_AMBIGUITIES = {'Cambridge': {'Massachusetts': 'CambridgeMA',
+LOCATION_AMBIGUITIES = {'Arlington': {'Texas': 'ArlingtonTX',
+                                      'Virginia': 'ArlingtonVA'}
+                       ,'Cambridge': {'Massachusetts': 'CambridgeMA',
                                       'UK': 'CambridgeUK'}
                        }
 # Location aliases are under multiple names.  E.g. SanFrancisco -> sf

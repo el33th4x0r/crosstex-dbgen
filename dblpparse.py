@@ -43,14 +43,14 @@ class Conference:
         self._shortname = shortname
         self._longname = longname
         self._booktitle = booktitle or shortname
-        self._year_locations = {}
+        self._years = {}
         self._out = open(output, 'w+')
 
     def add_proc(self, citekey, citeattrs):
         year = self._extract_year(citekey, citeattrs)
         addr = self._extract_location(citekey, citeattrs)
         mon = self._extract_month(citekey, citeattrs)
-        self._year_locations[year] = (addr, mon)
+        self._years[year] = (addr, mon)
 
     def add_inproc(self, citetype, citekey, citeattrs):
         if 'author' not in citeattrs:
@@ -104,6 +104,8 @@ class Conference:
             title = self._normalize_title(citekey, citeattrs)
         bibtex = templ % (citekey, authors, title, self._slug,
                           citeattrs['year'], pages)
+        if citeattrs['year'] not in self._years:
+            self._years[citeattrs['year']] = None, None
         self._out.write(repr((0 - citeattrs['year'], pagesrt, citekey, bibtex)) + '\n')
 
     def post_process(self):
@@ -115,6 +117,22 @@ class Conference:
         for year, pages, citekey, bibtex in sorted(tmp):
             self._out.write(bibtex)
         self._out.flush()
+
+    def write_citation(self, fout):
+        templ = '''\n@conference{%s,
+  shortname = "%s",
+  longname  = "%s",
+%s}\n'''
+        years = self._years.copy()
+        years.update(overrides.CONFERENCE_LOCATIONS.get(self._slug, {}))
+        yearsstr = ''
+        for year, (addr, mon) in reversed(sorted(years.items())):
+            if addr is None or mon is None:
+                print 'WARNING:  conference "%s" missing information for year %i' % (self._slug, year)
+            else:
+                yearsstr += '  [year=%04i] address=%s, month=%s,\n' % (year, addr, mon)
+        citation = templ % (self._slug, self._shortname, self._longname, yearsstr)
+        fout.write(citation)
 
     def _extract_year(self, citekey, citeattrs):
         if 'year' in citeattrs:
@@ -137,7 +155,7 @@ class Conference:
                 for x in possible:
                     if x in LOCATION_AMBIGUITIES[p]:
                         count += 1
-                        loc = x
+                        loc = LOCATION_AMBIGUITIES[p][x]
                 if count == 1:
                     return loc
                 print 'WARNING:  "%s" resolves to ambiguous location' % citekey, citeattrs
@@ -253,12 +271,14 @@ class DBLPProcessor:
         self._outdir = outdir
         self._proceedings = {}
         self._filters = set()
+        self._conference_keys = []
 
     def add_conference(self, slug, shortname, longname, booktitle=None, dblpslug=None):
         key = ('proceedings', 'conf', booktitle or shortname, dblpslug or slug)
         out = os.path.join(self._outdir, slug + '.xtx')
         conf = Conference(out, slug, shortname, longname, booktitle)
-        assert slug not in self._proceedings
+        assert key not in self._proceedings
+        self._conference_keys.append(key)
         self._proceedings[key] = conf
         self._filters.add(slug)
         self._filters.add(shortname)
@@ -291,6 +311,9 @@ class DBLPProcessor:
                     self._proceedings[key].add_inproc(citetype, citekey, citeattrs)
         for proceedings in self._proceedings.values():
             proceedings.post_process()
+        with open(os.path.join(self._outdir, 'conferences-cs.xtx'), 'w') as fout:
+            for key in self._conference_keys:
+                self._proceedings[key].write_citation(fout)
 
     def _preprocess(self):
         with open(self._ppfilename, 'w') as fout:
