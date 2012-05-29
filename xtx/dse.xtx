@@ -1,0 +1,1606 @@
+@include journals-cs
+
+@article{DBLP:journals/dse/DaviesRB99,
+  author    = {Nigel Davies and
+               Kerry Raymond and
+               Gordon S. Blair},
+  title     = {Guest Editors' Introduction: Selected papers from Middleware'98: The IFIP International Conference on Distributed Systems - Platforms and Open Distributed Processing},
+  journal   = dse,
+  volume    = {6},
+  number    = {1},
+  year      = 1999,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/dse/DumantHTS99,
+  author    = {Bruno Dumant and
+               Fran{\c{c}}ois Horn and
+               Fr{\'e}d{\'e}ric Dang Tran and
+               Jean-Bernard Stefani},
+  title     = {Jonathan: an open distributed processing environment in Java},
+  journal   = dse,
+  volume    = {6},
+  number    = {1},
+  year      = 1999,
+  pages     = {3-12},
+}
+
+@article{DBLP:journals/dse/LoP99,
+  author    = {Sai-Lai Lo and
+               Steve Pope},
+  title     = {The implementation of a high-performance ORB over multiple network transports},
+  journal   = dse,
+  volume    = {6},
+  number    = {1},
+  year      = 1999,
+  pages     = {13-22},
+}
+
+@article{DBLP:journals/dse/ChawatheB99,
+  author    = {Yatin Chawathe and
+               Eric A. Brewer},
+  title     = {System support for scalable and fault tolerant Internet services},
+  journal   = dse,
+  volume    = {6},
+  number    = {1},
+  year      = 1999,
+  pages     = {23-33},
+}
+
+@article{DBLP:journals/dse/SteenTKS99,
+  author    = {Maarten van Steen and
+               Andrew S. Tanenbaum and
+               Ihor Kuz and
+               Henk J. Sips},
+  title     = {A scalable middleware solution for advanced wide-area Web services},
+  journal   = dse,
+  volume    = {6},
+  number    = {1},
+  year      = 1999,
+  pages     = {34-42},
+}
+
+@article{DBLP:journals/dse/CaoZB99,
+  author    = {Pei Cao and
+               Jin Zhang and
+               Kevin Beach},
+  title     = {Active Cache: caching dynamic contents on the Web},
+  journal   = dse,
+  volume    = {6},
+  number    = {1},
+  year      = 1999,
+  pages     = {43-50},
+}
+
+@article{DBLP:journals/dse/HaytonBDHH99,
+  author    = {Richard Hayton and
+               Michael Bursell and
+               Douglas I. Donaldson and
+               W. Harwood and
+               Andrew Herbert},
+  title     = {Mobile Java objects},
+  journal   = dse,
+  volume    = {6},
+  number    = {1},
+  year      = 1999,
+  pages     = {51},
+}
+
+@article{DBLP:journals/dse/AhamadRT99,
+  author    = {Mustaque Ahamad and
+               Michel Raynal and
+               G{\'e}rard Thia-Kime},
+  title     = {An adaptive architecture for causally consistent distributed services},
+  journal   = dse,
+  volume    = {6},
+  number    = {2},
+  year      = 1999,
+  pages     = {63-70},
+}
+
+@article{DBLP:journals/dse/BaldoniBFR99,
+  author    = {Roberto Baldoni and
+               Roberto Beraldi and
+               Roy Friedman and
+               Robbert van Renesse},
+  title     = {The hierarchical daisy architecture for causal delivery},
+  journal   = dse,
+  volume    = {6},
+  number    = {2},
+  year      = 1999,
+  pages     = {71-81},
+}
+
+@article{DBLP:journals/dse/DunlopIR99,
+  author    = {Nicole Dunlop and
+               Jadwiga Indulska and
+               Kerry Raymond},
+  title     = {CORBA and RM-ODP: parallel or divergent?},
+  journal   = dse,
+  volume    = {6},
+  number    = {2},
+  year      = 1999,
+  pages     = {82},
+}
+
+@article{DBLP:journals/dse/Fetzer99,
+  author    = {Christof Fetzer},
+  title     = {Guest Editor's Introduction: Special section on dependable distributed systems},
+  journal   = dse,
+  volume    = {6},
+  number    = {3},
+  year      = 1999,
+  pages     = {93-94},
+}
+
+@article{DBLP:journals/dse/RaynalT99,
+  author    = {Michel Raynal and
+               Frederic Tronel},
+  title     = {Group membership failure detection: a simple protocol and its probabilistic analysis},
+  journal   = dse,
+  volume    = {6},
+  number    = {3},
+  year      = 1999,
+  pages     = {95-102},
+}
+
+@article{DBLP:journals/dse/HiltunenIS99,
+  author    = {Matti A. Hiltunen and
+               Vijaykumar Immanuel and
+               Richard D. Schlichting},
+  title     = {Supporting customized failure models for distributed software},
+  journal   = dse,
+  volume    = {6},
+  number    = {3},
+  year      = 1999,
+  pages     = {103-111},
+}
+
+@article{DBLP:journals/dse/IversonO99,
+  author    = {Michael A. Iverson and
+               F{\"u}sun {\"O}zg{\"u}ner},
+  title     = {Hierarchical, competitive scheduling of multiple DAGs in a dynamic heterogeneous environment},
+  journal   = dse,
+  volume    = {6},
+  number    = {3},
+  year      = 1999,
+  pages     = {112},
+}
+
+@article{DBLP:journals/dse/SilcockG99,
+  author    = {Jackie Silcock and
+               Andrzej M. Goscinski},
+  title     = {A comprehensive distributed shared memory system that is easy to use and program},
+  journal   = dse,
+  volume    = {6},
+  number    = {4},
+  year      = 1999,
+  pages     = {121-128},
+}
+
+@article{DBLP:journals/dse/BurnessTLBB99,
+  author    = {Anne-Louise Burness and
+               Richard Titmuss and
+               Caroline Lebre and
+               Katie Brown and
+               Alan Brookland},
+  title     = {Scalability evaluation of a distributed agent system},
+  journal   = dse,
+  volume    = {6},
+  number    = {4},
+  year      = 1999,
+  pages     = {129-134},
+}
+
+@article{DBLP:journals/dse/ZismanK99,
+  author    = {Andrea Zisman and
+               Jeff Kramer},
+  title     = {An approach to interoperation between autonomous database systems},
+  journal   = dse,
+  volume    = {6},
+  number    = {4},
+  year      = 1999,
+  pages     = {135},
+}
+
+@article{DBLP:journals/dse/KshemkalyaniSC98,
+  author    = {Ajay D. Kshemkalyani and
+               George Samaras and
+               Andrew Citron},
+  title     = {Context management and its applications to distributed transactions},
+  journal   = dse,
+  volume    = {5},
+  number    = {1},
+  year      = 1998,
+  pages     = {1-11},
+}
+
+@article{DBLP:journals/dse/MowbrayKK98,
+  author    = {Miranda Mowbray and
+               Gunnar Karlsson and
+               Torsten K{\"o}hler},
+  title     = {Capacity reservation for multimedia traffic},
+  journal   = dse,
+  volume    = {5},
+  number    = {1},
+  year      = 1998,
+  pages     = {12-18},
+}
+
+@article{DBLP:journals/dse/OliverBTC98,
+  author    = {Huw Oliver and
+               S{\o}ren Brandt and
+               Andrew Thomas and
+               Nathalie Charton},
+  title     = {Network control as a distributed object application},
+  journal   = dse,
+  volume    = {5},
+  number    = {1},
+  year      = 1998,
+  pages     = {19-28},
+}
+
+@article{DBLP:journals/dse/KaramanolisM98,
+  author    = {Christos T. Karamanolis and
+               Jeff Magee},
+  title     = {Construction and management of highly available services in open distributed systems},
+  journal   = dse,
+  volume    = {5},
+  number    = {1},
+  year      = 1998,
+  pages     = {29},
+}
+
+@article{DBLP:journals/dse/SongCK98,
+  author    = {Minho Song and
+               Yanghee Choi and
+               Chongsang Kim},
+  title     = {Connection-information-based connection rerouting for connection-oriented mobile communication networks},
+  journal   = dse,
+  volume    = {5},
+  number    = {2},
+  year      = 1998,
+  pages     = {47-65},
+}
+
+@article{DBLP:journals/dse/BlackLS98,
+  author    = {Dave Black and
+               C. Low and
+               Santosh K. Shrivastava},
+  title     = {The Voltan application programming environment for fail-silent processes},
+  journal   = dse,
+  volume    = {5},
+  number    = {2},
+  year      = 1998,
+  pages     = {66-77},
+}
+
+@article{DBLP:journals/dse/BudhiaMM98,
+  author    = {Ravi K. Budhia and
+               Louise E. Moser and
+               P. M. Melliar-Smith},
+  title     = {Performance engineering of the Totem group communication system},
+  journal   = dse,
+  volume    = {5},
+  number    = {2},
+  year      = 1998,
+  pages     = {78-87},
+}
+
+@article{DBLP:journals/dse/X98,
+  author    = {},
+  title     = {OMG Technical Committee Meeting in Orlando, FL, sees significant enhancement to CORBA},
+  journal   = dse,
+  volume    = {5},
+  number    = {2},
+  year      = 1998,
+  pages     = {88},
+}
+
+@article{DBLP:journals/dse/Lea98,
+  author    = {Rodger Lea},
+  title     = {Guest Editor's introduction: Special issue on distributed virtual environments},
+  journal   = dse,
+  volume    = {5},
+  number    = {3},
+  year      = 1998,
+  pages     = {89-90},
+}
+
+@article{DBLP:journals/dse/FreconS98,
+  author    = {Emmanuel Fr{\'e}con and
+               M{\aa}rten Stenius},
+  title     = {DIVE: a scaleable network architecture for distributed virtual environments},
+  journal   = dse,
+  volume    = {5},
+  number    = {3},
+  year      = 1998,
+  pages     = {91-100},
+}
+
+@article{DBLP:journals/dse/HaradaKIMO98,
+  author    = {Hiroaki Harada and
+               Naohisa Kawaguchi and
+               Akinori Iwakawa and
+               Kazuki Matsui and
+               Takashi Ohno},
+  title     = {Space-sharing architecture for a three-dimensional virtual community},
+  journal   = dse,
+  volume    = {5},
+  number    = {3},
+  year      = 1998,
+  pages     = {101-106},
+}
+
+@article{DBLP:journals/dse/PowersHM98,
+  author    = {Simon Powers and
+               Mike Hinds and
+               Jason Morphett},
+  title     = {DEE: an architecture for distributed virtual environment gaming},
+  journal   = dse,
+  volume    = {5},
+  number    = {3},
+  year      = 1998,
+  pages     = {107-117},
+}
+
+@article{DBLP:journals/dse/Broll98,
+  author    = {Wolfgang Broll},
+  title     = {SmallTool - a toolkit for realizing shared virtual environments on the Internet},
+  journal   = dse,
+  volume    = {5},
+  number    = {3},
+  year      = 1998,
+  pages     = {118-128},
+}
+
+@article{DBLP:journals/dse/Greenhalgh98,
+  author    = {Chris Greenhalgh},
+  title     = {Awareness-based communication management in the MASSIVE systems},
+  journal   = dse,
+  volume    = {5},
+  number    = {3},
+  year      = 1998,
+  pages     = {129},
+}
+
+@article{DBLP:journals/dse/Sventek98,
+  author    = {Joe Sventek},
+  title     = {Guest Editor's introduction: Selected papers from the 4th USENIX Conference on Object-Oriented Technologies and Systems},
+  journal   = dse,
+  volume    = {5},
+  number    = {4},
+  year      = 1998,
+  pages     = {139-140},
+}
+
+@article{DBLP:journals/dse/JainWS98,
+  author    = {Prashant Jain and
+               Seth Widoff and
+               Douglas C. Schmidt},
+  title     = {The design and performance of MedJava. Experience of developing performance-sensitive distributed applications with Java},
+  journal   = dse,
+  volume    = {5},
+  number    = {4},
+  year      = 1998,
+  pages     = {141-155},
+}
+
+@article{DBLP:journals/dse/LittleS98,
+  author    = {Mark C. Little and
+               Santosh K. Shrivastava},
+  title     = {Java transactions for the Internet},
+  journal   = dse,
+  volume    = {5},
+  number    = {4},
+  year      = 1998,
+  pages     = {156-167},
+}
+
+@article{DBLP:journals/dse/NagaratnamL98,
+  author    = {Nataraj Nagaratnam and
+               Doug Lea},
+  title     = {Practical delegation for secure distributed object environments},
+  journal   = dse,
+  volume    = {5},
+  number    = {4},
+  year      = 1998,
+  pages     = {168-178},
+}
+
+@article{DBLP:journals/dse/FrolundK98,
+  author    = {Svend Fr{\o}lund and
+               Jari Koistinen},
+  title     = {Quality-of-service specification in distributed object systems},
+  journal   = dse,
+  volume    = {5},
+  number    = {4},
+  year      = 1998,
+  pages     = {179-202},
+}
+
+@article{DBLP:journals/dse/SzymaszekUZ98,
+  author    = {Jakub Szymaszek and
+               Andrzej Uszok and
+               Krzysztof Zielinski},
+  title     = {Building a scalable and efficient component-oriented system using CORBA - an Active Badge system case study},
+  journal   = dse,
+  volume    = {5},
+  number    = {4},
+  year      = 1998,
+  pages     = {203-213},
+}
+
+@article{DBLP:journals/dse/MilojicicLC98,
+  author    = {Dejan S. Milojicic and
+               William LaForge and
+               Deepika Chauhan},
+  title     = {Mobile Objects and Agents (MOA)},
+  journal   = dse,
+  volume    = {5},
+  number    = {4},
+  year      = 1998,
+  pages     = {214},
+}
+
+@article{DBLP:journals/dse/CoulsonM97,
+  author    = {Geoff Coulson and
+               Jan de Meer},
+  title     = {Guest Editors' introduction - Special Issue on Quality of Service},
+  journal   = dse,
+  volume    = {4},
+  number    = {1},
+  year      = 1997,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/dse/KnightlyR97,
+  author    = {Edward W. Knightly and
+               Paola Rossaro},
+  title     = {On the effects of smoothing for deterministic QoS},
+  journal   = dse,
+  volume    = {4},
+  number    = {1},
+  year      = 1997,
+  pages     = {3-15},
+}
+
+@article{DBLP:journals/dse/BochmannH97,
+  author    = {Gregor von Bochmann and
+               Abdelhakim Hafid},
+  title     = {Some principles for quality of service management},
+  journal   = dse,
+  volume    = {4},
+  number    = {1},
+  year      = 1997,
+  pages     = {16-27},
+}
+
+@article{DBLP:journals/dse/FrankenH97,
+  author    = {Leonard J. N. Franken and
+               Boudewijn R. Haverkort},
+  title     = {Quality of service management using generic modelling and monitoring techniques},
+  journal   = dse,
+  volume    = {4},
+  number    = {1},
+  year      = 1997,
+  pages     = {28-37},
+}
+
+@article{DBLP:journals/dse/FrySVW97,
+  author    = {Michael Fry and
+               Aruna Seneviratne and
+               Andreas Vogel and
+               Varuni Witana},
+  title     = {QoS management in a World Wide Web environment which supports continuous media},
+  journal   = dse,
+  volume    = {4},
+  number    = {1},
+  year      = 1997,
+  pages     = {38-47},
+}
+
+@article{DBLP:journals/dse/CampbellC97,
+  author    = {Andrew T. Campbell and
+               Geoff Coulson},
+  title     = {A QoS adaptive multimedia transport system: design, implementation and experiences},
+  journal   = dse,
+  volume    = {4},
+  number    = {1},
+  year      = 1997,
+  pages     = {48},
+}
+
+@article{DBLP:journals/dse/LiuAA97,
+  author    = {M. L. Liu and
+               Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {The performance of replica control protocols in the presence of site failures},
+  journal   = dse,
+  volume    = {4},
+  number    = {2},
+  year      = 1997,
+  pages     = {59-77},
+}
+
+@article{DBLP:journals/dse/CarpenterC97,
+  author    = {Brian E. Carpenter and
+               Jon Crowcroft},
+  title     = {Prospects for Internet technology},
+  journal   = dse,
+  volume    = {4},
+  number    = {2},
+  year      = 1997,
+  pages     = {78-86},
+}
+
+@article{DBLP:journals/dse/KimK97,
+  author    = {Jongsung Kim and
+               Cheeha Kim},
+  title     = {A total ordering protocol using a dynamic token-passing scheme},
+  journal   = dse,
+  volume    = {4},
+  number    = {2},
+  year      = 1997,
+  pages     = {87-95},
+}
+
+@article{DBLP:journals/dse/Mansouri-SamaniS97,
+  author    = {Masoud Mansouri-Samani and
+               Morris Sloman},
+  title     = {GEM: a generalized event monitoring language for distributed systems},
+  journal   = dse,
+  volume    = {4},
+  number    = {2},
+  year      = 1997,
+  pages     = {96-108},
+}
+
+@article{DBLP:journals/dse/CristianMA97,
+  author    = {Flaviu Cristian and
+               Shivakant Mishra and
+               Guillermo A. Alvarez},
+  title     = {High-performance asynchronous atomic broadcast},
+  journal   = dse,
+  volume    = {4},
+  number    = {2},
+  year      = 1997,
+  pages     = {109},
+}
+
+@article{DBLP:journals/dse/GuerraouiV97,
+  author    = {Rachid Guerraoui and
+               Steve Vinoski},
+  title     = {Guest Editors' introduction},
+  journal   = dse,
+  volume    = {4},
+  number    = {3},
+  year      = 1997,
+  pages     = {129-129},
+}
+
+@article{DBLP:journals/dse/RahkilaS97,
+  author    = {Sakari Rahkila and
+               Susanne Stenberg},
+  title     = {Experiences on integration of network management and a distributed computing platform},
+  journal   = dse,
+  volume    = {4},
+  number    = {3},
+  year      = 1997,
+  pages     = {130-138},
+}
+
+@article{DBLP:journals/dse/NarasimhanMM97,
+  author    = {Priya Narasimhan and
+               Louise E. Moser and
+               P. M. Melliar-Smith},
+  title     = {Replica consistency of CORBA objects in partitionable distributed systems},
+  journal   = dse,
+  volume    = {4},
+  number    = {3},
+  year      = 1997,
+  pages     = {139-150},
+}
+
+@article{DBLP:journals/dse/LiangST97,
+  author    = {Jian Liang and
+               Simone S{\'e}dillot and
+               Bruno Traverson},
+  title     = {Object Management Group object transaction service based on an X/Open and International Organization for Standardization open systems interconnection transaction processing kernel},
+  journal   = dse,
+  volume    = {4},
+  number    = {3},
+  year      = 1997,
+  pages     = {151-159},
+}
+
+@article{DBLP:journals/dse/SchererMW97,
+  author    = {Daniel Scherer and
+               Tobias Murer and
+               Andy W{\"u}rtz},
+  title     = {Designing the distributed architecture DIPS for cooperative software engineering},
+  journal   = dse,
+  volume    = {4},
+  number    = {3},
+  year      = 1997,
+  pages     = {160-168},
+}
+
+@article{DBLP:journals/dse/Fatoohi97,
+  author    = {Rod Fatoohi},
+  title     = {Performance evaluation of communication software systems for distributed computing},
+  journal   = dse,
+  volume    = {4},
+  number    = {3},
+  year      = 1997,
+  pages     = {169},
+}
+
+@article{DBLP:journals/dse/BrookesCIKV97,
+  author    = {Wayne Brookes and
+               Stephen Crawley and
+               Jadwiga Indulska and
+               Douglas Kosovic and
+               Andreas Vogel},
+  title     = {Types and their management in open distributed systems},
+  journal   = dse,
+  volume    = {4},
+  number    = {4},
+  year      = 1997,
+  pages     = {177-190},
+}
+
+@article{DBLP:journals/dse/HuangR97,
+  author    = {Yen-Min Huang and
+               Chinya V. Ravishankar},
+  title     = {Secure synthesis and activation of protocol translation agents},
+  journal   = dse,
+  volume    = {4},
+  number    = {4},
+  year      = 1997,
+  pages     = {191-202},
+}
+
+@article{DBLP:journals/dse/MartinP97,
+  author    = {Patrick Martin and
+               Wendy Powley},
+  title     = {Catalogue management for a multidatabase system using an X.500 directory system},
+  journal   = dse,
+  volume    = {4},
+  number    = {4},
+  year      = 1997,
+  pages     = {203-213},
+}
+
+@article{DBLP:journals/dse/LogeNC97,
+  author    = {Christophe Log{\'e} and
+               Elie Najm and
+               Ken Chen},
+  title     = {An ODP computational model of a cooperative binding object},
+  journal   = dse,
+  volume    = {4},
+  number    = {4},
+  year      = 1997,
+  pages     = {214-228},
+}
+
+@article{DBLP:journals/dse/ChenMM97,
+  author    = {Xiaomin Chen and
+               Louise E. Moser and
+               P. M. Melliar-Smith},
+  title     = {Totally ordered gigabit multicasting},
+  journal   = dse,
+  volume    = {4},
+  number    = {4},
+  year      = 1997,
+  pages     = {229-243},
+}
+
+@article{DBLP:journals/dse/BaldoniS97,
+  author    = {Roberto Baldoni and
+               Silvio Salza},
+  title     = {Deadlock detection in multidatabase systems: a performance analysis},
+  journal   = dse,
+  volume    = {4},
+  number    = {4},
+  year      = 1997,
+  pages     = {244},
+}
+
+@article{DBLP:journals/dse/WoodsideS96,
+  author    = {C. Murray Woodside and
+               Cheryl Schramm},
+  title     = {Scalability and performance experiments using synthetic distributed server systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {1},
+  year      = 1996,
+  pages     = {2-8},
+}
+
+@article{DBLP:journals/dse/PetersonC96,
+  author    = {Gregory D. Peterson and
+               Roger D. Chamberlain},
+  title     = {Parallel application performance in a shared resource environment},
+  journal   = dse,
+  volume    = {3},
+  number    = {1},
+  year      = 1996,
+  pages     = {9-19},
+}
+
+@article{DBLP:journals/dse/TeoT96,
+  author    = {Yong Meng Teo and
+               Seng Chuan Tay},
+  title     = {Performance analysis of parallel simulation on distributed systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {1},
+  year      = 1996,
+  pages     = {20-31},
+}
+
+@article{DBLP:journals/dse/FoxonGH96,
+  author    = {Tim Foxon and
+               Mike Garth and
+               Peter Harrison},
+  title     = {Capacity planning in client - server systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {1},
+  year      = 1996,
+  pages     = {32-38},
+}
+
+@article{DBLP:journals/dse/MalhisSS96,
+  author    = {Luai M. Malhis and
+               William H. Sanders and
+               Richard D. Schlichting},
+  title     = {Numerical performability evaluation of a group multicast protocol},
+  journal   = dse,
+  volume    = {3},
+  number    = {1},
+  year      = 1996,
+  pages     = {39-52},
+}
+
+@article{DBLP:journals/dse/HeijenkH96,
+  author    = {Geert J. Heijenk and
+               Boudewijn R. Haverkort},
+  title     = {Design and evaluation of a connection management mechanism for an ATM-based connectionless service},
+  journal   = dse,
+  volume    = {3},
+  number    = {1},
+  year      = 1996,
+  pages     = {53-67},
+}
+
+@article{DBLP:journals/dse/Born96,
+  author    = {Eike Born},
+  title     = {Analytical performance modelling of lock management in distributed systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {1},
+  year      = 1996,
+  pages     = {68},
+}
+
+@article{DBLP:journals/dse/MeyerAL96,
+  author    = {Bernd Meyer and
+               Frank Anst{\"o}tz and
+               Claudia Linnhoff-Popien},
+  title     = {Towards implementing policy-based systems management},
+  journal   = dse,
+  volume    = {3},
+  number    = {2},
+  year      = 1996,
+  pages     = {78-85},
+}
+
+@article{DBLP:journals/dse/KrauseZ96,
+  author    = {Gerald Krause and
+               Martin Zimmermann},
+  title     = {Implementing configuration management policies for distributed applications},
+  journal   = dse,
+  volume    = {3},
+  number    = {2},
+  year      = 1996,
+  pages     = {86-95},
+}
+
+@article{DBLP:journals/dse/NeumairW96,
+  author    = {Bernhard Neumair and
+               Ren{\'e} Wies},
+  title     = {Case study: applying management policies to manage distributed queuing systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {2},
+  year      = 1996,
+  pages     = {96-103},
+}
+
+@article{DBLP:journals/dse/KochK96,
+  author    = {Thomas Koch and
+               Bernd J. Kr{\"a}mer},
+  title     = {Rules and agents for automated management of distributed systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {2},
+  year      = 1996,
+  pages     = {104-114},
+}
+
+@article{DBLP:journals/dse/Jardin96,
+  author    = {P. Jardin},
+  title     = {Supporting scalability and flexibility in a distributed management platform},
+  journal   = dse,
+  volume    = {3},
+  number    = {2},
+  year      = 1996,
+  pages     = {115-123},
+}
+
+@article{DBLP:journals/dse/PavlouMS96,
+  author    = {George Pavlou and
+               George Mykoniatis and
+               Jorge-A. Sanchez-P.},
+  title     = {Distributed intelligent monitoring and reporting facilities},
+  journal   = dse,
+  volume    = {3},
+  number    = {2},
+  year      = 1996,
+  pages     = {124-135},
+}
+
+@article{DBLP:journals/dse/DebskiJ96,
+  author    = {Andrzej Debski and
+               Ekkehard Janas},
+  title     = {The SysMan monitoring service and its management environment},
+  journal   = dse,
+  volume    = {3},
+  number    = {2},
+  year      = 1996,
+  pages     = {136},
+}
+
+@article{DBLP:journals/dse/DonatelliMR96,
+  author    = {Susanna Donatelli and
+               Nicola Mazzocca and
+               Stefano Russo},
+  title     = {Client - server programs analysis in the EPOCA environment},
+  journal   = dse,
+  volume    = {3},
+  number    = {3},
+  year      = 1996,
+  pages     = {149-161},
+}
+
+@article{DBLP:journals/dse/GomaaMK96,
+  author    = {Hassan Gomaa and
+               Daniel A. Menasc{\'e} and
+               Larry Kerschberg},
+  title     = {A software architectural design method for large-scale distributed information systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {3},
+  year      = 1996,
+  pages     = {162-172},
+}
+
+@article{DBLP:journals/dse/HomerS96,
+  author    = {Patrick T. Homer and
+               Richard D. Schlichting},
+  title     = {Configuring scientific applications in a heterogeneous distributed system},
+  journal   = dse,
+  volume    = {3},
+  number    = {3},
+  year      = 1996,
+  pages     = {173-184},
+}
+
+@article{DBLP:journals/dse/JacobsL96,
+  author    = {Martin Jacobs and
+               Peter Leydekkers},
+  title     = {Specification of synchronization in multimedia conferencing services using the TINA lifecycle model},
+  journal   = dse,
+  volume    = {3},
+  number    = {3},
+  year      = 1996,
+  pages     = {185-196},
+}
+
+@article{DBLP:journals/dse/MautheHCN96,
+  author    = {Andreas Mauthe and
+               David Hutchison and
+               Geoff Coulson and
+               Silvester Namuye},
+  title     = {Multimedia group communications: towards new services},
+  journal   = dse,
+  volume    = {3},
+  number    = {3},
+  year      = 1996,
+  pages     = {197},
+}
+
+@article{DBLP:journals/dse/Chrysanthis96,
+  author    = {Panos K. Chrysanthis},
+  title     = {Guest Editor's introduction},
+  journal   = dse,
+  volume    = {3},
+  number    = {4},
+  year      = 1996,
+  pages     = {211-212},
+}
+
+@article{DBLP:journals/dse/KamathR96,
+  author    = {Mohan Kamath and
+               Krithi Ramamritham},
+  title     = {Correctness issues in workflow management},
+  journal   = dse,
+  volume    = {3},
+  number    = {4},
+  year      = 1996,
+  pages     = {213-221},
+}
+
+@article{DBLP:journals/dse/AttieSESR96,
+  author    = {Paul C. Attie and
+               Munindar P. Singh and
+               E. Allen Emerson and
+               Amit P. Sheth and
+               Marek Rusinkiewicz},
+  title     = {Scheduling workflows by enforcing intertask dependencies},
+  journal   = dse,
+  volume    = {3},
+  number    = {4},
+  year      = 1996,
+  pages     = {222-238},
+}
+
+@article{DBLP:journals/dse/Ben-ShaulH96,
+  author    = {Israel Ben-Shaul and
+               George T. Heineman},
+  title     = {A three-level atomicity model for decentralized workflow management systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {4},
+  year      = 1996,
+  pages     = {239-249},
+}
+
+@article{DBLP:journals/dse/SchillM96,
+  author    = {Alexander Schill and
+               Christian Mittasch},
+  title     = {Workflow management systems on top of OSF DCE and OMG CORBA},
+  journal   = dse,
+  volume    = {3},
+  number    = {4},
+  year      = 1996,
+  pages     = {250-262},
+}
+
+@article{DBLP:journals/dse/RussellWY96,
+  author    = {Lucian Russell and
+               Ouri Wolfson and
+               Clement T. Yu},
+  title     = {Information flow in the DAMA project beyond database managers: information flow managers},
+  journal   = dse,
+  volume    = {3},
+  number    = {4},
+  year      = 1996,
+  pages     = {263-275},
+}
+
+@article{DBLP:journals/dse/Nutt96,
+  author    = {Gary J. Nutt},
+  title     = {The evolution towards flexible workflow systems},
+  journal   = dse,
+  volume    = {3},
+  number    = {4},
+  year      = 1996,
+  pages     = {276},
+}
+
+@article{DBLP:journals/dse/BartoliDLPPD95,
+  author    = {Alberto Bartoli and
+               Gianluca Dini and
+               M. Luise and
+               G. Pazzaglia and
+               Cosimo Antonio Prete and
+               A. D'Andrea},
+  title     = {Reusing sequential software in a distributed environment},
+  journal   = dse,
+  volume    = {2},
+  number    = {1},
+  year      = 1995,
+  pages     = {2-13},
+}
+
+@article{DBLP:journals/dse/GarbinatoGM95,
+  author    = {Beno{\^\i}t Garbinato and
+               Rachid Guerraoui and
+               Karim Mazouni},
+  title     = {Implementation of the GARF replicated objects platform},
+  journal   = dse,
+  volume    = {2},
+  number    = {1},
+  year      = 1995,
+  pages     = {14-27},
+}
+
+@article{DBLP:journals/dse/Ii95,
+  author    = {Guangxing Ii},
+  title     = {An overview of real-time ANSAware 1.0},
+  journal   = dse,
+  volume    = {2},
+  number    = {1},
+  year      = 1995,
+  pages     = {28-38},
+}
+
+@article{DBLP:journals/dse/TaoES95,
+  author    = {Sha Tao and
+               Paul D. Ezhilchelvan and
+               Santosh K. Shrivastava},
+  title     = {Focused fault injection testing of software implemented fault tolerance mechanisms of Voltan TMR nodes},
+  journal   = dse,
+  volume    = {2},
+  number    = {1},
+  year      = 1995,
+  pages     = {39-49},
+}
+
+@article{DBLP:journals/dse/WuSMB95,
+  author    = {Zhixue Wu and
+               Robert J. Stroud and
+               Ken Moody and
+               Jean Bacon},
+  title     = {The design and implementation of a distributed transaction system based on atomic data types},
+  journal   = dse,
+  volume    = {2},
+  number    = {1},
+  year      = 1995,
+  pages     = {50},
+}
+
+@article{DBLP:journals/dse/BaradelEJKS95,
+  author    = {Christophe Baradel and
+               Yves Eychenne and
+               Laurent Junot and
+               Bruno Kohen and
+               Michel Simatic},
+  title     = {Fault-tolerance and on-line maintainability in a process control supervision system},
+  journal   = dse,
+  volume    = {2},
+  number    = {2},
+  year      = 1995,
+  pages     = {65-73},
+}
+
+@article{DBLP:journals/dse/Berry95,
+  author    = {Andrew Berry},
+  title     = {An application-level implementation of causal timestamps and causal ordering},
+  journal   = dse,
+  volume    = {2},
+  number    = {2},
+  year      = 1995,
+  pages     = {74-86},
+}
+
+@article{DBLP:journals/dse/NiG95,
+  author    = {Y. Ni and
+               Andrzej M. Goscinski},
+  title     = {Evaluation of attributed names},
+  journal   = dse,
+  volume    = {2},
+  number    = {2},
+  year      = 1995,
+  pages     = {87-101},
+}
+
+@article{DBLP:journals/dse/NikolaidouLMG95,
+  author    = {Mara Nikolaidou and
+               D. Lelis and
+               D. Mouzakis and
+               Panagiotis Georgiadis},
+  title     = {Disciplined approach towards the design of distributed systems},
+  journal   = dse,
+  volume    = {2},
+  number    = {2},
+  year      = 1995,
+  pages     = {102-111},
+}
+
+@article{DBLP:journals/dse/Riveill95,
+  author    = {Michel Riveill},
+  title     = {Synchronizing shared objects},
+  journal   = dse,
+  volume    = {2},
+  number    = {2},
+  year      = 1995,
+  pages     = {112},
+}
+
+@article{DBLP:journals/dse/SchillK95,
+  author    = {Alexander Schill and
+               Sascha K{\"u}mmel},
+  title     = {Design and implementation of a support platform for distributed mobile computing},
+  journal   = dse,
+  volume    = {2},
+  number    = {3},
+  year      = 1995,
+  pages     = {128-141},
+}
+
+@article{DBLP:journals/dse/DaviesBCF95,
+  author    = {Nigel Davies and
+               Gordon S. Blair and
+               Keith Cheverst and
+               Adrian Friday},
+  title     = {Experiences of using RM-ODP to build advanced mobile applications},
+  journal   = dse,
+  volume    = {2},
+  number    = {3},
+  year      = 1995,
+  pages     = {142-151},
+}
+
+@article{DBLP:journals/dse/HuizingaH95,
+  author    = {Dorota M. Huizinga and
+               Ken A. Heflinger},
+  title     = {DOC-a file system cache to support mobile computers},
+  journal   = dse,
+  volume    = {2},
+  number    = {3},
+  year      = 1995,
+  pages     = {152-160},
+}
+
+@article{DBLP:journals/dse/Dix95,
+  author    = {Alan J. Dix},
+  title     = {Cooperation without (reliable) communication: Interfaces for mobile applications},
+  journal   = dse,
+  volume    = {2},
+  number    = {3},
+  year      = 1995,
+  pages     = {171},
+}
+
+@article{DBLP:journals/dse/EdwardsC95,
+  author    = {John M. Edwards and
+               Ian Coutts},
+  title     = {The flexible integration of machine objects within distributed manufacturing systems},
+  journal   = dse,
+  volume    = {2},
+  number    = {4},
+  year      = 1995,
+  pages     = {183-191},
+}
+
+@article{DBLP:journals/dse/HirotsuFT95,
+  author    = {Toshio Hirotsu and
+               Hiroko Fujii and
+               Mario Tokoro},
+  title     = {A multiversion mechanism for intra-object concurrency},
+  journal   = dse,
+  volume    = {2},
+  number    = {4},
+  year      = 1995,
+  pages     = {192-201},
+}
+
+@article{DBLP:journals/dse/HuangBM95,
+  author    = {Feng Huang and
+               Jean Bacon and
+               Glenford E. Mapp},
+  title     = {Virtual memory support for distributed computing environments using a shared data object model},
+  journal   = dse,
+  volume    = {2},
+  number    = {4},
+  year      = 1995,
+  pages     = {202-211},
+}
+
+@article{DBLP:journals/dse/Kara95,
+  author    = {Mourad Kara},
+  title     = {A global plan policy for coherent co-operation in distributed dynamic load balancing algorithms},
+  journal   = dse,
+  volume    = {2},
+  number    = {4},
+  year      = 1995,
+  pages     = {212-223},
+}
+
+@article{DBLP:journals/dse/KshemkalyaniRS95,
+  author    = {Ajay D. Kshemkalyani and
+               Michel Raynal and
+               Mukesh Singhal},
+  title     = {An introduction to snapshot algorithms in distributed computing},
+  journal   = dse,
+  volume    = {2},
+  number    = {4},
+  year      = 1995,
+  pages     = {224},
+}
+
+@article{DBLP:journals/dse/AhmadH94,
+  author    = {Riaz Ahmad and
+               Fred Halsall},
+  title     = {A comparison of DQDB and FDDI for the interconnection of LANs},
+  journal   = dse,
+  volume    = {1},
+  number    = {3},
+  year      = 1994,
+  pages     = {127-134},
+}
+
+@article{DBLP:journals/dse/CoulsonB94,
+  author    = {Geoff Coulson and
+               Gordon S. Blair},
+  title     = {Meeting the real-time synchronization requirements of multimedia in open distributed processing},
+  journal   = dse,
+  volume    = {1},
+  number    = {3},
+  year      = 1994,
+  pages     = {135-144},
+}
+
+@article{DBLP:journals/dse/GargaroGHVWW94,
+  author    = {A. B. Gargaro and
+               S. J. Goldsack and
+               A. A. Holzbacher-Valero and
+               Richard A. Volz and
+               R. Waldrop and
+               Andy J. Wellings},
+  title     = {Supporting distribution and dynamic reconfiguration in AdaPT},
+  journal   = dse,
+  volume    = {1},
+  number    = {3},
+  year      = 1994,
+  pages     = {145-161},
+}
+
+@article{DBLP:journals/dse/WangC94,
+  author    = {Zheng Wang and
+               Jon Crowcroft},
+  title     = {A dual-window model for flow and congestion control},
+  journal   = dse,
+  volume    = {1},
+  number    = {3},
+  year      = 1994,
+  pages     = {162-172},
+}
+
+@article{DBLP:journals/dse/Cook94,
+  author    = {Nick Cook},
+  title     = {CaberNet (computing architectures for basic European research): the ESPRIT basic research-funded network of excellence in distributed computing systems architecture},
+  journal   = dse,
+  volume    = {1},
+  number    = {3},
+  year      = 1994,
+  pages     = {173},
+}
+
+@article{DBLP:journals/dse/CristianBM94,
+  author    = {Flaviu Cristian and
+               Richard de Beijer and
+               Shivakant Mishra},
+  title     = {A performance comparison of asynchronous atomic broadcast protocols},
+  journal   = dse,
+  volume    = {1},
+  number    = {4},
+  year      = 1994,
+  pages     = {177-201},
+}
+
+@article{DBLP:journals/dse/OConnellEC94,
+  author    = {John O'Connell and
+               Nigel Edwards and
+               Robert Cole},
+  title     = {A review of four distribution infrastructures},
+  journal   = dse,
+  volume    = {1},
+  number    = {4},
+  year      = 1994,
+  pages     = {202-211},
+}
+
+@article{DBLP:journals/dse/OConnorTCH94,
+  author    = {Martin O'Connor and
+               Brendan Tangney and
+               Vinny Cahill and
+               Neville Harris},
+  title     = {Micro-kernel support for migration},
+  journal   = dse,
+  volume    = {1},
+  number    = {4},
+  year      = 1994,
+  pages     = {212-223},
+}
+
+@article{DBLP:journals/dse/VolzTWGH94,
+  author    = {Richard A. Volz and
+               Ron Theriault and
+               R. Waldrop and
+               S. J. Goldsack and
+               A. A. Holzbacher-Valero},
+  title     = {Distributed and parallel Ada and the Ada 9X recommendations},
+  journal   = dse,
+  volume    = {1},
+  number    = {4},
+  year      = 1994,
+  pages     = {224-241},
+}
+
+@article{DBLP:journals/dse/WakemanC94,
+  author    = {Ian Wakeman and
+               Jon Crowcroft},
+  title     = {A combined admission and congestion control scheme for variable bit rate video},
+  journal   = dse,
+  volume    = {1},
+  number    = {4},
+  year      = 1994,
+  pages     = {242},
+}
+
+@article{DBLP:journals/dse/MukherjeeSSG94,
+  author    = {Bodhisattwa Mukherjee and
+               Dilma Da Silva and
+               Karsten Schwan and
+               Ahmed Gheith},
+  title     = {KTK: kernel support for configurable objects and invocations},
+  journal   = dse,
+  volume    = {1},
+  number    = {5},
+  year      = 1994,
+  pages     = {259-270},
+}
+
+@article{DBLP:journals/dse/MenonL94,
+  author    = {Sathis Menon and
+               Richard J. LeBlanc},
+  title     = {Object replacement using dynamic proxy updates},
+  journal   = dse,
+  volume    = {1},
+  number    = {5},
+  year      = 1994,
+  pages     = {271-279},
+}
+
+@article{DBLP:journals/dse/SchmidtS94,
+  author    = {Douglas C. Schmidt and
+               Tatsuya Suda},
+  title     = {An object-oriented framework for dynamically configuring extensible distributed systems},
+  journal   = dse,
+  volume    = {1},
+  number    = {5},
+  year      = 1994,
+  pages     = {280},
+}
+
+@article{DBLP:journals/dse/CoattaN94,
+  author    = {Terry Coatta and
+               Gerald W. Neufeld},
+  title     = {Distributed configuration management using composite objects and constraints},
+  journal   = dse,
+  volume    = {1},
+  number    = {5},
+  year      = 1994,
+  pages     = {294-303},
+}
+
+@article{DBLP:journals/dse/MageeDK94,
+  author    = {Jeff Magee and
+               Naranker Dulay and
+               Jeff Kramer},
+  title     = {Regis: a constructive development environment for distributed programs},
+  journal   = dse,
+  volume    = {1},
+  number    = {5},
+  year      = 1994,
+  pages     = {304-312},
+}
+
+@article{DBLP:journals/dse/AgnewHP94,
+  author    = {Brent Agnew and
+               Christine Hofmeister and
+               James M. Purtilo},
+  title     = {Planning for change: a reconfiguration language for distributed systems},
+  journal   = dse,
+  volume    = {1},
+  number    = {5},
+  year      = 1994,
+  pages     = {313},
+}
+
+@article{DBLP:journals/dse/EzhilchelvanS94,
+  author    = {Paul D. Ezhilchelvan and
+               Santosh K. Shrivastava},
+  title     = {el/REL: a family of reliable multicast protocols for distributed systems},
+  journal   = dse,
+  volume    = {1},
+  number    = {6},
+  year      = 1994,
+  pages     = {323-331},
+}
+
+@article{DBLP:journals/dse/HuynhK94,
+  author    = {Khoa D. Huynh and
+               Taghi M. Khoshgoftaar},
+  title     = {A performance analysis of advanced I/O architectures for PC-based network file servers},
+  journal   = dse,
+  volume    = {1},
+  number    = {6},
+  year      = 1994,
+  pages     = {332},
+}
+
+@article{DBLP:journals/dse/KunzB94,
+  author    = {Thomas Kunz and
+               James P. Black},
+  title     = {Understanding the behaviour of distributed applications through reverse engineering},
+  journal   = dse,
+  volume    = {1},
+  number    = {6},
+  year      = 1994,
+  pages     = {345-353},
+}
+
+@article{DBLP:journals/dse/MahmoodKF94,
+  author    = {Amjad Mahmood and
+               H. U. Khan and
+               H. A. Fatmi},
+  title     = {Adaptive file allocation in distributed computer systems},
+  journal   = dse,
+  volume    = {1},
+  number    = {6},
+  year      = 1994,
+  pages     = {354-361},
+}
+
+@article{DBLP:journals/dse/ParkC94,
+  author    = {Taeha Park and
+               Kilnam Chon},
+  title     = {Collaborative indexing over networked information resources by distributed agents},
+  journal   = dse,
+  volume    = {1},
+  number    = {6},
+  year      = 1994,
+  pages     = {362},
+}
+
+@article{DBLP:journals/dse/Tanenbaum93,
+  author    = {Andrew S. Tanenbaum},
+  title     = {Distributed operating systems anno 1992. What have we learned so far?},
+  journal   = dse,
+  volume    = {1},
+  number    = {1},
+  year      = 1993,
+  pages     = {3-10},
+}
+
+@article{DBLP:journals/dse/LeaAJ93,
+  author    = {Rodger Lea and
+               Paulo Amaral and
+               Christian Jacquemot},
+  title     = {Implementing a modular object-oriented operating system on top of Chorus},
+  journal   = dse,
+  volume    = {1},
+  number    = {1},
+  year      = 1993,
+  pages     = {11-18},
+}
+
+@article{DBLP:journals/dse/Leser93,
+  author    = {Norbert Leser},
+  title     = {The distributed computing environment naming architecture},
+  journal   = dse,
+  volume    = {1},
+  number    = {1},
+  year      = 1993,
+  pages     = {19-28},
+}
+
+@article{DBLP:journals/dse/GladeBCR93,
+  author    = {Bradford B. Glade and
+               Kenneth P. Birman and
+               Robert C. B. Cooper and
+               Robbert van Renesse},
+  title     = {Light-weight process groups in the Isis system},
+  journal   = dse,
+  volume    = {1},
+  number    = {1},
+  year      = 1993,
+  pages     = {29-36},
+}
+
+@article{DBLP:journals/dse/MoffettS93,
+  author    = {Jonathan D. Moffett and
+               Morris Sloman},
+  title     = {User and mechanism views of distributed systems management},
+  journal   = dse,
+  volume    = {1},
+  number    = {1},
+  year      = 1993,
+  pages     = {37-47},
+}
+
+@article{DBLP:journals/dse/KaashoekTV93,
+  author    = {M. Frans Kaashoek and
+               Andrew S. Tanenbaum and
+               Kees Verstoep},
+  title     = {Group communication in Amoeba and its applications},
+  journal   = dse,
+  volume    = {1},
+  number    = {1},
+  year      = 1993,
+  pages     = {48},
+}
+
+@article{DBLP:journals/dse/BarrettS93,
+  author    = {Peter A. Barrett and
+               Neil A. Speirs},
+  title     = {Towards an integrated approach to fault tolerance in Delta-4},
+  journal   = dse,
+  volume    = {1},
+  number    = {2},
+  year      = 1993,
+  pages     = {59-66},
+}
+
+@article{DBLP:journals/dse/BenfordO93,
+  author    = {Steve Benford and
+               Ok-Ki Lee},
+  title     = {Collaborative naming in distributed system},
+  journal   = dse,
+  volume    = {1},
+  number    = {2},
+  year      = 1993,
+  pages     = {67-74},
+}
+
+@article{DBLP:journals/dse/BernardSS93,
+  author    = {Guy Bernard and
+               Dominique St{\`e}ve and
+               Michel Simatic},
+  title     = {A survey of load sharing in networks of workstations},
+  journal   = dse,
+  volume    = {1},
+  number    = {2},
+  year      = 1993,
+  pages     = {75-86},
+}
+
+@article{DBLP:journals/dse/MishraPS93,
+  author    = {Shivakant Mishra and
+               Larry L. Peterson and
+               Richard D. Schlichting},
+  title     = {Consul: a communication substrate for fault-tolerant distributed programs},
+  journal   = dse,
+  volume    = {1},
+  number    = {2},
+  year      = 1993,
+  pages     = {87-103},
+}
+
+@article{DBLP:journals/dse/ReisingerS93,
+  author    = {Johannes Reisinger and
+               Andreas Steininger},
+  title     = {The design of a fail-silent processing node for the predictable hard real-time system MARS},
+  journal   = dse,
+  volume    = {1},
+  number    = {2},
+  year      = 1993,
+  pages     = {104-111},
+}
+
+@article{DBLP:journals/dse/SchillM93,
+  author    = {Alexander Schill and
+               Markus U. Mock},
+  title     = {DC++: distributed object-oriented system support on top of OSF DCE},
+  journal   = dse,
+  volume    = {1},
+  number    = {2},
+  year      = 1993,
+  pages     = {112},
+}

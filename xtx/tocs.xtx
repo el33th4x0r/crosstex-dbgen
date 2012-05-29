@@ -1,0 +1,4621 @@
+@include journals-cs
+
+@article{DBLP:journals/tocs/Mowry12,
+  author    = {Todd C. Mowry},
+  title     = {Introduction to Special Issue APLOS 2011},
+  journal   = tocs,
+  volume    = {30},
+  number    = {1},
+  year      = 2012,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tocs/ChipounovKC12,
+  author    = {Vitaly Chipounov and
+               Volodymyr Kuznetsov and
+               George Candea},
+  title     = {The S2E Platform: Design, Implementation, and Applications},
+  journal   = tocs,
+  volume    = {30},
+  number    = {1},
+  year      = 2012,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tocs/VeeraraghavanLWOCFN12,
+  author    = {Kaushik Veeraraghavan and
+               Dongyoon Lee and
+               Benjamin Wester and
+               Jessica Ouyang and
+               Peter M. Chen and
+               Jason Flinn and
+               Satish Narayanasamy},
+  title     = {DoublePlay: Parallelizing Sequential Logging and Replay},
+  journal   = tocs,
+  volume    = {30},
+  number    = {1},
+  year      = 2012,
+  pages     = {3},
+}
+
+@article{DBLP:journals/tocs/YuanZPZS12,
+  author    = {Ding Yuan and
+               Jing Zheng and
+               Soyeon Park and
+               Yuanyuan Zhou and
+               Stefan Savage},
+  title     = {Improving Software Diagnosability via Log Enhancement},
+  journal   = tocs,
+  volume    = {30},
+  number    = {1},
+  year      = 2012,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tocs/SchupbachBRP12,
+  author    = {Adrian Sch{\"u}pbach and
+               Andrew Baumann and
+               Timothy Roscoe and
+               Simon Peter},
+  title     = {A Declarative Language Approach to Device Configuration},
+  journal   = tocs,
+  volume    = {30},
+  number    = {1},
+  year      = 2012,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tocs/SaezFKP12,
+  author    = {Juan Carlos Saez and
+               Alexandra Fedorova and
+               David Koufaty and
+               Manuel Prieto},
+  title     = {Leveraging Core Specialization via OS Scheduling to Improve Performance on Asymmetric Multicore Systems},
+  journal   = tocs,
+  volume    = {30},
+  number    = {2},
+  year      = 2012,
+  pages     = {6},
+}
+
+@article{DBLP:journals/tocs/EbrahimiLMP12,
+  author    = {Eiman Ebrahimi and
+               Chang Joo Lee and
+               Onur Mutlu and
+               Yale N. Patt},
+  title     = {Fairness via Source Throttling: A Configurable and High-Performance Fairness Substrate for Multicore Memory Systems},
+  journal   = tocs,
+  volume    = {30},
+  number    = {2},
+  year      = 2012,
+  pages     = {7},
+}
+
+@article{DBLP:journals/tocs/GebhartJTKDLS12,
+  author    = {Mark Gebhart and
+               Daniel R. Johnson and
+               David Tarjan and
+               Stephen W. Keckler and
+               William J. Dally and
+               Erik Lindholm and
+               Kevin Skadron},
+  title     = {A Hierarchical Thread Scheduler and Register File for Energy-Efficient Throughput Processors},
+  journal   = tocs,
+  volume    = {30},
+  number    = {2},
+  year      = 2012,
+  pages     = {8},
+}
+
+@article{DBLP:journals/tocs/KimCR11,
+  author    = {Changhoon Kim and
+               Matthew Caesar and
+               Jennifer Rexford},
+  title     = {SEATTLE: A Scalable Ethernet Architecture for Large Enterprises},
+  journal   = tocs,
+  volume    = {29},
+  number    = {1},
+  year      = 2011,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tocs/Lagar-CavillaWBPBLRSS11,
+  author    = {H. Andr{\'e}s Lagar-Cavilla and
+               Joseph Andrew Whitney and
+               Roy Bryant and
+               Philip Patchin and
+               Michael Brudno and
+               Eyal de Lara and
+               Stephen M. Rumble and
+               M. Satyanarayanan and
+               Adin Scannell},
+  title     = {SnowFlock: Virtual Machine Cloning as a First-Class Cloud Primitive},
+  journal   = tocs,
+  volume    = {29},
+  number    = {1},
+  year      = 2011,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tocs/MeisnerGW11,
+  author    = {David Meisner and
+               Brian T. Gold and
+               Thomas F. Wenisch},
+  title     = {The PowerNap Server Architecture},
+  journal   = tocs,
+  volume    = {29},
+  number    = {1},
+  year      = 2011,
+  pages     = {3},
+}
+
+@article{DBLP:journals/tocs/GuptaVMVYSV11,
+  author    = {Diwaker Gupta and
+               Kashi Venkatesh Vishwanath and
+               Marvin McNett and
+               Amin Vahdat and
+               Ken Yocum and
+               Alex C. Snoeren and
+               Geoffrey M. Voelker},
+  title     = {DieCast: Testing Distributed Systems with an Accurate Scale Model},
+  journal   = tocs,
+  volume    = {29},
+  number    = {2},
+  year      = 2011,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tocs/YadgarFLS11,
+  author    = {Gala Yadgar and
+               Michael Factor and
+               Kai Li and
+               Assaf Schuster},
+  title     = {Management of Multilevel, Multiclient Cache Hierarchies with Application Hints},
+  journal   = tocs,
+  volume    = {29},
+  number    = {2},
+  year      = 2011,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tocs/BruijnBB11,
+  author    = {Willem de Bruijn and
+               Herbert Bos and
+               Henri E. Bal},
+  title     = {Application-Tailored I/O with Streamline},
+  journal   = tocs,
+  volume    = {29},
+  number    = {2},
+  year      = 2011,
+  pages     = {6},
+}
+
+@article{DBLP:journals/tocs/AyariKS11,
+  author    = {Brahim Ayari and
+               Abdelmajid Khelil and
+               Neeraj Suri},
+  title     = {On the design of perturbation-resilient atomic commit protocols for mobile transactions},
+  journal   = tocs,
+  volume    = {29},
+  number    = {3},
+  year      = 2011,
+  pages     = {7},
+}
+
+@article{DBLP:journals/tocs/KaliberaPHV11,
+  author    = {Tomas Kalibera and
+               Filip Pizlo and
+               Antony L. Hosking and
+               Jan Vitek},
+  title     = {Scheduling real-time garbage collection on uniprocessors},
+  journal   = tocs,
+  volume    = {29},
+  number    = {3},
+  year      = 2011,
+  pages     = {8},
+}
+
+@article{DBLP:journals/tocs/ReddiLCV11,
+  author    = {Vijay Janapa Reddi and
+               Benjamin C. Lee and
+               Trishul M. Chilimbi and
+               Kushagra Vaid},
+  title     = {Mobile processors for energy-efficient web search},
+  journal   = tocs,
+  volume    = {29},
+  number    = {3},
+  year      = 2011,
+  pages     = {9},
+}
+
+@article{DBLP:journals/tocs/SrivatsaLI11,
+  author    = {Mudhakar Srivatsa and
+               Ling Liu and
+               Arun Iyengar},
+  title     = {EventGuard: A System Architecture for Securing Publish-Subscribe Networks},
+  journal   = tocs,
+  volume    = {29},
+  number    = {4},
+  year      = 2011,
+  pages     = {10},
+}
+
+@article{DBLP:journals/tocs/MarinescuC11,
+  author    = {Paul Dan Marinescu and
+               George Candea},
+  title     = {Efficient Testing of Recovery Code Using Fault Injection},
+  journal   = tocs,
+  volume    = {29},
+  number    = {4},
+  year      = 2011,
+  pages     = {11},
+}
+
+@article{DBLP:journals/tocs/MahajanSLCADW11,
+  author    = {Prince Mahajan and
+               Srinath T. V. Setty and
+               Sangmin Lee and
+               Allen Clement and
+               Lorenzo Alvisi and
+               Michael Dahlin and
+               Michael Walfish},
+  title     = {Depot: Cloud Storage with Minimal Trust},
+  journal   = tocs,
+  volume    = {29},
+  number    = {4},
+  year      = 2011,
+  pages     = {12},
+}
+
+@article{DBLP:journals/tocs/AmirDMR10,
+  author    = {Yair Amir and
+               Claudiu Danilov and
+               Raluca Musaloiu-Elefteri and
+               Nilo Rivera},
+  title     = {The SMesh wireless mesh network},
+  journal   = tocs,
+  volume    = {28},
+  number    = {3},
+  year      = 2010,
+}
+
+@article{DBLP:journals/tocs/Chen10,
+  author    = {Peter M. Chen},
+  title     = {Editorial},
+  journal   = tocs,
+  volume    = {28},
+  number    = {1},
+  year      = 2010,
+}
+
+@article{DBLP:journals/tocs/FriedmanKA10,
+  author    = {Roy Friedman and
+               Gabriel Kliot and
+               Chen Avin},
+  title     = {Probabilistic quorum systems in wireless Ad Hoc networks},
+  journal   = tocs,
+  volume    = {28},
+  number    = {3},
+  year      = 2010,
+}
+
+@article{DBLP:journals/tocs/GuerraouiLPQ10,
+  author    = {Rachid Guerraoui and
+               Ron R. Levy and
+               Bastian Pochon and
+               Vivien Qu{\'e}ma},
+  title     = {Throughput optimal total order broadcast for cluster environments},
+  journal   = tocs,
+  volume    = {28},
+  number    = {2},
+  year      = 2010,
+}
+
+@article{DBLP:journals/tocs/RoederS10,
+  author    = {Tom Roeder and
+               Fred B. Schneider},
+  title     = {Proactive obfuscation},
+  journal   = tocs,
+  volume    = {28},
+  number    = {2},
+  year      = 2010,
+}
+
+@article{DBLP:journals/tocs/WalfishVBKS10,
+  author    = {Michael Walfish and
+               Mythili Vutukuru and
+               Hari Balakrishnan and
+               David R. Karger and
+               Scott Shenker},
+  title     = {DDoS defense by offense},
+  journal   = tocs,
+  volume    = {28},
+  number    = {1},
+  year      = 2010,
+}
+
+@article{DBLP:journals/tocs/YabandehKKK10,
+  author    = {Maysam Yabandeh and
+               Nikola Knezevic and
+               Dejan Kostic and
+               Viktor Kuncak},
+  title     = {Predicting and preventing inconsistencies in deployed distributed systems},
+  journal   = tocs,
+  volume    = {28},
+  number    = {1},
+  year      = 2010,
+}
+
+@article{DBLP:journals/tocs/BlagodurovZF10,
+  author    = {Sergey Blagodurov and
+               Sergey Zhuravlev and
+               Alexandra Fedorova},
+  title     = {Contention-Aware Scheduling on Multicore Systems},
+  journal   = tocs,
+  volume    = {28},
+  number    = {4},
+  year      = 2010,
+  pages     = {8},
+}
+
+@article{DBLP:journals/tocs/CheungJ10,
+  author    = {Alex King Yeung Cheung and
+               Hans-Arno Jacobsen},
+  title     = {Load Balancing Content-Based Publish/Subscribe Systems},
+  journal   = tocs,
+  volume    = {28},
+  number    = {4},
+  year      = 2010,
+  pages     = {9},
+}
+
+@article{DBLP:journals/tocs/AguileraMSVK09,
+  author    = {Marcos Kawazoe Aguilera and
+               Arif Merchant and
+               Mehul A. Shah and
+               Alistair C. Veitch and
+               Christos T. Karamanolis},
+  title     = {Sinfonia: A new paradigm for building scalable distributed systems},
+  journal   = tocs,
+  volume    = {27},
+  number    = {3},
+  year      = 2009,
+}
+
+@article{DBLP:journals/tocs/CherkasovaOMSS09,
+  author    = {Ludmila Cherkasova and
+               Kivanc M. Ozonat and
+               Ningfang Mi and
+               Julie Symons and
+               Evgenia Smirni},
+  title     = {Automated anomaly detection and performance modeling of enterprise applications},
+  journal   = tocs,
+  volume    = {27},
+  number    = {3},
+  year      = 2009,
+}
+
+@article{DBLP:journals/tocs/ChoiY09,
+  author    = {Seungryul Choi and
+               Donald Yeung},
+  title     = {Hill-climbing SMT processor resource distribution},
+  journal   = tocs,
+  volume    = {27},
+  number    = {1},
+  year      = 2009,
+}
+
+@article{DBLP:journals/tocs/EyermanEKS09,
+  author    = {Stijn Eyerman and
+               Lieven Eeckhout and
+               Tejas Karkhanis and
+               James E. Smith},
+  title     = {A mechanistic performance model for superscalar out-of-order processors},
+  journal   = tocs,
+  volume    = {27},
+  number    = {2},
+  year      = 2009,
+}
+
+@article{DBLP:journals/tocs/KotlaADCW09,
+  author    = {Ramakrishna Kotla and
+               Lorenzo Alvisi and
+               Michael Dahlin and
+               Allen Clement and
+               Edmund L. Wong},
+  title     = {Zyzzyva: Speculative Byzantine fault tolerance},
+  journal   = tocs,
+  volume    = {27},
+  number    = {4},
+  year      = 2009,
+}
+
+@article{DBLP:journals/tocs/NtarmosTW09,
+  author    = {Nikos Ntarmos and
+               Peter Triantafillou and
+               Gerhard Weikum},
+  title     = {Distributed hash sketches: Scalable, efficient, and accurate cardinality estimation for distributed multisets},
+  journal   = tocs,
+  volume    = {27},
+  number    = {1},
+  year      = 2009,
+}
+
+@article{DBLP:journals/tocs/VeraACG09,
+  author    = {Xavier Vera and
+               Jaume Abella and
+               Javier Carretero and
+               Antonio Gonz{\'a}lez},
+  title     = {Selective replication: A lightweight technique for soft errors},
+  journal   = tocs,
+  volume    = {27},
+  number    = {4},
+  year      = 2009,
+}
+
+@article{DBLP:journals/tocs/ZagorodnovMAB09,
+  author    = {Dmitrii Zagorodnov and
+               Keith Marzullo and
+               Lorenzo Alvisi and
+               Thomas C. Bressoud},
+  title     = {Practical and low-overhead masking of failures of TCP-based servers},
+  journal   = tocs,
+  volume    = {27},
+  number    = {2},
+  year      = 2009,
+}
+
+@article{DBLP:journals/tocs/AgrawalLHH08,
+  author    = {Kunal Agrawal and
+               Charles E. Leiserson and
+               Yuxiong He and
+               Wen-Jing Hsu},
+  title     = {Adaptive work-stealing with parallelism feedback},
+  journal   = tocs,
+  volume    = {26},
+  number    = {3},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/Bar-YossefFK08,
+  author    = {Ziv Bar-Yossef and
+               Roy Friedman and
+               Gabriel Kliot},
+  title     = {RaWMS - Random Walk Based Lightweight Membership Service for Wireless Ad Hoc Networks},
+  journal   = tocs,
+  volume    = {26},
+  number    = {2},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/ChangDGHWBCFG08,
+  author    = {Fay Chang and
+               Jeffrey Dean and
+               Sanjay Ghemawat and
+               Wilson C. Hsieh and
+               Deborah A. Wallach and
+               Michael Burrows and
+               Tushar Chandra and
+               Andrew Fikes and
+               Robert E. Gruber},
+  title     = {Bigtable: A Distributed Storage System for Structured Data},
+  journal   = tocs,
+  volume    = {26},
+  number    = {2},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/ColohanASM08,
+  author    = {Christopher B. Colohan and
+               Anastassia Ailamaki and
+               J. Gregory Steffan and
+               Todd C. Mowry},
+  title     = {Incrementally parallelizing database transactions with thread-level speculation},
+  journal   = tocs,
+  volume    = {26},
+  number    = {1},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/CostaCCRZZB08,
+  author    = {Manuel Costa and
+               Jon Crowcroft and
+               Miguel Castro and
+               Antony I. T. Rowstron and
+               Lidong Zhou and
+               Lintao Zhang and
+               Paul Barham},
+  title     = {Vigilante: End-to-end containment of Internet worm epidemics},
+  journal   = tocs,
+  volume    = {26},
+  number    = {4},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/CoulsonBGTJLUS08,
+  author    = {Geoff Coulson and
+               Gordon S. Blair and
+               Paul Grace and
+               Fran{\c{c}}ois Ta{\"\i}ani and
+               Ackbar Joolia and
+               Kevin Lee and
+               Jo Ueyama and
+               Thirunavukkarasu Sivaharan},
+  title     = {A generic component model for building systems software},
+  journal   = tocs,
+  volume    = {26},
+  number    = {1},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/KosticSVBKAARV08,
+  author    = {Dejan Kostic and
+               Alex C. Snoeren and
+               Amin Vahdat and
+               Ryan Braud and
+               Charles Edwin Killian and
+               James W. Anderson and
+               Jeannie R. Albrecht and
+               Adolfo Rodriguez and
+               Erik Vandekieft},
+  title     = {High-bandwidth data dissemination for large-scale distributed systems},
+  journal   = tocs,
+  volume    = {26},
+  number    = {1},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/NightingaleVCF08,
+  author    = {Edmund B. Nightingale and
+               Kaushik Veeraraghavan and
+               Peter M. Chen and
+               Jason Flinn},
+  title     = {Rethink the sync},
+  journal   = tocs,
+  volume    = {26},
+  number    = {3},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/QiaoBDBL08,
+  author    = {Yi Qiao and
+               Fabi{\'a}n E. Bustamante and
+               Peter A. Dinda and
+               Stefan Birrer and
+               Dong Lu},
+  title     = {Improving peer-to-peer performance through server-side scheduling},
+  journal   = tocs,
+  volume    = {26},
+  number    = {4},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/ShiehMS08,
+  author    = {Alan Shieh and
+               Andrew C. Myers and
+               Emin G{\"u}n Sirer},
+  title     = {A stateless approach to connection-oriented protocols},
+  journal   = tocs,
+  volume    = {26},
+  number    = {3},
+  year      = 2008,
+}
+
+@article{DBLP:journals/tocs/AppavooSKAORWWXSS07,
+  author    = {Jonathan Appavoo and
+               Dilma Da Silva and
+               Orran Krieger and
+               Marc A. Auslander and
+               Michal Ostrowski and
+               Bryan S. Rosenburg and
+               Amos Waterland and
+               Robert W. Wisniewski and
+               Jimi Xenidis and
+               Michael Stumm and
+               Livio Soares},
+  title     = {Experience distributing objects in an SMMP OS},
+  journal   = tocs,
+  volume    = {25},
+  number    = {3},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/BeharMK07,
+  author    = {Michael Behar and
+               Avi Mendelson and
+               Avinoam Kolodny},
+  title     = {Trace cache sampling filter},
+  journal   = tocs,
+  volume    = {25},
+  number    = {1},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/FraserH07,
+  author    = {Keir Fraser and
+               Timothy L. Harris},
+  title     = {Concurrent programming without locks},
+  journal   = tocs,
+  volume    = {25},
+  number    = {2},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/GluhovskyVO07,
+  author    = {Ilya Gluhovsky and
+               David Vengerov and
+               Brian O'Krafka},
+  title     = {Comprehensive multivariate extrapolation modeling of multiprocessor cache miss rates},
+  journal   = tocs,
+  volume    = {25},
+  number    = {1},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/HighamJK07,
+  author    = {Lisa Higham and
+               LillAnne Jackson and
+               Jalal Kawash},
+  title     = {Specifying memory consistency of write buffer multiprocessors},
+  journal   = tocs,
+  volume    = {25},
+  number    = {1},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/HurL07,
+  author    = {Ibrahim Hur and
+               Calvin Lin},
+  title     = {Memory scheduling for modern microprocessors},
+  journal   = tocs,
+  volume    = {25},
+  number    = {4},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/JelasityVGKS07,
+  author    = {M{\'a}rk Jelasity and
+               Spyros Voulgaris and
+               Rachid Guerraoui and
+               Anne-Marie Kermarrec and
+               Maarten van Steen},
+  title     = {Gossip-based peer sampling},
+  journal   = tocs,
+  volume    = {25},
+  number    = {3},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/QinTZS07,
+  author    = {Feng Qin and
+               Joseph Tucek and
+               Yuanyuan Zhou and
+               Jagadeesan Sundaresan},
+  title     = {Rx: Treating bugs as allergies{\&}mdash;a safe method to survive software failures},
+  journal   = tocs,
+  volume    = {25},
+  number    = {3},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/SwansonSMPPMOE07,
+  author    = {Steven Swanson and
+               Andrew Schwerin and
+               Martha Mercaldi and
+               Andrew Petersen and
+               Andrew Putnam and
+               Ken Michelson and
+               Mark Oskin and
+               Susan J. Eggers},
+  title     = {The WaveScalar architecture},
+  journal   = tocs,
+  volume    = {25},
+  number    = {2},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/VandebogartEKKFZKMM07,
+  author    = {Steve Vandebogart and
+               Petros Efstathopoulos and
+               Eddie Kohler and
+               Maxwell N. Krohn and
+               Cliff Frey and
+               David Ziegler and
+               M. Frans Kaashoek and
+               Robert Morris and
+               David Mazi{\`e}res},
+  title     = {Labels and event processes in the Asbestos operating system},
+  journal   = tocs,
+  volume    = {25},
+  number    = {4},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/XuMM07,
+  author    = {Ruibin Xu and
+               Daniel Moss{\'e} and
+               Rami G. Melhem},
+  title     = {Minimizing expected energy consumption in real-time systems through dynamic voltage scaling},
+  journal   = tocs,
+  volume    = {25},
+  number    = {4},
+  year      = 2007,
+}
+
+@article{DBLP:journals/tocs/KeromytisWRB06,
+  author    = {Angelos D. Keromytis and
+               Jason L. Wright and
+               Theo de Raadt and
+               Matthew Burnside},
+  title     = {Cryptography as an operating system service: A case study},
+  journal   = tocs,
+  volume    = {24},
+  number    = {1},
+  year      = 2006,
+  pages     = {1-38},
+}
+
+@article{DBLP:journals/tocs/CoarfaDW06,
+  author    = {Cristian Coarfa and
+               Peter Druschel and
+               Dan S. Wallach},
+  title     = {Performance analysis of TLS Web servers},
+  journal   = tocs,
+  volume    = {24},
+  number    = {1},
+  year      = 2006,
+  pages     = {39-69},
+}
+
+@article{DBLP:journals/tocs/YuV06,
+  author    = {Haifeng Yu and
+               Amin Vahdat},
+  title     = {The costs and limits of availability for replicated services},
+  journal   = tocs,
+  volume    = {24},
+  number    = {1},
+  year      = 2006,
+  pages     = {70-113},
+}
+
+@article{DBLP:journals/tocs/MooreSBVS06,
+  author    = {David Moore and
+               Colleen Shannon and
+               Douglas J. Brown and
+               Geoffrey M. Voelker and
+               Stefan Savage},
+  title     = {Inferring Internet denial-of-service activity},
+  journal   = tocs,
+  volume    = {24},
+  number    = {2},
+  year      = 2006,
+  pages     = {115-139},
+}
+
+@article{DBLP:journals/tocs/HolmanA06,
+  author    = {Philip Holman and
+               James H. Anderson},
+  title     = {Locking under Pfair scheduling},
+  journal   = tocs,
+  volume    = {24},
+  number    = {2},
+  year      = 2006,
+  pages     = {140-174},
+}
+
+@article{DBLP:journals/tocs/LaiN06,
+  author    = {Albert M. Lai and
+               Jason Nieh},
+  title     = {On the performance of wide-area thin-client computing},
+  journal   = tocs,
+  volume    = {24},
+  number    = {2},
+  year      = 2006,
+  pages     = {175-209},
+}
+
+@article{DBLP:journals/tocs/VachharajaniVPBMA06,
+  author    = {Manish Vachharajani and
+               Neil Vachharajani and
+               David A. Penry and
+               Jason A. Blome and
+               Sharad Malik and
+               David I. August},
+  title     = {The Liberty Simulation Environment: A deliberate approach to high-level system modeling},
+  journal   = tocs,
+  volume    = {24},
+  number    = {3},
+  year      = 2006,
+  pages     = {211-249},
+}
+
+@article{DBLP:journals/tocs/BarrA06,
+  author    = {Kenneth C. Barr and
+               Krste Asanovic},
+  title     = {Energy-aware lossless data compression},
+  journal   = tocs,
+  volume    = {24},
+  number    = {3},
+  year      = 2006,
+  pages     = {250-291},
+}
+
+@article{DBLP:journals/tocs/YuanN06,
+  author    = {Wanghong Yuan and
+               Klara Nahrstedt},
+  title     = {Energy-efficient CPU scheduling for multimedia applications},
+  journal   = tocs,
+  volume    = {24},
+  number    = {3},
+  year      = 2006,
+  pages     = {292-331},
+}
+
+@article{DBLP:journals/tocs/SwiftABL06,
+  author    = {Michael M. Swift and
+               Muthukaruppan Annamalai and
+               Brian N. Bershad and
+               Henry M. Levy},
+  title     = {Recovering device drivers},
+  journal   = tocs,
+  volume    = {24},
+  number    = {4},
+  year      = 2006,
+  pages     = {333-360},
+}
+
+@article{DBLP:journals/tocs/NightingaleCF06,
+  author    = {Edmund B. Nightingale and
+               Peter M. Chen and
+               Jason Flinn},
+  title     = {Speculative execution in a distributed file system},
+  journal   = tocs,
+  volume    = {24},
+  number    = {4},
+  year      = 2006,
+  pages     = {361-392},
+}
+
+@article{DBLP:journals/tocs/YangTEM06,
+  author    = {Junfeng Yang and
+               Paul Twohey and
+               Dawson R. Engler and
+               Madanlal Musuvathi},
+  title     = {Using model checking to find serious file system errors},
+  journal   = tocs,
+  volume    = {24},
+  number    = {4},
+  year      = 2006,
+  pages     = {393-423},
+}
+
+@article{DBLP:journals/tocs/Ellis05,
+  author    = {Carla Schlatter Ellis},
+  title     = {Editorial},
+  journal   = tocs,
+  volume    = {23},
+  number    = {1},
+  year      = 2005,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tocs/ManiatisRGRB05,
+  author    = {Petros Maniatis and
+               Mema Roussopoulos and
+               Thomas J. Giuli and
+               David S. H. Rosenthal and
+               Mary Baker},
+  title     = {The LOCKSS peer-to-peer digital preservation system},
+  journal   = tocs,
+  volume    = {23},
+  number    = {1},
+  year      = 2005,
+  pages     = {2-50},
+}
+
+@article{DBLP:journals/tocs/KingC05,
+  author    = {Samuel T. King and
+               Peter M. Chen},
+  title     = {Backtracking intrusions},
+  journal   = tocs,
+  volume    = {23},
+  number    = {1},
+  year      = 2005,
+  pages     = {51-76},
+}
+
+@article{DBLP:journals/tocs/SwiftBL05,
+  author    = {Michael M. Swift and
+               Brian N. Bershad and
+               Henry M. Levy},
+  title     = {Improving the reliability of commodity operating systems},
+  journal   = tocs,
+  volume    = {23},
+  number    = {1},
+  year      = 2005,
+  pages     = {77-110},
+}
+
+@article{DBLP:journals/tocs/GluhovskyO05,
+  author    = {Ilya Gluhovsky and
+               Brian O'Krafka},
+  title     = {Comprehensive multiprocessor cache miss rate generation using multivariate models},
+  journal   = tocs,
+  volume    = {23},
+  number    = {2},
+  year      = 2005,
+  pages     = {111-145},
+}
+
+@article{DBLP:journals/tocs/HerlihyLMM05,
+  author    = {Maurice Herlihy and
+               Victor Luchangco and
+               Paul A. Martin and
+               Mark Moir},
+  title     = {Nonblocking memory management support for dynamic-sized data structures},
+  journal   = tocs,
+  volume    = {23},
+  number    = {2},
+  year      = 2005,
+  pages     = {146-196},
+}
+
+@article{DBLP:journals/tocs/Jimenez05,
+  author    = {Daniel A. Jim{\'e}nez},
+  title     = {Improved latency and accuracy for neural branch prediction},
+  journal   = tocs,
+  volume    = {23},
+  number    = {2},
+  year      = 2005,
+  pages     = {197-218},
+}
+
+@article{DBLP:journals/tocs/JelasityMB05,
+  author    = {M{\'a}rk Jelasity and
+               Alberto Montresor and
+               {\"O}zalp Babaoglu},
+  title     = {Gossip-based aggregation in large dynamic networks},
+  journal   = tocs,
+  volume    = {23},
+  number    = {3},
+  year      = 2005,
+  pages     = {219-252},
+}
+
+@article{DBLP:journals/tocs/SteffanCZM05,
+  author    = {J. Gregory Steffan and
+               Christopher B. Colohan and
+               Antonia Zhai and
+               Todd C. Mowry},
+  title     = {The STAMPede approach to thread-level speculation},
+  journal   = tocs,
+  volume    = {23},
+  number    = {3},
+  year      = 2005,
+  pages     = {253-300},
+}
+
+@article{DBLP:journals/tocs/KontothanassisSHRADS05,
+  author    = {Leonidas I. Kontothanassis and
+               Robert Stets and
+               Galen C. Hunt and
+               Umit Rencuzogullari and
+               Gautam Altekar and
+               Sandhya Dwarkadas and
+               Michael L. Scott},
+  title     = {Shared memory computing on clusters with symmetric multiprocessors and system area networks},
+  journal   = tocs,
+  volume    = {23},
+  number    = {3},
+  year      = 2005,
+  pages     = {301-335},
+}
+
+@article{DBLP:journals/tocs/AndersonSSKW05,
+  author    = {Eric Anderson and
+               Susan Spence and
+               Ram Swaminathan and
+               Mahesh Kallahalla and
+               Qian Wang},
+  title     = {Quickly finding near-optimal storage designs},
+  journal   = tocs,
+  volume    = {23},
+  number    = {4},
+  year      = 2005,
+  pages     = {337-374},
+}
+
+@article{DBLP:journals/tocs/Patino-MartinezJKA05,
+  author    = {Marta Pati{\~n}o-Mart{\'\i}nez and
+               Ricardo Jim{\'e}nez-Peris and
+               Bettina Kemme and
+               Gustavo Alonso},
+  title     = {MIDDLE-R: Consistent database replication at the middleware level},
+  journal   = tocs,
+  volume    = {23},
+  number    = {4},
+  year      = 2005,
+  pages     = {375-423},
+}
+
+@article{DBLP:journals/tocs/HsuSY05,
+  author    = {Windsor W. Hsu and
+               Alan Jay Smith and
+               Honesty C. Young},
+  title     = {The automatic improvement of locality in storage systems},
+  journal   = tocs,
+  volume    = {23},
+  number    = {4},
+  year      = 2005,
+  pages     = {424-473},
+}
+
+@article{DBLP:journals/tocs/ReumannS04,
+  author    = {John Reumann and
+               Kang G. Shin},
+  title     = {Stateful distributed interposition},
+  journal   = tocs,
+  volume    = {22},
+  number    = {1},
+  year      = 2004,
+  pages     = {1-48},
+}
+
+@article{DBLP:journals/tocs/OlshefskiNA04,
+  author    = {David P. Olshefski and
+               Jason Nieh and
+               Dakshi Agrawal},
+  title     = {Using certes to infer client response time at the web server},
+  journal   = tocs,
+  volume    = {22},
+  number    = {1},
+  year      = 2004,
+  pages     = {49-93},
+}
+
+@article{DBLP:journals/tocs/AdveV04,
+  author    = {Vikram S. Adve and
+               Mary K. Vernon},
+  title     = {Parallel program performance prediction using deterministic task graph analysis},
+  journal   = tocs,
+  volume    = {22},
+  number    = {1},
+  year      = 2004,
+  pages     = {94-136},
+}
+
+@article{DBLP:journals/tocs/FlinnS04,
+  author    = {Jason Flinn and
+               Mahadev Satyanarayanan},
+  title     = {Managing battery lifetime with energy-aware adaptation},
+  journal   = tocs,
+  volume    = {22},
+  number    = {2},
+  year      = 2004,
+  pages     = {137-179},
+}
+
+@article{DBLP:journals/tocs/AshokCM04,
+  author    = {Raksit Ashok and
+               Saurabh Chheda and
+               Csaba Andras Moritz},
+  title     = {Coupling compiler-enabled and conventional memory accessing for energy efficiency},
+  journal   = tocs,
+  volume    = {22},
+  number    = {2},
+  year      = 2004,
+  pages     = {180-213},
+}
+
+@article{DBLP:journals/tocs/ChoiKPKY04,
+  author    = {Seungryul Choi and
+               Nicholas Kohout and
+               Sumit Pamnani and
+               Dongkeun Kim and
+               Donald Yeung},
+  title     = {A general framework for prefetch scheduling in linked data structures and its application to multi-chain prefetching},
+  journal   = tocs,
+  volume    = {22},
+  number    = {2},
+  year      = 2004,
+  pages     = {214-280},
+}
+
+@article{DBLP:journals/tocs/VerstoepBRBH04,
+  author    = {Kees Verstoep and
+               Raoul Bhoedjang and
+               Tim R{\"u}hl and
+               Henri E. Bal and
+               Rutger F. H. Hofman},
+  title     = {Cluster communication protocols for parallel-programming systems},
+  journal   = tocs,
+  volume    = {22},
+  number    = {3},
+  year      = 2004,
+  pages     = {281-325},
+}
+
+@article{DBLP:journals/tocs/KimY04,
+  author    = {Dongkeun Kim and
+               Donald Yeung},
+  title     = {A study of source-level compiler algorithms for automatic construction of pre-execution code},
+  journal   = tocs,
+  volume    = {22},
+  number    = {3},
+  year      = 2004,
+  pages     = {326-379},
+}
+
+@article{DBLP:journals/tocs/BartalMNW04,
+  author    = {Yair Bartal and
+               Alain J. Mayer and
+               Kobbi Nissim and
+               Avishai Wool},
+  title     = {Firmato: A novel firewall management toolkit},
+  journal   = tocs,
+  volume    = {22},
+  number    = {4},
+  year      = 2004,
+  pages     = {381-420},
+}
+
+@article{DBLP:journals/tocs/GrimmDLMSABBGW04,
+  author    = {Robert Grimm and
+               Janet Davis and
+               Eric Lemar and
+               Adam MacBeth and
+               Steven Swanson and
+               Thomas E. Anderson and
+               Brian N. Bershad and
+               Gaetano Borriello and
+               Steven D. Gribble and
+               David Wetherall},
+  title     = {System support for pervasive applications},
+  journal   = tocs,
+  volume    = {22},
+  number    = {4},
+  year      = 2004,
+  pages     = {421-486},
+}
+
+@article{DBLP:journals/tocs/HuYCWZ03,
+  author    = {Y. Charlie Hu and
+               Weimin Yu and
+               Alan L. Cox and
+               Dan S. Wallach and
+               Willy Zwaenepoel},
+  title     = {Run-time support for distributed sharing in safe languages},
+  journal   = tocs,
+  volume    = {21},
+  number    = {1},
+  year      = 2003,
+  pages     = {1-35},
+}
+
+@article{DBLP:journals/tocs/Arpaci-Dusseau03,
+  author    = {Remzi H. Arpaci-Dusseau},
+  title     = {Run-time adaptation in river},
+  journal   = tocs,
+  volume    = {21},
+  number    = {1},
+  year      = 2003,
+  pages     = {36-86},
+}
+
+@article{DBLP:journals/tocs/NiehYN03,
+  author    = {Jason Nieh and
+               S. Jae Yang and
+               Naomi Novik},
+  title     = {Measuring thin-client performance using slow-motion benchmarking},
+  journal   = tocs,
+  volume    = {21},
+  number    = {1},
+  year      = 2003,
+  pages     = {87-115},
+}
+
+@article{DBLP:journals/tocs/NiehL03,
+  author    = {Jason Nieh and
+               Monica S. Lam},
+  title     = {A SMART scheduler for multimedia applications},
+  journal   = tocs,
+  volume    = {21},
+  number    = {2},
+  year      = 2003,
+  pages     = {117-163},
+}
+
+@article{DBLP:journals/tocs/RenesseBV03,
+  author    = {Robbert van Renesse and
+               Kenneth P. Birman and
+               Werner Vogels},
+  title     = {Astrolabe: A robust and scalable technology for distributed system monitoring, management, and data mining},
+  journal   = tocs,
+  volume    = {21},
+  number    = {2},
+  year      = 2003,
+  pages     = {164-206},
+}
+
+@article{DBLP:journals/tocs/Harchol-BalterSBA03,
+  author    = {Mor Harchol-Balter and
+               Bianca Schroeder and
+               Nikhil Bansal and
+               Mukesh Agrawal},
+  title     = {Size-based scheduling to improve web performance},
+  journal   = tocs,
+  volume    = {21},
+  number    = {2},
+  year      = 2003,
+  pages     = {207-233},
+}
+
+@article{DBLP:journals/tocs/Ellis03,
+  author    = {Carla Schlatter Ellis},
+  title     = {Editorial},
+  journal   = tocs,
+  volume    = {21},
+  number    = {3},
+  year      = 2003,
+  pages     = {235},
+}
+
+@article{DBLP:journals/tocs/CastroRL03,
+  author    = {Miguel Castro and
+               Rodrigo Rodrigues and
+               Barbara Liskov},
+  title     = {BASE: Using abstraction to improve fault tolerance},
+  journal   = tocs,
+  volume    = {21},
+  number    = {3},
+  year      = 2003,
+  pages     = {236-269},
+}
+
+@article{DBLP:journals/tocs/EstanV03,
+  author    = {Cristian Estan and
+               George Varghese},
+  title     = {New directions in traffic measurement and accounting: Focusing on the elephants, ignoring the mice},
+  journal   = tocs,
+  volume    = {21},
+  number    = {3},
+  year      = 2003,
+  pages     = {270-313},
+}
+
+@article{DBLP:journals/tocs/SwansonMSEL03,
+  author    = {Steven Swanson and
+               Luke McDowell and
+               Michael M. Swift and
+               Susan J. Eggers and
+               Henry M. Levy},
+  title     = {An evaluation of speculative instruction execution on simultaneous multithreaded processors},
+  journal   = tocs,
+  volume    = {21},
+  number    = {3},
+  year      = 2003,
+  pages     = {314-340},
+}
+
+@article{DBLP:journals/tocs/EugsterGHKK03,
+  author    = {Patrick Th. Eugster and
+               Rachid Guerraoui and
+               Sidath B. Handurukande and
+               Petr Kouznetsov and
+               Anne-Marie Kermarrec},
+  title     = {Lightweight probabilistic broadcast},
+  journal   = tocs,
+  volume    = {21},
+  number    = {4},
+  year      = 2003,
+  pages     = {341-374},
+}
+
+@article{DBLP:journals/tocs/HadzicS03,
+  author    = {Ilija Hadzic and
+               Jonathan M. Smith},
+  title     = {Balancing performance and flexibility with hardware support for network architectures},
+  journal   = tocs,
+  volume    = {21},
+  number    = {4},
+  year      = 2003,
+  pages     = {375-411},
+}
+
+@article{DBLP:journals/tocs/AnnavaramPD03,
+  author    = {Murali Annavaram and
+               Jignesh M. Patel and
+               Edward S. Davidson},
+  title     = {Call graph prefetching for database applications},
+  journal   = tocs,
+  volume    = {21},
+  number    = {4},
+  year      = 2003,
+  pages     = {412-444},
+}
+
+@article{DBLP:journals/tocs/FuKM02,
+  author    = {Kevin Fu and
+               M. Frans Kaashoek and
+               David Mazi{\`e}res},
+  title     = {Fast and secure distributed read-only file system},
+  journal   = tocs,
+  volume    = {20},
+  number    = {1},
+  year      = 2002,
+  pages     = {1-24},
+}
+
+@article{DBLP:journals/tocs/AndersonCV02,
+  author    = {Darrell C. Anderson and
+               Jeffrey S. Chase and
+               Amin Vahdat},
+  title     = {Interposed request routing for scalable network storage},
+  journal   = tocs,
+  volume    = {20},
+  number    = {1},
+  year      = 2002,
+  pages     = {25-48},
+}
+
+@article{DBLP:journals/tocs/GangerEKBHP02,
+  author    = {Gregory R. Ganger and
+               Dawson R. Engler and
+               M. Frans Kaashoek and
+               H{\'e}ctor M. Brice{\~n}o and
+               Russell Hunt and
+               Thomas Pinckney},
+  title     = {Fast and flexible application-level networking on exokernel systems},
+  journal   = tocs,
+  volume    = {20},
+  number    = {1},
+  year      = 2002,
+  pages     = {49-83},
+}
+
+@article{DBLP:journals/tocs/Satyanarayanan02,
+  author    = {Mahadev Satyanarayanan},
+  title     = {The evolution of Coda},
+  journal   = tocs,
+  volume    = {20},
+  number    = {2},
+  year      = 2002,
+  pages     = {85-124},
+}
+
+@article{DBLP:journals/tocs/BurgessHSR02,
+  author    = {Mark Burgess and
+               H{\aa}rek Haugerud and
+               Sigmund Straumsnes and
+               Trond Reitan},
+  title     = {Measuring system normality},
+  journal   = tocs,
+  volume    = {20},
+  number    = {2},
+  year      = 2002,
+  pages     = {125-160},
+}
+
+@article{DBLP:journals/tocs/HuKM02,
+  author    = {Zhigang Hu and
+               Stefanos Kaxiras and
+               Margaret Martonosi},
+  title     = {Let caches decay: reducing leakage energy via exploitation of cache generational behavior},
+  journal   = tocs,
+  volume    = {20},
+  number    = {2},
+  year      = 2002,
+  pages     = {161-190},
+}
+
+@article{DBLP:journals/tocs/KeidarSMD02,
+  author    = {Idit Keidar and
+               Jeremy B. Sussman and
+               Keith Marzullo and
+               Danny Dolev},
+  title     = {Moshe: A group membership service for WANs},
+  journal   = tocs,
+  volume    = {20},
+  number    = {3},
+  year      = 2002,
+  pages     = {191-238},
+}
+
+@article{DBLP:journals/tocs/YuV02,
+  author    = {Haifeng Yu and
+               Amin Vahdat},
+  title     = {Design and evaluation of a conit-based continuous consistency model for replicated services},
+  journal   = tocs,
+  volume    = {20},
+  number    = {3},
+  year      = 2002,
+  pages     = {239-282},
+}
+
+@article{DBLP:journals/tocs/ZdancewicZNM02,
+  author    = {Steve Zdancewic and
+               Lantian Zheng and
+               Nathaniel Nystrom and
+               Andrew C. Myers},
+  title     = {Secure program partitioning},
+  journal   = tocs,
+  volume    = {20},
+  number    = {3},
+  year      = 2002,
+  pages     = {283-328},
+}
+
+@article{DBLP:journals/tocs/ZhouSR02,
+  author    = {Lidong Zhou and
+               Fred B. Schneider and
+               Robbert van Renesse},
+  title     = {COCA: A secure distributed online certification authority},
+  journal   = tocs,
+  volume    = {20},
+  number    = {4},
+  year      = 2002,
+  pages     = {329-368},
+}
+
+@article{DBLP:journals/tocs/JimenezL02,
+  author    = {Daniel A. Jim{\'e}nez and
+               Calvin Lin},
+  title     = {Neural methods for dynamic branch prediction},
+  journal   = tocs,
+  volume    = {20},
+  number    = {4},
+  year      = 2002,
+  pages     = {369-397},
+}
+
+@article{DBLP:journals/tocs/CastroL02,
+  author    = {Miguel Castro and
+               Barbara Liskov},
+  title     = {Practical byzantine fault tolerance and proactive recovery},
+  journal   = tocs,
+  volume    = {20},
+  number    = {4},
+  year      = 2002,
+  pages     = {398-461},
+}
+
+@article{DBLP:journals/tocs/BilasJS01,
+  author    = {Angelos Bilas and
+               Dongming Jiang and
+               Jaswinder Pal Singh},
+  title     = {Accelerating shared virtual memory via general-purpose network interface support},
+  journal   = tocs,
+  volume    = {19},
+  number    = {1},
+  year      = 2001,
+  pages     = {1-35},
+}
+
+@article{DBLP:journals/tocs/GrimmB01,
+  author    = {Robert Grimm and
+               Brian N. Bershad},
+  title     = {Separating access control policy, enforcement, and functionality in extensible systems},
+  journal   = tocs,
+  volume    = {19},
+  number    = {1},
+  year      = 2001,
+  pages     = {36-70},
+}
+
+@article{DBLP:journals/tocs/LukM01,
+  author    = {Chi-Keung Luk and
+               Todd C. Mowry},
+  title     = {Architectural and compiler support for effective instruction prefetching: a cooperative approach},
+  journal   = tocs,
+  volume    = {19},
+  number    = {1},
+  year      = 2001,
+  pages     = {71-109},
+}
+
+@article{DBLP:journals/tocs/BrownMK01,
+  author    = {Angela Demke Brown and
+               Todd C. Mowry and
+               Orran Krieger},
+  title     = {Compiler-based I/O prefetching for out-of-core applications},
+  journal   = tocs,
+  volume    = {19},
+  number    = {2},
+  year      = 2001,
+  pages     = {111-170},
+}
+
+@article{DBLP:journals/tocs/FeketeLS01,
+  author    = {Alan Fekete and
+               Nancy A. Lynch and
+               Alexander A. Shvartsman},
+  title     = {Specifying and using a partitionable group communication service},
+  journal   = tocs,
+  volume    = {19},
+  number    = {2},
+  year      = 2001,
+  pages     = {171-216},
+}
+
+@article{DBLP:journals/tocs/McNameeWPCKGWCMM01,
+  author    = {Dylan McNamee and
+               Jonathan Walpole and
+               Calton Pu and
+               Crispin Cowan and
+               Charles Krasic and
+               Ashvin Goel and
+               Perry Wagle and
+               Charles Consel and
+               Gilles Muller and
+               Renaud Marlet},
+  title     = {Specialization tools and techniques for systematic optimization of system software},
+  journal   = tocs,
+  volume    = {19},
+  number    = {2},
+  year      = 2001,
+  pages     = {217-251},
+}
+
+@article{DBLP:journals/tocs/MendelsonG01,
+  author    = {Avi Mendelson and
+               Freddy Gabbay},
+  title     = {The effect of seance communication on multiprocessing systems},
+  journal   = tocs,
+  volume    = {19},
+  number    = {2},
+  year      = 2001,
+  pages     = {252-281},
+}
+
+@article{DBLP:journals/tocs/Arpaci-Dusseau01,
+  author    = {Andrea C. Arpaci-Dusseau},
+  title     = {Implicit coscheduling: coordinated scheduling with implicit information in distributed systems},
+  journal   = tocs,
+  volume    = {19},
+  number    = {3},
+  year      = 2001,
+  pages     = {283-331},
+}
+
+@article{DBLP:journals/tocs/CarzanigaRW01,
+  author    = {Antonio Carzaniga and
+               David S. Rosenblum and
+               Alexander L. Wolf},
+  title     = {Design and evaluation of a wide-area event notification service},
+  journal   = tocs,
+  volume    = {19},
+  number    = {3},
+  year      = 2001,
+  pages     = {332-383},
+}
+
+@article{DBLP:journals/tocs/MaxemchukS01,
+  author    = {Nicholas F. Maxemchuk and
+               David H. Shur},
+  title     = {An Internet multicast system for the stock market},
+  journal   = tocs,
+  volume    = {19},
+  number    = {3},
+  year      = 2001,
+  pages     = {384-412},
+}
+
+@article{DBLP:journals/tocs/CollinsT01,
+  author    = {Jamison D. Collins and
+               Dean M. Tullsen},
+  title     = {Runtime identification of cache conflict misses: The adaptive miss buffer},
+  journal   = tocs,
+  volume    = {19},
+  number    = {4},
+  year      = 2001,
+  pages     = {413-439},
+}
+
+@article{DBLP:journals/tocs/WaldvogelVTP01,
+  author    = {Marcel Waldvogel and
+               George Varghese and
+               Jonathan S. Turner and
+               Bernhard Plattner},
+  title     = {Scalable high-speed prefix matching},
+  journal   = tocs,
+  volume    = {19},
+  number    = {4},
+  year      = 2001,
+  pages     = {440-482},
+}
+
+@article{DBLP:journals/tocs/AlvarezBGRBGMSVW01,
+  author    = {Guillermo A. Alvarez and
+               Elizabeth Borowsky and
+               Susie Go and
+               Theodore H. Romer and
+               Ralph A. Becker-Szendy and
+               Richard A. Golding and
+               Arif Merchant and
+               Mirjana Spasojevic and
+               Alistair C. Veitch and
+               John Wilkes},
+  title     = {Minerva: An automated resource provisioning tool for large-scale storage systems},
+  journal   = tocs,
+  volume    = {19},
+  number    = {4},
+  year      = 2001,
+  pages     = {483-518},
+}
+
+@article{DBLP:journals/tocs/Keleher00,
+  author    = {Peter J. Keleher},
+  title     = {A high-level abstraction of shared accesses},
+  journal   = tocs,
+  volume    = {18},
+  number    = {1},
+  year      = 2000,
+  pages     = {1-36},
+}
+
+@article{DBLP:journals/tocs/PaiDZ00,
+  author    = {Vivek S. Pai and
+               Peter Druschel and
+               Willy Zwaenepoel},
+  title     = {IO-Lite: a unified I/O buffering and caching system},
+  journal   = tocs,
+  volume    = {18},
+  number    = {1},
+  year      = 2000,
+  pages     = {37-66},
+}
+
+@article{DBLP:journals/tocs/SchwartzJSZRP00,
+  author    = {Beverly Schwartz and
+               Alden W. Jackson and
+               W. Timothy Strayer and
+               Wenyi Zhou and
+               R. Dennis Rockwell and
+               Craig Partridge},
+  title     = {Smart packets: applying active networks to network management},
+  journal   = tocs,
+  volume    = {18},
+  number    = {1},
+  year      = 2000,
+  pages     = {67-88},
+}
+
+@article{DBLP:journals/tocs/BrooksM00,
+  author    = {David Brooks and
+               Margaret Martonosi},
+  title     = {Value-based clock gating and operation packing: dynamic strategies for improving processor power and performance},
+  journal   = tocs,
+  volume    = {18},
+  number    = {2},
+  year      = 2000,
+  pages     = {89-126},
+}
+
+@article{DBLP:journals/tocs/GangerMSP00,
+  author    = {Gregory R. Ganger and
+               Marshall K. McKusick and
+               Craig A. N. Soules and
+               Yale N. Patt},
+  title     = {Soft updates: a solution to the metadata update problem in file systems},
+  journal   = tocs,
+  volume    = {18},
+  number    = {2},
+  year      = 2000,
+  pages     = {127-153},
+}
+
+@article{DBLP:journals/tocs/YeungKA00,
+  author    = {Donald Yeung and
+               John Kubiatowicz and
+               Anant Agarwal},
+  title     = {Multigrain shared memory},
+  journal   = tocs,
+  volume    = {18},
+  number    = {2},
+  year      = 2000,
+  pages     = {154-196},
+}
+
+@article{DBLP:journals/tocs/AronD00,
+  author    = {Mohit Aron and
+               Peter Druschel},
+  title     = {Soft timers: efficient microsecond software timer support for network processing},
+  journal   = tocs,
+  volume    = {18},
+  number    = {3},
+  year      = 2000,
+  pages     = {197-228},
+}
+
+@article{DBLP:journals/tocs/GovilTHR00,
+  author    = {Kinshuk Govil and
+               Dan Teodosiu and
+               Yongqiang Huang and
+               Mendel Rosenblum},
+  title     = {Cellular disco: resource management using virtual clusters on shared-memory multiprocessors},
+  journal   = tocs,
+  volume    = {18},
+  number    = {3},
+  year      = 2000,
+  pages     = {229-262},
+}
+
+@article{DBLP:journals/tocs/KohlerMCJK00,
+  author    = {Eddie Kohler and
+               Robert Morris and
+               Benjie Chen and
+               John Jannotti and
+               M. Frans Kaashoek},
+  title     = {The click modular router},
+  journal   = tocs,
+  volume    = {18},
+  number    = {3},
+  year      = 2000,
+  pages     = {263-297},
+}
+
+@article{DBLP:journals/tocs/SaitoBL00,
+  author    = {Yasushi Saito and
+               Brian N. Bershad and
+               Henry M. Levy},
+  title     = {Manageability, availability, and performance in porcupine: a highly scalable, cluster-based mail service},
+  journal   = tocs,
+  volume    = {18},
+  number    = {3},
+  year      = 2000,
+  pages     = {298},
+}
+
+@article{DBLP:journals/tocs/GontmakherS00,
+  author    = {Alex Gontmakher and
+               Assaf Schuster},
+  title     = {Java consistency: nonoperational characterizations for Java memory behavior},
+  journal   = tocs,
+  volume    = {18},
+  number    = {4},
+  year      = 2000,
+  pages     = {333-386},
+}
+
+@article{DBLP:journals/tocs/SarkarH00,
+  author    = {Prasenjit Sarkar and
+               John H. Hartman},
+  title     = {Hint-based cooperative caching},
+  journal   = tocs,
+  volume    = {18},
+  number    = {4},
+  year      = 2000,
+  pages     = {387-419},
+}
+
+@article{DBLP:journals/tocs/SrinivasanV99,
+  author    = {Venkatachary Srinivasan and
+               George Varghese},
+  title     = {Fast Address Lookups Using Controlled Prefix Expansion},
+  journal   = tocs,
+  volume    = {17},
+  number    = {1},
+  year      = 1999,
+  pages     = {1-40},
+}
+
+@article{DBLP:journals/tocs/BirmanHOXBM99,
+  author    = {Kenneth P. Birman and
+               Mark Hayden and
+               {\"O}znur {\"O}zkasap and
+               Zhen Xiao and
+               Mihai Budiu and
+               Yaron Minsky},
+  title     = {Bimodal Multicast},
+  journal   = tocs,
+  volume    = {17},
+  number    = {2},
+  year      = 1999,
+  pages     = {41-88},
+}
+
+@article{DBLP:journals/tocs/DinizR99,
+  author    = {Pedro C. Diniz and
+               Martin C. Rinard},
+  title     = {Eliminating Synchronization Overhead in Automatically Parallelized Programs Using Dynamic Feedback},
+  journal   = tocs,
+  volume    = {17},
+  number    = {2},
+  year      = 1999,
+  pages     = {89-132},
+}
+
+@article{DBLP:journals/tocs/RonsseB99,
+  author    = {Michiel Ronsse and
+               Koenraad De Bosschere},
+  title     = {RecPlay: A Fully Integrated Practical Record/Replay System},
+  journal   = tocs,
+  volume    = {17},
+  number    = {2},
+  year      = 1999,
+  pages     = {133-152},
+}
+
+@article{DBLP:journals/tocs/AmsalegFG99,
+  author    = {Laurent Amsaleg and
+               Michael J. Franklin and
+               Olivier Gruber},
+  title     = {Garbage collection for a client-server persistent object store},
+  journal   = tocs,
+  volume    = {17},
+  number    = {3},
+  year      = 1999,
+  pages     = {153-201},
+}
+
+@article{DBLP:journals/tocs/RaghavachariR99,
+  author    = {Mukund Raghavachari and
+               Anne Rogers},
+  title     = {Ace: a language for parallel programming with customizable protocols},
+  journal   = tocs,
+  volume    = {17},
+  number    = {3},
+  year      = 1999,
+  pages     = {202-248},
+}
+
+@article{DBLP:journals/tocs/AdiseshuVP99,
+  author    = {Hari Adiseshu and
+               George Varghese and
+               Guru M. Parulkar},
+  title     = {An architecture for packet-striping protocols},
+  journal   = tocs,
+  volume    = {17},
+  number    = {4},
+  year      = 1999,
+  pages     = {249-287},
+}
+
+@article{DBLP:journals/tocs/McKinleyT99,
+  author    = {Kathryn S. McKinley and
+               Olivier Temam},
+  title     = {Quantifying loop nest locality using SPEC'95 and the perfect benchmarks},
+  journal   = tocs,
+  volume    = {17},
+  number    = {4},
+  year      = 1999,
+  pages     = {288-336},
+}
+
+@article{DBLP:journals/tocs/Rinard99,
+  author    = {Martin C. Rinard},
+  title     = {Effective fine-grain synchronization for automatically parallelized programs using optimistic synchronization primitives},
+  journal   = tocs,
+  volume    = {17},
+  number    = {4},
+  year      = 1999,
+  pages     = {337-371},
+}
+
+@article{DBLP:journals/tocs/BalBHJLR98,
+  author    = {Henri E. Bal and
+               Raoul Bhoedjang and
+               Rutger F. H. Hofman and
+               Ceriel J. H. Jacobs and
+               Koen Langendoen and
+               Tim R{\"u}hl},
+  title     = {Performance Evaluation of the Orca Shared-Object System},
+  journal   = tocs,
+  volume    = {16},
+  number    = {1},
+  year      = 1998,
+  pages     = {1-40},
+}
+
+@article{DBLP:journals/tocs/DerkD98,
+  author    = {M. D. Derk and
+               L. S. DeBrunner},
+  title     = {Reconfiguration for Fault Tolerance Using Graph Grammars},
+  journal   = tocs,
+  volume    = {16},
+  number    = {1},
+  year      = 1998,
+  pages     = {41-54},
+}
+
+@article{DBLP:journals/tocs/Mowry98,
+  author    = {Todd C. Mowry},
+  title     = {Tolerating Latency in Multiprocessors Through Compiler-Inserted Prefetching},
+  journal   = tocs,
+  volume    = {16},
+  number    = {1},
+  year      = 1998,
+  pages     = {55-92},
+}
+
+@article{DBLP:journals/tocs/AgarwalMMB98,
+  author    = {Deborah A. Agarwal and
+               Louise E. Moser and
+               P. M. Melliar-Smith and
+               Ravi K. Budhia},
+  title     = {The Totem Multiple-Ring Ordering and Topology Maintenance Protocol},
+  journal   = tocs,
+  volume    = {16},
+  number    = {2},
+  year      = 1998,
+  pages     = {93-132},
+}
+
+@article{DBLP:journals/tocs/Lamport98,
+  author    = {Leslie Lamport},
+  title     = {The Part-Time Parliament},
+  journal   = tocs,
+  volume    = {16},
+  number    = {2},
+  year      = 1998,
+  pages     = {133-169},
+}
+
+@article{DBLP:journals/tocs/HorowitzMMS98,
+  author    = {Mark Horowitz and
+               Margaret Martonosi and
+               Todd C. Mowry and
+               Michael D. Smith},
+  title     = {Informing Memory Operations: Memory Performance Feedback Mechanisms and Their Applications},
+  journal   = tocs,
+  volume    = {16},
+  number    = {2},
+  year      = 1998,
+  pages     = {170-205},
+}
+
+@article{DBLP:journals/tocs/AlexandrovISS98,
+  author    = {Albert Alexandrov and
+               Maximilian Ibel and
+               Klaus E. Schauser and
+               Chris J. Scheiman},
+  title     = {UFO: A Personal Global File System Based on User-Level Extensions to the Operating System},
+  journal   = tocs,
+  volume    = {16},
+  number    = {3},
+  year      = 1998,
+  pages     = {207-233},
+}
+
+@article{DBLP:journals/tocs/GabbayM98,
+  author    = {Freddy Gabbay and
+               Avi Mendelson},
+  title     = {Using Value Prediction to Increase the Power of Speculative Execution Hardware},
+  journal   = tocs,
+  volume    = {16},
+  number    = {3},
+  year      = 1998,
+  pages     = {234-270},
+}
+
+@article{DBLP:journals/tocs/JuurlinkW98,
+  author    = {Ben H. H. Juurlink and
+               Harry A. G. Wijshoff},
+  title     = {A Quantitative Comparison of Parallel Computation Models},
+  journal   = tocs,
+  volume    = {16},
+  number    = {3},
+  year      = 1998,
+  pages     = {271-318},
+}
+
+@article{DBLP:journals/tocs/BhattiHSC98,
+  author    = {Nina T. Bhatti and
+               Matti A. Hiltunen and
+               Richard D. Schlichting and
+               Wanda Chiu},
+  title     = {Coyote: A System for Constructing Fine-Grain Configurable Communication Services},
+  journal   = tocs,
+  volume    = {16},
+  number    = {4},
+  year      = 1998,
+  pages     = {321-366},
+}
+
+@article{DBLP:journals/tocs/Epema98,
+  author    = {Dick H. J. Epema},
+  title     = {Decay-Usage Scheduling in Multiprocessors},
+  journal   = tocs,
+  volume    = {16},
+  number    = {4},
+  year      = 1998,
+  pages     = {367-415},
+}
+
+@article{DBLP:journals/tocs/KontothanassisWS97,
+  author    = {Leonidas I. Kontothanassis and
+               Robert W. Wisniewski and
+               Michael L. Scott},
+  title     = {Scheduler-Conscious Synchronization},
+  journal   = tocs,
+  volume    = {15},
+  number    = {1},
+  year      = 1997,
+  pages     = {3-40},
+}
+
+@article{DBLP:journals/tocs/Kotz97,
+  author    = {David Kotz},
+  title     = {Disk-Directed I/O for MIMD Multiprocessors},
+  journal   = tocs,
+  volume    = {15},
+  number    = {1},
+  year      = 1997,
+  pages     = {41-74},
+}
+
+@article{DBLP:journals/tocs/Steenkiste97,
+  author    = {Peter Steenkiste},
+  title     = {A High-Speed Network Interface for Distributed-Memory Systems: Architecture and Applications},
+  journal   = tocs,
+  volume    = {15},
+  number    = {1},
+  year      = 1997,
+  pages     = {75-109},
+}
+
+@article{DBLP:journals/tocs/Anderson97,
+  author    = {David P. Anderson},
+  title     = {Device Reservation in Audio/Video Editing Systems},
+  journal   = tocs,
+  volume    = {15},
+  number    = {2},
+  year      = 1997,
+  pages     = {111-133},
+}
+
+@article{DBLP:journals/tocs/AndersonRJ97,
+  author    = {James H. Anderson and
+               Srikanth Ramamurthy and
+               Kevin Jeffay},
+  title     = {Real-Time Computing with Lock-Free Shared Objects},
+  journal   = tocs,
+  volume    = {15},
+  number    = {2},
+  year      = 1997,
+  pages     = {134-165},
+}
+
+@article{DBLP:journals/tocs/MahmoodLS97,
+  author    = {Ausif Mahmood and
+               Donald J. Lynch and
+               Roger B. Shaffer},
+  title     = {Optimally Adaptive, Minimum-Distance, Circuit-Switched Routing in Hypercubes},
+  journal   = tocs,
+  volume    = {15},
+  number    = {2},
+  year      = 1997,
+  pages     = {166-193},
+}
+
+@article{DBLP:journals/tocs/PfitzmannW97,
+  author    = {Birgit Pfitzmann and
+               Michael Waidner},
+  title     = {Strong Loss Tolerance of Electronic Coin Systems},
+  journal   = tocs,
+  volume    = {15},
+  number    = {2},
+  year      = 1997,
+  pages     = {194-213},
+}
+
+@article{DBLP:journals/tocs/Mogul97,
+  author    = {Jeffrey C. Mogul},
+  title     = {K. K. Ramakrishnan: Eliminating Receive Livelock in an Interrupt-Driven Kemel},
+  journal   = tocs,
+  volume    = {15},
+  number    = {3},
+  year      = 1997,
+  pages     = {217-252},
+}
+
+@article{DBLP:journals/tocs/Harchol-BalterD97,
+  author    = {Mor Harchol-Balter and
+               Allen B. Downey},
+  title     = {Exploiting Process Lifetime Distributions for Dynamic Load Balancing},
+  journal   = tocs,
+  volume    = {15},
+  number    = {3},
+  year      = 1997,
+  pages     = {253-285},
+}
+
+@article{DBLP:journals/tocs/KriegerS97,
+  author    = {Orran Krieger and
+               Michael Stumm},
+  title     = {HFS: A Performance-Oriented Flexible File System Based on Building-Block Compositions},
+  journal   = tocs,
+  volume    = {15},
+  number    = {3},
+  year      = 1997,
+  pages     = {286-321},
+}
+
+@article{DBLP:journals/tocs/LoEELST97,
+  author    = {Jack L. Lo and
+               Susan J. Eggers and
+               Joel S. Emer and
+               Henry M. Levy and
+               Rebecca L. Stamm and
+               Dean M. Tullsen},
+  title     = {Converting Thread-Level Parallelism to Instruction-Level Parallelism via Simultaneous Multithreading},
+  journal   = tocs,
+  volume    = {15},
+  number    = {3},
+  year      = 1997,
+  pages     = {322-354},
+}
+
+@article{DBLP:journals/tocs/AndersonBDGHLSVWW97,
+  author    = {Jennifer-Ann M. Anderson and
+               Lance M. Berc and
+               Jeffrey Dean and
+               Sanjay Ghemawat and
+               Monika Rauch Henzinger and
+               Shun-Tak Leung and
+               Richard L. Sites and
+               Mark T. Vandevoorde and
+               Carl A. Waldspurger and
+               William E. Weihl},
+  title     = {Continuous Profiling: Where Have All the Cycles Gone?},
+  journal   = tocs,
+  volume    = {15},
+  number    = {4},
+  year      = 1997,
+  pages     = {357-390},
+}
+
+@article{DBLP:journals/tocs/SavageBNSA97,
+  author    = {Stefan Savage and
+               Michael Burrows and
+               Greg Nelson and
+               Patrick Sobalvarro and
+               Thomas E. Anderson},
+  title     = {Eraser: A Dynamic Data Race Detector for Multithreaded Programs},
+  journal   = tocs,
+  volume    = {15},
+  number    = {4},
+  year      = 1997,
+  pages     = {391-411},
+}
+
+@article{DBLP:journals/tocs/BugnionDGR97,
+  author    = {Edouard Bugnion and
+               Scott Devine and
+               Kinshuk Govil and
+               Mendel Rosenblum},
+  title     = {Disco: Running Commodity Operating Systems on Scalable Multiprocessors},
+  journal   = tocs,
+  volume    = {15},
+  number    = {4},
+  year      = 1997,
+  pages     = {412-447},
+}
+
+@article{DBLP:journals/tocs/ChenECMDSS96,
+  author    = {J. Bradley Chen and
+               Yasuhiro Endo and
+               Kee Chan and
+               David Mazi{\`e}res and
+               Antonio Dias and
+               Margo I. Seltzer and
+               Michael D. Smith},
+  title     = {The Measured Performance of Personal Computer Operating Systems},
+  journal   = tocs,
+  volume    = {14},
+  number    = {1},
+  year      = 1996,
+  pages     = {3-40},
+}
+
+@article{DBLP:journals/tocs/AndersonDNPRW96,
+  author    = {Thomas E. Anderson and
+               Michael Dahlin and
+               Jeanna M. Neefe and
+               David A. Patterson and
+               Drew S. Roselli and
+               Randolph Y. Wang},
+  title     = {Serverless Network File Systems},
+  journal   = tocs,
+  volume    = {14},
+  number    = {1},
+  year      = 1996,
+  pages     = {41-79},
+}
+
+@article{DBLP:journals/tocs/BressoudS96,
+  author    = {Thomas C. Bressoud and
+               Fred B. Schneider},
+  title     = {Hypervisor-Based Fault Tolerance},
+  journal   = tocs,
+  volume    = {14},
+  number    = {1},
+  year      = 1996,
+  pages     = {80-107},
+}
+
+@article{DBLP:journals/tocs/WilkesGSS96,
+  author    = {John Wilkes and
+               Richard A. Golding and
+               Carl Staelin and
+               Tim Sullivan},
+  title     = {The HP AutoRAID Hierarchical Storage System},
+  journal   = tocs,
+  volume    = {14},
+  number    = {1},
+  year      = 1996,
+  pages     = {108-136},
+}
+
+@article{DBLP:journals/tocs/GrimshawWS96,
+  author    = {Andrew S. Grimshaw and
+               Jon B. Weissman and
+               W. Timothy Strayer},
+  title     = {Portable Run-Time Support for Dynamic Object-Oriented Parallel Processing},
+  journal   = tocs,
+  volume    = {14},
+  number    = {2},
+  year      = 1996,
+  pages     = {139-170},
+}
+
+@article{DBLP:journals/tocs/HardyS96,
+  author    = {Darren R. Hardy and
+               Michael F. Schwartz},
+  title     = {Customized Information Extraction as a Basis for Resource Discovery},
+  journal   = tocs,
+  volume    = {14},
+  number    = {2},
+  year      = 1996,
+  pages     = {171-199},
+}
+
+@article{DBLP:journals/tocs/SpasojevicS96,
+  author    = {Mirjana Spasojevic and
+               Mahadev Satyanarayanan},
+  title     = {An Empirical Styudy of a Wide-Area Distributed File System},
+  journal   = tocs,
+  volume    = {14},
+  number    = {2},
+  year      = 1996,
+  pages     = {200-222},
+}
+
+@article{DBLP:journals/tocs/CorbettF96,
+  author    = {Peter F. Corbett and
+               Dror G. Feitelson},
+  title     = {The Vesta Parallel File System},
+  journal   = tocs,
+  volume    = {14},
+  number    = {3},
+  year      = 1996,
+  pages     = {225-264},
+}
+
+@article{DBLP:journals/tocs/CristianDD96,
+  author    = {Flaviu Cristian and
+               Bob Dancey and
+               Jon Dehn},
+  title     = {Fault-Tolerance in Air Traffic Control Systems},
+  journal   = tocs,
+  volume    = {14},
+  number    = {3},
+  year      = 1996,
+  pages     = {265-286},
+}
+
+@article{DBLP:journals/tocs/DevarakondaKM96,
+  author    = {Murthy V. Devarakonda and
+               Bill Kish and
+               Ajay Mohindra},
+  title     = {Recovery in the Calypso File System},
+  journal   = tocs,
+  volume    = {14},
+  number    = {3},
+  year      = 1996,
+  pages     = {287-310},
+}
+
+@article{DBLP:journals/tocs/CaoFKL96,
+  author    = {Pei Cao and
+               Edward W. Felten and
+               Anna R. Karlin and
+               Kai Li},
+  title     = {Implementation and Performance of Integrated Application-Controlled File Caching, Prefetching, and Disk Scheduling},
+  journal   = tocs,
+  volume    = {14},
+  number    = {4},
+  year      = 1996,
+  pages     = {311-343},
+}
+
+@article{DBLP:journals/tocs/SaavedraS96,
+  author    = {Rafael H. Saavedra and
+               Alan Jay Smith},
+  title     = {Analysis of Benchmark Characteristics and Benchmark Performance Prediction},
+  journal   = tocs,
+  volume    = {14},
+  number    = {4},
+  year      = 1996,
+  pages     = {344-384},
+}
+
+@article{DBLP:journals/tocs/ShavitZ96,
+  author    = {Nir Shavit and
+               Asaph Zemach},
+  title     = {Diffracting Trees},
+  journal   = tocs,
+  volume    = {14},
+  number    = {4},
+  year      = 1996,
+  pages     = {385-428},
+}
+
+@article{DBLP:journals/tocs/Bates95,
+  author    = {Peter C. Bates},
+  title     = {Debugging Heterogeneous Distributed Systems Using Event-Based Models of Behavior},
+  journal   = tocs,
+  volume    = {13},
+  number    = {1},
+  year      = 1995,
+  pages     = {1-31},
+}
+
+@article{DBLP:journals/tocs/SugumarA95,
+  author    = {Rabin A. Sugumar and
+               Santosh G. Abraham},
+  title     = {Set-Associative Cache Simulation Using Generalized Binomial Trees},
+  journal   = tocs,
+  volume    = {13},
+  number    = {1},
+  year      = 1995,
+  pages     = {32-56},
+}
+
+@article{DBLP:journals/tocs/TullsenE95,
+  author    = {Dean M. Tullsen and
+               Susan J. Eggers},
+  title     = {Effective Cache Prefetching on Bus-Based Multiprocessors},
+  journal   = tocs,
+  volume    = {13},
+  number    = {1},
+  year      = 1995,
+  pages     = {57-88},
+}
+
+@article{DBLP:journals/tocs/AkyurekS95,
+  author    = {Sedat Aky{\"u}rek and
+               Kenneth Salem},
+  title     = {Adaptive Block Rearrangement},
+  journal   = tocs,
+  volume    = {13},
+  number    = {2},
+  year      = 1995,
+  pages     = {89-121},
+}
+
+@article{DBLP:journals/tocs/Hosseini-KhayatB95,
+  author    = {Saied Hosseini-Khayat and
+               Andreas D. Bovopoulos},
+  title     = {A Simple and Efficient Bus Management Scheme that Supports Continuous Streams},
+  journal   = tocs,
+  volume    = {13},
+  number    = {2},
+  year      = 1995,
+  pages     = {122-140},
+}
+
+@article{DBLP:journals/tocs/SingHG95,
+  author    = {Jaswinder Pal Singh and
+               John L. Hennessy and
+               Anoop Gupta},
+  title     = {Implications of Hierarchical N-Body Methods for Multiprocessor Architectures},
+  journal   = tocs,
+  volume    = {13},
+  number    = {2},
+  year      = 1995,
+  pages     = {141-202},
+}
+
+@article{DBLP:journals/tocs/CarterBZ95,
+  author    = {John B. Carter and
+               John K. Bennett and
+               Willy Zwaenepoel},
+  title     = {Techniques for Reducing Consistency-Related Communication in Distributed Shared-Memory Systems},
+  journal   = tocs,
+  volume    = {13},
+  number    = {3},
+  year      = 1995,
+  pages     = {205-243},
+}
+
+@article{DBLP:journals/tocs/DiwanTM95,
+  author    = {Amer Diwan and
+               David Tarditi and
+               J. Eliot B. Moss},
+  title     = {Memory System Performance of Programs with Intensive Heap Allocation},
+  journal   = tocs,
+  volume    = {13},
+  number    = {3},
+  year      = 1995,
+  pages     = {244-273},
+}
+
+@article{DBLP:journals/tocs/HartmanO95,
+  author    = {John H. Hartman and
+               John K. Ousterhout},
+  title     = {The Zebra Striped Network File System},
+  journal   = tocs,
+  volume    = {13},
+  number    = {3},
+  year      = 1995,
+  pages     = {274-310},
+}
+
+@article{DBLP:journals/tocs/AmirMMAC95,
+  author    = {Yair Amir and
+               Louise E. Moser and
+               P. M. Melliar-Smith and
+               Deborah A. Agarwal and
+               P. Ciarfella},
+  title     = {The Totem Single-Ring Ordering and Membership Protocol},
+  journal   = tocs,
+  volume    = {13},
+  number    = {4},
+  year      = 1995,
+  pages     = {311-342},
+}
+
+@article{DBLP:journals/tocs/HerlihyLS95,
+  author    = {Maurice Herlihy and
+               Beng-Hong Lim and
+               Nir Shavit},
+  title     = {Scalable Concurrent Counting},
+  journal   = tocs,
+  volume    = {13},
+  number    = {4},
+  year      = 1995,
+  pages     = {343-364},
+}
+
+@article{DBLP:journals/tocs/MandrioliMM95,
+  author    = {Dino Mandrioli and
+               Sandro Morasca and
+               Angelo Morzenti},
+  title     = {Generating Test Cases for Real-Time Systems from Logic Specifications},
+  journal   = tocs,
+  volume    = {13},
+  number    = {4},
+  year      = 1995,
+  pages     = {365-398},
+}
+
+@article{DBLP:journals/tocs/Birman94,
+  author    = {Kenneth P. Birman},
+  title     = {Editorial},
+  journal   = tocs,
+  volume    = {12},
+  number    = {1},
+  year      = 1994,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tocs/WobberAB94,
+  author    = {Edward Wobber and
+               Mart{\'\i}n Abadi and
+               Michael Burrows},
+  title     = {Authentication in the Taos Operating System},
+  journal   = tocs,
+  volume    = {12},
+  number    = {1},
+  year      = 1994,
+  pages     = {3-32},
+}
+
+@article{DBLP:journals/tocs/SatyanarayananMKSK94,
+  author    = {Mahadev Satyanarayanan and
+               Henry H. Mashburn and
+               Puneet Kumar and
+               David C. Steere and
+               James J. Kistler},
+  title     = {Lightweight Recoverable Virtual Memory},
+  journal   = tocs,
+  volume    = {12},
+  number    = {1},
+  year      = 1994,
+  pages     = {33-57},
+}
+
+@article{DBLP:journals/tocs/HeidemannP94,
+  author    = {John S. Heidemann and
+               Gerald J. Popek},
+  title     = {File-System Development with Stackable Layers},
+  journal   = tocs,
+  volume    = {12},
+  number    = {1},
+  year      = 1994,
+  pages     = {58-89},
+}
+
+@article{DBLP:journals/tocs/AttiyaW94,
+  author    = {Hagit Attiya and
+               Jennifer L. Welch},
+  title     = {Sequential Consistency versus Linearizability},
+  journal   = tocs,
+  volume    = {12},
+  number    = {2},
+  year      = 1994,
+  pages     = {91-122},
+}
+
+@article{DBLP:journals/tocs/MannBHJS94,
+  author    = {Timothy Mann and
+               Andrew Birrell and
+               Andy Hisgen and
+               Charles Jerian and
+               Garret Swart},
+  title     = {A Coherent Distributed File Cache with Directory Write-Behind},
+  journal   = tocs,
+  volume    = {12},
+  number    = {2},
+  year      = 1994,
+  pages     = {123-164},
+}
+
+@article{DBLP:journals/tocs/SatyanarayananMKSK94a,
+  author    = {Mahadev Satyanarayanan and
+               Henry H. Mashburn and
+               Puneet Kumar and
+               David C. Steere and
+               James J. Kistler},
+  title     = {Lightweight Recoverable Virtual Memory - Corrigendum},
+  journal   = tocs,
+  volume    = {12},
+  number    = {2},
+  year      = 1994,
+  pages     = {165-172},
+}
+
+@article{DBLP:journals/tocs/Birman94a,
+  author    = {Kenneth P. Birman},
+  title     = {Preface to the Special Issues on Computer Architecture},
+  journal   = tocs,
+  volume    = {12},
+  number    = {3},
+  year      = 1994,
+  pages     = {173},
+}
+
+@article{DBLP:journals/tocs/UhligNSMSB94,
+  author    = {Richard Uhlig and
+               David Nagle and
+               Timothy J. Stanley and
+               Trevor N. Mudge and
+               Stuart Sechrest and
+               Richard B. Brown},
+  title     = {Design Tradeoffs for Software-Managed TLBs},
+  journal   = tocs,
+  volume    = {12},
+  number    = {3},
+  year      = 1994,
+  pages     = {175-205},
+}
+
+@article{DBLP:journals/tocs/StodolskyHCG94,
+  author    = {Daniel Stodolsky and
+               Mark Holland and
+               William V. Courtright II and
+               Garth A. Gibson},
+  title     = {Parity-Logging Disk Arrays},
+  journal   = tocs,
+  volume    = {12},
+  number    = {3},
+  year      = 1994,
+  pages     = {206-235},
+}
+
+@article{DBLP:journals/tocs/CaoLVW94,
+  author    = {Pei Cao and
+               Swee Boon Lim and
+               Shivakumar Venkataraman and
+               John Wilkes},
+  title     = {The TickerTAIP Parallel RAID Architecture},
+  journal   = tocs,
+  volume    = {12},
+  number    = {3},
+  year      = 1994,
+  pages     = {236-269},
+}
+
+@article{DBLP:journals/tocs/ChaseLFL94,
+  author    = {Jeffrey S. Chase and
+               Henry M. Levy and
+               Michael J. Feeley and
+               Edward D. Lazowska},
+  title     = {Sharing and Protection in a Single-Address-Space Operating System},
+  journal   = tocs,
+  volume    = {12},
+  number    = {4},
+  year      = 1994,
+  pages     = {271-307},
+}
+
+@article{DBLP:journals/tocs/ChenP94,
+  author    = {Peter M. Chen and
+               David A. Patterson},
+  title     = {A New Approach to I/O Performance Evaluation - Self-Scaling I/O Benchmarks, Predicted I/O Performance},
+  journal   = tocs,
+  volume    = {12},
+  number    = {4},
+  year      = 1994,
+  pages     = {308-339},
+}
+
+@article{DBLP:journals/tocs/ReiterBR94,
+  author    = {Michael K. Reiter and
+               Kenneth P. Birman and
+               Robbert van Renesse},
+  title     = {A Security Architecture for Fault-Toerant Systems},
+  journal   = tocs,
+  volume    = {12},
+  number    = {4},
+  year      = 1994,
+  pages     = {340-371},
+}
+
+@article{DBLP:journals/tocs/EagerZ93,
+  author    = {Derek L. Eager and
+               John Zahorjan},
+  title     = {Chores: Enhanced Run-Time Support for Shared-Memory Parallel Computing},
+  journal   = tocs,
+  volume    = {11},
+  number    = {1},
+  year      = 1993,
+  pages     = {1-32},
+}
+
+@article{DBLP:journals/tocs/GheithS93,
+  author    = {Ahmed Gheith and
+               Karsten Schwan},
+  title     = {CHAOS-arc: Kernel Support for Multiweight Objects, Invocations, and Atomicity in Real-Time Multiprocessor Applications},
+  journal   = tocs,
+  volume    = {11},
+  number    = {1},
+  year      = 1993,
+  pages     = {33-72},
+}
+
+@article{DBLP:journals/tocs/KaashoekRST93,
+  author    = {M. Frans Kaashoek and
+               Robbert van Renesse and
+               Hans van Staveren and
+               Andrew S. Tanenbaum},
+  title     = {FLIP: An Internetwork Protocol for Supporting Distributed Systems},
+  journal   = tocs,
+  volume    = {11},
+  number    = {1},
+  year      = 1993,
+  pages     = {73-106},
+}
+
+@article{DBLP:journals/tocs/Birman93,
+  author    = {Kenneth P. Birman},
+  title     = {Editorial},
+  journal   = tocs,
+  volume    = {11},
+  number    = {2},
+  year      = 1993,
+  pages     = {107-108},
+}
+
+@article{DBLP:journals/tocs/GopalakrishnanF93,
+  author    = {Ganesh Gopalakrishnan and
+               Richard Fujimoto},
+  title     = {Design and Verification of the Rollback Chip Using HOP: A Case Study of Formal Methods Applied to Hardware design},
+  journal   = tocs,
+  volume    = {11},
+  number    = {2},
+  year      = 1993,
+  pages     = {109-145},
+}
+
+@article{DBLP:journals/tocs/McCannVZ93,
+  author    = {Cathy McCann and
+               Raj Vaswani and
+               John Zahorjan},
+  title     = {A Dynamic Processor Allocation Policy for Multiprogrammed Shared-memory Multiprocessors},
+  journal   = tocs,
+  volume    = {11},
+  number    = {2},
+  year      = 1993,
+  pages     = {146-178},
+}
+
+@article{DBLP:journals/tocs/ThekkathL93,
+  author    = {Chandramohan A. Thekkath and
+               Henry M. Levy},
+  title     = {Limits to Low-Latency Communication on High-Speed Networks},
+  journal   = tocs,
+  volume    = {11},
+  number    = {2},
+  year      = 1993,
+  pages     = {179-203},
+}
+
+@article{DBLP:journals/tocs/AmmannJ93,
+  author    = {Paul Ammann and
+               Sushil Jajodia},
+  title     = {Distributed Timestamp Generation in Planar Lattice Networks},
+  journal   = tocs,
+  volume    = {11},
+  number    = {3},
+  year      = 1993,
+  pages     = {205-225},
+}
+
+@article{DBLP:journals/tocs/Anderson93,
+  author    = {David P. Anderson},
+  title     = {Metascheduling for Continuous Media},
+  journal   = tocs,
+  volume    = {11},
+  number    = {3},
+  year      = 1993,
+  pages     = {226-252},
+}
+
+@article{DBLP:journals/tocs/LimA93,
+  author    = {Beng-Hong Lim and
+               Anant Agarwal},
+  title     = {Waiting Algorithms for Synchronization in Large-Scale Multiprocessors},
+  journal   = tocs,
+  volume    = {11},
+  number    = {3},
+  year      = 1993,
+  pages     = {253-294},
+}
+
+@article{DBLP:journals/tocs/Birman93a,
+  author    = {Kenneth P. Birman},
+  title     = {Preface to the Special Issue on Architectural Support for Programming Languages and Systems},
+  journal   = tocs,
+  volume    = {11},
+  number    = {4},
+  year      = 1993,
+  pages     = {299},
+}
+
+@article{DBLP:journals/tocs/HillLRW93,
+  author    = {Mark D. Hill and
+               James R. Larus and
+               Steven K. Reinhardt and
+               David A. Wood},
+  title     = {Cooperative Shared Memory: Software and Hardware Support for Scalable Multiprocesors},
+  journal   = tocs,
+  volume    = {11},
+  number    = {4},
+  year      = 1993,
+  pages     = {300-318},
+}
+
+@article{DBLP:journals/tocs/AndersonOST93,
+  author    = {Thomas E. Anderson and
+               Susan S. Owicki and
+               James B. Saxe and
+               Charles P. Thacker},
+  title     = {High Speed Switch Scheduling for Local Area Networks},
+  journal   = tocs,
+  volume    = {11},
+  number    = {4},
+  year      = 1993,
+  pages     = {319-352},
+}
+
+@article{DBLP:journals/tocs/LiP93,
+  author    = {Wei Li and
+               Keshav Pingali},
+  title     = {Access Normalization: Loop Restructuring for NUMA Compilers},
+  journal   = tocs,
+  volume    = {11},
+  number    = {4},
+  year      = 1993,
+  pages     = {353-375},
+}
+
+@article{DBLP:journals/tocs/MahlkeCBHHRS93,
+  author    = {Scott A. Mahlke and
+               William Y. Chen and
+               Roger A. Bringmann and
+               Richard E. Hank and
+               Wen-mei W. Hwu and
+               B. Ramakrishna Rau and
+               Michael S. Schlansker},
+  title     = {Sentinel Scheduling for VLIW and Superscalar Processors},
+  journal   = tocs,
+  volume    = {11},
+  number    = {4},
+  year      = 1993,
+  pages     = {376-408},
+}
+
+@article{DBLP:journals/tocs/Jones92,
+  author    = {Anita K. Jones},
+  title     = {Preface to the Special Issue on Operating System Principles},
+  journal   = tocs,
+  volume    = {10},
+  number    = {1},
+  year      = 1992,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tocs/KistlerS92,
+  author    = {James J. Kistler and
+               Mahadev Satyanarayanan},
+  title     = {Disconnected Operation in the Coda File System},
+  journal   = tocs,
+  volume    = {10},
+  number    = {1},
+  year      = 1992,
+  pages     = {3-25},
+}
+
+@article{DBLP:journals/tocs/RosenblumO92,
+  author    = {Mendel Rosenblum and
+               John K. Ousterhout},
+  title     = {The Design and Implementation of a Log-Structured File System},
+  journal   = tocs,
+  volume    = {10},
+  number    = {1},
+  year      = 1992,
+  pages     = {26-52},
+}
+
+@article{DBLP:journals/tocs/AndersonBLL92,
+  author    = {Thomas E. Anderson and
+               Brian N. Bershad and
+               Edward D. Lazowska and
+               Henry M. Levy},
+  title     = {Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism},
+  journal   = tocs,
+  volume    = {10},
+  number    = {1},
+  year      = 1992,
+  pages     = {53-79},
+}
+
+@article{DBLP:journals/tocs/Mogul92,
+  author    = {Jeffrey C. Mogul},
+  title     = {Network Locality at the Scale of Processes},
+  journal   = tocs,
+  volume    = {10},
+  number    = {2},
+  year      = 1992,
+  pages     = {81-109},
+}
+
+@article{DBLP:journals/tocs/OMalleyP92,
+  author    = {Sean W. O'Malley and
+               Larry L. Peterson},
+  title     = {A Dynamic Network Architecture},
+  journal   = tocs,
+  volume    = {10},
+  number    = {2},
+  year      = 1992,
+  pages     = {110-143},
+}
+
+@article{DBLP:journals/tocs/RamanathanS92,
+  author    = {Parameswaran Ramanathan and
+               Kang G. Shin},
+  title     = {Delivery of Time-Critical Message Using a Multiple Copy Approach},
+  journal   = tocs,
+  volume    = {10},
+  number    = {2},
+  year      = 1992,
+  pages     = {114-166},
+}
+
+@article{DBLP:journals/tocs/HsuY92,
+  author    = {William Tsun-Yuk Hsu and
+               Pen-Chung Yew},
+  title     = {An Effective Synchronization Network for Hot-Spot Accesses},
+  journal   = tocs,
+  volume    = {10},
+  number    = {3},
+  year      = 1992,
+  pages     = {167-189},
+}
+
+@article{DBLP:journals/tocs/AtkinsC92,
+  author    = {M. Stella Atkins and
+               M. Y. Coady},
+  title     = {Adaptable Concurrency Control for Atomic Data Types},
+  journal   = tocs,
+  volume    = {10},
+  number    = {3},
+  year      = 1992,
+  pages     = {190-225},
+}
+
+@article{DBLP:journals/tocs/GlasgowMP92,
+  author    = {Janice I. Glasgow and
+               Glenn H. MacEwen and
+               Prakash Panangaden},
+  title     = {A Logic for Reasoning About Security},
+  journal   = tocs,
+  volume    = {10},
+  number    = {3},
+  year      = 1992,
+  pages     = {226-264},
+}
+
+@article{DBLP:journals/tocs/LampsonABW92,
+  author    = {Butler W. Lampson and
+               Mart{\'\i}n Abadi and
+               Michael Burrows and
+               Edward Wobber},
+  title     = {Authentication in Distributed Systems: Theory and Practice},
+  journal   = tocs,
+  volume    = {10},
+  number    = {4},
+  year      = 1992,
+  pages     = {265-310},
+}
+
+@article{DBLP:journals/tocs/AndersonOG92,
+  author    = {David P. Anderson and
+               Yoshitomo Osawa and
+               Ramesh Govindan},
+  title     = {A File System for Continuous Media},
+  journal   = tocs,
+  volume    = {10},
+  number    = {4},
+  year      = 1992,
+  pages     = {311-337},
+}
+
+@article{DBLP:journals/tocs/KesslerH92,
+  author    = {Richard E. Kessler and
+               Mark D. Hill},
+  title     = {Page Placement Algorithms for Large Real-Indexed Caches},
+  journal   = tocs,
+  volume    = {10},
+  number    = {4},
+  year      = 1992,
+  pages     = {338-359},
+}
+
+@article{DBLP:journals/tocs/LadinLSG92,
+  author    = {Rivka Ladin and
+               Barbara Liskov and
+               Liuba Shrira and
+               Sanjay Ghemawat},
+  title     = {Providing High Availability Using Lazy Replication},
+  journal   = tocs,
+  volume    = {10},
+  number    = {4},
+  year      = 1992,
+  pages     = {360-391},
+}
+
+@article{DBLP:journals/tocs/AgrawalA91,
+  author    = {Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {An Efficient and Fault-Tolerant Solution for Distributed Mutual Exclusion},
+  journal   = tocs,
+  volume    = {9},
+  number    = {1},
+  year      = 1991,
+  pages     = {1-20},
+}
+
+@article{DBLP:journals/tocs/Mellor-CrummeyS91,
+  author    = {John M. Mellor-Crummey and
+               Michael L. Scott},
+  title     = {Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors},
+  journal   = tocs,
+  volume    = {9},
+  number    = {1},
+  year      = 1991,
+  pages     = {21-65},
+}
+
+@article{DBLP:journals/tocs/HuguetL91,
+  author    = {Miquel Huguet and
+               Tom{\'a}s Lang},
+  title     = {Architectural Support for Reduced Register Saving / Restoring in Single-Window Register Files},
+  journal   = tocs,
+  volume    = {9},
+  number    = {1},
+  year      = 1991,
+  pages     = {66-97},
+}
+
+@article{DBLP:journals/tocs/Peterson91,
+  author    = {Larry L. Peterson},
+  title     = {Guest Editorial - Special Section on Communication Architectures and Protocols},
+  journal   = tocs,
+  volume    = {9},
+  number    = {2},
+  year      = 1991,
+  pages     = {99},
+}
+
+@article{DBLP:journals/tocs/Zhang91,
+  author    = {Lixia Zhang},
+  title     = {VirtualClock: A New Traffic Control Algorithm for Packet-Switched Networks},
+  journal   = tocs,
+  volume    = {9},
+  number    = {2},
+  year      = 1991,
+  pages     = {101-124},
+}
+
+@article{DBLP:journals/tocs/LiskovSW91,
+  author    = {Barbara Liskov and
+               Liuba Shrira and
+               John Wroclawski},
+  title     = {Efficient At-Most-Once Messages Based on Synchronized Clocks},
+  journal   = tocs,
+  volume    = {9},
+  number    = {2},
+  year      = 1991,
+  pages     = {125-142},
+}
+
+@article{DBLP:journals/tocs/BihariS91,
+  author    = {Thomas E. Bihari and
+               Karsten Schwan},
+  title     = {Dynamic Adaption of Real-Time Software},
+  journal   = tocs,
+  volume    = {9},
+  number    = {2},
+  year      = 1991,
+  pages     = {143-174},
+}
+
+@article{DBLP:journals/tocs/BershadALL91,
+  author    = {Brian N. Bershad and
+               Thomas E. Anderson and
+               Edward D. Lazowska and
+               Henry M. Levy},
+  title     = {User-Level Interprocess Communication for Shared Memory Multiprocessors},
+  journal   = tocs,
+  volume    = {9},
+  number    = {2},
+  year      = 1991,
+  pages     = {175-198},
+}
+
+@article{DBLP:journals/tocs/Smith91,
+  author    = {Alan Jay Smith},
+  title     = {Preface to the Special Section on Measurement and Modeling of Computer Systems},
+  journal   = tocs,
+  volume    = {9},
+  number    = {3},
+  year      = 1991,
+  pages     = {199},
+}
+
+@article{DBLP:journals/tocs/GreenbergLM91,
+  author    = {Albert G. Greenberg and
+               Boris D. Lubachevsky and
+               Isi Mitrani},
+  title     = {Algorithms for Unboundedly Parallel Simulations},
+  journal   = tocs,
+  volume    = {9},
+  number    = {3},
+  year      = 1991,
+  pages     = {201-221},
+}
+
+@article{DBLP:journals/tocs/WangB91,
+  author    = {Wen-Hann Wang and
+               Jean-Loup Baer},
+  title     = {Efficient Trace-Driven Simulation Methods for Cache Performance Analysis},
+  journal   = tocs,
+  volume    = {9},
+  number    = {3},
+  year      = 1991,
+  pages     = {222-241},
+}
+
+@article{DBLP:journals/tocs/Garcia-MolinaS91,
+  author    = {Hector Garcia-Molina and
+               Annemarie Spauster},
+  title     = {Ordered and Reliable Multicast Communication},
+  journal   = tocs,
+  volume    = {9},
+  number    = {3},
+  year      = 1991,
+  pages     = {242-271},
+}
+
+@article{DBLP:journals/tocs/BirmanSS91,
+  author    = {Kenneth P. Birman and
+               Andr{\'e} Schiper and
+               Pat Stephenson},
+  title     = {Lightweigt Causal and Atomic Group Multicast},
+  journal   = tocs,
+  volume    = {9},
+  number    = {3},
+  year      = 1991,
+  pages     = {272-314},
+}
+
+@article{DBLP:journals/tocs/LaroweE91,
+  author    = {Richard P. LaRowe Jr. and
+               Carla Schlatter Ellis},
+  title     = {Experimental Comparison of Memory Management Policies for NUMA Multiprocessors},
+  journal   = tocs,
+  volume    = {9},
+  number    = {4},
+  year      = 1991,
+  pages     = {319-363},
+}
+
+@article{DBLP:journals/tocs/KarnP91,
+  author    = {Phil Karn and
+               Craig Partridge},
+  title     = {Improving Round-Trip Time Estimates in Reliable Transport Protocols},
+  journal   = tocs,
+  volume    = {9},
+  number    = {4},
+  year      = 1991,
+  pages     = {363-373},
+}
+
+@article{DBLP:journals/tocs/KandlurS91,
+  author    = {Dilip D. Kandlur and
+               Kang G. Shin},
+  title     = {Reliable Broadcast Algorithms for HARTS},
+  journal   = tocs,
+  volume    = {9},
+  number    = {4},
+  year      = 1991,
+  pages     = {374-398},
+}
+
+@article{DBLP:journals/tocs/AhamadA91,
+  author    = {Mustaque Ahamad and
+               Mostafa H. Ammar and
+               Shun Yan Cheung},
+  title     = {Multidimensional Voting},
+  journal   = tocs,
+  volume    = {9},
+  number    = {4},
+  year      = 1991,
+  pages     = {399-431},
+}
+
+@article{DBLP:journals/tocs/SchroederB90,
+  author    = {Michael D. Schroeder and
+               Michael Burrows},
+  title     = {Performance of Firefly RPC},
+  journal   = tocs,
+  volume    = {8},
+  number    = {1},
+  year      = 1990,
+  pages     = {1-17},
+}
+
+@article{DBLP:journals/tocs/BurrowsAN90,
+  author    = {Michael Burrows and
+               Mart{\'\i}n Abadi and
+               Roger M. Needham},
+  title     = {A Logic of Authentication},
+  journal   = tocs,
+  volume    = {8},
+  number    = {1},
+  year      = 1990,
+  pages     = {18-36},
+}
+
+@article{DBLP:journals/tocs/BershadALL90,
+  author    = {Brian N. Bershad and
+               Thomas E. Anderson and
+               Edward D. Lazowska and
+               Henry M. Levy},
+  title     = {Lightweight Remote Procedure Call},
+  journal   = tocs,
+  volume    = {8},
+  number    = {1},
+  year      = 1990,
+  pages     = {37-55},
+}
+
+@article{DBLP:journals/tocs/AndersonK90,
+  author    = {David P. Anderson and
+               Ron Kuivila},
+  title     = {A System for Computer Music Performance},
+  journal   = tocs,
+  volume    = {8},
+  number    = {1},
+  year      = 1990,
+  pages     = {56-82},
+}
+
+@article{DBLP:journals/tocs/DeeringC90,
+  author    = {Stephen E. Deering and
+               David R. Cheriton},
+  title     = {Multicast Routing in Datagram Internetworks and Extended LANs},
+  journal   = tocs,
+  volume    = {8},
+  number    = {2},
+  year      = 1990,
+  pages     = {85-110},
+}
+
+@article{DBLP:journals/tocs/SchwanB90,
+  author    = {Karsten Schwan and
+               Win Bo},
+  title     = {"Topologies" - Distributed Objects on Multicomputers},
+  journal   = tocs,
+  volume    = {8},
+  number    = {2},
+  year      = 1990,
+  pages     = {111-157},
+}
+
+@article{DBLP:journals/tocs/RamakrishnanJ90,
+  author    = {K. K. Ramakrishnan and
+               Raj Jain},
+  title     = {A Binary Feedback Scheme for Congestion Avoidance in Computer Networks},
+  journal   = tocs,
+  volume    = {8},
+  number    = {2},
+  year      = 1990,
+  pages     = {158-181},
+}
+
+@article{DBLP:journals/tocs/BensonAA90,
+  author    = {Glenn S. Benson and
+               Ian F. Akyildiz and
+               William F. Appelbe},
+  title     = {A Formal Protection Model of Security in Centralized, Parallel, and Distributed Systems},
+  journal   = tocs,
+  volume    = {8},
+  number    = {3},
+  year      = 1990,
+  pages     = {183-213},
+}
+
+@article{DBLP:journals/tocs/King90,
+  author    = {Richard P. King},
+  title     = {Disk Arm Movement in Anticipation of Future Requests},
+  journal   = tocs,
+  volume    = {8},
+  number    = {3},
+  year      = 1990,
+  pages     = {214-229},
+}
+
+@article{DBLP:journals/tocs/MitchellF90,
+  author    = {Chad L. Mitchell and
+               Michael J. Flynn},
+  title     = {The Effects of Processor Architecture on Instruction Memory Traffic},
+  journal   = tocs,
+  volume    = {8},
+  number    = {3},
+  year      = 1990,
+  pages     = {230-250},
+}
+
+@article{DBLP:journals/tocs/GotzheinB90,
+  author    = {Reinhard Gotzhein and
+               Gregor von Bochmann},
+  title     = {Deriving Protocol Specifications from Service Specifications Including Parameters},
+  journal   = tocs,
+  volume    = {8},
+  number    = {4},
+  year      = 1990,
+  pages     = {255-283},
+}
+
+@article{DBLP:journals/tocs/Marzullo90,
+  author    = {Keith Marzullo},
+  title     = {Tolerating Failures of Continuous-Valued Sensors},
+  journal   = tocs,
+  volume    = {8},
+  number    = {4},
+  year      = 1990,
+  pages     = {284-304},
+}
+
+@article{DBLP:journals/tocs/Lamport90,
+  author    = {Leslie Lamport},
+  title     = {Concurrent Reading and Writing of Clocks},
+  journal   = tocs,
+  volume    = {8},
+  number    = {4},
+  year      = 1990,
+  pages     = {305-310},
+}
+
+@article{DBLP:journals/tocs/GoldszmidtYK90,
+  author    = {Germ{\'a}n S. Goldszmidt and
+               Shaula Yemini and
+               Shmuel Katz},
+  title     = {High-Level Language Debugging for Concurrent Programs},
+  journal   = tocs,
+  volume    = {8},
+  number    = {4},
+  year      = 1990,
+  pages     = {311-336},
+}
+
+@article{DBLP:journals/tocs/BorgBGHO89,
+  author    = {Anita Borg and
+               Wolfgang Blau and
+               Wolfgang Graetsch and
+               Ferdinand Herrmann and
+               Wolfgang Oberle},
+  title     = {Fault Tolerance Under UNIX},
+  journal   = tocs,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {1-24},
+}
+
+@article{DBLP:journals/tocs/PittelliG89,
+  author    = {Frank M. Pittelli and
+               Hector Garcia-Molina},
+  title     = {Reliable Scheduling in a TMR Database System},
+  journal   = tocs,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {25-60},
+}
+
+@article{DBLP:journals/tocs/Raymond89,
+  author    = {Kerry Raymond},
+  title     = {A Tree-Based Algorithm for Distributed Mutual Exclusion},
+  journal   = tocs,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {61-77},
+}
+
+@article{DBLP:journals/tocs/ThompsonS89,
+  author    = {James G. Thompson and
+               Alan Jay Smith},
+  title     = {Efficient (Stack) Algorithms for Analysis of Write-Back and Sector Machines},
+  journal   = tocs,
+  volume    = {7},
+  number    = {1},
+  year      = 1989,
+  pages     = {78-116},
+}
+
+@article{DBLP:journals/tocs/GuptaFN89,
+  author    = {Anoop Gupta and
+               Charles Forgy and
+               Allen Newell},
+  title     = {High-Speed Implementations of Rule-Based Systems},
+  journal   = tocs,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {119-146},
+}
+
+@article{DBLP:journals/tocs/CheritonM89,
+  author    = {David R. Cheriton and
+               Timothy P. Mann},
+  title     = {Decentralizing a Global Naming Service for Improved Performance and Fault Tolerance},
+  journal   = tocs,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {147-183},
+}
+
+@article{DBLP:journals/tocs/AgarwalHH89,
+  author    = {Anant Agarwal and
+               Mark Horowitz and
+               John L. Hennessy},
+  title     = {An Analytical Cache Model},
+  journal   = tocs,
+  volume    = {7},
+  number    = {2},
+  year      = 1989,
+  pages     = {184-215},
+}
+
+@article{DBLP:journals/tocs/PetersonBS89,
+  author    = {Larry L. Peterson and
+               Nick C. Buchholz and
+               Richard D. Schlichting},
+  title     = {Preserving and Using Context Information in Interprocess Communication},
+  journal   = tocs,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {217-246},
+}
+
+@article{DBLP:journals/tocs/Satyanarayanan89,
+  author    = {Mahadev Satyanarayanan},
+  title     = {Integrating Security in a Large Distributed System},
+  journal   = tocs,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {247-280},
+}
+
+@article{DBLP:journals/tocs/Shankar89,
+  author    = {A. Udaya Shankar},
+  title     = {Verified Data Transfer Protocols with Variable Flow Control},
+  journal   = tocs,
+  volume    = {7},
+  number    = {3},
+  year      = 1989,
+  pages     = {281-316},
+}
+
+@article{DBLP:journals/tocs/LiH89,
+  author    = {Kai Li and
+               Paul Hudak},
+  title     = {Memory Coherence in Shared Virtual Memory Systems},
+  journal   = tocs,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {321-359},
+}
+
+@article{DBLP:journals/tocs/Ng89,
+  author    = {Tony P. Ng},
+  title     = {Using Histories to Implement Atomic Objects},
+  journal   = tocs,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {360-393},
+}
+
+@article{DBLP:journals/tocs/BarbaraGS89,
+  author    = {Daniel Barbar{\'a} and
+               Hector Garcia-Molina and
+               Annemarie Spauster},
+  title     = {Increasing Availability Under Mutual Exclusion Constraints with Dynamic Vote Reassignment},
+  journal   = tocs,
+  volume    = {7},
+  number    = {4},
+  year      = 1989,
+  pages     = {394-426},
+}
+
+@article{DBLP:journals/tocs/Jones88,
+  author    = {Anita K. Jones},
+  title     = {Preface: Special Issue on Operating System Principles},
+  journal   = tocs,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/tocs/TerryS88,
+  author    = {Douglas B. Terry and
+               Daniel C. Swinehart},
+  title     = {Managing Stored Voice in the Etherphone System},
+  journal   = tocs,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {3-27},
+}
+
+@article{DBLP:journals/tocs/ChangM88,
+  author    = {Albert Chang and
+               Mark F. Mergen},
+  title     = {801 Storage: Architecture and Programming},
+  journal   = tocs,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {28-50},
+}
+
+@article{DBLP:journals/tocs/HowardKMNSSW88,
+  author    = {John H. Howard and
+               Michael L. Kazar and
+               Sherri G. Menees and
+               David A. Nichols and
+               Mahadev Satyanarayanan and
+               Robert N. Sidebotham and
+               Michael J. West},
+  title     = {Scale and Performance in a Distributed File System},
+  journal   = tocs,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {51-81},
+}
+
+@article{DBLP:journals/tocs/HaskinMSC88,
+  author    = {Roger L. Haskin and
+               Yoni Malachi and
+               Wayne Sawdon and
+               Gregory Chan},
+  title     = {Recovery Management in QuickSilver},
+  journal   = tocs,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {82-108},
+}
+
+@article{DBLP:journals/tocs/JulLHB88,
+  author    = {Eric Jul and
+               Henry M. Levy and
+               Norman C. Hutchinson and
+               Andrew P. Black},
+  title     = {Fine-Grained Mobility in the Emerald System},
+  journal   = tocs,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {109-133},
+}
+
+@article{DBLP:journals/tocs/NelsonWO88,
+  author    = {Michael N. Nelson and
+               Brent B. Welch and
+               John K. Ousterhout},
+  title     = {Caching in the Sprite Network File System},
+  journal   = tocs,
+  volume    = {6},
+  number    = {1},
+  year      = 1988,
+  pages     = {134-154},
+}
+
+@article{DBLP:journals/tocs/Snodgrass88,
+  author    = {Richard T. Snodgrass},
+  title     = {A Relational Approach to Monitoring Complex Systems},
+  journal   = tocs,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {157-196},
+}
+
+@article{DBLP:journals/tocs/Sandhu88,
+  author    = {Ravi S. Sandhu},
+  title     = {The NTree: A Two Dimension Partial Order for Protection Groups},
+  journal   = tocs,
+  volume    = {6},
+  number    = {2},
+  year      = 1988,
+  pages     = {197-222},
+}
+
+@article{DBLP:journals/tocs/GrossHPR88,
+  author    = {Thomas R. Gross and
+               John L. Hennessy and
+               Steven A. Przybylski and
+               Christopher Rowen},
+  title     = {Measurement and Evaluation of the MIPS Architecture and Processor},
+  journal   = tocs,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {229-257},
+}
+
+@article{DBLP:journals/tocs/GiffordG88,
+  author    = {David K. Gifford and
+               Nathan Glasser},
+  title     = {Remote Pipes and Procedures for Efficient Distributed Communication},
+  journal   = tocs,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {258-283},
+}
+
+@article{DBLP:journals/tocs/JohnsonT88,
+  author    = {Dale M. Johnson and
+               F. Javier Thayer},
+  title     = {Stating Security Requirements with Tolerable Sets},
+  journal   = tocs,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {284-295},
+}
+
+@article{DBLP:journals/tocs/ColwellGJ88,
+  author    = {Robert P. Colwell and
+               Edward F. Gehringer and
+               E. Douglas Jensen},
+  title     = {Performance Effects of Architectural Complexity in the Intel 432},
+  journal   = tocs,
+  volume    = {6},
+  number    = {3},
+  year      = 1988,
+  pages     = {296-339},
+}
+
+@article{DBLP:journals/tocs/Peterson88,
+  author    = {Larry L. Peterson},
+  title     = {The Profile Naming Service},
+  journal   = tocs,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {341-364},
+}
+
+@article{DBLP:journals/tocs/Atkins88,
+  author    = {M. Stella Atkins},
+  title     = {Experiments in SR with Different Upcall Program Structures},
+  journal   = tocs,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {365-392},
+}
+
+@article{DBLP:journals/tocs/AgarwalHH88,
+  author    = {Anant Agarwal and
+               John L. Hennessy and
+               Mark Horowitz},
+  title     = {Cache Performance of Operating System and Multiprogramming Workloads},
+  journal   = tocs,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {393-431},
+}
+
+@article{DBLP:journals/tocs/Okamoto88,
+  author    = {Tatsuaki Okamoto},
+  title     = {A Digital Multisignature Schema Using Bijective Public-Key Cryptosystems},
+  journal   = tocs,
+  volume    = {6},
+  number    = {4},
+  year      = 1988,
+  pages     = {432-441},
+}
+
+@article{DBLP:journals/tocs/Lamport87,
+  author    = {Leslie Lamport},
+  title     = {A Fast Mutual Exclusion Algorithm},
+  journal   = tocs,
+  volume    = {5},
+  number    = {1},
+  year      = 1987,
+  pages     = {1-11},
+}
+
+@article{DBLP:journals/tocs/Cheriton87,
+  author    = {David R. Cheriton},
+  title     = {UIO: A Uniform I/O System Interface for Distributed Systems},
+  journal   = tocs,
+  volume    = {5},
+  number    = {1},
+  year      = 1987,
+  pages     = {12-46},
+}
+
+@article{DBLP:journals/tocs/BirmanJ87,
+  author    = {Kenneth P. Birman and
+               Thomas A. Joseph},
+  title     = {Reliable Communication in the Presence of Failures},
+  journal   = tocs,
+  volume    = {5},
+  number    = {1},
+  year      = 1987,
+  pages     = {47-76},
+}
+
+@article{DBLP:journals/tocs/GeistD87,
+  author    = {Robert Geist and
+               Stephen Daniel},
+  title     = {A Continuum of Disk Scheduling Algorithms},
+  journal   = tocs,
+  volume    = {5},
+  number    = {1},
+  year      = 1987,
+  pages     = {77-92},
+}
+
+@article{DBLP:journals/tocs/WatsonM87,
+  author    = {Richard W. Watson and
+               Sandra A. Mamrak},
+  title     = {Gaining Efficiency in Transport Services by Appropriate Design and Implementation Choices},
+  journal   = tocs,
+  volume    = {5},
+  number    = {2},
+  year      = 1987,
+  pages     = {97-120},
+}
+
+@article{DBLP:journals/tocs/JoyceLSU87,
+  author    = {Jeffrey Joyce and
+               Greg Lomow and
+               Konrad Slind and
+               Brian Unger},
+  title     = {Monitoring Distributed Systems},
+  journal   = tocs,
+  volume    = {5},
+  number    = {2},
+  year      = 1987,
+  pages     = {121-150},
+}
+
+@article{DBLP:journals/tocs/GlasgowM87,
+  author    = {Janice I. Glasgow and
+               Glenn H. MacEwen},
+  title     = {The Development and Proof of a Formal Specification for a Multilevel Secure System},
+  journal   = tocs,
+  volume    = {5},
+  number    = {2},
+  year      = 1987,
+  pages     = {151-184},
+}
+
+@article{DBLP:journals/tocs/SchwanBWT87,
+  author    = {Karsten Schwan and
+               Thomas E. Bihari and
+               Bruce W. Weide and
+               Gregor Taulbee},
+  title     = {High-Performance Operating System Primitives for Robotics and Real-Time Control Systems},
+  journal   = tocs,
+  volume    = {5},
+  number    = {3},
+  year      = 1987,
+  pages     = {189-231},
+}
+
+@article{DBLP:journals/tocs/Harten87,
+  author    = {Paul K. Harten Jr.},
+  title     = {Response Times in Level-Structured Systems},
+  journal   = tocs,
+  volume    = {5},
+  number    = {3},
+  year      = 1987,
+  pages     = {232-248},
+}
+
+@article{DBLP:journals/tocs/Herlihy87,
+  author    = {Maurice Herlihy},
+  title     = {Concurrency versus Availability: Atomic Mechanisms for Replicated Data},
+  journal   = tocs,
+  volume    = {5},
+  number    = {3},
+  year      = 1987,
+  pages     = {249-274},
+}
+
+@article{DBLP:journals/tocs/Kirkman87,
+  author    = {W. Worth Kirkman},
+  title     = {An Optimized Contention Protocol for Broadband Networks},
+  journal   = tocs,
+  volume    = {5},
+  number    = {3},
+  year      = 1987,
+  pages     = {275-283},
+}
+
+@article{DBLP:journals/tocs/Sanders87,
+  author    = {Beverly A. Sanders},
+  title     = {The Information Structure of Distributed Mutual Exclusion Algorithms},
+  journal   = tocs,
+  volume    = {5},
+  number    = {3},
+  year      = 1987,
+  pages     = {284-299},
+}
+
+@article{DBLP:journals/tocs/ThiebautS87,
+  author    = {Dominique Thi{\'e}baut and
+               Harold S. Stone},
+  title     = {Footprints in the Cache},
+  journal   = tocs,
+  volume    = {5},
+  number    = {4},
+  year      = 1987,
+  pages     = {305-329},
+}
+
+@article{DBLP:journals/tocs/Falcone87,
+  author    = {Joseph R. Falcone},
+  title     = {A Programmable Interface Language for Heterogeneous Distributed Systems},
+  journal   = tocs,
+  volume    = {5},
+  number    = {4},
+  year      = 1987,
+  pages     = {330-351},
+}
+
+@article{DBLP:journals/tocs/Koch87,
+  author    = {Philip D. L. Koch},
+  title     = {Disk File Allocation Based on the Buddy System},
+  journal   = tocs,
+  volume    = {5},
+  number    = {4},
+  year      = 1987,
+  pages     = {352-370},
+}
+
+@article{DBLP:journals/tocs/HerzbergP87,
+  author    = {Amir Herzberg and
+               Shlomit S. Pinter},
+  title     = {Public Protection of Software},
+  journal   = tocs,
+  volume    = {5},
+  number    = {4},
+  year      = 1987,
+  pages     = {371-393},
+}
+
+@article{DBLP:journals/tocs/Babaoglu87,
+  author    = {{\"O}zalp Babaoglu},
+  title     = {On the Reliability of Consensus-Based Fault-Tolerant Distributed Compting Systems},
+  journal   = tocs,
+  volume    = {5},
+  number    = {4},
+  year      = 1987,
+  pages     = {394-416},
+}
+
+@article{DBLP:journals/tocs/Smith86,
+  author    = {Connie U. Smith},
+  title     = {Independent General Principles for Constructing Responsive Software Systems},
+  journal   = tocs,
+  volume    = {4},
+  number    = {1},
+  year      = 1986,
+  pages     = {1-31},
+}
+
+@article{DBLP:journals/tocs/Herlihy86,
+  author    = {Maurice Herlihy},
+  title     = {A Quorum-Consensus Replication Method for Abstract Data Types},
+  journal   = tocs,
+  volume    = {4},
+  number    = {1},
+  year      = 1986,
+  pages     = {32-53},
+}
+
+@article{DBLP:journals/tocs/JosephB86,
+  author    = {Thomas A. Joseph and
+               Kenneth P. Birman},
+  title     = {Low Cost Management of Replicated Data in Fault-Tolerant Distributed Systems},
+  journal   = tocs,
+  volume    = {4},
+  number    = {1},
+  year      = 1986,
+  pages     = {54-70},
+}
+
+@article{DBLP:journals/tocs/Kameda86,
+  author    = {Hisao Kameda},
+  title     = {Effects of Job Loading Policies for Multiprogramming Systems in Processing a Job Stream},
+  journal   = tocs,
+  volume    = {4},
+  number    = {1},
+  year      = 1986,
+  pages     = {71-106},
+}
+
+@article{DBLP:journals/tocs/Jones86,
+  author    = {Anita K. Jones},
+  title     = {Preface to Special Issue on Operating System Princiles},
+  journal   = tocs,
+  volume    = {4},
+  number    = {2},
+  year      = 1986,
+  pages     = {109},
+}
+
+@article{DBLP:journals/tocs/CarrieroG86,
+  author    = {Nicholas Carriero and
+               David Gelernter},
+  title     = {The S/Net's Linda Kernel},
+  journal   = tocs,
+  volume    = {4},
+  number    = {2},
+  year      = 1986,
+  pages     = {110-129},
+}
+
+@article{DBLP:journals/tocs/KronenbergLS86,
+  author    = {Nancy P. Kronenberg and
+               Henry M. Levy and
+               William D. Strecker},
+  title     = {VAXclusters: A Closely-Coupled Distributed System},
+  journal   = tocs,
+  volume    = {4},
+  number    = {2},
+  year      = 1986,
+  pages     = {130-146},
+}
+
+@article{DBLP:journals/tocs/FitzgeraldR86,
+  author    = {Robert P. Fitzgerald and
+               Richard F. Rashid},
+  title     = {The Integration of Virtual Memory Management and Interprocess Communication in Accent},
+  journal   = tocs,
+  volume    = {4},
+  number    = {2},
+  year      = 1986,
+  pages     = {147-177},
+}
+
+@article{DBLP:journals/tocs/HoymeBAK86,
+  author    = {K. P. Hoyme and
+               Steven C. Bruell and
+               P. V. Afshari and
+               Richard Y. Kain},
+  title     = {A Tree-Structured Mean Value Analysis Algorithm},
+  journal   = tocs,
+  volume    = {4},
+  number    = {2},
+  year      = 1986,
+  pages     = {178-185},
+}
+
+@article{DBLP:journals/tocs/BarbaraG86,
+  author    = {Daniel Barbar{\'a} and
+               Hector Garcia-Molina},
+  title     = {The Vulnerabilty of Vote Assignments},
+  journal   = tocs,
+  volume    = {4},
+  number    = {3},
+  year      = 1986,
+  pages     = {187-213},
+}
+
+@article{DBLP:journals/tocs/IyerRH86,
+  author    = {Ravishankar K. Iyer and
+               David J. Rossetti and
+               Mei-Chen Hsueh},
+  title     = {Measurement and Modeling of Computer Reliability as Affected by System Activity},
+  journal   = tocs,
+  volume    = {4},
+  number    = {3},
+  year      = 1986,
+  pages     = {214-237},
+}
+
+@article{DBLP:journals/tocs/LazowskaZCZ86,
+  author    = {Edward D. Lazowska and
+               John Zahorjan and
+               David R. Cheriton and
+               Willy Zwaenepoel},
+  title     = {File Access Performance of Diskless Workstations},
+  journal   = tocs,
+  volume    = {4},
+  number    = {3},
+  year      = 1986,
+  pages     = {238-268},
+}
+
+@article{DBLP:journals/tocs/ArchibaldB86,
+  author    = {James K. Archibald and
+               Jean-Loup Baer},
+  title     = {Cache Coherence Protocols: Evaluation Using a Multiprocessor Simulation Model},
+  journal   = tocs,
+  volume    = {4},
+  number    = {4},
+  year      = 1986,
+  pages     = {273-298},
+}
+
+@article{DBLP:journals/tocs/ComerP86,
+  author    = {Douglas Comer and
+               Larry L. Peterson},
+  title     = {Conversation-Based Mail},
+  journal   = tocs,
+  volume    = {4},
+  number    = {4},
+  year      = 1986,
+  pages     = {299-319},
+}
+
+@article{DBLP:journals/tocs/Badal86,
+  author    = {Dushan Z. Badal},
+  title     = {The Distributed Deadlock Detection Algorithm},
+  journal   = tocs,
+  volume    = {4},
+  number    = {4},
+  year      = 1986,
+  pages     = {320-337},
+}
+
+@article{DBLP:journals/tocs/CareyM86,
+  author    = {Michael J. Carey and
+               Waleed A. Muhanna},
+  title     = {The Performance of Multiversion Concurrency Control Algorithms},
+  journal   = tocs,
+  volume    = {4},
+  number    = {4},
+  year      = 1986,
+  pages     = {338-378},
+}
+
+@article{DBLP:journals/tocs/Birrel85,
+  author    = {Andrew Birrell},
+  title     = {Secure Communication Using Remote Procedure Calls},
+  journal   = tocs,
+  volume    = {3},
+  number    = {1},
+  year      = 1985,
+  pages     = {1-14},
+}
+
+@article{DBLP:journals/tocs/Skeen85,
+  author    = {Dale Skeen},
+  title     = {Determining the Last Process to Fail},
+  journal   = tocs,
+  volume    = {3},
+  number    = {1},
+  year      = 1985,
+  pages     = {15-30},
+}
+
+@article{DBLP:journals/tocs/ClarkE85,
+  author    = {Douglas W. Clark and
+               Joel S. Emer},
+  title     = {Performance of the VAX-11/780 Translation Buffer: Simulation and Measurement},
+  journal   = tocs,
+  volume    = {3},
+  number    = {1},
+  year      = 1985,
+  pages     = {31-62},
+}
+
+@article{DBLP:journals/tocs/ChandyL85,
+  author    = {K. Mani Chandy and
+               Leslie Lamport},
+  title     = {Distributed Snapshots: Determining Global States of Distributed Systems},
+  journal   = tocs,
+  volume    = {3},
+  number    = {1},
+  year      = 1985,
+  pages     = {63-75},
+}
+
+@article{DBLP:journals/tocs/CheritonZ85,
+  author    = {David R. Cheriton and
+               Willy Zwaenepoel},
+  title     = {Distributed Process Groups in the V Kernel},
+  journal   = tocs,
+  volume    = {3},
+  number    = {2},
+  year      = 1985,
+  pages     = {77-107},
+}
+
+@article{DBLP:journals/tocs/EvenG85,
+  author    = {Shimon Even and
+               Oded Goldreich},
+  title     = {On the Power of Cascade Ciphers},
+  journal   = tocs,
+  volume    = {3},
+  number    = {2},
+  year      = 1985,
+  pages     = {108-116},
+}
+
+@article{DBLP:journals/tocs/PadmanabhanL85,
+  author    = {Krishnan Padmanabhan and
+               Duncan H. Lawrie},
+  title     = {Performance Analysis of Redundant-Path Networks for Multiprocessor Systems},
+  journal   = tocs,
+  volume    = {3},
+  number    = {2},
+  year      = 1985,
+  pages     = {117-144},
+}
+
+@article{DBLP:journals/tocs/Maekawa85,
+  author    = {Mamoru Maekawa},
+  title     = {A Square Root N Algorithm for Mutual Exclusion in Decentralized Systems},
+  journal   = tocs,
+  volume    = {3},
+  number    = {2},
+  year      = 1985,
+  pages     = {145-159},
+}
+
+@article{DBLP:journals/tocs/Smith85,
+  author    = {Alan Jay Smith},
+  title     = {Disk Cache-Miss Ratio Analysis and Design Considerations},
+  journal   = tocs,
+  volume    = {3},
+  number    = {3},
+  year      = 1985,
+  pages     = {161-203},
+}
+
+@article{DBLP:journals/tocs/StromY85,
+  author    = {Robert E. Strom and
+               Shaula Yemini},
+  title     = {Optimistic Recovery in Distributed Systems},
+  journal   = tocs,
+  volume    = {3},
+  number    = {3},
+  year      = 1985,
+  pages     = {204-226},
+}
+
+@article{DBLP:journals/tocs/TayS85,
+  author    = {Y. C. Tay and
+               Rajan Suri},
+  title     = {Error Bounds for Performance Prediction in Queuing Networks},
+  journal   = tocs,
+  volume    = {3},
+  number    = {3},
+  year      = 1985,
+  pages     = {227-254},
+}
+
+@article{DBLP:journals/tocs/BrownKT85,
+  author    = {Mark R. Brown and
+               Karen N. Kolling and
+               Edward A. Taft},
+  title     = {The Alpine File System},
+  journal   = tocs,
+  volume    = {3},
+  number    = {4},
+  year      = 1985,
+  pages     = {261-293},
+}
+
+@article{DBLP:journals/tocs/MoriC85,
+  author    = {Renato de Mori and
+               R{\'e}gis Cardin},
+  title     = {A Recursive Algorithm for Binary Multiplication and Its Implementation},
+  journal   = tocs,
+  volume    = {3},
+  number    = {4},
+  year      = 1985,
+  pages     = {294-314},
+}
+
+@article{DBLP:journals/tocs/ChowGL85,
+  author    = {Ching-Hua Chow and
+               Mohamed G. Gouda and
+               Simon S. Lam},
+  title     = {A Discipline for Constructing Multiphase Communication Protocols},
+  journal   = tocs,
+  volume    = {3},
+  number    = {4},
+  year      = 1985,
+  pages     = {315-343},
+}
+
+@article{DBLP:journals/tocs/SuzukiK85,
+  author    = {Ichiro Suzuki and
+               Tadao Kasami},
+  title     = {A Distributed Mutual Exclusion Algorithm},
+  journal   = tocs,
+  volume    = {3},
+  number    = {4},
+  year      = 1985,
+  pages     = {344-349},
+}
+
+@article{DBLP:journals/tocs/SchroederBN84,
+  author    = {Michael D. Schroeder and
+               Andrew Birrell and
+               Roger M. Needham},
+  title     = {Experience with Grapevine: The Growth of a Distributed System},
+  journal   = tocs,
+  volume    = {2},
+  number    = {1},
+  year      = 1984,
+  pages     = {3-23},
+}
+
+@article{DBLP:journals/tocs/LindsayHMWY84,
+  author    = {Bruce G. Lindsay and
+               Laura M. Haas and
+               C. Mohan and
+               Paul F. Wilms and
+               Robert A. Yost},
+  title     = {Computation and Communication in R*: A Distributed Database Manager},
+  journal   = tocs,
+  volume    = {2},
+  number    = {1},
+  year      = 1984,
+  pages     = {24-38},
+}
+
+@article{DBLP:journals/tocs/BirrelN84,
+  author    = {Andrew Birrell and
+               Bruce Jay Nelson},
+  title     = {Implementing Remote Procedure Calls},
+  journal   = tocs,
+  volume    = {2},
+  number    = {1},
+  year      = 1984,
+  pages     = {39-59},
+}
+
+@article{DBLP:journals/tocs/BerkovichW84,
+  author    = {Simon Y. Berkovich and
+               Colleen Roe Wilson},
+  title     = {A Computer Communication Technique Using Content-Induced Transaction Overlap},
+  journal   = tocs,
+  volume    = {2},
+  number    = {1},
+  year      = 1984,
+  pages     = {60-77},
+}
+
+@article{DBLP:journals/tocs/Kameda84,
+  author    = {Hisao Kameda},
+  title     = {Optimality of a Central Processor Scheduling Policy for Processing a Job Stream},
+  journal   = tocs,
+  volume    = {2},
+  number    = {1},
+  year      = 1984,
+  pages     = {78-90},
+}
+
+@article{DBLP:journals/tocs/MarsanCB84,
+  author    = {Marco Ajmone Marsan and
+               Gianni Conte and
+               Gianfranco Balbo},
+  title     = {A Class of Generalized Stochastic Petri Nets for the Performance Evaluation of Multiprocessor Systems},
+  journal   = tocs,
+  volume    = {2},
+  number    = {2},
+  year      = 1984,
+  pages     = {93-122},
+}
+
+@article{DBLP:journals/tocs/TantawiR84,
+  author    = {Asser N. Tantawi and
+               Manfred Ruschitzka},
+  title     = {Performance Analysis of Checkpointing Strategies},
+  journal   = tocs,
+  volume    = {2},
+  number    = {2},
+  year      = 1984,
+  pages     = {123-144},
+}
+
+@article{DBLP:journals/tocs/Schneider84,
+  author    = {Fred B. Schneider},
+  title     = {Byzantine Generals in Action: Implementing Fail-Stop Processors},
+  journal   = tocs,
+  volume    = {2},
+  number    = {2},
+  year      = 1984,
+  pages     = {145-154},
+}
+
+@article{DBLP:journals/tocs/Stamos84,
+  author    = {James W. Stamos},
+  title     = {Static Grouping of Small Objects to Enhance Performance of a Paged Virtual Memory},
+  journal   = tocs,
+  volume    = {2},
+  number    = {2},
+  year      = 1984,
+  pages     = {155-180},
+}
+
+@article{DBLP:journals/tocs/McKusickJLF84,
+  author    = {Marshall K. McKusick and
+               William N. Joy and
+               Samuel J. Leffler and
+               Robert S. Fabry},
+  title     = {A Fast File System for UNIX},
+  journal   = tocs,
+  volume    = {2},
+  number    = {3},
+  year      = 1984,
+  pages     = {181-197},
+}
+
+@article{DBLP:journals/tocs/LandwehrHM84,
+  author    = {Carl E. Landwehr and
+               Constance L. Heitmeyer and
+               John D. McLean},
+  title     = {A Security Model for Military Message Systems},
+  journal   = tocs,
+  volume    = {2},
+  number    = {3},
+  year      = 1984,
+  pages     = {198-222},
+}
+
+@article{DBLP:journals/tocs/SchwarzS84,
+  author    = {Peter M. Schwarz and
+               Alfred Z. Spector},
+  title     = {Synchronizing Shared Abstract Types},
+  journal   = tocs,
+  volume    = {2},
+  number    = {3},
+  year      = 1984,
+  pages     = {223-250},
+}
+
+@article{DBLP:journals/tocs/ChangM84,
+  author    = {Jo-Mei Chang and
+               Nicholas F. Maxemchuk},
+  title     = {Reliable Broadcast Protocols},
+  journal   = tocs,
+  volume    = {2},
+  number    = {3},
+  year      = 1984,
+  pages     = {251-273},
+}
+
+@article{DBLP:journals/tocs/SaltzerRC84,
+  author    = {Jerome H. Saltzer and
+               David P. Reed and
+               David D. Clark},
+  title     = {End-To-End Arguments in System Design},
+  journal   = tocs,
+  volume    = {2},
+  number    = {4},
+  year      = 1984,
+  pages     = {277-288},
+}
+
+@article{DBLP:journals/tocs/Smith84,
+  author    = {James E. Smith},
+  title     = {Decoupled Access/Execute Computer Architectures},
+  journal   = tocs,
+  volume    = {2},
+  number    = {4},
+  year      = 1984,
+  pages     = {289-308},
+}
+
+@article{DBLP:journals/tocs/Tichy84,
+  author    = {Walter F. Tichy},
+  title     = {The String-to-String Correction Problem with Block Moves},
+  journal   = tocs,
+  volume    = {2},
+  number    = {4},
+  year      = 1984,
+  pages     = {309-321},
+}
+
+@article{DBLP:journals/tocs/Rom84,
+  author    = {Raphael Rom},
+  title     = {Ordering Subscribers on Cable Networks},
+  journal   = tocs,
+  volume    = {2},
+  number    = {4},
+  year      = 1984,
+  pages     = {322-334},
+}
+
+@article{DBLP:journals/tocs/BryantKLC84,
+  author    = {Raymond M. Bryant and
+               Anthony E. Krzesinski and
+               M. Seetha Lakshmi and
+               K. Mani Chandy},
+  title     = {The MVA Priority Approximation},
+  journal   = tocs,
+  volume    = {2},
+  number    = {4},
+  year      = 1984,
+  pages     = {335-359},
+}
+
+@article{DBLP:journals/tocs/Reed83,
+  author    = {David P. Reed},
+  title     = {Implementing Atomic Actions on Decentralized Data},
+  journal   = tocs,
+  volume    = {1},
+  number    = {1},
+  year      = 1983,
+  pages     = {3-23},
+}
+
+@article{DBLP:journals/tocs/Clark83,
+  author    = {Douglas W. Clark},
+  title     = {Cache Performance in the VAX-11/780},
+  journal   = tocs,
+  volume    = {1},
+  number    = {1},
+  year      = 1983,
+  pages     = {24-37},
+}
+
+@article{DBLP:journals/tocs/Shamir83,
+  author    = {Adi Shamir},
+  title     = {On the Generation of Cryptographically Strong Pseudorandom Sequences},
+  journal   = tocs,
+  volume    = {1},
+  number    = {1},
+  year      = 1983,
+  pages     = {38-44},
+}
+
+@article{DBLP:journals/tocs/CoxCLP83,
+  author    = {George W. Cox and
+               William M. Corwin and
+               Konrad K. Lai and
+               Fred J. Pollack},
+  title     = {Interprocess Communication and Processor Dispatching on the Intel 432},
+  journal   = tocs,
+  volume    = {1},
+  number    = {1},
+  year      = 1983,
+  pages     = {45-66},
+}
+
+@article{DBLP:journals/tocs/Sauer83,
+  author    = {Charles H. Sauer},
+  title     = {Computational Algorithms for State-Dependent Queueing Networks},
+  journal   = tocs,
+  volume    = {1},
+  number    = {1},
+  year      = 1983,
+  pages     = {67-92},
+}
+
+@article{DBLP:journals/tocs/EagerS83,
+  author    = {Derek L. Eager and
+               Kenneth C. Sevcik},
+  title     = {Performance Bound Hierarchies for Queueing Networks},
+  journal   = tocs,
+  volume    = {1},
+  number    = {2},
+  year      = 1983,
+  pages     = {99-115},
+}
+
+@article{DBLP:journals/tocs/AgrawalB83,
+  author    = {Subhash C. Agrawal and
+               Jeffrey P. Buzen},
+  title     = {The Aggregate Server Method for Analyzing Serialization Delays in Computer System},
+  journal   = tocs,
+  volume    = {1},
+  number    = {2},
+  year      = 1983,
+  pages     = {116-143},
+}
+
+@article{DBLP:journals/tocs/ChandyMH83,
+  author    = {K. Mani Chandy and
+               Jayadev Misra and
+               Laura M. Haas},
+  title     = {Distributed Deadlock Detection},
+  journal   = tocs,
+  volume    = {1},
+  number    = {2},
+  year      = 1983,
+  pages     = {144-156},
+}
+
+@article{DBLP:journals/tocs/CappelloS83,
+  author    = {Peter R. Cappello and
+               Kenneth Steiglitz},
+  title     = {A VLSI Layout for a Pipelined Dadda Multiplier},
+  journal   = tocs,
+  volume    = {1},
+  number    = {2},
+  year      = 1983,
+  pages     = {157-174},
+}
+
+@article{DBLP:journals/tocs/Blum83,
+  author    = {Manuel Blum},
+  title     = {How to Exchange (Secret) Keys},
+  journal   = tocs,
+  volume    = {1},
+  number    = {2},
+  year      = 1983,
+  pages     = {175-193},
+}
+
+@article{DBLP:journals/tocs/HoshinoKSHYISS83,
+  author    = {Tsutomu Hoshino and
+               Toshio Kawai and
+               Tomonori Shirakawa and
+               Junichi Higashino and
+               Akira Yamaoka and
+               Hachidai Ito and
+               Takashi Sato and
+               Kazuo Sawada},
+  title     = {PACS: A Parallel Microprocessor Array for Scientific Calculations},
+  journal   = tocs,
+  volume    = {1},
+  number    = {3},
+  year      = 1983,
+  pages     = {195-221},
+}
+
+@article{DBLP:journals/tocs/SchlichtingS83,
+  author    = {Richard D. Schlichting and
+               Fred B. Schneider},
+  title     = {Fail-Stop Processors: An Approach to Designing Fault-Tolerant Computing Systems},
+  journal   = tocs,
+  volume    = {1},
+  number    = {3},
+  year      = 1983,
+  pages     = {222-238},
+}
+
+@article{DBLP:journals/tocs/AklT83,
+  author    = {Selim G. Akl and
+               Peter D. Taylor},
+  title     = {Cryptographic Solution to a Problem of Access Control in a Hierarchy},
+  journal   = tocs,
+  volume    = {1},
+  number    = {3},
+  year      = 1983,
+  pages     = {239-248},
+}
+
+@article{DBLP:journals/tocs/BauerBF83,
+  author    = {R. Kenneth Bauer and
+               Thomas A. Berson and
+               Richard J. Feiertag},
+  title     = {A Key Distribution Protocol Using Event Markers},
+  journal   = tocs,
+  volume    = {1},
+  number    = {3},
+  year      = 1983,
+  pages     = {249-255},
+}
+
+@article{DBLP:journals/tocs/Kemmerer83,
+  author    = {Richard A. Kemmerer},
+  title     = {Shared Resource Matrix Methodology: An Approach to Identifying Storage and Timing Channels},
+  journal   = tocs,
+  volume    = {1},
+  number    = {3},
+  year      = 1983,
+  pages     = {256-277},
+}
+
+@article{DBLP:journals/tocs/Strecker83,
+  author    = {William D. Strecker},
+  title     = {Transient Behavior of Cache Memories},
+  journal   = tocs,
+  volume    = {1},
+  number    = {4},
+  year      = 1983,
+  pages     = {281-293},
+}
+
+@article{DBLP:journals/tocs/KobayashiG83,
+  author    = {Hiroshi Kobayashi and
+               Mario Gerla},
+  title     = {Optimal Routing in Closed Queuing Networks},
+  journal   = tocs,
+  volume    = {1},
+  number    = {4},
+  year      = 1983,
+  pages     = {294-310},
+}
+
+@article{DBLP:journals/tocs/Sloan83,
+  author    = {Lansing Sloan},
+  title     = {Mechanisms that Enforce Bounds on Packet Lifetimes},
+  journal   = tocs,
+  volume    = {1},
+  number    = {4},
+  year      = 1983,
+  pages     = {311-330},
+}
+
+@article{DBLP:journals/tocs/ShankarL83,
+  author    = {A. Udaya Shankar and
+               Simon S. Lam},
+  title     = {An HDLC Protocol Specification and Its Verification Using Image Protocols},
+  journal   = tocs,
+  volume    = {1},
+  number    = {4},
+  year      = 1983,
+  pages     = {331-368},
+}
