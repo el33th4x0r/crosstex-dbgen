@@ -213,11 +213,13 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('BadNeuenahr', {'city': 'Bad Neuenahr', 'country': 'Germany'})
                  ,('Banff', {'city': 'Banff', 'country': 'Canada'})
                  ,('Barcelona', {'city': 'Barcelona', 'country': 'Spain'})
+                 ,('Beijing', {'city': 'Beijing', 'country': 'China'})
                  ,('Berlin', {'city': 'Berlin', 'country': 'Germany'})
                  ,('Belfast', {'city': 'Belfast', 'state': 'Northern Ireland', 'country': 'UK'})
                  ,('Bern', {'city': 'Bern', 'country': 'Switzerland'})
                  ,('Bertinoro', {'city': 'Bertinoro', 'country': 'Italy'})
                  ,('Bratislava', {'city': 'Bratislava', 'country': 'Slovakia'})
+                 ,('Bremen', {'city': 'Bremen', 'country': 'Germany'})
                  ,('Brighton', {'city': 'Brighton', 'country': 'UK'})
                  ,('BC', {'city': 'British Columbia', 'country': 'Canada'})
                  ,('Budapest', {'city': 'Budapest', 'country': 'Hungary'})
@@ -292,8 +294,10 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Tokyo', {'city': 'Tokyo', 'country': 'Japan'})
                  ,('Toronto', {'city': 'Toronto', 'country': 'Canada'})
                  ,('Trento', {'city': 'Trento', 'country': 'Italy'})
+                 ,('Tsukuba', {'city': 'Tsukuba', 'country': 'Japan'})
                  ,('Turku', {'city': 'Turku', 'country': 'Finland'})
                  ,('Uppsala', {'city': 'Uppsala', 'country': 'Sweden'})
+                 ,('Valencia', {'city': 'Valencia', 'country': 'Spain'})
                  ,('Vancouver', {'city': 'Vancouver', 'country': 'Canada'})
                  ,('Venice', {'city': 'Venice', 'country': 'Italy'})
                  ,('Vienna', {'city': 'Vienna', 'country': 'Austria'})
@@ -318,6 +322,7 @@ LOCATION_AMBIGUITIES = {'Arlington': {'Texas': 'ArlingtonTX',
 # Location aliases are under multiple names.  E.g. SanFrancisco -> sf
 LOCATION_ALIASES = {'99Atlanta': 'Atlanta'
                    ,'alzburg': 'Salzburg'
+                   ,'Lihue(Kauai)': 'Lihue'
                    ,'NewYork': 'NYC'
                    ,'Philadephia': 'Philadelphia'
                    ,'Pisa': 'Piza'

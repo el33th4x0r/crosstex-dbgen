@@ -36,15 +36,103 @@ page_range_re = re.compile(r'(?P<start>[0-9]+)[^0-9]+(?P<end>[0-9]+)')
 page_re = re.compile(r'(?P<page>[0-9]+)')
 
 
-class Conference:
+class CitationContainer:
 
-    def __init__(self, output, slug, shortname, longname, booktitle):
+    def _normalize_author(self, author):
+        if numbered_author_re.search(author):
+            author = author[:-5]
+        return self._to_latex(author)
+
+    def _normalize_title(self, citekey, citeattrs):
+        title = citeattrs['title']
+        stack = []
+        openparen = title.find('(')
+        equation = None
+        if openparen >= 0:
+            stack.append(openparen)
+            ptr = openparen + 1
+            if openparen > 0 and \
+               title[openparen - 1] not in string.whitespace and \
+               equation is None:
+                equation = openparen
+        while stack:
+            openparen = title.find('(', ptr)
+            openparen = openparen if openparen >= 0 else len(title)
+            closeparen = title.find(')', ptr)
+            closeparen = closeparen if closeparen >= 0 else len(title)
+            if openparen == closeparen:
+                stack = []
+            elif openparen < closeparen:
+                stack.append(openparen)
+                ptr = openparen + 1
+                if openparen > 0 and \
+                   title[openparen - 1] not in string.whitespace and \
+                   equation is None:
+                    equation = openparen
+            elif openparen > closeparen:
+                substr = title[stack[-1] + 1:closeparen]
+                if substr.lower() in parentheticals.BLACKLIST:
+                    prefix = title[:stack[-1]].strip(' ')
+                    suffix = title[closeparen + 1:].strip(' ')
+                    title = prefix + ' ' + suffix
+                    if equation == stack[-1]:
+                        equation = None
+                    stack.pop()
+                    if stack:
+                        ptr = stack[-1] + 1
+                elif substr.lower() in parentheticals.WHITELIST:
+                    ptr = closeparen + 1
+                    if equation == stack[-1]:
+                        equation = None
+                    stack.pop()
+                elif substr in parentheticals.TRANSLATE:
+                    replace = parentheticals.TRANSLATE[substr]
+                    title = title[:stack[-1] + 1] + replace + title[closeparen:]
+                    ptr = stack[-1] + len(replace) + 2
+                    if equation == stack[-1]:
+                        equation = None
+                    stack.pop()
+                elif equation is not None:
+                    if equation == stack[-1]:
+                        equation = None
+                    ptr = closeparen + 1
+                    stack.pop()
+                else:
+                    # See if the words leading up to the parenthetical could be
+                    # made into an acronym that fits the parenthetical.
+                    words = title[:stack[-1]].replace('-', ' ').split(' ')
+                    words = [w for w in words if w]
+                    acronym = ''.join([w[0] for w in words[-len(substr):]]).lower()
+                    if acronym.lower() != substr.lower():
+                        print 'WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs
+                    ptr = closeparen + 1
+                    if equation == stack[-1]:
+                        equation = None
+                    stack.pop()
+        return self._to_latex(title.strip(' .'))
+
+    def _to_latex(self, s):
+        ls = ''
+        for c in s:
+            if ord(c) in latex.latex:
+                ls += latex.latex[ord(c)]
+            elif c in (string.ascii_letters + string.digits + string.punctuation + ' '):
+                ls += c
+            else:
+                print 'WARNING:  unknown unicode character %s' % repr(c)
+        return ls
+
+
+class Conference(CitationContainer):
+
+    def __init__(self, output, slug, shortname, longname, booktitle, citetype='conference'):
         self._slug = slug
         self._shortname = shortname
         self._longname = longname
         self._booktitle = booktitle or shortname
         self._years = {}
         self._out = open(output, 'w+')
+        self._citetype = citetype
 
     def add_proc(self, citekey, citeattrs):
         year = self._extract_year(citekey, citeattrs)
@@ -119,7 +207,7 @@ class Conference:
         self._out.flush()
 
     def write_citation(self, fout):
-        templ = '''\n@conference{%s,
+        templ = '''\n@%s{%s,
   shortname = "%s",
   longname  = "%s",
 %s}\n'''
@@ -131,7 +219,7 @@ class Conference:
                 print 'WARNING:  conference "%s" missing information for year %i' % (self._slug, year)
             else:
                 yearsstr += '  [year=%04i] address=%s, month=%s,\n' % (year, addr, mon)
-        citation = templ % (self._slug, self._shortname, self._longname, yearsstr)
+        citation = templ % (self._citetype, self._slug, self._shortname, self._longname, yearsstr)
         fout.write(citation)
 
     def _extract_year(self, citekey, citeattrs):
@@ -176,89 +264,100 @@ class Conference:
                 return abbrev
         print 'WARNING:  no month for "%s"' % citekey, citeattrs
 
-    def _normalize_author(self, author):
-        if numbered_author_re.search(author):
-            author = author[:-5]
-        return self._to_latex(author)
 
-    def _normalize_title(self, citekey, citeattrs):
-        title = citeattrs['title']
-        stack = []
-        openparen = title.find('(')
-        equation = None
-        if openparen >= 0:
-            stack.append(openparen)
-            ptr = openparen + 1
-            if openparen > 0 and \
-               title[openparen - 1] not in string.whitespace and \
-               equation is None:
-                equation = openparen
-        while stack:
-            openparen = title.find('(', ptr)
-            openparen = openparen if openparen >= 0 else len(title)
-            closeparen = title.find(')', ptr)
-            closeparen = closeparen if closeparen >= 0 else len(title)
-            if openparen == closeparen:
-                stack = []
-            elif openparen < closeparen:
-                stack.append(openparen)
-                ptr = openparen + 1
-                if openparen > 0 and \
-                   title[openparen - 1] not in string.whitespace and \
-                   equation is None:
-                    equation = openparen
-            elif openparen > closeparen:
-                substr = title[stack[-1] + 1:closeparen]
-                if substr.lower() in parentheticals.BLACKLIST:
-                    prefix = title[:stack[-1]].strip(' ')
-                    suffix = title[closeparen + 1:].strip(' ')
-                    title = prefix + ' ' + suffix
-                    if equation == stack[-1]:
-                        equation = None
-                    stack.pop()
-                    if stack:
-                        ptr = stack[-1] + 1
-                elif substr.lower() in parentheticals.WHITELIST:
-                    ptr = closeparen + 1
-                    if equation == stack[-1]:
-                        equation = None
-                    stack.pop()
-                elif substr in parentheticals.TRANSLATE:
-                    replace = parentheticals.TRANSLATE[substr]
-                    title = title[:stack[-1] + 1] + replace + title[closeparen:]
-                    ptr = stack[-1] + len(replace) + 2
-                    if equation == stack[-1]:
-                        equation = None
-                    stack.pop()
-                elif equation is not None:
-                    if equation == stack[-1]:
-                        equation = None
-                    ptr = closeparen + 1
-                    stack.pop()
-                else:
-                    # See if the words leading up to the parenthetical could be
-                    # made into an acronym that fits the parenthetical.
-                    words = title[:stack[-1]].replace('-', ' ').split(' ')
-                    words = [w for w in words if w]
-                    acronym = ''.join([w[0] for w in words[-len(substr):]]).lower()
-                    if acronym != substr.lower():
-                        print 'WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs
-                    ptr = closeparen + 1
-                    if equation == stack[-1]:
-                        equation = None
-                    stack.pop()
-        return self._to_latex(title.strip(' .'))
+class Journal(CitationContainer):
 
-    def _to_latex(self, s):
-        ls = ''
-        for c in s:
-            if ord(c) in latex.latex:
-                ls += latex.latex[ord(c)]
-            elif c in (string.ascii_letters + string.digits + string.punctuation + ' '):
-                ls += c
+    def __init__(self, output, slug, shortname, longname):
+        self._slug = slug
+        self._shortname = shortname
+        self._longname = longname
+        self._out = open(output, 'w+')
+
+    def add_article(self, citetype, citekey, citeattrs):
+        if 'author' not in citeattrs:
+            print 'ERROR:  key "%s" has no attribute "author"' % citekey
+            return
+        if 'title' not in citeattrs:
+            print 'ERROR:  key "%s" has no attribute "title"' % citekey
+            return
+        if 'journal' not in citeattrs:
+            print 'ERROR:  key "%s" has no attribute "journal"' % citekey
+            return
+        if 'volume' not in citeattrs:
+            print 'WARNING:  key "%s" has no attribute "volume"' % citekey
+        if 'number' not in citeattrs:
+            print 'WARNING:  key "%s" has no attribute "number"' % citekey
+        if 'year' not in citeattrs:
+            print 'ERROR:  key "%s" has no attribute "year"' % citekey
+            return
+        if 'pages' not in citeattrs:
+            pass
+            #print 'INFO:  key "%s" has no attribute "pages"' % citekey
+        try:
+            citeattrs['year'] = int(citeattrs['year'])
+        except ValueError:
+            print 'ERROR:  key "%s" has non-integer "year"' % citekey
+            return
+        templ = '''\n@article{DBLP:%s,
+  author    = {%s},
+  title     = {%s},
+  journal   = %s,
+%s%s  year      = %i,
+%s}\n'''
+        volume = citeattrs.get('volume', '')
+        number = citeattrs.get('number', '')
+        volume = volume and '  volume    = {%s},\n' % volume
+        number = number and '  number    = {%s},\n' % number
+        if 'pages' in citeattrs:
+            match = page_range_re.search(citeattrs['pages'])
+            if match:
+                start = int(match.groupdict()['start'])
+                end = int(match.groupdict()['end'])
+                pagesrt = (start, end)
+                pages = '  pages     = {%i-%i},\n' % pagesrt
             else:
-                print 'WARNING:  unknown unicode character %s' % repr(c)
-        return ls
+                match = page_re.search(citeattrs['pages'])
+                if match:
+                    pagesrt = (int(match.groupdict()['page']),
+                               int(match.groupdict()['page']))
+                    pages = '  pages     = {%i},\n' % pagesrt[0]
+                else:
+                    if not set(citeattrs['pages']) - set(['v', 'i', 'x', '-']):
+                        pagesrt = (-1, citeattrs['pages'])
+                        pages = '  pages     = {%s},\n' % pagesrt[1]
+                    else:
+                        print 'ERROR:  key "%s" has corrupt "pages"' % citekey
+                        return
+        else:
+            pagesrt = ''
+            pages = ''
+        authors = ' and\n               '.join([self._normalize_author(a) for a in citeattrs['author']])
+        if citekey in overrides.TITLE:
+            title = overrides.TITLE[citekey]
+        else:
+            title = self._normalize_title(citekey, citeattrs)
+        bibtex = templ % (citekey, authors, title, self._slug,
+                          volume, number, citeattrs['year'], pages)
+        self._out.write(repr((0 - citeattrs['year'], pagesrt, citekey, bibtex)) + '\n')
+
+    def post_process(self):
+        self._out.seek(0)
+        tmp = [eval(line[:-1]) for line in self._out]
+        self._out.seek(0)
+        self._out.truncate(0)
+        self._out.write('@include journals-cs\n')
+        for year, pages, citekey, bibtex in sorted(tmp):
+            self._out.write(bibtex)
+        self._out.flush()
+
+    def write_citation(self, fout):
+        if self._shortname == self._longname:
+            templ = '''@journal{%s, name = "%s"}\n'''
+            citation = templ % (self._slug, self._shortname)
+        else:
+            templ = '''@journal{%s, shortname = "%s", longname  = "%s"}\n'''
+            citation = templ % (self._slug, self._shortname, self._longname)
+        fout.write(citation)
 
 
 class DBLPProcessor:
@@ -270,8 +369,11 @@ class DBLPProcessor:
         self._ppfilename = ppfilename
         self._outdir = outdir
         self._proceedings = {}
+        self._journals = {}
         self._filters = set()
         self._conference_keys = []
+        self._journal_keys = []
+        self._workshop_keys = []
 
     def add_conference(self, slug, shortname, longname, booktitle=None, dblpslug=None):
         key = ('proceedings', 'conf', booktitle or shortname, dblpslug or slug)
@@ -279,6 +381,49 @@ class DBLPProcessor:
         conf = Conference(out, slug, shortname, longname, booktitle)
         assert key not in self._proceedings
         self._conference_keys.append(key)
+        self._proceedings[key] = conf
+        self._filters.add(slug)
+        self._filters.add(shortname)
+        self._filters.add(booktitle)
+        self._filters.add(dblpslug)
+
+    def add_journal(self, slug, shortname, longname=None,
+                    dblpname=None, dblpslug=None, dblpmany=None):
+        longname = longname or shortname
+        if not dblpname and not dblpmany:
+            dblpname = shortname
+        if not dblpslug and not dblpmany:
+            dblpslug = slug
+        out = os.path.join(self._outdir, slug + '.xtx')
+        jo = Journal(out, slug, shortname, longname)
+        onekey = None
+        for dname, dslug in dblpmany or []:
+            key = ('journal', dname, dslug)
+            assert key not in self._journals
+            print 'ADDING', key
+            self._journals[key] = jo
+            onekey = onekey or key
+            self._filters.add(dname)
+            self._filters.add(dslug)
+        if dblpname and dblpslug:
+            key = ('journal', dblpname, dblpslug)
+            assert key not in self._journals
+            print 'ADDING', key
+            self._journals[key] = jo
+            onekey = onekey or key
+            self._filters.add(dblpname)
+            self._filters.add(dblpslug)
+        assert onekey
+        self._journal_keys.append(onekey)
+        self._filters.add(slug)
+        self._filters.add(shortname)
+
+    def add_workshop(self, slug, shortname, longname, booktitle=None, dblpslug=None):
+        key = ('proceedings', 'conf', booktitle or shortname, dblpslug or slug)
+        out = os.path.join(self._outdir, slug + '.xtx')
+        conf = Conference(out, slug, shortname, longname, booktitle, 'workshop')
+        assert key not in self._proceedings
+        self._workshop_keys.append(key)
         self._proceedings[key] = conf
         self._filters.add(slug)
         self._filters.add(shortname)
@@ -309,11 +454,28 @@ class DBLPProcessor:
                 key = ('proceedings', venuetype, booktitle, venueslug)
                 if key in self._proceedings:
                     self._proceedings[key].add_inproc(citetype, citekey, citeattrs)
+            elif citetype == 'article':
+                journal = citeattrs.get('journal', None)
+                venuetype, venueslug, junk = citekey.split('/', 2)
+                key = ('journal', journal, venueslug)
+                if key in self._journals:
+                    self._journals[key].add_article(citetype, citekey, citeattrs)
+                else:
+                    print 'INFO:  key "%s" associates with no journal' % citekey
+
         for proceedings in self._proceedings.values():
             proceedings.post_process()
+        for journal in self._journals.values():
+            journal.post_process()
         with open(os.path.join(self._outdir, 'conferences-cs.xtx'), 'w') as fout:
             for key in self._conference_keys:
                 self._proceedings[key].write_citation(fout)
+        with open(os.path.join(self._outdir, 'workshops-cs.xtx'), 'w') as fout:
+            for key in self._workshop_keys:
+                self._proceedings[key].write_citation(fout)
+        with open(os.path.join(self._outdir, 'journals-cs.xtx'), 'w') as fout:
+            for key in self._journal_keys:
+                self._journals[key].write_citation(fout)
 
     def _preprocess(self):
         with open(self._ppfilename, 'w') as fout:
