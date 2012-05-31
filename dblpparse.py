@@ -476,6 +476,8 @@ class DBLPProcessor:
         with open(os.path.join(self._outdir, 'journals-cs.xtx'), 'w') as fout:
             for key in self._journal_keys:
                 self._journals[key].write_citation(fout)
+        with open(os.path.join(self._outdir, 'TIMESTAMP'), 'w') as fout:
+            fout.write(str(datetime.datetime.now()) + '\n')
 
     def _preprocess(self):
         with open(self._ppfilename, 'w') as fout:
