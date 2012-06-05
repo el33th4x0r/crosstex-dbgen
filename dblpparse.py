@@ -109,7 +109,7 @@ class CitationContainer:
                     if equation == stack[-1]:
                         equation = None
                     stack.pop()
-        return self._to_latex(title.strip(' .'))
+        return self._caps_stuff(self._to_latex(title.strip(' .')))
 
     def _to_latex(self, s):
         ls = ''
@@ -121,6 +121,22 @@ class CitationContainer:
             else:
                 print 'WARNING:  unknown unicode character %s' % repr(c)
         return ls
+
+    def _to_upper_quoted(self, s):
+        s = s.group()
+        ns = s.strip(' \t\n')
+        if ns.upper not in ('A',):
+            if s.startswith(ns):
+                return '{' + ns + '}'
+            else:
+                return ' {' + ns + '}'
+        else:
+            return s
+
+    _caps_re = re.compile(r"(\s|\A)*[a-zA-Z][-a-z_]*[A-Z][-a-zA-Z_]*(?:'s)?(?=(\s|\Z))")
+
+    def _caps_stuff(self, s):
+        return self._caps_re.sub(self._to_upper_quoted, s)
 
 
 class Conference(CitationContainer):

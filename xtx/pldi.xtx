@@ -104,7 +104,7 @@
   author    = {Hucheng Zhou and
                Wenguang Chen and
                Fred C. Chow},
-  title     = {An SSA-based algorithm for optimal speculative code motion under an execution profile},
+  title     = {An {SSA-based} algorithm for optimal speculative code motion under an execution profile},
   booktitle = pldi,
   year      = 2011,
   pages     = {98-108},
@@ -153,7 +153,7 @@
                Nick P. Johnson and
                Stephen R. Beard and
                David I. August},
-  title     = {Automatic CPU-GPU communication management and optimization},
+  title     = {Automatic {CPU-GPU} communication management and optimization},
   booktitle = pldi,
   year      = 2011,
   pages     = {142-151},
@@ -163,7 +163,7 @@
   author    = {Ashwin Prasad and
                Jayvant Anantpur and
                R. Govindarajan},
-  title     = {Automatic compilation of MATLAB programs for synergistic execution on heterogeneous processors},
+  title     = {Automatic compilation of {MATLAB} programs for synergistic execution on heterogeneous processors},
   booktitle = pldi,
   year      = 2011,
   pages     = {152-163},
@@ -188,7 +188,7 @@
                Jade Alglave and
                Luc Maranget and
                Derek Williams},
-  title     = {Understanding POWER multiprocessors},
+  title     = {Understanding {POWER} multiprocessors},
   booktitle = pldi,
   year      = 2011,
   pages     = {175-186},
@@ -210,7 +210,7 @@
                Todd D. Millstein and
                Madanlal Musuvathi and
                Satish Narayanasamy},
-  title     = {A case for an SC-preserving compiler},
+  title     = {A case for an {SC-preserving} compiler},
   booktitle = pldi,
   year      = 2011,
   pages     = {199-210},
@@ -229,7 +229,7 @@
   author    = {Naoki Kobayashi and
                Ryosuke Sato and
                Hiroshi Unno},
-  title     = {Predicate abstraction and CEGAR for higher-order model checking},
+  title     = {Predicate abstraction and {CEGAR} for higher-order model checking},
   booktitle = pldi,
   year      = 2011,
   pages     = {222-233},
@@ -288,7 +288,7 @@
   author    = {Jean-Baptiste Tristan and
                Paul Govereau and
                Greg Morrisett},
-  title     = {Evaluating value-graph translation validation for LLVM},
+  title     = {Evaluating value-graph translation validation for {LLVM}},
   booktitle = pldi,
   year      = 2011,
   pages     = {295-305},
@@ -326,7 +326,7 @@
                Michael D. Bond and
                Kathryn S. McKinley and
                Vitaly Shmatikov},
-  title     = {A security policy oracle: detecting security holes using multiple API implementations},
+  title     = {A security policy oracle: detecting security holes using multiple {API} implementations},
   booktitle = pldi,
   year      = 2011,
   pages     = {343-354},
@@ -405,7 +405,7 @@
 @inproceedings{DBLP:conf/pldi/ParrF11,
   author    = {Terence Parr and
                Kathleen Fisher},
-  title     = {LL(*): the foundation of the ANTLR parser generator},
+  title     = {LL(*): the foundation of the {ANTLR} parser generator},
   booktitle = pldi,
   year      = 2011,
   pages     = {425-436},
@@ -602,7 +602,7 @@
                Sylvain Lebresne and
                Brian Burg and
                Jan Vitek},
-  title     = {An analysis of the dynamic behavior of JavaScript programs},
+  title     = {An analysis of the dynamic behavior of {JavaScript} programs},
   booktitle = pldi,
   year      = 2010,
   pages     = {1-12},
@@ -679,7 +679,7 @@
                Ping Xiang and
                Jingfei Kong and
                Huiyang Zhou},
-  title     = {A GPGPU compiler for memory optimization and parallelism management},
+  title     = {A {GPGPU} compiler for memory optimization and parallelism management},
   booktitle = pldi,
   year      = 2010,
   pages     = {86-97},
@@ -861,7 +861,7 @@
   author    = {Matthew Might and
                Yannis Smaragdakis and
                David Van Horn},
-  title     = {Resolving and exploiting the k-CFA paradox: illuminating functional vs. object-oriented program analysis},
+  title     = {Resolving and exploiting the {k-CFA} paradox: illuminating functional vs. object-oriented program analysis},
   booktitle = pldi,
   year      = 2010,
   pages     = {305-315},
@@ -1039,7 +1039,7 @@
   author    = {Suriya Subramanian and
                Michael W. Hicks and
                Kathryn S. McKinley},
-  title     = {Dynamic software updates: a VM-centric approach},
+  title     = {Dynamic software updates: a {VM-centric} approach},
   booktitle = pldi,
   year      = 2009,
   pages     = {1-12},
@@ -1246,7 +1246,7 @@
 @inproceedings{DBLP:conf/pldi/AftandilianG09,
   author    = {Edward Aftandilian and
                Samuel Z. Guyer},
-  title     = {GC assertions: using the garbage collector to check heap properties},
+  title     = {{GC} assertions: using the garbage collector to check heap properties},
   booktitle = pldi,
   year      = 2009,
   pages     = {235-244},
@@ -1265,7 +1265,7 @@
 
 @inproceedings{DBLP:conf/pldi/Oiwa09,
   author    = {Yutaka Oiwa},
-  title     = {Implementation of the memory-safe full ANSI-C compiler},
+  title     = {Implementation of the memory-safe full {ANSI-C} compiler},
   booktitle = pldi,
   year      = 2009,
   pages     = {259-269},
@@ -1546,7 +1546,7 @@
 @inproceedings{DBLP:conf/pldi/HuangS08,
   author    = {Shan Shan Huang and
                Yannis Smaragdakis},
-  title     = {Expressive and safe static reflection with MorphJ},
+  title     = {Expressive and safe static reflection with {MorphJ}},
   booktitle = pldi,
   year      = 2008,
   pages     = {79-89},
@@ -1892,7 +1892,7 @@
                Richard L. Hudson and
                Katherine F. Moore and
                Bratin Saha},
-  title     = {Enforcing isolation and ordering in STM},
+  title     = {Enforcing isolation and ordering in {STM}},
   booktitle = pldi,
   year      = 2007,
   pages     = {78-88},
@@ -2157,7 +2157,7 @@
   author    = {Pierre Genev{\`e}s and
                Nabil Laya{\"\i}da and
                Alan Schmitt},
-  title     = {Efficient static analysis of XML paths and types},
+  title     = {Efficient static analysis of {XML} paths and types},
   booktitle = pldi,
   year      = 2007,
   pages     = {342-351},
@@ -2168,7 +2168,7 @@
                Joshua S. Auerbach and
                David F. Bacon and
                Jens Palsberg},
-  title     = {The ExoVM system for automatic VM and application reduction},
+  title     = {The {ExoVM} system for automatic {VM} and application reduction},
   booktitle = pldi,
   year      = 2007,
   pages     = {352-362},
@@ -2416,7 +2416,7 @@
   author    = {Gang Ren and
                Peng Wu and
                David A. Padua},
-  title     = {Optimizing data permutations for SIMD devices},
+  title     = {Optimizing data permutations for {SIMD} devices},
   booktitle = pldi,
   year      = 2006,
   pages     = {118-131},
@@ -2426,7 +2426,7 @@
   author    = {Dorit Nuzman and
                Ira Rosen and
                Ayal Zaks},
-  title     = {Auto-vectorization of interleaved data for SIMD},
+  title     = {Auto-vectorization of interleaved data for {SIMD}},
   booktitle = pldi,
   year      = 2006,
   pages     = {132-143},
@@ -2475,7 +2475,7 @@
                Feihui Li and
                Mahmut T. Kandemir and
                Mary Jane Irwin},
-  title     = {Reducing NoC energy consumption through compiler-directed channel voltage scaling},
+  title     = {Reducing {NoC} energy consumption through compiler-directed channel voltage scaling},
   booktitle = pldi,
   year      = 2006,
   pages     = {193-203},
@@ -2703,7 +2703,7 @@
   author    = {Tayfun Elmas and
                Serdar Tasiran and
                Shaz Qadeer},
-  title     = {VYRD: verifYing concurrent programs by runtime refinement-violation detection},
+  title     = {VYRD: {verifYing} concurrent programs by runtime refinement-violation detection},
   booktitle = pldi,
   year      = 2005,
   pages     = {27-37},
@@ -2723,7 +2723,7 @@
                Lin Xu and
                Rastislav Bod{\'\i}k and
                Doug Kimelman},
-  title     = {Jungloid mining: helping to navigate the API jungle},
+  title     = {Jungloid mining: helping to navigate the {API} jungle},
   booktitle = pldi,
   year      = 2005,
   pages     = {48-61},
@@ -2785,7 +2785,7 @@
                Damien Sereni and
                Ganesh Sittampalam and
                Julian Tibble},
-  title     = {Optimising aspectJ},
+  title     = {Optimising {aspectJ}},
   booktitle = pldi,
   year      = 2005,
   pages     = {117-128},
@@ -3056,7 +3056,7 @@
   author    = {Alexandre E. Eichenberger and
                Peng Wu and
                Kevin O'Brien},
-  title     = {Vectorization for SIMD architectures with alignment constraints},
+  title     = {Vectorization for {SIMD} architectures with alignment constraints},
   booktitle = pldi,
   year      = 2004,
   pages     = {82-93},
@@ -3115,7 +3115,7 @@
 @inproceedings{DBLP:conf/pldi/LhotakH04,
   author    = {Ondrej Lhot{\'a}k and
                Laurie J. Hendren},
-  title     = {Jedd: a BDD-based relational extension of Java},
+  title     = {Jedd: a {BDD-based} relational extension of Java},
   booktitle = pldi,
   year      = 2004,
   pages     = {158-169},
@@ -3164,7 +3164,7 @@
 @inproceedings{DBLP:conf/pldi/KodumalA04,
   author    = {John Kodumal and
                Alexander Aiken},
-  title     = {The set constraint/CFL reachability connection in practice},
+  title     = {The set constraint/{CFL} reachability connection in practice},
   booktitle = pldi,
   year      = 2004,
   pages     = {207-218},
@@ -3250,7 +3250,7 @@
                Matt Welsh and
                Eric A. Brewer and
                David E. Culler},
-  title     = {The nesC language: A holistic approach to networked embedded systems},
+  title     = {The {nesC} language: A holistic approach to networked embedded systems},
   booktitle = pldi,
   year      = 2003,
   pages     = {1-11},
@@ -3269,7 +3269,7 @@
 @inproceedings{DBLP:conf/pldi/GeorgeB03,
   author    = {Lal George and
                Matthias Blume},
-  title     = {Taming the IXP network processor},
+  title     = {Taming the {IXP} network processor},
   booktitle = pldi,
   year      = 2003,
   pages     = {26-37},
@@ -3278,7 +3278,7 @@
 @inproceedings{DBLP:conf/pldi/HsuK03,
   author    = {Chung-Hsing Hsu and
                Ulrich Kremer},
-  title     = {The design, implementation, and evaluation of a compiler algorithm for CPU energy reduction},
+  title     = {The design, implementation, and evaluation of a compiler algorithm for {CPU} energy reduction},
   booktitle = pldi,
   year      = 2003,
   pages     = {38-48},
@@ -3338,7 +3338,7 @@
                Feng Qian and
                Laurie J. Hendren and
                Navindra Umanee},
-  title     = {Points-to analysis using BDDs},
+  title     = {Points-to analysis using {BDDs}},
   booktitle = pldi,
   year      = 2003,
   pages     = {103-114},
@@ -3425,7 +3425,7 @@
                Dinghao Wu and
                Andrew W. Appel and
                Hai Fang},
-  title     = {A provably sound TAL for back-end optimization},
+  title     = {A provably sound {TAL} for back-end optimization},
   booktitle = pldi,
   year      = 2003,
   pages     = {208-219},
@@ -3447,7 +3447,7 @@
                Scott McPeak and
                George C. Necula and
                Westley Weimer},
-  title     = {CCured in the real world},
+  title     = {{CCured} in the real world},
   booktitle = pldi,
   year      = 2003,
   pages     = {232-244},
@@ -3465,7 +3465,7 @@
 @inproceedings{DBLP:conf/pldi/JoishaB03,
   author    = {Pramod G. Joisha and
                Prithviraj Banerjee},
-  title     = {Static array storage optimization in MATLAB},
+  title     = {Static array storage optimization in {MATLAB}},
   booktitle = pldi,
   year      = 2003,
   pages     = {258-268},
@@ -3549,7 +3549,7 @@
   author    = {Jeffrey S. Foster and
                Tachio Terauchi and
                Alexander Aiken},
-  title     = {Flow-Sensitive Type Qualifiers},
+  title     = {{Flow-Sensitive} Type Qualifiers},
   booktitle = pldi,
   year      = 2002,
   pages     = {1-12},
@@ -3571,7 +3571,7 @@
                Ken Kennedy and
                Timothy S. Oberg and
                Steven W. Reeves},
-  title     = {Fast Copy Coalescing and Live-Range Identification},
+  title     = {Fast Copy Coalescing and {Live-Range} Identification},
   booktitle = pldi,
   year      = 2002,
   pages     = {25-32},
@@ -3581,7 +3581,7 @@
   author    = {Akira Koseki and
                Hideaki Komatsu and
                Toshio Nakatani},
-  title     = {Preference-Directed Graph Coloring},
+  title     = {{Preference-Directed} Graph Coloring},
   booktitle = pldi,
   year      = 2002,
   pages     = {33-44},
@@ -3599,7 +3599,7 @@
   author    = {Manuvir Das and
                Sorin Lerner and
                Mark Seigle},
-  title     = {ESP: Path-Sensitive Program Verification in Polynomial Time},
+  title     = {ESP: {Path-Sensitive} Program Verification in Polynomial Time},
   booktitle = pldi,
   year      = 2002,
   pages     = {57-68},
@@ -3622,7 +3622,7 @@
                John Field and
                Deepak Goyal and
                Shmuel Sagiv},
-  title     = {Deriving Specialized Program Analyses for Certifying Component-Client Conformance},
+  title     = {Deriving Specialized Program Analyses for Certifying {Component-Client} Conformance},
   booktitle = pldi,
   year      = 2002,
   pages     = {83-94},
@@ -3631,7 +3631,7 @@
 @inproceedings{DBLP:conf/pldi/DebrayE02,
   author    = {Saumya K. Debray and
                William S. Evans},
-  title     = {Profile-Guided Code Compression},
+  title     = {{Profile-Guided} Code Compression},
   booktitle = pldi,
   year      = 2002,
   pages     = {95-105},
@@ -3642,7 +3642,7 @@
                Saumya K. Debray and
                Matti A. Hiltunen and
                Richard D. Schlichting},
-  title     = {Profile-Directed Optimization of Event-Based Programs},
+  title     = {{Profile-Directed} Optimization of {Event-Based} Programs},
   booktitle = pldi,
   year      = 2002,
   pages     = {106-116},
@@ -3655,7 +3655,7 @@
                John Paul Shen and
                Gerolf Hoflehner and
                Daniel M. Lavery},
-  title     = {Post-Pass Binary Adaptation for Software-Based Speculative Precomputation},
+  title     = {{Post-Pass} Binary Adaptation for {Software-Based} Speculative Precomputation},
   booktitle = pldi,
   year      = 2002,
   pages     = {117-128},
@@ -3668,7 +3668,7 @@
                Elliot K. Kolodner and
                Victor Leikehman and
                Avi Owshanko},
-  title     = {A Parallel, Incremental and Concurrent GC for Servers},
+  title     = {A Parallel, Incremental and Concurrent {GC} for Servers},
   booktitle = pldi,
   year      = 2002,
   pages     = {129-140},
@@ -3699,7 +3699,7 @@
   author    = {Byoungro So and
                Mary W. Hall and
                Pedro C. Diniz},
-  title     = {A Compiler Approach to Fast Hardware Design Space Exploration in FPGA-based Systems},
+  title     = {A Compiler Approach to Fast Hardware Design Space Exploration in {FPGA-based} Systems},
   booktitle = pldi,
   year      = 2002,
   pages     = {165-176},
@@ -3714,7 +3714,7 @@
                Marcel Nooijen and
                David E. Bernholdt and
                Robert J. Harrison},
-  title     = {Space-Time Trade-Off Optimization for a Class of Electronic Structure Calculations},
+  title     = {{Space-Time} {Trade-Off} Optimization for a Class of Electronic Structure Calculations},
   booktitle = pldi,
   year      = 2002,
   pages     = {177-186},
@@ -3733,7 +3733,7 @@
 @inproceedings{DBLP:conf/pldi/ChilimbiH02,
   author    = {Trishul M. Chilimbi and
                Martin Hirzel},
-  title     = {Dynamic Hot Data Stream Prefetching for General-Purpose Programs},
+  title     = {Dynamic Hot Data Stream Prefetching for {General-Purpose} Programs},
   booktitle = pldi,
   year      = 2002,
   pages     = {199-209},
@@ -3751,7 +3751,7 @@
   author    = {Martin Burtscher and
                Amer Diwan and
                Matthias Hauswirth},
-  title     = {Static Load Classification for Improving the Value Predictability of Data-Cache Misses},
+  title     = {Static Load Classification for Improving the Value Predictability of {Data-Cache} Misses},
   booktitle = pldi,
   year      = 2002,
   pages     = {222-233},
@@ -3787,7 +3787,7 @@
                Robert O'Callahan and
                Vivek Sarkar and
                Manu Sridharan},
-  title     = {Efficient and Precise Datarace Detection for Multithreaded Object-Oriented Programs},
+  title     = {Efficient and Precise Datarace Detection for Multithreaded {Object-Oriented} Programs},
   booktitle = pldi,
   year      = 2002,
   pages     = {258-269},
@@ -3796,7 +3796,7 @@
 @inproceedings{DBLP:conf/pldi/BakerH02,
   author    = {Jason Baker and
                Wilson C. Hsieh},
-  title     = {Maya: Multiple-Dispatch Syntax Extension in Java},
+  title     = {Maya: {Multiple-Dispatch} Syntax Extension in Java},
   booktitle = pldi,
   year      = 2002,
   pages     = {270-281},
@@ -3809,7 +3809,7 @@
                Michael W. Hicks and
                Yanling Wang and
                James Cheney},
-  title     = {Region-Based Memory Management in Cyclone},
+  title     = {{Region-Based} Memory Management in Cyclone},
   booktitle = pldi,
   year      = 2002,
   pages     = {282-293},
@@ -3818,7 +3818,7 @@
 @inproceedings{DBLP:conf/pldi/AlmasiP02,
   author    = {George S. Almasi and
                David A. Padua},
-  title     = {MaJIC: Compiling MATLAB for Speed and Responsiveness},
+  title     = {MaJIC: Compiling {MATLAB} for Speed and Responsiveness},
   booktitle = pldi,
   year      = 2002,
   pages     = {294-303},
@@ -3837,7 +3837,7 @@
 @inproceedings{DBLP:conf/pldi/HenzingerK02,
   author    = {Thomas A. Henzinger and
                Christoph M. Kirsch},
-  title     = {The Embedded Machine: Predictable, Portable Real-Time Code},
+  title     = {The Embedded Machine: Predictable, Portable {Real-Time} Code},
   booktitle = pldi,
   year      = 2002,
   pages     = {315-326},
@@ -3846,7 +3846,7 @@
 @inproceedings{DBLP:conf/pldi/KennedyS01,
   author    = {Andrew Kennedy and
                Don Syme},
-  title     = {Design and Implementation of Generics for the .NET Common Language Runtime},
+  title     = {Design and Implementation of Generics for the .{NET} Common Language Runtime},
   booktitle = pldi,
   year      = 2001,
   pages     = {1-12},
@@ -3865,7 +3865,7 @@
 @inproceedings{DBLP:conf/pldi/HeintzeT01,
   author    = {Nevin Heintze and
                Olivier Tardieu},
-  title     = {Demand-Driven Pointer Analysis},
+  title     = {{Demand-Driven} Pointer Analysis},
   booktitle = pldi,
   year      = 2001,
   pages     = {24-34},
@@ -3893,7 +3893,7 @@
 @inproceedings{DBLP:conf/pldi/DeLineF01,
   author    = {Robert DeLine and
                Manuel F{\"a}hndrich},
-  title     = {Enforcing High-Level Protocols in Low-Level Software},
+  title     = {Enforcing {High-Level} Protocols in {Low-Level} Software},
   booktitle = pldi,
   year      = 2001,
   pages     = {59-69},
@@ -3934,7 +3934,7 @@
   author    = {Ran Shaham and
                Elliot K. Kolodner and
                Shmuel Sagiv},
-  title     = {Heap Profiling for Space-Efficient Java},
+  title     = {Heap Profiling for {Space-Efficient} Java},
   booktitle = pldi,
   year      = 2001,
   pages     = {104-113},
@@ -3944,7 +3944,7 @@
   author    = {Emery D. Berger and
                Benjamin G. Zorn and
                Kathryn S. McKinley},
-  title     = {Composing High-Performance Memory Allocators},
+  title     = {Composing {High-Performance} Memory Allocators},
   booktitle = pldi,
   year      = 2001,
   pages     = {114-124},
@@ -3953,7 +3953,7 @@
 @inproceedings{DBLP:conf/pldi/ChengB01,
   author    = {Perry Cheng and
                Guy E. Blelloch},
-  title     = {A Parallel, Real-Time Garbage Collector},
+  title     = {A Parallel, {Real-Time} Garbage Collector},
   booktitle = pldi,
   year      = 2001,
   pages     = {125-136},
@@ -3964,7 +3964,7 @@
                Niall Dalton and
                Michael Franz and
                Jeffery von Ronne},
-  title     = {SafeTSA: A Type Safe and Referentially Secure Mobile-Code Representation Based on Static Single Assignment Form},
+  title     = {SafeTSA: A Type Safe and Referentially Secure {Mobile-Code} Representation Based on Static Single Assignment Form},
   booktitle = pldi,
   year      = 2001,
   pages     = {137-147},
@@ -4057,7 +4057,7 @@
 @inproceedings{DBLP:conf/pldi/AppelG01,
   author    = {Andrew W. Appel and
                Lal George},
-  title     = {Optimal Spilling for CISC Machines with Few Registers},
+  title     = {Optimal Spilling for {CISC} Machines with Few Registers},
   booktitle = pldi,
   year      = 2001,
   pages     = {243-253},
@@ -4108,7 +4108,7 @@
                Jeremy R. Johnson and
                Robert W. Johnson and
                David A. Padua},
-  title     = {SPL: A Language and Compiler for DSP Algorithms},
+  title     = {SPL: A Language and Compiler for {DSP} Algorithms},
   booktitle = pldi,
   year      = 2001,
   pages     = {298-308},
@@ -4129,7 +4129,7 @@
   author    = {Eric Schnarr and
                Mark D. Hill and
                James R. Larus},
-  title     = {Facile: A Language and Compiler for High-Performance Processor Simulators},
+  title     = {Facile: A Language and Compiler for {High-Performance} Processor Simulators},
   booktitle = pldi,
   year      = 2001,
   pages     = {321-331},
@@ -4422,7 +4422,7 @@
   author    = {Trishul M. Chilimbi and
                Mark D. Hill and
                James R. Larus},
-  title     = {Cache-Conscious Structure Layout},
+  title     = {{Cache-Conscious} Structure Layout},
   booktitle = pldi,
   year      = 1999,
   pages     = {1-12},
@@ -4432,7 +4432,7 @@
   author    = {Trishul M. Chilimbi and
                Bob Davidson and
                James R. Larus},
-  title     = {Cache-Conscious Structure Definition},
+  title     = {{Cache-Conscious} Structure Definition},
   booktitle = pldi,
   year      = 1999,
   pages     = {13-24},
@@ -4473,7 +4473,7 @@
   author    = {Rastislav Bod{\'\i}k and
                Rajiv Gupta and
                Mary Lou Soffa},
-  title     = {Load-Reuse Analysis: Design and Evaluation},
+  title     = {{Load-Reuse} Analysis: Design and Evaluation},
   booktitle = pldi,
   year      = 1999,
   pages     = {64-76},
@@ -4520,7 +4520,7 @@
 @inproceedings{DBLP:conf/pldi/RaoP99,
   author    = {Amit Rao and
                Santosh Pande},
-  title     = {Storage Assignment Optimizations to Generate Compact and Efficient Code on Embedded DSPs},
+  title     = {Storage Assignment Optimizations to Generate Compact and Efficient Code on Embedded {DSPs}},
   booktitle = pldi,
   year      = 1999,
   pages     = {128-138},
@@ -4529,7 +4529,7 @@
 @inproceedings{DBLP:conf/pldi/CooperM99,
   author    = {Keith D. Cooper and
                Nathaniel McIntosh},
-  title     = {Enhanced Code Compression for Embedded RISC Processors},
+  title     = {Enhanced Code Compression for Embedded {RISC} Processors},
   booktitle = pldi,
   year      = 1999,
   pages     = {139-149},
@@ -4547,7 +4547,7 @@
   author    = {Michael S. Schlansker and
                Scott A. Mahlke and
                Richard Johnson},
-  title     = {Control CPR: A Branch Height Reduction Optimization for EPIC Architectures},
+  title     = {Control CPR: A Branch Height Reduction Optimization for {EPIC} Architectures},
   booktitle = pldi,
   year      = 1999,
   pages     = {155-168},
@@ -4637,7 +4637,7 @@
 @inproceedings{DBLP:conf/pldi/FraserP99,
   author    = {Christopher W. Fraser and
                Todd A. Proebsting},
-  title     = {Finite-Static Code Generation},
+  title     = {{Finite-Static} Code Generation},
   booktitle = pldi,
   year      = 1999,
   pages     = {270-280},
@@ -4647,7 +4647,7 @@
   author    = {Renaud Marlet and
                Charles Consel and
                Philippe Boinot},
-  title     = {Efficient Incremental Run-Time Specialization for Free},
+  title     = {Efficient Incremental {Run-Time} Specialization for Free},
   booktitle = pldi,
   year      = 1999,
   pages     = {281-292},
@@ -4659,7 +4659,7 @@
                Markus Mock and
                Craig Chambers and
                Susan J. Eggers},
-  title     = {An Evaluation of Staged Run-Time Optimizations in DyC},
+  title     = {An Evaluation of Staged {Run-Time} Optimizations in {DyC}},
   booktitle = pldi,
   year      = 1999,
   pages     = {293-304},
@@ -4678,7 +4678,7 @@
 @inproceedings{DBLP:conf/pldi/SastryJ98,
   author    = {A. V. S. Sastry and
                Roy Dz-Ching Ju},
-  title     = {A New Algorithm for Scalar Register Promotion based on SSA Form},
+  title     = {A New Algorithm for Scalar Register Promotion based on {SSA} Form},
   booktitle = pldi,
   year      = 1998,
   pages     = {15-25},
@@ -4748,7 +4748,7 @@
 @inproceedings{DBLP:conf/pldi/HastiH98,
   author    = {Rebecca Hasti and
                Susan Horwitz},
-  title     = {Using Static Single Assignment Form to Improve Flow-Insensitive Pointer Analysis},
+  title     = {Using Static Single Assignment Form to Improve {Flow-Insensitive} Pointer Analysis},
   booktitle = pldi,
   year      = 1998,
   pages     = {97-105},
@@ -4758,7 +4758,7 @@
   author    = {Amer Diwan and
                Kathryn S. McKinley and
                J. Eliot B. Moss},
-  title     = {Type-Based Alias Analysis},
+  title     = {{Type-Based} Alias Analysis},
   booktitle = pldi,
   year      = 1998,
   pages     = {106-117},
@@ -4768,7 +4768,7 @@
   author    = {S. Subramanya Sastry and
                Subbarao Palacharla and
                James E. Smith},
-  title     = {Exploiting Idle Floating-Point Resources for Integer Execution},
+  title     = {Exploiting Idle {Floating-Point} Resources for Integer Execution},
   booktitle = pldi,
   year      = 1998,
   pages     = {118-129},
@@ -4808,7 +4808,7 @@
   author    = {Perry Cheng and
                Robert Harper and
                Peter Lee},
-  title     = {Generational Stack Collection and Profile-Driven Pretenuring},
+  title     = {Generational Stack Collection and {Profile-Driven} Pretenuring},
   booktitle = pldi,
   year      = 1998,
   pages     = {162-173},
@@ -4825,7 +4825,7 @@
 @inproceedings{DBLP:conf/pldi/AdveM98,
   author    = {Vikram S. Adve and
                John M. Mellor-Crummey},
-  title     = {Using Integer Sets for Data-Parallel Program Analysis and Optimization},
+  title     = {Using Integer Sets for {Data-Parallel} Program Analysis and Optimization},
   booktitle = pldi,
   year      = 1998,
   pages     = {186-198},
@@ -4854,7 +4854,7 @@
   author    = {Philip Wickline and
                Peter Lee and
                Frank Pfenning},
-  title     = {Run-time Code Generation and Modal-ML},
+  title     = {Run-time Code Generation and {Modal-ML}},
   booktitle = pldi,
   year      = 1998,
   pages     = {224-235},
@@ -4863,7 +4863,7 @@
 @inproceedings{DBLP:conf/pldi/FlattF98,
   author    = {Matthew Flatt and
                Matthias Felleisen},
-  title     = {Units: Cool Modules for HOT Languages},
+  title     = {Units: Cool Modules for {HOT} Languages},
   booktitle = pldi,
   year      = 1998,
   pages     = {236-248},
@@ -4893,7 +4893,7 @@
   author    = {Ole Agesen and
                David Detlefs and
                J. Eliot B. Moss},
-  title     = {Garbage Collection and Local Variable Type-Precision and Liveness in Java Virtual Machines},
+  title     = {Garbage Collection and Local Variable {Type-Precision} and Liveness in Java Virtual Machines},
   booktitle = pldi,
   year      = 1998,
   pages     = {269-279},
@@ -4905,7 +4905,7 @@
                Guei-Yuan Lueh and
                Vishesh M. Parikh and
                James M. Stichnoth},
-  title     = {Fast, Effective Code Generation in a Just-In-Time Java Compiler},
+  title     = {Fast, Effective Code Generation in a {Just-In-Time} Java Compiler},
   booktitle = pldi,
   year      = 1998,
   pages     = {280-290},
@@ -4925,7 +4925,7 @@
                Stuart de Jong and
                John Peyton and
                Richard Schooler},
-  title     = {Scalable Cross-Module Optimization},
+  title     = {Scalable {Cross-Module} Optimization},
   booktitle = pldi,
   year      = 1998,
   pages     = {301-312},
@@ -4970,7 +4970,7 @@
 
 @inproceedings{DBLP:conf/pldi/Proebsting97,
   author    = {Todd A. Proebsting},
-  title     = {Simple Translation of Goal-Directed Evaluation},
+  title     = {Simple Translation of {Goal-Directed} Evaluation},
   booktitle = pldi,
   year      = 1997,
   pages     = {1-6},
@@ -5008,7 +5008,7 @@
                Bryan Ford and
                Jay Lepreau and
                Gary Lindstrom},
-  title     = {Flick: A Flexible, Optimizing IDL Compiler},
+  title     = {Flick: A Flexible, Optimizing {IDL} Compiler},
   booktitle = pldi,
   year      = 1997,
   pages     = {44-56},
@@ -5131,7 +5131,7 @@
   author    = {Dirk Dussart and
                Rogardt Heldal and
                John Hughes},
-  title     = {Module-Sensitive Program Specialisation},
+  title     = {{Module-Sensitive} Program Specialisation},
   booktitle = pldi,
   year      = 1997,
   pages     = {206-214},
@@ -5151,7 +5151,7 @@
                Michael E. J{\o}rgensen and
                Nils Klarlund and
                Michael I. Schwartzbach},
-  title     = {Automatic Verification of Pointer Programs using Monadic Second-Order Logic},
+  title     = {Automatic Verification of Pointer Programs using Monadic {Second-Order} Logic},
   booktitle = pldi,
   year      = 1997,
   pages     = {226-236},
@@ -5160,7 +5160,7 @@
 @inproceedings{DBLP:conf/pldi/FlanaganF97,
   author    = {Cormac Flanagan and
                Matthias Felleisen},
-  title     = {Componential Set-Based Analysis},
+  title     = {Componential {Set-Based} Analysis},
   booktitle = pldi,
   year      = 1997,
   pages     = {235-248},
@@ -5190,7 +5190,7 @@
                Shin-Ming Liu and
                Raymond Lo and
                Peng Tu},
-  title     = {A New Algorithm for Partial Redundancy Elimination based on SSA Form},
+  title     = {A New Algorithm for Partial Redundancy Elimination based on {SSA} Form},
   booktitle = pldi,
   year      = 1997,
   pages     = {273-286},
@@ -5210,7 +5210,7 @@
 @inproceedings{DBLP:conf/pldi/LuehG97,
   author    = {Guei-Yuan Lueh and
                Thomas R. Gross},
-  title     = {Call-Cost Directed Register Allocation},
+  title     = {{Call-Cost} Directed Register Allocation},
   booktitle = pldi,
   year      = 1997,
   pages     = {296-307},
@@ -5304,7 +5304,7 @@
 @inproceedings{DBLP:conf/pldi/Adl-TabatabaiG96,
   author    = {Ali-Reza Adl-Tabatabai and
                Thomas R. Gross},
-  title     = {Source-Level Debugging of Scalar Optimized Code},
+  title     = {{Source-Level} Debugging of Scalar Optimized Code},
   booktitle = pldi,
   year      = 1996,
   pages     = {33-43},
@@ -5351,7 +5351,7 @@
 
 @inproceedings{DBLP:conf/pldi/Boehm96,
   author    = {Hans-Juergen Boehm},
-  title     = {Simple Garbage-Collector-Safety},
+  title     = {Simple {Garbage-Collector-Safety}},
   booktitle = pldi,
   year      = 1996,
   pages     = {89-98},
@@ -5361,7 +5361,7 @@
   author    = {Carl Bruggeman and
                Oscar Waddell and
                R. Kent Dybvig},
-  title     = {Representing Control in the Presence of One-Shot Continuations},
+  title     = {Representing Control in the Presence of {One-Shot} Continuations},
   booktitle = pldi,
   year      = 1996,
   pages     = {99-107},
@@ -5370,7 +5370,7 @@
 @inproceedings{DBLP:conf/pldi/BurgerD96,
   author    = {Robert G. Burger and
                R. Kent Dybvig},
-  title     = {Printing Floating-Point Numbers Quickly and Accurately},
+  title     = {Printing {Floating-Point} Numbers Quickly and Accurately},
   booktitle = pldi,
   year      = 1996,
   pages     = {108-116},
@@ -5391,7 +5391,7 @@
                Geoff Langdale and
                Steven Lucco and
                Robert Wahbe},
-  title     = {Efficient and Language-Independent Mobile Programs},
+  title     = {Efficient and {Language-Independent} Mobile Programs},
   booktitle = pldi,
   year      = 1996,
   pages     = {127-136},
@@ -5400,7 +5400,7 @@
 @inproceedings{DBLP:conf/pldi/LeeL96,
   author    = {Peter Lee and
                Mark Leone},
-  title     = {Optimizing ML with Run-Time Code Generation},
+  title     = {Optimizing {ML} with {Run-Time} Code Generation},
   booktitle = pldi,
   year      = 1996,
   pages     = {137-148},
@@ -5429,7 +5429,7 @@
 @inproceedings{DBLP:conf/pldi/ReppyR96,
   author    = {John H. Reppy and
                Jon G. Riecke},
-  title     = {Simple Objects for Standard ML},
+  title     = {Simple Objects for Standard {ML}},
   booktitle = pldi,
   year      = 1996,
   pages     = {171-180},
@@ -5442,7 +5442,7 @@
                Christopher A. Stone and
                Robert Harper and
                Peter Lee},
-  title     = {TIL: A Type-Directed Optimizing Compiler for ML},
+  title     = {TIL: A {Type-Directed} Optimizing Compiler for {ML}},
   booktitle = pldi,
   year      = 1996,
   pages     = {181-192},
@@ -5496,7 +5496,7 @@
 @inproceedings{DBLP:conf/pldi/BaileyD96,
   author    = {Mark W. Bailey and
                Jack W. Davidson},
-  title     = {Target-Sensitive Construction of Diagnostic Programs for Procedure Calling Sequence Generators},
+  title     = {{Target-Sensitive} Construction of Diagnostic Programs for Procedure Calling Sequence Generators},
   booktitle = pldi,
   year      = 1996,
   pages     = {249-257},
@@ -5505,7 +5505,7 @@
 @inproceedings{DBLP:conf/pldi/RussinovichC96,
   author    = {Mark Russinovich and
                Bryce Cogswell},
-  title     = {Replay For Concurrent Non-Deterministic Shared Memory Applications},
+  title     = {Replay For Concurrent {Non-Deterministic} Shared Memory Applications},
   booktitle = pldi,
   year      = 1996,
   pages     = {258-266},
@@ -5523,7 +5523,7 @@
   author    = {Vugranam C. Sreedhar and
                Guang R. Gao and
                Yong-Fong Lee},
-  title     = {A New Framework for Exhaustive and Incremental Data Flow Analysis Using DJ Graphs},
+  title     = {A New Framework for Exhaustive and Incremental Data Flow Analysis Using {DJ} Graphs},
   booktitle = pldi,
   year      = 1996,
   pages     = {278-290},
@@ -5541,7 +5541,7 @@
 @inproceedings{DBLP:conf/pldi/WilsonL95,
   author    = {Robert P. Wilson and
                Monica S. Lam},
-  title     = {Efficient Context-Sensitive Pointer Analysis for C Programs},
+  title     = {Efficient {Context-Sensitive} Pointer Analysis for C Programs},
   booktitle = pldi,
   year      = 1995,
   pages     = {1},
@@ -5549,7 +5549,7 @@
 
 @inproceedings{DBLP:conf/pldi/Ruf95,
   author    = {Erik Ruf},
-  title     = {Context-Insensitive Alias Analysis Reconsidered},
+  title     = {{Context-Insensitive} Alias Analysis Reconsidered},
   booktitle = pldi,
   year      = 1995,
   pages     = {13-22},
@@ -5558,7 +5558,7 @@
 @inproceedings{DBLP:conf/pldi/CariniH95,
   author    = {Paul R. Carini and
                Michael Hind},
-  title     = {Flow-Sensitive Interprocedural Constant Propagation},
+  title     = {{Flow-Sensitive} Interprocedural Constant Propagation},
   booktitle = pldi,
   year      = 1995,
   pages     = {23-31},
@@ -5606,7 +5606,7 @@
                James H. Martin and
                Michael Mozer and
                Benjamin G. Zorn},
-  title     = {Corpus-Based Static Branch Prediction},
+  title     = {{Corpus-Based} Static Branch Prediction},
   booktitle = pldi,
   year      = 1995,
   pages     = {79-92},
@@ -5616,7 +5616,7 @@
   author    = {Jeffrey Dean and
                Craig Chambers and
                David Grove},
-  title     = {Selective Specialization for Object-Oriented Languages},
+  title     = {Selective Specialization for {Object-Oriented} Languages},
   booktitle = pldi,
   year      = 1995,
   pages     = {93-102},
@@ -5624,7 +5624,7 @@
 
 @inproceedings{DBLP:conf/pldi/Fernandez95,
   author    = {Mary F. Fernandez},
-  title     = {Simple and Effective Link-Time Optimization of Modula-3 Programs},
+  title     = {Simple and Effective {Link-Time} Optimization of Modula-3 Programs},
   booktitle = pldi,
   year      = 1995,
   pages     = {103-115},
@@ -5633,7 +5633,7 @@
 @inproceedings{DBLP:conf/pldi/ShaoA95,
   author    = {Zhong Shao and
                Andrew W. Appel},
-  title     = {A Type-Based Compiler for Standard ML},
+  title     = {A {Type-Based} Compiler for Standard {ML}},
   booktitle = pldi,
   year      = 1995,
   pages     = {116-129},
@@ -5662,7 +5662,7 @@
 @inproceedings{DBLP:conf/pldi/LoE95,
   author    = {Jack L. Lo and
                Susan J. Eggers},
-  title     = {Improving Balanced Scheduling with Compiler Optimizations that Increase Instruction-Level Parallelism},
+  title     = {Improving Balanced Scheduling with Compiler Optimizations that Increase {Instruction-Level} Parallelism},
   booktitle = pldi,
   year      = 1995,
   pages     = {151-162},
@@ -5672,7 +5672,7 @@
   author    = {Pascalin Amagb{\'e}gnon and
                Lo{\"\i}c Besnard and
                Paul Le Guernic},
-  title     = {Implementation of the Data-Flow Synchronous Language SIGNAL},
+  title     = {Implementation of the {Data-Flow} Synchronous Language {SIGNAL}},
   booktitle = pldi,
   year      = 1995,
   pages     = {163-173},
@@ -5682,7 +5682,7 @@
   author    = {Alexander Aiken and
                Manuel F{\"a}hndrich and
                Raph Levien},
-  title     = {Better Static Memory Management: Improving Region-Based Analysis of Higher-Order Languages},
+  title     = {Better Static Memory Management: Improving {Region-Based} Analysis of {Higher-Order} Languages},
   booktitle = pldi,
   year      = 1995,
   pages     = {174-185},
@@ -5721,7 +5721,7 @@
 @inproceedings{DBLP:conf/pldi/RauchwergerP95,
   author    = {Lawrence Rauchwerger and
                David A. Padua},
-  title     = {The LRPD Test: Speculative Run-Time Parallelization of Loops with Privatization and Reduction Parallelization},
+  title     = {The {LRPD} Test: Speculative {Run-Time} Parallelization of Loops with Privatization and Reduction Parallelization},
   booktitle = pldi,
   year      = 1995,
   pages     = {218-232},
@@ -5776,7 +5776,7 @@
 @inproceedings{DBLP:conf/pldi/LarusS95,
   author    = {James R. Larus and
                Eric Schnarr},
-  title     = {EEL: Machine-Independent Executable Editing},
+  title     = {EEL: {Machine-Independent} Executable Editing},
   booktitle = pldi,
   year      = 1995,
   pages     = {291-300},
@@ -5802,7 +5802,7 @@
 @inproceedings{DBLP:conf/pldi/SabryF94,
   author    = {Amr Sabry and
                Matthias Felleisen},
-  title     = {Is Continuation-Passing Useful for Data Flow Analysis?},
+  title     = {Is {Continuation-Passing} Useful for Data Flow Analysis?},
   booktitle = pldi,
   year      = 1994,
   pages     = {1-12},
@@ -5811,7 +5811,7 @@
 @inproceedings{DBLP:conf/pldi/AppelM94,
   author    = {Andrew W. Appel and
                David B. MacQueen},
-  title     = {Separate Compilation for Standard ML},
+  title     = {Separate Compilation for Standard {ML}},
   booktitle = pldi,
   year      = 1994,
   pages     = {13-23},
@@ -5832,7 +5832,7 @@
                Ki-Chang Kim and
                Gabriel M. Silberman and
                Isaac Ziv},
-  title     = {VLIW Compilation Techniques in a Superscalar Environment},
+  title     = {{VLIW} Compilation Techniques in a Superscalar Environment},
   booktitle = pldi,
   year      = 1994,
   pages     = {36-48},
@@ -5841,7 +5841,7 @@
 @inproceedings{DBLP:conf/pldi/SrivastavaW94,
   author    = {Amitabh Srivastava and
                David W. Wall},
-  title     = {Link-Time Optimization of Address Calculation on a 64-bit Architecture},
+  title     = {{Link-Time} Optimization of Address Calculation on a 64-bit Architecture},
   booktitle = pldi,
   year      = 1994,
   pages     = {49-60},
@@ -5858,7 +5858,7 @@
 
 @inproceedings{DBLP:conf/pldi/Wang94,
   author    = {Ko-Yang Wang},
-  title     = {Precise Compile-Time Performance Prediction for Superscalar-Based Computers},
+  title     = {Precise {Compile-Time} Performance Prediction for {Superscalar-Based} Computers},
   booktitle = pldi,
   year      = 1994,
   pages     = {73-84},
@@ -5886,7 +5886,7 @@
 @inproceedings{DBLP:conf/pldi/HanxledenK94,
   author    = {Reinhard von Hanxleden and
                Ken Kennedy},
-  title     = {GIVE-N-TAKE - A Balanced Code Placement Framework},
+  title     = {{GIVE-N-TAKE} - A Balanced Code Placement Framework},
   booktitle = pldi,
   year      = 1994,
   pages     = {107-120},
@@ -5950,7 +5950,7 @@
 @inproceedings{DBLP:conf/pldi/SrivastavaE94,
   author    = {Amitabh Srivastava and
                Alan Eustace},
-  title     = {ATOM - A System for Building Customized Program Analysis Tools},
+  title     = {{ATOM} - A System for Building Customized Program Analysis Tools},
   booktitle = pldi,
   year      = 1994,
   pages     = {196-205},
@@ -5958,7 +5958,7 @@
 
 @inproceedings{DBLP:conf/pldi/Reinhold94,
   author    = {Mark B. Reinhold},
-  title     = {Cache Performance of Garbage-Collected Programs},
+  title     = {Cache Performance of {Garbage-Collected} Programs},
   booktitle = pldi,
   year      = 1994,
   pages     = {206-217},
@@ -5968,7 +5968,7 @@
   author    = {Joseph Hummel and
                Laurie J. Hendren and
                Alexandru Nicolau},
-  title     = {A General Data Dependence Test for Dynamic, Pointer-Based Data Structures},
+  title     = {A General Data Dependence Test for Dynamic, {Pointer-Based} Data Structures},
   booktitle = pldi,
   year      = 1994,
   pages     = {218-229},
@@ -5976,7 +5976,7 @@
 
 @inproceedings{DBLP:conf/pldi/Deutsch94,
   author    = {Alain Deutsch},
-  title     = {Interprocedural May-Alias Analysis for Pointers: Beyond k-limiting},
+  title     = {Interprocedural {May-Alias} Analysis for Pointers: Beyond k-limiting},
   booktitle = pldi,
   year      = 1994,
   pages     = {230-241},
@@ -5986,7 +5986,7 @@
   author    = {Maryam Emami and
                Rakesh Ghiya and
                Laurie J. Hendren},
-  title     = {Context-Sensitive Interprocedural Points-to Analysis in the Presence of Function Pointers},
+  title     = {{Context-Sensitive} Interprocedural Points-to Analysis in the Presence of Function Pointers},
   booktitle = pldi,
   year      = 1994,
   pages     = {242-256},
@@ -6039,7 +6039,7 @@
 @inproceedings{DBLP:conf/pldi/NetzerW94,
   author    = {Robert H. B. Netzer and
                Mark H. Weaver},
-  title     = {Optimal Tracing and Incremental Reexecution for Debugging Long-Running Programs},
+  title     = {Optimal Tracing and Incremental Reexecution for Debugging {Long-Running} Programs},
   booktitle = pldi,
   year      = 1994,
   pages     = {313-325},
@@ -6048,7 +6048,7 @@
 @inproceedings{DBLP:conf/pldi/HolzleU94,
   author    = {Urs H{\"o}lzle and
                David Ungar},
-  title     = {Optimizing Dynamically-Dispatched Calls with Run-Time Type Feedback},
+  title     = {Optimizing {Dynamically-Dispatched} Calls with {Run-Time} Type Feedback},
   booktitle = pldi,
   year      = 1994,
   pages     = {326-336},
@@ -6104,7 +6104,7 @@
 @inproceedings{DBLP:conf/pldi/CytronG93,
   author    = {Ron Cytron and
                Reid Gershbein},
-  title     = {Efficient Accomodation of May-Alias Information in SSA Form},
+  title     = {Efficient Accomodation of {May-Alias} Information in {SSA} Form},
   booktitle = pldi,
   year      = 1993,
   pages     = {36-45},
@@ -6112,7 +6112,7 @@
 
 @inproceedings{DBLP:conf/pldi/Bourdoncle93,
   author    = {Fran{\c{c}}ois Bourdoncle},
-  title     = {Abstract Debugging of Higher-Order Imperative Languages},
+  title     = {Abstract Debugging of {Higher-Order} Imperative Languages},
   booktitle = pldi,
   year      = 1993,
   pages     = {46-55},
@@ -6141,7 +6141,7 @@
 @inproceedings{DBLP:conf/pldi/JohnsonP93,
   author    = {Richard Johnson and
                Keshav Pingali},
-  title     = {Dependence-Based Program Analysis},
+  title     = {{Dependence-Based} Program Analysis},
   booktitle = pldi,
   year      = 1993,
   pages     = {78-89},
@@ -6188,7 +6188,7 @@
   author    = {Norman Adams and
                Pavel Curtis and
                Mike Spreitzer},
-  title     = {First-Class Data-Type Representations in SchemeXerox},
+  title     = {{First-Class} {Data-Type} Representations in {SchemeXerox}},
   booktitle = pldi,
   year      = 1993,
   pages     = {139-146},
@@ -6214,7 +6214,7 @@
 @inproceedings{DBLP:conf/pldi/HongG93,
   author    = {Seongsoo Hong and
                Richard Gerber},
-  title     = {Compiling Real-Time Programs into Schedulable Code},
+  title     = {Compiling {Real-Time} Programs into Schedulable Code},
   booktitle = pldi,
   year      = 1993,
   pages     = {166-176},
@@ -6251,7 +6251,7 @@
   author    = {R. Kent Dybvig and
                Carl Bruggeman and
                David Eby},
-  title     = {Guardians in a Generation-Based Garbage Collector},
+  title     = {Guardians in a {Generation-Based} Garbage Collector},
   booktitle = pldi,
   year      = 1993,
   pages     = {207-216},
@@ -6260,7 +6260,7 @@
 @inproceedings{DBLP:conf/pldi/NettlesO93,
   author    = {Scott Nettles and
                James O'Toole},
-  title     = {Real-Time Replication Garbage Collection},
+  title     = {{Real-Time} Replication Garbage Collection},
   booktitle = pldi,
   year      = 1993,
   pages     = {217-226},
@@ -6296,7 +6296,7 @@
 
 @inproceedings{DBLP:conf/pldi/Huff93,
   author    = {Richard A. Huff},
-  title     = {Lifetime-Sensitive Modulo Scheduling},
+  title     = {{Lifetime-Sensitive} Modulo Scheduling},
   booktitle = pldi,
   year      = 1993,
   pages     = {258-267},
@@ -6325,7 +6325,7 @@
                Scott A. Mahlke and
                Wen-mei W. Hwu and
                B. Ramakrishna Rau},
-  title     = {Reverse If-Conversion},
+  title     = {Reverse {If-Conversion}},
   booktitle = pldi,
   year      = 1993,
   pages     = {290-299},
@@ -6382,7 +6382,7 @@
                Satoshi Kurihara and
                Mikio Inari and
                Norihisa Doi},
-  title     = {The Design and Implementation of HoME},
+  title     = {The Design and Implementation of {HoME}},
   booktitle = pldi,
   year      = 1992,
   pages     = {44-54},
@@ -6481,7 +6481,7 @@
 @inproceedings{DBLP:conf/pldi/SarkarT92,
   author    = {Vivek Sarkar and
                Radhika Thekkath},
-  title     = {A General Framework for Iteration-Reordering Loop Transformations},
+  title     = {A General Framework for {Iteration-Reordering} Loop Transformations},
   booktitle = pldi,
   year      = 1992,
   pages     = {175-187},
@@ -6490,7 +6490,7 @@
 @inproceedings{DBLP:conf/pldi/HanxledenK92,
   author    = {Reinhard von Hanxleden and
                Ken Kennedy},
-  title     = {Relaxing SIMD Control Flow Constraints using Loop Transformations},
+  title     = {Relaxing {SIMD} Control Flow Constraints using Loop Transformations},
   booktitle = pldi,
   year      = 1992,
   pages     = {188-199},
@@ -6602,7 +6602,7 @@
 
 @inproceedings{DBLP:conf/pldi/Proebsting92,
   author    = {Todd A. Proebsting},
-  title     = {Simple and Efficient BURS Table Generation},
+  title     = {Simple and Efficient {BURS} Table Generation},
   booktitle = pldi,
   year      = 1992,
   pages     = {331-340},
@@ -6611,7 +6611,7 @@
 @inproceedings{DBLP:conf/pldi/GranlundK92,
   author    = {Torbj{\"o}rn Granlund and
                Richard Kenner},
-  title     = {Eliminating Branches using a Superoptimizer and the GNU C Compiler},
+  title     = {Eliminating Branches using a Superoptimizer and the {GNU} C Compiler},
   booktitle = pldi,
   year      = 1992,
   pages     = {341-352},
@@ -6672,7 +6672,7 @@
 
 @inproceedings{DBLP:conf/pldi/Launchbury91,
   author    = {John Launchbury},
-  title     = {Strictness and Binding-Time Analyses: Two for the Price of One},
+  title     = {Strictness and {Binding-Time} Analyses: Two for the Price of One},
   booktitle = pldi,
   year      = 1991,
   pages     = {80-91},
@@ -6708,7 +6708,7 @@
   author    = {Siddhartha Chatterjee and
                Guy E. Blelloch and
                Allan L. Fisher},
-  title     = {Size and Access Inference for Data-Parallel Programs},
+  title     = {Size and Access Inference for {Data-Parallel} Programs},
   booktitle = pldi,
   year      = 1991,
   pages     = {130-144},
@@ -6737,7 +6737,7 @@
 
 @inproceedings{DBLP:conf/pldi/Goldberg91,
   author    = {Benjamin Goldberg},
-  title     = {Tag-Free Garbage Collection for Strongly Typed Programming Languages},
+  title     = {{Tag-Free} Garbage Collection for Strongly Typed Programming Languages},
   booktitle = pldi,
   year      = 1991,
   pages     = {165-176},
@@ -6747,7 +6747,7 @@
   author    = {Paul R. Wilson and
                Michael S. Lam and
                Thomas G. Moher},
-  title     = {Effective ``Static-Graph'' Reorganization to Improve Locality in Garbage-Collected Systems},
+  title     = {Effective ``Static-Graph'' Reorganization to Improve Locality in {Garbage-Collected} Systems},
   booktitle = pldi,
   year      = 1991,
   pages     = {177-191},
@@ -6766,7 +6766,7 @@
   author    = {Guang R. Gao and
                Yue-Bong Wong and
                Qi Ning},
-  title     = {A Timed Petri-Net Model for Fine-Grain Loop Scheduling},
+  title     = {A Timed {Petri-Net} Model for {Fine-Grain} Loop Scheduling},
   booktitle = pldi,
   year      = 1991,
   pages     = {204-218},
@@ -6802,7 +6802,7 @@
 @inproceedings{DBLP:conf/pldi/ProebstingF91,
   author    = {Todd A. Proebsting and
                Charles N. Fischer},
-  title     = {Linear-Time, Optimal Code Scheduling for Delayed-Load Architectures},
+  title     = {Linear-Time, Optimal Code Scheduling for {Delayed-Load} Architectures},
   booktitle = pldi,
   year      = 1991,
   pages     = {256-267},
@@ -6811,7 +6811,7 @@
 @inproceedings{DBLP:conf/pldi/FreemanP91,
   author    = {Tim Freeman and
                Frank Pfenning},
-  title     = {Refinement Types for ML},
+  title     = {Refinement Types for {ML}},
   booktitle = pldi,
   year      = 1991,
   pages     = {268-277},
@@ -6828,7 +6828,7 @@
 
 @inproceedings{DBLP:conf/pldi/Reppy91,
   author    = {John H. Reppy},
-  title     = {CML: A Higher-Order Concurrent Language},
+  title     = {CML: A {Higher-Order} Concurrent Language},
   booktitle = pldi,
   year      = 1991,
   pages     = {293-305},
@@ -6838,7 +6838,7 @@
   author    = {Joxan Jaffar and
                Spiro Michaylov and
                Roland H. C. Yap},
-  title     = {A Methodology for Managing Hard Constraints in CLP Systems},
+  title     = {A Methodology for Managing Hard Constraints in {CLP} Systems},
   booktitle = pldi,
   year      = 1991,
   pages     = {306-316},
@@ -6891,7 +6891,7 @@
 
 @inproceedings{DBLP:conf/pldi/Wendt90,
   author    = {Alan L. Wendt},
-  title     = {Fast Code Generation Using Automatically-Generated Decision Trees},
+  title     = {Fast Code Generation Using {Automatically-Generated} Decision Trees},
   booktitle = pldi,
   year      = 1990,
   pages     = {9-15},
@@ -6917,7 +6917,7 @@
 
 @inproceedings{DBLP:conf/pldi/Nickerson90,
   author    = {Brian R. Nickerson},
-  title     = {Graph Coloring Register Allocation for Processors with Multi-Register Operands},
+  title     = {Graph Coloring Register Allocation for Processors with {Multi-Register} Operands},
   booktitle = pldi,
   year      = 1990,
   pages     = {40-52},
@@ -6937,7 +6937,7 @@
   author    = {Robert Hieb and
                R. Kent Dybvig and
                Carl Bruggeman},
-  title     = {Representing Control in the Presence of First-Class Continuations},
+  title     = {Representing Control in the Presence of {First-Class} Continuations},
   booktitle = pldi,
   year      = 1990,
   pages     = {66-77},
@@ -6954,7 +6954,7 @@
 @inproceedings{DBLP:conf/pldi/PughW90,
   author    = {William Pugh and
                Grant E. Weddell},
-  title     = {Two-Directional Record Layout for Multiple Inheritance},
+  title     = {{Two-Directional} Record Layout for Multiple Inheritance},
   booktitle = pldi,
   year      = 1990,
   pages     = {85-91},
@@ -6962,7 +6962,7 @@
 
 @inproceedings{DBLP:conf/pldi/Clinger90,
   author    = {William D. Clinger},
-  title     = {How to Read Floating-Point Numbers Accurately},
+  title     = {How to Read {Floating-Point} Numbers Accurately},
   booktitle = pldi,
   year      = 1990,
   pages     = {92-101},
@@ -6980,7 +6980,7 @@
 @inproceedings{DBLP:conf/pldi/SteeleW90,
   author    = {Guy L. Steele Jr. and
                Jon L. White},
-  title     = {How to Print Floating-Point Numbers Accurately},
+  title     = {How to Print {Floating-Point} Numbers Accurately},
   booktitle = pldi,
   year      = 1990,
   pages     = {112-126},
@@ -6989,7 +6989,7 @@
 @inproceedings{DBLP:conf/pldi/CormackW90,
   author    = {Gordon V. Cormack and
                Andrew K. Wright},
-  title     = {Type-Dependent Parameter Inference},
+  title     = {{Type-Dependent} Parameter Inference},
   booktitle = pldi,
   year      = 1990,
   pages     = {127-136},
@@ -7007,7 +7007,7 @@
 @inproceedings{DBLP:conf/pldi/ChambersU90,
   author    = {Craig Chambers and
                David Ungar},
-  title     = {Iterative Type Analysis and Extended Message Splitting: Optimizing Dynamically-Typed Object-Oriented Programs},
+  title     = {Iterative Type Analysis and Extended Message Splitting: Optimizing {Dynamically-Typed} {Object-Oriented} Programs},
   booktitle = pldi,
   year      = 1990,
   pages     = {150-164},
@@ -7034,7 +7034,7 @@
 @inproceedings{DBLP:conf/pldi/MitsolidesH90,
   author    = {Thanasis Mitsolides and
                Malcolm Harrison},
-  title     = {Generators and the Replicator Control Structures in the Parallel Environment of ALLOY},
+  title     = {Generators and the Replicator Control Structures in the Parallel Environment of {ALLOY}},
   booktitle = pldi,
   year      = 1990,
   pages     = {189-196},
@@ -7043,7 +7043,7 @@
 @inproceedings{DBLP:conf/pldi/TeitelbaumC90,
   author    = {Tim Teitelbaum and
                Richard Chapman},
-  title     = {Higher-Order Attribute Grammars and Editing Environments},
+  title     = {{Higher-Order} Attribute Grammars and Editing Environments},
   booktitle = pldi,
   year      = 1990,
   pages     = {197-208},
@@ -7092,7 +7092,7 @@
   author    = {Robert A. Ballance and
                Arthur B. Maccabe and
                Karl J. Ottenstein},
-  title     = {The Program Dependence Web: A Representation Supporting Control, Data, and Demand-Driven Interpretation of Imperative Languages},
+  title     = {The Program Dependence Web: A Representation Supporting Control, Data, and {Demand-Driven} Interpretation of Imperative Languages},
   booktitle = pldi,
   year      = 1990,
   pages     = {257-271},
@@ -7135,7 +7135,7 @@
 
 @inproceedings{DBLP:conf/pldi/Sarkar90,
   author    = {Vivek Sarkar},
-  title     = {Instruction Reordering for Fork-Join Parallelism},
+  title     = {Instruction Reordering for {Fork-Join} Parallelism},
   booktitle = pldi,
   year      = 1990,
   pages     = {322-336},
@@ -7153,7 +7153,7 @@
 
 @inproceedings{DBLP:conf/pldi/Venkatesh89,
   author    = {G. A. Venkatesh},
-  title     = {A Framework for Construction and Evaluation of High-Level Specifications for Program Analysis Techniques},
+  title     = {A Framework for Construction and Evaluation of {High-Level} Specifications for Program Analysis Techniques},
   booktitle = pldi,
   year      = 1989,
   pages     = {1-12},
@@ -7191,7 +7191,7 @@
   author    = {Ron Cytron and
                Michael Hind and
                Wilson C. Hsieh},
-  title     = {Automatic Generation of DAG Parallelism},
+  title     = {Automatic Generation of {DAG} Parallelism},
   booktitle = pldi,
   year      = 1989,
   pages     = {54-68},
@@ -7210,7 +7210,7 @@
   author    = {David A. Kranz and
                Robert H. Halstead Jr. and
                Eric Mohr},
-  title     = {Mul-T: A High-Performance Parallel Lisp},
+  title     = {Mul-T: A {High-Performance} Parallel Lisp},
   booktitle = pldi,
   year      = 1989,
   pages     = {81-90},
@@ -7248,7 +7248,7 @@
 @inproceedings{DBLP:conf/pldi/FarrowS89,
   author    = {Rodney Farrow and
                Alec G. Stanculescu},
-  title     = {A VHDL Compiler Based on Attribute Grammar Methodology},
+  title     = {A {VHDL} Compiler Based on Attribute Grammar Methodology},
   booktitle = pldi,
   year      = 1989,
   pages     = {120-130},
@@ -7258,7 +7258,7 @@
   author    = {Harald Vogt and
                S. Doaitse Swierstra and
                Matthijs F. Kuiper},
-  title     = {Higher-Order Attribute Grammars},
+  title     = {{Higher-Order} Attribute Grammars},
   booktitle = pldi,
   year      = 1989,
   pages     = {131-145},
@@ -7267,7 +7267,7 @@
 @inproceedings{DBLP:conf/pldi/ChambersU89,
   author    = {Craig Chambers and
                David Ungar},
-  title     = {Customization: Optimizing Compiler Technology for SELF, A Dynamically-Typed Object-Oriented Programming Language},
+  title     = {Customization: Optimizing Compiler Technology for SELF, A {Dynamically-Typed} {Object-Oriented} Programming Language},
   booktitle = pldi,
   year      = 1989,
   pages     = {146-160},
@@ -7275,7 +7275,7 @@
 
 @inproceedings{DBLP:conf/pldi/Cormack89,
   author    = {Gordon V. Cormack},
-  title     = {An LR Substring Parser for Noncorrecting Syntax Error Recovery},
+  title     = {An {LR} Substring Parser for Noncorrecting Syntax Error Recovery},
   booktitle = pldi,
   year      = 1989,
   pages     = {161-169},
@@ -7311,7 +7311,7 @@
 @inproceedings{DBLP:conf/pldi/OTooleG89,
   author    = {James O'Toole and
                David K. Gifford},
-  title     = {Type Reconstruction with First-Class Polymorphic Values},
+  title     = {Type Reconstruction with {First-Class} Polymorphic Values},
   booktitle = pldi,
   year      = 1989,
   pages     = {207-217},
@@ -7330,7 +7330,7 @@
   author    = {Helmut Emmelmann and
                Friedrich-Wilhelm Schr{\"o}er and
                Rudolf Landwehr},
-  title     = {BEG - A Generator for Efficient Back Ends},
+  title     = {{BEG} - A Generator for Efficient Back Ends},
   booktitle = pldi,
   year      = 1989,
   pages     = {227-237},
@@ -7390,7 +7390,7 @@
 
 @inproceedings{DBLP:conf/pldi/Schonberg89,
   author    = {Edith Schonberg},
-  title     = {On-The-Fly Detection of Access Anomalies},
+  title     = {{On-The-Fly} Detection of Access Anomalies},
   booktitle = pldi,
   year      = 1989,
   pages     = {285-297},
@@ -7406,7 +7406,7 @@
 
 @inproceedings{DBLP:conf/pldi/Goldberg89,
   author    = {Benjamin Goldberg},
-  title     = {Generational Reference Counting: A Reduced-Communication Distributed Storage Reclamation Scheme},
+  title     = {Generational Reference Counting: A {Reduced-Communication} Distributed Storage Reclamation Scheme},
   booktitle = pldi,
   year      = 1989,
   pages     = {313-321},
@@ -7455,7 +7455,7 @@
   author    = {Andrew W. Appel and
                John R. Ellis and
                Kai Li},
-  title     = {Real-Time Concurrent Collection on Stock Multiprocessors},
+  title     = {{Real-Time} Concurrent Collection on Stock Multiprocessors},
   booktitle = pldi,
   year      = 1988,
   pages     = {11-20},
@@ -7482,7 +7482,7 @@
 
 @inproceedings{DBLP:conf/pldi/Callahan88,
   author    = {David Callahan},
-  title     = {The Program Summary Graph and Flow-Sensitive InterproceduralData Flow Analysis},
+  title     = {The Program Summary Graph and {Flow-Sensitive} {InterproceduralData} Flow Analysis},
   booktitle = pldi,
   year      = 1988,
   pages     = {47-56},
@@ -7491,7 +7491,7 @@
 @inproceedings{DBLP:conf/pldi/CooperK88,
   author    = {Keith D. Cooper and
                Ken Kennedy},
-  title     = {Interprocedural Side-Effect Analysis in Linear Time},
+  title     = {Interprocedural {Side-Effect} Analysis in Linear Time},
   booktitle = pldi,
   year      = 1988,
   pages     = {57-66},
@@ -7535,7 +7535,7 @@
   author    = {Kristy Andrews and
                Robert R. Henry and
                Wayne K. Yamamoto},
-  title     = {Design and Implementation of the UW Illustrated Compiler},
+  title     = {Design and Implementation of the {UW} Illustrated Compiler},
   booktitle = pldi,
   year      = 1988,
   pages     = {105-114},
@@ -7554,7 +7554,7 @@
   author    = {Deborah S. Coutant and
                Sue Meloy and
                Michelle Ruscetta},
-  title     = {DOC: A Practical Approach to Source-Level Debugging of Globally Optimized Code},
+  title     = {DOC: A Practical Approach to {Source-Level} Debugging of Globally Optimized Code},
   booktitle = pldi,
   year      = 1988,
   pages     = {125-134},
@@ -7588,7 +7588,7 @@
 
 @inproceedings{DBLP:conf/pldi/Shivers88,
   author    = {Olin Shivers},
-  title     = {Control-Flow Analysis in Scheme},
+  title     = {{Control-Flow} Analysis in Scheme},
   booktitle = pldi,
   year      = 1988,
   pages     = {164-174},
@@ -7608,7 +7608,7 @@
   author    = {Robert A. Ballance and
                Jacob Butcher and
                Susan L. Graham},
-  title     = {Grammatical Abstraction and Incremental Syntax Analysis in a Language-Based Editor},
+  title     = {Grammatical Abstraction and Incremental Syntax Analysis in a {Language-Based} Editor},
   booktitle = pldi,
   year      = 1988,
   pages     = {185-198},
@@ -7617,7 +7617,7 @@
 @inproceedings{DBLP:conf/pldi/PfenningE88,
   author    = {Frank Pfenning and
                Conal Elliott},
-  title     = {Higher-Order Abstract Syntax},
+  title     = {{Higher-Order} Abstract Syntax},
   booktitle = pldi,
   year      = 1988,
   pages     = {199-208},
@@ -7665,7 +7665,7 @@
 
 @inproceedings{DBLP:conf/pldi/Reppy88,
   author    = {John H. Reppy},
-  title     = {Synchronous Operations as First-Class Values},
+  title     = {Synchronous Operations as {First-Class} Values},
   booktitle = pldi,
   year      = 1988,
   pages     = {250-259},
@@ -7683,7 +7683,7 @@
 @inproceedings{DBLP:conf/pldi/PallasU88,
   author    = {Joseph Pallas and
                David Ungar},
-  title     = {Multiprocessor Smalltalk: A Case Study of a Multiprocessor-Based Programming Environment},
+  title     = {Multiprocessor Smalltalk: A Case Study of a {Multiprocessor-Based} Programming Environment},
   booktitle = pldi,
   year      = 1988,
   pages     = {268-277},
@@ -7725,7 +7725,7 @@
 
 @inproceedings{DBLP:conf/pldi/Lam88,
   author    = {Monica S. Lam},
-  title     = {Software Pipelining: An Effective Scheduling Technique for VLIW Machines},
+  title     = {Software Pipelining: An Effective Scheduling Technique for {VLIW} Machines},
   booktitle = pldi,
   year      = 1988,
   pages     = {318-328},
@@ -7788,7 +7788,7 @@
 @inproceedings{DBLP:conf/pldi/SutorJ87,
   author    = {Robert S. Sutor and
                Richard D. Jenks},
-  title     = {The type inference and coercion facilities in the scratchpad II interpreter},
+  title     = {The type inference and coercion facilities in the scratchpad {II} interpreter},
   booktitle = pldi,
   year      = 1987,
   pages     = {56-63},
@@ -7892,7 +7892,7 @@
 
 @inproceedings{DBLP:conf/pldi/Johnson87,
   author    = {Gregory F. Johnson},
-  title     = {GL-a denotational testbed with continuations and partial continuations as first-class objects},
+  title     = {{GL-a} denotational testbed with continuations and partial continuations as first-class objects},
   booktitle = pldi,
   year      = 1987,
   pages     = {165-176},
@@ -7910,7 +7910,7 @@
 @inproceedings{DBLP:conf/pldi/DavidsonG87,
   author    = {Jack W. Davidson and
                Joseph V. Gresh},
-  title     = {Cint: a RISC interpreter for the C programming language},
+  title     = {Cint: a {RISC} interpreter for the C programming language},
   booktitle = pldi,
   year      = 1987,
   pages     = {189-198},
@@ -7929,7 +7929,7 @@
   author    = {Henry Harr and
                Martha W. Evens and
                James Sprowl},
-  title     = {Interpreting ABF - a language for document construction},
+  title     = {Interpreting {ABF} - a language for document construction},
   booktitle = pldi,
   year      = 1987,
   pages     = {205-213},
@@ -7945,7 +7945,7 @@
 
 @inproceedings{DBLP:conf/pldi/Clark87,
   author    = {Christopher F. Clark},
-  title     = {The JADE interpreter: a RISC interpreter for syntax directed editing},
+  title     = {The {JADE} interpreter: a {RISC} interpreter for syntax directed editing},
   booktitle = pldi,
   year      = 1987,
   pages     = {222-228},

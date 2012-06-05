@@ -3,7 +3,7 @@
 @inproceedings{DBLP:conf/eurosys/DragojevicH12,
   author    = {Aleksandar Dragojevic and
                Tim Harris},
-  title     = {STM in the small: trading generality for performance in software transactional memory},
+  title     = {{STM} in the small: trading generality for performance in software transactional memory},
   booktitle = eurosys,
   year      = 2012,
   pages     = {1-14},
@@ -38,7 +38,7 @@
                Sara Alspaugh and
                Dhruba Borthakur and
                Randy H. Katz},
-  title     = {Energy efficiency for large-scale MapReduce workloads with significant interactive analysis},
+  title     = {Energy efficiency for large-scale {MapReduce} workloads with significant interactive analysis},
   booktitle = eurosys,
   year      = 2012,
   pages     = {43-56},
@@ -111,7 +111,7 @@
                Chiachih Wu and
                Michael C. Grace and
                Xuxian Jiang},
-  title     = {Isolating commodity hosted hypervisors with HyperLock},
+  title     = {Isolating commodity hosted hypervisors with {HyperLock}},
   booktitle = eurosys,
   year      = 2012,
   pages     = {127-140},
@@ -182,7 +182,7 @@
                H. Andr{\'e}s Lagar-Cavilla and
                Matti A. Hiltunen and
                Mahadev Satyanarayanan},
-  title     = {Jettison: efficient idle desktop consolidation with partial VM migration},
+  title     = {Jettison: efficient idle desktop consolidation with partial {VM} migration},
   booktitle = eurosys,
   year      = 2012,
   pages     = {211-224},
@@ -193,7 +193,7 @@
                George Porter and
                Amin Vahdat and
                Alex C. Snoeren},
-  title     = {Practical TDMA for datacenter ethernet},
+  title     = {Practical {TDMA} for datacenter ethernet},
   booktitle = eurosys,
   year      = 2012,
   pages     = {225-238},
@@ -213,7 +213,7 @@
 @inproceedings{DBLP:conf/eurosys/WuH12,
   author    = {Guanying Wu and
                Xubin He},
-  title     = {Delta-FTL: improving SSD lifetime via exploiting content locality},
+  title     = {Delta-FTL: improving {SSD} lifetime via exploiting content locality},
   booktitle = eurosys,
   year      = 2012,
   pages     = {253-266},
@@ -359,7 +359,7 @@
                Rong Chen and
                Yuanxuan Wang and
                Binyu Zang},
-  title     = {A case for scaling applications to many-core with OS clustering},
+  title     = {A case for scaling applications to many-core with {OS} clustering},
   booktitle = eurosys,
   year      = 2011,
   pages     = {61-76},
@@ -370,7 +370,7 @@
                Laxman Visampalli and
                Andrea C. Arpaci-Dusseau and
                Remzi H. Arpaci-Dusseau},
-  title     = {Refuse to crash with Re-FUSE},
+  title     = {Refuse to crash with {Re-FUSE}},
   booktitle = eurosys,
   year      = 2011,
   pages     = {77-90},
@@ -401,7 +401,7 @@
                Arun Venkataramani and
                Prashant J. Shenoy and
                Emmanuel Cecchet},
-  title     = {ZZ and the art of practical BFT execution},
+  title     = {{ZZ} and the art of practical {BFT} execution},
   booktitle = eurosys,
   year      = 2011,
   pages     = {123-138},
@@ -487,7 +487,7 @@
   author    = {Xiaoning Ding and
                Kaibo Wang and
                Xiaodong Zhang},
-  title     = {SRM-buffer: an OS buffer management technique to prevent last level cache from thrashing in multicores},
+  title     = {SRM-buffer: an {OS} buffer management technique to prevent last level cache from thrashing in multicores},
   booktitle = eurosys,
   year      = 2011,
   pages     = {243-256},
@@ -496,7 +496,7 @@
 @inproceedings{DBLP:conf/eurosys/SukwongK11,
   author    = {Orathai Sukwong and
                Hyong S. Kim},
-  title     = {Is co-scheduling too expensive for SMP VMs?},
+  title     = {Is co-scheduling too expensive for {SMP} VMs?},
   booktitle = eurosys,
   year      = 2011,
   pages     = {257-272},
@@ -511,7 +511,7 @@
                Matti A. Hiltunen and
                H. Andr{\'e}s Lagar-Cavilla and
                Eyal de Lara},
-  title     = {Kaleidoscope: cloud micro-elasticity via VM state coloring},
+  title     = {Kaleidoscope: cloud micro-elasticity via {VM} state coloring},
   booktitle = eurosys,
   year      = 2011,
   pages     = {273-286},
@@ -547,7 +547,7 @@
   author    = {Peter Collingbourne and
                Cristian Cadar and
                Paul H. J. Kelly},
-  title     = {Symbolic crosschecking of floating-point and SIMD code},
+  title     = {Symbolic crosschecking of floating-point and {SIMD} code},
   booktitle = eurosys,
   year      = 2011,
   pages     = {315-328},
@@ -568,7 +568,7 @@
   author    = {Edmund B. Nightingale and
                John R. Douceur and
                Vince Orgovan},
-  title     = {Cycles, cells and platters: an empirical analysisof hardware failures on a million consumer PCs},
+  title     = {Cycles, cells and platters: an empirical analysisof hardware failures on a million consumer {PCs}},
   booktitle = eurosys,
   year      = 2011,
   pages     = {343-356},
@@ -580,7 +580,7 @@
                Manolis Marazakis and
                Michail D. Flouris and
                Angelos Bilas},
-  title     = {Using transparent compression to improve SSD-based I/O caches},
+  title     = {Using transparent compression to improve {SSD-based} I/O caches},
   booktitle = eurosys,
   year      = 2010,
   pages     = {1-14},
@@ -591,7 +591,7 @@
                Asim Kadav and
                Vijayan Prabhakaran and
                Dahlia Malkhi},
-  title     = {Differential RAID: rethinking RAID for SSD reliability},
+  title     = {Differential RAID: rethinking {RAID} for {SSD} reliability},
   booktitle = eurosys,
   year      = 2010,
   pages     = {15-26},
@@ -609,7 +609,7 @@
                Pascal Felber and
                Patrick Marlier and
                Etienne Riviere},
-  title     = {Evaluation of AMD's advanced synchronization facility within a complete transactional memory stack},
+  title     = {Evaluation of {AMD's} advanced synchronization facility within a complete transactional memory stack},
   booktitle = eurosys,
   year      = 2010,
   pages     = {27-40},
@@ -723,7 +723,7 @@
 @inproceedings{DBLP:conf/eurosys/ChipounovC10,
   author    = {Vitaly Chipounov and
                George Candea},
-  title     = {Reverse engineering of binary device drivers with RevNIC},
+  title     = {Reverse engineering of binary device drivers with {RevNIC}},
   booktitle = eurosys,
   year      = 2010,
   pages     = {167-180},
@@ -732,7 +732,7 @@
 @inproceedings{DBLP:conf/eurosys/DepoutovitchS10,
   author    = {Alex Depoutovitch and
                Michael Stumm},
-  title     = {Otherworld: giving applications a chance to survive OS kernel crashes},
+  title     = {Otherworld: giving applications a chance to survive {OS} kernel crashes},
   booktitle = eurosys,
   year      = 2010,
   pages     = {181-194},
@@ -776,7 +776,7 @@
   author    = {Ripal Nathuji and
                Aman Kansal and
                Alireza Ghaffarkhah},
-  title     = {Q-clouds: managing performance interference effects for QoS-aware clouds},
+  title     = {Q-clouds: managing performance interference effects for {QoS-aware} clouds},
   booktitle = eurosys,
   year      = 2010,
   pages     = {237-250},
@@ -785,7 +785,7 @@
 @inproceedings{DBLP:conf/eurosys/IuZ10,
   author    = {Ming-Yee Iu and
                Willy Zwaenepoel},
-  title     = {HadoopToSQL: a mapReduce query optimizer},
+  title     = {HadoopToSQL: a {mapReduce} query optimizer},
   booktitle = eurosys,
   year      = 2010,
   pages     = {251-264},
@@ -872,7 +872,7 @@
                Nikola Knezevic and
                Vivien Qu{\'e}ma and
                Marko Vukolic},
-  title     = {The next 700 BFT protocols},
+  title     = {The next 700 {BFT} protocols},
   booktitle = eurosys,
   year      = 2010,
   pages     = {363-376},
@@ -1086,7 +1086,7 @@
                Neha Narula and
                Maxwell N. Krohn and
                Robert Morris},
-  title     = {Privacy-preserving browser-side scripting with BFlow},
+  title     = {Privacy-preserving browser-side scripting with {BFlow}},
   booktitle = eurosys,
   year      = 2009,
   pages     = {233-246},
@@ -1130,7 +1130,7 @@
                Etienne Le Sueur and
                Stefan M. Petters and
                Gernot Heiser},
-  title     = {Koala: a platform for OS-level power management},
+  title     = {Koala: a platform for {OS-level} power management},
   booktitle = eurosys,
   year      = 2009,
   pages     = {289-302},
@@ -1420,7 +1420,7 @@
                Keir Mierle and
                Adam Czajkowski and
                Angela Demke Brown},
-  title     = {JIT instrumentation: a novel approach to dynamically instrument operating systems},
+  title     = {{JIT} instrumentation: a novel approach to dynamically instrument operating systems},
   booktitle = eurosys,
   year      = 2007,
   pages     = {3-16},
@@ -1450,7 +1450,7 @@
   author    = {David K. Tam and
                Reza Azimi and
                Michael Stumm},
-  title     = {Thread clustering: sharing-aware scheduling on SMP-CMP-SMT multiprocessors},
+  title     = {Thread clustering: sharing-aware scheduling on {SMP-CMP-SMT} multiprocessors},
   booktitle = eurosys,
   year      = 2007,
   pages     = {47-58},
@@ -1482,7 +1482,7 @@
                Anwar Rohillah and
                Doug Carmean and
                Jesse Fang},
-  title     = {Enabling scalability and performance in a large scale CMP environment},
+  title     = {Enabling scalability and performance in a large scale {CMP} environment},
   booktitle = eurosys,
   year      = 2007,
   pages     = {73-86},
@@ -1659,7 +1659,7 @@
   author    = {Yin Wang and
                Terence Kelly and
                St{\'e}phane Lafortune},
-  title     = {Discrete control for safe execution of IT automation workflows},
+  title     = {Discrete control for safe execution of {IT} automation workflows},
   booktitle = eurosys,
   year      = 2007,
   pages     = {305-314},
@@ -1695,7 +1695,7 @@
                Bjarne Steensgaard and
                David Tarditi and
                Ted Wobber},
-  title     = {Sealing OS processes to improve dependability and safety},
+  title     = {Sealing {OS} processes to improve dependability and safety},
   booktitle = eurosys,
   year      = 2007,
   pages     = {341-354},
@@ -1831,7 +1831,7 @@
                Ronnie Chaiken and
                John R. Douceur and
                Jon Howell},
-  title     = {The SMART way to migrate replicated stateful services},
+  title     = {The {SMART} way to migrate replicated stateful services},
   booktitle = eurosys,
   year      = 2006,
   pages     = {103-115},
@@ -1882,7 +1882,7 @@
                Calton Pu and
                Hermann H{\"a}rtig and
                Christian Helmuth},
-  title     = {Reducing TCB complexity for security-sensitive applications: three case studies},
+  title     = {Reducing {TCB} complexity for security-sensitive applications: three case studies},
   booktitle = eurosys,
   year      = 2006,
   pages     = {161-174},
@@ -1896,7 +1896,7 @@
                Galen C. Hunt and
                James R. Larus and
                Steven Levi},
-  title     = {Language support for fast and reliable message-based communication in singularity OS},
+  title     = {Language support for fast and reliable message-based communication in singularity {OS}},
   booktitle = eurosys,
   year      = 2006,
   pages     = {177-190},
@@ -1908,7 +1908,7 @@
                Reinhard Tartler and
                Olaf Spinczyk and
                Wolfgang Schr{\"o}der-Preikschat},
-  title     = {A quantitative analysis of aspects in the eCos kernel},
+  title     = {A quantitative analysis of aspects in the {eCos} kernel},
   booktitle = eurosys,
   year      = 2006,
   pages     = {191-204},
@@ -1975,7 +1975,7 @@
 @inproceedings{DBLP:conf/eurosys/KimR06,
   author    = {Hyong-youb Kim and
                Scott Rixner},
-  title     = {TCP offload through connection handoff},
+  title     = {{TCP} offload through connection handoff},
   booktitle = eurosys,
   year      = 2006,
   pages     = {279-290},
@@ -2025,7 +2025,7 @@
   author    = {Iqbal Mohomed and
                Jim Chengming Cai and
                Eyal de Lara},
-  title     = {URICA: Usage-awaRe Interactive Content Adaptation for mobile devices},
+  title     = {URICA: {Usage-awaRe} Interactive Content Adaptation for mobile devices},
   booktitle = eurosys,
   year      = 2006,
   pages     = {345-358},
@@ -2037,7 +2037,7 @@
                Fabrice Le Fessant and
                Laurent Massouli{\'e} and
                Simon Patarin},
-  title     = {Peer sharing behaviour in the eDonkey network, and implications for the design of server-less file sharing systems},
+  title     = {Peer sharing behaviour in the {eDonkey} network, and implications for the design of server-less file sharing systems},
   booktitle = eurosys,
   year      = 2006,
   pages     = {359-371},
