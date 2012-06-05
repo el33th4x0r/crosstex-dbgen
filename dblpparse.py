@@ -490,6 +490,7 @@ class DBLPProcessor:
         for journal in self._journals.values():
             journal.post_process()
         with open(os.path.join(self._outdir, 'conferences-cs.xtx'), 'w') as fout:
+            fout.write('@include dates\n@include locations\n')
             for key in self._conference_keys:
                 self._proceedings[key].write_citation(fout)
         with open(os.path.join(self._outdir, 'workshops-cs.xtx'), 'w') as fout:
