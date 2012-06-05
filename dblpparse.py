@@ -145,7 +145,7 @@ class CitationContainer:
             elif c in (string.ascii_letters + string.digits + string.punctuation + ' '):
                 ls += c
             else:
-                print 'WARNING:  unknown unicode character %s' % repr(c)
+                print 'WARNING:  unknown unicode character %s %i' % (repr(c), ord(c))
         return ls
 
     def _to_upper_quoted(self, s):
