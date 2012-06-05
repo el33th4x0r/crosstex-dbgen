@@ -441,6 +441,9 @@ class DBLPProcessor:
         for citetype, citekey, citeattrs in self._iterate():
             if citetype == 'proceedings':
                 booktitle = citeattrs.get('booktitle', None)
+                if booktitle is None and 'title' in citeattrs:
+                    booktitle = citeattrs['title']
+                    citeattrs['booktitle'] = citeattrs['title']
                 venuetype, venueslug, junk = citekey.split('/', 2)
                 obj = self._proceedings.get((citetype, venuetype, booktitle, venueslug), None)
                 if obj is None:
