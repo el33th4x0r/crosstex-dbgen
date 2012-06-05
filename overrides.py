@@ -33,4 +33,9 @@ CONFERENCE_LOCATIONS = {
                     ,1969: ('Princeton', 'oct')
                     ,1967: ('Gatlinburg', 'may')
                     }
+    ,'sigmod':      {2001: ('SantaBarbera', 'may')
+                    ,1987: ('SanFrancisco', 'may')
+                    ,1984: ('Boston', 'jun')
+                    ,1983: ('SanJose', 'may')
+                    }
     }
