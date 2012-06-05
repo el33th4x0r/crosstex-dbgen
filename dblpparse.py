@@ -289,6 +289,13 @@ class Conference(CitationContainer):
         for month, abbrev in MONTHS.iteritems():
             if month in citeattrs.get('title', ''):
                 return abbrev
+        try:
+            year = int(citeattrs['year'])
+            if self._slug in overrides.CONFERENCE_LOCATIONS and \
+               year in overrides.CONFERENCE_LOCATIONS[self._slug]:
+                return overrides.CONFERENCE_LOCATIONS[self._slug][year][1]
+        except ValueError:
+            pass
         print 'WARNING:  no month for "%s"' % citekey, citeattrs
 
 
