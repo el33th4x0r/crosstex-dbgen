@@ -182,6 +182,9 @@ class Conference(CitationContainer):
         mon = self._extract_month(citekey, citeattrs)
         self._years[year] = (addr, mon)
 
+    def booktitle_matches(self, booktitle):
+        return self._longname.lower() in booktitle.lower()
+
     def add_inproc(self, citetype, citekey, citeattrs):
         if 'author' not in citeattrs:
             print 'ERROR:  key "%s" has no attribute "author"' % citekey
@@ -192,7 +195,6 @@ class Conference(CitationContainer):
         if 'booktitle' not in citeattrs:
             print 'ERROR:  key "%s" has no attribute "booktitle"' % citekey
             return
-        assert citeattrs['booktitle'] == self._booktitle
         if 'year' not in citeattrs:
             print 'ERROR:  key "%s" has no attribute "year"' % citekey
             return
@@ -378,17 +380,26 @@ class DBLPProcessor:
         self._journal_keys = []
         self._workshop_keys = []
 
-    def add_conference(self, slug, shortname, longname, booktitle=None, dblpslug=None):
-        key = ('proceedings', 'conf', booktitle or shortname, dblpslug or slug)
+    def add_conference(self, slug, shortname, longname, booktitle=None,
+                       dblpname=None, dblpslug=None, dblpmany=None):
+        longname = longname or shortname
+        if not dblpname and not dblpmany:
+            dblpname = shortname
+        if not dblpslug and not dblpmany:
+            dblpslug = slug
         out = os.path.join(self._outdir, slug + '.xtx')
         conf = Conference(out, slug, shortname, longname, booktitle)
-        assert key not in self._proceedings
-        self._conference_keys.append(key)
-        self._proceedings[key] = conf
-        self._filters.add(slug)
+        onekey = None
+        for dname, dslug in (dblpmany or []) + [(dblpname, dblpslug)]:
+            key = ('proceedings', 'conf', dname, dslug)
+            assert key not in self._proceedings
+            self._proceedings[key] = conf
+            onekey = onekey or key
+            self._filters.add(dname)
+            self._filters.add(dslug)
+        assert onekey
+        self._conference_keys.append(onekey)
         self._filters.add(shortname)
-        self._filters.add(booktitle)
-        self._filters.add(dblpslug)
 
     def add_journal(self, slug, shortname, longname=None,
                     dblpname=None, dblpslug=None, dblpmany=None):
@@ -400,22 +411,13 @@ class DBLPProcessor:
         out = os.path.join(self._outdir, slug + '.xtx')
         jo = Journal(out, slug, shortname, longname)
         onekey = None
-        for dname, dslug in dblpmany or []:
+        for dname, dslug in (dblpmany or []) + [(dblpname, dblpslug)]:
             key = ('journal', dname, dslug)
             assert key not in self._journals
-            print 'ADDING', key
             self._journals[key] = jo
             onekey = onekey or key
             self._filters.add(dname)
             self._filters.add(dslug)
-        if dblpname and dblpslug:
-            key = ('journal', dblpname, dblpslug)
-            assert key not in self._journals
-            print 'ADDING', key
-            self._journals[key] = jo
-            onekey = onekey or key
-            self._filters.add(dblpname)
-            self._filters.add(dblpslug)
         assert onekey
         self._journal_keys.append(onekey)
         self._filters.add(slug)
@@ -442,7 +444,14 @@ class DBLPProcessor:
                 venuetype, venueslug, junk = citekey.split('/', 2)
                 obj = self._proceedings.get((citetype, venuetype, booktitle, venueslug), None)
                 if obj is None:
-                    continue
+                    newobj = None
+                    for obj in self._proceedings.values():
+                        if obj.booktitle_matches(booktitle):
+                            newobj = obj
+                            break
+                    if not newobj:
+                        continue
+                    obj = newobj
                 containers[citekey] = obj
                 obj.add_proc(citekey, citeattrs)
         for citetype, citekey, citeattrs in self._iterate():
