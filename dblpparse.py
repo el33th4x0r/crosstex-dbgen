@@ -112,6 +112,31 @@ class CitationContainer:
                     stack.pop()
         return self._caps_stuff(self._to_latex(title.strip(' .')))
 
+    def _normalize_pages(self, p):
+        pagesrt = (-1, '')
+        pages   = ''
+        if p is None:
+            return pagesrt, pages
+        match = page_range_re.search(p)
+        if match:
+            start = int(match.groupdict()['start'])
+            end = int(match.groupdict()['end'])
+            pagesrt = (start, end)
+            pages = '  pages     = {%i-%i},\n' % pagesrt
+        else:
+            match = page_re.search(p)
+            if match:
+                pagesrt = (int(match.groupdict()['page']),
+                           int(match.groupdict()['page']))
+                pages = '  pages     = {%i},\n' % pagesrt[0]
+            else:
+                if not set(p) - set(['v', 'i', 'x', '-']):
+                    pagesrt = (-1, p)
+                    pages = '  pages     = {%s},\n' % pagesrt[1]
+                else:
+                    print 'ERROR:  key "%s" has corrupt "pages"' % citekey
+        return pagesrt, pages
+
     def _to_latex(self, s):
         ls = ''
         for c in s:
@@ -184,24 +209,7 @@ class Conference(CitationContainer):
   booktitle = %s,
   year      = %i,
 %s}\n'''
-        if 'pages' in citeattrs:
-            match = page_range_re.search(citeattrs['pages'])
-            if match:
-                start = int(match.groupdict()['start'])
-                end = int(match.groupdict()['end'])
-                pagesrt = (start, end)
-                pages = '  pages     = {%i-%i},\n' % pagesrt
-            else:
-                match = page_re.search(citeattrs['pages'])
-                if not match:
-                    print 'ERROR:  key "%s" has corrupt "pages"' % citekey
-                    return
-                pagesrt = (int(match.groupdict()['page']),
-                           int(match.groupdict()['page']))
-                pages = '  pages     = {%i},\n' % pagesrt[0]
-        else:
-            pagesrt = ''
-            pages = ''
+        pagesrt, pages = self._normalize_pages(citeattrs.get('pages', None))
         authors = ' and\n               '.join([self._normalize_author(a) for a in citeattrs['author']])
         if citekey in overrides.TITLE:
             title = overrides.TITLE[citekey]
@@ -325,29 +333,7 @@ class Journal(CitationContainer):
         number = citeattrs.get('number', '')
         volume = volume and '  volume    = {%s},\n' % volume
         number = number and '  number    = {%s},\n' % number
-        if 'pages' in citeattrs:
-            match = page_range_re.search(citeattrs['pages'])
-            if match:
-                start = int(match.groupdict()['start'])
-                end = int(match.groupdict()['end'])
-                pagesrt = (start, end)
-                pages = '  pages     = {%i-%i},\n' % pagesrt
-            else:
-                match = page_re.search(citeattrs['pages'])
-                if match:
-                    pagesrt = (int(match.groupdict()['page']),
-                               int(match.groupdict()['page']))
-                    pages = '  pages     = {%i},\n' % pagesrt[0]
-                else:
-                    if not set(citeattrs['pages']) - set(['v', 'i', 'x', '-']):
-                        pagesrt = (-1, citeattrs['pages'])
-                        pages = '  pages     = {%s},\n' % pagesrt[1]
-                    else:
-                        print 'ERROR:  key "%s" has corrupt "pages"' % citekey
-                        return
-        else:
-            pagesrt = ''
-            pages = ''
+        pagesrt, pages = self._normalize_pages(citeattrs.get('pages', None))
         authors = ' and\n               '.join([self._normalize_author(a) for a in citeattrs['author']])
         if citekey in overrides.TITLE:
             title = overrides.TITLE[citekey]
