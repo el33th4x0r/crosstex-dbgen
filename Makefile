@@ -2,7 +2,7 @@
 
 all: xtx/TIMESTAMP xtx/locations.xtx
 
-xtx/TIMESTAMP: dblp.xml dblpparse.py  latex.py  locations.py  overrides.py  parentheticals.py
+xtx/TIMESTAMP: dblp.xml dblpparse.py  latex.py  xtx/locations.xtx  overrides.py  parentheticals.py
 	python dblpparse.py
 
 xtx/locations.xtx: locations.py
