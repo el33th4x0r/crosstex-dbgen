@@ -108,6 +108,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('Boulder', {'city': 'Boulder', 'state': 'CO'})
                ,('BrettonWoods', {'city': 'Bretton Woods', 'state': 'NH'})
                ,('Buffalo', {'city': 'Buffalo', 'state': 'NY'})
+               ,('Burlington', {'city': 'Burlington', 'state': 'VT'})
                ,('CambridgeMA', {'city': 'Cambridge', 'state': 'MA'})
                ,('CapeCod', {'city': 'Cape Cod', 'state': 'MA'})
                ,('Charleston', {'city': 'Charleston', 'state': 'SC'})
@@ -152,6 +153,8 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('Maui', {'city': 'Maui', 'state': 'HI'})
                ,('MiamiBeach', {'city': 'Miami Beach', 'state': 'FL'})
                ,('Miami', {'city': 'Miami', 'state': 'FL'})
+               ,('MiamiFtLauderdale', {'city': 'Miami/Ft.\ Lauderdale', 'state': 'FL'})
+               ,('Milwaukee', {'city': 'Milwaukee', 'state': 'WI'})
                ,('Minneapolis', {'city': 'Minneapolis', 'state': 'MN'})
                ,('Monterey', {'city': 'Monterey', 'state': 'CA'})
                ,('Nashville', {'city': 'Nashville', 'state': 'TN'})
@@ -164,6 +167,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('OrcasIsland', {'city': 'Orcas Island', 'state': 'WA'})
                ,('Orlando', {'city': 'Orlando', 'state': 'FL'})
                ,('PacificGrove', {'city': 'Pacific Grove', 'state': 'CA'})
+               ,('PalmSprings', {'city': 'Palm Springs', 'state': 'CA'})
                ,('PaloAlto', {'city': 'Palo Alto', 'state': 'CA'})
                ,('Pasadena', {'city': 'Pasadena', 'state': 'CA'})
                ,('Philadelphia', {'city': 'Philadelphia', 'state': 'PA'})
@@ -175,6 +179,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('Raleigh', {'city': 'Raleigh', 'state': 'NC'})
                ,('Redmond', {'city': 'Redmond', 'state': 'WA'})
                ,('RedondoBeach', {'city': 'Redondo Beach', 'state': 'CA'})
+               ,('ResearchTrianglePark', {'city': 'Research Triangle Park', 'state': 'NC'})
                ,('RioRico', {'city': 'Rio Rico', 'state': 'AZ'})
                ,('Riverside', {'city': 'Riverside', 'state': 'CA'})
                ,('Rochester', {'city': 'Rochester', 'state': 'NY'})
@@ -205,6 +210,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('UrbanaChampaign', {'city': 'Urbana-Champaign', 'state': 'IL'})
                ,('Waikoloa', {'city': 'Waikoloa', 'state': 'HI'})
                ,('WestLafayette', {'city': 'West Lafayette', 'state': 'IN'})
+               ,('WestPalmBeach', {'city': 'West Palm Beach', 'state': 'FL'})
                ,('WhitePlains', {'city': 'White Plains', 'state': 'NY'})
                ,('Williamsburg', {'city': 'Williamsburg', 'state': 'VA'})
                ,('YorktownHeights', {'city': 'Yorktown Heights', 'state': 'NY'})]
@@ -243,6 +249,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Elmau', {'city': 'Elmau', 'country': 'Germany'})
                  ,('Florence', {'city': 'Florence', 'country': 'Italy'})
                  ,('Geneva', {'city': 'Geneva', 'country': 'Switzerland'})
+                 ,('Genova', {'city': 'Genova', 'country': 'Italy'})
                  ,('Glasgow', {'city': 'Glasgow', 'country': 'Scotland'})
                  ,('GoldCoast', {'city': 'Gold Coast', 'state': 'Queensland', 'country': 'Oz'})
                  ,('Grenoble', {'city': 'Grenoble', 'country': 'France'})
@@ -319,13 +326,17 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
 # Ambiguous locations are resolved by looking for clarifying locations
 LOCATION_AMBIGUITIES = {'Arlington': {'Texas': 'ArlingtonTX',
                                       'Virginia': 'ArlingtonVA'}
-                       ,'Cambridge': {'Massachusetts': 'CambridgeMA',
+                       ,'Cambridge': {'MA': 'CambridgeMA',
+                                      'Massachusetts': 'CambridgeMA',
                                       'UK': 'CambridgeUK'}
                        }
 # Location aliases are under multiple names.  E.g. SanFrancisco -> sf
 LOCATION_ALIASES = {'99Atlanta': 'Atlanta'
                    ,'alzburg': 'Salzburg'
+                   ,u'Canc\xfan': 'Cancun'
                    ,'Lihue(Kauai)': 'Lihue'
+                   ,'Lisboa': 'Lisbon'
+                   ,'Miami/FtLauderdale': 'MiamiFtLauderdale'
                    ,'NewYork': 'NYC'
                    ,'Philadephia': 'Philadelphia'
                    ,'Pisa': 'Piza'
