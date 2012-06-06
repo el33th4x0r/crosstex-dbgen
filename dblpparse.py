@@ -602,7 +602,7 @@ d.add_journal('ton',            'ToN', 'IEEE \\slash ACM Transactions on Network
 d.add_journal('toplas',         'ACM ToPLaS', 'ACM Transactions on Programming Languages and Systems', dblpname='ACM Trans. Program. Lang. Syst.', dblpslug='toplas')
 d.add_journal('queue',          'ACM Queue')
 # SIG publications
-d.add_journal('ccr',            'CCR', 'SIGCOMM Computer Communications Review')
+d.add_journal('ccr',            'CCR', 'SIGCOMM Computer Communications Review', dblpname='Computer Communication Review')
 d.add_journal('osr',            'OSR', 'SIGOPS Operating Systems Review')
 # IEEE publications
 d.add_journal('ieeecomputer',   'IEEE Computer')
