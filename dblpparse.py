@@ -587,7 +587,7 @@ d.add_workshop('webdb',         'WebDB Workshop', 'International Workshop on the
 
 # ACM publications
 d.add_journal('acmcs',          'ACM Computing Surveys', dblpname='ACM Comput. Surv.', dblpslug='csur')
-d.add_journal('cacm',           'CACM', 'Communications of the ACM', dblpname='Commun. ACM', dblpslug='cacm')
+d.add_journal('cacm',           'CACM', 'Communications of the ACM', dblpname='Commun. ACM')
 d.add_journal('jacm',           'JACM', 'Journal of the ACM')
 d.add_journal('tissec',         'ACM TISSEC', 'ACM Transactions on Information and System Security')
 d.add_journal('tocs',           'ACM ToCS', 'ACM Transactions on Computer Systems', dblpname='ACM Trans. Comput. Syst.', dblpslug='tocs')
