@@ -603,7 +603,7 @@ d.add_journal('toplas',         'ACM ToPLaS', 'ACM Transactions on Programming L
 d.add_journal('queue',          'ACM Queue')
 # SIG publications
 d.add_journal('ccr',            'CCR', 'SIGCOMM Computer Communications Review', dblpname='Computer Communication Review')
-d.add_journal('osr',            'OSR', 'SIGOPS Operating Systems Review', dblpname='Operating Systems Review')
+d.add_journal('osr',            'OSR', 'SIGOPS Operating Systems Review', dblpname='Operating Systems Review', dblpslug='sigops')
 # IEEE publications
 d.add_journal('ieeecomputer',   'IEEE Computer')
 d.add_journal('ieeeconcurrency', 'IEEE Concurrency')
