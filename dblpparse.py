@@ -592,7 +592,7 @@ d.add_workshop('webdb',         'WebDB Workshop', 'International Workshop on the
 d.add_journal('acmcs',          'ACM Computing Surveys', dblpname='ACM Comput. Surv.', dblpslug='csur')
 d.add_journal('cacm',           'CACM', 'Communications of the ACM', dblpname='Commun. ACM')
 d.add_journal('jacm',           'JACM', 'Journal of the ACM', dblpname='J. ACM')
-d.add_journal('tissec',         'ACM TISSEC', 'ACM Transactions on Information and System Security')
+d.add_journal('tissec',         'ACM TISSEC', 'ACM Transactions on Information and System Security', dblpname='ACM Trans. Inf. Syst. Secur.')
 d.add_journal('tocs',           'ACM ToCS', 'ACM Transactions on Computer Systems', dblpname='ACM Trans. Comput. Syst.', dblpslug='tocs')
 d.add_journal('tods',           'ACM ToDS', 'ACM Transactions on Database Systems')
 d.add_journal('tomacs_scale',   'ACM ToMaCS', 'ACM Transactions on Modeling and Computer Simulation, Special Issue on Scalable Network Modeling and Simulation')
