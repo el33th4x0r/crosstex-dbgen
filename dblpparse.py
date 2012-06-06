@@ -606,8 +606,7 @@ d.add_journal('ccr',            'CCR', 'SIGCOMM Computer Communications Review',
 d.add_journal('osr',            'OSR', 'SIGOPS Operating Systems Review', dblpname='Operating Systems Review', dblpslug='sigops')
 # IEEE publications
 d.add_journal('ieeecomputer',   'IEEE Computer', dblpslug='computer')
-d.add_journal('ieeeconcurrency', 'IEEE Concurrency')
-d.add_journal('ieeeis_selfstar', 'IEEE IS', 'IEEE Intelligent Systems, Special Issue on Self-Management through Self-Organization in Information Systems')
+d.add_journal('ieeeconcurrency', 'IEEE Concurrency', dblpslug='ieeecc')
 d.add_journal('ieeeis',         'IEEE IS', 'IEEE Intelligent Systems')
 d.add_journal('ieeenetwork',    'IEEE Network Magazine')
 d.add_journal('ieeesac',        'IEEE Journal on Selected Areas in Communications')
