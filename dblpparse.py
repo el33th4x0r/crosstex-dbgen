@@ -598,7 +598,7 @@ d.add_journal('tissec',         'ACM TISSEC', 'ACM Transactions on Information a
 d.add_journal('tocs',           'ACM ToCS', 'ACM Transactions on Computer Systems', dblpname='ACM Trans. Comput. Syst.')
 d.add_journal('tods',           'ACM ToDS', 'ACM Transactions on Database Systems', dblpname='ACM Trans. Database Syst.')
 d.add_journal('tomacs',         'ACM ToMaCS', 'ACM Transactions on Modeling and Computer Simulation', dblpname='ACM Trans. Model. Comput. Simul.')
-d.add_journal('ton',            'ToN', 'IEEE\\slash ACM Transactions on Networking')
+d.add_journal('ton',            'ToN', 'IEEE \\slash ACM Transactions on Networking', dblpname='IEEE/ACM Trans. Netw.')
 d.add_journal('toplas',         'ACM ToPLaS', 'ACM Transactions on Programming Languages and Systems', dblpname='ACM Trans. Program. Lang. Syst.', dblpslug='toplas')
 d.add_journal('queue',          'ACM Queue')
 # SIG publications
