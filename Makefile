@@ -12,3 +12,5 @@ dblp.xml:
 	wget http://dblp.uni-trier.de/xml/dblp.xml.gz
 	gunzip dblp.xml.gz
 
+clobber:
+	rm -f dblp.xml dblp.xml.gz
