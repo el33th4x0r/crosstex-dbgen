@@ -607,7 +607,7 @@ d.add_journal('osr',            'OSR', 'SIGOPS Operating Systems Review', dblpna
 # IEEE publications
 d.add_journal('ieeecomputer',   'IEEE Computer', dblpslug='computer')
 d.add_journal('ieeeconcurrency', 'IEEE Concurrency', dblpslug='ieeecc')
-d.add_journal('ieeeis',         'IEEE IS', 'IEEE Intelligent Systems')
+d.add_journal('ieeeis',         'IEEE IS', 'IEEE Intelligent Systems', dblpname='IEEE Intelligent Systems', dblpslug='expert')
 d.add_journal('ieeenetwork',    'IEEE Network Magazine')
 d.add_journal('ieeesac',        'IEEE Journal on Selected Areas in Communications')
 d.add_journal('ieeesecpriv',    'IEEE Security and Privacy')
