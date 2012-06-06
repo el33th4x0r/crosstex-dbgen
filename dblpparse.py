@@ -35,6 +35,7 @@ MONTHS = {'January': 'jan',
 numbered_author_re = re.compile(r' [0-9]{4}$')
 page_range_re = re.compile(r'(?P<start>[0-9]+)[^0-9]+(?P<end>[0-9]+)')
 page_re = re.compile(r'(?P<page>[0-9]+)')
+algorithm_re = re.compile(r'[aA]lgorithm\s+[0-9]+')
 
 
 class CitationContainer:
@@ -104,6 +105,8 @@ class CitationContainer:
                     words = title[:stack[-1]].replace('-', ' ').split(' ')
                     words = [w for w in words if w]
                     acronym = ''.join([w[0] for w in words[-len(substr):]]).lower()
+                    if algorithm_re.search(substr) is not None:
+                        acronym = substr # To make the next conditional always fail
                     if acronym.lower() != substr.lower():
                         print 'WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs
                     ptr = closeparen + 1
