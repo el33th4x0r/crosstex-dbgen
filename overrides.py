@@ -62,3 +62,17 @@ CONFERENCE_LOCATIONS = {
                     ,1983: ('SanJose', 'may')
                     }
     }
+
+JOURNAL_NUMBERS = {
+     '':0
+    ,'journals/tods/ArasuBBMW04': 1
+    ,'journals/tods/ArenasL04': 1
+    ,'journals/tods/BeneventanoBS03': 1
+    ,'journals/tods/BunemanKTT04': 1
+    ,'journals/tods/Garo04': 1
+    ,'journals/tods/GrustKT04': 1
+    ,'journals/tods/KarpSP03': 1
+    ,'journals/tods/KolaitisF04': 1
+    ,'journals/tods/MelnikG03': 1
+    ,'journals/tods/Ross04': 1
+    }

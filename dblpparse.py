@@ -322,7 +322,7 @@ class Journal(CitationContainer):
             return
         if 'volume' not in citeattrs:
             print 'WARNING:  key "%s" has no attribute "volume"' % citekey
-        if 'number' not in citeattrs:
+        if 'number' not in citeattrs and citekey not in overrides.JOURNAL_NUMBERS:
             print 'WARNING:  key "%s" has no attribute "number"' % citekey
         if 'year' not in citeattrs:
             print 'ERROR:  key "%s" has no attribute "year"' % citekey
@@ -343,6 +343,8 @@ class Journal(CitationContainer):
 %s}\n'''
         volume = citeattrs.get('volume', '')
         number = citeattrs.get('number', '')
+        if citekey in overrides.JOURNAL_NUMBERS:
+            number = str(overrides.JOURNAL_NUMBERS[citekey])
         volume = volume and '  volume    = {%s},\n' % volume
         number = number and '  number    = {%s},\n' % number
         pagesrt, pages = self._normalize_pages(citeattrs.get('pages', None))
@@ -594,7 +596,7 @@ d.add_journal('cacm',           'CACM', 'Communications of the ACM', dblpname='C
 d.add_journal('jacm',           'JACM', 'Journal of the ACM', dblpname='J. ACM')
 d.add_journal('tissec',         'ACM TISSEC', 'ACM Transactions on Information and System Security', dblpname='ACM Trans. Inf. Syst. Secur.')
 d.add_journal('tocs',           'ACM ToCS', 'ACM Transactions on Computer Systems', dblpname='ACM Trans. Comput. Syst.')
-d.add_journal('tods',           'ACM ToDS', 'ACM Transactions on Database Systems')
+d.add_journal('tods',           'ACM ToDS', 'ACM Transactions on Database Systems', dblpname='ACM Trans. Database Syst.')
 d.add_journal('tomacs_scale',   'ACM ToMaCS', 'ACM Transactions on Modeling and Computer Simulation, Special Issue on Scalable Network Modeling and Simulation')
 d.add_journal('tomacs',         'ACM ToMaCS', 'ACM Transactions on Modeling and Computer Simulation')
 d.add_journal('ton',            'ToN', 'IEEE\\slash ACM Transactions on Networking')
