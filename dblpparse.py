@@ -586,7 +586,7 @@ d.add_workshop('iptps',         'IPTPS Workshop', 'International Workshop on Pee
 d.add_workshop('webdb',         'WebDB Workshop', 'International Workshop on the Web and Databases', booktitle='WebDB')
 
 # ACM publications
-d.add_journal('acmcs',          'ACM Computing Surveys')
+d.add_journal('acmcs',          'ACM Computing Surveys', dblpname='ACM Comput. Surv.', dblpslug='csur')
 d.add_journal('cacm',           'CACM', 'Communications of the ACM', dblpname='Commun. ACM', dblpslug='cacm')
 d.add_journal('jacm',           'JACM', 'Journal of the ACM')
 d.add_journal('tissec',         'ACM TISSEC', 'ACM Transactions on Information and System Security')
