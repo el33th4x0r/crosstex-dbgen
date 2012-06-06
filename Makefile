@@ -11,3 +11,4 @@ xtx/locations.xtx: locations.py
 dblp.xml:
 	wget http://dblp.uni-trier.de/xml/dblp.xml.gz
 	gunzip dblp.xml.gz
+
