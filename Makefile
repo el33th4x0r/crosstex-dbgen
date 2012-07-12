@@ -11,6 +11,7 @@ xtx/locations.xtx: locations.py
 dblp.xml:
 	wget http://dblp.uni-trier.de/xml/dblp.xml.gz
 	gunzip dblp.xml.gz
+	wget http://dblp.uni-trier.de/xml/dblp.dtd
 
 clobber:
-	rm -f dblp.xml dblp.xml.gz
+	rm -f dblp.xml dblp.xml.gz dblp.dtd
