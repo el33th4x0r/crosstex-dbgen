@@ -1,5 +1,838 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigcomm/GhodsiSZS12,
+  author    = {Ali Ghodsi and
+               Vyas Sekar and
+               Matei Zaharia and
+               Ion Stoica},
+  title     = {Multi-resource fair queueing for packet processing},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SherryHSKRS12,
+  author    = {Justine Sherry and
+               Shaddi Hasan and
+               Colin Scott and
+               Arvind Krishnamurthy and
+               Sylvia Ratnasamy and
+               Vyas Sekar},
+  title     = {Making middleboxes someone else's problem: network processing as a cloud service},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/sigcomm/EscrivaWS12,
+  author    = {Robert Escriva and
+               Bernard Wong and
+               Emin G{\"u}n Sirer},
+  title     = {HyperDex: a distributed, searchable key-value store},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {25-36},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HongMK12,
+  author    = {Steven Siying Hong and
+               Jeffrey Mehlman and
+               Sachin Rajsekhar Katti},
+  title     = {Picasso: flexible {RF} and spectrum slicing},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {37-48},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PerryIFBS12,
+  author    = {Jonathan Perry and
+               Peter Iannucci and
+               Kermin Fleming and
+               Hari Balakrishnan and
+               Devavrat Shah},
+  title     = {Spinal codes},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {49-60},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangHKI12,
+  author    = {Jue Wang and
+               Haitham Hassanieh and
+               Dina Katabi and
+               Piotr Indyk},
+  title     = {Efficient and reliable low-power backscatter networks},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {61-72},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SteinerGGHRSV12,
+  author    = {Moritz Steiner and
+               Bob Gaglianello Gaglianello and
+               Vijay K. Gurbani and
+               Volker Hilt and
+               William D. Roome and
+               Michael Scharf and
+               Thomas Voith},
+  title     = {Network-aware service placement in a distributed cloud environment},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {73-74},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GillLSMLL12,
+  author    = {Harjot Gill and
+               Dong Lin and
+               Lohit Sarna and
+               Robert Mead and
+               Kenton C. T. Lee and
+               Boon Thau Loo},
+  title     = {SP4: scalable programmable packet processing platform},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {75-76},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DandapatJCG12,
+  author    = {Sourav Kumar Dandapat and
+               Sanyam Jain and
+               Romit Roy Choudhury and
+               Niloy Ganguly},
+  title     = {Distributed content storage for just-in-time streaming},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {77-78},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HuiciPTHRd12,
+  author    = {Felipe Huici and
+               Andrea Di Pietro and
+               Brian Trammell and
+               Jos{\'e} Mar{\'\i}a G{\'o}mez Hidalgo and
+               Daniel Martinez Ruiz and
+               Nico d'Heureuse},
+  title     = {Blockmon: a high-performance composable network traffic measurement system},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {79-80},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PoeseFKSS12,
+  author    = {Ingmar Poese and
+               Benjamin Frank and
+               Simon Knight and
+               Niklas Semmler and
+               Georgios Smaragdakis},
+  title     = {{PaDIS} emulator: an emulator to evaluate {CDN-ISP} collaboration},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {81-82},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ChaudhryMRMACEHMV12,
+  author    = {Amir Chaudhry and
+               Anil Madhavapeddy and
+               Charalampos Rotsos and
+               Richard Mortier and
+               Andrius Aucinas and
+               Jon Crowcroft and
+               Sebastian Probst Eide and
+               Steven Hand and
+               Andrew W. Moore and
+               Narseo Vallina-Rodriguez},
+  title     = {Signposts: end-to-end networking in a world of middleboxes},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {83-84},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NemethSSG12,
+  author    = {Felician N{\'e}meth and
+               {\'A}d{\'a}m Stipkovits and
+               Bal{\'a}zs Sonkoly and
+               Andr{\'a}s Guly{\'a}s},
+  title     = {Towards SmartFlow: case studies on enhanced programmable forwarding in {OpenFlow} switches},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {85-86},
+}
+
+@inproceedings{DBLP:conf/sigcomm/JarschelP12,
+  author    = {Michael Jarschel and
+               Rastin Pries},
+  title     = {An {OpenFlow-based} energy-efficient data center approach},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {87-88},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WangGHCTLS12,
+  author    = {Anduo Wang and
+               Alexander J. T. Gurney and
+               Xianglong Han and
+               Jinyan Cao and
+               Carolyn Talcot and
+               Boon Thau Loo and
+               Andre Scedrov},
+  title     = {Reduction-based analysis of {BGP} systems with {BGPVerif}},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {89-90},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GurneyHLL12,
+  author    = {Alexander J. T. Gurney and
+               Xianglong Han and
+               Yang Li and
+               Boon Thau Loo},
+  title     = {Route shepherd: stability hints for the control plane},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {91-92},
+}
+
+@inproceedings{DBLP:conf/sigcomm/OlteanuR12,
+  author    = {Vladimir Andrei Olteanu and
+               Costin Raiciu},
+  title     = {Efficiently migrating stateful middleboxes},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {93-94},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FarringtonPSFFFPV12,
+  author    = {Nathan Farrington and
+               George Porter and
+               Pang-Chen Sun and
+               Alex Forencich and
+               Joseph Ford and
+               Yeshaiahu Fainman and
+               George Papen and
+               Amin Vahdat},
+  title     = {A demonstration of ultra-low-latency data center optical circuit switching},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {95-96},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KnightJMPR12,
+  author    = {Simon Knight and
+               Askar Jaboldinov and
+               Olaf Maennel and
+               Iain Phillips and
+               Matthew Roughan},
+  title     = {AutoNetkit: simplifying large scale, open-source network experimentation},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {97-98},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WahlischSV12,
+  author    = {Matthias W{\"a}hlisch and
+               Thomas C. Schmidt and
+               Markus Vahlenkamp},
+  title     = {Bulk of interest: performance measurement of content-centric routing},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {99-100},
+}
+
+@inproceedings{DBLP:conf/sigcomm/TwiggFPPT12,
+  author    = {Neil Alexander Twigg and
+               Marwan Fayed and
+               Colin Perkins and
+               Dimitrios P. Pezaros and
+               Posco Tso},
+  title     = {User-level data center tomography},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {101-102},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WahlischMS12,
+  author    = {Matthias W{\"a}hlisch and
+               Olaf Maennel and
+               Thomas C. Schmidt},
+  title     = {Towards detecting {BGP} route hijacking using the {RPKI}},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {103-104},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WolfGCDRBN12,
+  author    = {Tilman Wolf and
+               James Griffioen and
+               Kenneth L. Calvert and
+               Rudra Dutta and
+               George N. Rouskas and
+               Ilia Baldine and
+               Anna Nagurney},
+  title     = {Choice as a principle in network architecture},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {105-106},
+}
+
+@inproceedings{DBLP:conf/sigcomm/FuS12,
+  author    = {Wenliang Fu and
+               Tian Song},
+  title     = {A frequency adjustment architecture for energy efficient router},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {107-108},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MarchettaDP12,
+  author    = {Pietro Marchetta and
+               Walter de Donato and
+               Antonio Pescap{\`e}},
+  title     = {Detecting third-party addresses in traceroute {IP} paths},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {109-110},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LeeJM12,
+  author    = {Changhyun Lee and
+               Keon Jang and
+               Sue B. Moon},
+  title     = {Reviving delay-based {TCP} for data centers},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {111-112},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuBY12,
+  author    = {Bingyang Liu and
+               Jun Bi and
+               Xiaowei Yang},
+  title     = {FaaS: filtering {IP} spoofing traffic as a service},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {113-114},
+}
+
+@inproceedings{DBLP:conf/sigcomm/VamananHV12,
+  author    = {Balajee Vamanan and
+               Jahangir Hasan and
+               T. N. Vijaykumar},
+  title     = {Deadline-aware datacenter tcp (D2TCP)},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {115-126},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HongCG12,
+  author    = {Chi-Yao Hong and
+               Matthew Caesar and
+               Brighten Godfrey},
+  title     = {Finishing flows quickly with preemptive scheduling},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {127-138},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZatsDMBK12,
+  author    = {David Zats and
+               Tathagata Das and
+               Prashanth Mohan and
+               Dhruba Borthakur and
+               Randy H. Katz},
+  title     = {DeTail: reducing the flow completion time tail in datacenter networks},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {139-150},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GursunRTC12,
+  author    = {Gonca G{\"u}rsun and
+               Natali Ruchansky and
+               Evimaria Terzi and
+               Mark Crovella},
+  title     = {Inferring visibility: who's (not) talking to whom?},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {151-162},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AgerCFSUW12,
+  author    = {Bernhard Ager and
+               Nikolaos Chatzis and
+               Anja Feldmann and
+               Nadi Sarrar and
+               Steve Uhlig and
+               Walter Willinger},
+  title     = {Anatomy of a large european {IXP}},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {163-174},
+}
+
+@inproceedings{DBLP:conf/sigcomm/DaveGZ12,
+  author    = {Vacha Dave and
+               Saikat Guha and
+               Yin Zhang},
+  title     = {Measuring and fingerprinting click-spam in ad networks},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {175-186},
+}
+
+@inproceedings{DBLP:conf/sigcomm/PopaKCKRS12,
+  author    = {Lucian Popa and
+               Gautam Kumar and
+               Mosharaf Chowdhury and
+               Arvind Krishnamurthy and
+               Sylvia Ratnasamy and
+               Ion Stoica},
+  title     = {FairCloud: sharing the network in cloud computing},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {187-198},
+}
+
+@inproceedings{DBLP:conf/sigcomm/XieDHK12,
+  author    = {Di Xie and
+               Ning Ding and
+               Y. Charlie Hu and
+               Ramana Rao Kompella},
+  title     = {The only constant is change: incorporating time-varying network reservations in data centers},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {199-210},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GaoCWK12,
+  author    = {Peter Xiang Gao and
+               Andrew R. Curtis and
+               Bernard Wong and
+               Srinivasan Keshav},
+  title     = {It's not easy being green},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {211-222},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CidonNKV12,
+  author    = {Asaf Cidon and
+               Kanthi Nagaraj and
+               Sachin Katti and
+               Pramod Viswanath},
+  title     = {Flashback: decoupled lightweight wireless control},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {223-234},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RahulKK12,
+  author    = {Hariharan Shankar Rahul and
+               Swarun Kumar and
+               Dina Katabi},
+  title     = {JMB: scaling wireless capacity with user demands},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {235-246},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HaSJIC12,
+  author    = {Sangtae Ha and
+               Soumya Sen and
+               Carlee Joe-Wong and
+               Youngbin Im and
+               Mung Chiang},
+  title     = {TUBE: time-dependent pricing for mobile data},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {247-258},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KumarSAGKR12,
+  author    = {Swarun Kumar and
+               Lixin Shi and
+               Nabeel Ahmed and
+               Stephanie Gil and
+               Dina Katabi and
+               Daniela Rus},
+  title     = {CarSpeak: a content-centric network for autonomous driving},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {259-270},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WahlischTSJNSUWKKKS12,
+  author    = {Matthias W{\"a}hlisch and
+               Sebastian Trapp and
+               Jochen H. Schiller and
+               Benjamin Jochheim and
+               Theodor Nolte and
+               Thomas C. Schmidt and
+               Osman Ugus and
+               Dirk Westhoff and
+               Martin Kutscher and
+               Matthias K{\"u}ster and
+               Christian Keil and
+               Jochen Sch{\"o}nfelder},
+  title     = {Vitamin C for your smartphone: the {SKIMS} approach for cooperativeand lightweight security at mobiles},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {271-272},
+}
+
+@inproceedings{DBLP:conf/sigcomm/RiggioSGR12,
+  author    = {Roberto Riggio and
+               Cigdem Sengul and
+               Karina Mabell Gomez and
+               Tinku Rasheed},
+  title     = {Energino: energy saving tips for your wireless network},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {273-274},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BrownMR12,
+  author    = {Anthony Brown and
+               Richard Mortier and
+               Tom Rodden},
+  title     = {MultiNet: usable and secure {WiFi} device association},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {275-276},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangAM12,
+  author    = {Xi Zhang and
+               Junaid Ansari and
+               Petri M{\"a}h{\"o}nen},
+  title     = {Demo: runtime {MAC} reconfiguration using a meta-compiler assisted toolchain},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {277-278},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SureshSMF12,
+  author    = {P. Lalith Suresh and
+               Julius Schulz-Zander and
+               Ruben Merz and
+               Anja Feldmann},
+  title     = {Demo: programming enterprise {WLANs} with odin},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {279-280},
+}
+
+@inproceedings{DBLP:conf/sigcomm/GrandlHLLMMN12,
+  author    = {Robert Grandl and
+               Dongsu Han and
+               Suk-Bok Lee and
+               Hyeontaek Lim and
+               Michel Machado and
+               Matthew Mukerjee and
+               David Naylor},
+  title     = {Supporting network evolution and incremental deployment with {XIA}},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {281-282},
+}
+
+@inproceedings{DBLP:conf/sigcomm/HongMK12a,
+  author    = {Steven Siying Hong and
+               Jeffrey Mehlman and
+               Sachin Rajsekhar Katti},
+  title     = {Picasso: flexible {RF} and spectrum slicing},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {283-284},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NiemiLM12,
+  author    = {Olli-Pekka Niemi and
+               Antti Levom{\"a}ki and
+               Jukka Manner},
+  title     = {Dismantling intrusion prevention systems},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {285-286},
+}
+
+@inproceedings{DBLP:conf/sigcomm/OttoSRSB12,
+  author    = {John S. Otto and
+               Mario A. S{\'a}nchez and
+               John P. Rula and
+               Ted Stein and
+               Fabi{\'a}n E. Bustamante},
+  title     = {namehelp: intelligent client-side {DNS} resolution},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {287-288},
+}
+
+@inproceedings{DBLP:conf/sigcomm/VoellmyW12,
+  author    = {Andreas Voellmy and
+               Junchang Wang},
+  title     = {Scalable software defined network controllers},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {289-290},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Eittenberger12,
+  author    = {Philipp M. Eittenberger},
+  title     = {RaptorStream: boosting mobile peer-to-peer streaming with raptor codes},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {291-292},
+}
+
+@inproceedings{DBLP:conf/sigcomm/AhmedHJ12,
+  author    = {Mohamed Ahmed and
+               Felipe Huici and
+               Armin Jahanpanah},
+  title     = {Enabling dynamic network processing with {clickOS}},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {293-294},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhangVX12,
+  author    = {Daqiang Zhang and
+               Athanasios V. Vasilakos and
+               Haoyi Xiong},
+  title     = {Predicting location using mobile phone calls},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {295-296},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SaarinenSXNKH12,
+  author    = {Aki Saarinen and
+               Matti Siekkinen and
+               Yu Xiao and
+               Jukka K. Nurminen and
+               Matti Kemppainen and
+               Pan Hui},
+  title     = {SmartDiet: offloading popular apps to save energy},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {297-298},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiJHSZ12,
+  author    = {Yong Li and
+               Depeng Jin and
+               Pan Hui and
+               Li Su and
+               Lieguang Zeng},
+  title     = {Revealing contact interval patterns in large scale urban vehicular ad hoc networks},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {299-300},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MineraudBKD12,
+  author    = {Julien Mineraud and
+               Sasitharan Balasubramaniam and
+               Jussi Kangasharju and
+               William Donnelly},
+  title     = {Fs-PGBR: a scalable and delay sensitive cloud routing protocol},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {301-302},
+}
+
+@inproceedings{DBLP:conf/sigcomm/SundaresanMFT12,
+  author    = {Srikanth Sundaresan and
+               Nazanin Magharei and
+               Nick Feamster and
+               Renata Teixeira},
+  title     = {Accelerating last-mile web performance with popularity-based prefetching},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {303-304},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WahlischTKSsS12,
+  author    = {Matthias W{\"a}hlisch and
+               Sebastian Trapp and
+               Christian Keil and
+               Jochen Sch{\"o}nfelder and
+               Thomas C. Schmidt and
+               Jochen H. Schiller},
+  title     = {First insights from a mobile honeypot},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {305-306},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Grosvenor12,
+  author    = {Matthew P. Grosvenor},
+  title     = {uvNIC: rapid prototyping network interface controller device drivers},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {307-308},
+}
+
+@inproceedings{DBLP:conf/sigcomm/KangRRW12,
+  author    = {Nanxi Kang and
+               Joshua Reich and
+               Jennifer Rexford and
+               David Walker},
+  title     = {Policy transformation in software defined networks},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {309-310},
+}
+
+@inproceedings{DBLP:conf/sigcomm/CiucuS12,
+  author    = {Florin Ciucu and
+               Jens Schmitt},
+  title     = {Perspectives on network calculus: no free lunch, but still good value},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {311-322},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ReitblattFRSW12,
+  author    = {Mark Reitblatt and
+               Nate Foster and
+               Jennifer Rexford and
+               Cole Schlesinger and
+               David Walker},
+  title     = {Abstractions for network update},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {323-334},
+}
+
+@inproceedings{DBLP:conf/sigcomm/MaB12,
+  author    = {Yadi Ma and
+               Suman Banerjee},
+  title     = {A smart pre-classifier to reduce power consumption of {TCAMs} for multi-dimensional packet classification},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {335-346},
+}
+
+@inproceedings{DBLP:conf/sigcomm/TianAYZ12,
+  author    = {Chen Tian and
+               Richard Alimi and
+               Yang Richard Yang and
+               David Zhang},
+  title     = {ShadowStream: performance evaluation as a capability in production internet live streaming networks},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {347-358},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuDMJSSZ12,
+  author    = {Xi Liu and
+               Florin Dobrian and
+               Henry Milner and
+               Junchen Jiang and
+               Vyas Sekar and
+               Ion Stoica and
+               Hui Zhang},
+  title     = {A case for a coordinated internet video control plane},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {359-370},
+}
+
+@inproceedings{DBLP:conf/sigcomm/LiuWYWT12,
+  author    = {Hongqiang Harry Liu and
+               Ye Wang and
+               Yang Richard Yang and
+               Hao Wang and
+               Chen Tian},
+  title     = {Optimizing cost and performance for content multihoming},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {371-382},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhaoZGHSL12,
+  author    = {Mingchen Zhao and
+               Wenchao Zhou and
+               Alexander J. T. Gurney and
+               Andreas Haeberlen and
+               Micah Sherr and
+               Boon Thau Loo},
+  title     = {Private and verifiable interdomain routing decisions},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {383-394},
+}
+
+@inproceedings{DBLP:conf/sigcomm/Katz-BassettSCCVFMAK12,
+  author    = {Ethan Katz-Bassett and
+               Colin Scott and
+               David R. Choffnes and
+               {\'I}talo Cunha and
+               Vytautas Valancius and
+               Nick Feamster and
+               Harsha V. Madhyastha and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy},
+  title     = {LIFEGUARD: practical repair of persistent route failures},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {395-406},
+}
+
+@inproceedings{DBLP:conf/sigcomm/NychisFMMS12,
+  author    = {George Nychis and
+               Chris Fallin and
+               Thomas Moscibroda and
+               Onur Mutlu and
+               Srinivasan Seshan},
+  title     = {On-chip networks from a networking perspective: congestion and scalability in many-core interconnects},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {407-418},
+}
+
+@inproceedings{DBLP:conf/sigcomm/WuTCMYYZ12,
+  author    = {Xin Wu and
+               Daniel Turner and
+               Chao-Chih Chen and
+               David A. Maltz and
+               Xiaowei Yang and
+               Lihua Yuan and
+               Ming Zhang},
+  title     = {NetPilot: automating datacenter network failure mitigation},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {419-430},
+}
+
+@inproceedings{DBLP:conf/sigcomm/BodikMCMMS12,
+  author    = {Peter Bod{\'\i}k and
+               Ishai Menache and
+               Mosharaf Chowdhury and
+               Pradeepkumar Mani and
+               David A. Maltz and
+               Ion Stoica},
+  title     = {Surviving failures in bandwidth-constrained datacenters},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {431-442},
+}
+
+@inproceedings{DBLP:conf/sigcomm/ZhouZZLKVZZ12,
+  author    = {Xia Zhou and
+               Zengbin Zhang and
+               Yibo Zhu and
+               Yubo Li and
+               Saipriya Kumar and
+               Amin Vahdat and
+               Ben Y. Zhao and
+               Haitao Zheng},
+  title     = {Mirror mirror on the ceiling: flexible wireless links for data centers},
+  booktitle = sigcomm,
+  year      = 2012,
+  pages     = {443-454},
+}
+
 @inproceedings{DBLP:conf/sigcomm/GollakotaHRKF11,
   author    = {Shyamnath Gollakota and
                Haitham Hassanieh and
@@ -16,7 +849,7 @@
   author    = {Phillipa Gill and
                Michael Schapira and
                Sharon Goldberg},
-  title     = {Let the market drive deployment: a strategy for transitioning to BGP security},
+  title     = {Let the market drive deployment: a strategy for transitioning to {BGP} security},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {14-25},
@@ -142,7 +975,7 @@
   author    = {Kate Ching-Ju Lin and
                Shyamnath Gollakota and
                Dina Katabi},
-  title     = {Random access heterogeneous MIMO networks},
+  title     = {Random access heterogeneous {MIMO} networks},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {146-157},
@@ -162,7 +995,7 @@
                Fadel Adib and
                Dina Katabi and
                Srinivasan Seshan},
-  title     = {Clearing the RF smog: making 802.11n robust to cross-technology interference},
+  title     = {Clearing the {RF} smog: making 802.11n robust to cross-technology interference},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {170-181},
@@ -252,7 +1085,7 @@
                Adam Greenhalgh and
                Damon Wischik and
                Mark Handley},
-  title     = {Improving datacenter performance and robustness with multipath TCP},
+  title     = {Improving datacenter performance and robustness with multipath {TCP}},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {266-277},
@@ -285,7 +1118,7 @@
   author    = {Theophilus Benson and
                Aditya Akella and
                Aman Shaikh},
-  title     = {Demystifying configuration challenges and trade-offs in network-based ISP services},
+  title     = {Demystifying configuration challenges and trade-offs in network-based {ISP} services},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {302-313},
@@ -297,7 +1130,7 @@
                Cristel Pelsser and
                Pierre Fran{\c{c}}ois and
                Olivier Bonaventure},
-  title     = {Seamless network-wide IGP migrations},
+  title     = {Seamless network-wide {IGP} migrations},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {314-325},
@@ -412,7 +1245,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Baden11,
   author    = {Randy Baden},
-  title     = {LoKI: location-based PKI for social networks},
+  title     = {LoKI: location-based {PKI} for social networks},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {394-395},
@@ -420,7 +1253,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Chasaki11,
   author    = {Danai Chasaki},
-  title     = {"Roto-Rooting" your router: solution against new potential DoS attacks on modern routers},
+  title     = {"Roto-Rooting" your router: solution against new potential {DoS} attacks on modern routers},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {396-397},
@@ -499,7 +1332,7 @@
                Xiaoli Chu and
                Athanasios V. Vasilakos and
                Holger Claussen},
-  title     = {Minimising cell transmit power: towards self-organized resource allocation in OFDMA femtocells},
+  title     = {Minimising cell transmit power: towards self-organized resource allocation in {OFDMA} femtocells},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {410-411},
@@ -526,7 +1359,7 @@
                Ted Taekyoung Kwon and
                Juyong Park and
                Huy Kang Kim},
-  title     = {Multi-relational social networks in a large-scale MMORPG},
+  title     = {Multi-relational social networks in a large-scale {MMORPG}},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {414-415},
@@ -600,14 +1433,14 @@
                Gyu Myoung Lee and
                No{\"e}l Crespi and
                Jun Kyun Choi},
-  title     = {A novel approach for making energy efficient PON},
+  title     = {A novel approach for making energy efficient {PON}},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {428-429},
 }
 
 @inproceedings{DBLP:conf/sigcomm/DixitPK11,
-  author    = {Advait Dixit and
+  author    = {Advait Abhay Dixit and
                Pawan Prakash and
                Ramana Rao Kompella},
   title     = {On the efficacy of fine-grained traffic splitting protocolsin data center networks},
@@ -640,7 +1473,7 @@
 @inproceedings{DBLP:conf/sigcomm/SaucezB11,
   author    = {Damien Saucez and
                Olivier Bonaventure},
-  title     = {Performance based traffic control with IDIPS},
+  title     = {Performance based traffic control with {IDIPS}},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {436-437},
@@ -690,7 +1523,7 @@
                Diego Rivera and
                Juan A. Carral and
                Jos{\'e} M. Arco},
-  title     = {Implementing ARP-path low latency bridges in NetFPGA},
+  title     = {Implementing {ARP-path} low latency bridges in {NetFPGA}},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {444-445},
@@ -735,7 +1568,7 @@
                Saurav Das and
                Guru M. Parulkar and
                Nick McKeown},
-  title     = {MPLS-TE and MPLS VPNS with openflow},
+  title     = {{MPLS-TE} and {MPLS} {VPNS} with openflow},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {452-453},
@@ -746,7 +1579,7 @@
                John S. Otto and
                Zachary S. Bischof and
                Fabi{\'a}n E. Bustamante},
-  title     = {Dasu - ISP characterization from the edge: a BitTorrent implementation},
+  title     = {Dasu - {ISP} characterization from the edge: a {BitTorrent} implementation},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {454-455},
@@ -810,7 +1643,7 @@
                Andrew W. Moore and
                Alexandros Koliousis and
                Joseph S. Sventek},
-  title     = {Supporting novel home network management interfaces with openflow and NOX},
+  title     = {Supporting novel home network management interfaces with openflow and {NOX}},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {464-465},
@@ -822,7 +1655,7 @@
                Chunbo Jia and
                Qi Su and
                Myungjin Lee},
-  title     = {Using NetMagic to observe fine-grained per-flow latency measurements},
+  title     = {Using {NetMagic} to observe fine-grained per-flow latency measurements},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {466-467},
@@ -835,7 +1668,7 @@
                Didier Colle and
                Mario Pickavet and
                Piet Demeester},
-  title     = {OSPF failure reconvergence through SRG inference and prediction of link state advertisements},
+  title     = {{OSPF} failure reconvergence through {SRG} inference and prediction of link state advertisements},
   booktitle = sigcomm,
   year      = 2011,
   pages     = {468-469},
@@ -995,7 +1828,7 @@
                Balaji Prabhakar and
                Sudipta Sengupta and
                Murari Sridharan},
-  title     = {Data center TCP (DCTCP)},
+  title     = {Data center {TCP} (DCTCP)},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {63-74},
@@ -1038,7 +1871,7 @@
                Michael Piatek and
                Arvind Krishnamurthy and
                Thomas E. Anderson},
-  title     = {Privacy-preserving P2P data sharing with OneSwarm},
+  title     = {Privacy-preserving P2P data sharing with {OneSwarm}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {111-122},
@@ -1074,7 +1907,7 @@
                Lixin Shi and
                Jiansong Zhang and
                Yongguang Zhang},
-  title     = {Fine-grained channel access in wireless LAN},
+  title     = {Fine-grained channel access in wireless {LAN}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {147-158},
@@ -1117,7 +1950,7 @@
                Keon Jang and
                KyoungSoo Park and
                Sue B. Moon},
-  title     = {PacketShader: a GPU-accelerated software router},
+  title     = {PacketShader: a {GPU-accelerated} software router},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {195-206},
@@ -1278,7 +2111,7 @@
                Jennifer Rexford and
                Michael J. Freedman and
                Jia Wang},
-  title     = {Scalable flow-based networking with DIFANE},
+  title     = {Scalable flow-based networking with {DIFANE}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {351-362},
@@ -1321,7 +2154,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Wang10,
   author    = {Yaogong Wang},
-  title     = {SIP overload control: a backpressure-based approach},
+  title     = {{SIP} overload control: a backpressure-based approach},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {399-400},
@@ -1351,7 +2184,7 @@
 @inproceedings{DBLP:conf/sigcomm/DvirV10,
   author    = {Amit Dvir and
                Athanasios V. Vasilakos},
-  title     = {Backpressure-based routing protocol for DTNs},
+  title     = {Backpressure-based routing protocol for {DTNs}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {405-406},
@@ -1371,7 +2204,7 @@
 @inproceedings{DBLP:conf/sigcomm/KrishnanC10,
   author    = {Sundaresan Krishnan and
                Prasanna Chaporkar},
-  title     = {Stochastic approximation algorithm for optimal throughput performance of wireless LANs},
+  title     = {Stochastic approximation algorithm for optimal throughput performance of wireless {LANs}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {409-410},
@@ -1384,7 +2217,7 @@
                Cristel Pelsser and
                Olaf Maennel and
                Philippe Owezarski},
-  title     = {Rethinking iBGP routing},
+  title     = {Rethinking {iBGP} routing},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {411-412},
@@ -1394,7 +2227,7 @@
   author    = {Guang Yao and
                Jun Bi and
                Zijian Zhou},
-  title     = {Passive IP traceback: capturing the origin of anonymous traffic through network telescopes},
+  title     = {Passive {IP} traceback: capturing the origin of anonymous traffic through network telescopes},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {413-414},
@@ -1456,7 +2289,7 @@
                Joohyun Lee and
                Yung Yi and
                Song Chong},
-  title     = {Mobile data offloading: how much can WiFi deliver?},
+  title     = {Mobile data offloading: how much can {WiFi} deliver?},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {425-426},
@@ -1476,7 +2309,7 @@
                Xinya Zhang and
                Xin Wang and
                Xiangyang Xue},
-  title     = {Achieving O(1) IP lookup on GPU-based software routers},
+  title     = {Achieving O(1) {IP} lookup on {GPU-based} software routers},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {429-430},
@@ -1519,7 +2352,7 @@
                Seungyeop Han and
                Sue B. Moon and
                KyoungSoo Park},
-  title     = {Accelerating SSL with GPUs},
+  title     = {Accelerating {SSL} with {GPUs}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {437-438},
@@ -1538,7 +2371,7 @@
                Christian Esteve Rothenberg and
                Marcos Rog{\'e}rio Salvador and
                Maur{\'\i}cio F. Magalh{\~a}es},
-  title     = {QuagFlow: partnering Quagga with OpenFlow},
+  title     = {QuagFlow: partnering Quagga with {OpenFlow}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {441-442},
@@ -1549,7 +2382,7 @@
                Olivier Bonaventure and
                Costin Raiciu and
                Mark Handley},
-  title     = {Experimenting with multipath TCP},
+  title     = {Experimenting with multipath {TCP}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {443-444},
@@ -1593,7 +2426,7 @@
   author    = {Samuel David Perli and
                Nabeel Ahmed and
                Dina Katabi},
-  title     = {PixNet: LCD-camera pairs as communication links},
+  title     = {PixNet: {LCD-camera} pairs as communication links},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {451-452},
@@ -1620,7 +2453,7 @@
                Athula Balachandran and
                Vyas Sekar and
                Srinivasan Seshan},
-  title     = {Flexible multimedia content retrieval using InfoNames},
+  title     = {Flexible multimedia content retrieval using {InfoNames}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {455-456},
@@ -1669,7 +2502,7 @@
   author    = {Vytautas Valancius and
                Hyojoon Kim and
                Nick Feamster},
-  title     = {Transit portal: BGP connectivity as a service},
+  title     = {Transit portal: {BGP} connectivity as a service},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {463-464},
@@ -1740,7 +2573,7 @@
                Haichen Shen and
                Kun Tan and
                Yongguang Zhang},
-  title     = {MPAP: virtualization architecture for heterogenous wireless APs},
+  title     = {MPAP: virtualization architecture for heterogenous wireless {APs}},
   booktitle = sigcomm,
   year      = 2010,
   pages     = {475-476},
@@ -1810,7 +2643,7 @@
                Dola Saha and
                Dirk Grunwald and
                Douglas C. Sicker},
-  title     = {SMACK: a SMart ACKnowledgment scheme for broadcast messages in wireless networks},
+  title     = {SMACK: a {SMart} {ACKnowledgment} scheme for broadcast messages in wireless networks},
   booktitle = sigcomm,
   year      = 2009,
   pages     = {15-26},
@@ -1879,7 +2712,7 @@
   author    = {Yinglian Xie and
                Fang Yu and
                Mart{\'\i}n Abadi},
-  title     = {De-anonymizing the internet using unreliable IDs},
+  title     = {De-anonymizing the internet using unreliable {IDs}},
   booktitle = sigcomm,
   year      = 2009,
   pages     = {75-86},
@@ -1976,7 +2809,7 @@
 @inproceedings{DBLP:conf/sigcomm/FlavelR09,
   author    = {Ashley Flavel and
                Matthew Roughan},
-  title     = {Stable and flexible iBGP},
+  title     = {Stable and flexible {iBGP}},
   booktitle = sigcomm,
   year      = 2009,
   pages     = {183-194},
@@ -2026,7 +2859,7 @@
                Jennifer Yates and
                Yin Zhang and
                Qi Zhao},
-  title     = {Towards automated performance diagnosis in a large IPTV network},
+  title     = {Towards automated performance diagnosis in a large {IPTV} network},
   booktitle = sigcomm,
   year      = 2009,
   pages     = {231-242},
@@ -2071,7 +2904,7 @@
   author    = {Pavlos Papageorge and
                Justin McCann and
                Michael Hicks},
-  title     = {Passive aggressive measurement with MGRP},
+  title     = {Passive aggressive measurement with {MGRP}},
   booktitle = sigcomm,
   year      = 2009,
   pages     = {279-290},
@@ -2097,7 +2930,7 @@
                Gregory R. Ganger and
                Garth A. Gibson and
                Brian Mueller},
-  title     = {Safe and effective fine-grained TCP retransmissions for datacenter communication},
+  title     = {Safe and effective fine-grained {TCP} retransmissions for datacenter communication},
   booktitle = sigcomm,
   year      = 2009,
   pages     = {303-314},
@@ -2302,7 +3135,7 @@
   author    = {Xin Liu and
                Xiaowei Yang and
                Yanbin Lu},
-  title     = {To filter or to authorize: network-layer DoS defense against multimillion-node botnets},
+  title     = {To filter or to authorize: network-layer {DoS} defense against multimillion-node botnets},
   booktitle = sigcomm,
   year      = 2008,
   pages     = {195-206},
@@ -2646,7 +3479,7 @@
                Paul Barford and
                Nick G. Duffield and
                Amos Ron},
-  title     = {Accurate and efficient SLA compliance monitoring},
+  title     = {Accurate and efficient {SLA} compliance monitoring},
   booktitle = sigcomm,
   year      = 2007,
   pages     = {109-120},
@@ -2827,7 +3660,7 @@
                Eliot Gillum and
                Mois{\'e}s Goldszmidt and
                Ted Wobber},
-  title     = {How dynamic are IP addresses?},
+  title     = {How dynamic are {IP} addresses?},
   booktitle = sigcomm,
   year      = 2007,
   pages     = {301-312},
@@ -2872,7 +3705,7 @@
                A. L. Narasimha Reddy and
                Yueping Zhang and
                Dmitri Loguinov},
-  title     = {Emulating AQM from end hosts},
+  title     = {Emulating {AQM} from end hosts},
   booktitle = sigcomm,
   year      = 2007,
   pages     = {349-360},
@@ -2890,7 +3723,7 @@
   author    = {Aruna Balasubramanian and
                Brian Neil Levine and
                Arun Venkataramani},
-  title     = {DTN routing as a resource allocation problem},
+  title     = {{DTN} routing as a resource allocation problem},
   booktitle = sigcomm,
   year      = 2007,
   pages     = {373-384},
@@ -2901,7 +3734,7 @@
                David Wetherall and
                Ben Greenstein and
                Srinivasan Seshan},
-  title     = {Understanding and mitigating the impact of RF interference on 802.11 networks},
+  title     = {Understanding and mitigating the impact of {RF} interference on 802.11 networks},
   booktitle = sigcomm,
   year      = 2007,
   pages     = {385-396},
@@ -2940,7 +3773,7 @@
                Mark Huang and
                Larry L. Peterson and
                Jennifer Rexford},
-  title     = {In VINI veritas: realistic and controlled network experimentation},
+  title     = {In {VINI} veritas: realistic and controlled network experimentation},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {3-14},
@@ -2950,7 +3783,7 @@
   author    = {Sylvia Ratnasamy and
                Andrey Ermolinskiy and
                Scott Shenker},
-  title     = {Revisiting IP multicast},
+  title     = {Revisiting {IP} multicast},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {15-26},
@@ -3007,7 +3840,7 @@
                Maya Rodrig and
                David Wetherall and
                John Zahorjan},
-  title     = {Analyzing the MAC-level behavior of wireless networks in the wild},
+  title     = {Analyzing the {MAC-level} behavior of wireless networks in the wild},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {75-86},
@@ -3107,7 +3940,7 @@
                Olaf Maennel and
                Matthew Roughan and
                Steve Uhlig},
-  title     = {Building an AS-topology model that captures route diversity},
+  title     = {Building an {AS-topology} model that captures route diversity},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {195-206},
@@ -3139,7 +3972,7 @@
                Sridhar Machiraju and
                Darryl Veitch and
                Jean Bolot},
-  title     = {The role of PASTA in network measurement},
+  title     = {The role of {PASTA} in network measurement},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {231-242},
@@ -3152,7 +3985,7 @@
                Dina Katabi and
                Muriel M{\'e}dard and
                Jon Crowcroft},
-  title     = {XORs in the air: practical wireless network coding},
+  title     = {{XORs} in the air: practical wireless network coding},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {243-254},
@@ -3185,7 +4018,7 @@
                Debabrata Dash and
                Adrian Perrig and
                Hui Zhang},
-  title     = {Modeling adoptability of secure BGP protocol},
+  title     = {Modeling adoptability of secure {BGP} protocol},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {279-290},
@@ -3206,7 +4039,7 @@
                Hari Balakrishnan and
                David R. Karger and
                Scott Shenker},
-  title     = {DDoS defense by offense},
+  title     = {{DDoS} defense by offense},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {303-314},
@@ -3252,7 +4085,7 @@
                Edmund B. Nightingale and
                Greg O'Shea and
                Antony I. T. Rowstron},
-  title     = {Virtual ring routing: network routing inspired by DHTs},
+  title     = {Virtual ring routing: network routing inspired by {DHTs}},
   booktitle = sigcomm,
   year      = 2006,
   pages     = {351-362},
@@ -3402,7 +4235,7 @@
                Scott Shenker and
                Ion Stoica and
                Harlan Yu},
-  title     = {OpenDHT: a public DHT service and its uses},
+  title     = {OpenDHT: a public {DHT} service and its uses},
   booktitle = sigcomm,
   year      = 2005,
   pages     = {73-84},
@@ -3425,7 +4258,7 @@
                Anthony LaMarca and
                Scott Shenker and
                Joseph M. Hellerstein},
-  title     = {A case study in building layered DHT applications},
+  title     = {A case study in building layered {DHT} applications},
   booktitle = sigcomm,
   year      = 2005,
   pages     = {97-108},
@@ -3447,7 +4280,7 @@
                Franck Rousseau and
                Romaric Guillier and
                Andrzej Duda},
-  title     = {Idle sense: an optimal access method for high throughput and fairness in rate diverse wireless LANs},
+  title     = {Idle sense: an optimal access method for high throughput and fairness in rate diverse wireless {LANs}},
   booktitle = sigcomm,
   year      = 2005,
   pages     = {121-132},
@@ -3466,7 +4299,7 @@
   author    = {Qi He and
                Constantinos Dovrolis and
                Mostafa H. Ammar},
-  title     = {On the predictability of large transfer TCP throughput},
+  title     = {On the predictability of large transfer {TCP} throughput},
   booktitle = sigcomm,
   year      = 2005,
   pages     = {145-156},
@@ -3508,7 +4341,7 @@
   author    = {Karthik Lakshminarayanan and
                Anand Rangarajan and
                Srinivasan Venkatachary},
-  title     = {Algorithms for advanced packet classification with ternary CAMs},
+  title     = {Algorithms for advanced packet classification with ternary {CAMs}},
   booktitle = sigcomm,
   year      = 2005,
   pages     = {193-204},
@@ -3517,7 +4350,7 @@
 @inproceedings{DBLP:conf/sigcomm/HasanV05,
   author    = {Jahangir Hasan and
                T. N. Vijaykumar},
-  title     = {Dynamic pipelining: making IP-lookup truly scalable},
+  title     = {Dynamic pipelining: making {IP-lookup} truly scalable},
   booktitle = sigcomm,
   year      = 2005,
   pages     = {205-216},
@@ -3547,7 +4380,7 @@
   author    = {Xiaowei Yang and
                David Wetherall and
                Thomas E. Anderson},
-  title     = {A DoS-limiting network architecture},
+  title     = {A {DoS-limiting} network architecture},
   booktitle = sigcomm,
   year      = 2005,
   pages     = {241-252},
@@ -3604,7 +4437,7 @@
 @inproceedings{DBLP:conf/sigcomm/BallaniF05,
   author    = {Hitesh Ballani and
                Paul Francis},
-  title     = {Towards a global IP anycast service},
+  title     = {Towards a global {IP} anycast service},
   booktitle = sigcomm,
   year      = 2005,
   pages     = {301-312},
@@ -3799,7 +4632,7 @@
   author    = {Yih-Chun Hu and
                Adrian Perrig and
                Marvin A. Sirbu},
-  title     = {SPV: secure path vector routing for securing BGP},
+  title     = {SPV: secure path vector routing for securing {BGP}},
   booktitle = sigcomm,
   year      = 2004,
   pages     = {179-192},
@@ -3854,7 +4687,7 @@
                Ken Keys and
                David Moore and
                George Varghese},
-  title     = {Building a better NetFlow},
+  title     = {Building a better {NetFlow}},
   booktitle = sigcomm,
   year      = 2004,
   pages     = {245-256},
@@ -3872,7 +4705,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Valente04,
   author    = {Paolo Valente},
-  title     = {Exact GPS simulation with logarithmic complexity, and its application to an optimally fair scheduler},
+  title     = {Exact {GPS} simulation with logarithmic complexity, and its application to an optimally fair scheduler},
   booktitle = sigcomm,
   year      = 2004,
   pages     = {269-280},
@@ -3917,7 +4750,7 @@
                Daniel Massey and
                Andreas Terzis and
                Lixia Zhang},
-  title     = {Impact of configuration errors on DNS robustness},
+  title     = {Impact of configuration errors on {DNS} robustness},
   booktitle = sigcomm,
   year      = 2004,
   pages     = {319-330},
@@ -3958,7 +4791,7 @@
 @inproceedings{DBLP:conf/sigcomm/QiuS04,
   author    = {Dongyu Qiu and
                Rayadurgam Srikant},
-  title     = {Modeling and performance analysis of BitTorrent-like peer-to-peer networks},
+  title     = {Modeling and performance analysis of {BitTorrent-like} peer-to-peer networks},
   booktitle = sigcomm,
   year      = 2004,
   pages     = {367-378},
@@ -4042,7 +4875,7 @@
 @inproceedings{DBLP:conf/sigcomm/KuzmanovicK03,
   author    = {Aleksandar Kuzmanovic and
                Edward W. Knightly},
-  title     = {Low-rate TCP-targeted denial of service attacks: the shrew vs. the mice and elephants},
+  title     = {Low-rate {TCP-targeted} denial of service attacks: the shrew vs. the mice and elephants},
   booktitle = sigcomm,
   year      = 2003,
   pages     = {75-86},
@@ -4280,7 +5113,7 @@
                Jennifer Rexford and
                Jia Wang and
                Randy H. Katz},
-  title     = {Towards an accurate AS-level traceroute tool},
+  title     = {Towards an accurate {AS-level} traceroute tool},
   booktitle = sigcomm,
   year      = 2003,
   pages     = {365-378},
@@ -4293,7 +5126,7 @@
                Sylvia Ratnasamy and
                Scott Shenker and
                Ion Stoica},
-  title     = {The impact of DHT routing geometry on resilience and proximity},
+  title     = {The impact of {DHT} routing geometry on resilience and proximity},
   booktitle = sigcomm,
   year      = 2003,
   pages     = {381-394},
@@ -4326,7 +5159,7 @@
   author    = {Ratul Mahajan and
                David Wetherall and
                Thomas E. Anderson},
-  title     = {Understanding BGP misconfiguration},
+  title     = {Understanding {BGP} misconfiguration},
   booktitle = sigcomm,
   year      = 2002,
   pages     = {3-16},
@@ -4335,7 +5168,7 @@
 @inproceedings{DBLP:conf/sigcomm/GriffinW02,
   author    = {Timothy Griffin and
                Gordon T. Wilfong},
-  title     = {On the correctness of IBGP configuration},
+  title     = {On the correctness of {IBGP} configuration},
   booktitle = sigcomm,
   year      = 2002,
   pages     = {17-29},
@@ -4344,7 +5177,7 @@
 @inproceedings{DBLP:conf/sigcomm/MaennelF02,
   author    = {Olaf Maennel and
                Anja Feldmann},
-  title     = {Realistic BGP traffic for test labs},
+  title     = {Realistic {BGP} traffic for test labs},
   booktitle = sigcomm,
   year      = 2002,
   pages     = {31-44},
@@ -4408,7 +5241,7 @@
                Richard M. Karp and
                Scott Shenker and
                Christos H. Papadimitriou},
-  title     = {Selfish behavior and stability of the internet: a game-theoretic analysis of TCP},
+  title     = {Selfish behavior and stability of the internet: a game-theoretic analysis of {TCP}},
   booktitle = sigcomm,
   year      = 2002,
   pages     = {117-130},
@@ -4418,7 +5251,7 @@
   author    = {Neil T. Spring and
                Ratul Mahajan and
                David Wetherall},
-  title     = {Measuring ISP topologies with rocketfuel},
+  title     = {Measuring {ISP} topologies with rocketfuel},
   booktitle = sigcomm,
   year      = 2002,
   pages     = {133-145},
@@ -4495,7 +5328,7 @@
                April Rasala and
                F. Bruce Shepherd and
                Gordon T. Wilfong},
-  title     = {Route oscillations in I-BGP with route reflection},
+  title     = {Route oscillations in {I-BGP} with route reflection},
   booktitle = sigcomm,
   year      = 2002,
   pages     = {235-247},
@@ -4533,7 +5366,7 @@
 @inproceedings{DBLP:conf/sigcomm/JainD02,
   author    = {Manish Jain and
                Constantinos Dovrolis},
-  title     = {End-to-end available bandwidth: measurement methodology, dynamics, and relation with TCP throughput},
+  title     = {End-to-end available bandwidth: measurement methodology, dynamics, and relation with {TCP} throughput},
   booktitle = sigcomm,
   year      = 2002,
   pages     = {295-308},
@@ -4582,7 +5415,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Snoeren01,
   author    = {Alex C. Snoeren},
-  title     = {Hash-based IP traceback},
+  title     = {Hash-based {IP} traceback},
   booktitle = sigcomm,
   year      = 2001,
   pages     = {3-14},
@@ -4591,7 +5424,7 @@
 @inproceedings{DBLP:conf/sigcomm/ParkL01,
   author    = {Kihong Park and
                Heejo Lee},
-  title     = {On the effectiveness of route-based packet filtering for distributed DoS attack prevention in power-law internets},
+  title     = {On the effectiveness of route-based packet filtering for distributed {DoS} attack prevention in power-law internets},
   booktitle = sigcomm,
   year      = 2001,
   pages     = {15-26},
@@ -4631,7 +5464,7 @@
 @inproceedings{DBLP:conf/sigcomm/Ramakrishna01,
   author    = {Paul Francis and
                Ramakrishna Gummadi},
-  title     = {IPNL: A NAT-extended internet architecture},
+  title     = {IPNL: A {NAT-extended} internet architecture},
   booktitle = sigcomm,
   year      = 2001,
   pages     = {69-80},
@@ -4642,7 +5475,7 @@
                Roch Gu{\'e}rin and
                Stephen Wolf and
                Margaret H. Pinson},
-  title     = {On the impact of policing and rate guarantees in DiffServ networks: a video streaming application perspective},
+  title     = {On the impact of policing and rate guarantees in {DiffServ} networks: a video streaming application perspective},
   booktitle = sigcomm,
   year      = 2001,
   pages     = {83-95},
@@ -4753,7 +5586,7 @@
 @inproceedings{DBLP:conf/sigcomm/BasuR01,
   author    = {Anindya Basu and
                Jon G. Riecke},
-  title     = {Stability issues in OSPF routing},
+  title     = {Stability issues in {OSPF} routing},
   booktitle = sigcomm,
   year      = 2001,
   pages     = {225-236},
@@ -4802,7 +5635,7 @@
 @inproceedings{DBLP:conf/sigcomm/PahdyeF01,
   author    = {Jitendra Padhye and
                Sally Floyd},
-  title     = {On inferring TCP behavior},
+  title     = {On inferring {TCP} behavior},
   booktitle = sigcomm,
   year      = 2001,
   pages     = {287-298},
@@ -4811,7 +5644,7 @@
 @inproceedings{DBLP:conf/sigcomm/KatabiW00,
   author    = {Dina Katabi and
                John Wroclawski},
-  title     = {A framework for scalable global IP-anycast (GIA)},
+  title     = {A framework for scalable global {IP-anycast} (GIA)},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {3-15},
@@ -4819,7 +5652,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Rizzo00,
   author    = {Luigi Rizzo},
-  title     = {pgmcc: a TCP-friendly single-rate multicast},
+  title     = {pgmcc: a {TCP-friendly} single-rate multicast},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {17-28},
@@ -4860,7 +5693,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Zhang00,
   author    = {Zhi-Li Zhang},
-  title     = {Decoupling QoS control from core routers: A novel bandwidth broker architecture for scalable support of guaranteed services},
+  title     = {Decoupling {QoS} control from core routers: A novel bandwidth broker architecture for scalable support of guaranteed services},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {71-83},
@@ -4896,7 +5729,7 @@
 @inproceedings{DBLP:conf/sigcomm/BarfordC00,
   author    = {Paul Barford and
                Mark Crovella},
-  title     = {Critical path analysis of TCP transactions},
+  title     = {Critical path analysis of {TCP} transactions},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {127-138},
@@ -4907,7 +5740,7 @@
                Kevin Jeffay and
                David Ott and
                F. Donelson Smith},
-  title     = {Tuning RED for web traffic},
+  title     = {Tuning {RED} for web traffic},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {139-150},
@@ -4917,7 +5750,7 @@
   author    = {Vishal Misra and
                Weibo Gong and
                Donald F. Towsley},
-  title     = {Fluid-based analysis of a network of AQM routers supporting TCP flows with an application to RED},
+  title     = {Fluid-based analysis of a network of {AQM} routers supporting {TCP} flows with an application to {RED}},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {151-160},
@@ -4952,7 +5785,7 @@
                Beverly Schwartz and
                Matthew Condell and
                Isidro Castineyra},
-  title     = {FIRE: Flexible intra-AS routing environment},
+  title     = {FIRE: Flexible {intra-AS} routing environment},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {191-203},
@@ -4971,7 +5804,7 @@
 @inproceedings{DBLP:conf/sigcomm/BaccelliH00,
   author    = {Fran{\c{c}}ois Baccelli and
                Dohy Hong},
-  title     = {TCP is max-plus linear: and what tells us on its throughput},
+  title     = {{TCP} is max-plus linear: and what tells us on its throughput},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {219-230},
@@ -4981,7 +5814,7 @@
   author    = {Eitan Altman and
                Konstantin Avrachenkov and
                Chadi Barakat},
-  title     = {A stochastic model of TCP/IP with stationary random},
+  title     = {A stochastic model of TCP/{IP} with stationary random},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {231-242},
@@ -5005,7 +5838,7 @@
                Nick Reingold and
                Jennifer Rexford and
                Fred True},
-  title     = {Deriving traffic demands for operational IP networks: methodology and experience},
+  title     = {Deriving traffic demands for operational {IP} networks: methodology and experience},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {257-270},
@@ -5034,7 +5867,7 @@
                David Wetherall and
                Anna R. Karlin and
                Thomas E. Anderson},
-  title     = {Practical network support for IP traceback},
+  title     = {Practical network support for {IP} traceback},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {295-306},
@@ -5043,7 +5876,7 @@
 @inproceedings{DBLP:conf/sigcomm/StoneP00,
   author    = {Jonathan Stone and
                Craig Partridge},
-  title     = {When the CRC and TCP checksum disagree},
+  title     = {When the {CRC} and {TCP} checksum disagree},
   booktitle = sigcomm,
   year      = 2000,
   pages     = {309-319},
@@ -5071,7 +5904,7 @@
   author    = {Eddie Kohler and
                M. Frans Kaashoek and
                David R. Montgomery},
-  title     = {A Readable TCP in the Prolac Protocol Language},
+  title     = {A Readable {TCP} in the Prolac Protocol Language},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {3-13},
@@ -5080,7 +5913,7 @@
 @inproceedings{DBLP:conf/sigcomm/RamanM99,
   author    = {Suchitra Raman and
                Steven McCanne},
-  title     = {A Model, Analysis, and Protocol Framework for Soft State-Based Communication},
+  title     = {A Model, Analysis, and Protocol Framework for Soft {State-Based} Communication},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {15-25},
@@ -5100,7 +5933,7 @@
   author    = {Graham Phillips and
                Scott Shenker and
                Hongsuda Tangmunarunkit},
-  title     = {Scaling of Multicast Trees: Comments on the Chuang-Sirbu Scaling Law},
+  title     = {Scaling of Multicast Trees: Comments on the {Chuang-Sirbu} Scaling Law},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {41-51},
@@ -5109,7 +5942,7 @@
 @inproceedings{DBLP:conf/sigcomm/ShieldsG99,
   author    = {Clay Shields and
                J. J. Garcia-Luna-Aceves},
-  title     = {KHIP - A Scalable Protocol for Secure Multicast Routing},
+  title     = {{KHIP} - A Scalable Protocol for Secure Multicast Routing},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {53-64},
@@ -5118,7 +5951,7 @@
 @inproceedings{DBLP:conf/sigcomm/HolbrookC99,
   author    = {Hugh W. Holbrook and
                David R. Cheriton},
-  title     = {IP Multicast Channels: EXPRESS Support for Large-scale Single-source Applications},
+  title     = {{IP} Multicast Channels: {EXPRESS} Support for Large-scale Single-source Applications},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {65-78},
@@ -5160,7 +5993,7 @@
   author    = {Andrew Begel and
                Steven McCanne and
                Susan L. Graham},
-  title     = {BPF+: Exploiting Global Data-Flow Optimization in a Generalized Packet Filter Architecture},
+  title     = {BPF+: Exploiting Global {Data-Flow} Optimization in a Generalized Packet Filter Architecture},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {123-134},
@@ -5229,7 +6062,7 @@
   author    = {Anees Shaikh and
                Jennifer Rexford and
                Kang G. Shin},
-  title     = {Load-Sensitive Routing of Long-Lived IP Flows},
+  title     = {{Load-Sensitive} Routing of {Long-Lived} {IP} Flows},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {215-226},
@@ -5238,7 +6071,7 @@
 @inproceedings{DBLP:conf/sigcomm/VutukuryG99,
   author    = {Srinivas Vutukury and
                J. J. Garcia-Luna-Aceves},
-  title     = {A Simple Approximation to Minimum-Delay Routing},
+  title     = {A Simple Approximation to {Minimum-Delay} Routing},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {227-238},
@@ -5265,7 +6098,7 @@
 @inproceedings{DBLP:conf/sigcomm/AllmanP99,
   author    = {Mark Allman and
                Vern Paxson},
-  title     = {On Estimating End-to-End Network Path Properties},
+  title     = {On Estimating {End-to-End} Network Path Properties},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {263-274},
@@ -5274,7 +6107,7 @@
 @inproceedings{DBLP:conf/sigcomm/GriffinW99,
   author    = {Timothy Griffin and
                Gordon T. Wilfong},
-  title     = {An Analysis of BGP Convergence Properties},
+  title     = {An Analysis of {BGP} Convergence Properties},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {277-288},
@@ -5286,7 +6119,7 @@
                Eric Hoffman and
                John Snell and
                Thomas E. Anderson},
-  title     = {The End-to-End Effects of Internet Path Selection},
+  title     = {The {End-to-End} Effects of Internet Path Selection},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {289-299},
@@ -5297,7 +6130,7 @@
                Anna C. Gilbert and
                Polly Huang and
                Walter Willinger},
-  title     = {Dynamics of IP Traffic: A Study of the Role of Variability and the Impact of Control},
+  title     = {Dynamics of {IP} Traffic: A Study of the Role of Variability and the Impact of Control},
   booktitle = sigcomm,
   year      = 1999,
   pages     = {301-313},
@@ -5306,7 +6139,7 @@
 @inproceedings{DBLP:conf/sigcomm/BreslauS98,
   author    = {Lee Breslau and
                Scott Shenker},
-  title     = {Best-Effort versus Reservations: A Simple Comparative Analysis},
+  title     = {{Best-Effort} versus Reservations: A Simple Comparative Analysis},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {3-16},
@@ -5328,7 +6161,7 @@
                Sanjay Kamat and
                Vinod G. J. Peris and
                Raju Rajan},
-  title     = {Scalable QoS Provision Through Buffer Management},
+  title     = {Scalable {QoS} Provision Through Buffer Management},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {29-40},
@@ -5338,7 +6171,7 @@
   author    = {Anja Feldmann and
                Anna C. Gilbert and
                Walter Willinger},
-  title     = {Data Networks as Cascades: Investigating the Multifractal Nature of Internet WAN Traffic},
+  title     = {Data Networks as Cascades: Investigating the Multifractal Nature of Internet {WAN} Traffic},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {42-55},
@@ -5368,7 +6201,7 @@
 @inproceedings{DBLP:conf/sigcomm/WangS98,
   author    = {Huayan Amy Wang and
                Mischa Schwartz},
-  title     = {Achieving Bounded Fairness for Multicast and TCP Traffic in the Internet},
+  title     = {Achieving Bounded Fairness for Multicast and {TCP} Traffic in the Internet},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {81-92},
@@ -5381,7 +6214,7 @@
                Cengiz Alaettinoglu and
                Deborah Estrin and
                Mark Handley},
-  title     = {The MASC/BGMP Architecture for Inter-Domain Multicast Routing},
+  title     = {The MASC/{BGMP} Architecture for {Inter-Domain} Multicast Routing},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {93-104},
@@ -5399,7 +6232,7 @@
   author    = {Ion Stoica and
                Scott Shenker and
                Hui Zhang},
-  title     = {Core-Stateless Fair Queueing: Achieving Approximately Fair Bandwidth Allocations in High Speed Networks},
+  title     = {{Core-Stateless} Fair Queueing: Achieving Approximately Fair Bandwidth Allocations in High Speed Networks},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {118-130},
@@ -5428,7 +6261,7 @@
 @inproceedings{DBLP:conf/sigcomm/ChoiS98,
   author    = {Sunghyun Choi and
                Kang G. Shin},
-  title     = {Predictive and Adaptive Bandwidth Reservation for Hand-Offs in QoS-Sensitive Cellular Networks},
+  title     = {Predictive and Adaptive Bandwidth Reservation for {Hand-Offs} in {QoS-Sensitive} Cellular Networks},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {155-166},
@@ -5447,7 +6280,7 @@
   author    = {Elan Amir and
                Steven McCanne and
                Randy H. Katz},
-  title     = {An Active Service Framework and Its Application to Real-Time Multimedia Transcoding},
+  title     = {An Active Service Framework and Its Application to {Real-Time} Multimedia Transcoding},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {178-189},
@@ -5467,7 +6300,7 @@
 @inproceedings{DBLP:conf/sigcomm/LakshmanS98,
   author    = {T. V. Lakshman and
                Dimitrios Stiliadis},
-  title     = {High-Speed Policy-Based Packet Forwarding Using Efficient Multi-Dimensional Range Matching},
+  title     = {{High-Speed} {Policy-Based} Packet Forwarding Using Efficient {Multi-Dimensional} Range Matching},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {203-214},
@@ -5497,7 +6330,7 @@
   author    = {Edith Cohen and
                Balachander Krishnamurthy and
                Jennifer Rexford},
-  title     = {Improving End-to-End Performance of the Web Using Server Volumes and Proxy Filters},
+  title     = {Improving {End-to-End} Performance of the Web Using Server Volumes and Proxy Filters},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {241-253},
@@ -5508,7 +6341,7 @@
                Pei Cao and
                Jussara M. Almeida and
                Andrei Z. Broder},
-  title     = {Summary Cache: A Scalable Wide-Area Web Cache Sharing Protocol},
+  title     = {Summary Cache: A Scalable {Wide-Area} Web Cache Sharing Protocol},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {254-265},
@@ -5517,7 +6350,7 @@
 @inproceedings{DBLP:conf/sigcomm/CankayaN98,
   author    = {Hakki C. Cankaya and
                V. S. S. Nair},
-  title     = {Accelerated Reliability Analysis for Self-Healing SONET Networks},
+  title     = {Accelerated Reliability Analysis for {Self-Healing} {SONET} Networks},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {268-277},
@@ -5525,7 +6358,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Kermode98,
   author    = {Roger Kermode},
-  title     = {Scoped Hybrid Automatic Repeat reQuest with Forward Error Correction (SHARQFEC)},
+  title     = {Scoped Hybrid Automatic Repeat {reQuest} with Forward Error Correction (SHARQFEC)},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {278-289},
@@ -5533,7 +6366,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Rhee98,
   author    = {Injong Rhee},
-  title     = {Error Control Techniques for Interactive Low-Bit Rate Video Transmission over the Internet},
+  title     = {Error Control Techniques for Interactive {Low-Bit} Rate Video Transmission over the Internet},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {290-301},
@@ -5544,7 +6377,7 @@
                Victor Firoiu and
                Donald F. Towsley and
                James F. Kurose},
-  title     = {Modeling TCP Throughput: A Simple Model and Its Empirical Validation},
+  title     = {Modeling {TCP} Throughput: A Simple Model and Its Empirical Validation},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {303-314},
@@ -5554,7 +6387,7 @@
   author    = {Jeffrey Semke and
                Jamshid Mahdavi and
                Matthew Mathis},
-  title     = {Automatic TCP Buffer Tuning},
+  title     = {Automatic {TCP} Buffer Tuning},
   booktitle = sigcomm,
   year      = 1998,
   pages     = {315-323},
@@ -5574,7 +6407,7 @@
 @inproceedings{DBLP:conf/sigcomm/LinM97,
   author    = {Steven Lin and
                Nick McKeown},
-  title     = {A Simulation Study of IP Switching},
+  title     = {A Simulation Study of {IP} Switching},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {15-24},
@@ -5585,7 +6418,7 @@
                George Varghese and
                Jonathan S. Turner and
                Bernhard Plattner},
-  title     = {Scalable High Speed IP Routing Lookups},
+  title     = {Scalable High Speed {IP} Routing Lookups},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {25-36},
@@ -5605,7 +6438,7 @@
                Mahadev Satyanarayanan and
                Giao Thanh Nguyen and
                Randy H. Katz},
-  title     = {Trace-Based Mobile Network Emulation},
+  title     = {{Trace-Based} Mobile Network Emulation},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {51-61},
@@ -5624,7 +6457,7 @@
 @inproceedings{DBLP:conf/sigcomm/HanS97,
   author    = {Seungjae Han and
                Kang G. Shin},
-  title     = {Fast Restoration of Real-Time Communication Service from Component Failures in Multi-Hop Networks},
+  title     = {Fast Restoration of {Real-Time} Communication Service from Component Failures in {Multi-Hop} Networks},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {77-88},
@@ -5633,7 +6466,7 @@
 @inproceedings{DBLP:conf/sigcomm/HuaS97,
   author    = {Kien A. Hua and
                Simon Sheu},
-  title     = {Skyscraper Broadcasting: A New Broadcasting Scheme for Metropolitan Video-on-Demand Systems},
+  title     = {Skyscraper Broadcasting: A New Broadcasting Scheme for Metropolitan {Video-on-Demand} Systems},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {89-100},
@@ -5684,7 +6517,7 @@
                Eric Prud'hommeaux and
                H{\aa}kon Wium Lie and
                Chris Lilley},
-  title     = {Network Performance Effects of HTTP/1.1, CSS1, and PNG},
+  title     = {Network Performance Effects of HTTP/1.1, CSS1, and {PNG}},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {155-166},
@@ -5692,7 +6525,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Paxson97a,
   author    = {Vern Paxson},
-  title     = {Automated Packet Trace Analysis of TCP Implementations},
+  title     = {Automated Packet Trace Analysis of {TCP} Implementations},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {167-179},
@@ -5703,7 +6536,7 @@
                Fred Douglis and
                Anja Feldmann and
                Balachander Krishnamurthy},
-  title     = {Potential Benefits of Delta Encoding and Data Compression for HTTP},
+  title     = {Potential Benefits of Delta Encoding and Data Compression for {HTTP}},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {181-194},
@@ -5712,7 +6545,7 @@
 @inproceedings{DBLP:conf/sigcomm/HandleyC97,
   author    = {Mark Handley and
                Jon Crowcroft},
-  title     = {Network Text Editor (NTE): A Scalable Shared Text Editor for the MBone},
+  title     = {Network Text Editor (NTE): A Scalable Shared Text Editor for the {MBone}},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {197-208},
@@ -5730,7 +6563,7 @@
 @inproceedings{DBLP:conf/sigcomm/MittraW97,
   author    = {Suvo Mittra and
                Thomas Y. C. Woo},
-  title     = {A Flow-Based Approach to Datagram Security},
+  title     = {A {Flow-Based} Approach to Datagram Security},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {221-234},
@@ -5739,7 +6572,7 @@
 @inproceedings{DBLP:conf/sigcomm/GrossglauserT97,
   author    = {Matthias Grossglauser and
                David N. C. Tse},
-  title     = {A Framework for Robust Measurement-Based Admission Control},
+  title     = {A Framework for Robust {Measurement-Based} Admission Control},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {237-248},
@@ -5749,7 +6582,7 @@
   author    = {Ion Stoica and
                Hui Zhang and
                T. S. Eugene Ng},
-  title     = {A Hierarchical Fair Service Curve Algorithm for Link-Sharing, Real-Time and Priority Services},
+  title     = {A Hierarchical Fair Service Curve Algorithm for Link-Sharing, {Real-Time} and Priority Services},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {249-262},
@@ -5776,7 +6609,7 @@
   author    = {J{\"o}rg Nonnenmacher and
                Ernst Biersack and
                Donald F. Towsley},
-  title     = {Parity-Based Loss Recovery for Reliable Multicast Transmission},
+  title     = {{Parity-Based} Loss Recovery for Reliable Multicast Transmission},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {289-300},
@@ -5786,7 +6619,7 @@
   author    = {Zeydy Ortiz and
                George N. Rouskas and
                Harry G. Perros},
-  title     = {Scheduling of Multicast Traffic in Tunable-Receiver WDM Networks with Non-Negligible Tuning Latencies},
+  title     = {Scheduling of Multicast Traffic in {Tunable-Receiver} {WDM} Networks with {Non-Negligible} Tuning Latencies},
   booktitle = sigcomm,
   year      = 1997,
   pages     = {301-310},
@@ -5795,7 +6628,7 @@
 @inproceedings{DBLP:conf/sigcomm/RyuE96,
   author    = {Bong K. Ryu and
                Anwar Elwalid},
-  title     = {The Importance of Long-Range Dependence of VBR Video Traffic in ATM Traffic Engineering: Myths and Realities},
+  title     = {The Importance of {Long-Range} Dependence of {VBR} Video Traffic in {ATM} Traffic Engineering: Myths and Realities},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {3-14},
@@ -5804,7 +6637,7 @@
 @inproceedings{DBLP:conf/sigcomm/GrossglauserB96,
   author    = {Matthias Grossglauser and
                Jean-Chrysostome Bolot},
-  title     = {On the Relevance of Long-Range Dependence in Network Traffic},
+  title     = {On the Relevance of {Long-Range} Dependence in Network Traffic},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {15-24},
@@ -5822,7 +6655,7 @@
   author    = {Deborah A. Wallach and
                Dawson R. Engler and
                M. Frans Kaashoek},
-  title     = {ASHs: Application-Specific Handlers for High-Performance Messaging},
+  title     = {ASHs: {Application-Specific} Handlers for {High-Performance} Messaging},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {40-52},
@@ -5889,7 +6722,7 @@
   author    = {Steven McCanne and
                Van Jacobson and
                Martin Vetterli},
-  title     = {Receiver-Driven Layered Multicast},
+  title     = {{Receiver-Driven} Layered Multicast},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {117-130},
@@ -5918,7 +6751,7 @@
   author    = {Pawan Goyal and
                Harrick M. Vin and
                Haichen Cheng},
-  title     = {Start-Time Fair Queueing: A Scheduling Algorithm for Integrated Services Packet Switching Networks},
+  title     = {{Start-Time} Fair Queueing: A Scheduling Algorithm for Integrated Services Packet Switching Networks},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {157-168},
@@ -5938,7 +6771,7 @@
   author    = {Mario Gerla and
                Prasasth Palnati and
                Simon Walton},
-  title     = {Multicasting Protocols for High-Speed, Wormhole-Routing Local Area Networks},
+  title     = {Multicasting Protocols for High-Speed, {Wormhole-Routing} Local Area Networks},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {184-193},
@@ -5956,7 +6789,7 @@
   author    = {Qingming Ma and
                Peter Steenkiste and
                Hui Zhang},
-  title     = {Routing High-Bandwidth Traffic in Max-Min Fair Share Networks},
+  title     = {Routing {High-Bandwidth} Traffic in {Max-Min} Fair Share Networks},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {206-217},
@@ -5982,7 +6815,7 @@
 @inproceedings{DBLP:conf/sigcomm/EckhardtS96,
   author    = {David A. Eckhardt and
                Peter Steenkiste},
-  title     = {Measurement and Analysis of the Error Characteristics of an In-Building Wireless Network},
+  title     = {Measurement and Analysis of the Error Characteristics of an {In-Building} Wireless Network},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {243-254},
@@ -5993,7 +6826,7 @@
                Venkata N. Padmanabhan and
                Srinivasan Seshan and
                Randy H. Katz},
-  title     = {A Comparison of Mechanisms for Improving TCP Performance over Wireless Links},
+  title     = {A Comparison of Mechanisms for Improving {TCP} Performance over Wireless Links},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {256-269},
@@ -6001,7 +6834,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Hoe96,
   author    = {Janey C. Hoe},
-  title     = {Improving the Start-Up Behavior of a Congestion Control Scheme for TCP},
+  title     = {Improving the {Start-Up} Behavior of a Congestion Control Scheme for {TCP}},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {270-280},
@@ -6010,7 +6843,7 @@
 @inproceedings{DBLP:conf/sigcomm/MathisM96,
   author    = {Matthew Mathis and
                Jamshid Mahdavi},
-  title     = {Forward Acknowledgement: Refining TCP Congestion Control},
+  title     = {Forward Acknowledgement: Refining {TCP} Congestion Control},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {281-291},
@@ -6022,7 +6855,7 @@
                Ghaleb Abdulla and
                Edward A. Fox and
                Stephen Williams},
-  title     = {Removal Policies in Network Caches for World-Wide Web Documents},
+  title     = {Removal Policies in Network Caches for {World-Wide} Web Documents},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {293-305},
@@ -6031,7 +6864,7 @@
 @inproceedings{DBLP:conf/sigcomm/GokhaleS96,
   author    = {Aniruddha S. Gokhale and
                Douglas C. Schmidt},
-  title     = {Measuring the Performance of Communication Middleware on High-Speed Networks},
+  title     = {Measuring the Performance of Communication Middleware on {High-Speed} Networks},
   booktitle = sigcomm,
   year      = 1996,
   pages     = {306-317},
@@ -6051,7 +6884,7 @@
                Peter B. Danzig and
                Scott Shenker and
                Lixia Zhang},
-  title     = {A Measurement-Based Admission Control Algorithm for Integrated Services Packet Networks},
+  title     = {A {Measurement-Based} Admission Control Algorithm for Integrated Services Packet Networks},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {2-13},
@@ -6069,7 +6902,7 @@
 @inproceedings{DBLP:conf/sigcomm/VenkatramaniC95,
   author    = {Chitra Venkatramani and
                Tzi-cker Chiueh},
-  title     = {Design, Implementation, and Evaluation of a Software-Based Real-Time Ethernet Protocol},
+  title     = {Design, Implementation, and Evaluation of a {Software-Based} {Real-Time} Ethernet Protocol},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {27-37},
@@ -6079,7 +6912,7 @@
   author    = {Manolis Katevenis and
                Panagiota Vatsolaki and
                Aristides Efthymiou},
-  title     = {Pipelined Memory Shared Buffer for VLSI Switches},
+  title     = {Pipelined Memory Shared Buffer for {VLSI} Switches},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {39-48},
@@ -6089,7 +6922,7 @@
   author    = {Guru M. Parulkar and
                Douglas C. Schmidt and
                Jonathan S. Turner},
-  title     = {aItPm: A Strategy for Integrating IP with ATM},
+  title     = {aItPm: A Strategy for Integrating {IP} with {ATM}},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {49-59},
@@ -6098,7 +6931,7 @@
 @inproceedings{DBLP:conf/sigcomm/ThyagarajanD95,
   author    = {Ajit S. Thyagarajan and
                Stephen E. Deering},
-  title     = {Hierarchical Distance-Vector Multicast Routing for the MBone},
+  title     = {Hierarchical {Distance-Vector} Multicast Routing for the {MBone}},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {60-66},
@@ -6108,7 +6941,7 @@
   author    = {Craig Partridge and
                James Hughes and
                Jonathan Stone},
-  title     = {Performance of Checksums and CRCs over Real Data},
+  title     = {Performance of Checksums and {CRCs} over Real Data},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {68-76},
@@ -6137,7 +6970,7 @@
                Murad S. Taqqu and
                Robert Sherman and
                Daniel V. Wilson},
-  title     = {Self-Similarity Through High-Variability: Statistical Analysis of Ethernet LAN Traffic at the Source Level},
+  title     = {{Self-Similarity} Through High-Variability: Statistical Analysis of Ethernet {LAN} Traffic at the Source Level},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {100-113},
@@ -6148,7 +6981,7 @@
                Michael Devetsikiotis and
                Ioannis Lambadaris and
                A. Roger Kaye},
-  title     = {Modeling and Simulation of Self-Similar Variable Bit Rate Compressed Video: A Unified Approach},
+  title     = {Modeling and Simulation of {Self-Similar} Variable Bit Rate Compressed Video: A Unified Approach},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {114-125},
@@ -6156,7 +6989,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Lee95,
   author    = {Kam Lee},
-  title     = {Performance Bounds in Communication Networks with Variable-Rate Links},
+  title     = {Performance Bounds in Communication Networks with {Variable-Rate} Links},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {126-136},
@@ -6165,7 +6998,7 @@
 @inproceedings{DBLP:conf/sigcomm/BhattiS95,
   author    = {Nina T. Bhatti and
                Richard D. Schlichting},
-  title     = {A System for Constructing Configurable High-Level Protocols},
+  title     = {A System for Constructing Configurable {High-Level} Protocols},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {138-150},
@@ -6203,7 +7036,7 @@
                Peter B. Danzig and
                Zhen Liu and
                Limin Yan},
-  title     = {Evaluation of TCP Vegas: Emulation and Experiment},
+  title     = {Evaluation of {TCP} Vegas: Emulation and Experiment},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {185-205},
@@ -6212,7 +7045,7 @@
 @inproceedings{DBLP:conf/sigcomm/FigueiraP95,
   author    = {Norival R. Figueira and
                Joseph Pasquale},
-  title     = {Leave-in-Time: A New Service Discipline for Real-Time Communications in a Packet-Switching Network},
+  title     = {Leave-in-Time: A New Service Discipline for {Real-Time} Communications in a {Packet-Switching} Network},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {207-218},
@@ -6222,7 +7055,7 @@
   author    = {Matthias Grossglauser and
                Srinivasan Keshav and
                David N. C. Tse},
-  title     = {RCBR: A Simple and Efficient Service for Multiple Time-Scale Traffic},
+  title     = {RCBR: A Simple and Efficient Service for Multiple {Time-Scale} Traffic},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {219-230},
@@ -6258,7 +7091,7 @@
 @inproceedings{DBLP:conf/sigcomm/FullmerG95,
   author    = {Chane L. Fullmer and
                J. J. Garcia-Luna-Aceves},
-  title     = {Floor Acquisition Multiple Access (FAMA) for Packet-Radio Networks},
+  title     = {Floor Acquisition Multiple Access (FAMA) for {Packet-Radio} Networks},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {262-273},
@@ -6285,7 +7118,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Mogul95,
   author    = {Jeffrey C. Mogul},
-  title     = {The Case for Persistent-Connection HTTP},
+  title     = {The Case for {Persistent-Connection} {HTTP}},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {299-313},
@@ -6305,7 +7138,7 @@
   author    = {Hugh W. Holbrook and
                Sandeep K. Singhal and
                David R. Cheriton},
-  title     = {Log-Based Receiver-Reliable Multicast for Distributed Interactive Simulation},
+  title     = {{Log-Based} {Receiver-Reliable} Multicast for Distributed Interactive Simulation},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {328-341},
@@ -6317,7 +7150,7 @@
                Steven McCanne and
                Ching-Gung Liu and
                Lixia Zhang},
-  title     = {A Reliable Multicast Framework for Light-Weight Sessions and Application Level Framing},
+  title     = {A Reliable Multicast Framework for {Light-Weight} Sessions and Application Level Framing},
   booktitle = sigcomm,
   year      = 1995,
   pages     = {342-356},
@@ -6327,7 +7160,7 @@
   author    = {Peter Druschel and
                Larry L. Peterson and
                Bruce S. Davie},
-  title     = {Experiences with a High-Speed Network Adaptor: A Software Perspective},
+  title     = {Experiences with a {High-Speed} Network Adaptor: A Software Perspective},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {2-13},
@@ -6340,7 +7173,7 @@
                David Banks and
                Costas Calamvokis and
                C. Dalton},
-  title     = {User-Space Protocols Deliver High Performance to Applications on a Low-Cost Gb/s LAN},
+  title     = {{User-Space} Protocols Deliver High Performance to Applications on a {Low-Cost} Gb/s {LAN}},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {14-23},
@@ -6350,7 +7183,7 @@
   author    = {Lawrence S. Brakmo and
                Sean W. O'Malley and
                Larry L. Peterson},
-  title     = {TCP Vegas: New Techniques for Congestion Detection and Avoidance},
+  title     = {{TCP} Vegas: New Techniques for Congestion Detection and Avoidance},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {24-35},
@@ -6358,7 +7191,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Biagioni94,
   author    = {Edoardo Biagioni},
-  title     = {A Structured TCP in Standard ML},
+  title     = {A Structured {TCP} in Standard {ML}},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {36-45},
@@ -6366,7 +7199,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Shenker94,
   author    = {Scott Shenker},
-  title     = {Making Greed Work in Networks: A Game-Theoretic Analysis of Switch Service Disciplines},
+  title     = {Making Greed Work in Networks: A {Game-Theoretic} Analysis of Switch Service Disciplines},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {47-57},
@@ -6395,7 +7228,7 @@
 @inproceedings{DBLP:conf/sigcomm/RomanowF94,
   author    = {Allyn Romanow and
                Sally Floyd},
-  title     = {Dynamics of TCP Traffic Over ATM Networks},
+  title     = {Dynamics of {TCP} Traffic Over {ATM} Networks},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {79-88},
@@ -6405,7 +7238,7 @@
   author    = {C{\"u}neyt M. {\"O}zveren and
                Robert J. Simcoe and
                George Varghese},
-  title     = {Reliable and Efficient Hop-by-Hop Flow Control},
+  title     = {Reliable and Efficient {Hop-by-Hop} Flow Control},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {89-100},
@@ -6415,7 +7248,7 @@
   author    = {H. T. Kung and
                Trevor Blackwell and
                Alan Chapman},
-  title     = {Credit-Based Flow Control for ATM Networks: Credit Update Protocol, Adaptive Credit Allocation and Statistical Multiplexing},
+  title     = {{Credit-Based} Flow Control for {ATM} Networks: Credit Update Protocol, Adaptive Credit Allocation and Statistical Multiplexing},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {101-114},
@@ -6424,7 +7257,7 @@
 @inproceedings{DBLP:conf/sigcomm/FrancisG94,
   author    = {Paul Francis and
                Ramesh Govindan},
-  title     = {Flexible Routing and Addressing for a Next Generation IP},
+  title     = {Flexible Routing and Addressing for a Next Generation {IP}},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {116-125},
@@ -6437,7 +7270,7 @@
                Van Jacobson and
                Ching-Gung Liu and
                Liming Wei},
-  title     = {An Architecture for Wide-Area Multicast Routing},
+  title     = {An Architecture for {Wide-Area} Multicast Routing},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {126-135},
@@ -6446,7 +7279,7 @@
 @inproceedings{DBLP:conf/sigcomm/BehrensG94,
   author    = {Jochen Behrens and
                J. J. Garcia-Luna-Aceves},
-  title     = {Distributed, Scalable Routing Based on Link-State Vectors},
+  title     = {Distributed, Scalable Routing Based on {Link-State} Vectors},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {136-147},
@@ -6455,7 +7288,7 @@
 @inproceedings{DBLP:conf/sigcomm/SharmaK94,
   author    = {Rosen Sharma and
                Srinivasan Keshav},
-  title     = {Signaling and Operating System Support for Native-Mode ATM Applications},
+  title     = {Signaling and Operating System Support for {Native-Mode} {ATM} Applications},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {149-157},
@@ -6465,7 +7298,7 @@
   author    = {Richard Black and
                Ian M. Leslie and
                Derek McAuley},
-  title     = {Experiences of Building an ATM Switch for the Local Area},
+  title     = {Experiences of Building an {ATM} Switch for the Local Area},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {158-167},
@@ -6474,7 +7307,7 @@
 @inproceedings{DBLP:conf/sigcomm/SibalD94,
   author    = {Sandeep Sibal and
                Antonio DeSimone},
-  title     = {Controlling Alternate Routing in General-Mesh Packet Flow Networks},
+  title     = {Controlling Alternate Routing in {General-Mesh} Packet Flow Networks},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {168-179},
@@ -6500,7 +7333,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Aly94,
   author    = {Khaled A. Aly},
-  title     = {Conflict-Free Channel Assignment for an Optical Cluster-Based Shuffle Network Configuration},
+  title     = {{Conflict-Free} Channel Assignment for an Optical {Cluster-Based} Shuffle Network Configuration},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {201-210},
@@ -6511,7 +7344,7 @@
                Alan J. Demers and
                Scott Shenker and
                Lixia Zhang},
-  title     = {MACAW: A Media Access Protocol for Wireless LAN's},
+  title     = {MACAW: A Media Access Protocol for Wireless {LAN's}},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {212-225},
@@ -6529,7 +7362,7 @@
 @inproceedings{DBLP:conf/sigcomm/PerkinsB94,
   author    = {Charles E. Perkins and
                Pravin Bhagwat},
-  title     = {Highly Dynamic Destination-Sequenced Distance-Vector Routing (DSDV) for mobile computers},
+  title     = {Highly Dynamic {Destination-Sequenced} {Distance-Vector} Routing (DSDV) for mobile computers},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {234-244},
@@ -6546,7 +7379,7 @@
 @inproceedings{DBLP:conf/sigcomm/PaxsonF94,
   author    = {Vern Paxson and
                Sally Floyd},
-  title     = {Wide-Area Traffic: The Failure of Poisson Modeling},
+  title     = {{Wide-Area} Traffic: The Failure of Poisson Modeling},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {257-268},
@@ -6555,7 +7388,7 @@
 @inproceedings{DBLP:conf/sigcomm/GarrettW94,
   author    = {Mark W. Garrett and
                Walter Willinger},
-  title     = {Analysis, Modeling and Generation of Self-Similar VBR Video Traffic},
+  title     = {Analysis, Modeling and Generation of {Self-Similar} {VBR} Video Traffic},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {269-280},
@@ -6565,7 +7398,7 @@
   author    = {Simon S. Lam and
                Simon Chow and
                David K. Y. Yau},
-  title     = {An Algorithm for Lossless Smoothing of MPEG Video},
+  title     = {An Algorithm for Lossless Smoothing of {MPEG} Video},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {281-293},
@@ -6583,7 +7416,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Liu94,
   author    = {Chung-Shyan Liu},
-  title     = {An Object-Based Approach to Protocol Software Implementation},
+  title     = {An {Object-Based} Approach to Protocol Software Implementation},
   booktitle = sigcomm,
   year      = 1994,
   pages     = {307-316},
@@ -6602,7 +7435,7 @@
                James F. Kurose and
                Donald F. Towsley and
                Michael G. Hluchyj},
-  title     = {On Per-Session End-to-End Delay Distributions and the Call Admission Problem for Real-Time Applications with QOS Requirements},
+  title     = {On {Per-Session} {End-to-End} Delay Distributions and the Call Admission Problem for {Real-Time} Applications with {QOS} Requirements},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {2-12},
@@ -6611,7 +7444,7 @@
 @inproceedings{DBLP:conf/sigcomm/WangC93,
   author    = {Zheng Wang and
                Jon Crowcroft},
-  title     = {Analysis of Burstiness and Jitter in Real-Time Communications},
+  title     = {Analysis of Burstiness and Jitter in {Real-Time} Communications},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {13-19},
@@ -6621,7 +7454,7 @@
   author    = {Hemant Kanakia and
                Partho Pratim Mishra and
                Amy R. Reibman},
-  title     = {An Adaptive Congestion Control Scheme for Real-Time Packet Video Transport},
+  title     = {An Adaptive Congestion Control Scheme for {Real-Time} Packet Video Transport},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {20-31},
@@ -6689,7 +7522,7 @@
 @inproceedings{DBLP:conf/sigcomm/VermaG93,
   author    = {Dinesh C. Verma and
                Prabandham M. Gopal},
-  title     = {Routing Reserved Bandwith Multi-Point Connections},
+  title     = {Routing Reserved Bandwith {Multi-Point} Connections},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {96-105},
@@ -6707,7 +7540,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Williamson93,
   author    = {Carey L. Williamson},
-  title     = {Optimizing File Transfer Response Time Using the Loss-Load Curve Congestion Control Mechanism},
+  title     = {Optimizing File Transfer Response Time Using the {Loss-Load} Curve Congestion Control Mechanism},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {117-126},
@@ -6733,7 +7566,7 @@
 @inproceedings{DBLP:conf/sigcomm/ShionozakiT93,
   author    = {Atsushi Shionozaki and
                Mario Tokoro},
-  title     = {Control Handling in Real-Time Communication Protocols},
+  title     = {Control Handling in {Real-Time} Communication Protocols},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {149-159},
@@ -6750,7 +7583,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Feldmeier93,
   author    = {David C. Feldmeier},
-  title     = {A Data Labelling Technique for High-Performance Protocol Processing and Its Consequences},
+  title     = {A Data Labelling Technique for {High-Performance} Protocol Processing and Its Consequences},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {170-181},
@@ -6761,7 +7594,7 @@
                Murad S. Taqqu and
                Walter Willinger and
                Daniel V. Wilson},
-  title     = {On the Self-Similar Nature of Ethernet Traffic},
+  title     = {On the {Self-Similar} Nature of Ethernet Traffic},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {183-193},
@@ -6779,7 +7612,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Schwartz93,
   author    = {Daniel B. Schwartz},
-  title     = {ATM Scheduling with Queuing Delay Predictions},
+  title     = {{ATM} Scheduling with Queuing Delay Predictions},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {205-211},
@@ -6829,7 +7662,7 @@
 @inproceedings{DBLP:conf/sigcomm/KayP93,
   author    = {Jonathan Kay and
                Joseph Pasquale},
-  title     = {The Importance of Non-Data Touching Processing Overheads in TCP/IP},
+  title     = {The Importance of {Non-Data} Touching Processing Overheads in TCP/{IP}},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {259-268},
@@ -6856,7 +7689,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Bolot93,
   author    = {Jean-Chrysostome Bolot},
-  title     = {End-to-End Packet Delay and Loss Behavior in the Internet},
+  title     = {{End-to-End} Packet Delay and Loss Behavior in the Internet},
   booktitle = sigcomm,
   year      = 1993,
   pages     = {289-298},
@@ -6866,7 +7699,7 @@
   author    = {Pierre A. Humblet and
                Rajiv Ramaswami and
                Kumar N. Sivarajan},
-  title     = {An Efficient Communication Protocol for High-Speed Packet-Switched Multichannel Networks},
+  title     = {An Efficient Communication Protocol for {High-Speed} {Packet-Switched} Multichannel Networks},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {2-13},
@@ -6876,7 +7709,7 @@
   author    = {David D. Clark and
                Scott Shenker and
                Lixia Zhang},
-  title     = {Supporting Real-Time Applications in an Integrated Services Packet Network: Architecture and Mechanism},
+  title     = {Supporting {Real-Time} Applications in an Integrated Services Packet Network: Architecture and Mechanism},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {14-26},
@@ -6885,7 +7718,7 @@
 @inproceedings{DBLP:conf/sigcomm/AbbottP92,
   author    = {Mark B. Abbott and
                Larry L. Peterson},
-  title     = {A Language-Based Approach to Protocol Implementation},
+  title     = {A {Language-Based} Approach to Protocol Implementation},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {27-38},
@@ -6895,7 +7728,7 @@
   author    = {Deborah Estrin and
                Yakov Rekhter and
                Steven Hotz},
-  title     = {Scalable Inter-Domain Routing Architecture},
+  title     = {Scalable {Inter-Domain} Routing Architecture},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {40-52},
@@ -6904,7 +7737,7 @@
 @inproceedings{DBLP:conf/sigcomm/BahkZ92,
   author    = {Saewoong Bahk and
                Magda El Zarki},
-  title     = {Dynamic Multi-Path Routing and How It Compares With Other Dynamic Routing Algorithms for High Speed Wide Area Network},
+  title     = {Dynamic {Multi-Path} Routing and How It Compares With Other Dynamic Routing Algorithms for High Speed Wide Area Network},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {53-64},
@@ -6920,7 +7753,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Chao92,
   author    = {H. Jonathan Chao},
-  title     = {Architecture Design for Regulating and Scheduling User's Traffic in ATM Networks},
+  title     = {Architecture Design for Regulating and Scheduling User's Traffic in {ATM} Networks},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {77-87},
@@ -6931,7 +7764,7 @@
                Yoshito Tobe and
                Stephen T.-C. Chou and
                Jos{\'e} M. F. Moura},
-  title     = {Continuous Media Communication with Dynamic QOS Control Using ARTS with an FDDI Network},
+  title     = {Continuous Media Communication with Dynamic {QOS} Control Using {ARTS} with an {FDDI} Network},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {88-98},
@@ -6951,7 +7784,7 @@
 @inproceedings{DBLP:conf/sigcomm/MishraK92,
   author    = {Partho Pratim Mishra and
                Hemant Kanakia},
-  title     = {A Hop by Hop Rate-Based Congestion Control Scheme},
+  title     = {A Hop by Hop {Rate-Based} Congestion Control Scheme},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {112-123},
@@ -6971,7 +7804,7 @@
   author    = {Kerry W. Fendick and
                Manoel A. Rodrigues and
                Alan Weiss},
-  title     = {Analysis of a Rate-Based Control Strategy with Delayed Feedback},
+  title     = {Analysis of a {Rate-Based} Control Strategy with Delayed Feedback},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {136-148},
@@ -6980,7 +7813,7 @@
 @inproceedings{DBLP:conf/sigcomm/StirpeP92,
   author    = {Paul A. Stirpe and
                Eugene Pinsky},
-  title     = {Performance Analysis of an Asynchronous Multi-Rate Crossbar with Bursty Traffic},
+  title     = {Performance Analysis of an Asynchronous {Multi-Rate} Crossbar with Bursty Traffic},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {150-160},
@@ -6990,7 +7823,7 @@
   author    = {J{\"o}rg Liebeherr and
                Ian F. Akyildiz and
                Asser N. Tantawi},
-  title     = {An Effective Scheme for Pre-Emptive Priorities in Dual Bus Metropolitan Area Networks},
+  title     = {An Effective Scheme for {Pre-Emptive} Priorities in Dual Bus Metropolitan Area Networks},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {161-169},
@@ -6999,7 +7832,7 @@
 @inproceedings{DBLP:conf/sigcomm/BonceletM92,
   author    = {Charles G. Boncelet Jr. and
                David L. Mills},
-  title     = {A Labeling Algorithm for Just-in-Time Scheduling in TDMA Networks},
+  title     = {A Labeling Algorithm for {Just-in-Time} Scheduling in {TDMA} Networks},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {170-175},
@@ -7032,7 +7865,7 @@
 @inproceedings{DBLP:conf/sigcomm/RamanathanL92,
   author    = {Subramanian Ramanathan and
                Errol L. Lloyd},
-  title     = {Scheduling Algorithms for Multi-Hop Radio Networks},
+  title     = {Scheduling Algorithms for {Multi-Hop} Radio Networks},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {211-222},
@@ -7042,7 +7875,7 @@
   author    = {Jay M. Hyman and
                Aurel A. Lazar and
                Giovanni Pacifici},
-  title     = {Joint Scheduling and Admission Control for ATS-Based Switching Nodes},
+  title     = {Joint Scheduling and Admission Control for {ATS-Based} Switching Nodes},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {223-234},
@@ -7052,7 +7885,7 @@
   author    = {Krishna M. Sivalingam and
                Kalyani Bogineni and
                Patrick W. Dowd},
-  title     = {Pre-Allocation Media Access Control Protocols for Multiple Access WDM Photonic Networks},
+  title     = {{Pre-Allocation} Media Access Control Protocols for Multiple Access {WDM} Photonic Networks},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {235-246},
@@ -7060,7 +7893,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Biersack92,
   author    = {Ernst Biersack},
-  title     = {Performance Evaluation of Forward Error Correction in ATM Networks},
+  title     = {Performance Evaluation of Forward Error Correction in {ATM} Networks},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {248-257},
@@ -7069,7 +7902,7 @@
 @inproceedings{DBLP:conf/sigcomm/TurnerP92,
   author    = {Charles J. Turner and
                Larry L. Peterson},
-  title     = {Image Transfer: An End-to-End Design},
+  title     = {Image Transfer: An {End-to-End} Design},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {258-268},
@@ -7078,7 +7911,7 @@
 @inproceedings{DBLP:conf/sigcomm/McKenneyD92,
   author    = {Paul E. McKenney and
                Ken F. Dove},
-  title     = {Efficient Demultiplexing of Incoming TCP Packets},
+  title     = {Efficient Demultiplexing of Incoming {TCP} Packets},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {269-279},
@@ -7088,7 +7921,7 @@
   author    = {Peter B. Danzig and
                Katia Obraczka and
                Anant Kumar},
-  title     = {An Analysis of Wide-Area Name Server Traffic: A Study of the Internet Domain Name System},
+  title     = {An Analysis of {Wide-Area} Name Server Traffic: A Study of the Internet Domain Name System},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {281-292},
@@ -7105,7 +7938,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Mogul92,
   author    = {Jeffrey C. Mogul},
-  title     = {Observing TCP Dynamics in Real Networks},
+  title     = {Observing {TCP} Dynamics in Real Networks},
   booktitle = sigcomm,
   year      = 1992,
   pages     = {305-317},
@@ -7113,7 +7946,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Keshav91,
   author    = {Srinivasan Keshav},
-  title     = {A Control-Theoretic Approach to Flow Control},
+  title     = {A {Control-Theoretic} Approach to Flow Control},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {3-15},
@@ -7122,7 +7955,7 @@
 @inproceedings{DBLP:conf/sigcomm/WilliamsonC91,
   author    = {Carey L. Williamson and
                David R. Cheriton},
-  title     = {Loss-Load Curves: Support for Rate-Based Congestion Control in High-Speed Datagram Networks},
+  title     = {{Loss-Load} Curves: Support for {Rate-Based} Congestion Control in {High-Speed} Datagram Networks},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {17-28},
@@ -7131,7 +7964,7 @@
 @inproceedings{DBLP:conf/sigcomm/ZaumenG91,
   author    = {William T. Zaumen and
                J. J. Garcia-Luna-Aceves},
-  title     = {Dynamics of Distributed Shortest-Path Routing Algorithms},
+  title     = {Dynamics of Distributed {Shortest-Path} Routing Algorithms},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {31-42},
@@ -7160,7 +7993,7 @@
                Susanna Donatelli and
                U. Rubino and
                Fabio Neri},
-  title     = {GSPN Models of Random, Cyclic, and Optimal 1-Limited Multiserver Multiqueue Systems},
+  title     = {{GSPN} Models of Random, Cyclic, and Optimal 1-Limited Multiserver Multiqueue Systems},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {69-80},
@@ -7190,7 +8023,7 @@
                Peter B. Danzig and
                Sugih Jamin and
                Danny J. Mitzel},
-  title     = {Characteristics of Wide-Area TCP/IP Conversations},
+  title     = {Characteristics of {Wide-Area} TCP/{IP} Conversations},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {101-112},
@@ -7199,7 +8032,7 @@
 @inproceedings{DBLP:conf/sigcomm/ZhangK91,
   author    = {Hui Zhang and
                Srinivasan Keshav},
-  title     = {Comparison of Rate-Based Service Disciplines},
+  title     = {Comparison of {Rate-Based} Service Disciplines},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {113-121},
@@ -7220,7 +8053,7 @@
   author    = {Lixia Zhang and
                Scott Shenker and
                David D. Clark},
-  title     = {Observations on the Dynamics of a Congestion Control Algorithm: The Effects of Two-Way Traffic},
+  title     = {Observations on the Dynamics of a Congestion Control Algorithm: The Effects of {Two-Way} Traffic},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {133-147},
@@ -7229,7 +8062,7 @@
 @inproceedings{DBLP:conf/sigcomm/WangS91,
   author    = {Y. T. Wang and
                Bhaskar Sengupta},
-  title     = {Performance Analysis of a Feedback Congestion Control Policy Under Non-Negligible Propagation Delay},
+  title     = {Performance Analysis of a Feedback Congestion Control Policy Under {Non-Negligible} Propagation Delay},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {149-157},
@@ -7238,7 +8071,7 @@
 @inproceedings{DBLP:conf/sigcomm/MukherjeeS91,
   author    = {Amarnath Mukherjee and
                John C. Strikwerda},
-  title     = {Analysis of Dynamic Congestion Control Protocols: A Fokker-Planck Approximation},
+  title     = {Analysis of Dynamic Congestion Control Protocols: A {Fokker-Planck} Approximation},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {159-169},
@@ -7247,7 +8080,7 @@
 @inproceedings{DBLP:conf/sigcomm/KapoorP91,
   author    = {Sanjay Kapoor and
                Guru M. Parulkar},
-  title     = {Design of an ATM-FDDI Gateway},
+  title     = {Design of an {ATM-FDDI} Gateway},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {173-183},
@@ -7293,7 +8126,7 @@
   author    = {John Ioannidis and
                Dan Duchamp and
                Gerald Q. Maguire Jr.},
-  title     = {IP-Based Protocols for Mobile Internetworking},
+  title     = {{IP-Based} Protocols for Mobile Internetworking},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {235-245},
@@ -7302,7 +8135,7 @@
 @inproceedings{DBLP:conf/sigcomm/WardC91,
   author    = {Christopher Ward and
                Cheong H. Choi},
-  title     = {The LAMS-DLC ARQ Protocol},
+  title     = {The {LAMS-DLC} {ARQ} Protocol},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {249-257},
@@ -7330,7 +8163,7 @@
   author    = {Jay M. Hyman and
                Aurel A. Lazar and
                Giovanni Pacifici},
-  title     = {MARS: The Magnet II Real-Time Scheduling Algorithm},
+  title     = {MARS: The Magnet {II} {Real-Time} Scheduling Algorithm},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {285-293},
@@ -7346,7 +8179,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Davie91,
   author    = {Bruce S. Davie},
-  title     = {A Host-Network Interface Architecture for ATM},
+  title     = {A {Host-Network} Interface Architecture for {ATM}},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {307-315},
@@ -7356,7 +8189,7 @@
   author    = {C. Brendan and
                S. Traw and
                Jonathan M. Smith},
-  title     = {A High-Performance Host Interface for ATM Networks},
+  title     = {A {High-Performance} Host Interface for {ATM} Networks},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {317-325},
@@ -7365,7 +8198,7 @@
 @inproceedings{DBLP:conf/sigcomm/LeslieM91,
   author    = {Ian M. Leslie and
                Derek McAuley},
-  title     = {Fairisle: An ATM Network for the Local Area},
+  title     = {Fairisle: An {ATM} Network for the Local Area},
   booktitle = sigcomm,
   year      = 1991,
   pages     = {327},
@@ -7381,7 +8214,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Golestani90,
   author    = {S. Jamaloddin Golestani},
-  title     = {A Stop-and-Go Queueing Framework for Congestion Management},
+  title     = {A {Stop-and-Go} Queueing Framework for Congestion Management},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {8-18},
@@ -7408,7 +8241,7 @@
   author    = {Barbara Liskov and
                Liuba Shrira and
                John Wroclawski},
-  title     = {Efficient At-Most-Once Messages Based on Synchronized Clocks},
+  title     = {Efficient {At-Most-Once} Messages Based on Synchronized Clocks},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {41-49},
@@ -7425,7 +8258,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Shiroshita90,
   author    = {Teruji Shiroshita},
-  title     = {A Data Processing Performance Model for the OSI Application Layer Protocols},
+  title     = {A Data Processing Performance Model for the {OSI} Application Layer Protocols},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {60-68},
@@ -7443,7 +8276,7 @@
   author    = {W. Edmond and
                K. Leib and
                C. Topolcic},
-  title     = {The DARPA Wideband Network Protocol},
+  title     = {The {DARPA} Wideband Network Protocol},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {79-89},
@@ -7470,7 +8303,7 @@
 @inproceedings{DBLP:conf/sigcomm/LabourdetteH90,
   author    = {Jean-Fran{\c{c}}ois P. Labourdette and
                George W. Hart},
-  title     = {Link Access Blocking in Very Large Multi-Media Networks},
+  title     = {Link Access Blocking in Very Large {Multi-Media} Networks},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {108-117},
@@ -7479,7 +8312,7 @@
 @inproceedings{DBLP:conf/sigcomm/YangU90,
   author    = {Bo Yang and
                Hasan Ural},
-  title     = {Protocol Conformance Test Generation Using Multiple UIO Sequences With Overlapping},
+  title     = {Protocol Conformance Test Generation Using Multiple {UIO} Sequences With Overlapping},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {118-125},
@@ -7487,7 +8320,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Vries90,
   author    = {R. J. F. de Vries},
-  title     = {Gauss: A Simple High Performance Switch Architecture for ATM},
+  title     = {Gauss: A Simple High Performance Switch Architecture for {ATM}},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {126-134},
@@ -7508,7 +8341,7 @@
   author    = {Gary J. Murakami and
                Roy H. Campbell and
                Michael Faiman},
-  title     = {Pulsa: Non-Blocking Packet Switching with Shift-Register Rings},
+  title     = {Pulsa: {Non-Blocking} Packet Switching with {Shift-Register} Rings},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {145-155},
@@ -7533,7 +8366,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Awerbuch90,
   author    = {Baruch Awerbuch},
-  title     = {Shortest Paths and Loop-Free Routing in Dynamic Networks},
+  title     = {Shortest Paths and {Loop-Free} Routing in Dynamic Networks},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {177-187},
@@ -7543,7 +8376,7 @@
   author    = {N. Jain and
                M. Schwartz and
                Theodore R. Bashkow},
-  title     = {Transport Protocol Processing at GBPS Rates},
+  title     = {Transport Protocol Processing at {GBPS} Rates},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {188-199},
@@ -7579,7 +8412,7 @@
 @inproceedings{DBLP:conf/sigcomm/BreslauE90,
   author    = {Lee Breslau and
                Deborah Estrin},
-  title     = {Design of Inter-Administrative Domain Routing Protocols},
+  title     = {Design of {Inter-Administrative} Domain Routing Protocols},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {231-241},
@@ -7604,7 +8437,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Jain90,
   author    = {Raj Jain},
-  title     = {Performance Analysis of FDDI Token Ring Networks: Effect of Parameters and Guidelines for Setting TTRT},
+  title     = {Performance Analysis of {FDDI} Token Ring Networks: Effect of Parameters and Guidelines for Setting {TTRT}},
   booktitle = sigcomm,
   year      = 1990,
   pages     = {264-274},
@@ -7666,7 +8499,7 @@
 @inproceedings{DBLP:conf/sigcomm/BrachmanC89,
   author    = {Barry J. Brachman and
                Samuel T. Chanson},
-  title     = {A Hierarchical Solution for Application Level Store-and-Forward Deadlock Prevention},
+  title     = {A Hierarchical Solution for Application Level {Store-and-Forward} Deadlock Prevention},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {25-32},
@@ -7684,7 +8517,7 @@
 @inproceedings{DBLP:conf/sigcomm/KhannaZ89,
   author    = {A. Khanna and
                John A. Zinky},
-  title     = {The Revised ARPANET Routing Metric},
+  title     = {The Revised {ARPANET} Routing Metric},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {45-56},
@@ -7709,7 +8542,7 @@
 @inproceedings{DBLP:conf/sigcomm/KamalA89,
   author    = {Ahmed E. Kamal and
                Bandula W. Abeysundara},
-  title     = {X-NET: A Dual Bus Fiber-Optic LAN Using Active Switches},
+  title     = {X-NET: A Dual Bus {Fiber-Optic} {LAN} Using Active Switches},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {72-82},
@@ -7731,7 +8564,7 @@
                David Game and
                Ravi Mukkamala and
                C. Michael Overstreet},
-  title     = {Traffic Placement Policies for Multi-Band Network},
+  title     = {Traffic Placement Policies for {Multi-Band} Network},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {94-105},
@@ -7739,7 +8572,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Chang89,
   author    = {C. C. Chang},
-  title     = {REXDC - A Remote Execution Mechanism},
+  title     = {{REXDC} - A Remote Execution Mechanism},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {106-115},
@@ -7784,7 +8617,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Cheriton89,
   author    = {David R. Cheriton},
-  title     = {Sirpent: A High-Performance Internetworking Approach},
+  title     = {Sirpent: A {High-Performance} Internetworking Approach},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {158-169},
@@ -7802,7 +8635,7 @@
 @inproceedings{DBLP:conf/sigcomm/TennenhouseL89,
   author    = {David L. Tennenhouse and
                Ian M. Leslie},
-  title     = {A Testbed for Wide Area ATM Research},
+  title     = {A Testbed for Wide Area {ATM} Research},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {182-190},
@@ -7810,7 +8643,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Burren89,
   author    = {John W. Burren},
-  title     = {Flexible Aggregation of Channel Bandwidth in Primary Rate ISDN},
+  title     = {Flexible Aggregation of Channel Bandwidth in Primary Rate {ISDN}},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {191-196},
@@ -7819,7 +8652,7 @@
 @inproceedings{DBLP:conf/sigcomm/HaritaL89,
   author    = {B. R. Harita and
                Ian M. Leslie},
-  title     = {Dynamic Bandwidth Management of Primary Rate ISDN to Support ATM Access},
+  title     = {Dynamic Bandwidth Management of Primary Rate {ISDN} to Support {ATM} Access},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {197-210},
@@ -7827,7 +8660,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Garcia-Luna-Aceves89,
   author    = {J. J. Garcia-Luna-Aceves},
-  title     = {A Unified Approach to Loop-Free Routing Using Distance Vectors or Link States},
+  title     = {A Unified Approach to {Loop-Free} Routing Using Distance Vectors or Link States},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {212-223},
@@ -7838,7 +8671,7 @@
                R. Riley and
                Srikanta P. R. Kumar and
                J. J. Garcia-Luna-Aceves},
-  title     = {A Loop-Free Extended Bellman-Ford Routing Protocol Without Bouncing Effect},
+  title     = {A {Loop-Free} Extended {Bellman-Ford} Routing Protocol Without Bouncing Effect},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {224-236},
@@ -7847,7 +8680,7 @@
 @inproceedings{DBLP:conf/sigcomm/RajagopalanF89,
   author    = {Bala Rajagopalan and
                Michael Faiman},
-  title     = {A New Responsive Distributed Shortest-Path Rounting Algorithm},
+  title     = {A New Responsive Distributed {Shortest-Path} Rounting Algorithm},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {237-246},
@@ -7856,7 +8689,7 @@
 @inproceedings{DBLP:conf/sigcomm/CalvertL89,
   author    = {Kenneth L. Calvert and
                Simon S. Lam},
-  title     = {Deriving a Protocol Converter: A Top-Down Method},
+  title     = {Deriving a Protocol Converter: A {Top-Down} Method},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {247-258},
@@ -7882,7 +8715,7 @@
   author    = {W. Y. L. Chan and
                C. T. Vuong and
                M. R. Otp},
-  title     = {An Improved Protocol Test Generation Procedure Based on UIOS},
+  title     = {An Improved Protocol Test Generation Procedure Based on {UIOS}},
   booktitle = sigcomm,
   year      = 1989,
   pages     = {283-294},
@@ -7926,7 +8759,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Karol88,
   author    = {Mark J. Karol},
-  title     = {Optical interconnection using ShuffleNet multihop networks in multi-connected ring topologies},
+  title     = {Optical interconnection using {ShuffleNet} multihop networks in multi-connected ring topologies},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {25-34},
@@ -7951,7 +8784,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Deering88,
   author    = {Stephen E. Deering},
-  title     = {Multicast routing in internetworks and extended LANs},
+  title     = {Multicast routing in internetworks and extended {LANs}},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {55-64},
@@ -7968,7 +8801,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Cheriton88,
   author    = {David R. Cheriton},
-  title     = {Exploiting recursion to simplify RPC communication architectures},
+  title     = {Exploiting recursion to simplify {RPC} communication architectures},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {76-87},
@@ -7988,7 +8821,7 @@
                Peter A. Relan and
                Orna Berry and
                Joseph A. Bannister},
-  title     = {A network management language for OSI networks},
+  title     = {A network management language for {OSI} networks},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {98-105},
@@ -7996,7 +8829,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Clark88,
   author    = {David D. Clark},
-  title     = {The design philosophy of the DARPA internet protocols},
+  title     = {The design philosophy of the {DARPA} internet protocols},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {106-114},
@@ -8031,7 +8864,7 @@
 @inproceedings{DBLP:conf/sigcomm/KangH88,
   author    = {Cheoul-Shin Kang and
                James H. Herzog},
-  title     = {A mesh/token ring hybrid-architecture LAN},
+  title     = {A mesh/token ring hybrid-architecture {LAN}},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {146-151},
@@ -8041,7 +8874,7 @@
   author    = {Tatsuya Suda and
                Steve Morris and
                Thieu Q. Nguyen},
-  title     = {Tree LANs with collision avoidance: protocol, switch architecture, and simulated performance},
+  title     = {Tree {LANs} with collision avoidance: protocol, switch architecture, and simulated performance},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {155-164},
@@ -8060,7 +8893,7 @@
 @inproceedings{DBLP:conf/sigcomm/KanakiaC88,
   author    = {Hemant Kanakia and
                David R. Cheriton},
-  title     = {The VMP network adapter board (NAB): high-performance network communication for multiprocessors},
+  title     = {The {VMP} network adapter board (NAB): high-performance network communication for multiprocessors},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {175-187},
@@ -8086,7 +8919,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Hitson88,
   author    = {Bruce L. Hitson},
-  title     = {Knowledge-based monitoring and control: an approach to understanding behavior of TCP/IP network protocols},
+  title     = {Knowledge-based monitoring and control: an approach to understanding behavior of TCP/{IP} network protocols},
   booktitle = sigcomm,
   year      = 1988,
   pages     = {210-221},
@@ -8201,7 +9034,7 @@
 @inproceedings{DBLP:conf/sigcomm/FoleyW86,
   author    = {J. S. Foley and
                Y. Weon-Yoon},
-  title     = {The current status of MAP},
+  title     = {The current status of {MAP}},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {6-12},
@@ -8305,7 +9138,7 @@
   author    = {J. van da Lagemaat and
                J. M. A. Daemen and
                Ignas G. Niemegeers},
-  title     = {Voice transmission in a priority CSMA/AC LAN: an efficient protocol using hybrid switching},
+  title     = {Voice transmission in a priority CSMA/{AC} LAN: an efficient protocol using hybrid switching},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {102-110},
@@ -8316,7 +9149,7 @@
                Kurt Maly and
                Subbarao Ghanta and
                David Hung-Chang Du},
-  title     = {A framed movable-boundry protocol for integrated voice/data in a LAN},
+  title     = {A framed movable-boundry protocol for integrated voice/data in a {LAN}},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {111-119},
@@ -8379,7 +9212,7 @@
                M. C. Fehri and
                Luigi Logrippo and
                Abdellatif Obaid},
-  title     = {Structure of a LOTOS interpreter},
+  title     = {Structure of a {LOTOS} interpreter},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {167-175},
@@ -8408,7 +9241,7 @@
                A. Echenique and
                S. Storch and
                T. Calderwood},
-  title     = {The butterfly satellite IMP for the wideband packet satellite network},
+  title     = {The butterfly satellite {IMP} for the wideband packet satellite network},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {194-203},
@@ -8472,7 +9305,7 @@
 @inproceedings{DBLP:conf/sigcomm/NguyenR86,
   author    = {B. Nguyen and
                R. Rom},
-  title     = {Communication services under EMCON},
+  title     = {Communication services under {EMCON}},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {275-281},
@@ -8489,7 +9322,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Chandran86,
   author    = {S. R. Chandran},
-  title     = {A selective repeat ARQ scheme for point-to-multipoint communications and its throughput analysis},
+  title     = {A selective repeat {ARQ} scheme for point-to-multipoint communications and its throughput analysis},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {292-301},
@@ -8506,7 +9339,7 @@
 @inproceedings{DBLP:conf/sigcomm/TsaiC86,
   author    = {D. Tsai and
                J. Chang},
-  title     = {A two-bit contention-based TDMA technique for data transmissions},
+  title     = {A two-bit contention-based {TDMA} technique for data transmissions},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {310-317},
@@ -8575,7 +9408,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Fleisch86,
   author    = {Brett D. Fleisch},
-  title     = {Distributed system V IPC in LOCUS: a design and implementation retrospective},
+  title     = {Distributed system V {IPC} in LOCUS: a design and implementation retrospective},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {386-396},
@@ -8583,7 +9416,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Zhang86,
   author    = {L. Zhang},
-  title     = {Why TCP timers don't work well},
+  title     = {Why {TCP} timers don't work well},
   booktitle = sigcomm,
   year      = 1986,
   pages     = {397-405},
@@ -8610,7 +9443,7 @@
   author    = {Robert K. Brandriff and
                Clifford A. Lynch and
                Mark H. Needleman},
-  title     = {Development of a TCP/IP for the IBM/370},
+  title     = {Development of a TCP/{IP} for the IBM/370},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {2-8},
@@ -8620,7 +9453,7 @@
   author    = {Richard Colella and
                Robert Aronoff and
                Kevin Mills},
-  title     = {Performance improvements for ISO transport},
+  title     = {Performance improvements for {ISO} transport},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {9-16},
@@ -8648,7 +9481,7 @@
                D. Lyon and
                E. Parker and
                E. Yousefzadeh},
-  title     = {Ku-Band earth stations for data communications},
+  title     = {{Ku-Band} earth stations for data communications},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {33},
@@ -8665,7 +9498,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Perlman85,
   author    = {Radia J. Perlman},
-  title     = {An algorithm for distributed computation of a spanningtree in an extended LAN},
+  title     = {An algorithm for distributed computation of a spanningtree in an extended {LAN}},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {44-53},
@@ -8695,7 +9528,7 @@
                Douglas Comer and
                Larry L. Peterson and
                Douglas B. Terry},
-  title     = {DARPA interdomain addressing},
+  title     = {{DARPA} interdomain addressing},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {71},
@@ -8775,7 +9608,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Poppe85,
   author    = {Stephen C. Poppe},
-  title     = {Solving growth problems in a rapidly expanding PDN},
+  title     = {Solving growth problems in a rapidly expanding {PDN}},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {81},
@@ -8793,7 +9626,7 @@
 @inproceedings{DBLP:conf/sigcomm/WongG85,
   author    = {Kevin Wong and
                Nicolas D. Georganas},
-  title     = {Strategies for optimal capacity allocations in DAMA satellite communication systems},
+  title     = {Strategies for optimal capacity allocations in {DAMA} satellite communication systems},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {93-99},
@@ -8813,7 +9646,7 @@
   author    = {Radia J. Perlman and
                E. Stecher and
                P. Karp},
-  title     = {Directory services/IBM versus CCITT},
+  title     = {Directory services/{IBM} versus {CCITT}},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {105},
@@ -8864,7 +9697,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Enshayan85,
   author    = {Bahram Enshayan},
-  title     = {ALPHA transport},
+  title     = {{ALPHA} transport},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {146-154},
@@ -8885,7 +9718,7 @@
 @inproceedings{DBLP:conf/sigcomm/ComerP85,
   author    = {Douglas Comer and
                Larry L. Peterson},
-  title     = {Issues in using DARPA domain names for computer mail},
+  title     = {Issues in using {DARPA} domain names for computer mail},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {158-164},
@@ -8925,7 +9758,7 @@
 @inproceedings{DBLP:conf/sigcomm/ZolineL85,
   author    = {Kenneth O. Zoline and
                William Lidinsky},
-  title     = {An approach for interconnecting SNA and XNS Networks},
+  title     = {An approach for interconnecting {SNA} and {XNS} Networks},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {184-198},
@@ -8934,7 +9767,7 @@
 @inproceedings{DBLP:conf/sigcomm/GilbertK85,
   author    = {Richard S. Gilbert and
                Wolfgang B. Klein{\"o}oder},
-  title     = {CNMGRAF--graphic presentation services for network management},
+  title     = {{CNMGRAF--graphic} presentation services for network management},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {199-206},
@@ -8952,7 +9785,7 @@
 
 @inproceedings{DBLP:conf/sigcomm/Eigen85,
   author    = {Daryl J. Eigen},
-  title     = {ISDN architecture: a basis for new services},
+  title     = {{ISDN} architecture: a basis for new services},
   booktitle = sigcomm,
   year      = 1985,
   pages     = {210-211},

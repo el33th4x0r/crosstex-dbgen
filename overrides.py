@@ -2,7 +2,33 @@ TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction i
         }
 
 CONFERENCE_LOCATIONS = {
-     'sigcomm':     {1997: ('Cannes', 'sep')
+     '':{}
+    ,'hotos':       {2009: ('MonteVerita', 'may')
+                    ,2001: ('ElmauOberbayern', 'may')
+                    }
+    ,'icdcs':       {2002: ('Vienna', 'jul')
+                    ,2001: ('Phoenix', 'apr')
+                    ,2000: ('Taipei', 'apr')
+                    ,1999: ('AustinTX', 'jun')
+                    ,1998: ('Amsterdam', 'may')
+                    ,1997: ('Baltimore', 'may')
+                    ,1996: ('HongKong', 'may')
+                    ,1995: ('Vancouver', 'may')
+                    ,1994: ('Poznan', 'jun')
+                    ,1993: ('Pittsburgh', 'may')
+                    ,1992: ('Yokohama', 'jun')
+                    ,1989: ('NewportBeach', 'jun')
+                    ,1988: ('SanJose', 'jun')
+                    ,1987: ('WestBerlin', 'sep')
+                    ,1986: ('CambridgeMA', 'may')
+                    ,1985: ('Denver', 'may')
+                    ,1984: ('SF', 'may')
+                    ,1981: ('Paris', 'apr')
+                    }
+    ,'ipps':        {1993: ('NewportBeach', 'apr')
+                    ,1991: ('Anaheim', 'apr')
+                    }
+    ,'sigcomm':     {1997: ('Cannes', 'sep')
                     ,1996: ('Stanford', 'aug')
                     ,1995: ('CambridgeMA', 'aug')
                     ,1994: ('London', 'aug')
@@ -33,4 +59,23 @@ CONFERENCE_LOCATIONS = {
                     ,1969: ('Princeton', 'oct')
                     ,1967: ('Gatlinburg', 'may')
                     }
+    ,'sigmod':      {2001: ('SantaBarbara', 'may')
+                    ,1987: ('SF', 'may')
+                    ,1984: ('Boston', 'jun')
+                    ,1983: ('SanJose', 'may')
+                    }
+    }
+
+JOURNAL_NUMBERS = {
+     '':0
+    ,'journals/tods/ArasuBBMW04': 1
+    ,'journals/tods/ArenasL04': 1
+    ,'journals/tods/BeneventanoBS03': 1
+    ,'journals/tods/BunemanKTT04': 1
+    ,'journals/tods/Garo04': 1
+    ,'journals/tods/GrustKT04': 1
+    ,'journals/tods/KarpSP03': 1
+    ,'journals/tods/KolaitisF04': 1
+    ,'journals/tods/MelnikG03': 1
+    ,'journals/tods/Ross04': 1
     }

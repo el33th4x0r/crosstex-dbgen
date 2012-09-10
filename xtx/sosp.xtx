@@ -28,7 +28,7 @@
                Ryan Stutsman and
                John K. Ousterhout and
                Mendel Rosenblum},
-  title     = {Fast crash recovery in RAMCloud},
+  title     = {Fast crash recovery in {RAMCloud}},
   booktitle = sosp,
   year      = 2011,
   pages     = {29-41},
@@ -98,7 +98,7 @@
                Xi Wang and
                Nickolai Zeldovich and
                M. Frans Kaashoek},
-  title     = {Software fault isolation with API integrity and multi-principal modules},
+  title     = {Software fault isolation with {API} integrity and multi-principal modules},
   booktitle = sosp,
   year      = 2011,
   pages     = {115-128},
@@ -215,7 +215,7 @@
                Mark Silberstein and
                Baishakhi Ray and
                Emmett Witchel},
-  title     = {PTask: operating system abstractions to manage GPUs as compute devices},
+  title     = {PTask: operating system abstractions to manage {GPUs} as compute devices},
   booktitle = sosp,
   year      = 2011,
   pages     = {233-248},
@@ -346,7 +346,7 @@
                Michael J. Freedman and
                Michael Kaminsky and
                David G. Andersen},
-  title     = {Don't settle for eventual: scalable causal consistency for wide-area storage with COPS},
+  title     = {Don't settle for eventual: scalable causal consistency for wide-area storage with {COPS}},
   booktitle = sosp,
   year      = 2011,
   pages     = {401-416},
@@ -391,7 +391,7 @@
                Timothy Roscoe and
                Adrian Sch{\"u}pbach and
                Akhilesh Singhania},
-  title     = {The multikernel: a new OS architecture for scalable multicore systems},
+  title     = {The multikernel: a new {OS} architecture for scalable multicore systems},
   booktitle = sosp,
   year      = 2009,
   pages     = {29-44},
@@ -556,7 +556,7 @@
                Thomas Sewell and
                Harvey Tuch and
                Simon Winwood},
-  title     = {seL4: formal verification of an OS kernel},
+  title     = {seL4: formal verification of an {OS} kernel},
   booktitle = sosp,
   year      = 2009,
   pages     = {207-220},
@@ -662,7 +662,7 @@
                Xiaofeng Fan and
                Jon Howell and
                Collin Jackson},
-  title     = {Protection and communication abstractions for web browsers in MashupOS},
+  title     = {Protection and communication abstractions for web browsers in {MashupOS}},
   booktitle = sosp,
   year      = 2007,
   pages     = {1-16},
@@ -927,7 +927,7 @@
                M. Frans Kaashoek and
                Eddie Kohler and
                Robert Morris},
-  title     = {Information flow control for standard OS abstractions},
+  title     = {Information flow control for standard {OS} abstractions},
   booktitle = sosp,
   year      = 2007,
   pages     = {321-334},
@@ -938,7 +938,7 @@
                Mark Luk and
                Ning Qu and
                Adrian Perrig},
-  title     = {SecVisor: a tiny hypervisor to provide lifetime kernel code integrity for commodity OSes},
+  title     = {SecVisor: a tiny hypervisor to provide lifetime kernel code integrity for commodity {OSes}},
   booktitle = sosp,
   year      = 2007,
   pages     = {335-350},
@@ -1015,7 +1015,7 @@
                Michael Dahlin and
                Jean-Philippe Martin and
                Carl Porth},
-  title     = {BAR fault tolerance for cooperative services},
+  title     = {{BAR} fault tolerance for cooperative services},
   booktitle = sosp,
   year      = 2005,
   pages     = {45-58},
@@ -1150,7 +1150,7 @@
                Haryadi S. Gunawi and
                Andrea C. Arpaci-Dusseau and
                Remzi H. Arpaci-Dusseau},
-  title     = {IRON file systems},
+  title     = {{IRON} file systems},
   booktitle = sosp,
   year      = 2005,
   pages     = {206-220},
@@ -1326,7 +1326,7 @@
 @inproceedings{DBLP:conf/sosp/YuanN03,
   author    = {Wanghong Yuan and
                Klara Nahrstedt},
-  title     = {Energy-efficient soft real-time CPU scheduling for mobile multimedia systems},
+  title     = {Energy-efficient soft real-time {CPU} scheduling for mobile multimedia systems},
   booktitle = sosp,
   year      = 2003,
   pages     = {149-163},
@@ -1492,7 +1492,7 @@
 @inproceedings{DBLP:conf/sosp/Arpaci-DusseauA01,
   author    = {Andrea C. Arpaci-Dusseau and
                Remzi H. Arpaci-Dusseau},
-  title     = {Information and Control in Gray-Box Systems},
+  title     = {Information and Control in {Gray-Box} Systems},
   booktitle = sosp,
   year      = 2001,
   pages     = {43-56},
@@ -1523,7 +1523,7 @@
 @inproceedings{DBLP:conf/sosp/PillaiS01,
   author    = {Padmanabhan Pillai and
                Kang G. Shin},
-  title     = {Real-Time Dynamic Voltage Scaling for Low-Power Embedded Operating Systems},
+  title     = {{Real-Time} Dynamic Voltage Scaling for {Low-Power} Embedded Operating Systems},
   booktitle = sosp,
   year      = 2001,
   pages     = {89-102},
@@ -1568,7 +1568,7 @@
                Ramesh Govindan and
                Deborah Estrin and
                Deepak Ganesan},
-  title     = {Building Efficient Wireless Sensor Networks with Low-Level Naming},
+  title     = {Building Efficient Wireless Sensor Networks with {Low-Level} Naming},
   booktitle = sosp,
   year      = 2001,
   pages     = {146-159},
@@ -1578,7 +1578,7 @@
   author    = {Alex C. Snoeren and
                Kenneth Conley and
                David K. Gifford},
-  title     = {Mesh Based Content Routing using XML},
+  title     = {Mesh Based Content Routing using {XML}},
   booktitle = sosp,
   year      = 2001,
   pages     = {160-173},
@@ -1588,7 +1588,7 @@
   author    = {Athicha Muthitacharoen and
                Benjie Chen and
                David Mazi{\`e}res},
-  title     = {A Low-Bandwidth Network File System},
+  title     = {A {Low-Bandwidth} Network File System},
   booktitle = sosp,
   year      = 2001,
   pages     = {174-187},
@@ -1609,7 +1609,7 @@
                David R. Karger and
                Robert Morris and
                Ion Stoica},
-  title     = {Wide-Area Cooperative Storage with CFS},
+  title     = {{Wide-Area} Cooperative Storage with {CFS}},
   booktitle = sosp,
   year      = 2001,
   pages     = {202-215},
@@ -1620,7 +1620,7 @@
                Scott Karlin and
                Larry L. Peterson and
                Yitzchak Gottlieb},
-  title     = {Building a Robust Software-Based Router Using Network Processors},
+  title     = {Building a Robust {Software-Based} Router Using Network Processors},
   booktitle = sosp,
   year      = 2001,
   pages     = {216-229},
@@ -1702,7 +1702,7 @@
 
 @inproceedings{DBLP:conf/sosp/Vogels99,
   author    = {Werner Vogels},
-  title     = {File system usage in Windows NT 4.0},
+  title     = {File system usage in Windows {NT} 4.0},
   booktitle = sosp,
   year      = 1999,
   pages     = {93-109},
@@ -1868,7 +1868,7 @@
                Greg Nelson and
                Patrick Sobalvarro and
                Thomas E. Anderson},
-  title     = {Eraser: A Dynamic Data Race Detector for Multi-Threaded Programs},
+  title     = {Eraser: A Dynamic Data Race Detector for {Multi-Threaded} Programs},
   booktitle = sosp,
   year      = 1997,
   pages     = {27-37},
@@ -1910,7 +1910,7 @@
                Jochen Liedtke and
                Sebastian Sch{\"o}nberg and
                Jean Wolter},
-  title     = {The Performance of {\mbox{$\mu$}}Kernel-Based Systems},
+  title     = {The Performance of {\mbox{$\mu$}}{Kernel-Based} Systems},
   booktitle = sosp,
   year      = 1997,
   pages     = {66-77},
@@ -1922,7 +1922,7 @@
                Yatin Chawathe and
                Eric A. Brewer and
                Paul Gauthier},
-  title     = {Cluster-Based Scalable Network Services},
+  title     = {{Cluster-Based} Scalable Network Services},
   booktitle = sosp,
   year      = 1997,
   pages     = {78-91},
@@ -1995,7 +1995,7 @@
                Leonidas I. Kontothanassis and
                Srinivasan Parthasarathy and
                Michael L. Scott},
-  title     = {Cashmere-2L: Software Coherent Shared Memory on a Clustered Remote-Write Network},
+  title     = {Cashmere-2L: Software Coherent Shared Memory on a Clustered {Remote-Write} Network},
   booktitle = sosp,
   year      = 1997,
   pages     = {170-183},
@@ -2014,7 +2014,7 @@
   author    = {Michael B. Jones and
                Daniela Rosu and
                Marcel-Catalin Rosu},
-  title     = {CPU Reservations and Time Constraints: Efficient, Predictable Scheduling of Independent Activities},
+  title     = {{CPU} Reservations and Time Constraints: Efficient, Predictable Scheduling of Independent Activities},
   booktitle = sosp,
   year      = 1997,
   pages     = {198-211},
@@ -2046,7 +2046,7 @@
                Adam M. Costello and
                Randolph Y. Wang and
                Thomas E. Anderson},
-  title     = {Improving the Performance of Log-Structured File Systems with Adaptive Methods},
+  title     = {Improving the Performance of {Log-Structured} File Systems with Adaptive Methods},
   booktitle = sosp,
   year      = 1997,
   pages     = {238-251},
@@ -2054,7 +2054,7 @@
 
 @inproceedings{DBLP:conf/sosp/Steere97,
   author    = {David C. Steere},
-  title     = {Exploiting the Non-Determinism and Asynchrony of Set Iterators to Reduce Aggregate File I/O Latency},
+  title     = {Exploiting the {Non-Determinism} and Asynchrony of Set Iterators to Reduce Aggregate File I/O Latency},
   booktitle = sosp,
   year      = 1997,
   pages     = {252-263},
@@ -2076,7 +2076,7 @@
                J. Eric Tilton and
                Jason Flinn and
                Kevin R. Walker},
-  title     = {Agile Application-Aware Adaptation for Mobility},
+  title     = {Agile {Application-Aware} Adaptation for Mobility},
   booktitle = sosp,
   year      = 1997,
   pages     = {276-287},
@@ -2110,7 +2110,7 @@
                Tirthankar Lahiri and
                Dan Teodosiu and
                Anoop Gupta},
-  title     = {Hive: Fault Containment for Shared-Memory Multiprocessors},
+  title     = {Hive: Fault Containment for {Shared-Memory} Multiprocessors},
   booktitle = sosp,
   year      = 1995,
   pages     = {12-25},
@@ -2130,7 +2130,7 @@
                Anindya Basu and
                Vineet Buch and
                Werner Vogels},
-  title     = {U-Net: A User-Level Network Interface for Parallel and Distributed Computing},
+  title     = {U-Net: A {User-Level} Network Interface for Parallel and Distributed Computing},
   booktitle = sosp,
   year      = 1995,
   pages     = {40-53},
@@ -2140,7 +2140,7 @@
   author    = {Michael N. Nelson and
                Mark A. Linton and
                Susan S. Owicki},
-  title     = {A Highly Available, Scalable ITV System},
+  title     = {A Highly Available, Scalable {ITV} System},
   booktitle = sosp,
   year      = 1995,
   pages     = {54-67},
@@ -2172,7 +2172,7 @@
                Richard A. Golding and
                Carl Staelin and
                Tim Sullivan},
-  title     = {The HP AutoRAID Hierarchical Storage System},
+  title     = {The {HP} {AutoRAID} Hierarchical Storage System},
   booktitle = sosp,
   year      = 1995,
   pages     = {96-108},
@@ -2262,7 +2262,7 @@
   author    = {Kirk L. Johnson and
                M. Frans Kaashoek and
                Deborah A. Wallach},
-  title     = {CRL: High-Performance All-Software Distributed Shared Memory},
+  title     = {CRL: {High-Performance} {All-Software} Distributed Shared Memory},
   booktitle = sosp,
   year      = 1995,
   pages     = {213-228},
@@ -2280,7 +2280,7 @@
 @inproceedings{DBLP:conf/sosp/FongS95,
   author    = {Liana L. Fong and
                Mark S. Squillante},
-  title     = {Time-Function Scheduling: A General Approach To Controllable Resource Management},
+  title     = {{Time-Function} Scheduling: A General Approach To Controllable Resource Management},
   booktitle = sosp,
   year      = 1995,
   pages     = {230},
@@ -2289,7 +2289,7 @@
 @inproceedings{DBLP:conf/sosp/GopalakrishnanP95,
   author    = {R. Gopalakrishnan and
                Guru M. Parulkar},
-  title     = {A Real-time Upcall Facility for Protocol Processing with QoS Guarantees},
+  title     = {A Real-time Upcall Facility for Protocol Processing with {QoS} Guarantees},
   booktitle = sosp,
   year      = 1995,
   pages     = {231},
@@ -2299,7 +2299,7 @@
   author    = {Bryan Ford and
                Mike Hibler and
                Jay Lepreau},
-  title     = {Using Annotated Interface Definitions to Optimize RPC},
+  title     = {Using Annotated Interface Definitions to Optimize {RPC}},
   booktitle = sosp,
   year      = 1995,
   pages     = {232},
@@ -2317,7 +2317,7 @@
 @inproceedings{DBLP:conf/sosp/GwertzmanS95,
   author    = {James Gwertzman and
                Margo I. Seltzer},
-  title     = {Autonomous Replication Across Wide-Area Internetworks},
+  title     = {Autonomous Replication Across {Wide-Area} Internetworks},
   booktitle = sosp,
   year      = 1995,
   pages     = {234},
@@ -2327,7 +2327,7 @@
   author    = {Sanjay Ghemawat and
                M. Frans Kaashoek and
                Barbara Liskov},
-  title     = {Using a Modified Object Buffer to Improve the Write Performance of an Object-Oriented Database},
+  title     = {Using a Modified Object Buffer to Improve the Write Performance of an {Object-Oriented} Database},
   booktitle = sosp,
   year      = 1995,
   pages     = {235},
@@ -2344,7 +2344,7 @@
 
 @inproceedings{DBLP:conf/sosp/Liedtke95,
   author    = {Jochen Liedtke},
-  title     = {On micro-Kernel Construction},
+  title     = {On {micro-Kernel} Construction},
   booktitle = sosp,
   year      = 1995,
   pages     = {237-250},
@@ -2354,7 +2354,7 @@
   author    = {Dawson R. Engler and
                M. Frans Kaashoek and
                James O'Toole},
-  title     = {Exokernel: An Operating System Architecture for Application-Level Resource Management},
+  title     = {Exokernel: An Operating System Architecture for {Application-Level} Resource Management},
   booktitle = sosp,
   year      = 1995,
   pages     = {251-266},
@@ -2369,7 +2369,7 @@
                David Becker and
                Craig Chambers and
                Susan J. Eggers},
-  title     = {Extensibility, Safety and Performance in the SPIN Operating System},
+  title     = {Extensibility, Safety and Performance in the {SPIN} Operating System},
   booktitle = sosp,
   year      = 1995,
   pages     = {267-284},
@@ -2498,7 +2498,7 @@
 @inproceedings{DBLP:conf/sosp/HoskingM93,
   author    = {Antony L. Hosking and
                J. Eliot B. Moss},
-  title     = {Protection Traps and Alternatives for Memory Management of an Object-Oriented Language},
+  title     = {Protection Traps and Alternatives for Memory Management of an {Object-Oriented} Language},
   booktitle = sosp,
   year      = 1993,
   pages     = {106-119},
@@ -2546,7 +2546,7 @@
 
 @inproceedings{DBLP:conf/sosp/Liedtke93,
   author    = {Jochen Liedtke},
-  title     = {Improving IPC by Kernel Design},
+  title     = {Improving {IPC} by Kernel Design},
   booktitle = sosp,
   year      = 1993,
   pages     = {175-188},
@@ -2555,7 +2555,7 @@
 @inproceedings{DBLP:conf/sosp/DruschelP93,
   author    = {Peter Druschel and
                Larry L. Peterson},
-  title     = {Fbufs: A High-Bandwidth Cross-Domain Transfer Facility},
+  title     = {Fbufs: A {High-Bandwidth} {Cross-Domain} Transfer Facility},
   booktitle = sosp,
   year      = 1993,
   pages     = {189-202},
@@ -2566,7 +2566,7 @@
                Steven Lucco and
                Thomas E. Anderson and
                Susan L. Graham},
-  title     = {Efficient Software-Based Fault Isolation},
+  title     = {Efficient {Software-Based} Fault Isolation},
   booktitle = sosp,
   year      = 1993,
   pages     = {203-216},
@@ -2595,7 +2595,7 @@
 @inproceedings{DBLP:conf/sosp/MaedaB93,
   author    = {Chris Maeda and
                Brian N. Bershad},
-  title     = {Protocol Service Decomposition for High-Performance Networking},
+  title     = {Protocol Service Decomposition for {High-Performance} Networking},
   booktitle = sosp,
   year      = 1993,
   pages     = {244-255},
@@ -2624,7 +2624,7 @@
 @inproceedings{DBLP:conf/sosp/RosenblumO91,
   author    = {Mendel Rosenblum and
                John K. Ousterhout},
-  title     = {The Design and Implementation of a Log-Structured File System},
+  title     = {The Design and Implementation of a {Log-Structured} File System},
   booktitle = sosp,
   year      = 1991,
   pages     = {1-15},
@@ -2655,7 +2655,7 @@
                Kai Li and
                Mark S. Manasse and
                Susan S. Owicki},
-  title     = {Empirical Studies of Competitive Spinning for a Shared-Memory Multiprocessor},
+  title     = {Empirical Studies of Competitive Spinning for a {Shared-Memory} Multiprocessor},
   booktitle = sosp,
   year      = 1991,
   pages     = {41-55},
@@ -2664,7 +2664,7 @@
 @inproceedings{DBLP:conf/sosp/MullerP91,
   author    = {Keith Muller and
                Joseph Pasquale},
-  title     = {A High Performance Multi-Structured File System Design},
+  title     = {A High Performance {Multi-Structured} File System Design},
   booktitle = sosp,
   year      = 1991,
   pages     = {56-67},
@@ -2673,7 +2673,7 @@
 @inproceedings{DBLP:conf/sosp/GovindanA91,
   author    = {Ramesh Govindan and
                David P. Anderson},
-  title     = {Scheduling and IPC Mechanisms for Continuous Media},
+  title     = {Scheduling and {IPC} Mechanisms for Continuous Media},
   booktitle = sosp,
   year      = 1991,
   pages     = {68-80},
@@ -2693,7 +2693,7 @@
                Brian N. Bershad and
                Edward D. Lazowska and
                Henry M. Levy},
-  title     = {Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism},
+  title     = {Scheduler Activations: Effective Kernel Support for the {User-Level} Management of Parallelism},
   booktitle = sosp,
   year      = 1991,
   pages     = {95-109},
@@ -2704,7 +2704,7 @@
                Michael L. Scott and
                Thomas J. LeBlanc and
                Evangelos P. Markatos},
-  title     = {First-Class User-Level Theads},
+  title     = {{First-Class} {User-Level} Theads},
   booktitle = sosp,
   year      = 1991,
   pages     = {110-121},
@@ -2725,7 +2725,7 @@
   author    = {Richard P. LaRowe Jr. and
                Carla Schlatter Ellis and
                Laurence S. Kaplan},
-  title     = {The Robustness of NUMA Memory Management},
+  title     = {The Robustness of {NUMA} Memory Management},
   booktitle = sosp,
   year      = 1991,
   pages     = {137-151},
@@ -2798,7 +2798,7 @@
 @inproceedings{DBLP:conf/sosp/SchmuckW91,
   author    = {Frank B. Schmuck and
                James C. Wyllie},
-  title     = {Experience with Transactions in QuickSilver},
+  title     = {Experience with Transactions in {QuickSilver}},
   booktitle = sosp,
   year      = 1991,
   pages     = {239-253},
@@ -2829,7 +2829,7 @@
   author    = {William J. Bolosky and
                Robert P. Fitzgerald and
                Michael L. Scott},
-  title     = {Simple But Effective Techniques for NUMA Memory Management},
+  title     = {Simple But Effective Techniques for {NUMA} Memory Management},
   booktitle = sosp,
   year      = 1989,
   pages     = {19-31},
@@ -2838,7 +2838,7 @@
 @inproceedings{DBLP:conf/sosp/CoxF89,
   author    = {Alan L. Cox and
                Robert J. Fowler},
-  title     = {The Implementation of a Coherent Memory Abstraction on a NUMA Multiprocessor: Experiences with PLATINUM},
+  title     = {The Implementation of a Coherent Memory Abstraction on a {NUMA} Multiprocessor: Experiences with {PLATINUM}},
   booktitle = sosp,
   year      = 1989,
   pages     = {32-44},
@@ -2847,7 +2847,7 @@
 @inproceedings{DBLP:conf/sosp/SrinivasanM89,
   author    = {V. Srinivasan and
                Jeffrey C. Mogul},
-  title     = {Spritely NFS: Experiments with Cache-Consistency Protocols},
+  title     = {Spritely NFS: Experiments with {Cache-Consistency} Protocols},
   booktitle = sosp,
   year      = 1989,
   pages     = {45-57},
@@ -2856,7 +2856,7 @@
 @inproceedings{DBLP:conf/sosp/EdwardsM89,
   author    = {David A. Edwards and
                Martin S. McKendry},
-  title     = {Exploiting Read-Mostly Workloads in The FileNet File System},
+  title     = {Exploiting {Read-Mostly} Workloads in The {FileNet} File System},
   booktitle = sosp,
   year      = 1989,
   pages     = {58-70},
@@ -2866,7 +2866,7 @@
   author    = {Andrew Braunstein and
                Mark Riley and
                John Wilkes},
-  title     = {Improving the Efficiency of UNIX File Buffer Caches},
+  title     = {Improving the Efficiency of {UNIX} File Buffer Caches},
   booktitle = sosp,
   year      = 1989,
   pages     = {71-82},
@@ -2875,7 +2875,7 @@
 @inproceedings{DBLP:conf/sosp/SchroederB89,
   author    = {Michael D. Schroeder and
                Michael Burrows},
-  title     = {Performance of Firefly RPC},
+  title     = {Performance of Firefly {RPC}},
   booktitle = sosp,
   year      = 1989,
   pages     = {83-90},
@@ -2886,7 +2886,7 @@
                Larry L. Peterson and
                Mark B. Abbott and
                Sean W. O'Malley},
-  title     = {RPC in the x-Kernel: Evaluating New Design Techniques},
+  title     = {{RPC} in the x-Kernel: Evaluating New Design Techniques},
   booktitle = sosp,
   year      = 1989,
   pages     = {91-101},
@@ -2925,7 +2925,7 @@
 
 @inproceedings{DBLP:conf/sosp/Rosenburg89,
   author    = {Bryan S. Rosenburg},
-  title     = {Low-Synchronization Translation Lookaside Buffer Consistency in Large-Scale Shared-Memory Multiprocessors},
+  title     = {{Low-Synchronization} Translation Lookaside Buffer Consistency in {Large-Scale} {Shared-Memory} Multiprocessors},
   booktitle = sosp,
   year      = 1989,
   pages     = {137-146},
@@ -2946,7 +2946,7 @@
 @inproceedings{DBLP:conf/sosp/TuckerG89,
   author    = {Andrew Tucker and
                Anoop Gupta},
-  title     = {Process Control and Scheduling Issues for Multiprogrammed Shared-Memory Multiprocessors},
+  title     = {Process Control and Scheduling Issues for Multiprogrammed {Shared-Memory} Multiprocessors},
   booktitle = sosp,
   year      = 1989,
   pages     = {159-166},
@@ -2981,7 +2981,7 @@
 @inproceedings{DBLP:conf/sosp/GrayC89,
   author    = {Cary G. Gray and
                David R. Cheriton},
-  title     = {Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency},
+  title     = {Leases: An Efficient {Fault-Tolerant} Mechanism for Distributed File Cache Consistency},
   booktitle = sosp,
   year      = 1989,
   pages     = {202-210},
@@ -3126,7 +3126,7 @@
                Henry M. Levy and
                Norman C. Hutchinson and
                Andrew P. Black},
-  title     = {Fine-Grained Mobility in the Emerald System},
+  title     = {{Fine-Grained} Mobility in the Emerald System},
   booktitle = sosp,
   year      = 1987,
   pages     = {105-106},
@@ -3137,7 +3137,7 @@
                Yoni Malachi and
                Wayne Sawdon and
                Gregory Chan},
-  title     = {Recovery Management in QuickSilver},
+  title     = {Recovery Management in {QuickSilver}},
   booktitle = sosp,
   year      = 1987,
   pages     = {107-108},
@@ -3175,7 +3175,7 @@
 @inproceedings{DBLP:conf/sosp/FinlaysonC87,
   author    = {Ross S. Finlayson and
                David R. Cheriton},
-  title     = {Log Files: An Extended File Service Exploiting Write-Once Storage},
+  title     = {Log Files: An Extended File Service Exploiting {Write-Once} Storage},
   booktitle = sosp,
   year      = 1987,
   pages     = {139-148},
@@ -3203,7 +3203,7 @@
   author    = {Nancy P. Kronenberg and
                Henry M. Levy and
                William D. Strecker},
-  title     = {VAXclusters: A Closely-Coupled Distributed System},
+  title     = {VAXclusters: A {Closely-Coupled} Distributed System},
   booktitle = sosp,
   year      = 1985,
   pages     = {1},
@@ -3213,7 +3213,7 @@
   author    = {Marvin Theimer and
                Keith A. Lantz and
                David R. Cheriton},
-  title     = {Preemptable Remote Execution Facilities for the V-System},
+  title     = {Preemptable Remote Execution Facilities for the {V-System}},
   booktitle = sosp,
   year      = 1985,
   pages     = {2-12},
@@ -3235,7 +3235,7 @@
                John A. Kunze and
                Michael D. Kupfer and
                James G. Thompson},
-  title     = {A Trace-Driven Analysis of the UNIX 4.2 BSD File System},
+  title     = {A {Trace-Driven} Analysis of the {UNIX} 4.2 {BSD} File System},
   booktitle = sosp,
   year      = 1985,
   pages     = {15-24},
@@ -3258,7 +3258,7 @@
                Robert N. Sidebotham and
                Alfred Z. Spector and
                Michael J. West},
-  title     = {The ITC Distributed File System: Principles and Design},
+  title     = {The {ITC} Distributed File System: Principles and Design},
   booktitle = sosp,
   year      = 1985,
   pages     = {35-50},
@@ -3283,7 +3283,7 @@
 
 @inproceedings{DBLP:conf/sosp/Birman85,
   author    = {Kenneth P. Birman},
-  title     = {Replication and Fault-Tolerance in the ISIS System},
+  title     = {Replication and {Fault-Tolerance} in the {ISIS} System},
   booktitle = sosp,
   year      = 1985,
   pages     = {79-86},
@@ -3309,7 +3309,7 @@
 
 @inproceedings{DBLP:conf/sosp/Reinhardt85,
   author    = {Steven K. Reinhardt},
-  title     = {A Data-Flow Approach to Multitasking ob CRAY X-MP Compputers},
+  title     = {A {Data-Flow} Approach to Multitasking ob {CRAY} {X-MP} Compputers},
   booktitle = sosp,
   year      = 1985,
   pages     = {107-114},
@@ -3452,7 +3452,7 @@
                Robert English and
                Charles S. Kline and
                Greg Thiel},
-  title     = {The LOCUS Distributed Operating System},
+  title     = {The {LOCUS} Distributed Operating System},
   booktitle = sosp,
   year      = 1983,
   pages     = {49-70},
@@ -3462,7 +3462,7 @@
   author    = {Erik T. Mueller and
                Johanna D. Moore and
                Gerald J. Popek},
-  title     = {A Nested Transaction Mechanism for LOCUS},
+  title     = {A Nested Transaction Mechanism for {LOCUS}},
   booktitle = sosp,
   year      = 1983,
   pages     = {71-89},
@@ -3490,7 +3490,7 @@
 @inproceedings{DBLP:conf/sosp/PresottoM83,
   author    = {Michael L. Powell and
                Barton P. Miller},
-  title     = {Process Migration in DEMOS/MP},
+  title     = {Process Migration in DEMOS/{MP}},
   booktitle = sosp,
   year      = 1983,
   pages     = {110-119},
@@ -3499,7 +3499,7 @@
 @inproceedings{DBLP:conf/sosp/RichardsonN83,
   author    = {M. F. Richardson and
                Roger M. Needham},
-  title     = {The TRIPOS Filing Machine, a Front End to a File Server},
+  title     = {The {TRIPOS} Filing Machine, a Front End to a File Server},
   booktitle = sosp,
   year      = 1983,
   pages     = {120-128},
@@ -3535,7 +3535,7 @@
 @inproceedings{DBLP:conf/sosp/BernsteinH81,
   author    = {Arthur J. Bernstein and
                Paul K. Harter Jr.},
-  title     = {Proving Real-Time Properties of Programs with Temporal Logic},
+  title     = {Proving {Real-Time} Properties of Programs with Temporal Logic},
   booktitle = sosp,
   year      = 1981,
   pages     = {1-11},
@@ -3551,7 +3551,7 @@
 
 @inproceedings{DBLP:conf/sosp/Bartlett81,
   author    = {Joel F. Bartlett},
-  title     = {A NonStop Kernel},
+  title     = {A {NonStop} Kernel},
   booktitle = sosp,
   year      = 1981,
   pages     = {22-19},
@@ -3577,7 +3577,7 @@
 @inproceedings{DBLP:conf/sosp/MitchellD81,
   author    = {James G. Mitchell and
                Jeremy Dion},
-  title     = {A Comparison of Two Network-Based File Servers},
+  title     = {A Comparison of Two {Network-Based} File Servers},
   booktitle = sosp,
   year      = 1981,
   pages     = {45-46},
@@ -3585,7 +3585,7 @@
 
 @inproceedings{DBLP:conf/sosp/Svobodova81,
   author    = {Liba Svobodova},
-  title     = {A Reliable Object-Oriented Data Repository for a Distributed Computer System},
+  title     = {A Reliable {Object-Oriented} Data Repository for a Distributed Computer System},
   booktitle = sosp,
   year      = 1981,
   pages     = {47-58},
@@ -3620,7 +3620,7 @@
 @inproceedings{DBLP:conf/sosp/BabaogluJ81,
   author    = {{\"O}zalp Babaoglu and
                William N. Joy},
-  title     = {Converting a Swap-Based System to do Paging in an Architecture Lacking Page-Reference Bits},
+  title     = {Converting a {Swap-Based} System to do Paging in an Architecture Lacking {Page-Reference} Bits},
   booktitle = sosp,
   year      = 1981,
   pages     = {78-86},
@@ -3629,7 +3629,7 @@
 @inproceedings{DBLP:conf/sosp/CarrH81,
   author    = {Richard W. Carr and
                John L. Hennessy},
-  title     = {WSClock - A Simple and Effective Algorithm for Virtual Memory Management},
+  title     = {{WSClock} - A Simple and Effective Algorithm for Virtual Memory Management},
   booktitle = sosp,
   year      = 1981,
   pages     = {87-95},
@@ -3645,7 +3645,7 @@
 
 @inproceedings{DBLP:conf/sosp/Bishop81,
   author    = {Matt Bishop},
-  title     = {Hierarchical Take-Grant Protection Systems},
+  title     = {Hierarchical {Take-Grant} Protection Systems},
   booktitle = sosp,
   year      = 1981,
   pages     = {109-122},
@@ -3679,7 +3679,7 @@
                Linda A. Hutchins and
                John T. Montague and
                Fred J. Pollack},
-  title     = {iMAX: A Multiprocessor Operating System for an Object-Based Computer},
+  title     = {iMAX: A Multiprocessor Operating System for an {Object-Based} Computer},
   booktitle = sosp,
   year      = 1981,
   pages     = {127-136},
@@ -3714,7 +3714,7 @@
                J. P. Haggerty and
                Peter A. Kirslis and
                W. T. Marshall},
-  title     = {A Distributed UNIX System Based on a Virtual Circuit Switch},
+  title     = {A Distributed {UNIX} System Based on a Virtual Circuit Switch},
   booktitle = sosp,
   year      = 1981,
   pages     = {160-168},
@@ -3727,7 +3727,7 @@
                David A. Edwards and
                Gerard Rudisin and
                Greg Thiel},
-  title     = {LOCUS - A Network Transparent, High Reliability Distributed System},
+  title     = {{LOCUS} - A Network Transparent, High Reliability Distributed System},
   booktitle = sosp,
   year      = 1981,
   pages     = {169-177},
@@ -3787,7 +3787,7 @@
 
 @inproceedings{DBLP:conf/sosp/Paxton79,
   author    = {William H. Paxton},
-  title     = {A Client-Based Transaction System to Maintain Data Integrity},
+  title     = {A {Client-Based} Transaction System to Maintain Data Integrity},
   booktitle = sosp,
   year      = 1979,
   pages     = {18-23},
@@ -3839,7 +3839,7 @@
   author    = {Bruce J. Walker and
                Richard A. Kemmerer and
                Gerald J. Popek},
-  title     = {Specification and Verification of the UCLA Unix Security Kernel},
+  title     = {Specification and Verification of the {UCLA} Unix Security Kernel},
   booktitle = sosp,
   year      = 1979,
   pages     = {64-65},
@@ -3848,7 +3848,7 @@
 @inproceedings{DBLP:conf/sosp/AimesL79,
   author    = {Guy T. Almes and
                Edward D. Lazowska},
-  title     = {The Behavior of Ethernet-Like Computer Communication Networks},
+  title     = {The Behavior of {Ethernet-Like} Computer Communication Networks},
   booktitle = sosp,
   year      = 1979,
   pages     = {66-81},
@@ -3874,7 +3874,7 @@
 @inproceedings{DBLP:conf/sosp/LampsonS79,
   author    = {Butler W. Lampson and
                Robert F. Sproull},
-  title     = {An Open Operating System for a Single-User Machine},
+  title     = {An Open Operating System for a {Single-User} Machine},
   booktitle = sosp,
   year      = 1979,
   pages     = {98-105},
@@ -3898,7 +3898,7 @@
 @inproceedings{DBLP:conf/sosp/SolomonF79,
   author    = {Marvin H. Solomon and
                Raphael A. Finkel},
-  title     = {The ROSCOE Distributed Operating System},
+  title     = {The {ROSCOE} Distributed Operating System},
   booktitle = sosp,
   year      = 1979,
   pages     = {108-114},
@@ -3936,7 +3936,7 @@
 
 @inproceedings{DBLP:conf/sosp/Gehringer79,
   author    = {Edward F. Gehringer},
-  title     = {Variable-Length Capabilities as a Solution to the Small-Object Problem},
+  title     = {{Variable-Length} Capabilities as a Solution to the {Small-Object} Problem},
   booktitle = sosp,
   year      = 1979,
   pages     = {131-142},
@@ -3969,7 +3969,7 @@
 @inproceedings{DBLP:conf/sosp/NeedhamW77,
   author    = {Roger M. Needham and
                R. D. H. Walker},
-  title     = {The Cambridge CAP Computer and its Protection System},
+  title     = {The Cambridge {CAP} Computer and its Protection System},
   booktitle = sosp,
   year      = 1977,
   pages     = {1-10},
@@ -3986,7 +3986,7 @@
 
 @inproceedings{DBLP:conf/sosp/Needham77,
   author    = {Roger M. Needham},
-  title     = {The CAP Project - An Interim Evaluation},
+  title     = {The {CAP} Project - An Interim Evaluation},
   booktitle = sosp,
   year      = 1977,
   pages     = {17-22},
@@ -3996,7 +3996,7 @@
   author    = {Forest Baskett and
                John H. Howard and
                John T. Montague},
-  title     = {Task Communication in DEMOS},
+  title     = {Task Communication in {DEMOS}},
   booktitle = sosp,
   year      = 1977,
   pages     = {23-31},
@@ -4004,7 +4004,7 @@
 
 @inproceedings{DBLP:conf/sosp/Powell77,
   author    = {Michael L. Powell},
-  title     = {The DEMOS File System},
+  title     = {The {DEMOS} File System},
   booktitle = sosp,
   year      = 1977,
   pages     = {33-42},
@@ -4117,7 +4117,7 @@
 
 @inproceedings{DBLP:conf/sosp/Russell77,
   author    = {David L. Russell},
-  title     = {Process Backup in Producer-Consumer Systems},
+  title     = {Process Backup in {Producer-Consumer} Systems},
   booktitle = sosp,
   year      = 1977,
   pages     = {151-157},
@@ -4138,7 +4138,7 @@
                Michael A. Malcolm and
                Lawrence S. Melen and
                Gary R. Sager},
-  title     = {Thoth, a Portable Real-Time Operating System},
+  title     = {Thoth, a Portable {Real-Time} Operating System},
   booktitle = sosp,
   year      = 1977,
   pages     = {171},
@@ -4189,7 +4189,7 @@
 @inproceedings{DBLP:conf/sosp/BayerL75,
   author    = {D. L. Bayer and
                H. Lycklama},
-  title     = {MERT - A Multi-Environment Real-Time Operating System},
+  title     = {{MERT} - A {Multi-Environment} {Real-Time} Operating System},
   booktitle = sosp,
   year      = 1975,
   pages     = {33-42},
@@ -4197,7 +4197,7 @@
 
 @inproceedings{DBLP:conf/sosp/Janson75,
   author    = {Philippe A. Janson},
-  title     = {Dynamic Linking and Environment Initialization in a Multi-Domain Process},
+  title     = {Dynamic Linking and Environment Initialization in a {Multi-Domain} Process},
   booktitle = sosp,
   year      = 1975,
   pages     = {43-50},
@@ -4206,7 +4206,7 @@
 @inproceedings{DBLP:conf/sosp/PruittC75,
   author    = {J. L. Pruitt and
                W. W. Case},
-  title     = {Architecture of a Real-Time Operating System},
+  title     = {Architecture of a {Real-Time} Operating System},
   booktitle = sosp,
   year      = 1975,
   pages     = {51-59},
@@ -4276,7 +4276,7 @@
 @inproceedings{DBLP:conf/sosp/RussellB75,
   author    = {David L. Russell and
                Thomas H. Bredt},
-  title     = {Error Resynchronization in Producer-Consumer Systems},
+  title     = {Error Resynchronization in {Producer-Consumer} Systems},
   booktitle = sosp,
   year      = 1975,
   pages     = {106-113},
@@ -4285,7 +4285,7 @@
 @inproceedings{DBLP:conf/sosp/ArdenB75,
   author    = {Bruce W. Arden and
                Alan D. Berenbaum},
-  title     = {A Multi-Microprocessor Computer System Architecture},
+  title     = {A {Multi-Microprocessor} Computer System Architecture},
   booktitle = sosp,
   year      = 1975,
   pages     = {114-121},
@@ -4295,7 +4295,7 @@
   author    = {William A. Wulf and
                Roy Levin and
                C. Pierson},
-  title     = {Overview of the HYDRA Operating System Development},
+  title     = {Overview of the {HYDRA} Operating System Development},
   booktitle = sosp,
   year      = 1975,
   pages     = {122-131},
@@ -4307,7 +4307,7 @@
                William M. Corwin and
                Fred J. Pollack and
                William A. Wulf},
-  title     = {Policy/Mechanism Separation in HYDRA},
+  title     = {Policy/Mechanism Separation in {HYDRA}},
   booktitle = sosp,
   year      = 1975,
   pages     = {132-140},
@@ -4316,7 +4316,7 @@
 @inproceedings{DBLP:conf/sosp/CohenJ75,
   author    = {Ellis S. Cohen and
                David Jefferson},
-  title     = {Protection in the HYDRA Operating System},
+  title     = {Protection in the {HYDRA} Operating System},
   booktitle = sosp,
   year      = 1975,
   pages     = {141-160},
@@ -4352,7 +4352,7 @@
 @inproceedings{DBLP:conf/sosp/CoffmanM75,
   author    = {Edward G. Coffman Jr. and
                Isi Mitrani},
-  title     = {Selecting a Scheduling Rule that Meets Pre-Specified Response Time Demands},
+  title     = {Selecting a Scheduling Rule that Meets {Pre-Specified} Response Time Demands},
   booktitle = sosp,
   year      = 1975,
   pages     = {187-191},
@@ -4395,7 +4395,7 @@
 
 @inproceedings{DBLP:conf/sosp/Sorenson73,
   author    = {Paul G. Sorenson},
-  title     = {Interprocess Communication in Real-Time Systems},
+  title     = {Interprocess Communication in {Real-Time} Systems},
   booktitle = sosp,
   year      = 1973,
   pages     = {1-7},
@@ -4422,7 +4422,7 @@
 @inproceedings{DBLP:conf/sosp/RitchieT73,
   author    = {Dennis Ritchie and
                Ken Thompson},
-  title     = {The UNIX Time-Sharing System},
+  title     = {The {UNIX} {Time-Sharing} System},
   booktitle = sosp,
   year      = 1973,
   pages     = {27},
@@ -4455,7 +4455,7 @@
 
 @inproceedings{DBLP:conf/sosp/Fuller73,
   author    = {Samuel H. Fuller},
-  title     = {Random Arrival and the MTPT Drum Scheduling Discipline},
+  title     = {Random Arrival and the {MTPT} Drum Scheduling Discipline},
   booktitle = sosp,
   year      = 1973,
   pages     = {54-57},
@@ -4545,7 +4545,7 @@
 
 @inproceedings{DBLP:conf/sosp/Saltzer73,
   author    = {Jerome H. Saltzer},
-  title     = {Protection and the Control of Information Sharing in MULTICS},
+  title     = {Protection and the Control of Information Sharing in {MULTICS}},
   booktitle = sosp,
   year      = 1973,
   pages     = {119},
@@ -4553,7 +4553,7 @@
 
 @inproceedings{DBLP:conf/sosp/Fabry73,
   author    = {Robert S. Fabry},
-  title     = {The Case for Capability-Based Computers},
+  title     = {The Case for {Capability-Based} Computers},
   booktitle = sosp,
   year      = 1973,
   pages     = {120},
@@ -4622,7 +4622,7 @@
 @inproceedings{DBLP:conf/sosp/FeiertagO71,
   author    = {Richard J. Feiertag and
                Elliott I. Organick},
-  title     = {The MULTICS Input/Output System},
+  title     = {The {MULTICS} Input/Output System},
   booktitle = sosp,
   year      = 1971,
   pages     = {35-41},
@@ -4687,7 +4687,7 @@
 
 @inproceedings{DBLP:conf/sosp/Easton71,
   author    = {William B. Easton},
-  title     = {Process Synchronization without Long-Term Interlock},
+  title     = {Process Synchronization without {Long-Term} Interlock},
   booktitle = sosp,
   year      = 1971,
   pages     = {95-100},
@@ -4746,7 +4746,7 @@
 
 @inproceedings{DBLP:conf/sosp/Greenberg71,
   author    = {Mark L. Greenberg},
-  title     = {An Algorithm for Drum Storage Management in Time-Sharing Systems},
+  title     = {An Algorithm for Drum Storage Management in {Time-Sharing} Systems},
   booktitle = sosp,
   year      = 1971,
   pages     = {141-148},
