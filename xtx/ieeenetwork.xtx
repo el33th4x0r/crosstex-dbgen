@@ -69,6 +69,19 @@
   pages     = {4-6},
 }
 
+@article{DBLP:journals/network/SivaramanRCR12,
+  author    = {V. Sivaraman and
+               C. Russell and
+               I. B. Collings and
+               A. Radford},
+  title     = {Architecting a national optical fiber open-access network: The Australian Challenge},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {4-10},
+}
+
 @article{DBLP:journals/network/MaroldLS12,
   author    = {Alexander Marold and
                Peter Lieven and
@@ -110,6 +123,22 @@
   pages     = {8-14},
 }
 
+@article{DBLP:journals/network/KatsianisRNTVZB12,
+  author    = {Dimitris Katsianis and
+               Theodoros Rokkas and
+               I. Neokosmidis and
+               M. Tselekounis and
+               Dimitris Varoutas and
+               I. Zacharopoulos and
+               A. Bartzoudi},
+  title     = {Risks associated with next generation access networks investment scenarios},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {11-17},
+}
+
 @article{DBLP:journals/network/CasasMO12,
   author    = {Pedro Casas and
                Johan Mazel and
@@ -149,6 +178,19 @@
   pages     = {15-21},
 }
 
+@article{DBLP:journals/network/NavaravongKSD12,
+  author    = {Leenhapat Navaravong and
+               Zhen Kan and
+               John M. Shea and
+               Warren E. Dixon},
+  title     = {Formation reconfiguration for mobile robots with network connectivity constraints},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {18-24},
+}
+
 @article{DBLP:journals/network/HuTW12,
   author    = {Guoqiang Hu and
                Wee Peng Tay and
@@ -183,6 +225,19 @@
   number    = {2},
   year      = 2012,
   pages     = {22-27},
+}
+
+@article{DBLP:journals/network/ChangCCL12,
+  author    = {Yu-Chun Chang and
+               Chi-Jui Chang and
+               Kuan-Ta Chen and
+               Chin-Laung Lei},
+  title     = {Radar chart: scanning for satisfactory {QoE} in {QoS} dimensions},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {25-31},
 }
 
 @article{DBLP:journals/network/WangKCCZ12,
@@ -223,6 +278,19 @@
   pages     = {28-35},
 }
 
+@article{DBLP:journals/network/FangMXY12,
+  author    = {Xi Fang and
+               Satyajayant Misra and
+               Guoliang Xue and
+               Dejun Yang},
+  title     = {Managing smart grid information in the cloud: opportunities, model, and applications},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {32-38},
+}
+
 @article{DBLP:journals/network/DainottiPC12,
   author    = {Alberto Dainotti and
                Antonio Pescap{\`e} and
@@ -260,6 +328,19 @@
   pages     = {36-41},
 }
 
+@article{DBLP:journals/network/BuiCCZ12,
+  author    = {Nicola Bui and
+               Angelo Paolo Castellani and
+               Paolo Casari and
+               Michele Zorzi},
+  title     = {The internet of energy: a web-enabled smart grid system},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {39-45},
+}
+
 @article{DBLP:journals/network/ChungNPC12,
   author    = {Jong-Moon Chung and
                Yeonghun Nam and
@@ -287,6 +368,20 @@
   pages     = {42-48},
 }
 
+@article{DBLP:journals/network/CaoZMCP12,
+  author    = {Bin Cao and
+               Qinyu Zhang and
+               John W. Mark and
+               Lin X. Cai and
+               H. Vincent Poor},
+  title     = {Toward efficient radio spectrum utilization: user cooperation in cognitive radio networking},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {46-52},
+}
+
 @article{DBLP:journals/network/GumastePTWNBS12,
   author    = {Ashwin Gumaste and
                Klaus Pulverer and
@@ -301,6 +396,27 @@
   number    = {2},
   year      = 2012,
   pages     = {49-56},
+}
+
+@article{DBLP:journals/network/TavakolifardA12,
+  author    = {Mozhgan Tavakolifard and
+               Kevin C. Almeroth},
+  title     = {Social computing: an intersection of recommender systems, trust/reputation systems, and social networks},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {53-58},
+}
+
+@article{DBLP:journals/network/Meter12,
+  author    = {Rodney Van Meter},
+  title     = {Quantum networking and internetworking},
+  journal   = ieeenetwork,
+  volume    = {26},
+  number    = {4},
+  year      = 2012,
+  pages     = {59-64},
 }
 
 @article{DBLP:journals/network/Chen11,
@@ -4112,7 +4228,7 @@
   author    = {Antonio Iera and
                Antonella Molinaro and
                Giuseppe Ruggeri and
-               D. Tripodi},
+               Domenico Tripodi},
   title     = {Improving {QoS} and throughput in single- and multihop {WLANs} through dynamic traffic prioritization},
   journal   = ieeenetwork,
   volume    = {19},
@@ -4535,11 +4651,10 @@
 }
 
 @article{DBLP:journals/network/SahaMMCS04,
-  author    = {Debanjan Saha and
+  author    = {Debashis Saha and
                Amitava Mukherjee and
                Iti Saha Misra and
-               Mohuya Chakraborty and
-               N. Subhash},
+               Mohuya Chakraborty},
   title     = {Mobility support in IP: a survey of related protocols},
   journal   = ieeenetwork,
   volume    = {18},

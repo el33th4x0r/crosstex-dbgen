@@ -1,5 +1,19 @@
 @include journals-cs
 
+@article{DBLP:journals/ccr/LamRPVV12,
+  author    = {Vinh The Lam and
+               Sivasankar Radhakrishnan and
+               Rong Pan and
+               Amin Vahdat and
+               George Varghese},
+  title     = {Netshare and stochastic netshare: predictable bandwidth allocation for data centers},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {5-11},
+}
+
 @article{DBLP:journals/ccr/ChoochaisriAKTI12,
   author    = {Supasate Choochaisri and
                Kittipat Apicharttrisorn and
@@ -28,6 +42,17 @@
   pages     = {7-15},
 }
 
+@article{DBLP:journals/ccr/HimuraY12,
+  author    = {Yosuke Himura and
+               Yoshiko Yasuda},
+  title     = {Discovering configuration templates of virtualized tenant networks in multi-tenancy datacenters via graph-mining},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {13-20},
+}
+
 @article{DBLP:journals/ccr/SarrarUFSH12,
   author    = {Nadi Sarrar and
                Steve Uhlig and
@@ -53,6 +78,16 @@
   pages     = {16-27},
 }
 
+@article{DBLP:journals/ccr/X12,
+  author    = {},
+  title     = {The collateral damage of internet censorship by {DNS} injection},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {21-27},
+}
+
 @article{DBLP:journals/ccr/BonaldR12,
   author    = {Thomas Bonald and
                James W. Roberts},
@@ -62,6 +97,16 @@
   number    = {1},
   year      = 2012,
   pages     = {23-30},
+}
+
+@article{DBLP:journals/ccr/claffy12a,
+  author    = {kc claffy},
+  title     = {Border gateway protocol (BGP) and traceroute data workshop report},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {28-31},
 }
 
 @article{DBLP:journals/ccr/LinCK12,
@@ -89,6 +134,26 @@
   pages     = {31-39},
 }
 
+@article{DBLP:journals/ccr/Crowcroft12a,
+  author    = {Jon Crowcroft},
+  title     = {Differential piracy},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {32-33},
+}
+
+@article{DBLP:journals/ccr/claffy12b,
+  author    = {kc claffy},
+  title     = {The 4th workshop on active internet measurements (AIMS-4) report},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {34-38},
+}
+
 @article{DBLP:journals/ccr/HuangBL12,
   author    = {Cheng Huang and
                Ivan Batanov and
@@ -99,6 +164,22 @@
   number    = {2},
   year      = 2012,
   pages     = {35-41},
+}
+
+@article{DBLP:journals/ccr/SofiaMDHGGB12,
+  author    = {Rute Sofia and
+               Paulo Mendes and
+               Manuel Jos{\'e} Dam{\'a}sio and
+               Sara Henriques and
+               Fabio Giglietto and
+               Erica Giambitto and
+               Alessandro Bogliolo},
+  title     = {Moving towards a socially-driven internet architectural design},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {39-46},
 }
 
 @article{DBLP:journals/ccr/GillSG12,
@@ -138,6 +219,16 @@
   pages     = {47-53},
 }
 
+@article{DBLP:journals/ccr/Trossen12,
+  author    = {Dirk Trossen},
+  title     = {Turing, the internet and a theory for architecture: a (fictional?) tale in three parts},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {47-53},
+}
+
 @article{DBLP:journals/ccr/Zave12,
   author    = {Pamela Zave},
   title     = {Using lightweight modeling to understand chord},
@@ -161,6 +252,17 @@
   pages     = {54-60},
 }
 
+@article{DBLP:journals/ccr/ChettyF12,
+  author    = {Marshini Chetty and
+               Nick Feamster},
+  title     = {Refactoring network infrastructure to improve manageability: a case study of home networking},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {54-61},
+}
+
 @article{DBLP:journals/ccr/RestrepoS12,
   author    = {Juan Camilo Cardona Restrepo and
                Rade Stanojevic},
@@ -181,6 +283,20 @@
   number    = {1},
   year      = 2012,
   pages     = {61-68},
+}
+
+@article{DBLP:journals/ccr/YiAWZZ12,
+  author    = {Cheng Yi and
+               Alexander Afanasyev and
+               Lan Wang and
+               Beichuan Zhang and
+               Lixia Zhang},
+  title     = {Adaptive forwarding in named data networking},
+  journal   = ccr,
+  volume    = {42},
+  number    = {3},
+  year      = 2012,
+  pages     = {62-67},
 }
 
 @article{DBLP:journals/ccr/KellerSR12,

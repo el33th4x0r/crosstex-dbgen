@@ -1,5 +1,33 @@
 @include journals-cs
 
+@article{DBLP:journals/pvldb/Ozsoyoglu12,
+  author    = {Z. Meral {\"O}zsoyoglu},
+  title     = {Letter from the {Editor-in-Chief}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+}
+
+@article{DBLP:journals/pvldb/Ozsoyoglu12a,
+  author    = {Z. Meral {\"O}zsoyoglu},
+  title     = {Message from the {VLDB} 2012 General Program Chair},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+}
+
+@article{DBLP:journals/pvldb/YaziciL12,
+  author    = {Adnan Yazici and
+               Ling Liu},
+  title     = {Welcome Message from the {VLDB} 2012 General Chairs},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+}
+
 @article{DBLP:journals/pvldb/AlonsoF12,
   author    = {Gustavo Alonso and
                Juliana Freire},
@@ -22,6 +50,17 @@
   pages     = {i-vii},
 }
 
+@article{DBLP:journals/pvldb/KorthT12,
+  author    = {Hank Korth and
+               Anthony K. H. Tung},
+  title     = {Letter from the the Associate Editors},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {i-vii},
+}
+
 @article{DBLP:journals/pvldb/Tung12,
   author    = {Anthony K. H. Tung},
   title     = {Letter from the the Associate Editor},
@@ -30,6 +69,17 @@
   number    = {6},
   year      = 2012,
   pages     = {i-vii},
+}
+
+@article{DBLP:journals/pvldb/SacanT12,
+  author    = {Ahmet Sacan and
+               Nesime Tatbul},
+  title     = {Letter from the the Associate Editors},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {i-viii},
 }
 
 @article{DBLP:journals/pvldb/Korth12,
@@ -445,6 +495,1860 @@
   number    = {8},
   year      = 2012,
   pages     = {776-787},
+}
+
+@article{DBLP:journals/pvldb/SunWWSL12,
+  author    = {Zhao Sun and
+               Hongzhi Wang and
+               Haixun Wang and
+               Bin Shao and
+               Jianzhong Li},
+  title     = {Efficient Subgraph Matching on Billion Node Graphs},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {788-799},
+}
+
+@article{DBLP:journals/pvldb/YuanWCW12,
+  author    = {Ye Yuan and
+               Guoren Wang and
+               Lei Chen and
+               Haixun Wang},
+  title     = {Efficient Subgraph Similarity Search on Large Probabilistic Graph Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {800-811},
+}
+
+@article{DBLP:journals/pvldb/WangC12,
+  author    = {Jia Wang and
+               James Cheng},
+  title     = {Truss Decomposition in Massive Networks},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {812-823},
+}
+
+@article{DBLP:journals/pvldb/FanLZCH12,
+  author    = {Ju Fan and
+               Guoliang Li and
+               Lizhu Zhou and
+               Shanshan Chen and
+               Jun Hu},
+  title     = {SEAL: {Spatio-Textual} Similarity Search},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {824-835},
+}
+
+@article{DBLP:journals/pvldb/LappasVGT12,
+  author    = {Theodoros Lappas and
+               Marcos R. Vieira and
+               Dimitrios Gunopulos and
+               Vassilis J. Tsotras},
+  title     = {On The Spatiotemporal Burstiness of Terms},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {836-847},
+}
+
+@article{DBLP:journals/pvldb/Shirani-MehrKS12,
+  author    = {Houtan Shirani-Mehr and
+               Farnoush Banaei Kashani and
+               Cyrus Shahabi},
+  title     = {Efficient Reachability Query Evaluation in Large Spatiotemporal Contact Datasets},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {848-859},
+}
+
+@article{DBLP:journals/pvldb/NguyenHZW12,
+  author    = {Thi Nguyen and
+               Zhen He and
+               Rui Zhang and
+               Phillip Ward},
+  title     = {Boosting Moving Object Indexing through Velocity Partitioning},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {860-871},
+}
+
+@article{DBLP:journals/pvldb/Bidoit-TolluCU12,
+  author    = {Nicole Bidoit-Tollu and
+               Dario Colazzo and
+               Federico Ulliana},
+  title     = {{Type-Based} Detection of {XML} {Query-Update} Independence},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {872-883},
+}
+
+@article{DBLP:journals/pvldb/SowellGS12,
+  author    = {Benjamin Sowell and
+               Wojciech M. Golab and
+               Mehul A. Shah},
+  title     = {Minuet: A Scalable Distributed Multiversion {B-Tree}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {884-895},
+}
+
+@article{DBLP:journals/pvldb/YinCLYC12,
+  author    = {Hongzhi Yin and
+               Bin Cui and
+               Jing Li and
+               Junjie Yao and
+               Chen Chen},
+  title     = {Challenging the Long Tail Recommendation},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {9},
+  year      = 2012,
+  pages     = {896-907},
+}
+
+@article{DBLP:journals/pvldb/PimplikarS12,
+  author    = {Rakesh Pimplikar and
+               Sunita Sarawagi},
+  title     = {Answering Table Queries on the Web using Column Keywords},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {908-919},
+}
+
+@article{DBLP:journals/pvldb/GoodrichNOPTTL12,
+  author    = {Michael T. Goodrich and
+               Duy Nguyen and
+               Olga Ohrimenko and
+               Charalampos Papamanthou and
+               Roberto Tamassia and
+               Nikos Triandopoulos and
+               Cristina Videira Lopes},
+  title     = {Efficient Verification of {Web-Content} Searching Through Authenticated Web Crawlers},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {920-931},
+}
+
+@article{DBLP:journals/pvldb/BlunschiJKMS12,
+  author    = {Lukas Blunschi and
+               Claudio Jossen and
+               Donald Kossmann and
+               Magdalini Mori and
+               Kurt Stockinger},
+  title     = {SODA: Generating {SQL} for Business Users},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {932-943},
+}
+
+@article{DBLP:journals/pvldb/TerrovitisLMS12,
+  author    = {Manolis Terrovitis and
+               John Liagouris and
+               Nikos Mamoulis and
+               Spiros Skiadopoulos},
+  title     = {Privacy Preservation by Disassociation},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {944-955},
+}
+
+@article{DBLP:journals/pvldb/KanagalAPJYP12,
+  author    = {Bhargav Kanagal and
+               Amr Ahmed and
+               Sandeep Pandey and
+               Vanja Josifovski and
+               Jeffrey Yuan and
+               Lluis Garcia Pueyo},
+  title     = {Supercharging Recommender Systems using Taxonomies for Learning User Purchase Behavior},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {956-967},
+}
+
+@article{DBLP:journals/pvldb/AhmadKKN12,
+  author    = {Yanif Ahmad and
+               Oliver Kennedy and
+               Christoph Koch and
+               Milos Nikolic},
+  title     = {DBToaster: Higher-order Delta Processing for Dynamic, Frequently Fresh Views},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {968-979},
+}
+
+@article{DBLP:journals/pvldb/AgarwalRB12,
+  author    = {Manoj K. Agarwal and
+               Krithi Ramamritham and
+               Manish Bhide},
+  title     = {Real Time Discovery of Dense Clusters in Highly Dynamic Graphs: Identifying Real World Events in Highly Dynamic Environments},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {980-991},
+}
+
+@article{DBLP:journals/pvldb/PapapetrouGD12,
+  author    = {Odysseas Papapetrou and
+               Minos N. Garofalakis and
+               Antonios Deligiannakis},
+  title     = {Sketch-based Querying of Distributed {Sliding-Window} Data Streams},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {992-1003},
+}
+
+@article{DBLP:journals/pvldb/VoWACO12,
+  author    = {Hoang Tam Vo and
+               Sheng Wang and
+               Divyakant Agrawal and
+               Gang Chen and
+               Beng Chin Ooi},
+  title     = {LogBase: A Scalable Log-structured Database System in the Cloud},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {1004-1015},
+}
+
+@article{DBLP:journals/pvldb/LuSCO12,
+  author    = {Wei Lu and
+               Yanyan Shen and
+               Su Chen and
+               Beng Chin Ooi},
+  title     = {Efficient Processing of k Nearest Neighbor Joins using {MapReduce}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {1016-1027},
+}
+
+@article{DBLP:journals/pvldb/LaptevZZ12,
+  author    = {Nikolay Laptev and
+               Kai Zeng and
+               Carlo Zaniolo},
+  title     = {Early Accurate Results for Advanced Analytics on {MapReduce}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {1028-1039},
+}
+
+@article{DBLP:journals/pvldb/LiuLOSWZ12,
+  author    = {Xuan Liu and
+               Meiyu Lu and
+               Beng Chin Ooi and
+               Yanyan Shen and
+               Sai Wu and
+               Meihui Zhang},
+  title     = {CDAS: A Crowdsourcing Data Analytics System},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {1040-1051},
+}
+
+@article{DBLP:journals/pvldb/SachanB12,
+  author    = {Mayank Sachan and
+               Arnab Bhattacharya},
+  title     = {Mining Statistically Significant Substrings using the {Chi-Square} Statistic},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {1052-1063},
+}
+
+@article{DBLP:journals/pvldb/AlbutiuKN12,
+  author    = {Martina-Cezara Albutiu and
+               Alfons Kemper and
+               Thomas Neumann},
+  title     = {Massively Parallel {Sort-Merge} Joins in Main Memory {Multi-Core} Database Systems},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {1064-1075},
+}
+
+@article{DBLP:journals/pvldb/LuoLMCZ12,
+  author    = {Tian Luo and
+               Rubao Lee and
+               Michael P. Mesnier and
+               Feng Chen and
+               Xiaodong Zhang},
+  title     = {hStorage-DB: Heterogeneity-aware Data Management to Exploit the Full Capability of Hybrid Storage Systems},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {10},
+  year      = 2012,
+  pages     = {1076-1087},
+}
+
+@article{DBLP:journals/pvldb/ChoiCT12,
+  author    = {Dong-Wan Choi and
+               Chin-Wan Chung and
+               Yufei Tao},
+  title     = {A Scalable Algorithm for Maximizing Range Sum in Spatial Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1088-1099},
+}
+
+@article{DBLP:journals/pvldb/AlyAO12,
+  author    = {Ahmed M. Aly and
+               Walid G. Aref and
+               Mourad Ouzzani},
+  title     = {Spatial Queries with Two {kNN} Predicates},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1100-1111},
+}
+
+@article{DBLP:journals/pvldb/ShengZTJ12,
+  author    = {Cheng Sheng and
+               Nan Zhang and
+               Yufei Tao and
+               Xin Jin},
+  title     = {Optimal Algorithms for Crawling a Hidden Database in the Web},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1112-1123},
+}
+
+@article{DBLP:journals/pvldb/QinYC12,
+  author    = {Lu Qin and
+               Jeffrey Xu Yu and
+               Lijun Chang},
+  title     = {Diversifying {Top-K} Results},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1124-1135},
+}
+
+@article{DBLP:journals/pvldb/CaoCCX12,
+  author    = {Xin Cao and
+               Lisi Chen and
+               Gao Cong and
+               Xiaokui Xiao},
+  title     = {Keyword-aware Optimal Route Search},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1136-1147},
+}
+
+@article{DBLP:journals/pvldb/CautisK12,
+  author    = {Bogdan Cautis and
+               Evgeny Kharlamov},
+  title     = {Answering Queries using Views over Probabilistic XML: Complexity and Tractability},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1148-1159},
+}
+
+@article{DBLP:journals/pvldb/JhaS12,
+  author    = {Abhay Kumar Jha and
+               Dan Suciu},
+  title     = {Probabilistic Databases with {MarkoViews}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1160-1171},
+}
+
+@article{DBLP:journals/pvldb/MamourasOSKG12,
+  author    = {Konstantinos Mamouras and
+               Sigal Oren and
+               Lior Seeman and
+               Lucja Kot and
+               Johannes Gehrke},
+  title     = {The Complexity of Social Coordination},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1172-1183},
+}
+
+@article{DBLP:journals/pvldb/ZhangCW12,
+  author    = {Xiaofei Zhang and
+               Lei Chen and
+               Min Wang},
+  title     = {Efficient Multi-way {Theta-Join} Processing Using {MapReduce}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1184-1195},
+}
+
+@article{DBLP:journals/pvldb/LimHB12,
+  author    = {Harold Lim and
+               Herodotos Herodotou and
+               Shivnath Babu},
+  title     = {Stubby: A Transformation-based Optimizer for {MapReduce} Workflows},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1196-1207},
+}
+
+@article{DBLP:journals/pvldb/BaoDM12,
+  author    = {Zhuowei Bao and
+               Susan B. Davidson and
+               Tova Milo},
+  title     = {Labeling Workflow Views with {Fine-Grained} Dependencies},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1208-1219},
+}
+
+@article{DBLP:journals/pvldb/SzlichtaGG12,
+  author    = {Jaroslaw Szlichta and
+               Parke Godfrey and
+               Jarek Gryz},
+  title     = {Fundamentals of Order Dependencies},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1220-1231},
+}
+
+@article{DBLP:journals/pvldb/BakibayevOZ12,
+  author    = {Nurzhan Bakibayev and
+               Dan Olteanu and
+               Jakub Zavodny},
+  title     = {FDB: A Query Engine for Factorised Relational Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1232-1243},
+}
+
+@article{DBLP:journals/pvldb/CaoCLT12,
+  author    = {Yu Cao and
+               Chee-Yong Chan and
+               Jie Li and
+               Kian-Lee Tan},
+  title     = {Optimization of Analytic Window Functions},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1244-1255},
+}
+
+@article{DBLP:journals/pvldb/HueskePSRBKT12,
+  author    = {Fabian Hueske and
+               Mathias Peters and
+               Matthias Sax and
+               Astrid Rheinl{\"a}nder and
+               Rico Bergmann and
+               Aljoscha Krettek and
+               Kostas Tzoumas},
+  title     = {Opening the Black Boxes in Data Flow Optimization},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1256-1267},
+}
+
+@article{DBLP:journals/pvldb/EwenTKM12,
+  author    = {Stephan Ewen and
+               Kostas Tzoumas and
+               Moritz Kaufmann and
+               Volker Markl},
+  title     = {Spinning Fast Iterative Data Flows},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1268-1279},
+}
+
+@article{DBLP:journals/pvldb/MihaylovIG12,
+  author    = {Svilen R. Mihaylov and
+               Zachary G. Ives and
+               Sudipto Guha},
+  title     = {REX: Recursive, {Delta-Based} {Data-Centric} Computation},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1280-1291},
+}
+
+@article{DBLP:journals/pvldb/ChengSCWY12,
+  author    = {James Cheng and
+               Zechao Shang and
+               Hong Cheng and
+               Haixun Wang and
+               Jeffrey Xu Yu},
+  title     = {K-Reach: Who is in Your Small World},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1292-1303},
+}
+
+@article{DBLP:journals/pvldb/FanWW12,
+  author    = {Wenfei Fan and
+               Xin Wang and
+               Yinghui Wu},
+  title     = {Performance Guarantees for Distributed Reachability Queries},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1304-1315},
+}
+
+@article{DBLP:journals/pvldb/ChubakR12,
+  author    = {Pirooz Chubak and
+               Davood Rafiei},
+  title     = {Efficient Indexing and Querying over Syntactically Annotated Trees},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1316-1327},
+}
+
+@article{DBLP:journals/pvldb/BaranyCO12,
+  author    = {Vince B{\'a}r{\'a}ny and
+               Balder ten Cate and
+               Martin Otto},
+  title     = {Queries with Guarded Negation},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1328-1339},
+}
+
+@article{DBLP:journals/pvldb/LiQSC12,
+  author    = {Ninghui Li and
+               Wahbeh H. Qardaji and
+               Dong Su and
+               Jianneng Cao},
+  title     = {PrivBasis: Frequent Itemset Mining with Differential Privacy},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1340-1351},
+}
+
+@article{DBLP:journals/pvldb/YuanZWXYH12,
+  author    = {Ganzhao Yuan and
+               Zhenjie Zhang and
+               Marianne Winslett and
+               Xiaokui Xiao and
+               Yin Yang and
+               Zhifeng Hao},
+  title     = {{Low-Rank} Mechanism: Optimizing Batch Queries under Differential Privacy},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1352-1363},
+}
+
+@article{DBLP:journals/pvldb/ZhangZXYW12,
+  author    = {Jun Zhang and
+               Zhenjie Zhang and
+               Xiaokui Xiao and
+               Yin Yang and
+               Marianne Winslett},
+  title     = {Functional Mechanism: Regression Analysis under Differential Privacy},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1364-1375},
+}
+
+@article{DBLP:journals/pvldb/BoldiBGT12,
+  author    = {Paolo Boldi and
+               Francesco Bonchi and
+               Aristides Gionis and
+               Tamir Tassa},
+  title     = {Injecting Uncertainty in Graphs for Identity Obfuscation},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1376-1387},
+}
+
+@article{DBLP:journals/pvldb/CaoK12,
+  author    = {Jianneng Cao and
+               Panagiotis Karras},
+  title     = {Publishing Microdata with a Robust Privacy Guarantee},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1388-1399},
+}
+
+@article{DBLP:journals/pvldb/GuanYK12,
+  author    = {Ziyu Guan and
+               Xifeng Yan and
+               Lance M. Kaplan},
+  title     = {Measuring {Two-Event} Structural Correlations on Graphs},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1400-1411},
+}
+
+@article{DBLP:journals/pvldb/JestesPLT12,
+  author    = {Jeffrey Jestes and
+               Jeff M. Phillips and
+               Feifei Li and
+               Mingwang Tang},
+  title     = {Ranking Large Temporal Data},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1412-1423},
+}
+
+@article{DBLP:journals/pvldb/FunkeKN12,
+  author    = {Florian Funke and
+               Alfons Kemper and
+               Thomas Neumann},
+  title     = {Compacting Transactional Data in Hybrid {OLTP} {\&}amp; {OLAP} Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1424-1435},
+}
+
+@article{DBLP:journals/pvldb/HallBBGN12,
+  author    = {Alexander Hall and
+               Olaf Bachmann and
+               Robert B{\"u}ssow and
+               Silviu Ganceanu and
+               Marc Nunkesser},
+  title     = {Processing a Trillion Cells per Mouse Click},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1436-1446},
+}
+
+@article{DBLP:journals/pvldb/PorobicPBTA12,
+  author    = {Danica Porobic and
+               Ippokratis Pandis and
+               Miguel Branco and
+               Pinar T{\"o}z{\"u}n and
+               Anastasia Ailamaki},
+  title     = {{OLTP} on Hardware Islands},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1447-1458},
+}
+
+@article{DBLP:journals/pvldb/PattersonENAA12,
+  author    = {Stacy Patterson and
+               Aaron J. Elmore and
+               Faisal Nawab and
+               Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {Serializability, not Serial: Concurrency Control and Availability in {Multi-Datacenter} Datastores},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1459-1470},
+}
+
+@article{DBLP:journals/pvldb/CheungAMM12,
+  author    = {Alvin Cheung and
+               Owen Arden and
+               Samuel Madden and
+               Andrew C. Myers},
+  title     = {Automatic Partitioning of Database Applications},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1471-1482},
+}
+
+@article{DBLP:journals/pvldb/WangKFF12,
+  author    = {Jiannan Wang and
+               Tim Kraska and
+               Michael J. Franklin and
+               Jianhua Feng},
+  title     = {CrowdER: Crowdsourcing Entity Resolution},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1483-1494},
+}
+
+@article{DBLP:journals/pvldb/CaoSTC12,
+  author    = {Caleb Chen Cao and
+               Jieying She and
+               Yongxin Tong and
+               Lei Chen},
+  title     = {Whom to Ask? Jury Selection for Decision Making Tasks on Micro-blog Services},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1495-1506},
+}
+
+@article{DBLP:journals/pvldb/YangLW12,
+  author    = {Xiaochun Yang and
+               Honglei Liu and
+               Bin Wang},
+  title     = {ALAE: Accelerating Local Alignment with Affine Gap Exactly in Biosequence Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1507-1518},
+}
+
+@article{DBLP:journals/pvldb/CandanRSW12,
+  author    = {K. Sel{\c{c}}uk Candan and
+               Rosaria Rossini and
+               Maria Luisa Sapino and
+               Xiaolan Wang},
+  title     = {sDTW: Computing {DTW} Distances using Locally Relevant Constraints based on Salient Feature Alignments},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1519-1530},
+}
+
+@article{DBLP:journals/pvldb/TauheedHSMA12,
+  author    = {Farhan Tauheed and
+               Thomas Heinis and
+               Felix Sch{\"u}rmann and
+               Henry Markram and
+               Anastasia Ailamaki},
+  title     = {SCOUT: Prefetching for Latent Feature Following Queries},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1531-1542},
+}
+
+@article{DBLP:journals/pvldb/WangHLWZS12,
+  author    = {Kaibo Wang and
+               Yin Huai and
+               Rubao Lee and
+               Fusheng Wang and
+               Xiaodong Zhang and
+               Joel H. Saltz},
+  title     = {Accelerating Pathology Image Data {Cross-Comparison} on {CPU-GPU} Hybrid Systems},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1543-1554},
+}
+
+@article{DBLP:journals/pvldb/LiKNC12,
+  author    = {Jiexing Li and
+               Arnd Christian K{\"o}nig and
+               Vivek R. Narasayya and
+               Surajit Chaudhuri},
+  title     = {Robust Estimation of Resource Consumption for {SQL} Queries using Statistical Techniques},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1555-1566},
+}
+
+@article{DBLP:journals/pvldb/DasTADY12,
+  author    = {Mahashweta Das and
+               Saravanan Thirumuruganathan and
+               Sihem Amer-Yahia and
+               Gautam Das and
+               Cong Yu},
+  title     = {Who Tags What? An Analysis Framework},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1567-1578},
+}
+
+@article{DBLP:journals/pvldb/ZhuKA12,
+  author    = {Haohan Zhu and
+               George Kollios and
+               Vassilis Athitsos},
+  title     = {A Generic Framework for Efficient and Effective Subsequence Retrieval},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1579-1590},
+}
+
+@article{DBLP:journals/pvldb/DittrichQRSJS12,
+  author    = {Jens Dittrich and
+               Jorge-Arnulfo Quian{\'e}-Ruiz and
+               Stefan Richter and
+               Stefan Schuh and
+               Alekh Jindal and
+               J{\"o}rg Schad},
+  title     = {Only Aggressive Elephants are Fast Elephants},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1591-1602},
+}
+
+@article{DBLP:journals/pvldb/LiWC12,
+  author    = {Rui Li and
+               Shengjie Wang and
+               Kevin Chen-Chuan Chang},
+  title     = {Multiple Location Profiling for Users and Relationships from Social Network and Content},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1603-1614},
+}
+
+@article{DBLP:journals/pvldb/KangLM12,
+  author    = {Woon-Hak Kang and
+               Sang-Won Lee and
+               Bongki Moon},
+  title     = {Flash-based Extended Cache for Higher Throughput and Faster Recovery},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1615-1626},
+}
+
+@article{DBLP:journals/pvldb/BenderFJKKMMSSZ12,
+  author    = {Michael A. Bender and
+               Martin Farach-Colton and
+               Rob Johnson and
+               Russell Kraner and
+               Bradley C. Kuszmaul and
+               Dzejla Medjedovic and
+               Pablo Montes and
+               Pradeep Shetty and
+               Richard P. Spillane and
+               Erez Zadok},
+  title     = {Don't Thrash: How to Cache Your Hash on Flash},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1627-1637},
+}
+
+@article{DBLP:journals/pvldb/IseleB12,
+  author    = {Robert Isele and
+               Christian Bizer},
+  title     = {Learning Expressive Linkage Rules using Genetic Programming},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1638-1649},
+}
+
+@article{DBLP:journals/pvldb/TongCCY12,
+  author    = {Yongxin Tong and
+               Lei Chen and
+               Yurong Cheng and
+               Philip S. Yu},
+  title     = {Mining Frequent Itemsets over Uncertain Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1650-1661},
+}
+
+@article{DBLP:journals/pvldb/DallachiesaNMP12,
+  author    = {Michele Dallachiesa and
+               Besmira Nushi and
+               Katsiaryna Mirylenka and
+               Themis Palpanas},
+  title     = {Uncertain {Time-Series} Similarity: Return to the Basics},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1662-1673},
+}
+
+@article{DBLP:journals/pvldb/DasuL12,
+  author    = {Tamraparni Dasu and
+               Ji Meng Loh},
+  title     = {Statistical Distortion: Consequences of Data Cleaning},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1674-1683},
+}
+
+@article{DBLP:journals/pvldb/LangHPST12,
+  author    = {Willis Lang and
+               Stavros Harizopoulos and
+               Jignesh M. Patel and
+               Mehul A. Shah and
+               Dimitris Tsirogiannis},
+  title     = {Towards {Energy-Efficient} Database Cluster Design},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {11},
+  year      = 2012,
+  pages     = {1684-1695},
+}
+
+@article{DBLP:journals/pvldb/Jensen12,
+  author    = {Christian S. Jensen},
+  title     = {Data Management on the Spatial Web},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1696},
+}
+
+@article{DBLP:journals/pvldb/Dietrich12,
+  author    = {Brenda Dietrich},
+  title     = {Data Analytics Opportunities in a Smarter Planet},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1697},
+}
+
+@article{DBLP:journals/pvldb/Sahin12,
+  author    = {Kenan E. Sahin},
+  title     = {Challenges in Economic Massive Content Storage and Management (MCSAM) in the Era of Self-Organizing, {Self-Expanding} and {Self-Linking} Data Clusters},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1698},
+}
+
+@article{DBLP:journals/pvldb/MankuM12,
+  author    = {Gurmeet Singh Manku and
+               Rajeev Motwani},
+  title     = {Approximate Frequency Counts over Data Streams},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1699},
+}
+
+@article{DBLP:journals/pvldb/HellersteinRSWFGNWFLK12,
+  author    = {Joseph M. Hellerstein and
+               Christopher R{\'e} and
+               Florian Schoppmann and
+               Daisy Zhe Wang and
+               Eugene Fratkin and
+               Aleksander Gorajek and
+               Kee Siong Ng and
+               Caleb Welton and
+               Xixuan Feng and
+               Kun Li and
+               Arun Kumar},
+  title     = {The {MADlib} Analytics Library or {MAD} Skills, the {SQL}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1700-1711},
+}
+
+@article{DBLP:journals/pvldb/FloratouTDPZ12,
+  author    = {Avrilia Floratou and
+               Nikhil Teletia and
+               David J. DeWitt and
+               Jignesh M. Patel and
+               Donghui Zhang},
+  title     = {Can the Elephants Handle the {NoSQL} Onslaught?},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1712-1723},
+}
+
+@article{DBLP:journals/pvldb/RablSJGMM12,
+  author    = {Tilmann Rabl and
+               Mohammad Sadoghi and
+               Hans-Arno Jacobsen and
+               Sergio G{\'o}mez-Villamor and
+               Victor Munt{\'e}s-Mulero and
+               Serge Mankowskii},
+  title     = {Solving Big Data Challenges for Enterprise Application Performance Management},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1724-1735},
+}
+
+@article{DBLP:journals/pvldb/ShinnarCHS12,
+  author    = {Avraham Shinnar and
+               David Cunningham and
+               Benjamin Herta and
+               Vijay A. Saraswat},
+  title     = {M3R: Increased performance for in-memory Hadoop jobs},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1736-1747},
+}
+
+@article{DBLP:journals/pvldb/RoschDHF12,
+  author    = {Philipp R{\"o}sch and
+               Lars Dannecker and
+               Gregor Hackenbroich and
+               Franz Faerber},
+  title     = {A Storage Advisor for {Hybrid-Store} Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1748-1758},
+}
+
+@article{DBLP:journals/pvldb/SwitakowskiBZ12,
+  author    = {Michal Switakowski and
+               Peter A. Boncz and
+               Marcin Zukowski},
+  title     = {From Cooperative Scans to Predictive Buffer Management},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1759-1770},
+}
+
+@article{DBLP:journals/pvldb/LeeLLLR12,
+  author    = {George Lee and
+               Jimmy Lin and
+               Chuang Liu and
+               Andrew Lorek and
+               Dmitriy V. Ryaboy},
+  title     = {The Unified Logging Infrastructure for Data Analytics at Twitter},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1771-1780},
+}
+
+@article{DBLP:journals/pvldb/TaliusDDK12,
+  author    = {Tomas Talius and
+               Robin Dhamankar and
+               Andrei Dumitrache and
+               Hanuma Kodavalla},
+  title     = {Transaction Log Based Application Error Recovery and Point {In-Time} Query},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1781-1789},
+}
+
+@article{DBLP:journals/pvldb/LambFVTVDB12,
+  author    = {Andrew Lamb and
+               Matt Fuller and
+               Ramakrishna Varadarajan and
+               Nga Tran and
+               Ben Vandier and
+               Lyric Doshi and
+               Chuck Bear},
+  title     = {The Vertica Analytic Database: {C-Store} 7 Years Later},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1790-1801},
+}
+
+@article{DBLP:journals/pvldb/ChenAK12,
+  author    = {Yanpei Chen and
+               Sara Alspaugh and
+               Randy H. Katz},
+  title     = {Interactive Analytical Processing in Big Data Systems: A {Cross-Industry} Study of {MapReduce} Workloads},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1802-1813},
+}
+
+@article{DBLP:journals/pvldb/LamLPRVD12,
+  author    = {Wang Lam and
+               Lu Liu and
+               STS Prasad and
+               Anand Rajaraman and
+               Zoheb Vacheri and
+               AnHai Doan},
+  title     = {Muppet: {MapReduce-Style} Processing of Fast Data},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1814-1825},
+}
+
+@article{DBLP:journals/pvldb/Jacques-SilvaGWWK12,
+  author    = {Gabriela Jacques-Silva and
+               Bugra Gedik and
+               Rohit Wagle and
+               Kun-Lung Wu and
+               Vibhore Kumar},
+  title     = {Building User-defined Runtime Adaptation Routines for Stream Processing Applications},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1826-1837},
+}
+
+@article{DBLP:journals/pvldb/JiangBCL12,
+  author    = {Junchen Jiang and
+               Hongji Bao and
+               Edward Y. Chang and
+               Yuqian Li},
+  title     = {MOIST: A Scalable and Parallel Moving Object Indexer with School Tracking},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1838-1849},
+}
+
+@article{DBLP:journals/pvldb/PortsG12,
+  author    = {Dan R. K. Ports and
+               Kevin Grittner},
+  title     = {Serializable Snapshot Isolation in {PostgreSQL}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1850-1861},
+}
+
+@article{DBLP:journals/pvldb/MurthyDDHMPRS12,
+  author    = {Karin Murthy and
+               Prasad M. Deshpande and
+               Atreyee Dey and
+               Ramanujam Halasipuram and
+               Mukesh K. Mohania and
+               Deepak P and
+               Jennifer Reed and
+               Scott Schumacher},
+  title     = {Exploiting Evidence from Unstructured Data to Enhance Master Data Management},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1862-1873},
+}
+
+@article{DBLP:journals/pvldb/WuSRKKKS12,
+  author    = {Lili Wu and
+               Roshan Sumbaly and
+               Chris Riccomini and
+               Gordon Koo and
+               Hyung Jin Kim and
+               Jay Kreps and
+               Sam Shah},
+  title     = {Avatara: {OLAP} for Web-scale Analytics Products},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1874-1877},
+}
+
+@article{DBLP:journals/pvldb/KolbTR12,
+  author    = {Lars Kolb and
+               Andreas Thor and
+               Erhard Rahm},
+  title     = {Dedoop: Efficient Deduplication with Hadoop},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1878-1881},
+}
+
+@article{DBLP:journals/pvldb/LiuTP12,
+  author    = {Xiufeng Liu and
+               Christian Thomsen and
+               Torben Bach Pedersen},
+  title     = {{MapReduce-based} Dimensional {ETL} Made Easy},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1882-1885},
+}
+
+@article{DBLP:journals/pvldb/XuLGC12,
+  author    = {Huiqi Xu and
+               Zhen Li and
+               Shumin Guo and
+               Keke Chen},
+  title     = {CloudVista: Interactive and Economical Visual Cluster Analysis for Big Data in the Cloud},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1886-1889},
+}
+
+@article{DBLP:journals/pvldb/AlexandrovTM12,
+  author    = {Alexander Alexandrov and
+               Kostas Tzoumas and
+               Volker Markl},
+  title     = {Myriad: Scalable and Expressive Data Generation},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1890-1893},
+}
+
+@article{DBLP:journals/pvldb/WuMS12,
+  author    = {Eugene Wu and
+               Samuel Madden and
+               Michael Stonebraker},
+  title     = {A Demonstration of DBWipes: Clean as You Query},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1894-1897},
+}
+
+@article{DBLP:journals/pvldb/AlsubaieeAABBBCGHKLOPVW12,
+  author    = {Sattam Alsubaiee and
+               Yasser Altowim and
+               Hotham Altwaijry and
+               Alexander Behm and
+               Vinayak R. Borkar and
+               Yingyi Bu and
+               Michael J. Carey and
+               Raman Grover and
+               Zachary Heilbron and
+               Young-Seok Kim and
+               Chen Li and
+               Nicola Onose and
+               Pouria Pirzadeh and
+               Rares Vernica and
+               Jian Wen},
+  title     = {ASTERIX: An Open Source System for {\&}quot;Big Data{\&}quot; Management and Analysis},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1898-1901},
+}
+
+@article{DBLP:journals/pvldb/AgarwalPMIMS12,
+  author    = {Sameer Agarwal and
+               Aurojit Panda and
+               Barzan Mozafari and
+               Anand P. Iyer and
+               Samuel Madden and
+               Ion Stoica},
+  title     = {Blink and It's Done: Interactive Queries on Very Large Data},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1902-1905},
+}
+
+@article{DBLP:journals/pvldb/RoyDMSW12,
+  author    = {Abhishek Roy and
+               Yanlei Diao and
+               Evan Mauceli and
+               Yiping Shen and
+               Bai-Lin Wu},
+  title     = {Massive Genomic Data Processing and Deep Analysis},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1906-1909},
+}
+
+@article{DBLP:journals/pvldb/LiarouIMK12,
+  author    = {Erietta Liarou and
+               Stratos Idreos and
+               Stefan Manegold and
+               Martin L. Kersten},
+  title     = {MonetDB/DataCell: Online Analytics in a Streaming {Column-Store}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1910-1913},
+}
+
+@article{DBLP:journals/pvldb/CaoCJNOPW12,
+  author    = {Xin Cao and
+               Gao Cong and
+               Christian S. Jensen and
+               Jun Jie Ng and
+               Beng Chin Ooi and
+               Nhan-Tue Phan and
+               Dingming Wu},
+  title     = {SWORS: A System for the Efficient Retrieval of Relevant Spatial Web Objects},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1914-1917},
+}
+
+@article{DBLP:journals/pvldb/MorishimaSMAF12,
+  author    = {Atsuyuki Morishima and
+               Norihide Shinagawa and
+               Tomomi Mitsuishi and
+               Hideto Aoki and
+               Shun Fukusumi},
+  title     = {CyLog/Crowd4U: A Declarative Platform for Complex Data-centric Crowdsourcing},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1918-1921},
+}
+
+@article{DBLP:journals/pvldb/SilvaP12,
+  author    = {Yasin N. Silva and
+               Spencer Pearson},
+  title     = {Exploiting Database Similarity Joins for Metric Spaces},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1922-1925},
+}
+
+@article{DBLP:journals/pvldb/GawadeK12,
+  author    = {Mrunal Gawade and
+               Martin L. Kersten},
+  title     = {Stethoscope: A platform for interactive visual analysis of query execution plans},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1926-1929},
+}
+
+@article{DBLP:journals/pvldb/KotsifakosPHGAK12,
+  author    = {Alexios Kotsifakos and
+               Panagiotis Papapetrou and
+               Jaakko Hollm{\'e}n and
+               Dimitrios Gunopulos and
+               Vassilis Athitsos and
+               George Kollios},
+  title     = {Hum-a-song: A Subsequence Matching with {Gaps-Range-Tolerances} {Query-By-Humming} System},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1930-1933},
+}
+
+@article{DBLP:journals/pvldb/KwonBHR12,
+  author    = {YongChul Kwon and
+               Magdalena Balazinska and
+               Bill Howe and
+               Jerome A. Rolia},
+  title     = {{SkewTune} in Action: Mitigating Skew in {MapReduce} Applications},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1934-1937},
+}
+
+@article{DBLP:journals/pvldb/AbouziedHS12,
+  author    = {Azza Abouzied and
+               Joseph M. Hellerstein and
+               Avi Silberschatz},
+  title     = {Playful Query Specification with {DataPlay}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1938-1941},
+}
+
+@article{DBLP:journals/pvldb/AlagiannisBBIA12,
+  author    = {Ioannis Alagiannis and
+               Renata Borovica and
+               Miguel Branco and
+               Stratos Idreos and
+               Anastasia Ailamaki},
+  title     = {{NoDB} in Action: Adaptive Query Processing on Raw Data},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1942-1945},
+}
+
+@article{DBLP:journals/pvldb/WenzelEMK12,
+  author    = {Florian Wenzel and
+               Markus Endres and
+               Stefan Mandl and
+               Werner Kie{\ss}ling},
+  title     = {Complex Preference Queries Supporting Spatial Applications for User Groups},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1946-1949},
+}
+
+@article{DBLP:journals/pvldb/BakibayevOZ12a,
+  author    = {Nurzhan Bakibayev and
+               Dan Olteanu and
+               Jakub Zavodny},
+  title     = {Demonstration of the {FDB} Query Engine for Factorised Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1950-1953},
+}
+
+@article{DBLP:journals/pvldb/XuTW12,
+  author    = {Zichen Xu and
+               Yi-Cheng Tu and
+               Xiaorui Wang},
+  title     = {PET: Reducing Database Energy Cost via Query Optimization},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1954-1957},
+}
+
+@article{DBLP:journals/pvldb/LetelierPPS12,
+  author    = {Andr{\'e}s Letelier and
+               Jorge P{\'e}rez and
+               Reinhard Pichler and
+               Sebastian Skritek},
+  title     = {SPAM: A {SPARQL} Analysis and Manipulation Tool},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1958-1961},
+}
+
+@article{DBLP:journals/pvldb/KoutrisUBHS12,
+  author    = {Paraschos Koutris and
+               Prasang Upadhyaya and
+               Magdalena Balazinska and
+               Bill Howe and
+               Dan Suciu},
+  title     = {{QueryMarket} Demonstration: Pricing for Online Data Markets},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1962-1965},
+}
+
+@article{DBLP:journals/pvldb/LuoLZCG12,
+  author    = {Siqiang Luo and
+               Yifeng Luo and
+               Shuigeng Zhou and
+               Gao Cong and
+               Jihong Guan},
+  title     = {DISKs: A System for Distributed Spatial Group Keyword Search on Road Networks},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1966-1969},
+}
+
+@article{DBLP:journals/pvldb/EndrullisTR12,
+  author    = {Stefan Endrullis and
+               Andreas Thor and
+               Erhard Rahm},
+  title     = {WETSUIT: An Efficient Mashup Tool for Searching and Fusing Web Entities},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1970-1973},
+}
+
+@article{DBLP:journals/pvldb/KhalefaFPL12,
+  author    = {Mohamed E. Khalefa and
+               Ulrike Fischer and
+               Torben Bach Pedersen and
+               Wolfgang Lehner},
+  title     = {Model-based Integration of Past {\&}amp; Future in {TimeTravel}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1974-1977},
+}
+
+@article{DBLP:journals/pvldb/EberiusTBL12,
+  author    = {Julian Eberius and
+               Maik Thiele and
+               Katrin Braunschweig and
+               Wolfgang Lehner},
+  title     = {DrillBeyond: Enabling Business Analysts to Explore the Web of Open Data},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1978-1981},
+}
+
+@article{DBLP:journals/pvldb/NakasholeWS12,
+  author    = {Ndapandula Nakashole and
+               Gerhard Weikum and
+               Fabian M. Suchanek},
+  title     = {Discovering and Exploring Relations on the Web},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1982-1985},
+}
+
+@article{DBLP:journals/pvldb/ThirumuruganathanDDADY12,
+  author    = {Saravanan Thirumuruganathan and
+               Mahashweta Das and
+               Shrikant Desai and
+               Sihem Amer-Yahia and
+               Gautam Das and
+               Cong Yu},
+  title     = {MapRat: Meaningful Explanation, Interactive Exploration and {Geo-Visualization} of Collaborative Ratings},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1986-1989},
+}
+
+@article{DBLP:journals/pvldb/ParkPPGPW12,
+  author    = {Hyunjung Park and
+               Richard Pang and
+               Aditya G. Parameswaran and
+               Hector Garcia-Molina and
+               Neoklis Polyzotis and
+               Jennifer Widom},
+  title     = {Deco: A System for Declarative Crowdsourcing},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1990-1993},
+}
+
+@article{DBLP:journals/pvldb/MartensNNS12,
+  author    = {Wim Martens and
+               Frank Neven and
+               Matthias Niewerth and
+               Thomas Schwentick},
+  title     = {Developing and Analyzing {XSDs} through {BonXai}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1994-1997},
+}
+
+@article{DBLP:journals/pvldb/ElmoreDAA12,
+  author    = {Aaron J. Elmore and
+               Sudipto Das and
+               Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {InfoPuzzle: Exploring Group Decision Making in Mobile {Peer-to-Peer} Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {1998-2001},
+}
+
+@article{DBLP:journals/pvldb/XuG12,
+  author    = {Jianqiu Xu and
+               Ralf Hartmut G{\"u}ting},
+  title     = {Manage and Query Generic Moving Objects in {SECONDO}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2002-2005},
+}
+
+@article{DBLP:journals/pvldb/LiWTDLMS12,
+  author    = {Pei Li and
+               Haidong Wang and
+               Christina Tziviskou and
+               Xin Luna Dong and
+               Xiaoguang Liu and
+               Andrea Maurino and
+               Divesh Srivastava},
+  title     = {Chronos: Facilitating History Discovery by Linking Temporal Records},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2006-2009},
+}
+
+@article{DBLP:journals/pvldb/KoubarakisKKNVGSBMKPHMKIPZDSDEMGSPRKG12,
+  author    = {Manolis Koubarakis and
+               Kostis Kyzirakos and
+               Manos Karpathiotakis and
+               Charalampos Nikolaou and
+               Stavros Vassos and
+               George Garbis and
+               Michael Sioutis and
+               Konstantina Bereta and
+               Dimitrios Michail and
+               Charalambos Kontoes and
+               Ioannis Papoutsis and
+               Themos Herekakis and
+               Stefan Manegold and
+               Martin L. Kersten and
+               Milena Ivanova and
+               Holger Pirk and
+               Ying Zhang and
+               Mihai Datcu and
+               Gottfried Schwarz and
+               Corneliu Dumitru and
+               Daniela Espinoza-Molina and
+               Katrin Molch and
+               Ugo Di Giammatteo and
+               Manuela Sagona and
+               Sergio Perelli and
+               Thorsten Reitz and
+               Eva Klien and
+               Robert Gregor},
+  title     = {TELEIOS: A {Database-Powered} Virtual Earth Observatory},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2010-2013},
+}
+
+@article{DBLP:journals/pvldb/DittrichQ12,
+  author    = {Jens Dittrich and
+               Jorge-Arnulfo Quian{\'e}-Ruiz},
+  title     = {Efficient Big Data Processing in Hadoop {MapReduce}},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2014-2015},
+}
+
+@article{DBLP:journals/pvldb/Shim12,
+  author    = {Kyuseok Shim},
+  title     = {{MapReduce} Algorithms for Big Data Analysis},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2016-2017},
+}
+
+@article{DBLP:journals/pvldb/GetoorM12,
+  author    = {Lise Getoor and
+               Ashwin Machanavajjhala},
+  title     = {Entity Resolution: Theory, Practice {\&}amp; Open Challenges},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2018-2019},
+}
+
+@article{DBLP:journals/pvldb/Schindler12,
+  author    = {Jiri Schindler},
+  title     = {I/O Characteristics of {NoSQL} Databases},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2020-2021},
+}
+
+@article{DBLP:journals/pvldb/SunHYY12,
+  author    = {Yizhou Sun and
+               Jiawei Han and
+               Xifeng Yan and
+               Philip S. Yu},
+  title     = {Mining Knowledge from Interconnected Data: A Heterogeneous Information Network Analysis Approach},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2022-2023},
+}
+
+@article{DBLP:journals/pvldb/PrakashF12,
+  author    = {B. Aditya Prakash and
+               Christos Faloutsos},
+  title     = {Understanding and Managing Cascades on Large Graphs},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2024-2025},
+}
+
+@article{DBLP:journals/pvldb/Dogac12,
+  author    = {Asuman Dogac},
+  title     = {Interoperability in {eHealth} Systems (Invited Tutorial)},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2026-2027},
+}
+
+@article{DBLP:journals/pvldb/AgrawalAW12,
+  author    = {Divyakant Agrawal and
+               Amr El Abbadi and
+               Shiyuan Wang},
+  title     = {Secure and {Privacy-Preserving} Data Services in the Cloud: A Data Centric View},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2028-2029},
+}
+
+@article{DBLP:journals/pvldb/GuhaM12,
+  author    = {Sudipto Guha and
+               Andrew McGregor},
+  title     = {Graph Synopses, Sketches, and Streams: A Survey},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2030-2031},
+}
+
+@article{DBLP:journals/pvldb/LabrinidisJ12,
+  author    = {Alexandros Labrinidis and
+               H. V. Jagadish},
+  title     = {Challenges and Opportunities with Big Data},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2032-2033},
+}
+
+@article{DBLP:journals/pvldb/AbbadiM12,
+  author    = {Amr El Abbadi and
+               Mohamed F. Mokbel},
+  title     = {Social Networks and Mobility in the Cloud},
+  journal   = pvldb,
+  volume    = {5},
+  number    = {12},
+  year      = 2012,
+  pages     = {2034-2035},
 }
 
 @article{DBLP:journals/pvldb/Cetintemel11,
@@ -6734,7 +8638,7 @@
 
 @article{DBLP:journals/pvldb/BhideABPMV09,
   author    = {Manish Bhide and
-               Manoj Agarwal and
+               Manoj K. Agarwal and
                Amir Bar-Or and
                Sriram Padmanabhan and
                Srinivas Mittapalli and

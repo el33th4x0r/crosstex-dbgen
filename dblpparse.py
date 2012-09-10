@@ -237,10 +237,6 @@ class Conference(CitationContainer):
         self._out.flush()
 
     def write_citation(self, fout):
-        templ = '''\n@%s{%s,
-  shortname = "%s",
-  longname  = "%s",
-%s}\n'''
         years = self._years.copy()
         years.update(overrides.CONFERENCE_LOCATIONS.get(self._slug, {}))
         yearsstr = ''
@@ -249,7 +245,17 @@ class Conference(CitationContainer):
                 print 'WARNING:  conference "%s" missing information for year %i' % (self._slug, year)
             else:
                 yearsstr += '  [year=%04i] address=%s, month=%s,\n' % (year, addr, mon)
-        citation = templ % (self._citetype, self._slug, self._shortname, self._longname, yearsstr)
+        if self._shortname == self._longname:
+            templ = '''\n@%s{%s,
+  name = "%s",
+%s}\n'''
+            citation = templ % (self._citetype, self._slug, self._shortname, yearsstr)
+        else:
+            templ = '''\n@%s{%s,
+  shortname = "%s",
+  longname  = "%s",
+%s}\n'''
+            citation = templ % (self._citetype, self._slug, self._shortname, self._longname, yearsstr)
         fout.write(citation)
 
     def _extract_year(self, citekey, citeattrs):
@@ -435,7 +441,8 @@ class DBLPProcessor:
         self._filters.add(slug)
         self._filters.add(shortname)
 
-    def add_workshop(self, slug, shortname, longname, booktitle=None, dblpslug=None):
+    def add_workshop(self, slug, shortname, longname=None, conf=None, booktitle=None, dblpslug=None):
+        longname = longname or shortname
         key = ('proceedings', 'conf', booktitle or shortname, dblpslug or slug)
         out = os.path.join(self._outdir, slug + '.xtx')
         conf = Conference(out, slug, shortname, longname, booktitle, 'workshop')
@@ -499,6 +506,7 @@ class DBLPProcessor:
             for key in self._conference_keys:
                 self._proceedings[key].write_citation(fout)
         with open(os.path.join(self._outdir, 'workshops-cs.xtx'), 'w') as fout:
+            fout.write('@include conferences-cs\n@include workshops-cs-todo\n')
             for key in self._workshop_keys:
                 self._proceedings[key].write_citation(fout)
         with open(os.path.join(self._outdir, 'journals-cs.xtx'), 'w') as fout:
@@ -565,12 +573,15 @@ class DBLPProcessor:
 
 
 d = DBLPProcessor('dblp.xml', 'dblp.xml.pp', 'xtx')
-#d.add_conference('cikm',        'CIKM', 'International Conference on Information and Knowledge Management')
+d.add_conference('cikm',        'CIKM', 'International Conference on Information and Knowledge Management')
 d.add_conference('eurosys',     'EuroSys', 'European Conference on Computer Systems')
 d.add_conference('focs',        'FOCS', 'Symposium on Foundations of Computer Science')
 d.add_conference('fast',        'FAST', 'Conference on File and Storage Technologies')
 d.add_conference('icdcs',       'ICDCS', 'International Conference on Distributed Computing Systems')
-d.add_conference('ipps',        'IPPS', 'International Parallel Processing Symposium')
+d.add_conference('infocom',     'INFOCOM', 'IEEE International Conference on Computer Communications')
+d.add_conference('ipdps',       'IPDPS', 'International Parallel and Distributed Processing Symposium', dblpslug='ipps', dblpname='IPDPS')
+d.add_conference('ipps',        'IPPS', 'International Parallel Processing Symposium', dblpname='IPPS')
+d.add_conference('mobicom',     'MOBICOM', 'International Conference on Mobile Computing and Networking')
 d.add_conference('nsdi',        'NSDI', 'Symposium on Networked System Design and Implementation')
 d.add_conference('osdi',        'OSDI', 'Symposium on Operating System Design and Implementation')
 d.add_conference('pldi',        'PLDI', 'SIGPLAN Conference on Programming Language Design and Implementation')
@@ -583,13 +594,15 @@ d.add_conference('socc',        'SoCC', 'Symposium on Cloud Computing', dblpslug
 d.add_conference('soda',        'SODA', 'Symposium on Discrete Algorithms')
 d.add_conference('sosp',        'SOSP', 'Symposium on Operating Systems Principles')
 d.add_conference('stoc',        'STOC', 'ACM Symposium on Theory of Computing')
+d.add_conference('sacmat',      'SACMAT', 'ACM Symposium on Access Control Models and Technologies')
+d.add_conference('saint',       'SAINT', 'International Symposium on Applications and the Internet')
 d.add_conference('wwca',        'WWCA', 'Worldwide Computing and its Applications')
+d.add_workshop('esigops',       'ESIGOPS Workshop', 'European SIGOPS Workshop', dblpslug='sigopsE', booktitle='ACM SIGOPS European Workshop')
 d.add_workshop('grid',          'GRID Workshop', 'International Workshop on Grid Computing', booktitle='GRID')
 d.add_workshop('hotnets',       'HotNets Workshop', 'Workshop on Hot Topics in Networks', booktitle='HotNets')
 d.add_workshop('hotos',         'HotOS Workshop', 'Workshop on Hot Topics in Operating Systems', booktitle='HotOS')
 d.add_workshop('iptps',         'IPTPS Workshop', 'International Workshop on Peer-to-Peer Systems', booktitle='IPTPS')
 d.add_workshop('webdb',         'WebDB Workshop', 'International Workshop on the Web and Databases', booktitle='WebDB')
-
 # ACM publications
 d.add_journal('acmcs',          'ACM Computing Surveys', dblpname='ACM Comput. Surv.', dblpslug='csur')
 d.add_journal('cacm',           'CACM', 'Communications of the ACM', dblpname='Commun. ACM')

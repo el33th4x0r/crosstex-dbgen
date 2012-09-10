@@ -1,5 +1,641 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/mobicom/Akyildiz12,
+  author    = {Ian F. Akyildiz},
+  title     = {Nanonetworks: a new frontier in communications},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/mobicom/Kumar12,
+  author    = {P. R. Kumar},
+  title     = {Three theories for delays, clocks and security in wireless networks},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {3-4},
+}
+
+@inproceedings{DBLP:conf/mobicom/GudipatiPK12,
+  author    = {Aditya Gudipati and
+               Stephanie Pereira and
+               Sachin Katti},
+  title     = {AutoMAC: rateless wireless concurrent medium access},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {5-16},
+}
+
+@inproceedings{DBLP:conf/mobicom/IannucciPBS12,
+  author    = {Peter Anthony Iannucci and
+               Jonathan Perry and
+               Hari Balakrishnan and
+               Devavrat Shah},
+  title     = {No symbol left behind: a link-layer protocol for rateless codes},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {17-28},
+}
+
+@inproceedings{DBLP:conf/mobicom/ShenTLLGKC12,
+  author    = {Wei-Liang Shen and
+               Yu-Chih Tung and
+               Kuang-Che Lee and
+               Kate Ching-Ju Lin and
+               Shyamnath Gollakota and
+               Dina Katabi and
+               Ming-Syan Chen},
+  title     = {Rate adaptation for 802.11 multiuser mimo networks},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {29-40},
+}
+
+@inproceedings{DBLP:conf/mobicom/BalanRMPC12,
+  author    = {Horia Vlad Balan and
+               Ryan Rogalin and
+               Antonios Michaloliakos and
+               Konstantinos Psounis and
+               Giuseppe Caire},
+  title     = {Achieving high data rates in a distributed {MIMO} system},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {41-52},
+}
+
+@inproceedings{DBLP:conf/mobicom/ShepardYALMYZ12,
+  author    = {Clayton Shepard and
+               Hang Yu and
+               Narendra Anand and
+               Erran Li and
+               Thomas L. Marzetta and
+               Richard Yang and
+               Lin Zhong},
+  title     = {Argos: practical many-antenna base stations},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {53-64},
+}
+
+@inproceedings{DBLP:conf/mobicom/MagistrettiGK12,
+  author    = {Eugenio Magistretti and
+               Omer Gurewitz and
+               Edward W. Knightly},
+  title     = {802.11ec: collision avoidance without control messages},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {65-76},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChangHL12,
+  author    = {Sang-Yoon Chang and
+               Yih-Chun Hu and
+               Nicola Laurenti},
+  title     = {SimpleMAC: a jamming-resilient {MAC-layer} protocol for wireless channel coordination},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {77-88},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZhangSTCZZ12,
+  author    = {Jiansong Zhang and
+               Haichen Shen and
+               Kun Tan and
+               Ranveer Chandra and
+               Yongguang Zhang and
+               Qian Zhang},
+  title     = {Frame retransmissions considered harmful: improving spectrum efficiency using {Micro-ACKs}},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {89-100},
+}
+
+@inproceedings{DBLP:conf/mobicom/AthivarapuBGNRAPV12,
+  author    = {Pavan K. Athivarapu and
+               Ranjita Bhagwan and
+               Saikat Guha and
+               Vishnu Navda and
+               Ramachandran Ramjee and
+               Dushyant Arora and
+               Venkat N. Padmanabhan and
+               George Varghese},
+  title     = {RadioJockey: mining program execution to optimize cellular radio usage},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {101-112},
+}
+
+@inproceedings{DBLP:conf/mobicom/PengTLL12,
+  author    = {Chunyi Peng and
+               Guan-hua Tu and
+               Chi-Yu Li and
+               Songwu Lu},
+  title     = {Can we pay for what we get in 3G data access?},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {113-124},
+}
+
+@inproceedings{DBLP:conf/mobicom/BhaumikCJKMPSW12,
+  author    = {Sourjya Bhaumik and
+               Shoban Preeth Chandrabose and
+               Manjunath Kashyap Jataprolu and
+               Gautam Kumar and
+               Anand Muralidhar and
+               Paul A. Polakos and
+               Vikram Srinivasan and
+               Thomas Woo},
+  title     = {CloudIQ: a framework for processing base stations in a data center},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {125-136},
+}
+
+@inproceedings{DBLP:conf/mobicom/WeiGNF12,
+  author    = {Xuetao Wei and
+               Lorenzo Gomez and
+               Iulian Neamtiu and
+               Michalis Faloutsos},
+  title     = {ProfileDroid: multi-layer profiling of android applications},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {137-148},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChaiLLES12,
+  author    = {Eugene Chai and
+               Jeongkeun Lee and
+               Sung-Ju Lee and
+               Ra{\'u}l H. Etkin and
+               Kang G. Shin},
+  title     = {Building efficient spectrum-agile devices for dummies},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {149-160},
+}
+
+@inproceedings{DBLP:conf/mobicom/SanadhyaSKCLS12,
+  author    = {Shruti Sanadhya and
+               Raghupathy Sivakumar and
+               Kyu-Han Kim and
+               Paul Congdon and
+               Sriram Lakshmanan and
+               Jatinder Pal Singh},
+  title     = {Asymmetric caching: improved network deduplication for mobile devices},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {161-172},
+}
+
+@inproceedings{DBLP:conf/mobicom/YangXFT12,
+  author    = {Dejun Yang and
+               Guoliang Xue and
+               Xi Fang and
+               Jian Tang},
+  title     = {Crowdsourcing to smartphones: incentive mechanism design for mobile phone sensing},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {173-184},
+}
+
+@inproceedings{DBLP:conf/mobicom/BakhtTK12,
+  author    = {Mehedi Bakht and
+               Matt Trower and
+               Robin Hillary Kravets},
+  title     = {Searchlight: won't you be my neighbor?},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {185-196},
+}
+
+@inproceedings{DBLP:conf/mobicom/VuBGGHLSW12,
+  author    = {Tam Vu and
+               Akash Baid and
+               Simon Gao and
+               Marco Gruteser and
+               Richard Howard and
+               Janne Lindqvist and
+               Predrag Spasojevic and
+               Jeffrey Walling},
+  title     = {Distinguishing users with capacitive touch communication},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {197-208},
+}
+
+@inproceedings{DBLP:conf/mobicom/YoonZBR12,
+  author    = {Jongwon Yoon and
+               Honghai Zhang and
+               Suman Banerjee and
+               Sampath Rangarajan},
+  title     = {MuVi: a multicast video delivery scheme for 4g cellular networks},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {209-220},
+}
+
+@inproceedings{DBLP:conf/mobicom/ChanPBM12,
+  author    = {An (Jack) Chan and
+               Amit Pande and
+               Eilwoo Baik and
+               Prasant Mohapatra},
+  title     = {Temporal quality assessment for mobile videos},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {221-232},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiuHPWZ12,
+  author    = {Xiao Lin Liu and
+               Wenjun Hu and
+               Qifan Pu and
+               Feng Wu and
+               Yongguang Zhang},
+  title     = {ParCast: soft video delivery in {MIMO-OFDM} {WLANs}},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {233-244},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiBLS12,
+  author    = {Dong Li and
+               Tarun Bansal and
+               Zhixue Lu and
+               Prasun Sinha},
+  title     = {MARVEL: multiple antenna based relative vehicle localizer},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {245-256},
+}
+
+@inproceedings{DBLP:conf/mobicom/AryafarKSRC12,
+  author    = {Ehsan Aryafar and
+               Mohammad Ali Khojastepour and
+               Karthikeyan Sundaresan and
+               Sampath Rangarajan and
+               Mung Chiang},
+  title     = {MIDU: enabling {MIMO} full duplex},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {257-268},
+}
+
+@inproceedings{DBLP:conf/mobicom/YangWL12,
+  author    = {Zheng Yang and
+               Chenshu Wu and
+               Yunhao Liu},
+  title     = {Locating in fingerprint space: wireless indoor localization with little human intervention},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {269-280},
+}
+
+@inproceedings{DBLP:conf/mobicom/NandakumarCP12,
+  author    = {Rajalakshmi Nandakumar and
+               Krishna Kant Chintalapudi and
+               Venkata N. Padmanabhan},
+  title     = {Centaur: locating devices in an office environment},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {281-292},
+}
+
+@inproceedings{DBLP:conf/mobicom/RaiCPS12,
+  author    = {Anshul Rai and
+               Krishna Kant Chintalapudi and
+               Venkata N. Padmanabhan and
+               Rijurekha Sen},
+  title     = {Zee: zero-effort crowdsourcing for indoor localization},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {293-304},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiuGYSWCY12,
+  author    = {Hongbo Liu and
+               Yu Gan and
+               Jie Yang and
+               Simon Sidhom and
+               Yan Wang and
+               Yingying Chen and
+               Fan Ye},
+  title     = {Push the limit of {WiFi} based localization for smartphones},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {305-316},
+}
+
+@inproceedings{DBLP:conf/mobicom/MittalKC12,
+  author    = {Radhika Mittal and
+               Aman Kansal and
+               Ranveer Chandra},
+  title     = {Empowering developers to estimate app energy consumption},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {317-328},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiCLLLL12,
+  author    = {Zhenjiang Li and
+               Wenwei Chen and
+               Cheng Li and
+               Mo Li and
+               Xiang-Yang Li and
+               Yunhao Liu},
+  title     = {FLIGHT: clock calibration using fluorescent lighting},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {329-340},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiPLW12,
+  author    = {Chi-Yu Li and
+               Chunyi Peng and
+               Songwu Lu and
+               Xinbing Wang},
+  title     = {Energy-based rate adaptation for 802.11n},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {341-352},
+}
+
+@inproceedings{DBLP:conf/mobicom/HassaniehAKI12,
+  author    = {Haitham Hassanieh and
+               Fadel Adib and
+               Dina Katabi and
+               Piotr Indyk},
+  title     = {Faster {GPS} via the sparse fourier transform},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {353-364},
+}
+
+@inproceedings{DBLP:conf/mobicom/ShahzadL12,
+  author    = {Muhammad Shahzad and
+               Alex X. Liu},
+  title     = {Every bit counts: fast and scalable {RFID} estimation},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {365-376},
+}
+
+@inproceedings{DBLP:conf/mobicom/WhitbeckACG12,
+  author    = {John Whitbeck and
+               Marcelo Dias de Amorim and
+               Vania Conan and
+               Jean-Loup Guillaume},
+  title     = {Temporal reachability graphs},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {377-388},
+}
+
+@inproceedings{DBLP:conf/mobicom/SegataDCG12,
+  author    = {Michele Segata and
+               Falko Dressler and
+               Renato Lo Cigno and
+               Mario Gerla},
+  title     = {A simulation tool for automated platooning in mixed highway scenarios},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {389-392},
+}
+
+@inproceedings{DBLP:conf/mobicom/VestinDKBEP12,
+  author    = {Jonathan Vestin and
+               Peter Dely and
+               Andreas Kassler and
+               Nico Bayer and
+               Hans Joachim Einsiedler and
+               Christoph Peylo},
+  title     = {CloudMAC: torwards software defined {WLANs}},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {393-396},
+}
+
+@inproceedings{DBLP:conf/mobicom/Kononenko12,
+  author    = {Kirill Kononenko},
+  title     = {A unified approach to identifying and healing vulnerabilities in x86 machine code},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {397-398},
+}
+
+@inproceedings{DBLP:conf/mobicom/IrwinVM12,
+  author    = {Daniel Irwin and
+               Hrishikesh Venkataraman and
+               Gabriel-Miro Muntean},
+  title     = {An energy-efficient architecture for multi-hop communication between rovers and satellites in extra-terrestrial surfaces},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {399-402},
+}
+
+@inproceedings{DBLP:conf/mobicom/BloesslJMD12,
+  author    = {Bastian Bloessl and
+               Stefan Joerer and
+               Fabian Mauroner and
+               Falko Dressler},
+  title     = {Low-cost interferer detection and classification using {TelosB} sensor motes},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {403-406},
+}
+
+@inproceedings{DBLP:conf/mobicom/TuncayBH12,
+  author    = {Guliz Seray Tuncay and
+               Giacomo Benincasa and
+               Ahmed Helmy},
+  title     = {Autonomous and distributed recruitment and data collection framework for opportunistic sensing},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {407-410},
+}
+
+@inproceedings{DBLP:conf/mobicom/CetinkayaRJAZBPNPGS12,
+  author    = {Egemen K. {\c{C}}etinkaya and
+               Justin P. Rohrer and
+               Abdul Jabbar and
+               Mohammed J. F. Alenazi and
+               Dongsheng Zhang and
+               Dan Broyles and
+               Kamakshi Sirisha Pathapati and
+               Hemanth Narra and
+               Kevin Peters and
+               Santosh Ajith Gogi and
+               James P. G. Sterbenz},
+  title     = {Protocols for highly-dynamic airborne networks},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {411-414},
+}
+
+@inproceedings{DBLP:conf/mobicom/CrepaldiBESJBK12,
+  author    = {Riccardo Crepaldi and
+               Ryan Beavers and
+               Braden Ehrat and
+               Jason Sze and
+               Matt Jaeger and
+               Steven Biersteker and
+               Robin Kravets},
+  title     = {LoadingZones: leveraging street parking to enable vehicular internet access},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {415-418},
+}
+
+@inproceedings{DBLP:conf/mobicom/SongLMV12,
+  author    = {Yuning Song and
+               Liang Liu and
+               Huadong Ma and
+               Athanasios V. Vasilakos},
+  title     = {Physarum optimization: a new heuristic algorithm to minimal exposure problem},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {419-422},
+}
+
+@inproceedings{DBLP:conf/mobicom/ZhangGBCS12,
+  author    = {Dongsheng Zhang and
+               Santosh Ajith Gogi and
+               Dan Broyles and
+               Egemen K. {\c{C}}etinkaya and
+               James P. G. Sterbenz},
+  title     = {Modelling wireless challenges},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {423-426},
+}
+
+@inproceedings{DBLP:conf/mobicom/Grossmann12,
+  author    = {Marcel Gro{\ss}mann},
+  title     = {Proximity enhanced mobile D2D video streaming},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {427-430},
+}
+
+@inproceedings{DBLP:conf/mobicom/PushpCHLSC12,
+  author    = {Saumay Pushp and
+               Tae Hun Cho and
+               Jongwon Han and
+               Dongman Lee and
+               Junehwa Song and
+               Sunghee Choi},
+  title     = {An efficient way to track peers in mobile P2P network},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {431-434},
+}
+
+@inproceedings{DBLP:conf/mobicom/SegawaSYT12,
+  author    = {Norihisa Segawa and
+               Jun Sawamoto and
+               Masato Yazawa and
+               Haruo Tamaki},
+  title     = {A marine experiment of a long distance communication sensor network -{MAD-SS-}},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {435-438},
+}
+
+@inproceedings{DBLP:conf/mobicom/AltintasIKTOFYATTO12,
+  author    = {Onur Altintas and
+               Yutaka Ihara and
+               Haris Kremo and
+               Hideaki Tanaka and
+               Masaaki Ohtake and
+               Takeo Fujii and
+               Chikara Yoshimura and
+               Keisuke Ando and
+               Kazuya Tsukamoto and
+               Masato Tsuru and
+               Yuji Oie},
+  title     = {Field tests and indoor emulation of distributed autonomous multi-hop vehicle-to-vehicle communications over {TV} white space},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {439-442},
+}
+
+@inproceedings{DBLP:conf/mobicom/MorgenrothSW12,
+  author    = {Johannes Morgenroth and
+               Sebastian Schildt and
+               Lars C. Wolf},
+  title     = {A bundle protocol implementation for android devices},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {443-446},
+}
+
+@inproceedings{DBLP:conf/mobicom/CostantinoMSA12,
+  author    = {Gianpiero Costantino and
+               Fabio Martinelli and
+               Paolo Santi and
+               Dario Amoruso},
+  title     = {An implementation of secure two-party computation for smartphones with application to privacy-preserving interest-cast},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {447-450},
+}
+
+@inproceedings{DBLP:conf/mobicom/WirtzMGW12,
+  author    = {Hanno Wirtz and
+               David Martin and
+               Benjamin Grap and
+               Klaus Wehrle},
+  title     = {On-demand content-centric wireless networking},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {451-454},
+}
+
+@inproceedings{DBLP:conf/mobicom/SuzukiZKY12,
+  author    = {Noriyuki Suzuki and
+               Jane Louie Fresco Zamora and
+               Shigeru Kashihara and
+               Suguru Yamaguchi},
+  title     = {Using {SOS} message propagation to estimate the location of immobilized persons},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {455-458},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiBLS12a,
+  author    = {Dong Li and
+               Tarun Bansal and
+               Zhixue Lu and
+               Prasun Sinha},
+  title     = {MARVEL: multiple antenna based relative vehicle localizer},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {459-462},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiLCDLLL12,
+  author    = {Zhenjiang Li and
+               Cheng Li and
+               Wenwei Chen and
+               Jingyao Dai and
+               Mo Li and
+               Xiang-Yang Li and
+               Yunhao Liu},
+  title     = {Clock calibration using fluorescent lighting},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {463-466},
+}
+
+@inproceedings{DBLP:conf/mobicom/LiuZC12,
+  author    = {Qiang Liu and
+               Ze Zhao and
+               Li Cui},
+  title     = {A wideband compressed spectrum sensing platform for dynamic spectrum access networks},
+  booktitle = mobicom,
+  year      = 2012,
+  pages     = {467-470},
+}
+
 @inproceedings{DBLP:conf/mobicom/RayanchuSBC11,
   author    = {Shravan K. Rayanchu and
                Vivek Shrivastava and

@@ -248,7 +248,7 @@
 }
 
 @article{DBLP:journals/scp/GallardoJMS12,
-  author    = {M. Mar Gallardo and
+  author    = {Mar{\'\i}a-del-Mar Gallardo and
                Christophe Joubert and
                Pedro Merino and
                David San{\'a}n},
@@ -635,6 +635,164 @@
   number    = {7-8},
   year      = 2012,
   pages     = {955-967},
+}
+
+@article{DBLP:journals/scp/MernikB12,
+  author    = {Marjan Mernik and
+               Barrett R. Bryant},
+  title     = {Special issue on the Programming Languages track at the 24th {ACM} Symposium on Applied Computing},
+  journal   = scp,
+  volume    = {77},
+  number    = {9},
+  year      = 2012,
+  pages     = {969-970},
+}
+
+@article{DBLP:journals/scp/BiggarVG12,
+  author    = {Paul Biggar and
+               Edsko de Vries and
+               David Gregg},
+  title     = {A practical solution for achieving language compatibility in scripting language compilers},
+  journal   = scp,
+  volume    = {77},
+  number    = {9},
+  year      = 2012,
+  pages     = {971-989},
+}
+
+@article{DBLP:journals/scp/CervelleFLR12,
+  author    = {Julien Cervelle and
+               R{\'e}mi Forax and
+               Gautier Loyaut{\'e} and
+               Gilles Roussel},
+  title     = {Banzai+Tatoo: Using cutting-edge parsers for implementing high-performance servers},
+  journal   = scp,
+  volume    = {77},
+  number    = {9},
+  year      = 2012,
+  pages     = {990-1005},
+}
+
+@article{DBLP:journals/scp/ChinDNQ12,
+  author    = {Wei-Ngan Chin and
+               Cristina David and
+               Huu Hai Nguyen and
+               Shengchao Qin},
+  title     = {Automated verification of shape, size and bag properties via user-defined predicates in separation logic},
+  journal   = scp,
+  volume    = {77},
+  number    = {9},
+  year      = 2012,
+  pages     = {1006-1036},
+}
+
+@article{DBLP:journals/scp/Roggenbach12,
+  author    = {Markus Roggenbach},
+  title     = {Preface},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1037-1038},
+}
+
+@article{DBLP:journals/scp/NarkawiczMD12,
+  author    = {Anthony Narkawicz and
+               C{\'e}sar A. Mu{\~n}oz and
+               Gilles Dowek},
+  title     = {Provably correct conflict prevention bands algorithms},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1039-1057},
+}
+
+@article{DBLP:journals/scp/AffeldtNY12,
+  author    = {Reynald Affeldt and
+               David Nowak and
+               Kiyoshi Yamada},
+  title     = {Certifying assembly with formal security proofs: The case of {BBS}},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1058-1074},
+}
+
+@article{DBLP:journals/scp/MateescuW12,
+  author    = {Radu Mateescu and
+               Anton Wijs},
+  title     = {Sequential and distributed on-the-fly computation of weak tau-confluence},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1075-1094},
+}
+
+@article{DBLP:journals/scp/DubrovinJH12,
+  author    = {Jori Dubrovin and
+               Tommi A. Junttila and
+               Keijo Heljanko},
+  title     = {Exploiting step semantics for efficient bounded model checking of asynchronous systems},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1095-1121},
+}
+
+@article{DBLP:journals/scp/DammDDHPSWW12,
+  author    = {Werner Damm and
+               Henning Dierks and
+               Stefan Disch and
+               Willem Hagemann and
+               Florian Pigorsch and
+               Christoph Scholl and
+               Uwe Waldmann and
+               Boris Wirtz},
+  title     = {Exact and fully symbolic verification of linear hybrid automata with large discrete state spaces},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1122-1150},
+}
+
+@article{DBLP:journals/scp/MiyazawaC12,
+  author    = {Alvaro Miyazawa and
+               Ana Cavalcanti},
+  title     = {Refinement-oriented models of Stateflow charts},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1151-1177},
+}
+
+@article{DBLP:journals/scp/PalikarevaOR12,
+  author    = {Hristina Palikareva and
+               Jo{\"e}l Ouaknine and
+               A. W. Roscoe},
+  title     = {{SAT-solving} in {CSP} trace refinement},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1178-1197},
+}
+
+@article{DBLP:journals/scp/PapanikolaouCG12,
+  author    = {Nikolaos Papanikolaou and
+               Sadie Creese and
+               Michael Goldsmith},
+  title     = {Refinement checking for privacy policies},
+  journal   = scp,
+  volume    = {77},
+  number    = {10-11},
+  year      = 2012,
+  pages     = {1198-1209},
 }
 
 @article{DBLP:journals/scp/CanalPV11,
@@ -5664,7 +5822,7 @@
   author    = {Werner Damm and
                Bernhard Josko and
                Amir Pnueli and
-               Angelika Votintseva},
+               Anjelika Votintseva},
   title     = {A discrete-time {UML} semantics for concurrency and communication in safety-critical applications},
   journal   = scp,
   volume    = {55},

@@ -287,7 +287,7 @@
 
 @article{DBLP:journals/jcst/ZhangYWZ12,
   author    = {Bin Zhang and
-               Jia-Hai Yang and
+               Jiahai Yang and
                Jian-Ping Wu and
                Ying-Wu Zhu},
   title     = {Diagnosing Traffic Anomalies Using a {Two-Phase} Model},
@@ -313,9 +313,9 @@
 }
 
 @article{DBLP:journals/jcst/ShenCWC12,
-  author    = {Hua-Wei Shen and
-               Xue-Qi Cheng and
-               Yuan-Zhuo Wang and
+  author    = {Huawei Shen and
+               Xueqi Cheng and
+               Yuanzhuo Wang and
                Yixin Chen},
   title     = {A Dimensionality Reduction Framework for Detection of Multiscale Structure in Heterogeneous Networks},
   journal   = cst,
@@ -340,7 +340,7 @@
 
 @article{DBLP:journals/jcst/ChenQLL12,
   author    = {Yi-Fei Chen and
-               Xiao-Lin Qin and
+               Xiaolin Qin and
                Liang Liu and
                Bo-Han Li},
   title     = {Fuzzy {Distance-Based} Range Queries over Uncertain Moving Objects},
@@ -363,9 +363,9 @@
 }
 
 @article{DBLP:journals/jcst/NiZC12,
-  author    = {Wei-Wei Ni and
-               Jin-Wang Zheng and
-               Zhi-Hong Chong},
+  author    = {Weiwei Ni and
+               Jinwang Zheng and
+               Zhihong Chong},
   title     = {HilAnchor: Location Privacy Protection in the Presence of Users' Preferences},
   journal   = cst,
   volume    = {27},
@@ -618,7 +618,7 @@
 @article{DBLP:journals/jcst/TanNTC12,
   author    = {Luke Kien-Weng Tan and
                Jin-Cheon Na and
-               Yin-Leng Theng and
+               Yin Leng Theng and
                Kuiyu Chang},
   title     = {{Phrase-Level} Sentiment Polarity Classification Using {Rule-Based} Typed Dependencies and Additional Complex Phrases Consideration},
   journal   = cst,
@@ -626,6 +626,260 @@
   number    = {3},
   year      = 2012,
   pages     = {650-666},
+}
+
+@article{DBLP:journals/jcst/Sun12,
+  author    = {Xiao-Ming Sun},
+  title     = {Preface},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {667},
+}
+
+@article{DBLP:journals/jcst/LiangH12,
+  author    = {Hongyu Liang and
+               Jing He},
+  title     = {Satisfiability with Index Dependency},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {668-677},
+}
+
+@article{DBLP:journals/jcst/Woodruff12,
+  author    = {David P. Woodruff},
+  title     = {A Quadratic Lower Bound for {Three-Query} Linear Locally Decodable Codes over Any Field},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {678-686},
+}
+
+@article{DBLP:journals/jcst/QiaoNT12,
+  author    = {You-Ming Qiao and
+               Jayalal Sarma M. N. and
+               Bang-Sheng Tang},
+  title     = {On Isomorphism Testing of Groups with Normal Hall Subgroups},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {687-701},
+}
+
+@article{DBLP:journals/jcst/ImLW12,
+  author    = {Sungjin Im and
+               Pinyan Lu and
+               Yayun Wang},
+  title     = {{Envy-Free} Pricing with General Supply Constraints for Unit Demand Consumers},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {702-709},
+}
+
+@article{DBLP:journals/jcst/LuY12,
+  author    = {Pin-Yan Lu and
+               Chang-Yuan Yu},
+  title     = {{Worst-Case} Nash Equilibria in Restricted Routing},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {710-717},
+}
+
+@article{DBLP:journals/jcst/Wu12,
+  author    = {Yi Wu},
+  title     = {Pricing Loss Leaders Can be Hard},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {718-726},
+}
+
+@article{DBLP:journals/jcst/JooRPS12,
+  author    = {Yongsoo Joo and
+               Junhee Ryu and
+               Sangsoo Park and
+               Kang G. Shin},
+  title     = {Improving Application Launch Performance on Solid State Drives},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {727-743},
+}
+
+@article{DBLP:journals/jcst/WuK12,
+  author    = {Yong Wu and
+               Arun Kumar},
+  title     = {A Parallel Interval Computation Model for Global Optimization with Automatic Load Balancing},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {744-753},
+}
+
+@article{DBLP:journals/jcst/XieTHSC12,
+  author    = {Zichao Xie and
+               Dong Tong and
+               Mingkai Huang and
+               Qinqing Shi and
+               Xu Cheng},
+  title     = {{SWIP} Prediction: {Complexity-Effective} {Indirect-Branch} Prediction Using Pointers},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {754-768},
+}
+
+@article{DBLP:journals/jcst/ZhangWTYLW12,
+  author    = {Zhen-Hao Zhang and
+               Xiaoyin Wang and
+               Dong Tong and
+               Jiangfang Yi and
+               Junlin Lu and
+               Keyi Wang},
+  title     = {Active Store Window: Enabling Far {Store-Load} Forwarding with Scalability and {Complexity-Efficiency}},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {769-780},
+}
+
+@article{DBLP:journals/jcst/SeoKS12,
+  author    = {Youngbin Seo and
+               Jeongki Kim and
+               Euiseong Seo},
+  title     = {Effectiveness Analysis of {DVFS} and {DPM} in Mobile Devices},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {781-790},
+}
+
+@article{DBLP:journals/jcst/MartinsAHPLPM12,
+  author    = {Rafael Messias Martins and
+               Gabriel de Faria Andery and
+               Henry Heberle and
+               Fernando Vieira Paulovich and
+               Alneu de Andrade Lopes and
+               H{\'e}lio Pedrini and
+               Rosane Minghim},
+  title     = {Multidimensional Projections for Visual Analysis of Social Networks},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {791-810},
+}
+
+@article{DBLP:journals/jcst/CatalaGMM12,
+  author    = {Alejandro Catal{\'a} and
+               Fernando Garcia-Sanjuan and
+               Javier Ja{\'e}n Mart{\'\i}nez and
+               Jos{\'e} A. Mochol{\'\i}},
+  title     = {TangiWheel: A Widget for Manipulating Collections on Tabletop Displays Supporting Hybrid Input Modality},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {811-829},
+}
+
+@article{DBLP:journals/jcst/HuDY12,
+  author    = {Wei Hu and
+               Zhao Dong and
+               Guodong Yuan},
+  title     = {Edit Propagation via {Edge-Aware} Filtering},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {830-840},
+}
+
+@article{DBLP:journals/jcst/LiHL12,
+  author    = {Xin Li and
+               Zhang-Jin Huang and
+               Zhao Liu},
+  title     = {A Geometric Approach for {Multi-Degree} Spline},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {841-850},
+}
+
+@article{DBLP:journals/jcst/ChenHP12,
+  author    = {Shao-Lin Chen and
+               Xi-Yuan Hu and
+               Si-Long Peng},
+  title     = {Hyperspectral Imagery Denoising Using a {Spatial-Spectral} Domain Mixing Prior},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {851-861},
+}
+
+@article{DBLP:journals/jcst/WangF12,
+  author    = {Ming Wang and
+               Jie-Qing Feng},
+  title     = {2{D-Manifold} Boundary Surfaces Extraction from Heterogeneous Object on {GPU}},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {862-871},
+}
+
+@article{DBLP:journals/jcst/HuangHCLZ12,
+  author    = {Shaobin Huang and
+               Hongtao Huang and
+               Zhiyuan Chen and
+               Tian-yang Lv and
+               Tao Zhang},
+  title     = {Lazy Slicing for {State-Space} Exploration},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {872-890},
+}
+
+@article{DBLP:journals/jcst/PereiraL12,
+  author    = {Jos{\'e} C. Pereira and
+               Fernando G. Lobo},
+  title     = {An Optimized {Divide-and-Conquer} Algorithm for the {Closest-Pair} Problem in the Planar Case},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {891-896},
+}
+
+@article{DBLP:journals/jcst/YangYZ12,
+  author    = {Rong Yang and
+               Zhao-Lan Yang and
+               He-Ping Zhang},
+  title     = {Some Indices of Alphabet Overlap Graph},
+  journal   = cst,
+  volume    = {27},
+  number    = {4},
+  year      = 2012,
+  pages     = {897-902},
 }
 
 @article{DBLP:journals/jcst/ZongU10,
@@ -2670,7 +2924,7 @@
 
 @article{DBLP:journals/jcst/ChenQL10,
   author    = {Yi-Fei Chen and
-               Xiao-Lin Qin and
+               Xiaolin Qin and
                Liang Liu},
   title     = {Uncertain {Distance-Based} Range Queries over Uncertain Moving Objects},
   journal   = cst,
@@ -13554,9 +13808,9 @@
 }
 
 @article{DBLP:journals/jcst/LinYLS01,
-  author    = {Du Lin and
-               Zhang Yibo and
-               Sun Le and
+  author    = {Lin Du and
+               Yibo Zhang and
+               Le Sun and
                Yufang Sun},
   title     = {The Application of the Comparable Corpora in {Chinese-English} {Cross-Lingual} Information Retrieval},
   journal   = cst,
@@ -18436,7 +18690,7 @@
 @article{DBLP:journals/jcst/MaM94,
   author    = {Jun Ma and
                Shaohan Ma},
-  title     = {An O(k 2n2},
+  title     = {An O(k 2n2) algorithm to find a k -partition in a k -connected graph},
   journal   = cst,
   volume    = {9},
   number    = {1},

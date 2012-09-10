@@ -1,5 +1,780 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/icdcs/SinghSRKV12,
+  author    = {Rahul Singh and
+               Prashant J. Shenoy and
+               K. K. Ramakrishnan and
+               Rahul Kelkar and
+               Harrick M. Vin},
+  title     = {eTransform: Transforming Enterprise Data Centers by Automated Consolidation},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {1-11},
+}
+
+@inproceedings{DBLP:conf/icdcs/WenCCLXH12,
+  author    = {Xitao Wen and
+               Kai Chen and
+               Yan Chen and
+               Yongqiang Liu and
+               Yong Xia and
+               Chengchen Hu},
+  title     = {VirtualKnotter: Online Virtual Machine Shuffling for Congestion Resolving in Virtualized Datacenter},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {12-21},
+}
+
+@inproceedings{DBLP:conf/icdcs/RenHX12,
+  author    = {Shaolei Ren and
+               Yuxiong He and
+               Fei Xu},
+  title     = {{Provably-Efficient} Job Scheduling for Energy and Fairness in Geographically Distributed Data Centers},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {22-31},
+}
+
+@inproceedings{DBLP:conf/icdcs/WuY12,
+  author    = {Xin Wu and
+               Xiaowei Yang},
+  title     = {DARD: Distributed Adaptive Routing for Datacenter Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {32-41},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuJBTWLC12,
+  author    = {Wenping Liu and
+               Hongbo Jiang and
+               Xiang Bai and
+               Guang Tan and
+               Chonggang Wang and
+               Wenyu Liu and
+               Kechao Cai},
+  title     = {Skeleton Extraction from Incomplete Boundaries in Sensor Networks Based on Distance Transform},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {42-51},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuJWLYLL12,
+  author    = {Wenping Liu and
+               Hongbo Jiang and
+               Chonggang Wang and
+               Chang Liu and
+               Yang Yang and
+               Wenyu Liu and
+               Bo Li},
+  title     = {Connectivity-based and {Boundary-Free} Skeleton Extraction in Sensor Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {52-61},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiS12,
+  author    = {Ze Li and
+               Haiying Shen},
+  title     = {A Kautz-based {Real-Time} and {Energy-Efficient} Wireless Sensor and Actuator Network},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {62-71},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangHYGL12,
+  author    = {Desheng Zhang and
+               Tian He and
+               Fan Ye and
+               Raghu K. Ganti and
+               Hui Lei},
+  title     = {EQS: Neighbor Discovery and Rendezvous Maintenance with Extended Quorum System for Mobile Sensing Applications},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {72-81},
+}
+
+@inproceedings{DBLP:conf/icdcs/ArefinHNA12,
+  author    = {Ahsan Arefin and
+               Zixia Huang and
+               Klara Nahrstedt and
+               Pooja Agarwal},
+  title     = {4D TeleCast: Towards Large Scale Multi-site and Multi-view Dissemination of 3{DTI} Contents},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {82-91},
+}
+
+@inproceedings{DBLP:conf/icdcs/YangLMYFZ12,
+  author    = {Xinyu Yang and
+               Jie Lin and
+               Paul Moulema and
+               Wei Yu and
+               Xinwen Fu and
+               Wei Zhao},
+  title     = {A Novel En-route Filtering Scheme against False Data Injection Attacks in {Cyber-Physical} Networked Systems},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {92-101},
+}
+
+@inproceedings{DBLP:conf/icdcs/DowlingP12,
+  author    = {Jim Dowling and
+               Amir H. Payberah},
+  title     = {Shuffling with a Croupier: {Nat-Aware} {Peer-Sampling}},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {102-111},
+}
+
+@inproceedings{DBLP:conf/icdcs/GrayPR12,
+  author    = {Michael Gray and
+               Peter Peterson and
+               Peter L. Reiher},
+  title     = {Scaling Down {Off-the-Shelf} Data Compression: {Backwards-Compatible} {Fine-Grain} Mixing},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {112-121},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuKCN12,
+  author    = {Siyuan Liu and
+               Lei Kang and
+               Lei Chen and
+               Lionel M. Ni},
+  title     = {Distributed Incomplete Pattern Matching via a Novel Weighted Bloom Filter},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {122-131},
+}
+
+@inproceedings{DBLP:conf/icdcs/GaoCSI12,
+  author    = {Wei Gao and
+               Guohong Cao and
+               Mudhakar Srivatsa and
+               Arun Iyengar},
+  title     = {Distributed Maintenance of Cache Freshness in Opportunistic Mobile Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {132-141},
+}
+
+@inproceedings{DBLP:conf/icdcs/HanLO12,
+  author    = {Binh Han and
+               Ling Liu and
+               Edward Omiecinski},
+  title     = {NEAT: Road Network Aware Trajectory Clustering},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {142-151},
+}
+
+@inproceedings{DBLP:conf/icdcs/RenCCYS12,
+  author    = {Zhu Ren and
+               Peng Cheng and
+               Jiming Chen and
+               David K. Y. Yau and
+               Youxian Sun},
+  title     = {Dynamic Activation Policies for Event Capture with Rechargeable Sensors},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {152-162},
+}
+
+@inproceedings{DBLP:conf/icdcs/DeSXWCH12,
+  author    = {Debraj De and
+               Wen-Zhan Song and
+               Mingsen Xu and
+               Cheng-Liang Wang and
+               Diane Cook and
+               Xiaoming Huo},
+  title     = {FindingHuMo: {Real-Time} Tracking of Motion Trajectories from Anonymous Binary Sensing in Smart Environments},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {163-172},
+}
+
+@inproceedings{DBLP:conf/icdcs/HongCDW12,
+  author    = {Chi-Yao Hong and
+               Matthew Caesar and
+               Nick G. Duffield and
+               Jia Wang},
+  title     = {Tiresias: Online Anomaly Detection for Hierarchical Operational Network Data},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {173-182},
+}
+
+@inproceedings{DBLP:conf/icdcs/MaurerT12,
+  author    = {Alexandre Maurer and
+               S{\'e}bastien Tixeuil},
+  title     = {Limiting Byzantine Influence in Multihop Asynchronous Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {183-192},
+}
+
+@inproceedings{DBLP:conf/icdcs/MelingMM12,
+  author    = {Hein Meling and
+               Keith Marzullo and
+               Alessandro Mei},
+  title     = {When You Don't Trust Clients: Byzantine Proposer Fast Paxos},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {193-202},
+}
+
+@inproceedings{DBLP:conf/icdcs/DelavizAPE12,
+  author    = {Rahim Delaviz and
+               Nazareno Andrade and
+               Johan A. Pouwelse and
+               Dick H. J. Epema},
+  title     = {SybilRes: A Sybil-resilient {Flow-Based} Decentralized Reputation Mechanism},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {203-213},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiZXS12,
+  author    = {Lingjun Li and
+               Xinxin Zhao and
+               Guoliang Xue and
+               Gabriel Silva},
+  title     = {Privacy Preserving Group Ranking},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {214-223},
+}
+
+@inproceedings{DBLP:conf/icdcs/GuoZSF12,
+  author    = {Linke Guo and
+               Chi Zhang and
+               Jinyuan Sun and
+               Yuguang Fang},
+  title     = {PAAS: A {Privacy-Preserving} {Attribute-Based} Authentication System for {eHealth} Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {224-233},
+}
+
+@inproceedings{DBLP:conf/icdcs/SinghUSV12,
+  author    = {Abhishek Singh and
+               Guido Urdaneta and
+               Maarten van Steen and
+               Roman Vitenberg},
+  title     = {Robust Overlays for {Privacy-Preserving} Data Dissemination over a Social Graph},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {234-244},
+}
+
+@inproceedings{DBLP:conf/icdcs/CaiJHB12,
+  author    = {Zhipeng Cai and
+               Shouling Ji and
+               Jing He and
+               Anu G. Bourgeois},
+  title     = {Optimal Distributed Data Collection for Asynchronous Cognitive Radio Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {245-254},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChenH12,
+  author    = {Xu Chen and
+               Jianwei Huang},
+  title     = {Game Theoretic Analysis of Distributed Spectrum Sharing with Database},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {255-264},
+}
+
+@inproceedings{DBLP:conf/icdcs/LeSI12,
+  author    = {Franck Le and
+               Mudhakar Srivatsa and
+               Arun Iyengar},
+  title     = {Byte Caching in Wireless Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {265-274},
+}
+
+@inproceedings{DBLP:conf/icdcs/ArevaloAIJR12,
+  author    = {Sergio Ar{\'e}valo and
+               Antonio Fern{\'a}ndez Anta and
+               Damien Imbs and
+               Ernesto Jim{\'e}nez and
+               Michel Raynal},
+  title     = {Failure Detectors in Homonymous Distributed Systems (with an Application to Consensus)},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {275-284},
+}
+
+@inproceedings{DBLP:conf/icdcs/TanNSGVR12,
+  author    = {Yongmin Tan and
+               Hiep Nguyen and
+               Zhiming Shen and
+               Xiaohui Gu and
+               Chitra Venkatramani and
+               Deepak Rajan},
+  title     = {PREPARE: Predictive Performance Anomaly Prevention for Virtualized Cloud Systems},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {285-294},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhengCPS12,
+  author    = {Qiang Zheng and
+               Guohong Cao and
+               Tom La Porta and
+               Ananthram Swami},
+  title     = {Optimal Recovery from {Large-Scale} Failures in {IP} Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {295-304},
+}
+
+@inproceedings{DBLP:conf/icdcs/TanGCZZ12,
+  author    = {Enhua Tan and
+               Lei Guo and
+               Songqing Chen and
+               Xiaodong Zhang and
+               Yihong Eric Zhao},
+  title     = {Spammer Behavior Analysis and Detection in User Generated Content on Social Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {305-314},
+}
+
+@inproceedings{DBLP:conf/icdcs/SeibertBNS12,
+  author    = {Jeffrey Seibert and
+               Sheila Becker and
+               Cristina Nita-Rotaru and
+               Radu State},
+  title     = {Securing Virtual Coordinates by Enforcing Physical Laws},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {315-324},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangB12,
+  author    = {Qiyan Wang and
+               Nikita Borisov},
+  title     = {Octopus: A Secure and Anonymous {DHT} Lookup},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {325-334},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangMJ12,
+  author    = {Kaiwen Zhang and
+               Vinod Muthusamy and
+               Hans-Arno Jacobsen},
+  title     = {Total Order in {Content-Based} Publish/Subscribe Systems},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {335-344},
+}
+
+@inproceedings{DBLP:conf/icdcs/KazemzadehJ12,
+  author    = {Reza Sherafat Kazemzadeh and
+               Hans-Arno Jacobsen},
+  title     = {Publiy+: A {Peer-Assisted} Publish/Subscribe Service for Timely Dissemination of Bulk Content},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {345-354},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChenAFR12,
+  author    = {Jiachen Chen and
+               Mayutan Arumaithurai and
+               Xiaoming Fu and
+               K. K. Ramakrishnan},
+  title     = {G-COPSS: A Content Centric Communication Infrastructure for Gaming Applications},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {355-365},
+}
+
+@inproceedings{DBLP:conf/icdcs/CuiWWPW12,
+  author    = {Yong Cui and
+               Xin Wang and
+               Hongyi Wang and
+               Guangjin Pan and
+               Yining Wang},
+  title     = {FMTCP: A Fountain {Code-Based} Multipath Transmission Control Protocol},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {366-375},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChuWL12,
+  author    = {Shan Chu and
+               Xin Wang and
+               Minming Li},
+  title     = {Enforcing {High-Performance} Operation of Multi-hop Wireless Networks with {MIMO} Relays},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {376-385},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiuYS12,
+  author    = {Junliang Liu and
+               Zheng Yang and
+               Ivan Stojmenovic},
+  title     = {Receiver Consensus: On-time Warning Delivery for Vehicular Ad-hoc Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {386-395},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiLPHA12,
+  author    = {Shen Li and
+               Hieu Khac Le and
+               Nam Pham and
+               Jin Heo and
+               Tarek F. Abdelzaher},
+  title     = {Joint Optimization of Computing and Cooling Energy: Analytic Model and a Machine Room Case Study},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {396-405},
+}
+
+@inproceedings{DBLP:conf/icdcs/HuRSS12,
+  author    = {Liting Hu and
+               Kyung Dong Ryu and
+               Dilma Da Silva and
+               Karsten Schwan},
+  title     = {v-Bundle: Flexible Group Resource Offerings in Clouds},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {406-415},
+}
+
+@inproceedings{DBLP:conf/icdcs/YaoLHR12,
+  author    = {Jianguo Yao and
+               Xue Liu and
+               Wenbo He and
+               Ashikur Rahman},
+  title     = {Dynamic Control of Electricity Cost with Power Demand Smoothing and Peak Shaving for Distributed Internet Data Centers},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {416-424},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangLL12,
+  author    = {Wei Wang and
+               Baochun Li and
+               Ben Liang},
+  title     = {Towards Optimal Capacity Segmentation with Hybrid Cloud Pricing},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {425-434},
+}
+
+@inproceedings{DBLP:conf/icdcs/LeeBZCW12,
+  author    = {Ken C. K. Lee and
+               Kanchan Bankar and
+               Baihua Zheng and
+               Chi-Yin Chow and
+               Honggang Wang},
+  title     = {Dash: A Novel Search Engine for {Database-Generated} Dynamic Web Pages},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {435-444},
+}
+
+@inproceedings{DBLP:conf/icdcs/RaoCHT12,
+  author    = {Weixiong Rao and
+               Lei Chen and
+               Pan Hui and
+               Sasu Tarkoma},
+  title     = {MOVE: A Large Scale {Keyword-Based} Content Filtering and Dissemination System},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {445-454},
+}
+
+@inproceedings{DBLP:conf/icdcs/PelusoRRQR12,
+  author    = {Sebastiano Peluso and
+               Pedro Ruivo and
+               Paolo Romano and
+               Francesco Quaglia and
+               Lu{\'\i}s Rodrigues},
+  title     = {When Scalability Meets Consistency: Genuine Multiversion {Update-Serializable} Partial Data Replication},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {455-465},
+}
+
+@inproceedings{DBLP:conf/icdcs/EldawyKW12,
+  author    = {Ahmed Eldawy and
+               Rohit Khandekar and
+               Kun-Lung Wu},
+  title     = {Clustering Streaming Graphs},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {466-475},
+}
+
+@inproceedings{DBLP:conf/icdcs/DattaLDHR12,
+  author    = {Ajoy Kumar Datta and
+               Lawrence L. Larmore and
+               St{\'e}phane Devismes and
+               Karel Heurtefeux and
+               Yvan Rivierre},
+  title     = {Competitive {Self-Stabilizing} {k-Clustering}},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {476-485},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChungVW12,
+  author    = {Hyun Chul Chung and
+               Saira Viqar and
+               Jennifer L. Welch},
+  title     = {Neighbor Knowledge of Mobile Nodes in a Road Network},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {486-495},
+}
+
+@inproceedings{DBLP:conf/icdcs/FarahatE12,
+  author    = {Aly Farahat and
+               Ali Ebnenasir},
+  title     = {Local Reasoning for Global Convergence of Parameterized Rings},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {496-505},
+}
+
+@inproceedings{DBLP:conf/icdcs/DasFPSY12,
+  author    = {Shantanu Das and
+               Paola Flocchini and
+               Giuseppe Prencipe and
+               Nicola Santoro and
+               Masafumi Yamashita},
+  title     = {The Power of Lights: Synchronizing Asynchronous Robots Using Visible Bits},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {506-515},
+}
+
+@inproceedings{DBLP:conf/icdcs/JinYSR12,
+  author    = {Hui Jin and
+               Xi Yang and
+               Xian-He Sun and
+               Ioan Raicu},
+  title     = {ADAPT: {Availability-Aware} {MapReduce} Data Placement for Non-dedicated Distributed Computing},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {516-525},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangZZB12,
+  author    = {Qi Zhang and
+               Quanyan Zhu and
+               Mohamed Faten Zhani and
+               Raouf Boutaba},
+  title     = {Dynamic Service Placement in Geographically Distributed Clouds},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {526-535},
+}
+
+@inproceedings{DBLP:conf/icdcs/YangJ12,
+  author    = {Kan Yang and
+               Xiaohua Jia},
+  title     = {{Attributed-Based} Access Control for Multi-authority Systems in Cloud Storage},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {536-545},
+}
+
+@inproceedings{DBLP:conf/icdcs/BasagalarLK12,
+  author    = {Yunus Basagalar and
+               Vassilios Lekakis and
+               Pete Keleher},
+  title     = {Growing Secure Distributed Systems from a Spore},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {546-555},
+}
+
+@inproceedings{DBLP:conf/icdcs/WuW12,
+  author    = {Yibo Wu and
+               Xinbing Wang},
+  title     = {Achieving Full View Coverage with {Randomly-Deployed} Heterogeneous Camera Sensors},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {556-565},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiLXWH12,
+  author    = {Feng Li and
+               Jun Luo and
+               Shi-Qing Xin and
+               Wen-Ping Wang and
+               Ying He},
+  title     = {LAACAD: Load Balancing {k-Area} Coverage through Autonomous Deployment in Wireless Sensor Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {566-575},
+}
+
+@inproceedings{DBLP:conf/icdcs/GuoZN12,
+  author    = {Xiaonan Guo and
+               Dian Zhang and
+               Lionel M. Ni},
+  title     = {Localizing Multiple Objects in an {RF-based} Dynamic Environment},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {576-585},
+}
+
+@inproceedings{DBLP:conf/icdcs/KwonT12,
+  author    = {Young-Woo Kwon and
+               Eli Tilevich},
+  title     = {{Energy-Efficient} and {Fault-Tolerant} Distributed Mobile Execution},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {586-595},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangLK12,
+  author    = {Yuanrui Zhang and
+               Jun Liu and
+               Mahmut T. Kandemir},
+  title     = {{Software-Directed} Data Access Scheduling for Reducing Disk Energy Consumption},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {596-605},
+}
+
+@inproceedings{DBLP:conf/icdcs/HuhYKH12,
+  author    = {Sungju Huh and
+               Jonghun Yoo and
+               Myungsun Kim and
+               Seongsoo Hong},
+  title     = {Providing Fair Share Scheduling on Multicore Cloud Servers via Virtual Runtime-based Task Migration Algorithm},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {606-614},
+}
+
+@inproceedings{DBLP:conf/icdcs/ElliottKFMFE12,
+  author    = {James Elliott and
+               Kishor Kharbas and
+               David Fiala and
+               Frank Mueller and
+               Kurt B. Ferreira and
+               Christian Engelmann},
+  title     = {Combining Partial Redundancy and Checkpointing for {HPC}},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {615-626},
+}
+
+@inproceedings{DBLP:conf/icdcs/CarreteroIKTT12,
+  author    = {Jes{\'u}s Carretero and
+               Florin Isaila and
+               Anne-Marie Kermarrec and
+               Fran{\c{c}}ois Ta{\"\i}ani and
+               Juan M. Tirado},
+  title     = {Geology: Modular Georecommendation in {Gossip-Based} Social Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {637-646},
+}
+
+@inproceedings{DBLP:conf/icdcs/LiangLLLS12,
+  author    = {Xiaohui Liang and
+               Xu Li and
+               Rongxing Lu and
+               Xiaodong Lin and
+               Xuemin (Sherman) Shen},
+  title     = {SEER: A Secure and Efficient Service Review System for {Service-Oriented} Mobile Social Networks},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {647-656},
+}
+
+@inproceedings{DBLP:conf/icdcs/ChengPPAZ12,
+  author    = {Pei-chun Cheng and
+               Jong Han Park and
+               Keyur Patel and
+               Shane Amante and
+               Lixia Zhang},
+  title     = {Explaining {BGP} Slow Table Transfers},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {657-666},
+}
+
+@inproceedings{DBLP:conf/icdcs/ZhangP12,
+  author    = {Ying Zhang and
+               Makan Pourzandi},
+  title     = {Studying Impacts of Prefix Interception Attack by Exploring {BGP} {AS-PATH} Prepending},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {667-677},
+}
+
+@inproceedings{DBLP:conf/icdcs/YangDLZDL12,
+  author    = {Tong Yang and
+               Ruian Duan and
+               Jianyuan Lu and
+               Shenjiang Zhang and
+               Huichen Dai and
+               Bin Liu},
+  title     = {CLUE: Achieving Fast Update over Compressed Table for Parallel Lookup with Reduced Dynamic Redundancy},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {678-687},
+}
+
+@inproceedings{DBLP:conf/icdcs/WangHDMJLC12,
+  author    = {Yi Wang and
+               Keqiang He and
+               Huichen Dai and
+               Wei Meng and
+               Junchen Jiang and
+               Bin Liu and
+               Yan Chen},
+  title     = {Scalable Name Lookup in {NDN} Using Effective Name Component Encoding},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {688-697},
+}
+
+@inproceedings{DBLP:conf/icdcs/VuBZNFMR12,
+  author    = {Tam Vu and
+               Akash Baid and
+               Yanyong Zhang and
+               Thu D. Nguyen and
+               Junichiro Fukuyama and
+               Richard P. Martin and
+               Dipankar Raychaudhuri},
+  title     = {DMap: A Shared Hosting Scheme for Dynamic Identifier to Locator Mappings in the Global Internet},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {698-707},
+}
+
+@inproceedings{DBLP:conf/icdcs/MaHCZZZCS12,
+  author    = {Xingyu Ma and
+               Chengchen Hu and
+               Kai Chen and
+               Che Zhang and
+               Hongtao Zhang and
+               Kai Zheng and
+               Yan Chen and
+               Xianda Sun},
+  title     = {Error Tolerant Address Configuration for Data Center Networks with Malfunctioning Devices},
+  booktitle = icdcs,
+  year      = 2012,
+  pages     = {708-717},
+}
+
 @inproceedings{DBLP:conf/icdcs/PrabhakarVKBLK11,
   author    = {Ramya Prabhakar and
                Sudharshan S. Vazhkudai and
@@ -1547,7 +2322,7 @@
 }
 
 @inproceedings{DBLP:conf/icdcs/JohnsonMM10,
-  author    = {Taylor Johnson and
+  author    = {Taylor T. Johnson and
                Sayan Mitra and
                Karthik Manamcheri},
   title     = {Safe and Stabilizing Distributed Cellular Flows},
@@ -2135,7 +2910,7 @@
                Shuo Guo and
                Yu Gu and
                Tian He and
-               David Du},
+               David Hung-Chang Du},
   title     = {TBD: {Trajectory-Based} Data Forwarding for {Light-Traffic} Vehicular Networks},
   booktitle = icdcs,
   year      = 2009,

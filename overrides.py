@@ -3,6 +3,9 @@ TITLE = {'conf/soda/Li08': 'Estimators and tail bounds for dimension reduction i
 
 CONFERENCE_LOCATIONS = {
      '':{}
+    ,'hotos':       {2009: ('MonteVerita', 'may')
+                    ,2001: ('ElmauOberbayern', 'may')
+                    }
     ,'icdcs':       {2002: ('Vienna', 'jul')
                     ,2001: ('Phoenix', 'apr')
                     ,2000: ('Taipei', 'apr')
@@ -19,7 +22,7 @@ CONFERENCE_LOCATIONS = {
                     ,1987: ('WestBerlin', 'sep')
                     ,1986: ('CambridgeMA', 'may')
                     ,1985: ('Denver', 'may')
-                    ,1984: ('SanFrancisco', 'may')
+                    ,1984: ('SF', 'may')
                     ,1981: ('Paris', 'apr')
                     }
     ,'ipps':        {1993: ('NewportBeach', 'apr')
@@ -56,8 +59,8 @@ CONFERENCE_LOCATIONS = {
                     ,1969: ('Princeton', 'oct')
                     ,1967: ('Gatlinburg', 'may')
                     }
-    ,'sigmod':      {2001: ('SantaBarbera', 'may')
-                    ,1987: ('SanFrancisco', 'may')
+    ,'sigmod':      {2001: ('SantaBarbara', 'may')
+                    ,1987: ('SF', 'may')
                     ,1984: ('Boston', 'jun')
                     ,1983: ('SanJose', 'may')
                     }

@@ -1,5 +1,297 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sacmat/Lee12,
+  author    = {Ruby B. Lee},
+  title     = {Hardware-enhanced access control for cloud computing},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/sacmat/RusselloCCF12,
+  author    = {Giovanni Russello and
+               Mauro Conti and
+               Bruno Crispo and
+               Earlence Fernandes},
+  title     = {MOSES: supporting operation modes on smartphones},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {3-12},
+}
+
+@inproceedings{DBLP:conf/sacmat/SarmaLGPNM12,
+  author    = {Bhaskar Pratim Sarma and
+               Ninghui Li and
+               Christopher S. Gates and
+               Rahul Potharaju and
+               Cristina Nita-Rotaru and
+               Ian M. Molloy},
+  title     = {Android permissions: a perspective combining risks and benefits},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {13-22},
+}
+
+@inproceedings{DBLP:conf/sacmat/CheekS12,
+  author    = {Gorrell P. Cheek and
+               Mohamed Shehab},
+  title     = {Policy-by-example for online social networks},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {23-32},
+}
+
+@inproceedings{DBLP:conf/sacmat/ChowdhuryPWYIN12,
+  author    = {Omar Chowdhury and
+               Murillo Pontual and
+               William H. Winsborough and
+               Ting Yu and
+               Keith Irwin and
+               Jianwei Niu},
+  title     = {Ensuring authorization privileges for cascading user obligations},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {33-44},
+}
+
+@inproceedings{DBLP:conf/sacmat/MolloyPC12,
+  author    = {Ian Molloy and
+               Youngja Park and
+               Suresh Chari},
+  title     = {Generative models for access control policies: applications to role mining over logs with attribution},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {45-56},
+}
+
+@inproceedings{DBLP:conf/sacmat/XuS12,
+  author    = {Zhongyuan Xu and
+               Scott D. Stoller},
+  title     = {Algorithms for mining meaningful roles},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {57-66},
+}
+
+@inproceedings{DBLP:conf/sacmat/BhattiLBGB12,
+  author    = {Rafae Bhatti and
+               Ryan LaSalle and
+               Rob Bird and
+               Tim Grance and
+               Elisa Bertino},
+  title     = {Emerging trends around big data analytics and security: panel},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {67-68},
+}
+
+@inproceedings{DBLP:conf/sacmat/Sandhu12,
+  author    = {Ravi S. Sandhu},
+  title     = {The authorization leap from rights to attributes: maturation or chaos?},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {69-70},
+}
+
+@inproceedings{DBLP:conf/sacmat/TanDLS12,
+  author    = {Xi Tan and
+               Wenliang Du and
+               Tongbo Luo and
+               Karthick Duraisamy Soundararaj},
+  title     = {SCUTA: a server-side access control system for web applications},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {71-82},
+}
+
+@inproceedings{DBLP:conf/sacmat/RosLM12,
+  author    = {Santiago Pina Ros and
+               Mario Lischka and
+               F{\'e}lix G{\'o}mez M{\'a}rmol},
+  title     = {Graph-based {XACML} evaluation},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {83-92},
+}
+
+@inproceedings{DBLP:conf/sacmat/BasinBK12,
+  author    = {David A. Basin and
+               Samuel J. Burri and
+               G{\"u}nter Karjoth},
+  title     = {Optimal workflow-aware authorizations},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {93-102},
+}
+
+@inproceedings{DBLP:conf/sacmat/PapakonstantinouMFFA12,
+  author    = {Vassilis Papakonstantinou and
+               Maria Michou and
+               Irini Fundulaki and
+               Giorgos Flouris and
+               Grigoris Antoniou},
+  title     = {Access control for {RDF} graphs using abstract models},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {103-112},
+}
+
+@inproceedings{DBLP:conf/sacmat/CadenheadKKT12,
+  author    = {Tyrone Cadenhead and
+               Vaibhav Khadilkar and
+               Murat Kantarcioglu and
+               Bhavani M. Thuraisingham},
+  title     = {A cloud-based {RDF} policy engine for assured information sharing},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {113-116},
+}
+
+@inproceedings{DBLP:conf/sacmat/ChariLM12,
+  author    = {Suresh Chari and
+               Jorge Lobo and
+               Ian Molloy},
+  title     = {Practical risk aggregation in {RBAC} models},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {117-118},
+}
+
+@inproceedings{DBLP:conf/sacmat/KelbertP12,
+  author    = {Florian Kelbert and
+               Alexander Pretschner},
+  title     = {Towards a policy enforcement infrastructure for distributed usage control},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {119-122},
+}
+
+@inproceedings{DBLP:conf/sacmat/BruckerHLR12,
+  author    = {Achim D. Brucker and
+               Isabelle Hang and
+               Gero L{\"u}ckemeyer and
+               Raj Ruparel},
+  title     = {SecureBPMN: modeling and enforcing access control requirements in business processes},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {123-126},
+}
+
+@inproceedings{DBLP:conf/sacmat/KerschbaumC12,
+  author    = {Florian Kerschbaum and
+               Leonardo Weiss Ferreira Chaves},
+  title     = {Encryption-enforced access control for an {RFID} discovery service},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {127-130},
+}
+
+@inproceedings{DBLP:conf/sacmat/SchaadG12,
+  author    = {Andreas Schaad and
+               Alexandr Garaga},
+  title     = {Automating architectural security analysis},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {131-132},
+}
+
+@inproceedings{DBLP:conf/sacmat/NabeelSB12,
+  author    = {Mohamed Nabeel and
+               Ning Shang and
+               Elisa Bertino},
+  title     = {Efficient privacy preserving content based publish subscribe systems},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {133-144},
+}
+
+@inproceedings{DBLP:conf/sacmat/WangSL12,
+  author    = {Ting Wang and
+               Mudhakar Srivatsa and
+               Ling Liu},
+  title     = {Fine-grained access control of personal data},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {145-156},
+}
+
+@inproceedings{DBLP:conf/sacmat/BichselCS12,
+  author    = {Patrik Bichsel and
+               Jan Camenisch and
+               Dieter Sommer},
+  title     = {A calculus for privacy-friendly authentication},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {157-166},
+}
+
+@inproceedings{DBLP:conf/sacmat/BaracaldoJ12,
+  author    = {Nathalie Baracaldo and
+               James Joshi},
+  title     = {A trust-and-risk aware {RBAC} framework: tackling insider threat},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {167-176},
+}
+
+@inproceedings{DBLP:conf/sacmat/UzunASVPFM12,
+  author    = {Emre Uzun and
+               Vijayalakshmi Atluri and
+               Shamik Sural and
+               Jaideep Vaidya and
+               Gennaro Parlato and
+               Anna Lisa Ferrara and
+               Parthasarathy Madhusudan},
+  title     = {Analyzing temporal role based access control models},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {177-186},
+}
+
+@inproceedings{DBLP:conf/sacmat/HuangNBH12,
+  author    = {Jingwei Huang and
+               David M. Nicol and
+               Rakesh Bobba and
+               Jun Ho Huh},
+  title     = {A framework integrating attribute-based policies into role-based access control},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {187-196},
+}
+
+@inproceedings{DBLP:conf/sacmat/ShafiqVGB12,
+  author    = {Basit Shafiq and
+               Jaideep Vaidya and
+               Arif Ghafoor and
+               Elisa Bertino},
+  title     = {A framework for verification and optimal reconfiguration of event-driven role based access control policies},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {197-208},
+}
+
+@inproceedings{DBLP:conf/sacmat/XuTKMT12,
+  author    = {Dianxiang Xu and
+               Lijo Thomas and
+               Michael Kent and
+               Tejeddine Mouelhi and
+               Yves Le Traon},
+  title     = {A model-based approach to automated testing of access control policies},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {209-218},
+}
+
+@inproceedings{DBLP:conf/sacmat/GallLK12,
+  author    = {Yann Le Gall and
+               Adam J. Lee and
+               Apu Kapadia},
+  title     = {PlexC: a policy language for exposure control},
+  booktitle = sacmat,
+  year      = 2012,
+  pages     = {219-228},
+}
+
 @inproceedings{DBLP:conf/sacmat/BasinCE11,
   author    = {David A. Basin and
                Manuel Clavel and

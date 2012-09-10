@@ -1,9 +1,631 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/podc/Aspnes12,
+  author    = {James Aspnes},
+  title     = {Faster randomized consensus with an oblivious adversary},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/podc/BushkovGK12,
+  author    = {Victor Bushkov and
+               Rachid Guerraoui and
+               Michal Kapalka},
+  title     = {On the liveness of transactional memory},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {9-18},
+}
+
+@inproceedings{DBLP:conf/podc/GiakkoupisW12,
+  author    = {George Giakkoupis and
+               Philipp Woelfel},
+  title     = {On the time and space complexity of randomized test-and-set},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {19-28},
+}
+
+@inproceedings{DBLP:conf/podc/BerenbrinkCF12,
+  author    = {Petra Berenbrink and
+               Colin Cooper and
+               Tom Friedetzky},
+  title     = {Random walks which prefer unvisited edges.: exploring high girth even degree expanders in linear time},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {29-36},
+}
+
+@inproceedings{DBLP:conf/podc/ClementiST12,
+  author    = {Andrea E. F. Clementi and
+               Riccardo Silvestri and
+               Luca Trevisan},
+  title     = {Information spreading in dynamic graphs},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {37-46},
+}
+
+@inproceedings{DBLP:conf/podc/CooperEOR12,
+  author    = {Colin Cooper and
+               Robert Els{\"a}sser and
+               Hirotaka Ono and
+               Tomasz Radzik},
+  title     = {Coalescing random walks and voting on graphs},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {47-56},
+}
+
+@inproceedings{DBLP:conf/podc/ChenYZG12,
+  author    = {Binbin Chen and
+               Haifeng Yu and
+               Yuda Zhao and
+               Phillip B. Gibbons},
+  title     = {The cost of fault tolerance in multi-party communication complexity},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {57-66},
+}
+
+@inproceedings{DBLP:conf/podc/DruckerKO12,
+  author    = {Andrew Drucker and
+               Fabian Kuhn and
+               Rotem Oshman},
+  title     = {The communication complexity of distributed task allocation},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {67-76},
+}
+
+@inproceedings{DBLP:conf/podc/FeinermanKLS12,
+  author    = {Ofer Feinerman and
+               Amos Korman and
+               Zvi Lotker and
+               Jean-S{\'e}bastien Sereni},
+  title     = {Collaborative search on the plane without communication},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {77-86},
+}
+
+@inproceedings{DBLP:conf/podc/ArfaouiF12,
+  author    = {Heger Arfaoui and
+               Pierre Fraigniaud},
+  title     = {Brief announcement: what can be computed without communication?},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {87-88},
+}
+
+@inproceedings{DBLP:conf/podc/AsgeirssonHM12,
+  author    = {Eyjolfur Ingi Asgeirsson and
+               Magn{\'u}s M. Halld{\'o}rsson and
+               Pradipta Mitra},
+  title     = {Brief announcement: distributed algorithms for throughput performance in wireless networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {89-90},
+}
+
+@inproceedings{DBLP:conf/podc/BackesBK12,
+  author    = {Michael Backes and
+               Fabian Bendun and
+               Aniket Kate},
+  title     = {Brief announcement: distributed cryptography using trinc},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {91-92},
+}
+
+@inproceedings{DBLP:conf/podc/BortnikovCPRSS12,
+  author    = {Vita Bortnikov and
+               Gregory Chockler and
+               Dmitri Perelman and
+               Alexey Roytman and
+               Shlomit Shachor and
+               Ilya Shnayderman},
+  title     = {Brief announcement: reconfigurable state machine replication from non-reconfigurable building blocks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {93-94},
+}
+
+@inproceedings{DBLP:conf/podc/BridgmanG12,
+  author    = {John Bridgman and
+               Vijay K. Garg},
+  title     = {Brief announcement: all-to-all gradecast using coding with byzantine failures},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {95-96},
+}
+
+@inproceedings{DBLP:conf/podc/CastanedaRR12,
+  author    = {Armando Casta{\~n}eda and
+               Sergio Rajsbaum and
+               Michel Raynal},
+  title     = {Brief announcement: there are plenty of tasks weaker than perfect renaming and stronger than set agreement},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {97-98},
+}
+
+@inproceedings{DBLP:conf/podc/CasteigtsFGSY12,
+  author    = {Arnaud Casteigts and
+               Paola Flocchini and
+               Emmanuel Godard and
+               Nicola Santoro and
+               Masafumi Yamashita},
+  title     = {Brief announcement: waiting in dynamic networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {99-100},
+}
+
+@inproceedings{DBLP:conf/podc/Choudhury12,
+  author    = {Ashish Choudhury},
+  title     = {Brief announcement: optimal amortized secret sharing with cheater identification},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {101-102},
+}
+
+@inproceedings{DBLP:conf/podc/ChoudhuryP12,
+  author    = {Ashish Choudhury and
+               Arpita Patra},
+  title     = {Brief announcement: efficient optimally resilient statistical {AVSS} and its applications},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {103-104},
+}
+
+@inproceedings{DBLP:conf/podc/Delporte-GalletFGK12,
+  author    = {Carole Delporte-Gallet and
+               Hugues Fauconnier and
+               Eli Gafni and
+               Petr Kuznetsov},
+  title     = {Wait-freedom with advice},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {105-114},
+}
+
+@inproceedings{DBLP:conf/podc/EllenFKMT12,
+  author    = {Faith Ellen and
+               Panagiota Fatourou and
+               Eleftherios Kosmas and
+               Alessia Milani and
+               Corentin Travers},
+  title     = {Universal constructions that ensure disjoint-access parallelism and wait-freedom},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {115-124},
+}
+
+@inproceedings{DBLP:conf/podc/FalerioRRRV12,
+  author    = {Jose M. Falerio and
+               Sriram K. Rajamani and
+               Kaushik Rajan and
+               G. Ramalingam and
+               Kapil Vaswani},
+  title     = {Generalized lattice agreement},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {125-134},
+}
+
+@inproceedings{DBLP:conf/podc/AdolphsB12,
+  author    = {Clemens P. J. Adolphs and
+               Petra Berenbrink},
+  title     = {Distributed selfish load balancing with weights and speeds},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {135-144},
+}
+
+@inproceedings{DBLP:conf/podc/GilbertY12,
+  author    = {Seth Gilbert and
+               Maxwell Young},
+  title     = {Making evildoers pay: resource-competitive broadcast in sensor networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {145-154},
+}
+
+@inproceedings{DBLP:conf/podc/AkaviaGH12,
+  author    = {Adi Akavia and
+               Shafi Goldwasser and
+               Carmit Hazay},
+  title     = {Distributed public key schemes secure against continual leakage},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {155-164},
+}
+
+@inproceedings{DBLP:conf/podc/HirvonenS12,
+  author    = {Juho Hirvonen and
+               Jukka Suomela},
+  title     = {Distributed maximal matching: greedy is optimal},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {165-174},
+}
+
+@inproceedings{DBLP:conf/podc/GoosHS12,
+  author    = {Mika G{\"o}{\"o}s and
+               Juho Hirvonen and
+               Jukka Suomela},
+  title     = {Lower bounds for local approximation},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {175-184},
+}
+
+@inproceedings{DBLP:conf/podc/HellaJKLLLSV12,
+  author    = {Lauri Hella and
+               Matti J{\"a}rvisalo and
+               Antti Kuusisto and
+               Juhana Laurinharju and
+               Tuomo Lempi{\"a}inen and
+               Kerkko Luosto and
+               Jukka Suomela and
+               Jonni Virtema},
+  title     = {Weak models of distributed computing, with connections to modal logic},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {185-194},
+}
+
+@inproceedings{DBLP:conf/podc/CornejoGN12,
+  author    = {Alejandro Cornejo and
+               Seth Gilbert and
+               Calvin C. Newport},
+  title     = {Aggregation in dynamic networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {195-204},
+}
+
+@inproceedings{DBLP:conf/podc/HalldorssonM12,
+  author    = {Magn{\'u}s M. Halld{\'o}rsson and
+               Pradipta Mitra},
+  title     = {Distributed connectivity of wireless networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {205-214},
+}
+
+@inproceedings{DBLP:conf/podc/DaumGKN12,
+  author    = {Sebastian Daum and
+               Seth Gilbert and
+               Fabian Kuhn and
+               Calvin C. Newport},
+  title     = {Leader election in shared spectrum radio networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {215-224},
+}
+
+@inproceedings{DBLP:conf/podc/ChristoforouAGMS12,
+  author    = {Evgenia Christoforou and
+               Antonio Fern{\'a}ndez Anta and
+               Chryssis Georgiou and
+               Miguel A. Mosteiro and
+               Angel Sanchez},
+  title     = {Brief announcement: achieving reliability in master-worker computing via evolutionary dynamics},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {225-226},
+}
+
+@inproceedings{DBLP:conf/podc/DaniKMS12,
+  author    = {Varsha Dani and
+               Valerie King and
+               Mahnush Movahedi and
+               Jared Saia},
+  title     = {Brief announcement: breaking the O(nm) bit barrier, secure multiparty computation with a static adversary},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {227-228},
+}
+
+@inproceedings{DBLP:conf/podc/SarmaLNT12,
+  author    = {Atish Das Sarma and
+               Ashwin Lall and
+               Danupon Nanongkai and
+               Amitabh Trehan},
+  title     = {Brief announcement: maintaining large dense subgraphs on dynamic networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {229-230},
+}
+
+@inproceedings{DBLP:conf/podc/DavtyanKS12,
+  author    = {Seda Davtyan and
+               Kishori M. Konwar and
+               Alexander A. Shvartsman},
+  title     = {Brief announcement: decentralized network supercomputing in the presence of malicious and crash-prone workers},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {231-232},
+}
+
+@inproceedings{DBLP:conf/podc/DenysyukR12,
+  author    = {Oksana Denysyuk and
+               Lu{\'\i}s Rodrigues},
+  title     = {Brief announcement: order-preserving renaming in synchronous message passing systems with byzantine faults},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {233-234},
+}
+
+@inproceedings{DBLP:conf/podc/Farago12,
+  author    = {Andr{\'a}s Farag{\'o}},
+  title     = {Brief announcement: an obstacle to scalability in wireless networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {235-236},
+}
+
+@inproceedings{DBLP:conf/podc/FeigenbaumGPSSS12,
+  author    = {Joan Feigenbaum and
+               Brighten Godfrey and
+               Aurojit Panda and
+               Michael Schapira and
+               Scott Shenker and
+               Ankit Singla},
+  title     = {Brief announcement: on the resilience of routing tables},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {237-238},
+}
+
+@inproceedings{DBLP:conf/podc/GiakkoupisW12a,
+  author    = {George Giakkoupis and
+               Philipp Woelfel},
+  title     = {Brief announcement: a tight {RMR} lower bound for randomized mutual exclusion},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {239-240},
+}
+
+@inproceedings{DBLP:conf/podc/GramoliKR12,
+  author    = {Vincent Gramoli and
+               Petr Kuznetsov and
+               Srivatsan Ravi},
+  title     = {Brief announcement: From sequential to concurrent: correctness and relative efficiency},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {241-242},
+}
+
+@inproceedings{DBLP:conf/podc/ConrejoLS12,
+  author    = {Alejandro Cornejo and
+               Nancy A. Lynch and
+               Srikanth Sastry},
+  title     = {Asynchronous failure detectors},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {243-252},
+}
+
+@inproceedings{DBLP:conf/podc/HerlihyR12,
+  author    = {Maurice Herlihy and
+               Sergio Rajsbaum},
+  title     = {Simulations and reductions for colorless tasks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {253-260},
+}
+
+@inproceedings{DBLP:conf/podc/Taubenfeld12,
+  author    = {Gadi Taubenfeld},
+  title     = {A closer look at fault tolerance},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {261-270},
+}
+
+@inproceedings{DBLP:conf/podc/AkbariBS12,
+  author    = {Hoda Akbari and
+               Petra Berenbrink and
+               Thomas Sauerwald},
+  title     = {A simple approach for adapting continuous load balancing processes to discrete settings},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {271-280},
+}
+
+@inproceedings{DBLP:conf/podc/Kesselheim12,
+  author    = {Thomas Kesselheim},
+  title     = {Dynamic packet scheduling in wireless networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {281-290},
+}
+
+@inproceedings{DBLP:conf/podc/RichaSSZ12,
+  author    = {Andr{\'e}a W. Richa and
+               Christian Scheideler and
+               Stefan Schmid and
+               Jin Zhang},
+  title     = {Competitive and fair throughput for co-existing networks under adversarial interference},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {291-300},
+}
+
+@inproceedings{DBLP:conf/podc/ClementJKR12,
+  author    = {Allen Clement and
+               Flavio Junqueira and
+               Aniket Kate and
+               Rodrigo Rodrigues},
+  title     = {On the (limited) power of non-equivocation},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {301-308},
+}
+
+@inproceedings{DBLP:conf/podc/JaffeMS12,
+  author    = {Alexander Jaffe and
+               Thomas Moscibroda and
+               Siddhartha Sen},
+  title     = {On the price of equivocation in byzantine agreement},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {309-318},
+}
+
+@inproceedings{DBLP:conf/podc/LiangV12,
+  author    = {Guanfeng Liang and
+               Nitin H. Vaidya},
+  title     = {Byzantine broadcast in point-to-point networks using local linear coding},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {319-328},
+}
+
+@inproceedings{DBLP:conf/podc/GulyasKRBS12,
+  author    = {Andr{\'a}s Guly{\'a}s and
+               Attila Kor{\"o}si and
+               G{\'a}bor R{\'e}tv{\'a}ri and
+               J{\'o}zsef B{\'\i}r{\'o} and
+               D{\'a}vid Szab{\'o}},
+  title     = {Brief announcement: network formation games can give rise to realistic networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {329-330},
+}
+
+@inproceedings{DBLP:conf/podc/LychevGS12,
+  author    = {Robert Lychev and
+               Sharon Goldberg and
+               Michael Schapira},
+  title     = {Brief announcement: network-destabilizing attacks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {331-332},
+}
+
+@inproceedings{DBLP:conf/podc/MilosevicHS12,
+  author    = {Zarko Milosevic and
+               Martin Hutle and
+               Andr{\'e} Schiper},
+  title     = {Brief announcement: tolerating permanent and transient value faults},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {333-334},
+}
+
+@inproceedings{DBLP:conf/podc/PreguicaBAFG12,
+  author    = {Nuno M. Pregui{\c{c}}a and
+               Carlos Baquero and
+               Paulo S{\'e}rgio Almeida and
+               Victor Fonte and
+               Ricardo Gon{\c{c}}alves},
+  title     = {Brief announcement: efficient causality tracking in distributed storage systems with dotted version vectors},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {335-336},
+}
+
+@inproceedings{DBLP:conf/podc/RaynalS12,
+  author    = {Michel Raynal and
+               Julien Stainer},
+  title     = {Brief announcement: increasing the power of the iterated immediate snapshot model with failure detectors},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {337-338},
+}
+
+@inproceedings{DBLP:conf/podc/Vaya12,
+  author    = {Shailesh Vaya},
+  title     = {Brief announcement: delay or deliver dilemma in organization networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {339-340},
+}
+
+@inproceedings{DBLP:conf/podc/VigfussonBFHJS12,
+  author    = {Ymir Vigfusson and
+               Ken Birman and
+               Daniel A. Freedman and
+               Qi Huang and
+               Kristj{\'a}n V. J{\'o}nsson and
+               Gunnar Sigurbj{\"o}rnsson},
+  title     = {Brief announcement: live streaming with utilities, quality and cost},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {341-342},
+}
+
+@inproceedings{DBLP:conf/podc/WangTGLS12,
+  author    = {Anduo Wang and
+               Carolyn L. Talcott and
+               Alexander J. T. Gurney and
+               Boon Thau Loo and
+               Andre Scedrov},
+  title     = {Brief announcement: a calculus of policy-based routing systems},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {343-344},
+}
+
+@inproceedings{DBLP:conf/podc/ChakaravarthyRS12,
+  author    = {Venkatesan T. Chakaravarthy and
+               Sambuddha Roy and
+               Yogish Sabharwal},
+  title     = {Distributed algorithms for scheduling on line and tree networks},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {345-354},
+}
+
+@inproceedings{DBLP:conf/podc/HolzerW12,
+  author    = {Stephan Holzer and
+               Roger Wattenhofer},
+  title     = {Optimal distributed all pairs shortest paths and applications},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {355-364},
+}
+
+@inproceedings{DBLP:conf/podc/VaidyaTL12,
+  author    = {Nitin H. Vaidya and
+               Lewis Tseng and
+               Guanfeng Liang},
+  title     = {Iterative approximate byzantine consensus in arbitrary directed graphs},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {365-374},
+}
+
+@inproceedings{DBLP:conf/podc/AspnesACE12,
+  author    = {James Aspnes and
+               Hagit Attiya and
+               Keren Censor-Hillel and
+               Faith Ellen},
+  title     = {Faster than optimal snapshots (for a while): preliminary version},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {375-384},
+}
+
+@inproceedings{DBLP:conf/podc/HelmiHW12,
+  author    = {Maryam Helmi and
+               Lisa Higham and
+               Philipp Woelfel},
+  title     = {Strongly linearizable implementations: possibilities and impossibilities},
+  booktitle = podc,
+  year      = 2012,
+  pages     = {385-394},
+}
+
 @inproceedings{DBLP:conf/podc/KuhnOM11,
   author    = {Fabian Kuhn and
-               Rotem Oshman and
-               Yoram Moses},
+               Yoram Moses and
+               Rotem Oshman},
   title     = {Coordinated consensus in dynamic networks},
   booktitle = podc,
   year      = 2011,
@@ -1108,7 +1730,7 @@
 }
 
 @inproceedings{DBLP:conf/podc/TranLSC10,
-  author    = {Nguyen Tran and
+  author    = {Dinh Nguyen Tran and
                Jinyang Li and
                Lakshminarayanan Subramanian and
                Sherman S. M. Chow},
