@@ -5,6 +5,7 @@ import os.path
 import re
 import string
 import sys
+import datetime
 
 import lxml.etree
 

@@ -1,13 +1,22 @@
-.PHONY: all
+.PHONY: all dblp.dtd
 
 all: xtx/TIMESTAMP xtx/locations.xtx
 
-xtx/TIMESTAMP: dblp.xml dblpparse.py  latex.py  locations.py  overrides.py  parentheticals.py
+xtx/TIMESTAMP: dblp.xml dblp.dtd dblpparse.py  latex.py  locations.py  overrides.py  parentheticals.py
 	python dblpparse.py
 
 xtx/locations.xtx: locations.py
 	python locations.py
 
+dblp.dtd:
+	wget -Nq http://dblp.uni-trier.de/xml/dblp.dtd
+
 dblp.xml:
-	wget http://dblp.uni-trier.de/xml/dblp.xml.gz
+	wget -N http://dblp.uni-trier.de/xml/dblp.xml.gz
 	gunzip dblp.xml.gz
+
+clean:
+	rm -f dblp.dtd
+
+clobber: clean
+	rm -f dblp.xml
