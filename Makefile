@@ -19,4 +19,5 @@ clean:
 	rm -f dblp.dtd
 
 clobber: clean
-	rm -f dblp.xml
+	rm -f dblp.xml dblp.xml.gz dblp.dtd
+
