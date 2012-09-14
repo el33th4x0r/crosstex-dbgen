@@ -11,13 +11,13 @@ xtx/locations.xtx: locations.py
 dblp.dtd:
 	wget -Nq http://dblp.uni-trier.de/xml/dblp.dtd
 
-dblp.xml:
+dblp.xml.gz:
 	wget -N http://dblp.uni-trier.de/xml/dblp.xml.gz
+
+dblp.xml: dblp.xml.gz
 	gunzip dblp.xml.gz
 
 clean:
-	rm -f dblp.dtd
 
 clobber: clean
 	rm -f dblp.xml dblp.xml.gz dblp.dtd
-
