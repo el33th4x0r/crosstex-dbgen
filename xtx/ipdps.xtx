@@ -1,5 +1,1364 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/ipps/Johnson12,
+  author    = {Chris Johnson},
+  title     = {Large-scale visual data analysis},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/ipps/AndersonSK12,
+  author    = {Michael J. Anderson and
+               David Sheffield and
+               Kurt Keutzer},
+  title     = {A Predictive Model for Solving Small Linear Algebra Problems in {GPU} Registers},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {2-13},
+}
+
+@inproceedings{DBLP:conf/ipps/BaboulinBD12,
+  author    = {Marc Baboulin and
+               Dulceneia Becker and
+               Jack Dongarra},
+  title     = {A Parallel Tiled Solver for Dense Symmetric Indefinite Systems on Multicore Architectures},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {14-24},
+}
+
+@inproceedings{DBLP:conf/ipps/HaidarLLD12,
+  author    = {Azzam Haidar and
+               Hatem Ltaief and
+               Piotr Luszczek and
+               Jack Dongarra},
+  title     = {A Comprehensive Study of Task Coalescing for Selecting Parallelism Granularity in a {Two-Stage} Bidiagonal Reduction},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {25-35},
+}
+
+@inproceedings{DBLP:conf/ipps/LiuCVS12,
+  author    = {Xing Liu and
+               Edmond Chow and
+               Karthikeyan Vaidyanathan and
+               Mikhail Smelyanskiy},
+  title     = {Improving the Performance of Dynamical Simulations Via Multiple {Right-Hand} Sides},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {36-47},
+}
+
+@inproceedings{DBLP:conf/ipps/BissetABCEHHMWXYM12,
+  author    = {Keith R. Bisset and
+               Md. Maksudul Alam and
+               Josep Bassaganya-Riera and
+               Adria Carbo and
+               Stephen Eubank and
+               Raquel Hontecillas and
+               Stefan Hoops and
+               Yongguo Mei and
+               Katherine V. Wendelsdorf and
+               Dawen Xie and
+               Jae-Seung Yeom and
+               Madhav V. Marathe},
+  title     = {{High-Performance} {Interaction-Based} Simulation of Gut Immunopathologies with {ENteric} Immunity Simulator (ENISI)},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {48-59},
+}
+
+@inproceedings{DBLP:conf/ipps/ShahCA12,
+  author    = {Ankit Shah and
+               Sriram Chockalingam and
+               Srinivas Aluru},
+  title     = {A Parallel Algorithm for Spectrum-based Short Read Error Correction},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {60-70},
+}
+
+@inproceedings{DBLP:conf/ipps/OrobitgCGKNR12,
+  author    = {Miquel Orobitg and
+               Fernando Cores and
+               Fernando Guirado and
+               Carsten Kemena and
+               C{\'e}dric Notredame and
+               Ana Ripoll},
+  title     = {Enhancing the Scalability of Consistency-based Progressive Multiple Sequences Alignment Applications},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {71-82},
+}
+
+@inproceedings{DBLP:conf/ipps/CuiLRC12,
+  author    = {Zheng Cui and
+               Yun Liang and
+               Kyle Rupnow and
+               Deming Chen},
+  title     = {An Accurate {GPU} Performance Model for Effective Control Flow Divergence Optimization},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {83-94},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhaoCD12,
+  author    = {Lihang Zhao and
+               Woojin Choi and
+               Jeff Draper},
+  title     = {SEL-TM: Selective {Eager-Lazy} Management for Improved Concurrency in Transactional Memory},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {95-106},
+}
+
+@inproceedings{DBLP:conf/ipps/MengSS12,
+  author    = {Jiayuan Meng and
+               Jeremy W. Sheaffer and
+               Kevin Skadron},
+  title     = {Robust SIMD: Dynamically Adapted {SIMD} Width and {Multi-Threading} Depth},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {107-118},
+}
+
+@inproceedings{DBLP:conf/ipps/LeeYLAP12,
+  author    = {Jongwon Lee and
+               Jonghee M. Youn and
+               Jihoon Lee and
+               Minwook Ahn and
+               Yunheung Paek},
+  title     = {Dynamic Operands Insertion for {VLIW} Architecture with a Reduced Bit-width Instruction Set},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {119-130},
+}
+
+@inproceedings{DBLP:conf/ipps/YanJFTT12,
+  author    = {Zhichao Yan and
+               Hong Jiang and
+               Dan Feng and
+               Lei Tian and
+               Yujuan Tan},
+  title     = {SUV: A Novel {Single-Update} {Version-Management} Scheme for Hardware Transactional Memory Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {131-143},
+}
+
+@inproceedings{DBLP:conf/ipps/ScoglandRFS12,
+  author    = {Thomas Scogland and
+               Barry Rountree and
+               Wu-chun Feng and
+               Bronis R. de Supinski},
+  title     = {Heterogeneous Task Scheduling for Accelerated {OpenMP}},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {144-155},
+}
+
+@inproceedings{DBLP:conf/ipps/ZouSMD12,
+  author    = {Hongbo Zou and
+               Xian-He Sun and
+               Siyuan Ma and
+               Xi Duan},
+  title     = {A Source-aware Interrupt Scheduling for Modern Parallel I/O Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {156-166},
+}
+
+@inproceedings{DBLP:conf/ipps/Ben-YehudaSSSI12,
+  author    = {Orna Agmon Ben-Yehuda and
+               Assaf Schuster and
+               Artyom Sharov and
+               Mark Silberstein and
+               Alexandru Iosup},
+  title     = {ExPERT: {Pareto-Efficient} Task Replication on Grids and a Cloud},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {167-178},
+}
+
+@inproceedings{DBLP:conf/ipps/KimR12,
+  author    = {Junwhan Kim and
+               Binoy Ravindran},
+  title     = {Scheduling {Closed-Nested} Transactions in Distributed Transactional Memory},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {179-188},
+}
+
+@inproceedings{DBLP:conf/ipps/BenoitMRR12,
+  author    = {Anne Benoit and
+               Rami G. Melhem and
+               Paul Renaud-Goud and
+               Yves Robert},
+  title     = {Power-aware Manhattan Routing on Chip Multiprocessors},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {189-200},
+}
+
+@inproceedings{DBLP:conf/ipps/ColeR12,
+  author    = {Richard Cole and
+               Vijaya Ramachandran},
+  title     = {Efficient Resource Oblivious Algorithms for Multicores with False Sharing},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {201-214},
+}
+
+@inproceedings{DBLP:conf/ipps/KattiR12,
+  author    = {Anil Kumar Katti and
+               Vijaya Ramachandran},
+  title     = {Competitive Cache Replacement Strategies for Shared Cache Environments},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {215-226},
+}
+
+@inproceedings{DBLP:conf/ipps/PetersSL12,
+  author    = {Hagen Peters and
+               Ole Schulz-Hildebrandt and
+               Norbert Luttenberger},
+  title     = {A Novel Sorting Algorithm for Many-core Architectures Based on Adaptive Bitonic Sort},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {227-237},
+}
+
+@inproceedings{DBLP:conf/ipps/MertziosSVWZ12,
+  author    = {George B. Mertzios and
+               Mordechai Shalom and
+               Ariella Voloshin and
+               Prudence W. H. Wong and
+               Shmuel Zaks},
+  title     = {Optimizing Busy Time on Parallel Machines},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {238-248},
+}
+
+@inproceedings{DBLP:conf/ipps/ChenCHG12,
+  author    = {Quan Chen and
+               Yawen Chen and
+               Zhiyi Huang and
+               Minyi Guo},
+  title     = {WATS: {Workload-Aware} Task Scheduling in Asymmetric Multi-core Architectures},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {249-260},
+}
+
+@inproceedings{DBLP:conf/ipps/GuanSYY12,
+  author    = {Nan Guan and
+               Martin Stigge and
+               Wang Yi and
+               Ge Yu},
+  title     = {Parametric Utilization Bounds for {Fixed-Priority} Multiprocessor Scheduling},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {261-272},
+}
+
+@inproceedings{DBLP:conf/ipps/BeaumontBEM12,
+  author    = {Olivier Beaumont and
+               Nicolas Bonichon and
+               Lionel Eyraud-Dubois and
+               Loris Marchal},
+  title     = {Minimizing Weighted Mean Completion Time for Malleable Tasks Scheduling},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {273-284},
+}
+
+@inproceedings{DBLP:conf/ipps/ArafatSDKW12,
+  author    = {Humayun Arafat and
+               P. Sadayappan and
+               James Dinan and
+               Sriram Krishnamoorthy and
+               Theresa L. Windus},
+  title     = {Load Balancing of Dynamical Nucleation Theory Monte Carlo Simulations through Resource Sharing Barriers},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {285-295},
+}
+
+@inproceedings{DBLP:conf/ipps/YuFHC12,
+  author    = {Wei Yu and
+               Franz Franchetti and
+               James C. Hoe and
+               Tsuhan Chen},
+  title     = {Highly Efficient Performance Portable Tracking of Evolving Surfaces},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {296-307},
+}
+
+@inproceedings{DBLP:conf/ipps/TomasCSB12,
+  author    = {Andres Tomas and
+               Chia-Chen Chang and
+               Richard Scalettar and
+               Zhaojun Bai},
+  title     = {Advancing Large Scale {Many-Body} {QMC} Simulations on {GPU} Accelerated Multicore Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {308-319},
+}
+
+@inproceedings{DBLP:conf/ipps/PerroneLLMKFS12,
+  author    = {Michael Perrone and
+               Lurng-Kuo Liu and
+               Ligang Lu and
+               Karen Magerlein and
+               Changhoan Kim and
+               Irina Fedulova and
+               Artyom Semenikhin},
+  title     = {Reducing Data Movement Costs: Scalable Seismic Imaging on Blue Gene},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {320-329},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhangDJ12,
+  author    = {Xuechen Zhang and
+               Kei Davis and
+               Song Jiang},
+  title     = {Opportunistic Data-driven Execution of Parallel Programs for Efficient I/O Services},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {330-341},
+}
+
+@inproceedings{DBLP:conf/ipps/ChenLCZQ12,
+  author    = {Zhezhe Chen and
+               Xinyu Li and
+               Jau-Yuan Chen and
+               Hua Zhong and
+               Feng Qin},
+  title     = {SyncChecker: Detecting Synchronization Errors between {MPI} Applications and Libraries},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {342-353},
+}
+
+@inproceedings{DBLP:conf/ipps/ProtzeHKSM12,
+  author    = {Joachim Protze and
+               Tobias Hilbrich and
+               Andreas Kn{\"u}pfer and
+               Bronis R. de Supinski and
+               Matthias S. M{\"u}ller},
+  title     = {Holistic Debugging of {MPI} Derived Datatypes},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {354-365},
+}
+
+@inproceedings{DBLP:conf/ipps/TchiboukdjianCP12,
+  author    = {Marc Tchiboukdjian and
+               Patrick Carribault and
+               Marc P{\'e}rache},
+  title     = {Hierarchical Local Storage: Exploiting Flexible {User-Data} Sharing Between {MPI} Tasks},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {366-377},
+}
+
+@inproceedings{DBLP:conf/ipps/ChhuganiSKSD12,
+  author    = {Jatin Chhugani and
+               Nadathur Satish and
+               Changkyu Kim and
+               Jason Sewall and
+               Pradeep Dubey},
+  title     = {Fast and Efficient Graph Traversal Algorithm for CPUs: Maximizing {Single-Node} Efficiency},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {378-389},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhaoWBKKM12,
+  author    = {Zhao Zhao and
+               Guanying Wang and
+               Ali Raza Butt and
+               Maleq Khan and
+               V. S. Anil Kumar and
+               Madhav V. Marathe},
+  title     = {SAHAD: Subgraph Analysis in Massive Networks Using Hadoop},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {390-401},
+}
+
+@inproceedings{DBLP:conf/ipps/Cayton12,
+  author    = {Lawrence Cayton},
+  title     = {Accelerating Nearest Neighbor Search on Manycore Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {402-413},
+}
+
+@inproceedings{DBLP:conf/ipps/CongM12,
+  author    = {Guojing Cong and
+               Konstantin Makarychev},
+  title     = {Optimizing Large-scale Graph Analysis on Multithreaded, Multicore Platforms},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {414-425},
+}
+
+@inproceedings{DBLP:conf/ipps/IsaacBG12,
+  author    = {Tobin Isaac and
+               Carsten Burstedde and
+               Omar Ghattas},
+  title     = {{Low-Cost} Parallel Algorithms for 2: 1 Octree Balance},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {426-437},
+}
+
+@inproceedings{DBLP:conf/ipps/YaoWCTS12,
+  author    = {Erlin Yao and
+               Rui Wang and
+               Mingyu Chen and
+               Guangming Tan and
+               Ninghui Sun},
+  title     = {A Case Study of Designing Efficient Algorithm-based Fault Tolerant Application for Exascale Parallelism},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {438-448},
+}
+
+@inproceedings{DBLP:conf/ipps/KalamkarTSSKMSBKD12,
+  author    = {Dhiraj D. Kalamkar and
+               Joshua D. Trzaskoz and
+               Srinivas Sridharan and
+               Mikhail Smelyanskiy and
+               Daehyun Kim and
+               Armando Manduca and
+               Yunhong Shu and
+               Matt A. Bernstein and
+               Bharat Kaul and
+               Pradeep Dubey},
+  title     = {High Performance Non-uniform {FFT} on Modern X86-based Multi-core Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {449-460},
+}
+
+@inproceedings{DBLP:conf/ipps/ShaheenS12,
+  author    = {Mohammed Shaheen and
+               Robert Strzodka},
+  title     = {{NUMA} Aware Iterative Stencil Computations on {Many-Core} Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {461-473},
+}
+
+@inproceedings{DBLP:conf/ipps/IwashitaNT12,
+  author    = {Takeshi Iwashita and
+               Hiroshi Nakashima and
+               Yasuhito Takahashi},
+  title     = {Algebraic Block {Multi-Color} Ordering Method for Parallel {Multi-Threaded} Sparse Triangular Solver in {ICCG} Method},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {474-483},
+}
+
+@inproceedings{DBLP:conf/ipps/GyulassyPPR12,
+  author    = {Attila Gyulassy and
+               Valerio Pascucci and
+               Tom Peterka and
+               Robert B. Ross},
+  title     = {The Parallel Computation of {Morse-Smale} Complexes},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {484-495},
+}
+
+@inproceedings{DBLP:conf/ipps/DonfackGGK12,
+  author    = {Simplice Donfack and
+               Laura Grigori and
+               William D. Gropp and
+               Vivek Kale},
+  title     = {Hybrid Static/dynamic Scheduling for Already Optimized Dense Matrix Factorization},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {496-507},
+}
+
+@inproceedings{DBLP:conf/ipps/FeliuSPD12,
+  author    = {Josu{\'e} Feliu and
+               Julio Sahuquillo and
+               Salvador Petit and
+               Jos{\'e} Duato},
+  title     = {Understanding Cache Hierarchy Contention in {CMPs} to Improve Job Scheduling},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {508-519},
+}
+
+@inproceedings{DBLP:conf/ipps/JagtapAP12,
+  author    = {Deepak Jagtap and
+               Nael B. Abu-Ghazaleh and
+               Dmitry Ponomarev},
+  title     = {Optimization of Parallel Discrete Event Simulator for Multi-core Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {520-531},
+}
+
+@inproceedings{DBLP:conf/ipps/CruzDN12,
+  author    = {Eduardo Henrique Molina da Cruz and
+               Matthias Diener and
+               Philippe Olivier Alexandre Navaux},
+  title     = {Using the Translation Lookaside Buffer to Map Threads in Parallel Applications Based on Shared Memory},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {532-543},
+}
+
+@inproceedings{DBLP:conf/ipps/MaedaMDKNH12,
+  author    = {Kumiko Maeda and
+               Masana Murase and
+               Munehiro Doi and
+               Hideaki Komatsu and
+               Shigeho Noda and
+               Ryutaro Himeno},
+  title     = {Automatic Resource Scheduling with Latency Hiding for Parallel Stencil Applications on {GPGPU} Clusters},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {544-556},
+}
+
+@inproceedings{DBLP:conf/ipps/BuenoPDBMAL12,
+  author    = {Javier Bueno and
+               Judit Planas and
+               Alejandro Duran and
+               Rosa M. Badia and
+               Xavier Martorell and
+               Eduard Ayguad{\'e} and
+               Jes{\'u}s Labarta},
+  title     = {Productive Programming of {GPU} Clusters with {OmpSs}},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {557-568},
+}
+
+@inproceedings{DBLP:conf/ipps/MembarthHTKE12,
+  author    = {Richard Membarth and
+               Frank Hannig and
+               J{\"u}rgen Teich and
+               Mario K{\"o}rner and
+               Wieland Eckert},
+  title     = {Generating Device-specific {GPU} Code for Local Operators in Medical Imaging},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {569-581},
+}
+
+@inproceedings{DBLP:conf/ipps/SidelnikMCGP12,
+  author    = {Albert Sidelnik and
+               Saeed Maleki and
+               Bradford L. Chamberlain and
+               Mar{\'\i}a Jes{\'u}s Garzar{\'a}n and
+               David A. Padua},
+  title     = {Performance Portability with the Chapel Language},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {582-594},
+}
+
+@inproceedings{DBLP:conf/ipps/Beckman12,
+  author    = {Pete Beckman},
+  title     = {Exascale System Software for the Year of the Dragon},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {595},
+}
+
+@inproceedings{DBLP:conf/ipps/LifflanderMVAKJ12,
+  author    = {Jonathan Lifflander and
+               Phil Miller and
+               Ramprasad Venkataraman and
+               Anshu Arya and
+               Laxmikant V. Kal{\'e} and
+               Terry Jones},
+  title     = {Mapping Dense {LU} Factorization on Multicore Supercomputer Nodes},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {596-606},
+}
+
+@inproceedings{DBLP:conf/ipps/DongarraFHLR12,
+  author    = {Jack Dongarra and
+               Mathieu Faverge and
+               Thomas H{\'e}rault and
+               Julien Langou and
+               Yves Robert},
+  title     = {Hierarchical {QR} Factorization Algorithms for Multi-core Cluster Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {607-618},
+}
+
+@inproceedings{DBLP:conf/ipps/YamazakiL12,
+  author    = {Ichitaro Yamazaki and
+               Xiaoye S. Li},
+  title     = {New Scheduling Strategies and Hybrid Programming for a Parallel Right-looking Sparse {LU} Factorization Algorithm on Multicore Cluster Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {619-630},
+}
+
+@inproceedings{DBLP:conf/ipps/RajamanickamBH12,
+  author    = {Sivasankaran Rajamanickam and
+               Erik G. Boman and
+               Michael A. Heroux},
+  title     = {ShyLU: A {Hybrid-Hybrid} Solver for Multicore Platforms},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {631-643},
+}
+
+@inproceedings{DBLP:conf/ipps/JiangA12,
+  author    = {Wei Jiang and
+               Gagan Agrawal},
+  title     = {MATE-CG: A Map {Reduce-Like} Framework for Accelerating {Data-Intensive} Computations on Heterogeneous Clusters},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {644-655},
+}
+
+@inproceedings{DBLP:conf/ipps/GuoLZ12,
+  author    = {Yanfei Guo and
+               Palden Lama and
+               Xiaobo Zhou},
+  title     = {Automated and Agile Server Parameter Tuning with Learning and Control},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {656-667},
+}
+
+@inproceedings{DBLP:conf/ipps/XiongVWYRZSP12,
+  author    = {Naixue Xiong and
+               Athanasios V. Vasilakos and
+               Jie Wu and
+               Y. Richard Yang and
+               Andy Rindos and
+               Yuezhi Zhou and
+               Wen-Zhan Song and
+               Yi Pan},
+  title     = {A Self-tuning Failure Detection Scheme for Cloud Computing Service},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {668-679},
+}
+
+@inproceedings{DBLP:conf/ipps/KristensenZV12,
+  author    = {Mads Ruben Burgdorff Kristensen and
+               Yili Zheng and
+               Brian Vinter},
+  title     = {{PGAS} for Distributed Numerical Python Targeting Multi-core Clusters},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {680-690},
+}
+
+@inproceedings{DBLP:conf/ipps/LiuPL12,
+  author    = {Gang Liu and
+               Jih-Kwon Peir and
+               Victor W. Lee},
+  title     = {{Miss-Correlation} Folding: Encoding {Per-Block} Miss Correlations in Compressed {DRAM} for Data Prefetching},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {691-702},
+}
+
+@inproceedings{DBLP:conf/ipps/EssenPAG12,
+  author    = {Brian Van Essen and
+               Roger A. Pearce and
+               Sasha Ames and
+               Maya Gokhale},
+  title     = {On the Role of {NVRAM} in Data-intensive Architectures: An Evaluation},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {703-714},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhangDJ12a,
+  author    = {Xuechen Zhang and
+               Kei Davis and
+               Song Jiang},
+  title     = {iTransformer: Using {SSD} to Improve Disk Scheduling for High-performance I/O},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {715-726},
+}
+
+@inproceedings{DBLP:conf/ipps/ChakrabortySS12,
+  author    = {Abhirup Chakraborty and
+               Eugen Schenfeld and
+               Dilma Da Silva},
+  title     = {Switching {Optically-Connected} Memories in a {Large-Scale} System},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {727-738},
+}
+
+@inproceedings{DBLP:conf/ipps/DinanBHKT12,
+  author    = {James Dinan and
+               Pavan Balaji and
+               Jeff R. Hammond and
+               Sriram Krishnamoorthy and
+               Vinod Tipparaju},
+  title     = {Supporting the Global Arrays {PGAS} Model Using {MPI} {One-Sided} Communication},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {739-750},
+}
+
+@inproceedings{DBLP:conf/ipps/SunZKJO12,
+  author    = {Yanhua Sun and
+               Gengbin Zheng and
+               Laximant V. Kal{\'e} and
+               Terry R. Jones and
+               Ryan Olson},
+  title     = {A {uGNI-based} Asynchronous Message-driven Runtime System for Cray Supercomputers with Gemini Interconnect},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {751-762},
+}
+
+@inproceedings{DBLP:conf/ipps/KumarMFSBCMPRHCS12,
+  author    = {Sameer Kumar and
+               Amith R. Mamidala and
+               Daniel Faraj and
+               Brian E. Smith and
+               Michael Blocksome and
+               Bob Cernohous and
+               Douglas Miller and
+               Jeff Parker and
+               Joseph Ratterman and
+               Philip Heidelberger and
+               Dong Chen and
+               Burkhard Steinmacher-Burrow},
+  title     = {PAMI: A Parallel Active Message Interface for the Blue Gene/Q Supercomputer},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {763-773},
+}
+
+@inproceedings{DBLP:conf/ipps/HuangOJWWLSMP12,
+  author    = {Jian Huang and
+               Xiangyong Ouyang and
+               Jithin Jose and
+               Md. Wasi-ur-Rahman and
+               Hao Wang and
+               Miao Luo and
+               Hari Subramoni and
+               Chet Murthy and
+               Dhabaleswar K. Panda},
+  title     = {{High-Performance} Design of {HBase} with {RDMA} over {InfiniBand}},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {774-785},
+}
+
+@inproceedings{DBLP:conf/ipps/StillwellVC12,
+  author    = {Mark Stillwell and
+               Fr{\'e}d{\'e}ric Vivien and
+               Henri Casanova},
+  title     = {Virtual Machine Resource Allocation for Service Hosting on Heterogeneous Distributed Platforms},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {786-797},
+}
+
+@inproceedings{DBLP:conf/ipps/LiC12,
+  author    = {Yusen Li and
+               Wentong Cai},
+  title     = {Consistency-aware Partitioning Algorithm in Multi-server Distributed Virtual Environments},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {798-807},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhaoPL0F12,
+  author    = {Han Zhao and
+               Miao Pan and
+               Xinxin Liu and
+               Xiaolin Li and
+               Yuguang Fang},
+  title     = {Optimal Resource Rental Planning for Elastic Applications in Cloud Market},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {808-819},
+}
+
+@inproceedings{DBLP:conf/ipps/AdolphsB12,
+  author    = {Clemens P. J. Adolphs and
+               Petra Berenbrink},
+  title     = {Improved Bounds for Discrete Diffusive Load Balancing},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {820-826},
+}
+
+@inproceedings{DBLP:conf/ipps/PatwaryRM12,
+  author    = {Md. Mostofa Ali Patwary and
+               Peder Refsnes and
+               Fredrik Manne},
+  title     = {Multi-core Spanning Forest Algorithms using the Disjoint-set Data Structure},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {827-835},
+}
+
+@inproceedings{DBLP:conf/ipps/AjwaniAM12,
+  author    = {Deepak Ajwani and
+               Shoukat Ali and
+               John P. Morrison},
+  title     = {Graph Partitioning for Reconfigurable Topology},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {836-847},
+}
+
+@inproceedings{DBLP:conf/ipps/CatalyurekDKU12,
+  author    = {{\"U}mit V. {\c{C}}ataly{\"u}rek and
+               Mehmet Deveci and
+               Kamer Kaya and
+               Bora U{\c{c}}ar},
+  title     = {Multithreaded Clustering for Multi-level Hypergraph Partitioning},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {848-859},
+}
+
+@inproceedings{DBLP:conf/ipps/AzadHRBKP12,
+  author    = {Ariful Azad and
+               Mahantesh Halappanavar and
+               Sivasankaran Rajamanickam and
+               Erik G. Boman and
+               Arif Khan and
+               Alex Pothen},
+  title     = {Multithreaded Algorithms for Maxmum Matching in Bipartite Graphs},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {860-872},
+}
+
+@inproceedings{DBLP:conf/ipps/GongLJKECRKS12,
+  author    = {Zhenhuan Gong and
+               Sriram Lakshminarasimhan and
+               John Jenkins and
+               Hemanth Kolla and
+               St{\'e}phane Ethier and
+               Jackie Chen and
+               Robert B. Ross and
+               Scott Klasky and
+               Nagiza F. Samatova},
+  title     = {Multi-level Layout Optimization for Efficient Spatio-temporal Queries on {ISABELA-compressed} Data},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {873-884},
+}
+
+@inproceedings{DBLP:conf/ipps/Zhu12,
+  author    = {Yingwu Zhu},
+  title     = {Evaluating Mesh-based P2P {Video-on-Demand} Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {885-896},
+}
+
+@inproceedings{DBLP:conf/ipps/EavisT12,
+  author    = {Todd Eavis and
+               Ahmad Taleb},
+  title     = {Query Optimization and Execution in a Parallel Analytics {DBMS}},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {897-908},
+}
+
+@inproceedings{DBLP:conf/ipps/BaldoniBPQ12,
+  author    = {Roberto Baldoni and
+               Silvia Bonomi and
+               Marco Platania and
+               Leonardo Querzoni},
+  title     = {Dynamic Message Ordering for {Topic-Based} Publish/Subscribe Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {909-920},
+}
+
+@inproceedings{DBLP:conf/ipps/WangDXJ12,
+  author    = {Yizhe Wang and
+               Kei Davis and
+               Yuehai Xu and
+               Song Jiang},
+  title     = {iHarmonizer: Improving the Disk Efficiency of I/O-intensive Multithreaded Codes},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {921-932},
+}
+
+@inproceedings{DBLP:conf/ipps/YuRLGKW12,
+  author    = {Yongen Yu and
+               Douglas H. Rudd and
+               Zhiling Lan and
+               Nickolay Y. Gnedin and
+               Andrey V. Kravtsov and
+               Jingjin Wu},
+  title     = {Improving Parallel {IO} Performance of Cell-based {AMR} Cosmology Applications},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {933-944},
+}
+
+@inproceedings{DBLP:conf/ipps/LiVMMCLY12,
+  author    = {Dong Li and
+               Jeffrey S. Vetter and
+               Gabriel Marin and
+               Collin McCurdy and
+               Cristian Cira and
+               Zhuo Liu and
+               Weikuan Yu},
+  title     = {Identifying Opportunities for {Byte-Addressable} {Non-Volatile} Memory in {Extreme-Scale} Scientific Applications},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {945-956},
+}
+
+@inproceedings{DBLP:conf/ipps/WangVMMKE12,
+  author    = {Chao Wang and
+               Sudharshan S. Vazhkudai and
+               Xiaosong Ma and
+               Fei Meng and
+               Youngjae Kim and
+               Christian Engelmann},
+  title     = {NVMalloc: Exposing an Aggregate {SSD} Store as a Memory Partition in {Extreme-Scale} Machines},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {957-968},
+}
+
+@inproceedings{DBLP:conf/ipps/Li12,
+  author    = {Guo-Jie Li},
+  title     = {Building billion-threads computer and elastic processor},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {969},
+}
+
+@inproceedings{DBLP:conf/ipps/MaBBD12,
+  author    = {Teng Ma and
+               George Bosilca and
+               Aurelien Bouteiller and
+               Jack Dongarra},
+  title     = {HierKNEM: An Adaptive Framework for {Kernel-Assisted} and {Topology-Aware} Collective Communications on Many-core Clusters},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {970-982},
+}
+
+@inproceedings{DBLP:conf/ipps/MatosSFOR12,
+  author    = {Miguel Matos and
+               Valerio Schiavoni and
+               Pascal Felber and
+               Rui Oliveira and
+               Etienne Riviere},
+  title     = {BRISA: Combining Efficiency and Reliability in Epidemic Data Dissemination},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {983-994},
+}
+
+@inproceedings{DBLP:conf/ipps/GuptaXYZ12,
+  author    = {Saurabh Gupta and
+               Ping Xiang and
+               Yi Yang and
+               Huiyang Zhou},
+  title     = {Locality Principle Revisited: A {Probability-Based} Quantitative Approach},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {995-1009},
+}
+
+@inproceedings{DBLP:conf/ipps/MorariGWRIV12,
+  author    = {Alessandro Morari and
+               Roberto Gioiosa and
+               Robert W. Wisniewski and
+               Bryan S. Rosenburg and
+               Todd Inglett and
+               Mateo Valero},
+  title     = {Evaluating the Impact of {TLB} Misses on Future {HPC} Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1010-1021},
+}
+
+@inproceedings{DBLP:conf/ipps/BenoitLR12,
+  author    = {Anne Benoit and
+               Hubert Larchev{\^e}que and
+               Paul Renaud-Goud},
+  title     = {Optimal Algorithms and Approximation Algorithms for Replica Placement with Distance Constraints in Tree Networks},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1022-1033},
+}
+
+@inproceedings{DBLP:conf/ipps/GuoY12,
+  author    = {Zhiyang Guo and
+               Yuanyuan Yang},
+  title     = {On Nonblocking Multirate Multicast Fat-tree Data Center Networks with Server Redundancy},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1034-1044},
+}
+
+@inproceedings{DBLP:conf/ipps/SharmaBS12,
+  author    = {Gokarna Sharma and
+               Costas Busch and
+               Srinivasagopalan Srivathsan},
+  title     = {Distributed Transactional Memory for General Networks},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1045-1056},
+}
+
+@inproceedings{DBLP:conf/ipps/KlonowskiP12,
+  author    = {Marek Klonowski and
+               Dominik Pajak},
+  title     = {On {$\lambda$}-Alert Problem},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1057-1067},
+}
+
+@inproceedings{DBLP:conf/ipps/DanalisMV12,
+  author    = {Anthony Danalis and
+               Collin McCurdy and
+               Jeffrey S. Vetter},
+  title     = {Efficient Quality Threshold Clustering for Parallel Architectures},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1068-1079},
+}
+
+@inproceedings{DBLP:conf/ipps/CuiYXWYF12,
+  author    = {Huimin Cui and
+               Qing Yi and
+               Jingling Xue and
+               Lei Wang and
+               Yang Yang and
+               Xiaobing Feng},
+  title     = {A Highly Parallel Reuse Distance Analysis Algorithm on {GPUs}},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1080-1092},
+}
+
+@inproceedings{DBLP:conf/ipps/TeodoroKPCKWS12,
+  author    = {George Teodoro and
+               Tahsin M. Kur{\c{c}} and
+               Tony Pan and
+               Lee A. D. Cooper and
+               Jun Kong and
+               Patrick M. Widener and
+               Joel H. Saltz},
+  title     = {Accelerating Large Scale Image Analyses on Parallel, {CPU-GPU} Equipped Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1093-1104},
+}
+
+@inproceedings{DBLP:conf/ipps/ScloccoVMN12,
+  author    = {Alessio Sclocco and
+               Ana Lucia Varbanescu and
+               Jan David Mol and
+               Rob van Nieuwpoort},
+  title     = {Radio Astronomy Beam Forming on {Many-Core} Architectures},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1105-1116},
+}
+
+@inproceedings{DBLP:conf/ipps/KurianSCMMWAPKSA12,
+  author    = {George Kurian and
+               Chen Sun and
+               Chia-Hsin Owen Chen and
+               Jason E. Miller and
+               J{\"u}rgen Michel and
+               Lan Wei and
+               Dimitri A. Antoniadis and
+               Li-Shiuan Peh and
+               Lionel C. Kimerling and
+               Vladimir Stojanovic and
+               Anant Agarwal},
+  title     = {Cross-layer Energy and Performance Evaluation of a Nanophotonic Manycore Processor System Using Real Application Workloads},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1117-1130},
+}
+
+@inproceedings{DBLP:conf/ipps/GranRLSZS12,
+  author    = {Ernst Gunnar Gran and
+               Sven-Arne Reinemo and
+               Olav Lysne and
+               Tor Skeie and
+               Eitan Zahavi and
+               Gilad Shainer},
+  title     = {Exploring the Scope of the {InfiniBand} Congestion Control Mechanism},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1131-1143},
+}
+
+@inproceedings{DBLP:conf/ipps/NittaFA12,
+  author    = {Christopher Nitta and
+               Matthew K. Farrens and
+               Venkatesh Akella},
+  title     = {{DCAF} - A Directly Connected {Arbitration-Free} Photonic Crossbar for {Energy-Efficient} High Performance Computing},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1144-1155},
+}
+
+@inproceedings{DBLP:conf/ipps/KandallaYKKMSTVSP12,
+  author    = {Krishna Chaitanya Kandalla and
+               Ulrike Meier Yang and
+               Jeff Keasler and
+               Tzanio V. Kolev and
+               Adam Moody and
+               Hari Subramoni and
+               Karen Tomko and
+               J{\'e}r{\^o}me Vienne and
+               Bronis R. de Supinski and
+               Dhabaleswar K. Panda},
+  title     = {Designing Non-blocking Allreduce with Collective Offload on {InfiniBand} Clusters: A Case Study with Conjugate Gradient Solvers},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1156-1167},
+}
+
+@inproceedings{DBLP:conf/ipps/GainaruCK12,
+  author    = {Ana Gainaru and
+               Franck Cappello and
+               William Kramer},
+  title     = {Taming of the Shrew: Modeling the Normal and Faulty Behaviour of Large-scale {HPC} Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1168-1179},
+}
+
+@inproceedings{DBLP:conf/ipps/WangPKTC12,
+  author    = {Huayong Wang and
+               Li-Shiuan Peh and
+               Emmanouil Koukoumidis and
+               Shao Tao and
+               Mun Choon Chan},
+  title     = {Meteor Shower: A Reliable Stream Processing System for Commodity Data Centers},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1180-1191},
+}
+
+@inproceedings{DBLP:conf/ipps/SreeramP12,
+  author    = {Jaswanth Sreeram and
+               Santosh Pande},
+  title     = {Hybrid Transactions: Lock Allocation and Assignment for Irrevocability},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1192-1203},
+}
+
+@inproceedings{DBLP:conf/ipps/HeYH12,
+  author    = {Zhengyu He and
+               Xiao Yu and
+               Bo Hong},
+  title     = {Profiling-based Adaptive Contention Management for Software Transactional Memory},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1204-1215},
+}
+
+@inproceedings{DBLP:conf/ipps/GuermoucheRSC12,
+  author    = {Amina Guermouche and
+               Thomas Ropars and
+               Marc Snir and
+               Franck Cappello},
+  title     = {HydEE: Failure Containment without Event Logging for Large Scale {Send-Deterministic} {MPI} Applications},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1216-1227},
+}
+
+@inproceedings{DBLP:conf/ipps/DongYSTT12,
+  author    = {Qifen Dong and
+               Li Yu and
+               Wen-Zhan Song and
+               Lang Tong and
+               ShaoJie Tang},
+  title     = {Distributed Demand and Response Algorithm for Optimizing {Social-Welfare} in Smart Grid},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1228-1239},
+}
+
+@inproceedings{DBLP:conf/ipps/Buntinas12,
+  author    = {Darius Buntinas},
+  title     = {Scalable Distributed Consensus to Support {MPI} Fault Tolerance},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1240-1249},
+}
+
+@inproceedings{DBLP:conf/ipps/WuDM12,
+  author    = {Xing Wu and
+               Vivek Deshpande and
+               Frank Mueller},
+  title     = {ScalaBenchGen: {Auto-Generation} of Communication Benchmarks Traces},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1250-1260},
+}
+
+@inproceedings{DBLP:conf/ipps/KniesburgesKS12,
+  author    = {Sebastian Kniesburges and
+               Andreas Koutsopoulos and
+               Christian Scheideler},
+  title     = {A {Self-Stabilization} Process for {Small-World} Networks},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1261-1271},
+}
+
+@inproceedings{DBLP:conf/ipps/DreesHKS12,
+  author    = {Maximilian Drees and
+               Martina H{\"u}llmann and
+               Andreas Koutsopoulos and
+               Christian Scheideler},
+  title     = {Self-organizing Particle Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1272-1283},
+}
+
+@inproceedings{DBLP:conf/ipps/NiuDLS12,
+  author    = {Qingpeng Niu and
+               James Dinan and
+               Qingda Lu and
+               P. Sadayappan},
+  title     = {PARDA: A Fast Parallel Reuse Distance Analysis Algorithm},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1284-1294},
+}
+
+@inproceedings{DBLP:conf/ipps/XuT12,
+  author    = {Pan Xu and
+               Srikanta Tirthapura},
+  title     = {A Lower Bound on Proximity Preservation by Space Filling Curves},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1295-1305},
+}
+
+@inproceedings{DBLP:conf/ipps/TiwariS12,
+  author    = {Devesh Tiwari and
+               Yan Solihin},
+  title     = {Modeling and Analyzing Key Performance Factors of Shared Memory {MapReduce}},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1306-1317},
+}
+
+@inproceedings{DBLP:conf/ipps/KimKKB12,
+  author    = {Minjang Kim and
+               Pranith Kumar and
+               Hyesoon Kim and
+               Bevin Brett},
+  title     = {Predicting Potential Speedup of Serial Code via Lightweight Profiling and Emulations with Memory Performance Model},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1318-1329},
+}
+
+@inproceedings{DBLP:conf/ipps/BohmeWSSG12,
+  author    = {David B{\"o}hme and
+               Felix Wolf and
+               Bronis R. de Supinski and
+               Martin Schulz and
+               Markus Geimer},
+  title     = {Scalable {Critical-Path} Based Performance Analysis},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1330-1340},
+}
+
+@inproceedings{DBLP:conf/ipps/HeYJ12,
+  author    = {Lulu He and
+               Zhibin Yu and
+               Hai Jin},
+  title     = {FractalMRC: Online Cache Miss Rate Curve Prediction on Commodity Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1341-1351},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhangDPKPA12,
+  author    = {Fan Zhang and
+               Ciprian Docan and
+               Manish Parashar and
+               Scott Klasky and
+               Norbert Podhorszki and
+               Hasan Abbasi},
+  title     = {Enabling In-situ Execution of Coupled Scientific Workflow on Multi-core Platform},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1352-1363},
+}
+
+@inproceedings{DBLP:conf/ipps/HilbrichMSSN12,
+  author    = {Tobias Hilbrich and
+               Matthias S. M{\"u}ller and
+               Bronis R. de Supinski and
+               Martin Schulz and
+               Wolfgang E. Nagel},
+  title     = {GTI: A Generic Tools Infrastructure for {Event-Based} Tools in Parallel Systems},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1364-1375},
+}
+
+@inproceedings{DBLP:conf/ipps/CongWCKMN12,
+  author    = {Guojing Cong and
+               Hui-Fang Wen and
+               I-Hsin Chung and
+               David J. Klepacki and
+               Hiroki Murata and
+               Yasushi Negishi},
+  title     = {An Efficient Framework for Multi-dimensional Tuning of High Performance Computing Applications},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1376-1387},
+}
+
+@inproceedings{DBLP:conf/ipps/FunstonMJPF12,
+  author    = {Justin R. Funston and
+               Kaoutar El Maghraoui and
+               Joefon Jann and
+               Pratap Pattnaik and
+               Alexandra Fedorova},
+  title     = {An {SMT-Selection} Metric to Improve Multithreaded Applications' Performance},
+  booktitle = ipdps,
+  year      = 2012,
+  pages     = {1388-1399},
+}
+
 @inproceedings{DBLP:conf/ipps/Sanders11,
   author    = {Peter Sanders},
   title     = {Algorithm Engineering for Scalable Parallel External Sorting},
@@ -49,7 +1408,7 @@
 }
 
 @inproceedings{DBLP:conf/ipps/AndersonBDK11,
-  author    = {Michael Anderson and
+  author    = {Michael J. Anderson and
                Grey Ballard and
                James Demmel and
                Kurt Keutzer},
@@ -4997,7 +6356,7 @@
 @inproceedings{DBLP:conf/ipps/SnowAE09,
   author    = {Eric Snow and
                Eric Aubanel and
-               Patricia Evans},
+               Patricia A. Evans},
   title     = {Dynamic parallelization for {RNA} structure comparison},
   booktitle = ipdps,
   year      = 2009,
@@ -8906,10 +10265,10 @@
 }
 
 @inproceedings{DBLP:conf/ipps/HikitaHN08,
-  author    = {J. Hikita and
-               A. Hirano and
-               H. Nakashima},
-  title     = {Saving 200{kW} and $200 K/year by power-aware job/machine scheduling},
+  author    = {Junichi Hikita and
+               Akio Hirano and
+               Hiroshi Nakashima},
+  title     = {Saving 200{kW} and 200 K/year by power-aware job/machine scheduling},
   booktitle = ipdps,
   year      = 2008,
   pages     = {1-8},
@@ -19535,7 +20894,7 @@
                Jih-Kwon Peir and
                Lu Peng and
                Yen-Kuang Chen and
-               V. Lee and
+               Victor W. Lee and
                B. Liang},
   title     = {Coterminous locality and coterminous group data prefetching on chip-multiprocessors},
   booktitle = ipdps,
@@ -20308,7 +21667,7 @@
 
 @inproceedings{DBLP:conf/ipps/ZhangCH06,
   author    = {Weizhe Zhang and
-               A. M. K. Cheng and
+               Albert M. K. Cheng and
                Mingzeng Hu},
   title     = {Multisite co-allocation algorithms for computational grid},
   booktitle = ipdps,
