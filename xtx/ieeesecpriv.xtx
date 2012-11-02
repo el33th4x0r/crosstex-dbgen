@@ -1,5 +1,15 @@
 @include journals-cs
 
+@article{DBLP:journals/ieeesp/Bloomfield12,
+  author    = {Robin E. Bloomfield},
+  title     = {Are Things Getting Worse?},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {3},
+}
+
 @article{DBLP:journals/ieeesp/Pfleeger12,
   author    = {Shari Lawrence Pfleeger},
   title     = {A Key to the Castle},
@@ -28,6 +38,16 @@
   number    = {2},
   year      = 2012,
   pages     = {3-5},
+}
+
+@article{DBLP:journals/ieeesp/McGraw12c,
+  author    = {Gary McGraw},
+  title     = {Silver Bullet Talks with Kay Connelly},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {5-7},
 }
 
 @article{DBLP:journals/ieeesp/CybenkoL12,
@@ -72,6 +92,16 @@
   pages     = {7-10},
 }
 
+@article{DBLP:journals/ieeesp/Garber12c,
+  author    = {Lee Garber},
+  title     = {Security, Privacy, and Policy Roundup},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {8-9},
+}
+
 @article{DBLP:journals/ieeesp/McGraw12a,
   author    = {Gary McGraw},
   title     = {Silver Bullet Talks with Giovanni Vigna},
@@ -80,6 +110,21 @@
   number    = {3},
   year      = 2012,
   pages     = {9-11},
+}
+
+@article{DBLP:journals/ieeesp/CavoukianDFHLS12,
+  author    = {Ann Cavoukian and
+               Alan Davidson and
+               Ed Felton and
+               Marit Hansen and
+               Susan Landau and
+               Anna Slomovic},
+  title     = {Privacy: Front and Center},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {10-15},
 }
 
 @article{DBLP:journals/ieeesp/PfleegerRBCCLS12,
@@ -139,6 +184,17 @@
   pages     = {15-17},
 }
 
+@article{DBLP:journals/ieeesp/ShamosY12,
+  author    = {Michael I. Shamos and
+               Alec Yasinsac},
+  title     = {Realities of E-voting Security},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {16-17},
+}
+
 @article{DBLP:journals/ieeesp/Garber12b,
   author    = {Lee Garber},
   title     = {Security, Privacy, and Policy Roundup},
@@ -161,6 +217,17 @@
   number    = {3},
   year      = 2012,
   pages     = {16-23},
+}
+
+@article{DBLP:journals/ieeesp/EssexH12,
+  author    = {Aleksander Essex and
+               Urs Hengartner},
+  title     = {Hover: Trustworthy Elections with {Hash-Only} Verification},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {18-24},
 }
 
 @article{DBLP:journals/ieeesp/McGraw12b,
@@ -235,6 +302,17 @@
   pages     = {24-32},
 }
 
+@article{DBLP:journals/ieeesp/BucklandW12,
+  author    = {Richard Buckland and
+               Roland Wen},
+  title     = {The Future of E-voting in Australia},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {25-32},
+}
+
 @article{DBLP:journals/ieeesp/AlSadehM12,
   author    = {Ahmad AlSa'deh and
                Christoph Meinel},
@@ -278,6 +356,17 @@
   number    = {2},
   year      = 2012,
   pages     = {33-39},
+}
+
+@article{DBLP:journals/ieeesp/StarkW12,
+  author    = {Philip B. Stark and
+               David Wagner},
+  title     = {{Evidence-Based} Elections},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {33-41},
 }
 
 @article{DBLP:journals/ieeesp/DunlopGUMT12,
@@ -328,10 +417,21 @@
   pages     = {40-49},
 }
 
+@article{DBLP:journals/ieeesp/LindemanS12,
+  author    = {Mark Lindeman and
+               Philip B. Stark},
+  title     = {A Gentle Introduction to {Risk-Limiting} Audits},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {42-49},
+}
+
 @article{DBLP:journals/ieeesp/GarciaOB12,
-  author    = {Sergio S{\'a}nchez Garc{\'\i}a and
-               Ana G{\'o}mez Oliva and
-               Emilia P{\'e}rez Belleboni},
+  author    = {Sergio Sánchez García and
+               Ana Gómez Oliva and
+               Emilia Pérez Belleboni},
   title     = {Is Europe Ready for a {Pan-European} Identity Management System?},
   journal   = ieeesecpriv,
   volume    = {10},
@@ -344,7 +444,7 @@
   author    = {Andreas Poller and
                Ulrich Waldmann and
                Sven Vowe and
-               Sven T{\"u}rpe},
+               Sven Türpe},
   title     = {Electronic Identity Cards for User Authentication - Promise and Practice},
   journal   = ieeesecpriv,
   volume    = {10},
@@ -361,6 +461,17 @@
   number    = {3},
   year      = 2012,
   pages     = {48-52},
+}
+
+@article{DBLP:journals/ieeesp/KingH12,
+  author    = {Merle S. King and
+               Brian Hancock},
+  title     = {Electronic Voting Security 10 Years after the Help America Vote Act},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {50-52},
 }
 
 @article{DBLP:journals/ieeesp/Kallberg12,
@@ -400,6 +511,22 @@
   number    = {3},
   year      = 2012,
   pages     = {53-56},
+}
+
+@article{DBLP:journals/ieeesp/0001CVLMBS12,
+  author    = {Mariana Raykova and
+               Ang Cui and
+               Binh Vo and
+               Bin Liu and
+               Tal Malkin and
+               Steven M. Bellovin and
+               Salvatore J. Stolfo},
+  title     = {Usable, Secure, Private Search},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {53-60},
 }
 
 @article{DBLP:journals/ieeesp/Charney12,
@@ -468,17 +595,41 @@
   pages     = {60-68},
 }
 
+@article{DBLP:journals/ieeesp/VenkatasubramanianVSL12,
+  author    = {Krishna K. Venkatasubramanian and
+               Eugene Y. Vasserman and
+               Oleg Sokolsky and
+               Insup Lee},
+  title     = {Security and {Interoperable-Medical-Device} Systems, Part 1},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {61-63},
+}
+
 @article{DBLP:journals/ieeesp/DanSEB12,
-  author    = {Gy{\"o}rgy D{\'a}n and
+  author    = {György Dán and
                Henrik Sandberg and
                Mathias Ekstedt and
-               Gunnar Bj{\"o}rkman},
+               Gunnar Björkman},
   title     = {Challenges in Power System Information Security},
   journal   = ieeesecpriv,
   volume    = {10},
   number    = {4},
   year      = 2012,
   pages     = {62-70},
+}
+
+@article{DBLP:journals/ieeesp/BishopP12,
+  author    = {Matt Bishop and
+               Sean Peisert},
+  title     = {Security and Elections},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {64-67},
 }
 
 @article{DBLP:journals/ieeesp/AminRD12,
@@ -516,6 +667,17 @@
   pages     = {67-70},
 }
 
+@article{DBLP:journals/ieeesp/ViegaT12,
+  author    = {John Viega and
+               Hugh Thompson},
+  title     = {The State of {Embedded-Device} Security (Spoiler Alert: It's Bad)},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {68-70},
+}
+
 @article{DBLP:journals/ieeesp/ArlatKN12,
   author    = {Jean Arlat and
                Zbigniew Kalbarczyk and
@@ -537,6 +699,17 @@
   journal   = ieeesecpriv,
   volume    = {10},
   number    = {4},
+  year      = 2012,
+  pages     = {71-74},
+}
+
+@article{DBLP:journals/ieeesp/PauliE12,
+  author    = {Joshua J. Pauli and
+               Patrick Henry Engebretson},
+  title     = {Filling Your Cyber Operations Training Toolbox},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
   year      = 2012,
   pages     = {71-74},
 }
@@ -573,6 +746,16 @@
   number    = {1},
   year      = 2012,
   pages     = {73-76},
+}
+
+@article{DBLP:journals/ieeesp/Smith12,
+  author    = {Sean W. Smith},
+  title     = {Security and Cognitive Bias: Exploring the Role of the Mind},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {75-78},
 }
 
 @article{DBLP:journals/ieeesp/GavasMB12,
@@ -619,6 +802,16 @@
   number    = {1},
   year      = 2012,
   pages     = {77-79},
+}
+
+@article{DBLP:journals/ieeesp/Lesk12c,
+  author    = {Michael Lesk},
+  title     = {The Price of Privacy},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {79-81},
 }
 
 @article{DBLP:journals/ieeesp/Handschuh12a,
@@ -674,6 +867,17 @@
   pages     = {82-84},
 }
 
+@article{DBLP:journals/ieeesp/ObrenovicH12,
+  author    = {Zeljko Obrenovic and
+               Bart den Haak},
+  title     = {Integrating User Customization and Authentication: The Identity Crisis},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {82-85},
+}
+
 @article{DBLP:journals/ieeesp/RohlfI12,
   author    = {Chris Rohlf and
                Yan Ivnitskiy},
@@ -715,6 +919,16 @@
   pages     = {85-87},
 }
 
+@article{DBLP:journals/ieeesp/Geer12b,
+  author    = {Daniel E. Geer Jr.},
+  title     = {Risk Aversion},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {86-87},
+}
+
 @article{DBLP:journals/ieeesp/SassamanPB12,
   author    = {Len Sassaman and
                Meredith L. Patterson and
@@ -725,6 +939,16 @@
   number    = {2},
   year      = 2012,
   pages     = {87-91},
+}
+
+@article{DBLP:journals/ieeesp/Schneier12a,
+  author    = {Bruce Schneier},
+  title     = {The Importance of Security Engineering},
+  journal   = ieeesecpriv,
+  volume    = {10},
+  number    = {5},
+  year      = 2012,
+  pages     = {88},
 }
 
 @article{DBLP:journals/ieeesp/Lesk12,
@@ -1238,7 +1462,7 @@
 
 @article{DBLP:journals/ieeesp/FuglerudD11,
   author    = {Kristin Fuglerud and
-               {\O}ystein Dale},
+               Øystein Dale},
   title     = {Secure and Inclusive Authentication with a Talking Mobile {One-Time-Password} Client},
   journal   = ieeesecpriv,
   volume    = {9},
@@ -1461,7 +1685,7 @@
 @article{DBLP:journals/ieeesp/GrobauerWS11,
   author    = {Bernd Grobauer and
                Tobias Walloschek and
-               Elmar St{\"o}cker},
+               Elmar Stöcker},
   title     = {Understanding Cloud Computing Vulnerabilities},
   journal   = ieeesecpriv,
   volume    = {9},
@@ -1491,7 +1715,7 @@
 }
 
 @article{DBLP:journals/ieeesp/KaanicheM11,
-  author    = {Mohamed Ka{\^a}niche and
+  author    = {Mohamed Kaâniche and
                Aad P. A. van Moorsel},
   title     = {It All Depends, and Increasingly So},
   journal   = ieeesecpriv,
@@ -1778,7 +2002,7 @@
 }
 
 @article{DBLP:journals/ieeesp/ChabanneT11,
-  author    = {Herv{\'e} Chabanne and
+  author    = {Hervé Chabanne and
                Mehdi Tibouchi},
   title     = {Securing E-passports with Elliptic Curves},
   journal   = ieeesecpriv,
@@ -2225,7 +2449,7 @@
 
 @article{DBLP:journals/ieeesp/McGraw10e,
   author    = {Gary McGraw},
-  title     = {Silver Bullet Talks with Iv{\'a}n Arce},
+  title     = {Silver Bullet Talks with Iván Arce},
   journal   = ieeesecpriv,
   volume    = {8},
   number    = {6},
@@ -2299,7 +2523,7 @@
 
 @article{DBLP:journals/ieeesp/RibaldaRCG10,
   author    = {Ricardo Ribalda and
-               Guillermo Gonz{\'a}lez de Rivera and
+               Guillermo González de Rivera and
                Angel de Castro and
                Javier Garrido},
   title     = {A Mobile Biometric {System-on-Token} System for Signing Digital Transactions},
@@ -2401,7 +2625,7 @@
 }
 
 @article{DBLP:journals/ieeesp/AntonEY10,
-  author    = {Annie I. Ant{\'o}n and
+  author    = {Annie I. Antón and
                Julia Brande Earp and
                Jessica D. Young},
   title     = {How Internet Users' Privacy Concerns Have Evolved since 2002},
@@ -2413,7 +2637,7 @@
 }
 
 @article{DBLP:journals/ieeesp/HoleN10,
-  author    = {Kjell J{\o}rgen Hole and
+  author    = {Kjell Jørgen Hole and
                Lars-Helge Netland},
   title     = {Toward Risk Assessment of {Large-Impact} and Rare Events},
   journal   = ieeesecpriv,
@@ -2603,7 +2827,7 @@
                Peter H. Feiler and
                John Morley and
                Bruce A. Lewis and
-               J{\'e}r{\^o}me Hugues},
+               Jérôme Hugues},
   title     = {Architectural Modeling to Verify Security and Nonfunctional Behavior},
   journal   = ieeesecpriv,
   volume    = {8},
@@ -2690,7 +2914,7 @@
 }
 
 @article{DBLP:journals/ieeesp/BohmeM10,
-  author    = {Rainer B{\"o}hme and
+  author    = {Rainer Böhme and
                Tyler Moore},
   title     = {The Iterated Weakest Link},
   journal   = ieeesecpriv,
@@ -2973,7 +3197,7 @@
 
 @article{DBLP:journals/ieeesp/FuronD10,
   author    = {Teddy Furon and
-               Gwena{\"e}l J. Do{\"e}rr},
+               Gwenaël J. Doërr},
   title     = {Tracing Pirated Content on the Internet: Unwinding Ariadne's Thread},
   journal   = ieeesecpriv,
   volume    = {8},
@@ -3770,7 +3994,7 @@
 
 @article{DBLP:journals/ieeesp/MitterhoferKKP09,
   author    = {Stefan Mitterhofer and
-               Christopher Kr{\"u}gel and
+               Christopher Krügel and
                Engin Kirda and
                Christian Platzer},
   title     = {{Server-Side} Bot Detection in Massively Multiplayer Online Games},
@@ -3808,12 +4032,12 @@
 }
 
 @article{DBLP:journals/ieeesp/HoleKNETM09,
-  author    = {Kjell J{\o}rgen Hole and
-               Andr{\'e} N. Klingsheim and
+  author    = {Kjell Jørgen Hole and
+               André N. Klingsheim and
                Lars-Helge Netland and
                Yngve Espelid and
-               Thomas Tj{\o}stheim and
-               Vebj{\o}rn Moen},
+               Thomas Tjøstheim and
+               Vebjørn Moen},
   title     = {Risk Assessment of a National Security Infrastructure},
   journal   = ieeesecpriv,
   volume    = {7},
@@ -4846,10 +5070,10 @@
 }
 
 @article{DBLP:journals/ieeesp/HoleNEKHH08,
-  author    = {Kjell J{\o}rgen Hole and
+  author    = {Kjell Jørgen Hole and
                Lars-Helge Netland and
                Yngve Espelid and
-               Andr{\'e} N. Klingsheim and
+               André N. Klingsheim and
                Hallvar Helleseth and
                Jan B. Henriksen},
   title     = {Open Wireless Networks on University Campuses},
@@ -4890,7 +5114,7 @@
                Dorothy E. Denning and
                Whitfield Diffie and
                Jeremy Epstein and
-               Paulo Ver{\'\i}ssimo},
+               Paulo Veríssimo},
   title     = {Information Assurance Technology Forecast 2008},
   journal   = ieeesecpriv,
   volume    = {6},
@@ -4969,7 +5193,7 @@
 }
 
 @article{DBLP:journals/ieeesp/BrandleN08,
-  author    = {Markus Br{\"a}ndle and
+  author    = {Markus Brändle and
                Martin Naedele},
   title     = {Security for Process Control Systems: An Overview},
   journal   = ieeesecpriv,
@@ -5162,7 +5386,7 @@
                Paulo Sousa and
                Miguel Correia and
                Nuno Ferreira Neves and
-               Paulo Ver{\'\i}ssimo},
+               Paulo Veríssimo},
   title     = {The Crutial Way of Critical Infrastructure Protection},
   journal   = ieeesecpriv,
   volume    = {6},
@@ -5186,7 +5410,7 @@
 @article{DBLP:journals/ieeesp/PretschnerHSSW08,
   author    = {Alexander Pretschner and
                Manuel Hilty and
-               Florian Sch{\"u}tz and
+               Florian Schütz and
                Christian Schaefer and
                Thomas Walter},
   title     = {Usage Control Enforcement: Present and Future},
@@ -5218,7 +5442,7 @@
 }
 
 @article{DBLP:journals/ieeesp/GoirizelaiaHUS08,
-  author    = {I{\~n}aki Goirizelaia and
+  author    = {Iñaki Goirizelaia and
                Maider Huarte and
                Juanjo Unzilla and
                Ted Selker},
@@ -5277,10 +5501,10 @@
 }
 
 @article{DBLP:journals/ieeesp/RostadTMO08,
-  author    = {Lillian R{\o}stad and
-               Inger Anne T{\o}ndel and
-               Per H{\aa}kon Meland and
-               Gunnar Ren{\'e} {\O}ie},
+  author    = {Lillian Røstad and
+               Inger Anne Tøndel and
+               Per Håkon Meland and
+               Gunnar René Øie},
   title     = {Learning by Failing (and Fixing)},
   journal   = ieeesecpriv,
   volume    = {6},
@@ -5498,7 +5722,7 @@
 }
 
 @article{DBLP:journals/ieeesp/LevieilN08,
-  author    = {{\'E}ric Levieil and
+  author    = {Éric Levieil and
                David Naccache},
   title     = {Cryptographic Test Correction},
   journal   = ieeesecpriv,
@@ -5688,7 +5912,7 @@
 
 @article{DBLP:journals/ieeesp/Epstein08,
   author    = {Jeremy Epstein},
-  title     = {Security Lessons Learned from Soci{\'e}t{\'e} G{\'e}n{\'e}rale},
+  title     = {Security Lessons Learned from Société Générale},
   journal   = ieeesecpriv,
   volume    = {6},
   number    = {3},
@@ -5967,7 +6191,7 @@
 
 @article{DBLP:journals/ieeesp/McGraw07c,
   author    = {Gary McGraw},
-  title     = {Silver Bullet Talks with Annie Ant{\'o}n},
+  title     = {Silver Bullet Talks with Annie Antón},
   journal   = ieeesecpriv,
   volume    = {5},
   number    = {5},
@@ -6094,7 +6318,7 @@
 
 @article{DBLP:journals/ieeesp/OttoAB07,
   author    = {Paul N. Otto and
-               Annie I. Ant{\'o}n and
+               Annie I. Antón and
                David L. Baumer},
   title     = {The {ChoicePoint} Dilemma: How Data Brokers Should Handle the Privacy of Personal Information},
   journal   = ieeesecpriv,
@@ -6183,9 +6407,9 @@
 }
 
 @article{DBLP:journals/ieeesp/HoleMKT07,
-  author    = {Kjell J{\o}rgen Hole and
-               Vebj{\o}rn Moen and
-               Andr{\'e} N. Klingsheim and
+  author    = {Kjell Jørgen Hole and
+               Vebjørn Moen and
+               André N. Klingsheim and
                Knut M. Tande},
   title     = {Lessons from the Norwegian {ATM} System},
   journal   = ieeesecpriv,
@@ -6371,7 +6595,7 @@
 }
 
 @article{DBLP:journals/ieeesp/AntonEVJGF07,
-  author    = {Annie I. Ant{\'o}n and
+  author    = {Annie I. Antón and
                Julia B. Eart and
                Matthew W. Vail and
                Neha Jain and
@@ -6557,9 +6781,9 @@
 }
 
 @article{DBLP:journals/ieeesp/AcucmezSK07,
-  author    = {Onur Acii{\c{c}}mez and
+  author    = {Onur Aciiçmez and
                Jean-Pierre Seifert and
-               {\c{C}}etin Kaya Ko{\c{c}}},
+               Çetin Kaya Koç},
   title     = {{Micro-Architectural} Cryptanalysis},
   journal   = ieeesecpriv,
   volume    = {5},
@@ -7291,9 +7515,9 @@
 }
 
 @article{DBLP:journals/ieeesp/HoleMT06,
-  author    = {Kjell J{\o}rgen Hole and
-               Vebj{\o}rn Moen and
-               Thomas Tj{\o}stheim},
+  author    = {Kjell Jørgen Hole and
+               Vebjørn Moen and
+               Thomas Tjøstheim},
   title     = {Case Study: Online Banking Security},
   journal   = ieeesecpriv,
   volume    = {4},
@@ -7655,7 +7879,7 @@
 }
 
 @article{DBLP:journals/ieeesp/VerissimoNCPPDSW06,
-  author    = {Paulo Ver{\'\i}ssimo and
+  author    = {Paulo Veríssimo and
                Nuno Ferreira Neves and
                Christian Cachin and
                Jonathan A. Poritz and
@@ -7737,7 +7961,7 @@
 @article{DBLP:journals/ieeesp/SheoranFB06,
   author    = {Pinny Sheoran and
                Oris Friesen and
-               Barbara J. Huffman de Bel{\'o}n},
+               Barbara J. Huffman de Belón},
   title     = {Developing and sustaining information assurance: the role of community colleges. Part 2},
   journal   = ieeesecpriv,
   volume    = {4},
@@ -7883,7 +8107,7 @@
 }
 
 @article{DBLP:journals/ieeesp/Coron06,
-  author    = {Jean-S{\'e}bastien Coron},
+  author    = {Jean-Sébastien Coron},
   title     = {What Is Cryptography?},
   journal   = ieeesecpriv,
   volume    = {4},
@@ -7915,7 +8139,7 @@
 @article{DBLP:journals/ieeesp/HolzMR06,
   author    = {Thorsten Holz and
                Simon Marechal and
-               Fr{\'e}d{\'e}ric Raynal},
+               Frédéric Raynal},
   title     = {New Threats and Attacks on the World Wide Web},
   journal   = ieeesecpriv,
   volume    = {4},
@@ -9014,7 +9238,7 @@
 @article{DBLP:journals/ieeesp/SheoranFB05,
   author    = {Pinny Sheoran and
                Oris Friesen and
-               Barbara J. Huffman de Bel{\'o}n},
+               Barbara J. Huffman de Belón},
   title     = {Developing and Sustaining Information Assurance: The Role of Community Colleges (Part 1)},
   journal   = ieeesecpriv,
   volume    = {3},
@@ -9648,7 +9872,7 @@
 }
 
 @article{DBLP:journals/ieeesp/AntonHB04,
-  author    = {Annie I. Ant{\'o}n and
+  author    = {Annie I. Antón and
                Qingfeng He and
                David L. Baumer},
   title     = {Inside {JetBlue's} Privacy Policy Violations},
@@ -9911,7 +10135,7 @@
 }
 
 @article{DBLP:journals/ieeesp/AntonEHSBJ04,
-  author    = {Annie I. Ant{\'o}n and
+  author    = {Annie I. Antón and
                Julia Brande Earp and
                Qingfeng He and
                William H. Stufflebeam and
@@ -10399,7 +10623,7 @@
 }
 
 @article{DBLP:journals/ieeesp/RaynalBBK04,
-  author    = {Fr{\'e}d{\'e}ric Raynal and
+  author    = {Frédéric Raynal and
                Yann Berthier and
                Philippe Biondi and
                Danielle Kaminsky},
@@ -10485,7 +10709,7 @@
 }
 
 @article{DBLP:journals/ieeesp/RaynalBBK04a,
-  author    = {Fr{\'e}d{\'e}ric Raynal and
+  author    = {Frédéric Raynal and
                Yann Berthier and
                Philippe Biondi and
                Danielle Kaminsky},
@@ -10652,7 +10876,7 @@
 @article{DBLP:journals/ieeesp/HopeMA04,
   author    = {Paco Hope and
                Gary McGraw and
-               Annie I. Ant{\'o}n},
+               Annie I. Antón},
   title     = {Misuse and Abuse Cases: Getting Past the Positive},
   journal   = ieeesecpriv,
   volume    = {2},
@@ -10743,7 +10967,7 @@
 
 @article{DBLP:journals/ieeesp/X03a,
   author    = {},
-  title     = {S{\&}P Welcomes New Editorial Board Members},
+  title     = {S&P Welcomes New Editorial Board Members},
   journal   = ieeesecpriv,
   volume    = {1},
   number    = {4},
@@ -10964,7 +11188,7 @@
 
 @article{DBLP:journals/ieeesp/IshitaniAM03,
   author    = {Lucila Ishitani and
-               Virg{\'\i}lio A. F. Almeida and
+               Virgílio A. F. Almeida and
                Wagner Meira Jr.},
   title     = {Masks: Bringing Anonymity and Personalization Together},
   journal   = ieeesecpriv,
@@ -11175,8 +11399,8 @@
 }
 
 @article{DBLP:journals/ieeesp/MatyasR03,
-  author    = {V{\'a}clav Maty{\'a}s Jr. and
-               Zdenek R{\'\i}ha},
+  author    = {Václav Matyás Jr. and
+               Zdenek Ríha},
   title     = {Toward Reliable User Authentication through Biometrics},
   journal   = ieeesecpriv,
   volume    = {1},
@@ -11725,7 +11949,7 @@
 
 @article{DBLP:journals/ieeesp/X03e,
   author    = {},
-  title     = {2003 Annual Index {IEEE} Security {\&} Privacy Volume 1},
+  title     = {2003 Annual Index {IEEE} Security & Privacy Volume 1},
   journal   = ieeesecpriv,
   volume    = {1},
   number    = {6},

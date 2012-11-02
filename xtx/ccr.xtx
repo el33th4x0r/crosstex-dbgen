@@ -14,6 +14,21 @@
   pages     = {5-11},
 }
 
+@article{DBLP:journals/ccr/WeiVPNFF12,
+  author    = {Xuetao Wei and
+               Nicholas Valler and
+               B. Aditya Prakash and
+               Iulian Neamtiu and
+               Michalis Faloutsos and
+               Christos Faloutsos},
+  title     = {Competing memes propagation on networks: a case study of composite networks},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {5-12},
+}
+
 @article{DBLP:journals/ccr/ChoochaisriAKTI12,
   author    = {Supasate Choochaisri and
                Kittipat Apicharttrisorn and
@@ -53,6 +68,20 @@
   pages     = {13-20},
 }
 
+@article{DBLP:journals/ccr/ZanderAAHM12,
+  author    = {Sebastian Zander and
+               Lachlan L. H. Andrew and
+               Grenville J. Armitage and
+               Geoff Huston and
+               George Michaelson},
+  title     = {Investigating the IPv6 teredo tunnelling capability and performance of internet clients},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {13-20},
+}
+
 @article{DBLP:journals/ccr/SarrarUFSH12,
   author    = {Nadi Sarrar and
                Steve Uhlig and
@@ -68,7 +97,7 @@
 }
 
 @article{DBLP:journals/ccr/ZuqueteF12,
-  author    = {Andr{\'e} Z{\'u}quete and
+  author    = {André Zúquete and
                Carlos Frade},
   title     = {A new location layer for the TCP/{IP} protocol stack},
   journal   = ccr,
@@ -86,6 +115,21 @@
   number    = {3},
   year      = 2012,
   pages     = {21-27},
+}
+
+@article{DBLP:journals/ccr/PoesePSUFM12,
+  author    = {Ingmar Poese and
+               Benjamin Poese and
+               Georgios Smaragdakis and
+               Steve Uhlig and
+               Anja Feldmann and
+               Bruce M. Maggs},
+  title     = {Enabling content-aware traffic engineering},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {21-28},
 }
 
 @article{DBLP:journals/ccr/BonaldR12,
@@ -119,6 +163,18 @@
   number    = {2},
   year      = 2012,
   pages     = {28-34},
+}
+
+@article{DBLP:journals/ccr/ZecRM12,
+  author    = {Marko Zec and
+               Luigi Rizzo and
+               Miljenko Mikuc},
+  title     = {DXR: towards a billion routing lookups per second in software},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {29-36},
 }
 
 @article{DBLP:journals/ccr/DainottiAAC12,
@@ -166,10 +222,26 @@
   pages     = {35-41},
 }
 
+@article{DBLP:journals/ccr/WhiteakerSTDSPM12,
+  author    = {Jon Whiteaker and
+               Fabian Schneider and
+               Renata Teixeira and
+               Christophe Diot and
+               Augustin Soule and
+               Fabio Picconi and
+               Martin May},
+  title     = {Expanding home services with advanced gateways},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {37-43},
+}
+
 @article{DBLP:journals/ccr/SofiaMDHGGB12,
   author    = {Rute Sofia and
                Paulo Mendes and
-               Manuel Jos{\'e} Dam{\'a}sio and
+               Manuel José Damásio and
                Sara Henriques and
                Fabio Giglietto and
                Erica Giambitto and
@@ -206,6 +278,17 @@
   pages     = {42-48},
 }
 
+@article{DBLP:journals/ccr/MogulP12,
+  author    = {Jeffrey C. Mogul and
+               Lucian Popa},
+  title     = {What we talk about when we talk about cloud network performance},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {44-48},
+}
+
 @article{DBLP:journals/ccr/FuscoDVD12,
   author    = {Francesco Fusco and
                Xenofontas A. Dimitropoulos and
@@ -229,6 +312,17 @@
   pages     = {47-53},
 }
 
+@article{DBLP:journals/ccr/Zsebyc12,
+  author    = {Tanja Zseby and
+               kc claffy},
+  title     = {Workshop report: darkspace and unsolicited traffic analysis ({DUST} 2012)},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {49-53},
+}
+
 @article{DBLP:journals/ccr/Zave12,
   author    = {Pamela Zave},
   title     = {Using lightweight modeling to understand chord},
@@ -237,6 +331,21 @@
   number    = {2},
   year      = 2012,
   pages     = {49-57},
+}
+
+@article{DBLP:journals/ccr/LauingerLRSBK12,
+  author    = {Tobias Lauinger and
+               Nikolaos Laoutaris and
+               Pablo Rodriguez and
+               Thorsten Strufe and
+               Ernst Biersack and
+               Engin Kirda},
+  title     = {Privacy risks in named data networking: what is the cost of performance?},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {54-57},
 }
 
 @article{DBLP:journals/ccr/MotiwalaDFL12,
@@ -261,6 +370,17 @@
   number    = {3},
   year      = 2012,
   pages     = {54-61},
+}
+
+@article{DBLP:journals/ccr/TilakP12,
+  author    = {Sameer S. Tilak and
+               Philip Papadopoulos},
+  title     = {The case for a rigorous approach to automating software operations and management of large-scale sensor networks},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {58-61},
 }
 
 @article{DBLP:journals/ccr/RestrepoS12,
@@ -297,6 +417,20 @@
   number    = {3},
   year      = 2012,
   pages     = {62-67},
+}
+
+@article{DBLP:journals/ccr/PapadimitriouFVCD12,
+  author    = {Dimitri Papadimitriou and
+               Lluís Fàbrega and
+               Pere Vilà and
+               Davide Careglio and
+               Piet Demeester},
+  title     = {Measurement-based research: methodology, experiments, and tools},
+  journal   = ccr,
+  volume    = {42},
+  number    = {5},
+  year      = 2012,
+  pages     = {62-68},
 }
 
 @article{DBLP:journals/ccr/KellerSR12,
@@ -377,7 +511,7 @@
                Marshini Chetty and
                Romain Fontugne and
                Vijay Gabale and
-               L{\'a}szl{\'o} Gyarmati and
+               László Gyarmati and
                Katrina LaCurts and
                Qi Liao and
                Marc Mendonca and
@@ -398,7 +532,7 @@
 @article{DBLP:journals/ccr/DonnetLMP12,
   author    = {Benoit Donnet and
                Matthew J. Luckie and
-               Pascal M{\'e}rindol and
+               Pascal Mérindol and
                Jean-Jacques Pansiot},
   title     = {Revealing {MPLS} tunnels obscured from traceroute},
   journal   = ccr,
@@ -458,6 +592,194 @@
   number    = {2},
   year      = 2012,
   pages     = {110-114},
+}
+
+@article{DBLP:journals/ccr/YapHKYMKP12,
+  author    = {Kok-Kiong Yap and
+               Te-Yuan Huang and
+               Masayoshi Kobayashi and
+               Yiannis Yiakoumis and
+               Nick McKeown and
+               Sachin Katti and
+               Guru M. Parulkar},
+  title     = {Making use of all the networks around us: a case study in android},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {455-460},
+}
+
+@article{DBLP:journals/ccr/ZhangA12,
+  author    = {Ying Zhang and
+               Åke Arvidsson},
+  title     = {Understanding the characteristics of cellular data traffic},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {461-466},
+}
+
+@article{DBLP:journals/ccr/KhurshidZCG12,
+  author    = {Ahmed Khurshid and
+               Wenxuan Zhou and
+               Matthew Caesar and
+               Brighten Godfrey},
+  title     = {Veriflow: verifying network-wide invariants in real time},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {467-472},
+}
+
+@article{DBLP:journals/ccr/HellerSM12,
+  author    = {Brandon Heller and
+               Rob Sherwood and
+               Nick McKeown},
+  title     = {The controller placement problem},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {473-478},
+}
+
+@article{DBLP:journals/ccr/PatroRGMB12,
+  author    = {Ashish Patro and
+               Shravan K. Rayanchu and
+               Michael Griepentrog and
+               Yadi Ma and
+               Suman Banerjee},
+  title     = {The anatomy of a large mobile massively multiplayer online game},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {479-484},
+}
+
+@article{DBLP:journals/ccr/WeeB12,
+  author    = {Tan Kiat Wee and
+               Rajesh Krishna Balan},
+  title     = {Adaptive display power management for {OLED} displays},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {485-490},
+}
+
+@article{DBLP:journals/ccr/CarofiglioGM12,
+  author    = {Giovanna Carofiglio and
+               Massimo Gallo and
+               Luca Muscariello},
+  title     = {Joint hop-by-hop and receiver-driven interest control protocol for content-centric networks},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {491-496},
+}
+
+@article{DBLP:journals/ccr/FotiouMP12,
+  author    = {Nikos Fotiou and
+               Giannis F. Marias and
+               George C. Polyzos},
+  title     = {Access control enforcement delegation for information-centric networking architectures},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {497-502},
+}
+
+@article{DBLP:journals/ccr/PitkanenKOCPGPLTHMHS12,
+  author    = {Mikko Pitkänen and
+               Teemu Kärkkäinen and
+               Jörg Ott and
+               Marco Conti and
+               Andrea Passarella and
+               Silvia Giordano and
+               Daniele Puccinelli and
+               Franck Legendre and
+               Sacha Trifunovic and
+               Karin Anna Hummel and
+               Martin May and
+               Nidhi Hegde and
+               Thrasyvoulos Spyropoulos},
+  title     = {SCAMPI: service platform for social aware mobile and pervasive computing},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {503-508},
+}
+
+@article{DBLP:journals/ccr/KimLC12,
+  author    = {Kyu-Han Kim and
+               Sung-Ju Lee and
+               Paul Congdon},
+  title     = {On cloud-centric network architecture for multi-dimensional mobility},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {509-514},
+}
+
+@article{DBLP:journals/ccr/BischofOB12,
+  author    = {Zachary S. Bischof and
+               John S. Otto and
+               Fabián E. Bustamante},
+  title     = {Up, down and around the stack: {ISP} characterization from network intensive applications},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {515-520},
+}
+
+@article{DBLP:journals/ccr/ChenCYCH12,
+  author    = {Chien-nan Chen and
+               Cing-yu Chu and
+               Su-ling Yeh and
+               Hao-Hua Chu and
+               Polly Huang},
+  title     = {Measuring the perceptual quality of Skype sources},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {521-526},
+}
+
+@article{DBLP:journals/ccr/StringhiniEKV12,
+  author    = {Gianluca Stringhini and
+               Manuel Egele and
+               Christopher Kruegel and
+               Giovanni Vigna},
+  title     = {Poultry markets: on the underground economy of twitter followers},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {527-532},
+}
+
+@article{DBLP:journals/ccr/SharmaGBGG12,
+  author    = {Naveen Kumar Sharma and
+               Saptarshi Ghosh and
+               Fabrício Benevenuto and
+               Niloy Ganguly and
+               P. Krishna Gummadi},
+  title     = {Inferring who-is-who in the Twitter social network},
+  journal   = ccr,
+  volume    = {42},
+  number    = {4},
+  year      = 2012,
+  pages     = {533-538},
 }
 
 @article{DBLP:journals/ccr/Rexford11,
@@ -537,7 +859,7 @@
 @article{DBLP:journals/ccr/YonekiCLWVW11,
   author    = {Eiko Yoneki and
                Jon Crowcroft and
-               Pietro Li{\`o} and
+               Pietro Liò and
                Neil Walton and
                Milan Vojnovic and
                Roger M. Whitaker},
@@ -575,9 +897,9 @@
 }
 
 @article{DBLP:journals/ccr/HossfeldT11,
-  author    = {Tobias Ho{\ss}feld and
+  author    = {Tobias Hoßfeld and
                Phuoc Tran-Gia},
-  title     = {Euroview 2010: "Visions of Future Generation Networks": Report of the 10th W{\"u}rzburg Workshop on IP: Joint ITG, ITC, {Euro-NF} Event},
+  title     = {Euroview 2010: "Visions of Future Generation Networks": Report of the 10th Würzburg Workshop on IP: Joint ITG, ITC, {Euro-NF} Event},
   journal   = ccr,
   volume    = {41},
   number    = {3},
@@ -645,7 +967,7 @@
 }
 
 @article{DBLP:journals/ccr/LundenD11,
-  author    = {Marcus Lund{\'e}n and
+  author    = {Marcus Lundén and
                Adam Dunkels},
   title     = {The politecast communication primitive for low-power wireless},
   journal   = ccr,
@@ -671,7 +993,7 @@
 
 @article{DBLP:journals/ccr/SenGH11,
   author    = {Soumya Sen and
-               Roch Gu{\'e}rin and
+               Roch Guérin and
                Kartik Hosanagar},
   title     = {Functionality-rich versus minimalist platforms: a two-sided market analysis},
   journal   = ccr,
@@ -789,7 +1111,7 @@
 @article{DBLP:journals/ccr/PoeseUKDG11,
   author    = {Ingmar Poese and
                Steve Uhlig and
-               Mohamed Ali K{\^a}afar and
+               Mohamed Ali Kâafar and
                Benoit Donnet and
                Bamba Gueye},
   title     = {{IP} geolocation databases: unreliable?},
@@ -813,7 +1135,7 @@
 
 @article{DBLP:journals/ccr/YeowWK11,
   author    = {Wai-Leong Yeow and
-               C{\'e}dric Westphal and
+               Cédric Westphal and
                Ulas C. Kozat},
   title     = {Designing and embedding reliable virtual infrastructures},
   journal   = ccr,
@@ -889,7 +1211,7 @@
 }
 
 @article{DBLP:journals/ccr/PervilaK11,
-  author    = {Mikko Pervil{\"a} and
+  author    = {Mikko Pervilä and
                Jussi Kangasharju},
   title     = {Running servers around zero degrees},
   journal   = ccr,
@@ -1005,7 +1327,7 @@
 }
 
 @article{DBLP:journals/ccr/GyarmatiT10,
-  author    = {L{\'a}szl{\'o} Gyarmati and
+  author    = {László Gyarmati and
                Tuan Anh Trinh},
   title     = {Scafida: a scale-free network inspired data center architecture},
   journal   = ccr,
@@ -1081,7 +1403,7 @@
 }
 
 @article{DBLP:journals/ccr/GuerinH10,
-  author    = {Roch Gu{\'e}rin and
+  author    = {Roch Guérin and
                Kartik Hosanagar},
   title     = {Fostering IPv6 migration through network quality differentials},
   journal   = ccr,
@@ -1158,7 +1480,7 @@
 
 @article{DBLP:journals/ccr/TrossenSS10,
   author    = {Dirk Trossen and
-               Mikko S{\"a}rel{\"a} and
+               Mikko Särelä and
                Karen R. Sollins},
   title     = {Arguments for an information-centric internetworking architecture},
   journal   = ccr,
@@ -1330,13 +1652,13 @@
 @article{DBLP:journals/ccr/claffyAABBDFFHLS10,
   author    = {kc claffy and
                Emile Aben and
-               Jordan Aug{\'e} and
+               Jordan Augé and
                Robert Beverly and
-               Fabi{\'a}n E. Bustamante and
+               Fabián E. Bustamante and
                Benoit Donnet and
                Timur Friedman and
                Marina Fomenkov and
-               P{\'e}ter H{\'a}ga and
+               Péter Hága and
                Matthew J. Luckie and
                Yuval Shavitt},
   title     = {The 2nd workshop on active internet measurements (AIMS-2) report},
@@ -1533,7 +1855,7 @@
   author    = {Stephen M. Rumble and
                Ryan Stutsman and
                Philip Levis and
-               David Mazi{\`e}res and
+               David Mazières and
                Nickolai Zeldovich},
   title     = {Apprehending joule thieves with cinder},
   journal   = ccr,
@@ -1587,7 +1909,7 @@
   author    = {Norbert Egi and
                Adam Greenhalgh and
                Mark Handley and
-               Micka{\"e}l Hoerdt and
+               Mickaël Hoerdt and
                Felipe Huici and
                Laurent Mathy and
                Panagiotis Papadimitriou},
@@ -1629,7 +1951,7 @@
 }
 
 @article{DBLP:journals/ccr/HubschMMBWZ10,
-  author    = {Christian H{\"u}bsch and
+  author    = {Christian Hübsch and
                Christoph P. Mayer and
                Sebastian Mies and
                Roland Bless and
@@ -1728,7 +2050,7 @@
 
 @article{DBLP:journals/ccr/FreiDP09,
   author    = {Stefan Frei and
-               Thomas D{\"u}bendorfer and
+               Thomas Dübendorfer and
                Bernhard Plattner},
   title     = {Firefox (In) security update dynamics exposed},
   journal   = ccr,
@@ -1761,7 +2083,7 @@
 @article{DBLP:journals/ccr/GreenhalghHHPHM09,
   author    = {Adam Greenhalgh and
                Felipe Huici and
-               Micka{\"e}l Hoerdt and
+               Mickaël Hoerdt and
                Panagiotis Papadimitriou and
                Mark Handley and
                Laurent Mathy},
@@ -1776,7 +2098,7 @@
 @article{DBLP:journals/ccr/KuntzGN09,
   author    = {Romain Kuntz and
                Antoine Gallais and
-               Thomas No{\"e}l},
+               Thomas Noël},
   title     = {Medium access controlfacing the reality of {WSN} deployments},
   journal   = ccr,
   volume    = {39},
@@ -2260,7 +2582,7 @@
 }
 
 @article{DBLP:journals/ccr/Ramos-MunozYT08,
-  author    = {Juan J. Ramos-Mu{\~n}oz and
+  author    = {Juan J. Ramos-Muñoz and
                Lidia Yamamoto and
                Christian F. Tschudin},
   title     = {Serial experiments online},
@@ -2395,7 +2717,7 @@
 @article{DBLP:journals/ccr/LaoutarisRM08,
   author    = {Nikolaos Laoutaris and
                Pablo Rodriguez and
-               Laurent Massouli{\'e}},
+               Laurent Massoulié},
   title     = {ECHOS: edge capacity hosting overlays of nano data centers},
   journal   = ccr,
   volume    = {38},
@@ -2503,7 +2825,7 @@
                Soumya Sen and
                Jaideep Chandrashekar and
                Lixin Gao and
-               Roch Gu{\'e}rin and
+               Roch Guérin and
                Zhi-Li Zhang},
   title     = {Message-efficient dissemination for loop-free centralized routing},
   journal   = ccr,
@@ -2689,7 +3011,7 @@
 
 @article{DBLP:journals/ccr/DimitropoulosSK08,
   author    = {Xenofontas A. Dimitropoulos and
-               M. {\'A}ngeles Serrano and
+               M. Ángeles Serrano and
                Dmitri V. Krioukov},
   title     = {On cycles in {AS} relationships},
   journal   = ccr,
@@ -2739,8 +3061,8 @@
 }
 
 @article{DBLP:journals/ccr/LandstromL07,
-  author    = {Sara Landstr{\"o}m and
-               Lars-{\AA}ke Larzon},
+  author    = {Sara Landström and
+               Lars-Åke Larzon},
   title     = {Reducing the {TCP} acknowledgment frequency},
   journal   = ccr,
   volume    = {37},
@@ -2794,7 +3116,7 @@
                Rodney Berriman and
                Lavy Libman and
                Maximilian Ott and
-               Bj{\"o}rn Landfeldt and
+               Björn Landfeldt and
                Zainab R. Zaidi},
   title     = {Experiences in deploying a wireless mesh network testbed for traffic control},
   journal   = ccr,
@@ -2807,7 +3129,7 @@
 @article{DBLP:journals/ccr/MachirajuVBB07,
   author    = {Sridhar Machiraju and
                Darryl Veitch and
-               Fran{\c{c}}ois Baccelli and
+               François Baccelli and
                Jean Bolot},
   title     = {Adding definition to active probing},
   journal   = ccr,
@@ -2995,8 +3317,8 @@
 }
 
 @article{DBLP:journals/ccr/BurklinSW07,
-  author    = {Helmut B{\"u}rklin and
-               Ralf Sch{\"a}fer and
+  author    = {Helmut Bürklin and
+               Ralf Schäfer and
                Dietrich Westerkamp},
   title     = {DVB: from broadcasting to ip delivery},
   journal   = ccr,
@@ -3516,7 +3838,7 @@
                Renata Teixeira and
                Ismael Akodkenou and
                Augustin Soule and
-               Kav{\'e} Salamatian},
+               Kavé Salamatian},
   title     = {Traffic classification on the fly},
   journal   = ccr,
   volume    = {36},
@@ -3596,7 +3918,7 @@
                Umar Saif and
                Adam Dunkels and
                Thiemo Voigt and
-               Kay R{\"o}mer and
+               Kay Römer and
                Koen Langendoen and
                Joseph Polastre and
                Zartash Afzal Uzmi},
@@ -3609,7 +3931,7 @@
 }
 
 @article{DBLP:journals/ccr/FournieHP06,
-  author    = {Laurent Fourni{\'e} and
+  author    = {Laurent Fournié and
                Dohy Hong and
                Florent Perisse},
   title     = {NetScale: scalable time-stepped hybrid simulation of large {IP} networks},
@@ -3817,7 +4139,7 @@
 @article{DBLP:journals/ccr/FragouliBW06,
   author    = {Christina Fragouli and
                Jean-Yves Le Boudec and
-               J{\"o}rg Widmer},
+               Jörg Widmer},
   title     = {Network coding: an instant primer},
   journal   = ccr,
   volume    = {36},
@@ -3829,7 +4151,7 @@
 @article{DBLP:journals/ccr/WeigleAHJS06,
   author    = {Michele C. Weigle and
                Prashanth Adurthi and
-               F{\'e}lix Hern{\'a}ndez-Campos and
+               Félix Hernández-Campos and
                Kevin Jeffay and
                F. Donelson Smith},
   title     = {Tmix: a tool for generating realistic {TCP} application workloads in ns-2},
@@ -4069,7 +4391,7 @@
 }
 
 @article{DBLP:journals/ccr/SchutzESB05,
-  author    = {Simon Sch{\"u}tz and
+  author    = {Simon Schütz and
                Lars Eggert and
                Stefan Schmid and
                Marcus Brunner},
@@ -4093,7 +4415,7 @@
 
 @article{DBLP:journals/ccr/VergetisGS05,
   author    = {Evangelos Vergetis and
-               Roch Gu{\'e}rin and
+               Roch Guérin and
                Saswati Sarkar},
   title     = {Realizing the benefits of user-level channel diversity},
   journal   = ccr,
@@ -4116,7 +4438,7 @@
 }
 
 @article{DBLP:journals/ccr/WallerichDFKW05,
-  author    = {J{\"o}rg Wallerich and
+  author    = {Jörg Wallerich and
                Holger Dreger and
                Anja Feldmann and
                Balachander Krishnamurthy and
@@ -4141,7 +4463,7 @@
 }
 
 @article{DBLP:journals/ccr/FrancoisFEB05,
-  author    = {Pierre Fran{\c{c}}ois and
+  author    = {Pierre François and
                Clarence Filsfils and
                John Evans and
                Olivier Bonaventure},
@@ -4167,7 +4489,7 @@
 
 @article{DBLP:journals/ccr/GreenbergHMMRXYZZ05,
   author    = {Albert G. Greenberg and
-               G{\'\i}sli Hj{\'a}lmt{\'y}sson and
+               Gísli Hjálmtýsson and
                David A. Maltz and
                Andy Myers and
                Jennifer Rexford and
@@ -4185,7 +4507,7 @@
 
 @article{DBLP:journals/ccr/XuG05,
   author    = {Ying Xu and
-               Roch Gu{\'e}rin},
+               Roch Guérin},
   title     = {On the robustness of router-based denial-of-service (DoS) defense systems},
   journal   = ccr,
   volume    = {35},
@@ -4232,7 +4554,7 @@
 
 @article{DBLP:journals/ccr/BagnuloGA05,
   author    = {Marcelo Bagnulo and
-               Alberto Garc{\'\i}a-Mart{\'\i}nez and
+               Alberto García-Martínez and
                Arturo Azcorra},
   title     = {Efficient security for IPv6 multihoming},
   journal   = ccr,
@@ -4287,7 +4609,7 @@
   author    = {Marcus Brunner and
                Lars Eggert and
                Kevin R. Fall and
-               J{\"o}rg Ott and
+               Jörg Ott and
                Lars C. Wolf},
   title     = {Dagstuhl seminar on disruption tolerant networking},
   journal   = ccr,
@@ -4505,7 +4827,7 @@
 }
 
 @article{DBLP:journals/ccr/NordstromD04,
-  author    = {Ola Nordstr{\"o}m and
+  author    = {Ola Nordström and
                Constantinos Dovrolis},
   title     = {Beware of {BGP} attacks},
   journal   = ccr,
@@ -4641,7 +4963,7 @@
                Anna Gilbert and
                Joel Gottlieb and
                Albert G. Greenberg and
-               G{\'\i}sli Hj{\'a}lmt{\'y}sson and
+               Gísli Hjálmtýsson and
                Jennifer Rexford},
   title     = {The cutting {EDGE} of {IP} router configuration},
   journal   = ccr,
@@ -4919,7 +5241,7 @@
                Chad Verbowski and
                Dimitris Achlioptas and
                Gautam Das and
-               Per-{\AA}ke Larson},
+               Per-Åke Larson},
   title     = {Summary-based routing for content-based event distribution networks},
   journal   = ccr,
   volume    = {34},
@@ -5149,9 +5471,9 @@
 }
 
 @article{DBLP:journals/ccr/Gonzalez-ParadaCE04,
-  author    = {Eva Gonz{\'a}lez-Parada and
-               Jos{\'e} Manuel Cano-Garc{\'\i}a and
-               Antonio D{\'\i}az Estrella},
+  author    = {Eva González-Parada and
+               José Manuel Cano-García and
+               Antonio Díaz Estrella},
   title     = {A new methodology for representation of {TCP} performance in multiconnection environments},
   journal   = ccr,
   volume    = {35},
@@ -5162,7 +5484,7 @@
 
 @article{DBLP:journals/ccr/KokkuRKMJV04,
   author    = {Ravi Kokku and
-               Taylor L. Rich{\'e} and
+               Taylor L. Riché and
                Aaron R. Kunze and
                Jayaram Mudigonda and
                Jamie Jason and
@@ -5250,7 +5572,7 @@
 }
 
 @article{DBLP:journals/ccr/WidmerBB04,
-  author    = {J{\"o}rg Widmer and
+  author    = {Jörg Widmer and
                Catherine Boutremans and
                Jean-Yves Le Boudec},
   title     = {End-to-end congestion control for {TCP-friendly} flows with variable packet size},
@@ -5463,8 +5785,8 @@
 }
 
 @article{DBLP:journals/ccr/TuranyiVC03,
-  author    = {Zolt{\'a}n Tur{\'a}nyi and
-               Andr{\'a}s Gergely Valk{\'o} and
+  author    = {Zoltán Turányi and
+               András Gergely Valkó and
                Andrew T. Campbell},
   title     = {4+4: an architecture for evolving the Internet address space back toward transparency},
   journal   = ccr,
@@ -5528,7 +5850,7 @@
                Ackbar Joolia and
                Kevin Lee and
                Jo Ueyama and
-               Ant{\^o}nio Tadeu A. Gomes and
+               Antônio Tadeu A. Gomes and
                Yimin Ye},
   title     = {NETKIT: a software component-based approach to programmable networking},
   journal   = ccr,
@@ -5742,7 +6064,7 @@
 
 @article{DBLP:journals/ccr/WelzlM03,
   author    = {Michael Welzl and
-               Max M{\"u}hlh{\"a}user},
+               Max Mühlhäuser},
   title     = {CAVT: a congestion avoidance visualization tool},
   journal   = ccr,
   volume    = {33},
@@ -5789,7 +6111,7 @@
   author    = {Mayank Bawa and
                Hrishikesh Deshpande and
                Hector Garcia-Molina},
-  title     = {Transience of peers {\&} streaming media},
+  title     = {Transience of peers & streaming media},
   journal   = ccr,
   volume    = {33},
   number    = {1},
@@ -5809,7 +6131,7 @@
 }
 
 @article{DBLP:journals/ccr/Molinero-FernandezMZ03,
-  author    = {Pablo Molinero-Fern{\'a}ndez and
+  author    = {Pablo Molinero-Fernández and
                Nick McKeown and
                Hui Zhang},
   title     = {Is {IP} going to take over the world (of communications)?},
@@ -5823,7 +6145,7 @@
 @article{DBLP:journals/ccr/MinkenbergLADG03,
   author    = {Cyriel Minkenberg and
                Ronald P. Luijten and
-               Fran{\c{c}}ois Abel and
+               François Abel and
                Wolfgang E. Denzel and
                Mitchell Gusat},
   title     = {Current issues in packet switch design},
@@ -5922,7 +6244,7 @@
 
 @article{DBLP:journals/ccr/ElsonR03,
   author    = {Jeremy Elson and
-               Kay R{\"o}mer},
+               Kay Römer},
   title     = {Wireless sensor networks: a new regime for time synchronization},
   journal   = ccr,
   volume    = {33},
@@ -6108,7 +6430,7 @@
 }
 
 @article{DBLP:journals/ccr/Molinero-FernandezM02,
-  author    = {Pablo Molinero-Fern{\'a}ndez and
+  author    = {Pablo Molinero-Fernández and
                Nick McKeown},
   title     = {The performance of circuit switching in the internet},
   journal   = ccr,
@@ -6122,7 +6444,7 @@
   author    = {Danica Vukadinovic and
                Thomas Erlebach and
                Polly Huang and
-               Maurice R{\"u}egg and
+               Maurice Rüegg and
                Roman Schilter},
   title     = {Real and generated internet {AS} topologies: structure, spectrum, robustness},
   journal   = ccr,
@@ -6600,7 +6922,7 @@
   author    = {Ahmed Helmy and
                Muhammad Jaseemuddin and
                Ganesha Bhaskara},
-  title     = {Efficient micro-mobility using intra-domain multicast-based mechanisms (M{\&}M)},
+  title     = {Efficient micro-mobility using intra-domain multicast-based mechanisms (M&M)},
   journal   = ccr,
   volume    = {32},
   number    = {5},
@@ -6696,7 +7018,7 @@
 }
 
 @article{DBLP:journals/ccr/Gronvall02,
-  author    = {Bj{\"o}rn Gr{\"o}nvall},
+  author    = {Björn Grönvall},
   title     = {Scalable multicast forwarding},
   journal   = ccr,
   volume    = {32},
@@ -7040,7 +7362,7 @@
 }
 
 @article{DBLP:journals/ccr/GuerinP01,
-  author    = {Roch Gu{\'e}rin and
+  author    = {Roch Guérin and
                Vicent Pla},
   title     = {Aggregation and conformance in differentiated service networks: a case study},
   journal   = ccr,
@@ -7090,7 +7412,7 @@
 
 @article{DBLP:journals/ccr/LeeF01,
   author    = {Luan Ling Lee and
-               Alberto Jos{\'e} Centeno Filho},
+               Alberto José Centeno Filho},
   title     = {D-ARM: a new proposal for multi-dimensional interconnection networks},
   journal   = ccr,
   volume    = {31},
@@ -7121,7 +7443,7 @@
 }
 
 @article{DBLP:journals/ccr/Baran01,
-  author    = {Benjam{\'\i}n Bar{\'a}n},
+  author    = {Benjamín Barán},
   title     = {Improved {AntNet} routing},
   journal   = ccr,
   volume    = {31},
@@ -7142,9 +7464,9 @@
 }
 
 @article{DBLP:journals/ccr/MaganaIV01,
-  author    = {Eduardo Maga{\~n}a and
+  author    = {Eduardo Magaña and
                Edurne Izkue and
-               Jes{\'u}s E. Villadangos},
+               Jesús E. Villadangos},
   title     = {Review of traffic scheduler features on general purpose platforms},
   journal   = ccr,
   volume    = {31},
@@ -7222,9 +7544,9 @@
 }
 
 @article{DBLP:journals/ccr/AbbasSM01,
-  author    = {Cl{\'a}udia J. Barenco Abbas and
-               Arturo Azcorra Salo{\~n}a and
-               Jos{\'e} Ignacio Moreno},
+  author    = {Cláudia J. Barenco Abbas and
+               Arturo Azcorra Saloña and
+               José Ignacio Moreno},
   title     = {A {QoS} service for {IP} video applications on demand over {DTM}},
   journal   = ccr,
   volume    = {31},
@@ -7269,8 +7591,8 @@
 
 @article{DBLP:journals/ccr/RochaBS01,
   author    = {Cris Amon C. Rocha and
-               A{\'e}cio Paiva Braga and
-               Jos{\'e} Neuman de Souza},
+               Aécio Paiva Braga and
+               José Neuman de Souza},
   title     = {An open approach for deploying programming nodes into communication networks},
   journal   = ccr,
   volume    = {31},
@@ -7281,7 +7603,7 @@
 
 @article{DBLP:journals/ccr/BodinSP00,
   author    = {Ulf Bodin and
-               Olov Schel{\'e}n and
+               Olov Schelén and
                Stephen Pink},
   title     = {Load-tolerant differentiation with active queue management},
   journal   = ccr,
@@ -7494,7 +7816,7 @@
 
 @article{DBLP:journals/ccr/MerweCCS00,
   author    = {Jacobus E. van der Merwe and
-               Ram{\'o}n C{\'a}ceres and
+               Ramón Cáceres and
                Yang-hua Chu and
                Cormac J. Sreenan},
   title     = {mmdump: a tool for monitoring internet multimedia traffic},
@@ -7597,7 +7919,7 @@
 }
 
 @article{DBLP:journals/ccr/MuchaxoSPS99,
-  author    = {Ant{\'o}nio Muchaxo and
+  author    = {António Muchaxo and
                Alexandre Sousa and
                Nuno Pereira and
                Helena Sarmento},
@@ -7691,7 +8013,7 @@
 
 @article{DBLP:journals/ccr/RooneyHK99,
   author    = {Sean Rooney and
-               Christian H{\"o}rtnagl and
+               Christian Hörtnagl and
                Jens Krause},
   title     = {Automatic {VLAN} creation based on on-line measurement},
   journal   = ccr,
@@ -7702,7 +8024,7 @@
 }
 
 @article{DBLP:journals/ccr/Valko99,
-  author    = {Andr{\'a}s Gergely Valk{\'o}},
+  author    = {András Gergely Valkó},
   title     = {Cellular IP: a new approach to Internet host mobility},
   journal   = ccr,
   volume    = {29},
@@ -8000,7 +8322,7 @@
   author    = {Richard Banks and
                Peter Furniss and
                Klaus Heien and
-               Hans-R{\"u}diger Wiehle},
+               Hans-Rüdiger Wiehle},
   title     = {{OSI} distributed transaction processing commitment optimizations},
   journal   = ccr,
   volume    = {28},
@@ -8020,7 +8342,7 @@
 }
 
 @article{DBLP:journals/ccr/SpahniSSS98,
-  author    = {St{\'e}phane Spahni and
+  author    = {Stéphane Spahni and
                Jean-Raoul Scherrer and
                Dominique Sauquet and
                Pier-Angelo Sottile},
@@ -8061,6 +8383,261 @@
   number    = {2},
   year      = 1998,
   pages     = {98-131},
+}
+
+@article{DBLP:journals/ccr/CarlbergC97,
+  author    = {Ken Carlberg and
+               Jon Crowcroft},
+  title     = {Building shared trees using a one-to-many joining mechanism},
+  journal   = ccr,
+  volume    = {27},
+  number    = {1},
+  year      = 1997,
+  pages     = {5-11},
+}
+
+@article{DBLP:journals/ccr/RosensteinLT97,
+  author    = {Adam Rosenstein and
+               Jun Li and
+               Si Yuan Tong},
+  title     = {MASH: the multicasting Archie server hierarchy},
+  journal   = ccr,
+  volume    = {27},
+  number    = {3},
+  year      = 1997,
+  pages     = {5-13},
+}
+
+@article{DBLP:journals/ccr/Paxson97,
+  author    = {Vern Paxson},
+  title     = {Fast, approximate synthesis of fractional Gaussian noise for generating self-similar network traffic},
+  journal   = ccr,
+  volume    = {27},
+  number    = {5},
+  year      = 1997,
+  pages     = {5-18},
+}
+
+@article{DBLP:journals/ccr/TaqquWS97,
+  author    = {Murad S. Taqqu and
+               Walter Willinger and
+               Robert Sherman},
+  title     = {Proof of a fundamental result in self-similar traffic modeling},
+  journal   = ccr,
+  volume    = {27},
+  number    = {2},
+  year      = 1997,
+  pages     = {5-23},
+}
+
+@article{DBLP:journals/ccr/Toh97,
+  author    = {C.-K. Toh},
+  title     = {A unifying methodology for handovers of heterogeneous connections in wireless {ATM} networks},
+  journal   = ccr,
+  volume    = {27},
+  number    = {1},
+  year      = 1997,
+  pages     = {12-30},
+}
+
+@article{DBLP:journals/ccr/WeiN97,
+  author    = {David S. L. Wei and
+               Kshirasagar Naik},
+  title     = {An efficient multicast protocol using de Bruijn structure for mobile computing},
+  journal   = ccr,
+  volume    = {27},
+  number    = {3},
+  year      = 1997,
+  pages     = {14-35},
+}
+
+@article{DBLP:journals/ccr/BrownS97,
+  author    = {Kevin Q. Brown and
+               Suresh Singh},
+  title     = {M-TCP: {TCP} for mobile cellular networks},
+  journal   = ccr,
+  volume    = {27},
+  number    = {5},
+  year      = 1997,
+  pages     = {19-43},
+}
+
+@article{DBLP:journals/ccr/Rizzo97a,
+  author    = {Luigi Rizzo},
+  title     = {Effective erasure codes for reliable computer communication protocols},
+  journal   = ccr,
+  volume    = {27},
+  number    = {2},
+  year      = 1997,
+  pages     = {24-36},
+}
+
+@article{DBLP:journals/ccr/Rizzo97,
+  author    = {Luigi Rizzo},
+  title     = {Dummynet: a simple approach to the evaluation of network protocols},
+  journal   = ccr,
+  volume    = {27},
+  number    = {1},
+  year      = 1997,
+  pages     = {31-41},
+}
+
+@article{DBLP:journals/ccr/KahaniB97,
+  author    = {Mohsen Kahani and
+               H. W. Peter Beadle},
+  title     = {Decentralised approaches for network management},
+  journal   = ccr,
+  volume    = {27},
+  number    = {3},
+  year      = 1997,
+  pages     = {36-47},
+}
+
+@article{DBLP:journals/ccr/Ubik97,
+  author    = {Sven Ubik},
+  title     = {Possibilities of using protocol converters for {NIR} system construction},
+  journal   = ccr,
+  volume    = {27},
+  number    = {2},
+  year      = 1997,
+  pages     = {37-48},
+}
+
+@article{DBLP:journals/ccr/ShardaFA97,
+  author    = {Nalin Sharda and
+               Refyul Fatri and
+               Mohammad Abid},
+  title     = {Applying deductive database technology to network management},
+  journal   = ccr,
+  volume    = {27},
+  number    = {1},
+  year      = 1997,
+  pages     = {42-54},
+}
+
+@article{DBLP:journals/ccr/ChatterjeeX97,
+  author    = {Samir Chatterjee and
+               Wen Xiao},
+  title     = {Increasing throughput in ATM/{B-ISDN} using simple buffer management and selective discarding},
+  journal   = ccr,
+  volume    = {27},
+  number    = {5},
+  year      = 1997,
+  pages     = {44-60},
+}
+
+@article{DBLP:journals/ccr/VermaV97,
+  author    = {Ashish Verma and
+               Pallapa Venkataram},
+  title     = {Performance of centralized bandwidth reservation protocol in {AVPNs}},
+  journal   = ccr,
+  volume    = {27},
+  number    = {3},
+  year      = 1997,
+  pages     = {47-66},
+}
+
+@article{DBLP:journals/ccr/KrishnaVCP97,
+  author    = {P. Krishna and
+               Nitin H. Vaidya and
+               Mainak Chatterjee and
+               Dhiraj K. Pradhan},
+  title     = {A cluster-based approach for routing in dynamic networks},
+  journal   = ccr,
+  volume    = {27},
+  number    = {2},
+  year      = 1997,
+  pages     = {49-64},
+}
+
+@article{DBLP:journals/ccr/LuinenBC97,
+  author    = {Steven Van Luinen and
+               Zigmantas L. Budrikis and
+               Antonio Cantoni},
+  title     = {The controlled cell transfer capability},
+  journal   = ccr,
+  volume    = {27},
+  number    = {1},
+  year      = 1997,
+  pages     = {55-71},
+}
+
+@article{DBLP:journals/ccr/Olsen97a,
+  author    = {Arthur S. Olsen},
+  title     = {Analysis methodology for simulation of distributed adaptive routing systems},
+  journal   = ccr,
+  volume    = {27},
+  number    = {5},
+  year      = 1997,
+  pages     = {61-72},
+}
+
+@article{DBLP:journals/ccr/Heidemann97,
+  author    = {John Heidemann},
+  title     = {Performance interactions between {P-HTTP} and {TCP} implementations},
+  journal   = ccr,
+  volume    = {27},
+  number    = {2},
+  year      = 1997,
+  pages     = {65-73},
+}
+
+@article{DBLP:journals/ccr/MathisSMO97,
+  author    = {Matthew Mathis and
+               Jeffrey Semke and
+               Jamshid Mahdavi and
+               Teunis Ott},
+  title     = {The macroscopic behavior of the {TCP} congestion avoidance algorithm},
+  journal   = ccr,
+  volume    = {27},
+  number    = {3},
+  year      = 1997,
+  pages     = {67-82},
+}
+
+@article{DBLP:journals/ccr/Rooney97,
+  author    = {S. Rooney},
+  title     = {Connection closures adding application-defined behaviour to network connections},
+  journal   = ccr,
+  volume    = {27},
+  number    = {2},
+  year      = 1997,
+  pages     = {74-88},
+}
+
+@article{DBLP:journals/ccr/Olsen97,
+  author    = {Arthur S. Olsen},
+  title     = {Adaptive feedback compensation for distributed load-based routing systems in datagram packet-switched communications networks},
+  journal   = ccr,
+  volume    = {27},
+  number    = {3},
+  year      = 1997,
+  pages     = {83-99},
+}
+
+@article{DBLP:journals/ccr/AnginCCLLN97,
+  author    = {Oguz Angin and
+               Andrew T. Campbell and
+               Lai-Tee Cheok and
+               Raymond R.-F. Liao and
+               Koon-Seng Lim and
+               Klara Nahrstedt},
+  title     = {Report on the 5th {IFIP} international workshop on quality of service (IWQOS'97)},
+  journal   = ccr,
+  volume    = {27},
+  number    = {3},
+  year      = 1997,
+  pages     = {100-119},
+}
+
+@article{DBLP:journals/ccr/Crowcroft97,
+  author    = {Jon Crowcroft},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {27},
+  number    = {3},
+  year      = 1997,
+  pages     = {118-135},
 }
 
 @article{DBLP:journals/ccr/KarnP87,
@@ -8242,7 +8819,7 @@
 
 @article{DBLP:journals/ccr/TomasPP87,
   author    = {J. G. Tomas and
-               Juan Pav{\'o}n and
+               Juan Pavón and
                O. Pereda},
   title     = {{OSI} service specification: {SAP} and {CEP} modelling},
   journal   = ccr,
@@ -8694,7 +9271,7 @@
 
 @article{DBLP:journals/ccr/KovacsE86,
   author    = {L. Kovacs and
-               A. Ercs{\'e}nyi},
+               A. Ercsényi},
   title     = {Specification versus implementation based on Estelle},
   journal   = ccr,
   volume    = {16},
@@ -8869,7 +9446,7 @@
 }
 
 @article{DBLP:journals/ccr/JurgensenV84,
-  author    = {Wolfgang J{\"u}rgensen and
+  author    = {Wolfgang Jürgensen and
                Son T. Vuong},
   title     = {Formal specification and validation of {ISO} transport protocol components, using petri nets},
   journal   = ccr,
@@ -8972,7 +9549,7 @@
 }
 
 @article{DBLP:journals/ccr/PedersenS84,
-  author    = {Niels N{\o}rup Pedersen and
+  author    = {Niels Nørup Pedersen and
                Robin Sharp},
   title     = {Analysis of channel access schemes for high-speed {LANs}},
   journal   = ccr,

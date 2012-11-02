@@ -1,7 +1,7 @@
 @include journals-cs
 
 @article{DBLP:journals/pvldb/Ozsoyoglu12,
-  author    = {Z. Meral {\"O}zsoyoglu},
+  author    = {Z. Meral Özsoyoglu},
   title     = {Letter from the {Editor-in-Chief}},
   journal   = pvldb,
   volume    = {5},
@@ -10,7 +10,7 @@
 }
 
 @article{DBLP:journals/pvldb/Ozsoyoglu12a,
-  author    = {Z. Meral {\"O}zsoyoglu},
+  author    = {Z. Meral Özsoyoglu},
   title     = {Message from the {VLDB} 2012 General Program Chair},
   journal   = pvldb,
   volume    = {5},
@@ -40,7 +40,7 @@
 }
 
 @article{DBLP:journals/pvldb/CetintemelD12,
-  author    = {Ugur {\c{C}}etintemel and
+  author    = {Ugur Çetintemel and
                Nilesh N. Dalvi},
   title     = {Letter from the the Associate Editors},
   journal   = pvldb,
@@ -120,7 +120,7 @@
 }
 
 @article{DBLP:journals/pvldb/ErdosILTB12,
-  author    = {D{\'o}ra Erd{\"o}s and
+  author    = {Dóra Erdös and
                Vatche Ishakian and
                Andrei Lapets and
                Evimaria Terzi and
@@ -997,7 +997,7 @@
   author    = {Fabian Hueske and
                Mathias Peters and
                Matthias Sax and
-               Astrid Rheinl{\"a}nder and
+               Astrid Rheinländer and
                Rico Bergmann and
                Aljoscha Krettek and
                Kostas Tzoumas},
@@ -1072,7 +1072,7 @@
 }
 
 @article{DBLP:journals/pvldb/BaranyCO12,
-  author    = {Vince B{\'a}r{\'a}ny and
+  author    = {Vince Bárány and
                Balder ten Cate and
                Martin Otto},
   title     = {Queries with Guarded Negation},
@@ -1178,7 +1178,7 @@
   author    = {Florian Funke and
                Alfons Kemper and
                Thomas Neumann},
-  title     = {Compacting Transactional Data in Hybrid {OLTP} {\&}amp; {OLAP} Databases},
+  title     = {Compacting Transactional Data in Hybrid {OLTP} &amp; {OLAP} Databases},
   journal   = pvldb,
   volume    = {5},
   number    = {11},
@@ -1189,7 +1189,7 @@
 @article{DBLP:journals/pvldb/HallBBGN12,
   author    = {Alexander Hall and
                Olaf Bachmann and
-               Robert B{\"u}ssow and
+               Robert Büssow and
                Silviu Ganceanu and
                Marc Nunkesser},
   title     = {Processing a Trillion Cells per Mouse Click},
@@ -1204,7 +1204,7 @@
   author    = {Danica Porobic and
                Ippokratis Pandis and
                Miguel Branco and
-               Pinar T{\"o}z{\"u}n and
+               Pinar Tözün and
                Anastasia Ailamaki},
   title     = {{OLTP} on Hardware Islands},
   journal   = pvldb,
@@ -1280,7 +1280,7 @@
 }
 
 @article{DBLP:journals/pvldb/CandanRSW12,
-  author    = {K. Sel{\c{c}}uk Candan and
+  author    = {K. Selçuk Candan and
                Rosaria Rossini and
                Maria Luisa Sapino and
                Xiaolan Wang},
@@ -1295,7 +1295,7 @@
 @article{DBLP:journals/pvldb/TauheedHSMA12,
   author    = {Farhan Tauheed and
                Thomas Heinis and
-               Felix Sch{\"u}rmann and
+               Felix Schürmann and
                Henry Markram and
                Anastasia Ailamaki},
   title     = {SCOUT: Prefetching for Latent Feature Following Queries},
@@ -1323,7 +1323,7 @@
 
 @article{DBLP:journals/pvldb/LiKNC12,
   author    = {Jiexing Li and
-               Arnd Christian K{\"o}nig and
+               Arnd Christian König and
                Vivek R. Narasayya and
                Surajit Chaudhuri},
   title     = {Robust Estimation of Resource Consumption for {SQL} Queries using Statistical Techniques},
@@ -1362,11 +1362,11 @@
 
 @article{DBLP:journals/pvldb/DittrichQRSJS12,
   author    = {Jens Dittrich and
-               Jorge-Arnulfo Quian{\'e}-Ruiz and
+               Jorge-Arnulfo Quiané-Ruiz and
                Stefan Richter and
                Stefan Schuh and
                Alekh Jindal and
-               J{\"o}rg Schad},
+               Jörg Schad},
   title     = {Only Aggressive Elephants are Fast Elephants},
   journal   = pvldb,
   volume    = {5},
@@ -1523,7 +1523,7 @@
 
 @article{DBLP:journals/pvldb/HellersteinRSWFGNWFLK12,
   author    = {Joseph M. Hellerstein and
-               Christopher R{\'e} and
+               Christopher Ré and
                Florian Schoppmann and
                Daisy Zhe Wang and
                Eugene Fratkin and
@@ -1559,8 +1559,8 @@
   author    = {Tilmann Rabl and
                Mohammad Sadoghi and
                Hans-Arno Jacobsen and
-               Sergio G{\'o}mez-Villamor and
-               Victor Munt{\'e}s-Mulero and
+               Sergio Gómez-Villamor and
+               Victor Muntés-Mulero and
                Serge Mankowskii},
   title     = {Solving Big Data Challenges for Enterprise Application Performance Management},
   journal   = pvldb,
@@ -1584,7 +1584,7 @@
 }
 
 @article{DBLP:journals/pvldb/RoschDHF12,
-  author    = {Philipp R{\"o}sch and
+  author    = {Philipp Rösch and
                Lars Dannecker and
                Gregor Hackenbroich and
                Franz Faerber},
@@ -1826,7 +1826,7 @@
                Pouria Pirzadeh and
                Rares Vernica and
                Jian Wen},
-  title     = {ASTERIX: An Open Source System for {\&}quot;Big Data{\&}quot; Management and Analysis},
+  title     = {ASTERIX: An Open Source System for &quot;Big Data&quot; Management and Analysis},
   journal   = pvldb,
   volume    = {5},
   number    = {12},
@@ -1931,7 +1931,7 @@
 @article{DBLP:journals/pvldb/KotsifakosPHGAK12,
   author    = {Alexios Kotsifakos and
                Panagiotis Papapetrou and
-               Jaakko Hollm{\'e}n and
+               Jaakko Hollmén and
                Dimitrios Gunopulos and
                Vassilis Athitsos and
                George Kollios},
@@ -1986,7 +1986,7 @@
   author    = {Florian Wenzel and
                Markus Endres and
                Stefan Mandl and
-               Werner Kie{\ss}ling},
+               Werner Kießling},
   title     = {Complex Preference Queries Supporting Spatial Applications for User Groups},
   journal   = pvldb,
   volume    = {5},
@@ -2020,8 +2020,8 @@
 }
 
 @article{DBLP:journals/pvldb/LetelierPPS12,
-  author    = {Andr{\'e}s Letelier and
-               Jorge P{\'e}rez and
+  author    = {Andrés Letelier and
+               Jorge Pérez and
                Reinhard Pichler and
                Sebastian Skritek},
   title     = {SPAM: A {SPARQL} Analysis and Manipulation Tool},
@@ -2077,7 +2077,7 @@
                Ulrike Fischer and
                Torben Bach Pedersen and
                Wolfgang Lehner},
-  title     = {Model-based Integration of Past {\&}amp; Future in {TimeTravel}},
+  title     = {Model-based Integration of Past &amp; Future in {TimeTravel}},
   journal   = pvldb,
   volume    = {5},
   number    = {12},
@@ -2168,7 +2168,7 @@
 
 @article{DBLP:journals/pvldb/XuG12,
   author    = {Jianqiu Xu and
-               Ralf Hartmut G{\"u}ting},
+               Ralf Hartmut Güting},
   title     = {Manage and Query Generic Moving Objects in {SECONDO}},
   journal   = pvldb,
   volume    = {5},
@@ -2232,7 +2232,7 @@
 
 @article{DBLP:journals/pvldb/DittrichQ12,
   author    = {Jens Dittrich and
-               Jorge-Arnulfo Quian{\'e}-Ruiz},
+               Jorge-Arnulfo Quiané-Ruiz},
   title     = {Efficient Big Data Processing in Hadoop {MapReduce}},
   journal   = pvldb,
   volume    = {5},
@@ -2254,7 +2254,7 @@
 @article{DBLP:journals/pvldb/GetoorM12,
   author    = {Lise Getoor and
                Ashwin Machanavajjhala},
-  title     = {Entity Resolution: Theory, Practice {\&}amp; Open Challenges},
+  title     = {Entity Resolution: Theory, Practice &amp; Open Challenges},
   journal   = pvldb,
   volume    = {5},
   number    = {12},
@@ -2352,7 +2352,7 @@
 }
 
 @article{DBLP:journals/pvldb/Cetintemel11,
-  author    = {Ugur {\c{C}}etintemel},
+  author    = {Ugur Çetintemel},
   title     = {Letter from the the Associate Editor},
   journal   = pvldb,
   volume    = {5},
@@ -2390,7 +2390,7 @@
 }
 
 @article{DBLP:journals/pvldb/Rohm11,
-  author    = {Uwe R{\"o}hm},
+  author    = {Uwe Röhm},
   title     = {Letter from the {VLDB} Proceedings Chair},
   journal   = pvldb,
   volume    = {4},
@@ -2400,7 +2400,7 @@
 }
 
 @article{DBLP:journals/pvldb/Rohm11a,
-  author    = {Uwe R{\"o}hm},
+  author    = {Uwe Röhm},
   title     = {Letter from the {VLDB} 2011 Proceedings Chair},
   journal   = pvldb,
   volume    = {4},
@@ -2440,7 +2440,7 @@
 }
 
 @article{DBLP:journals/pvldb/Ozsoyoglu11,
-  author    = {Z. Meral {\"O}zsoyoglu},
+  author    = {Z. Meral Özsoyoglu},
   title     = {Letter from the the {Editor-in-Chief}},
   journal   = pvldb,
   volume    = {5},
@@ -2514,7 +2514,7 @@
 }
 
 @article{DBLP:journals/pvldb/KruegerKGSSCPDZ11,
-  author    = {Jens Kr{\"u}ger and
+  author    = {Jens Krüger and
                Changkyu Kim and
                Martin Grund and
                Nadathur Satish and
@@ -2556,7 +2556,7 @@
 }
 
 @article{DBLP:journals/pvldb/GoasdoueKLM11,
-  author    = {Fran{\c{c}}ois Goasdou{\'e} and
+  author    = {François Goasdoué and
                Konstantinos Karanasos and
                Julien Leblay and
                Ioana Manolescu},
@@ -2779,7 +2779,7 @@
 
 @article{DBLP:journals/pvldb/DingK11,
   author    = {Bolin Ding and
-               Arnd Christian K{\"o}nig},
+               Arnd Christian König},
   title     = {Fast Set Intersection in Memory},
   journal   = pvldb,
   volume    = {4},
@@ -2818,7 +2818,7 @@
   author    = {Ning Zhang and
                Jun'ichi Tatemura and
                Jignesh M. Patel and
-               Hakan Hacig{\"u}m{\"u}s},
+               Hakan Hacigümüs},
   title     = {Towards {Cost-Effective} Storage Provisioning for {DBMSs}},
   journal   = pvldb,
   volume    = {5},
@@ -2869,7 +2869,7 @@
 }
 
 @article{DBLP:journals/pvldb/LarsonBDFPZ11,
-  author    = {Per-{\AA}ke Larson and
+  author    = {Per-Åke Larson and
                Spyros Blanas and
                Cristian Diaconu and
                Craig Freedman and
@@ -2885,7 +2885,7 @@
 
 @article{DBLP:journals/pvldb/KocR11,
   author    = {Mehmet Levent Koc and
-               Christopher R{\'e}},
+               Christopher Ré},
   title     = {Incrementally maintaining classification using an {RDBMS}},
   journal   = pvldb,
   volume    = {4},
@@ -2921,7 +2921,7 @@
 
 @article{DBLP:journals/pvldb/KumarR11,
   author    = {Arun Kumar and
-               Christopher R{\'e}},
+               Christopher Ré},
   title     = {Probabilistic Management of {OCR} Data using an {RDBMS}},
   journal   = pvldb,
   volume    = {5},
@@ -3035,7 +3035,7 @@
 
 @article{DBLP:journals/pvldb/NiuRDS11,
   author    = {Feng Niu and
-               Christopher R{\'e} and
+               Christopher Ré and
                AnHai Doan and
                Jude W. Shavlik},
   title     = {Tuffy: Scaling up Statistical Inference in Markov Logic Networks using an {RDBMS}},
@@ -3047,7 +3047,7 @@
 }
 
 @article{DBLP:journals/pvldb/KonigDCN11,
-  author    = {Arnd Christian K{\"o}nig and
+  author    = {Arnd Christian König and
                Bolin Ding and
                Surajit Chaudhuri and
                Vivek R. Narasayya},
@@ -3062,7 +3062,7 @@
 @article{DBLP:journals/pvldb/JahaniCR11,
   author    = {Eaman Jahani and
                Michael J. Cafarella and
-               Christopher R{\'e}},
+               Christopher Ré},
   title     = {Automatic Optimization for {MapReduce} Programs},
   journal   = pvldb,
   volume    = {4},
@@ -3181,7 +3181,7 @@
   author    = {Lei Zou and
                Jinghui Mo and
                Lei Chen and
-               M. Tamer {\"O}zsu and
+               M. Tamer Özsu and
                Dongyan Zhao},
   title     = {gStore: Answering {SPARQL} Queries via Subgraph Matching},
   journal   = pvldb,
@@ -3273,7 +3273,7 @@
 @article{DBLP:journals/pvldb/ChiMH11,
   author    = {Yun Chi and
                Hyun Jin Moon and
-               Hakan Hacig{\"u}m{\"u}s},
+               Hakan Hacigümüs},
   title     = {iCBS: Incremental Costbased Scheduling under Piecewise Linear {SLAs}},
   journal   = pvldb,
   volume    = {4},
@@ -3285,7 +3285,7 @@
 @article{DBLP:journals/pvldb/EltabakhTOGKM11,
   author    = {Mohamed Y. Eltabakh and
                Yuanyuan Tian and
-               Fatma {\"O}zcan and
+               Fatma Özcan and
                Rainer Gemulla and
                Aljoscha Krettek and
                John McPherson},
@@ -3314,7 +3314,7 @@
   author    = {Chonghai Wang and
                Li-Yan Yuan and
                Jia-Huai You and
-               Osmar R. Za{\"\i}ane and
+               Osmar R. Zaïane and
                Jian Pei},
   title     = {On Pruning for {Top-K} Ranking in Uncertain Databases},
   journal   = pvldb,
@@ -3326,7 +3326,7 @@
 
 @article{DBLP:journals/pvldb/PandisTJA11,
   author    = {Ippokratis Pandis and
-               Pinar T{\"o}z{\"u}n and
+               Pinar Tözün and
                Ryan Johnson and
                Anastasia Ailamaki},
   title     = {PLP: Page Latch-free Shared-everything {OLTP}},
@@ -3392,7 +3392,7 @@
                Hans-Peter Kriegel and
                Matthias Renz and
                Stefan Zankl and
-               Andreas Z{\"u}fle},
+               Andreas Züfle},
   title     = {Efficient Probabilistic Reverse Nearest Neighbor Query Processing on Uncertain Data},
   journal   = pvldb,
   volume    = {4},
@@ -3449,7 +3449,7 @@
                Hoang Tam Vo and
                Sai Wu and
                Beng Chin Ooi and
-               M. Tamer {\"O}zsu},
+               M. Tamer Özsu},
   title     = {A Framework for Supporting {DBMS-like} Indexes in the Cloud},
   journal   = pvldb,
   volume    = {4},
@@ -3515,7 +3515,7 @@
 @article{DBLP:journals/pvldb/KotsifakosPHG11,
   author    = {Alexios Kotsifakos and
                Panagiotis Papapetrou and
-               Jaakko Hollm{\'e}n and
+               Jaakko Hollmén and
                Dimitrios Gunopulos},
   title     = {A Subsequence Matching with {Gaps-Range-Tolerances} Framework: A {Query-By-Humming} Application},
   journal   = pvldb,
@@ -3540,7 +3540,7 @@
   author    = {Hyungsoo Jung and
                Hyuck Han and
                Alan Fekete and
-               Uwe R{\"o}hm},
+               Uwe Röhm},
   title     = {Serializable Snapshot Isolation for Replicated Databases in {High-Update} Scenarios},
   journal   = pvldb,
   volume    = {4},
@@ -4028,7 +4028,7 @@
                Romain Colle and
                Leonidas Galanis and
                Supiti Buranawatanachoke and
-               Beno{\^\i}t Dageville and
+               Benoît Dageville and
                Karl Dias and
                Yujun Wang},
   title     = {Consistent Synchronization Schemes for Workload Replay},
@@ -4085,7 +4085,7 @@
                Andrey Balmin and
                Mohamed Y. Eltabakh and
                Carl-Christian Kanne and
-               Fatma {\"O}zcan and
+               Fatma Özcan and
                Eugene J. Shekita},
   title     = {Jaql: A Scripting Language for Large Scale Semistructured Data Analysis},
   journal   = pvldb,
@@ -4123,10 +4123,10 @@
 }
 
 @article{DBLP:journals/pvldb/GrosseLWFL11,
-  author    = {Philipp Gro{\ss}e and
+  author    = {Philipp Große and
                Wolfgang Lehner and
                Thomas Weichert and
-               Franz F{\"a}rber and
+               Franz Färber and
                Wen-Syan Li},
   title     = {Bridging Two Worlds with {RICE} Integrating R into the {SAP} {In-Memory} Computing Engine},
   journal   = pvldb,
@@ -4285,7 +4285,7 @@
 @article{DBLP:journals/pvldb/GlavicDMAH11,
   author    = {Boris Glavic and
                Jiang Du and
-               Ren{\'e}e J. Miller and
+               Renée J. Miller and
                Gustavo Alonso and
                Laura M. Haas},
   title     = {Debugging Data Exchange with Vagabond},
@@ -4453,7 +4453,7 @@
 
 @article{DBLP:journals/pvldb/GrundCM11,
   author    = {Martin Grund and
-               Philippe Cudr{\'e}-Mauroux and
+               Philippe Cudré-Mauroux and
                Samuel Madden},
   title     = {A Demonstration of {HYRISE} - A Main Memory Hybrid Storage Engine},
   journal   = pvldb,
@@ -4541,7 +4541,7 @@
 }
 
 @article{DBLP:journals/pvldb/BohmLF11,
-  author    = {Matthias B{\"o}hm and
+  author    = {Matthias Böhm and
                Wolfgang Lehner and
                Christof Fetzer},
   title     = {{Resiliency-Aware} Data Management},
@@ -4704,7 +4704,7 @@
 }
 
 @article{DBLP:journals/pvldb/Cudre-MaurouxE11,
-  author    = {Philippe Cudr{\'e}-Mauroux and
+  author    = {Philippe Cudré-Mauroux and
                Sameh Elnikety},
   title     = {Graph Data Management Systems for New Application Domains},
   journal   = pvldb,
@@ -4766,7 +4766,7 @@
 }
 
 @article{DBLP:journals/pvldb/Blakeley10,
-  author    = {Jos{\'e} A. Blakeley},
+  author    = {José A. Blakeley},
   title     = {Letter from the VLDB2011 General {PC} {Co-Chair}},
   journal   = pvldb,
   volume    = {4},
@@ -4794,7 +4794,7 @@
 
 @article{DBLP:journals/pvldb/KlingOD11,
   author    = {Patrick Kling and
-               M. Tamer {\"O}zsu and
+               M. Tamer Özsu and
                Khuzaima Daudjee},
   title     = {Generating Efficient Execution Plans for Vertically Partitioned {XML} Databases},
   journal   = pvldb,
@@ -4992,7 +4992,7 @@
 
 @article{DBLP:journals/pvldb/AlexeHPT10,
   author    = {Bogdan Alexe and
-               Mauricio A. Hern{\'a}ndez and
+               Mauricio A. Hernández and
                Lucian Popa and
                Wang Chiew Tan},
   title     = {MapMerge: Correlating Independent Schema Mappings},
@@ -5016,10 +5016,10 @@
 }
 
 @article{DBLP:journals/pvldb/Rocha-JuniorVDN10,
-  author    = {Jo{\~a}o B. Rocha-Junior and
+  author    = {João B. Rocha-Junior and
                Akrivi Vlachou and
                Christos Doulkeridis and
-               Kjetil N{\o}rv{\aa}g},
+               Kjetil Nørvåg},
   title     = {Efficient Processing of Top-k Spatial Preference Queries},
   journal   = pvldb,
   volume    = {4},
@@ -5041,10 +5041,10 @@
 
 @article{DBLP:journals/pvldb/GrundKPZCM10,
   author    = {Martin Grund and
-               Jens Kr{\"u}ger and
+               Jens Krüger and
                Hasso Plattner and
                Alexander Zeier and
-               Philippe Cudr{\'e}-Mauroux and
+               Philippe Cudré-Mauroux and
                Samuel Madden},
   title     = {{HYRISE} - A Main Memory Hybrid Storage Engine},
   journal   = pvldb,
@@ -5219,7 +5219,7 @@
 
 @article{DBLP:journals/pvldb/HerschelH10,
   author    = {Melanie Herschel and
-               Mauricio A. Hern{\'a}ndez},
+               Mauricio A. Hernández},
   title     = {Explaining Missing Answers to {SPJUA} Queries},
   journal   = pvldb,
   volume    = {3},
@@ -5291,7 +5291,7 @@
                Roozbeh Derakhshan and
                Nihal Dindar and
                Laura M. Haas and
-               Ren{\'e}e J. Miller and
+               Renée J. Miller and
                Nesime Tatbul},
   title     = {SECRET: A Model for Analysis of the Execution Semantics of Stream Processing Systems},
   journal   = pvldb,
@@ -5442,7 +5442,7 @@
 @article{DBLP:journals/pvldb/VlachouDNK10,
   author    = {Akrivi Vlachou and
                Christos Doulkeridis and
-               Kjetil N{\o}rv{\aa}g and
+               Kjetil Nørvåg and
                Yannis Kotidis},
   title     = {Identifying the Most Influential Data Objects with Reverse Top-k Queries},
   journal   = pvldb,
@@ -5516,7 +5516,7 @@
 @article{DBLP:journals/pvldb/IoannouNNV10,
   author    = {Ekaterini Ioannou and
                Wolfgang Nejdl and
-               Claudia Nieder{\'e}e and
+               Claudia Niederée and
                Yannis Velegrakis},
   title     = {{On-the-Fly} {Entity-Aware} Query Processing in the Presence of Linkage},
   journal   = pvldb,
@@ -5554,9 +5554,9 @@
 }
 
 @article{DBLP:journals/pvldb/SchadDQ10,
-  author    = {J{\"o}rg Schad and
+  author    = {Jörg Schad and
                Jens Dittrich and
-               Jorge-Arnulfo Quian{\'e}-Ruiz},
+               Jorge-Arnulfo Quiané-Ruiz},
   title     = {Runtime Measurements in the Cloud: Observing, Analyzing, and Reducing Variance},
   journal   = pvldb,
   volume    = {3},
@@ -5579,7 +5579,7 @@
 }
 
 @article{DBLP:journals/pvldb/KopckeTR10,
-  author    = {Hanna K{\"o}pcke and
+  author    = {Hanna Köpcke and
                Andreas Thor and
                Erhard Rahm},
   title     = {Evaluation of entity resolution approaches on real-world match problems},
@@ -5618,11 +5618,11 @@
 
 @article{DBLP:journals/pvldb/DittrichQJKSS10,
   author    = {Jens Dittrich and
-               Jorge-Arnulfo Quian{\'e}-Ruiz and
+               Jorge-Arnulfo Quiané-Ruiz and
                Alekh Jindal and
                Yagiz Kargin and
                Vinay Setty and
-               J{\"o}rg Schad},
+               Jörg Schad},
   title     = {Hadoop++: Making a Yellow Elephant Run Like a Cheetah (Without It Even Noticing)},
   journal   = pvldb,
   volume    = {3},
@@ -5656,7 +5656,7 @@
 }
 
 @article{DBLP:journals/pvldb/CaliGP10,
-  author    = {Andrea Cal{\`\i} and
+  author    = {Andrea Calì and
                Georg Gottlob and
                Andreas Pieris},
   title     = {Advanced Processing for Ontological Queries},
@@ -5953,7 +5953,7 @@
 @article{DBLP:journals/pvldb/ChengLYLLX10,
   author    = {Reynold Cheng and
                Eric Lo and
-               Xuan Yang and
+               Xuan S. Yang and
                Ming-Hay Luk and
                Xiang Li and
                Xike Xie},
@@ -5978,7 +5978,7 @@
 }
 
 @article{DBLP:journals/pvldb/RaissiPK10,
-  author    = {Chedy Ra{\"\i}ssi and
+  author    = {Chedy Raïssi and
                Jian Pei and
                Thomas Kister},
   title     = {Computing Closed Skycubes},
@@ -6004,7 +6004,7 @@
 @article{DBLP:journals/pvldb/WuBMPS10,
   author    = {Minji Wu and
                Laure Berti-Equille and
-               Am{\'e}lie Marian and
+               Amélie Marian and
                Cecilia M. Procopiuc and
                Divesh Srivastava},
   title     = {Processing Top-k Join Queries},
@@ -6040,7 +6040,7 @@
 
 @article{DBLP:journals/pvldb/GrimsmoBH10,
   author    = {Nils Grimsmo and
-               Truls Amundsen Bj{\o}rklund and
+               Truls Amundsen Bjørklund and
                Magnus Lie Hetland},
   title     = {Fast Optimal Twig Joins},
   journal   = pvldb,
@@ -6194,7 +6194,7 @@
 @article{DBLP:journals/pvldb/CaoKRT10,
   author    = {Jianneng Cao and
                Panagiotis Karras and
-               Chedy Ra{\"\i}ssi and
+               Chedy Raïssi and
                Kian-Lee Tan},
   title     = {rho-uncertainty: {Inference-Proof} Transaction Anonymization},
   journal   = pvldb,
@@ -6473,7 +6473,7 @@
 
 @article{DBLP:journals/pvldb/AkdereCU10,
   author    = {Mert Akdere and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                Eli Upfal},
   title     = {Database-support for Continuous Prediction Queries over Streaming Data},
   journal   = pvldb,
@@ -6500,7 +6500,7 @@
 @article{DBLP:journals/pvldb/GlavicAMH10,
   author    = {Boris Glavic and
                Gustavo Alonso and
-               Ren{\'e}e J. Miller and
+               Renée J. Miller and
                Laura M. Haas},
   title     = {TRAMP: Understanding the Behavior of Schema Mappings through Provenance},
   journal   = pvldb,
@@ -6589,7 +6589,7 @@
 @article{DBLP:journals/pvldb/ZouWSHAGW10,
   author    = {Qiong Zou and
                Huayong Wang and
-               Robert Soul{\'e} and
+               Robert Soulé and
                Martin Hirzel and
                Henrique Andrade and
                Bugra Gedik and
@@ -6679,7 +6679,7 @@
 
 @article{DBLP:journals/pvldb/OrairTWMP10,
   author    = {Gustavo Henrique Orair and
-               Carlos Teixeira and
+               Carlos H. C. Teixeira and
                Ye Wang and
                Wagner Meira Jr. and
                Srinivasan Parthasarathy},
@@ -6704,7 +6704,7 @@
 }
 
 @article{DBLP:journals/pvldb/PestiLBIW10,
-  author    = {P{\'e}ter Pesti and
+  author    = {Péter Pesti and
                Ling Liu and
                Bhuvan Bamba and
                Arun Iyengar and
@@ -6720,7 +6720,7 @@
 @article{DBLP:journals/pvldb/SiCGS10,
   author    = {Xiance Si and
                Edward Y. Chang and
-               Zolt{\'a}n Gy{\"o}ngyi and
+               Zoltán Gyöngyi and
                Maosong Sun},
   title     = {Confucius and Its Intelligent Disciples: Integrating Social with Search},
   journal   = pvldb,
@@ -6901,7 +6901,7 @@
 }
 
 @article{DBLP:journals/pvldb/StrotgenG10,
-  author    = {Jannik Str{\"o}tgen and
+  author    = {Jannik Strötgen and
                Michael Gertz},
   title     = {TimeTrails: A System for Exploring {Spatio-Temporal} Information in Documents},
   journal   = pvldb,
@@ -7072,7 +7072,7 @@
 @article{DBLP:journals/pvldb/HentschelHM10,
   author    = {Martin Hentschel and
                Laura M. Haas and
-               Ren{\'e}e J. Miller},
+               Renée J. Miller},
   title     = {Just-in-time Data Integration in Action},
   journal   = pvldb,
   volume    = {3},
@@ -7083,7 +7083,7 @@
 
 @article{DBLP:journals/pvldb/AlexandrovBEHHKMNW10,
   author    = {Alexander Alexandrov and
-               Dominic Battr{\'e} and
+               Dominic Battré and
                Stephan Ewen and
                Max Heimel and
                Fabian Hueske and
@@ -7111,8 +7111,8 @@
 }
 
 @article{DBLP:journals/pvldb/GunnemannFKS10,
-  author    = {Stephan G{\"u}nnemann and
-               Ines F{\"a}rber and
+  author    = {Stephan Günnemann and
+               Ines Färber and
                Hardy Kremer and
                Thomas Seidl},
   title     = {CoDA: Interactive Cluster Based Concept Discovery},
@@ -7197,7 +7197,7 @@
   author    = {Matthias Renz and
                Reynold Cheng and
                Hans-Peter Kriegel and
-               Andreas Z{\"u}fle and
+               Andreas Züfle and
                Thomas Bernecker},
   title     = {Similarity Search and Mining in Uncertain Databases},
   journal   = pvldb,
@@ -7237,7 +7237,7 @@
                Laura M. Haas and
                H. V. Jagadish and
                David Maier and
-               M. Tamer {\"O}zsu and
+               M. Tamer Özsu and
                Marianne Winslett},
   title     = {Time for Our Field to Grow Up},
   journal   = pvldb,
@@ -7418,7 +7418,7 @@
 @article{DBLP:journals/pvldb/SternBB09,
   author    = {Mirco Stern and
                Erik Buchmann and
-               Klemens B{\"o}hm},
+               Klemens Böhm},
   title     = {A Wavelet Transform for Efficient Consolidation of Sensor Relations with Quality Guarantees},
   journal   = pvldb,
   volume    = {2},
@@ -7489,7 +7489,7 @@
 }
 
 @article{DBLP:journals/pvldb/MullerTA09,
-  author    = {Ren{\'e} M{\"u}ller and
+  author    = {René Müller and
                Jens Teubner and
                Gustavo Alonso},
   title     = {Streams on Wires - A Query Compiler for {FPGAs}},
@@ -8076,7 +8076,7 @@
 @article{DBLP:journals/pvldb/MachanavajjhalaGG09,
   author    = {Ashwin Machanavajjhala and
                Johannes Gehrke and
-               Michaela G{\"o}tz},
+               Michaela Götz},
   title     = {Data Publishing against Realistic Adversaries},
   journal   = pvldb,
   volume    = {2},
@@ -8173,7 +8173,7 @@
 @article{DBLP:journals/pvldb/ZouCO09,
   author    = {Lei Zou and
                Lei Chen and
-               M. Tamer {\"O}zsu},
+               M. Tamer Özsu},
   title     = {DistanceJoin: Pattern Match Query In a Large Graph Database},
   journal   = pvldb,
   volume    = {2},
@@ -8186,7 +8186,7 @@
   author    = {Qian Wan and
                Raymond Chi-Wing Wong and
                Ihab F. Ilyas and
-               M. Tamer {\"O}zsu and
+               M. Tamer Özsu and
                Yu Peng},
   title     = {Creating Competitive Products},
   journal   = pvldb,
@@ -8197,7 +8197,7 @@
 }
 
 @article{DBLP:journals/pvldb/MuellerTA09,
-  author    = {Ren{\'e} M{\"u}ller and
+  author    = {René Müller and
                Jens Teubner and
                Gustavo Alonso},
   title     = {Data Processing on {FPGAs}},
@@ -8236,7 +8236,7 @@
 @article{DBLP:journals/pvldb/ZouCO09a,
   author    = {Lei Zou and
                Lei Chen and
-               M. Tamer {\"O}zsu},
+               M. Tamer Özsu},
   title     = {K-Automorphism: A General Framework For Privacy Preserving Network Publication},
   journal   = pvldb,
   volume    = {2},
@@ -8309,7 +8309,7 @@
 
 @article{DBLP:journals/pvldb/ArenasPRR09,
   author    = {Marcelo Arenas and
-               Jorge P{\'e}rez and
+               Jorge Pérez and
                Juan L. Reutter and
                Cristian Riveros},
   title     = {Inverting Schema Mappings: Bridging the Gap between Theory and Practice},
@@ -8416,7 +8416,7 @@
 
 @article{DBLP:journals/pvldb/WongOYFL09,
   author    = {Raymond Chi-Wing Wong and
-               M. Tamer {\"O}zsu and
+               M. Tamer Özsu and
                Philip S. Yu and
                Ada Wai-Chee Fu and
                Lian Liu},
@@ -8572,8 +8572,8 @@
 }
 
 @article{DBLP:journals/pvldb/MullerGAS09,
-  author    = {Emmanuel M{\"u}ller and
-               Stephan G{\"u}nnemann and
+  author    = {Emmanuel Müller and
+               Stephan Günnemann and
                Ira Assent and
                Thomas Seidl},
   title     = {Evaluating Clustering in Subspace Projections of High Dimensional Data},
@@ -8587,7 +8587,7 @@
 @article{DBLP:journals/pvldb/HassanzadehCML09,
   author    = {Oktie Hassanzadeh and
                Fei Chiang and
-               Ren{\'e}e J. Miller and
+               Renée J. Miller and
                Hyun Chul Lee},
   title     = {Framework for Evaluating Clustering Algorithms in Duplicate Detection},
   journal   = pvldb,
@@ -8692,7 +8692,7 @@
                Rafi Ahmed and
                Andrew Witkowski and
                Angela Amor and
-               Mohamed Za{\"\i}t and
+               Mohamed Zaït and
                Chun Chieh Lin},
   title     = {Enhanced Subquery Optimizations in Oracle},
   journal   = pvldb,
@@ -8778,7 +8778,7 @@
   author    = {Thomas Legler and
                Wolfgang Lehner and
                Jan Schaffner and
-               Jens Kr{\"u}ger},
+               Jens Krüger},
   title     = {Robust Distributed {Top-N} Frequent Pattern Mining Using the {SAP} {BW} Accelerator},
   journal   = pvldb,
   volume    = {2},
@@ -8790,8 +8790,8 @@
 @article{DBLP:journals/pvldb/DieuDFLS09,
   author    = {Nicolas Dieu and
                Adrian Dragusanu and
-               Fran{\c{c}}oise Fabret and
-               Fran{\c{c}}ois Llirbat and
+               Françoise Fabret and
+               François Llirbat and
                Eric Simon},
   title     = {1, 000 Tables Inside the From},
   journal   = pvldb,
@@ -8820,7 +8820,7 @@
 }
 
 @article{DBLP:journals/pvldb/LacroixLM09,
-  author    = {Zo{\'e} Lacroix and
+  author    = {Zoé Lacroix and
                Christophe Legendre and
                Spyro Mousses},
   title     = {Storing Scientific Workflows in a Database},
@@ -8910,7 +8910,7 @@
 }
 
 @article{DBLP:journals/pvldb/Cudre-MaurouxKLRSSVWBBDHMMPSZ09,
-  author    = {Philippe Cudr{\'e}-Mauroux and
+  author    = {Philippe Cudré-Mauroux and
                Hideaki Kimura and
                Kian-Tat Lim and
                Jennie Rogers and
@@ -8979,7 +8979,7 @@
 
 @article{DBLP:journals/pvldb/HerschelHT09,
   author    = {Melanie Herschel and
-               Mauricio A. Hern{\'a}ndez and
+               Mauricio A. Hernández and
                Wang Chiew Tan},
   title     = {Artemis: A System for Analyzing Missing Answers},
   journal   = pvldb,
@@ -8991,7 +8991,7 @@
 
 @article{DBLP:journals/pvldb/WuCM09,
   author    = {Eugene Wu and
-               Philippe Cudr{\'e}-Mauroux and
+               Philippe Cudré-Mauroux and
                Samuel Madden},
   title     = {Demonstration of the {TrajStore} System},
   journal   = pvldb,
@@ -9078,7 +9078,7 @@
 }
 
 @article{DBLP:journals/pvldb/KopckeTR09,
-  author    = {Hanna K{\"o}pcke and
+  author    = {Hanna Köpcke and
                Andreas Thor and
                Erhard Rahm},
   title     = {Comparative evaluation of entity resolution approaches with {FEVER}},
@@ -9095,7 +9095,7 @@
                Gregor Hackenbroich and
                Marcus Schramm and
                Adrian Mocan and
-               Felix F{\"o}rster},
+               Felix Förster},
   title     = {RankIE: Document Retrieval on Ranked Entity Graphs},
   journal   = pvldb,
   volume    = {2},
@@ -9132,7 +9132,7 @@
 @article{DBLP:journals/pvldb/HassanzadehXMKLW09,
   author    = {Oktie Hassanzadeh and
                Reynold Xin and
-               Ren{\'e}e J. Miller and
+               Renée J. Miller and
                Anastasios Kementsietsidis and
                Lipyeow Lim and
                Min Wang},
@@ -9205,7 +9205,7 @@
 
 @article{DBLP:journals/pvldb/LetchnerRBP09,
   author    = {Julie Letchner and
-               Christopher R{\'e} and
+               Christopher Ré and
                Magdalena Balazinska and
                Matthai Philipose},
   title     = {Lahar Demonstration: Warehousing Markovian Streams},
@@ -9294,7 +9294,7 @@
 }
 
 @article{DBLP:journals/pvldb/SarigolRSA09,
-  author    = {Emre Sarig{\"o}l and
+  author    = {Emre Sarigöl and
                Oriana Riva and
                Patrick Stuedi and
                Gustavo Alonso},
@@ -9387,7 +9387,7 @@
 @article{DBLP:journals/pvldb/HeerH09,
   author    = {Jeffrey Heer and
                Joseph M. Hellerstein},
-  title     = {Data visualization {\&} social data analysis},
+  title     = {Data visualization & social data analysis},
   journal   = pvldb,
   volume    = {2},
   number    = {2},
@@ -9535,7 +9535,7 @@
 
 @article{DBLP:journals/pvldb/AkdereCT08,
   author    = {Mert Akdere and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                Nesime Tatbul},
   title     = {Plan-based complex event detection across distributed sources},
   journal   = pvldb,
@@ -9718,7 +9718,7 @@
 }
 
 @article{DBLP:journals/pvldb/HernandezPT08,
-  author    = {Mauricio A. Hern{\'a}ndez and
+  author    = {Mauricio A. Hernández and
                Paolo Papotti and
                Wang Chiew Tan},
   title     = {Data exchange with data-metadata translations},
@@ -10255,7 +10255,7 @@
 }
 
 @article{DBLP:journals/pvldb/ReS08,
-  author    = {Christopher R{\'e} and
+  author    = {Christopher Ré and
                Dan Suciu},
   title     = {Approximate lineage for probabilistic databases},
   journal   = pvldb,
@@ -10614,7 +10614,7 @@
 
 @article{DBLP:journals/pvldb/ChiangM08,
   author    = {Fei Chiang and
-               Ren{\'e}e J. Miller},
+               Renée J. Miller},
   title     = {Discovering data quality rules},
   journal   = pvldb,
   volume    = {1},
@@ -10650,7 +10650,7 @@
 
 @article{DBLP:journals/pvldb/KoltsidasMV08,
   author    = {Ioannis Koltsidas and
-               Heiko M{\"u}ller and
+               Heiko Müller and
                Stratis Viglas},
   title     = {Sorting hierarchical data in external memory for archiving},
   journal   = pvldb,
@@ -10662,7 +10662,7 @@
 
 @article{DBLP:journals/pvldb/MetwallyEAA08,
   author    = {Ahmed Metwally and
-               Fatih Emek{\c{c}}i and
+               Fatih Emekçi and
                Divyakant Agrawal and
                Amr El Abbadi},
   title     = {SLEUTH: {Single-pubLisher} attack {dEtection} Using {correlaTion} Hunting},
@@ -10716,7 +10716,7 @@
 @article{DBLP:journals/pvldb/ChaikenJLRSWZ08,
   author    = {Ronnie Chaiken and
                Bob Jenkins and
-               Per-{\AA}ke Larson and
+               Per-Åke Larson and
                Bill Ramsey and
                Darren Shakib and
                Simon Weaver and
@@ -10750,7 +10750,7 @@
 @article{DBLP:journals/pvldb/AcharyaCGKTZ08,
   author    = {Srini Acharya and
                Peter Carlin and
-               C{\'e}sar A. Galindo-Legaria and
+               César A. Galindo-Legaria and
                Krzysztof Kozielczyk and
                Pawel Terlecki and
                Peter Zabback},
@@ -10853,7 +10853,7 @@
 
 @article{DBLP:journals/pvldb/LeeZ08,
   author    = {Allison W. Lee and
-               Mohamed Za{\"\i}t},
+               Mohamed Zaït},
   title     = {Closing the query processing loop in Oracle 11g},
   journal   = pvldb,
   volume    = {1},
@@ -10869,7 +10869,7 @@
                Johannes Gehrke and
                Jennifer Widom and
                Hari Balakrishnan and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                Mitch Cherniack and
                Richard Tibbetts and
                Stanley B. Zdonik},
@@ -10908,7 +10908,7 @@
 @article{DBLP:journals/pvldb/MathisWHH08,
   author    = {Christian Mathis and
                Andreas M. Weiner and
-               Theo H{\"a}rder and
+               Theo Härder and
                Caesar Ralf Franz Hoppen},
   title     = {XTCcmp: {XQuery} compilation on {XTC}},
   journal   = pvldb,
@@ -10937,7 +10937,7 @@
                Latha S. Colby and
                Emiran Curtmola and
                Quanzhong Li and
-               Fatma {\"O}zcan and
+               Fatma Özcan and
                Sharath Srinivas and
                Zografoula Vagena},
   title     = {SEDA: a system for search, exploration, discovery, and analysis of {XML} Data},
@@ -10951,7 +10951,7 @@
 @article{DBLP:journals/pvldb/NezhadBSCA08,
   author    = {Hamid R. Motahari Nezhad and
                Boualem Benatallah and
-               R{\'e}gis Saint-Paul and
+               Régis Saint-Paul and
                Fabio Casati and
                Periklis Andritsos},
   title     = {Process spaceship: discovering and exploring process views from event logs in data spaces},
@@ -10980,8 +10980,8 @@
                Patrick Valduriez and
                Reza Akbarinia and
                Pascal Molli and
-               G{\'e}r{\^o}me Canals and
-               St{\'e}phane Lauri{\`e}re},
+               Gérôme Canals and
+               Stéphane Laurière},
   title     = {P2P logging and timestamping for reconciliation},
   journal   = pvldb,
   volume    = {1},
@@ -11012,7 +11012,7 @@
                Philippe Chatalic and
                Georges Gardarin and
                A. Ghitescu and
-               Fran{\c{c}}ois Goasdou{\'e} and
+               François Goasdoué and
                Ioana Manolescu and
                Benjamin Nguyen and
                M. Ouazara and
@@ -11332,7 +11332,7 @@
 
 @article{DBLP:journals/pvldb/BalazinskaRS08,
   author    = {Magdalena Balazinska and
-               Christopher R{\'e} and
+               Christopher Ré and
                Dan Suciu},
   title     = {Systems aspects of probabilistic data management},
   journal   = pvldb,
@@ -11380,7 +11380,7 @@
 
 @article{DBLP:journals/pvldb/KriegelKZ08,
   author    = {Hans-Peter Kriegel and
-               Peer Kr{\"o}ger and
+               Peer Kröger and
                Arthur Zimek},
   title     = {Detecting clusters in moderate-to-high dimensional data: subspace clustering, pattern-based clustering, and correlation clustering},
   journal   = pvldb,

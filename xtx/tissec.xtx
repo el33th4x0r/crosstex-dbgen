@@ -26,7 +26,7 @@
 
 @article{DBLP:journals/tissec/BhargavanFCZ12,
   author    = {Karthikeyan Bhargavan and
-               C{\'e}dric Fournet and
+               Cédric Fournet and
                Ricardo Corin and
                Eugen Zalinescu},
   title     = {Verified Cryptographic Implementations for {TLS}},
@@ -39,7 +39,7 @@
 
 @article{DBLP:journals/tissec/CamenischG12,
   author    = {Jan Camenisch and
-               Thomas Gro{\ss}},
+               Thomas Groß},
   title     = {Efficient Attributes for Anonymous Credentials},
   journal   = tissec,
   volume    = {15},
@@ -84,7 +84,7 @@
 }
 
 @article{DBLP:journals/tissec/AbadiP12,
-  author    = {Mart{\'\i}n Abadi and
+  author    = {Martín Abadi and
                Gordon D. Plotkin},
   title     = {On Protection by Layout Randomization},
   journal   = tissec,
@@ -201,7 +201,7 @@
 @article{DBLP:journals/tissec/SchneiderWS11,
   author    = {Fred B. Schneider and
                Kevin Walsh and
-               Emin G{\"u}n Sirer},
+               Emin Gün Sirer},
   title     = {Nexus authorization logic (NAL): Design rationale and applications},
   journal   = tissec,
   volume    = {14},
@@ -345,7 +345,7 @@
 @article{DBLP:journals/tissec/WilliamsSS11,
   author    = {Peter Williams and
                Radu Sion and
-               Miroslava Sot{\'a}kov{\'a}},
+               Miroslava Sotáková},
   title     = {Practical Oblivious Outsourced Storage},
   journal   = tissec,
   volume    = {14},
@@ -357,7 +357,7 @@
 @article{DBLP:journals/tissec/XiangHRC11,
   author    = {Guang Xiang and
                Jason I. Hong and
-               Carolyn Penstein Ros{\'e} and
+               Carolyn Penstein Rosé and
                Lorrie Faith Cranor},
   title     = {CANTINA+: A {Feature-Rich} Machine Learning Framework for Detecting Phishing Web Sites},
   journal   = tissec,
@@ -443,7 +443,7 @@
 @article{DBLP:journals/tissec/GorantlaBNM11,
   author    = {M. Choudary Gorantla and
                Colin Boyd and
-               Juan Manuel Gonz{\'a}lez Nieto and
+               Juan Manuel González Nieto and
                Mark Manulis},
   title     = {Modeling key compromise impersonation attacks on group key exchange protocols},
   journal   = tissec,
@@ -656,7 +656,7 @@
   author    = {Miroslav Ponec and
                Paul Giura and
                Joel Wein and
-               Herv{\'e} Br{\"o}nnimann},
+               Hervé Brönnimann},
   title     = {New payload attribution methods for network forensic investigations},
   journal   = tissec,
   volume    = {13},
@@ -815,7 +815,7 @@
 }
 
 @article{DBLP:journals/tissec/LibertQY10,
-  author    = {Beno{\^\i}t Libert and
+  author    = {Benoît Libert and
                Jean-Jacques Quisquater and
                Moti Yung},
   title     = {Key Evolution Systems in Untrusted Update Environments},
@@ -873,9 +873,9 @@
 }
 
 @article{DBLP:journals/tissec/AbadiBEL09,
-  author    = {Mart{\'\i}n Abadi and
+  author    = {Martín Abadi and
                Mihai Budiu and
-               {\'U}lfar Erlingsson and
+               Úlfar Erlingsson and
                Jay Ligatti},
   title     = {Control-flow integrity principles, implementations, and applications},
   journal   = tissec,
@@ -1139,7 +1139,7 @@
 
 @article{DBLP:journals/tissec/BouganimNP08,
   author    = {Luc Bouganim and
-               Fran{\c{c}}ois Dang Ngoc and
+               François Dang Ngoc and
                Philippe Pucheral},
   title     = {Dynamic access-control policies on {XML} encrypted data},
   journal   = tissec,
@@ -1208,7 +1208,7 @@
 
 @article{DBLP:journals/tissec/GaneriwalPCS08,
   author    = {Saurabh Ganeriwal and
-               Christina P{\"o}pper and
+               Christina Pöpper and
                Srdjan Capkun and
                Mani B. Srivastava},
   title     = {Secure Time Synchronization in Sensor Networks},
@@ -1558,9 +1558,9 @@
 }
 
 @article{DBLP:journals/tissec/AbadiBF07,
-  author    = {Mart{\'\i}n Abadi and
+  author    = {Martín Abadi and
                Bruno Blanchet and
-               C{\'e}dric Fournet},
+               Cédric Fournet},
   title     = {Just fast keying in the pi calculus},
   journal   = tissec,
   volume    = {10},
@@ -1590,7 +1590,7 @@
 @article{DBLP:journals/tissec/BhargavanCFG07,
   author    = {Karthikeyan Bhargavan and
                Ricardo Corin and
-               C{\'e}dric Fournet and
+               Cédric Fournet and
                Andrew D. Gordon},
   title     = {Secure sessions for Web services},
   journal   = tissec,
@@ -1723,7 +1723,7 @@
   author    = {Darren Mutz and
                Fredrik Valeur and
                Giovanni Vigna and
-               Christopher Kr{\"u}gel},
+               Christopher Krügel},
   title     = {Anomalous system call detection},
   journal   = tissec,
   volume    = {9},
@@ -2091,8 +2091,8 @@
 
 @article{DBLP:journals/tissec/LeviCK04,
   author    = {Albert Levi and
-               M. Ufuk {\c{C}}aglayan and
-               {\c{C}}etin Kaya Ko{\c{c}}},
+               M. Ufuk Çaglayan and
+               Çetin Kaya Koç},
   title     = {Use of nested certificates for efficient, dynamic, and trust preserving public key infrastructure},
   journal   = tissec,
   volume    = {7},
@@ -2388,7 +2388,7 @@
 }
 
 @article{DBLP:journals/tissec/Karjoth03,
-  author    = {G{\"u}nter Karjoth},
+  author    = {Günter Karjoth},
   title     = {Access control with {IBM} Tivoli access manager},
   journal   = tissec,
   volume    = {6},
@@ -2694,7 +2694,7 @@
 
 @article{DBLP:journals/tissec/HarbitterM02,
   author    = {Alan Harbitter and
-               Daniel A. Menasc{\'e}},
+               Daniel A. Menascé},
   title     = {A methodology for analyzing the performance of authentication protocols},
   journal   = tissec,
   volume    = {5},

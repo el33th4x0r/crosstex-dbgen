@@ -251,7 +251,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/GotzNG12,
-  author    = {Michaela G{\"o}tz and
+  author    = {Michaela Götz and
                Suman Nath and
                Johannes Gehrke},
   title     = {MaskIt: privately releasing user context streams for personalized mobile applications},
@@ -285,7 +285,7 @@
   author    = {Xixuan Feng and
                Arun Kumar and
                Benjamin Recht and
-               Christopher R{\'e}},
+               Christopher Ré},
   title     = {Towards a unified architecture for {in-RDBMS} analytics},
   booktitle = sigmod,
   year      = 2012,
@@ -380,8 +380,8 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/DignosBG12,
-  author    = {Anton Dign{\"o}s and
-               Michael H. B{\"o}hlen and
+  author    = {Anton Dignös and
+               Michael H. Böhlen and
                Johann Gamper},
   title     = {Temporal alignment},
   booktitle = sigmod,
@@ -644,7 +644,7 @@
   author    = {Jun'ichi Tatemura and
                Oliver Po and
                Wang-Pin Hsiung and
-               Hakan Hacig{\"u}m{\"u}s},
+               Hakan Hacigümüs},
   title     = {Partiqle: an elastic {SQL} engine over key-value stores},
   booktitle = sigmod,
   year      = 2012,
@@ -662,7 +662,7 @@
 
 @inproceedings{DBLP:conf/sigmod/OrdonezGC12,
   author    = {Carlos Ordonez and
-               Javier Garc{\'\i}a-Garc{\'\i}a and
+               Javier García-García and
                Zhibo Chen},
   title     = {Dynamic optimization of generalized {SQL} queries with horizontal aggregations},
   booktitle = sigmod,
@@ -719,7 +719,7 @@
 
 @inproceedings{DBLP:conf/sigmod/AlexeHHKKNRSSVW12,
   author    = {Bogdan Alexe and
-               Mauricio A. Hern{\'a}ndez and
+               Mauricio A. Hernández and
                Kirsten Hildrum and
                Rajasekar Krishnamurthy and
                Georgia Koutrika and
@@ -935,11 +935,11 @@
 
 @inproceedings{DBLP:conf/sigmod/SikkaFLCPB12,
   author    = {Vishal Sikka and
-               Franz F{\"a}rber and
+               Franz Färber and
                Wolfgang Lehner and
                Sang Kyun Cha and
                Thomas Peh and
-               Christof Bornh{\"o}vd},
+               Christof Bornhövd},
   title     = {Efficient transaction processing in {SAP} {HANA} database: the end of a column store myth},
   booktitle = sigmod,
   year      = 2012,
@@ -1004,7 +1004,7 @@
                Eric Robinson and
                Mahadevan Sankara Subramanian and
                David J. DeWitt and
-               C{\'e}sar A. Galindo-Legaria},
+               César A. Galindo-Legaria},
   title     = {Query optimization in microsoft {SQL} server {PDW}},
   booktitle = sigmod,
   year      = 2012,
@@ -1113,7 +1113,7 @@
 @inproceedings{DBLP:conf/sigmod/SimitsisWCD12,
   author    = {Alkis Simitsis and
                Kevin Wilkinson and
-               Mal{\'u} Castellanos and
+               Malú Castellanos and
                Umeshwar Dayal},
   title     = {Optimizing analytic data flows for multiple execution engines},
   booktitle = sigmod,
@@ -1214,7 +1214,7 @@
   author    = {Eduardo M. Barbosa and
                Mirella M. Moro and
                Giseli Rabello Lopes and
-               Jos{\'e} Palazzo Moreira de Oliveira},
+               José Palazzo Moreira de Oliveira},
   title     = {VRRC: web based tool for visualization and recommendation on co-authorship network},
   booktitle = sigmod,
   year      = 2012,
@@ -1222,7 +1222,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MongioviBRSPF12,
-  author    = {Misael Mongiov{\`\i} and
+  author    = {Misael Mongiovì and
                Petko Bogdanov and
                Razvan Ranca and
                Ambuj K. Singh and
@@ -1320,7 +1320,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/KohlerYZ11,
-  author    = {Henning K{\"o}hler and
+  author    = {Henning Köhler and
                Jing Yang and
                Xiaofang Zhou},
   title     = {Efficient parallel skyline processing using hyperplane projections},
@@ -1331,7 +1331,7 @@
 
 @inproceedings{DBLP:conf/sigmod/KonstantinidisA11,
   author    = {George Konstantinidis and
-               Jos{\'e} Luis Ambite},
+               José Luis Ambite},
   title     = {Scalable query rewriting: a graph-based approach},
   booktitle = sigmod,
   year      = 2011,
@@ -1543,7 +1543,7 @@
 
 @inproceedings{DBLP:conf/sigmod/DugganCPU11,
   author    = {Jennie Duggan and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                Olga Papaemmanouil and
                Eli Upfal},
   title     = {Performance prediction for concurrent database workloads},
@@ -1798,7 +1798,7 @@
 
 @inproceedings{DBLP:conf/sigmod/TeubnerM11,
   author    = {Jens Teubner and
-               Ren{\'e} M{\"u}ller},
+               René Müller},
   title     = {How soccer players would do stream joins},
   booktitle = sigmod,
   year      = 2011,
@@ -2186,7 +2186,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/CastellanosDHGDLZS11,
-  author    = {Mal{\'u} Castellanos and
+  author    = {Malú Castellanos and
                Umeshwar Dayal and
                Meichun Hsu and
                Riddhiman Ghosh and
@@ -2316,7 +2316,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/OzcanHBBLL11,
-  author    = {Fatma {\"O}zcan and
+  author    = {Fatma Özcan and
                David Hoa and
                Kevin S. Beyer and
                Andrey Balmin and
@@ -2340,7 +2340,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LarsonCHOPRSZ11,
-  author    = {Per-{\AA}ke Larson and
+  author    = {Per-Åke Larson and
                Cipri Clinciu and
                Eric N. Hanson and
                Artem Oks and
@@ -2441,9 +2441,9 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Quiane-RuizPSD11,
-  author    = {Jorge-Arnulfo Quian{\'e}-Ruiz and
+  author    = {Jorge-Arnulfo Quiané-Ruiz and
                Christoph Pinkel and
-               J{\"o}rg Schad and
+               Jörg Schad and
                Jens Dittrich},
   title     = {{RAFT} at work: speeding-up mapreduce applications under task and node failures},
   booktitle = sigmod,
@@ -2474,7 +2474,7 @@
 
 @inproceedings{DBLP:conf/sigmod/PandisTBKPJA11,
   author    = {Ippokratis Pandis and
-               Pinar T{\"o}z{\"u}n and
+               Pinar Tözün and
                Miguel Branco and
                Dimitris Karampinas and
                Danica Porobic and
@@ -2709,7 +2709,7 @@
 @inproceedings{DBLP:conf/sigmod/IoannouNNV11,
   author    = {Ekaterini Ioannou and
                Wolfgang Nejdl and
-               Claudia Nieder{\'e}e and
+               Claudia Niederée and
                Yannis Velegrakis},
   title     = {LinkDB: a probabilistic linkage database system},
   booktitle = sigmod,
@@ -2794,7 +2794,7 @@
   author    = {Peter Buneman and
                James Cheney and
                Sam Lindley and
-               Heiko M{\"u}ller},
+               Heiko Müller},
   title     = {DBWiki: a structured wiki for curated data and collaborative data management},
   booktitle = sigmod,
   year      = 2011,
@@ -2855,9 +2855,9 @@
 @inproceedings{DBLP:conf/sigmod/EmrichKKRZ10,
   author    = {Tobias Emrich and
                Hans-Peter Kriegel and
-               Peer Kr{\"o}ger and
+               Peer Kröger and
                Matthias Renz and
-               Andreas Z{\"u}fle},
+               Andreas Züfle},
   title     = {Boosting spatial pruning: on optimal pruning of {MBRs}},
   booktitle = sigmod,
   year      = 2010,
@@ -2876,7 +2876,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/KohlerZSST10,
-  author    = {Henning K{\"o}hler and
+  author    = {Henning Köhler and
                Xiaofang Zhou and
                Shazia Wasim Sadiq and
                Yanfeng Shu and
@@ -3057,7 +3057,7 @@
 
 @inproceedings{DBLP:conf/sigmod/SternBB10,
   author    = {Mirco Stern and
-               Klemens B{\"o}hm and
+               Klemens Böhm and
                Erik Buchmann},
   title     = {Processing continuous join queries in sensor networks: a filtering approach},
   booktitle = sigmod,
@@ -3310,7 +3310,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/HemanZNSAB10,
-  author    = {S{\'a}ndor H{\'e}man and
+  author    = {Sándor Héman and
                Marcin Zukowski and
                Niels J. Nes and
                Lefteris Sidirourgos and
@@ -3527,7 +3527,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ArasuGK10,
   author    = {Arvind Arasu and
-               Michaela G{\"o}tz and
+               Michaela Götz and
                Raghav Kaushik},
   title     = {On active learning of record matching packages},
   booktitle = sigmod,
@@ -3548,7 +3548,7 @@
 @inproceedings{DBLP:conf/sigmod/CortezSGM10,
   author    = {Eli Cortez and
                Altigran Soares da Silva and
-               Marcos Andr{\'e} Gon{\c{c}}alves and
+               Marcos André Gonçalves and
                Edleno Silva de Moura},
   title     = {ONDUX: on-demand unsupervised learning for information extraction},
   booktitle = sigmod,
@@ -3909,7 +3909,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/CastellanosWDG10,
-  author    = {Mal{\'u} Castellanos and
+  author    = {Malú Castellanos and
                Song Wang and
                Umeshwar Dayal and
                Chetan Gupta},
@@ -4004,7 +4004,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/PerezSL10,
-  author    = {Mar{\'\i}a P{\'e}rez Catal{\'a}n and
+  author    = {María Pérez Catalán and
                Ismael Sanz and
                Rafael Berlanga Llavori},
   title     = {XTaGe: a flexible {XML} collection generator},
@@ -4058,7 +4058,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MullerTA10,
-  author    = {Ren{\'e} M{\"u}ller and
+  author    = {René Müller and
                Jens Teubner and
                Gustavo Alonso},
   title     = {Glacier: a query-to-hardware compiler},
@@ -4094,7 +4094,7 @@
                Kaushik Chakrabarti and
                Surajit Chaudhuri and
                Venkatesh Ganti and
-               Arnd Christian K{\"o}nig and
+               Arnd Christian König and
                Dong Xin},
   title     = {Query portals: dynamically generating portals for entity-oriented web queries},
   booktitle = sigmod,
@@ -4143,7 +4143,7 @@
 @inproceedings{DBLP:conf/sigmod/BalakrishnanCHHKLPPPRSSTVY10,
   author    = {Sreeram Balakrishnan and
                Vivian Chu and
-               Mauricio A. Hern{\'a}ndez and
+               Mauricio A. Hernández and
                Howard Ho and
                Rajasekar Krishnamurthy and
                Shixia Liu and
@@ -4242,12 +4242,12 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BjorlingFMBBJ10,
-  author    = {Matias Bj{\o}rling and
+  author    = {Matias Bjørling and
                Lionel Le Folgoc and
                Ahmed Mseddi and
                Philippe Bonnet and
                Luc Bouganim and
-               Bj{\"o}rn {\'o}r J{\'o}nsson},
+               Björn Þór Jónsson},
   title     = {Performing sound flash device measurements: some lessons from {uFLIP}},
   booktitle = sigmod,
   year      = 2010,
@@ -4315,7 +4315,7 @@
   author    = {Yasin N. Silva and
                Ahmed M. Aly and
                Walid G. Aref and
-               Per-{\AA}ke Larson},
+               Per-Åke Larson},
   title     = {SimDB: a similarity-aware database system},
   booktitle = sigmod,
   year      = 2010,
@@ -4346,7 +4346,7 @@
 
 @inproceedings{DBLP:conf/sigmod/OrdonezG10,
   author    = {Carlos Ordonez and
-               Javier Garc{\'\i}a-Garc{\'\i}a},
+               Javier García-García},
   title     = {Database systems research on data mining},
   booktitle = sigmod,
   year      = 2010,
@@ -4394,7 +4394,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/ViegasW09,
-  author    = {Fernanda B. Vi{\'e}gas and
+  author    = {Fernanda B. Viégas and
                Martin Wattenberg},
   title     = {Transforming data access through public visualization},
   booktitle = sigmod,
@@ -4484,7 +4484,7 @@
 
 @inproceedings{DBLP:conf/sigmod/KimC09,
   author    = {Jong Wook Kim and
-               K. Sel{\c{c}}uk Candan},
+               K. Selçuk Candan},
   title     = {Skip-and-prune: cosine-based top-k query processing for efficient context-sensitive document retrieval},
   booktitle = sigmod,
   year      = 2009,
@@ -4620,7 +4620,7 @@
 @inproceedings{DBLP:conf/sigmod/BinnigHF09,
   author    = {Carsten Binnig and
                Stefan Hildenbrand and
-               Franz F{\"a}rber},
+               Franz Färber},
   title     = {Dictionary-based order-preserving string compression for main memory column stores},
   booktitle = sigmod,
   year      = 2009,
@@ -5079,7 +5079,7 @@
   author    = {Mona Ahuja and
                Cheng Che Chen and
                Ravi Gottapu and
-               J{\"o}rg Hallmann and
+               Jörg Hallmann and
                Waqar Hasan and
                Richard Johnson and
                Maciek Kozyrczak and
@@ -5143,7 +5143,7 @@
 @inproceedings{DBLP:conf/sigmod/TerleckiBGZ09,
   author    = {Pawel Terlecki and
                Hardik Bati and
-               C{\'e}sar A. Galindo-Legaria and
+               César A. Galindo-Legaria and
                Peter Zabback},
   title     = {Filtered statistics},
   booktitle = sigmod,
@@ -5241,7 +5241,7 @@
 @inproceedings{DBLP:conf/sigmod/SimitsisWCD09,
   author    = {Alkis Simitsis and
                Kevin Wilkinson and
-               Mal{\'u} Castellanos and
+               Malú Castellanos and
                Umeshwar Dayal},
   title     = {{QoX-driven} {ETL} design: reducing the cost of {ETL} consulting engagements},
   booktitle = sigmod,
@@ -5309,7 +5309,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MuellerT09,
-  author    = {Ren{\'e} M{\"u}ller and
+  author    = {René Müller and
                Jens Teubner},
   title     = {FPGA: what's in it for a database?},
   booktitle = sigmod,
@@ -5362,9 +5362,9 @@
 
 @inproceedings{DBLP:conf/sigmod/DindarGLOST09,
   author    = {Nihal Dindar and
-               Baris G{\"u}{\c{c}} and
+               Baris Güç and
                Patrick Lau and
-               Asli {\"O}zal and
+               Asli Özal and
                Merve Soner and
                Nesime Tatbul},
   title     = {DejaVu: declarative pattern matching over live and archived streams of events},
@@ -5860,7 +5860,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BohmFP08,
-  author    = {Christian B{\"o}hm and
+  author    = {Christian Böhm and
                Christos Faloutsos and
                Claudia Plant},
   title     = {Outlier-robust clustering using independent components},
@@ -5983,8 +5983,8 @@
 @inproceedings{DBLP:conf/sigmod/GhelliORS08,
   author    = {Giorgio Ghelli and
                Nicola Onose and
-               Kristoffer H{\o}gsbro Rose and
-               J{\'e}r{\^o}me Sim{\'e}on},
+               Kristoffer Høgsbro Rose and
+               Jérôme Siméon},
   title     = {{XML} query optimization in the presence of side effects},
   booktitle = sigmod,
   year      = 2008,
@@ -6275,7 +6275,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/ReLBS08,
-  author    = {Christopher R{\'e} and
+  author    = {Christopher Ré and
                Julie Letchner and
                Magdalena Balazinska and
                Dan Suciu},
@@ -6287,7 +6287,7 @@
 
 @inproceedings{DBLP:conf/sigmod/CahillRF08,
   author    = {Michael J. Cahill and
-               Uwe R{\"o}hm and
+               Uwe Röhm and
                Alan David Fekete},
   title     = {Serializable isolation for snapshot databases},
   booktitle = sigmod,
@@ -6308,7 +6308,7 @@
 @inproceedings{DBLP:conf/sigmod/VlachouDNV08,
   author    = {Akrivi Vlachou and
                Christos Doulkeridis and
-               Kjetil N{\o}rv{\aa}g and
+               Kjetil Nørvåg and
                Michalis Vazirgiannis},
   title     = {On efficient top-k query processing in highly distributed environments},
   booktitle = sigmod,
@@ -6403,7 +6403,7 @@
 
 @inproceedings{DBLP:conf/sigmod/QiCTCL08,
   author    = {Yan Qi and
-               K. Sel{\c{c}}uk Candan and
+               K. Selçuk Candan and
                Jun'ichi Tatemura and
                Songting Chen and
                Fenglin Liao},
@@ -6554,11 +6554,11 @@
 @inproceedings{DBLP:conf/sigmod/ChakkappenCDJSSZ08,
   author    = {Sunil Chakkappen and
                Thierry Cruanes and
-               Beno{\^\i}t Dageville and
+               Benoît Dageville and
                Linan Jiang and
                Uri Shaft and
                Hong Su and
-               Mohamed Za{\"\i}t},
+               Mohamed Zaït},
   title     = {Efficient and scalable statistics gathering for large databases in Oracle 11g},
   booktitle = sigmod,
   year      = 2008,
@@ -6567,7 +6567,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BalminOST08,
   author    = {Andrey Balmin and
-               Fatma {\"O}zcan and
+               Fatma Özcan and
                Ashutosh Singh and
                Edison Ting},
   title     = {Grouping and optimization of {XPath} expressions in DB2 {pureXML}},
@@ -6589,7 +6589,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BlakeleyRKPHK08,
-  author    = {Jos{\'e} A. Blakeley and
+  author    = {José A. Blakeley and
                Vineet Rao and
                Isaac Kunen and
                Adam Prout and
@@ -6664,7 +6664,7 @@
   author    = {Leonidas Galanis and
                Supiti Buranawatanachoke and
                Romain Colle and
-               Beno{\^\i}t Dageville and
+               Benoît Dageville and
                Karl Dias and
                Jonathan Klein and
                Stratos Papadomanolakis and
@@ -6828,7 +6828,7 @@
                Huy T. Vo and
                David Koop and
                Juliana Freire and
-               Cl{\'a}udio T. Silva},
+               Cláudio T. Silva},
   title     = {Querying and re-using workflows with {VsTrails}},
   booktitle = sigmod,
   year      = 2008,
@@ -6884,7 +6884,7 @@
                Daniele Braga and
                Stefano Ceri and
                Paolo Papotti and
-               Mauricio A. Hern{\'a}ndez},
+               Mauricio A. Hernández},
   title     = {Clip: a tool for mapping hierarchical schemas},
   booktitle = sigmod,
   year      = 2008,
@@ -6896,7 +6896,7 @@
                Songting Chen and
                Fenglin Liao and
                Oliver Po and
-               K. Sel{\c{c}}uk Candan and
+               K. Selçuk Candan and
                Divyakant Agrawal},
   title     = {UQBE: uncertain query by example for web service mashup},
   booktitle = sigmod,
@@ -6907,7 +6907,7 @@
 @inproceedings{DBLP:conf/sigmod/AlexeCMPT08,
   author    = {Bogdan Alexe and
                Laura Chiticariu and
-               Ren{\'e}e J. Miller and
+               Renée J. Miller and
                Daniel Pepper and
                Wang Chiew Tan},
   title     = {Muse: a system for understanding and designing mappings},
@@ -6942,7 +6942,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MullerBK08,
-  author    = {Heiko M{\"u}ller and
+  author    = {Heiko Müller and
                Peter Buneman and
                Ioannis Koltsidas},
   title     = {XArch: archiving scientific and reference data},
@@ -6964,7 +6964,7 @@
 @inproceedings{DBLP:conf/sigmod/HwangCCZ08,
   author    = {Jeong-Hyon Hwang and
                Sanghoon Cha and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                Stanley B. Zdonik},
   title     = {Borealis-R: a replication-transparent stream processing system for wide-area monitoring applications},
   booktitle = sigmod,
@@ -6983,7 +6983,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BohmMK08,
-  author    = {Alexander B{\"o}hm and
+  author    = {Alexander Böhm and
                Erich Marth and
                Carl-Christian Kanne},
   title     = {The Demaq system: declarative development of distributed applications},
@@ -7012,7 +7012,7 @@
                Garrett Cole and
                Julie Letchner and
                Yang Li and
-               Christopher R{\'e} and
+               Christopher Ré and
                Dan Suciu and
                Jordan Walke},
   title     = {A demonstration of Cascadia through a digital diary application},
@@ -7158,7 +7158,7 @@
 
 @inproceedings{DBLP:conf/sigmod/Weikum07,
   author    = {Gerhard Weikum},
-  title     = {DB{\&}IR: both sides now},
+  title     = {DB&IR: both sides now},
   booktitle = sigmod,
   year      = 2007,
   pages     = {25-30},
@@ -7270,7 +7270,7 @@
 
 @inproceedings{DBLP:conf/sigmod/QiCS07,
   author    = {Yan Qi and
-               K. Sel{\c{c}}uk Candan and
+               K. Selçuk Candan and
                Maria Luisa Sapino},
   title     = {FICSR: feedback-based inconsistency resolution and query processing on misaligned data sources},
   booktitle = sigmod,
@@ -7288,7 +7288,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LarsonLZZ07,
-  author    = {Per-{\AA}ke Larson and
+  author    = {Per-Åke Larson and
                Wolfgang Lehner and
                Jingren Zhou and
                Peter Zabback},
@@ -7437,7 +7437,7 @@
   author    = {Carsten Binnig and
                Donald Kossmann and
                Eric Lo and
-               M. Tamer {\"O}zsu},
+               M. Tamer Özsu},
   title     = {QAGen: generating query-aware test databases},
   booktitle = sigmod,
   year      = 2007,
@@ -7532,7 +7532,7 @@
 @inproceedings{DBLP:conf/sigmod/UdreaGM07,
   author    = {Octavian Udrea and
                Lise Getoor and
-               Ren{\'e}e J. Miller},
+               Renée J. Miller},
   title     = {Leveraging data and structure in ontology integration},
   booktitle = sigmod,
   year      = 2007,
@@ -7592,7 +7592,7 @@
 @inproceedings{DBLP:conf/sigmod/YangLOT07,
   author    = {Xiaoyan Yang and
                Hock-Beng Lim and
-               M. Tamer {\"O}zsu and
+               M. Tamer Özsu and
                Kian-Lee Tan},
   title     = {In-network execution of monitoring queries in sensor networks},
   booktitle = sigmod,
@@ -7602,7 +7602,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ZhouLFL07,
   author    = {Jingren Zhou and
-               Per-{\AA}ke Larson and
+               Per-Åke Larson and
                Johann Christoph Freytag and
                Wolfgang Lehner},
   title     = {Efficient exploitation of similar subexpressions for query processing},
@@ -7743,7 +7743,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BravoR07,
-  author    = {H{\'e}ctor Corrada Bravo and
+  author    = {Héctor Corrada Bravo and
                Raghu Ramakrishnan},
   title     = {Optimizing mpf queries: decision support and probabilistic inference},
   booktitle = sigmod,
@@ -7868,7 +7868,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/TrisslL07,
-  author    = {Silke Tri{\ss}l and
+  author    = {Silke Trißl and
                Ulf Leser},
   title     = {Fast and practical indexing and querying of very large graphs},
   booktitle = sigmod,
@@ -7914,7 +7914,7 @@
 
 @inproceedings{DBLP:conf/sigmod/AdyaBMM07,
   author    = {Atul Adya and
-               Jos{\'e} A. Blakeley and
+               José A. Blakeley and
                Sergey Melnik and
                S. Muralidhar},
   title     = {Anatomy of the ADO.{NET} entity framework},
@@ -8058,7 +8058,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ElhemaliGGJ07,
   author    = {Mostafa Elhemali and
-               C{\'e}sar A. Galindo-Legaria and
+               César A. Galindo-Legaria and
                Torsten Grabs and
                Milind Joshi},
   title     = {Execution strategies for {SQL} subqueries},
@@ -8168,7 +8168,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LarsonLZZ07a,
-  author    = {Per-{\AA}ke Larson and
+  author    = {Per-Åke Larson and
                Wolfgang Lehner and
                Jingren Zhou and
                Peter Zabback},
@@ -8213,7 +8213,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MullerRDAK07,
-  author    = {Ren{\'e} M{\"u}ller and
+  author    = {René Müller and
                Jan S. Rellermeyer and
                Michael Duller and
                Gustavo Alonso and
@@ -8379,7 +8379,7 @@
                Arsany Sawires and
                Oliver Po and
                Songting Chen and
-               K. Sel{\c{c}}uk Candan and
+               K. Selçuk Candan and
                Divyakant Agrawal and
                Maria Goveas},
   title     = {Mashup Feeds: : continuous queries over web services},
@@ -8424,7 +8424,7 @@
   author    = {Martin Theobald and
                Ralf Schenkel and
                Gerhard Weikum},
-  title     = {The {TopX} DB{\&}{IR} engine},
+  title     = {The {TopX} DB&{IR} engine},
   booktitle = sigmod,
   year      = 2007,
   pages     = {1141-1143},
@@ -8465,7 +8465,7 @@
 
 @inproceedings{DBLP:conf/sigmod/QiCSK07,
   author    = {Yan Qi and
-               K. Sel{\c{c}}uk Candan and
+               K. Selçuk Candan and
                Maria Luisa Sapino and
                Keith W. Kintigh},
   title     = {Integrating and querying taxonomies with quest in the presence of conflicts},
@@ -8484,11 +8484,11 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/FernandezJMOS07,
-  author    = {Mary F. Fern{\'a}ndez and
+  author    = {Mary F. Fernández and
                Trevor Jim and
                Kristi Morton and
                Nicola Onose and
-               J{\'e}r{\^o}me Sim{\'e}on},
+               Jérôme Siméon},
   title     = {Highly distributed {XQuery} with {DXQ}},
   booktitle = sigmod,
   year      = 2007,
@@ -8982,7 +8982,7 @@
 
 @inproceedings{DBLP:conf/sigmod/MathisHH06,
   author    = {Christian Mathis and
-               Theo H{\"a}rder and
+               Theo Härder and
                Michael Peter Haustein},
   title     = {Locking-aware structural join operators for {XML} query processing},
   booktitle = sigmod,
@@ -9026,8 +9026,8 @@
 
 @inproceedings{DBLP:conf/sigmod/AchtertBKKPR06,
   author    = {Elke Achtert and
-               Christian B{\"o}hm and
-               Peer Kr{\"o}ger and
+               Christian Böhm and
+               Peer Kröger and
                Peter Kunath and
                Alexey Pryakhin and
                Matthias Renz},
@@ -9061,7 +9061,7 @@
 @inproceedings{DBLP:conf/sigmod/PapadomanolakisALTOH06,
   author    = {Stratos Papadomanolakis and
                Anastassia Ailamaki and
-               Julio C. L{\'o}pez and
+               Julio C. López and
                Tiankai Tu and
                David R. O'Hallaron and
                Gerd Heber},
@@ -9117,7 +9117,7 @@
 @inproceedings{DBLP:conf/sigmod/PapaemmanouilACJY06,
   author    = {Olga Papaemmanouil and
                Yanif Ahmad and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                John Jannotti and
                Yenel Yildirim},
   title     = {Extensible optimization in overlay dissemination trees},
@@ -9297,7 +9297,7 @@
   author    = {Mark Daly and
                Yitzhak Mandelbaum and
                David Walker and
-               Mary F. Fern{\'a}ndez and
+               Mary F. Fernández and
                Kathleen Fisher and
                Robert Gruber and
                Xuan Zheng},
@@ -9326,7 +9326,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BorgwardtBK06,
   author    = {Karsten M. Borgwardt and
-               Sebastian B{\"o}ttger and
+               Sebastian Böttger and
                Hans-Peter Kriegel},
   title     = {VGM: visual graph mining},
   booktitle = sigmod,
@@ -9372,7 +9372,7 @@
                Juliana Freire and
                Emanuele Santos and
                Carlos Eduardo Scheidegger and
-               Cl{\'a}udio T. Silva and
+               Cláudio T. Silva and
                Huy T. Vo},
   title     = {VisTrails: visualization meets data management},
   booktitle = sigmod,
@@ -9415,7 +9415,7 @@
 @inproceedings{DBLP:conf/sigmod/KleinGRL06,
   author    = {Anja Klein and
                Rainer Gemulla and
-               Philipp R{\"o}sch and
+               Philipp Rösch and
                Wolfgang Lehner},
   title     = {Derby/S: a {DBMS} for sample-based query answering},
   booktitle = sigmod,
@@ -9461,7 +9461,7 @@
 @inproceedings{DBLP:conf/sigmod/PapaemmanouilACJY06a,
   author    = {Olga Papaemmanouil and
                Yanif Ahmad and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                John Jannotti and
                Yenel Yildirim},
   title     = {XPORT: extensible profile-driven overlay routing trees},
@@ -9754,7 +9754,7 @@
 @inproceedings{DBLP:conf/sigmod/FuxmanFM05,
   author    = {Ariel Fuxman and
                Elham Fazli and
-               Ren{\'e}e J. Miller},
+               Renée J. Miller},
   title     = {ConQuer: Efficient Management of Inconsistent Databases},
   booktitle = sigmod,
   year      = 2005,
@@ -9774,7 +9774,7 @@
 
 @inproceedings{DBLP:conf/sigmod/DeHaanLZ05,
   author    = {David DeHaan and
-               Per-{\AA}ke Larson and
+               Per-Åke Larson and
                Jingren Zhou},
   title     = {Stacked indexed views in microsoft {SQL} server},
   booktitle = sigmod,
@@ -9923,7 +9923,7 @@
                George Lapis and
                Guy M. Lohman and
                Robert Lyle and
-               Fatma {\"O}zcan and
+               Fatma Özcan and
                Hamid Pirahesh and
                Normen Seemann and
                Tuong C. Truong and
@@ -9991,8 +9991,8 @@
 @inproceedings{DBLP:conf/sigmod/LinKPJ05,
   author    = {Yi Lin and
                Bettina Kemme and
-               Marta Pati{\~n}o-Mart{\'\i}nez and
-               Ricardo Jim{\'e}nez-Peris},
+               Marta Patiño-Martínez and
+               Ricardo Jiménez-Peris},
   title     = {Middleware based Data Replication providing Snapshot Isolation},
   booktitle = sigmod,
   year      = 2005,
@@ -10013,7 +10013,7 @@
                Jun'ichi Tatemura and
                Oliver Po and
                Divyakant Agrawal and
-               K. Sel{\c{c}}uk Candan},
+               K. Selçuk Candan},
   title     = {Incremental Maintenance of Path Expression Views},
   booktitle = sigmod,
   year      = 2005,
@@ -10052,7 +10052,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ChenOO05,
   author    = {Lei Chen and
-               M. Tamer {\"O}zsu and
+               M. Tamer Özsu and
                Vincent Oria},
   title     = {Robust and Fast Similarity Search for Moving Object Trajectories},
   booktitle = sigmod,
@@ -10064,7 +10064,7 @@
   author    = {Kevin S. Beyer and
                Donald D. Chamberlin and
                Latha S. Colby and
-               Fatma {\"O}zcan and
+               Fatma Özcan and
                Hamid Pirahesh and
                Yu Xu},
   title     = {Extending {XQuery} for Analytics},
@@ -10198,7 +10198,7 @@
 
 @inproceedings{DBLP:conf/sigmod/GolabO05,
   author    = {Lukasz Golab and
-               M. Tamer {\"O}zsu},
+               M. Tamer Özsu},
   title     = {{Update-Pattern-Aware} Modeling and Processing of Continuous Queries},
   booktitle = sigmod,
   year      = 2005,
@@ -10352,7 +10352,7 @@
 
 @inproceedings{DBLP:conf/sigmod/HaasHHPR05,
   author    = {Laura M. Haas and
-               Mauricio A. Hern{\'a}ndez and
+               Mauricio A. Hernández and
                Howard Ho and
                Lucian Popa and
                Mary Roth},
@@ -10380,7 +10380,7 @@
 
 @inproceedings{DBLP:conf/sigmod/Sedlar05,
   author    = {Eric Sedlar},
-  title     = {Managing structure in bits {\&} pieces: the killer use case for {XML}},
+  title     = {Managing structure in bits & pieces: the killer use case for {XML}},
   booktitle = sigmod,
   year      = 2005,
   pages     = {818-821},
@@ -10515,7 +10515,7 @@
 @inproceedings{DBLP:conf/sigmod/AhmadBCHHJMPRTXXZ05,
   author    = {Yanif Ahmad and
                Bradley Berg and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                Mark Humphrey and
                Jeong-Hyon Hwang and
                Anjali Jhingran and
@@ -10549,7 +10549,7 @@
 @inproceedings{DBLP:conf/sigmod/BouganimCNDP05,
   author    = {Luc Bouganim and
                Cosmin Cremarenco and
-               Fran{\c{c}}ois Dang Ngoc and
+               François Dang Ngoc and
                Nicolas Dieu and
                Philippe Pucheral},
   title     = {Safe data sharing and data dissemination on smart devices},
@@ -10563,7 +10563,7 @@
                Nilesh N. Dalvi and
                Bhushan Mandhani and
                Shobhit Mathur and
-               Christopher R{\'e} and
+               Christopher Ré and
                Dan Suciu},
   title     = {MYSTIQ: a system for finding more answers by using probabilities},
   booktitle = sigmod,
@@ -10713,7 +10713,7 @@
 @inproceedings{DBLP:conf/sigmod/AgrawalCKMNS05,
   author    = {Sanjay Agrawal and
                Surajit Chaudhuri and
-               Lubor Koll{\'a}r and
+               Lubor Kollár and
                Arunprasad P. Marathe and
                Vivek R. Narasayya and
                Manoj Syamala},
@@ -10782,7 +10782,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BeyerOSL05,
   author    = {Kevin S. Beyer and
-               Fatma {\"O}zcan and
+               Fatma Özcan and
                Sundar Saiprasad and
                Bert Van der Linden},
   title     = {DB2/XML: designing for evolution},
@@ -11253,9 +11253,9 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BohmKKZ04,
-  author    = {Christian B{\"o}hm and
+  author    = {Christian Böhm and
                Karin Kailing and
-               Peer Kr{\"o}ger and
+               Peer Kröger and
                Arthur Zimek},
   title     = {Computing Clusters of Correlation Connected Objects},
   booktitle = sigmod,
@@ -11265,7 +11265,7 @@
 
 @inproceedings{DBLP:conf/sigmod/NassarSC04,
   author    = {Samer Nassar and
-               J{\"o}rg Sander and
+               Jörg Sander and
                Corrine Cheng},
   title     = {Incremental and Effective Data Summarization for Dynamic Hierarchical Clustering},
   booktitle = sigmod,
@@ -11493,7 +11493,7 @@
 
 @inproceedings{DBLP:conf/sigmod/AndritsosMT04,
   author    = {Periklis Andritsos and
-               Ren{\'e}e J. Miller and
+               Renée J. Miller and
                Panayiotis Tsaparas},
   title     = {{Information-Theoretic} Tools for Mining Database Structure from Large Data Sets},
   booktitle = sigmod,
@@ -11563,7 +11563,7 @@
 
 @inproceedings{DBLP:conf/sigmod/GuoLRG04,
   author    = {Hongfei Guo and
-               Per-{\AA}ke Larson and
+               Per-Åke Larson and
                Raghu Ramakrishnan and
                Jonathan Goldstein},
   title     = {Relaxed Currency and Consistency: How to Say "Good Enough" in {SQL}},
@@ -11594,7 +11594,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Galindo-LegariaSW04,
-  author    = {C{\'e}sar A. Galindo-Legaria and
+  author    = {César A. Galindo-Legaria and
                Stefano Stefani and
                Florian Waas},
   title     = {Query Processing for {SQL} Updates},
@@ -11605,7 +11605,7 @@
 
 @inproceedings{DBLP:conf/sigmod/CruanesDG04,
   author    = {Thierry Cruanes and
-               Beno{\^\i}t Dageville and
+               Benoît Dageville and
                Bhaskar Ghosh},
   title     = {Parallel {SQL} Execution in Oracle 10g},
   booktitle = sigmod,
@@ -11630,7 +11630,7 @@
 @inproceedings{DBLP:conf/sigmod/AchesonBBCEFJKRSSVZ04,
   author    = {Alazel Acheson and
                Mason Bendixen and
-               Jos{\'e} A. Blakeley and
+               José A. Blakeley and
                Peter Carlin and
                Ebru Ersan and
                Jun Fang and
@@ -11711,7 +11711,7 @@
   author    = {Shaul Dar and
                Gil Hecht and
                Eden Shochat},
-  title     = {dbSwitch{\oe} - Towards a Database Utility},
+  title     = {dbSwitch - Towards a Database Utility},
   booktitle = sigmod,
   year      = 2004,
   pages     = {892-896},
@@ -11779,9 +11779,9 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/FernandezOSH04,
-  author    = {Mary F. Fern{\'a}ndez and
+  author    = {Mary F. Fernández and
                Nicola Onose and
-               J{\'e}r{\^o}me Sim{\'e}on},
+               Jérôme Siméon},
   title     = {Yoo-Hoo! Building a Presence Service with {XQuery} and {WSDL}},
   booktitle = sigmod,
   year      = 2004,
@@ -11832,7 +11832,7 @@
   author    = {Yu Qian and
                Gang Zhang and
                Kang Zhang},
-  title     = {FA{\c{C}}ADE: A Fast and Effective Approach to the Discovery of Dense Clusters in Noisy Spatial Data},
+  title     = {FAÇADE: A Fast and Effective Approach to the Discovery of Dense Clusters in Noisy Spatial Data},
   booktitle = sigmod,
   year      = 2004,
   pages     = {921-922},
@@ -11848,14 +11848,14 @@
                Dongmei Ren and
                Weihua Wu and
                William Perrizo},
-  title     = {DataMIME{\oe}},
+  title     = {DataMIME},
   booktitle = sigmod,
   year      = 2004,
   pages     = {923-924},
 }
 
 @inproceedings{DBLP:conf/sigmod/KramerS04,
-  author    = {J{\"u}rgen Kr{\"a}mer and
+  author    = {Jürgen Krämer and
                Bernhard Seeger},
   title     = {{PIPES} - A Public Infrastructure for Processing and Exploring Streams},
   booktitle = sigmod,
@@ -11921,7 +11921,7 @@
 
 @inproceedings{DBLP:conf/sigmod/GuoRLG04,
   author    = {Hongfei Guo and
-               Per-{\AA}ke Larson and
+               Per-Åke Larson and
                Raghu Ramakrishnan and
                Jonathan Goldstein},
   title     = {Support for Relaxed Currency and Consistency Constraints in {MTCache}},
@@ -12374,7 +12374,7 @@
 @inproceedings{DBLP:conf/sigmod/KementsietsidisAM03,
   author    = {Anastasios Kementsietsidis and
                Marcelo Arenas and
-               Ren{\'e}e J. Miller},
+               Renée J. Miller},
   title     = {Mapping Data in {Peer-to-Peer} Systems: Semantics and Algorithmic Issues},
   booktitle = sigmod,
   year      = 2003,
@@ -12597,7 +12597,7 @@
 @inproceedings{DBLP:conf/sigmod/KriegelBKPS03,
   author    = {Hans-Peter Kriegel and
                Stefan Brecheisen and
-               Peer Kr{\"o}ger and
+               Peer Kröger and
                Martin Pfeifle and
                Matthias Schubert},
   title     = {Using Sets of Feature Vectors for Similarity Search on Voxelized {CAD} Objects},
@@ -12629,7 +12629,7 @@
   author    = {David DeHaan and
                David Toman and
                Mariano P. Consens and
-               M. Tamer {\"O}zsu},
+               M. Tamer Özsu},
   title     = {A Comprehensive {XQuery} to {SQL} Translation using Dynamic Interval Encoding},
   booktitle = sigmod,
   year      = 2003,
@@ -12709,7 +12709,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Zeller03,
-  author    = {Hansj{\"o}rg Zeller},
+  author    = {Hansjörg Zeller},
   title     = {{NonStop} SQL/{MX} Publish/Subscribe: Continuous Data Streams in Transaction Processing},
   booktitle = sigmod,
   year      = 2003,
@@ -12812,7 +12812,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LarsonG03,
-  author    = {Per-{\AA}ke Larson and
+  author    = {Per-Åke Larson and
                Jonathan Goldstein and
                Jingren Zhou},
   title     = {Transparent {Mid-Tier} Database Caching in {SQL} Server},
@@ -12822,7 +12822,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BornhovdAKMPR03,
-  author    = {Christof Bornh{\"o}vd and
+  author    = {Christof Bornhövd and
                Mehmet Altinel and
                Sailesh Krishnamurthy and
                C. Mohan and
@@ -12845,7 +12845,7 @@
 
 @inproceedings{DBLP:conf/sigmod/Amer-YahiaFSX03,
   author    = {Sihem Amer-Yahia and
-               Mary F. Fern{\'a}ndez and
+               Mary F. Fernández and
                Divesh Srivastava and
                Yu Xu},
   title     = {PIX: Exact and Approximate Phrase Matching in {XML}},
@@ -12872,7 +12872,7 @@
 @inproceedings{DBLP:conf/sigmod/AbadiCCCCEGHMRSSTXYZ03,
   author    = {Daniel J. Abadi and
                Donald Carney and
-               Ugur {\c{C}}etintemel and
+               Ugur Çetintemel and
                Mitch Cherniack and
                Christian Convey and
                C. Erwin and
@@ -13036,7 +13036,7 @@
 
 @inproceedings{DBLP:conf/sigmod/GuptaLM03,
   author    = {Amarnath Gupta and
-               Bertram Lud{\"a}scher and
+               Bertram Ludäscher and
                Maryann E. Martone},
   title     = {BIRN-M: A Semantic Mediator for Solving {Real-World} Neuroscience Problems},
   booktitle = sigmod,
@@ -13055,7 +13055,7 @@
 
 @inproceedings{DBLP:conf/sigmod/GraySSU03,
   author    = {Jim Gray and
-               Hans-J{\"o}rg Schek and
+               Hans-Jörg Schek and
                Michael Stonebraker and
                Jeffrey D. Ullman},
   title     = {The Lowell Report},
@@ -13231,7 +13231,7 @@
                Phillip B. Gibbons and
                Todd C. Mowry and
                Gary Valentin},
-  title     = {Fractal prefetching B{\mbox{$\pm$}}Trees: optimizing both cache and disk performance},
+  title     = {Fractal prefetching B±Trees: optimizing both cache and disk performance},
   booktitle = sigmod,
   year      = 2002,
   pages     = {157-168},
@@ -13252,7 +13252,7 @@
                Jayant R. Haritsa and
                Maya Ramanath and
                Prasan Roy and
-               J{\'e}r{\^o}me Sim{\'e}on},
+               Jérôme Siméon},
   title     = {StatiX: making {XML} count},
   booktitle = sigmod,
   year      = 2002,
@@ -13283,7 +13283,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/HacigumusILM02,
-  author    = {Hakan Hacig{\"u}m{\"u}s and
+  author    = {Hakan Hacigümüs and
                Balakrishna R. Iyer and
                Chen Li and
                Sharad Mehrotra},
@@ -13614,10 +13614,10 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/PossSKL02,
-  author    = {Meikel P{\"o}ss and
+  author    = {Meikel Pöss and
                Bryan Smith and
-               Lubor Koll{\'a}r and
-               Per-{\AA}ke Larson},
+               Lubor Kollár and
+               Per-Åke Larson},
   title     = {TPC-DS, taking decision support benchmarking to the next level},
   booktitle = sigmod,
   year      = 2002,
@@ -13801,7 +13801,7 @@
 
 @inproceedings{DBLP:conf/sigmod/FlorescuGKR02,
   author    = {Daniela Florescu and
-               Andreas Gr{\"u}nhagen and
+               Andreas Grünhagen and
                Donald Kossmann and
                Steffen Rost},
   title     = {XL: a platform for web services},
@@ -14016,8 +14016,8 @@
 @inproceedings{DBLP:conf/sigmod/BreunigKKS01,
   author    = {Markus M. Breunig and
                Hans-Peter Kriegel and
-               Peer Kr{\"o}ger and
-               J{\"o}rg Sander},
+               Peer Kröger and
+               Jörg Sander},
   title     = {Data Bubbles: Quality Preserving Performance Boosting for Hierarchical Clustering},
   booktitle = sigmod,
   year      = 2001,
@@ -14045,10 +14045,10 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/FabretJLPRS01,
-  author    = {Fran{\c{c}}oise Fabret and
+  author    = {Françoise Fabret and
                Hans-Arno Jacobsen and
-               Fran{\c{c}}ois Llirbat and
-               Jo{\~a}o Pereira and
+               François Llirbat and
+               João Pereira and
                Kenneth A. Ross and
                Dennis Shasha},
   title     = {Filtering Algorithms and Implementation for Very Fast Publish/Subscribe},
@@ -14233,7 +14233,7 @@
 
 @inproceedings{DBLP:conf/sigmod/GoldsteinL01,
   author    = {Jonathan Goldstein and
-               Per-{\AA}ke Larson},
+               Per-Åke Larson},
   title     = {Optimizing Queries Using Materialized Views: A practical, scalable solution},
   booktitle = sigmod,
   year      = 2001,
@@ -14271,8 +14271,8 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BohmBKK01,
-  author    = {Christian B{\"o}hm and
-               Bernhard Braunm{\"u}ller and
+  author    = {Christian Böhm and
+               Bernhard Braunmüller and
                Florian Krebs and
                Hans-Peter Kriegel},
   title     = {Epsilon Grid Order: An Algorithm for the Similarity Join on Massive {High-Dimensional} Data},
@@ -14364,7 +14364,7 @@
 
 @inproceedings{DBLP:conf/sigmod/YanMHF01,
   author    = {Ling-Ling Yan and
-               Ren{\'e}e J. Miller and
+               Renée J. Miller and
                Laura M. Haas and
                Ronald Fagin},
   title     = {{Data-Driven} Understanding and Refinement of Schema Mappings},
@@ -14395,18 +14395,18 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/CarinoKKB01,
-  author    = {Felipe Cari{\~n}o and
+  author    = {Felipe Cariño and
                Pekka Kostamaa and
                Art Kaufmann and
                John Burgess},
-  title     = {{StorHouse} Metanoia - New Applications for Database, Storage {\&} Data Warehousing},
+  title     = {{StorHouse} Metanoia - New Applications for Database, Storage & Data Warehousing},
   booktitle = sigmod,
   year      = 2001,
   pages     = {521-531},
 }
 
 @inproceedings{DBLP:conf/sigmod/CandanLLHA01,
-  author    = {K. Sel{\c{c}}uk Candan and
+  author    = {K. Selçuk Candan and
                Wen-Syan Li and
                Qiong Luo and
                Wang-Pin Hsiung and
@@ -14472,7 +14472,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Galindo-LegariaJ01,
-  author    = {C{\'e}sar A. Galindo-Legaria and
+  author    = {César A. Galindo-Legaria and
                Milind Joshi},
   title     = {Orthogonal Optimization of Subqueries and Aggregation},
   booktitle = sigmod,
@@ -14514,7 +14514,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/KiesslingHFE01,
-  author    = {Werner Kie{\ss}ling and
+  author    = {Werner Kießling and
                Stefan Holland and
                Stefan Fischer and
                Thorsten Ehm},
@@ -14590,8 +14590,8 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/HernandezMHYHT01,
-  author    = {Mauricio A. Hern{\'a}ndez and
-               Ren{\'e}e J. Miller and
+  author    = {Mauricio A. Hernández and
+               Renée J. Miller and
                Laura M. Haas},
   title     = {Clio: A {Semi-Automatic} Tool For Schema Mapping},
   booktitle = sigmod,
@@ -14662,8 +14662,8 @@
 
 @inproceedings{DBLP:conf/sigmod/KriegelMPS01,
   author    = {Hans-Peter Kriegel and
-               Andreas M{\"u}ller and
-               Marco P{\"o}tke and
+               Andreas Müller and
+               Marco Pötke and
                Thomas Seidl},
   title     = {Spatial Data Management for Computer Aided Design},
   booktitle = sigmod,
@@ -14730,7 +14730,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Larson01,
-  author    = {Per-{\AA}ke Larson},
+  author    = {Per-Åke Larson},
   title     = {{XML} Data Management Go Native or Spruce up Relational Systems?},
   booktitle = sigmod,
   year      = 2001,
@@ -14882,7 +14882,7 @@
   author    = {Markus M. Breunig and
                Hans-Peter Kriegel and
                Raymond T. Ng and
-               J{\"o}rg Sander},
+               Jörg Sander},
   title     = {LOF: Identifying {Density-Based} Local Outliers},
   booktitle = sigmod,
   year      = 2000,
@@ -14924,7 +14924,7 @@
 @inproceedings{DBLP:conf/sigmod/ChristophidesCS00,
   author    = {Vassilis Christophides and
                Sophie Cluet and
-               J{\'e}r{\^o}me Sim{\'e}on},
+               Jérôme Siméon},
   title     = {On Wrapping Query Languages and Efficient {XML} Integration},
   booktitle = sigmod,
   year      = 2000,
@@ -15074,7 +15074,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ForlizziGNS00,
   author    = {Luca Forlizzi and
-               Ralf Hartmut G{\"u}ting and
+               Ralf Hartmut Güting and
                Enrico Nardelli and
                Markus Schneider},
   title     = {A Data Model and Data Structures for Moving Objects Databases},
@@ -15230,7 +15230,7 @@
 
 @inproceedings{DBLP:conf/sigmod/WaasG00,
   author    = {Florian Waas and
-               C{\'e}sar A. Galindo-Legaria},
+               César A. Galindo-Legaria},
   title     = {Counting, Enumerating, and Sampling of Execution Plans in a {Cost-Based} Query Optimizer},
   booktitle = sigmod,
   year      = 2000,
@@ -15240,7 +15240,7 @@
 @inproceedings{DBLP:conf/sigmod/WattezCBFF00,
   author    = {Fanny Wattez and
                Sophie Cluet and
-               V{\'e}ronique Benzaken and
+               Véronique Benzaken and
                Guy Ferran and
                Christian Fiegel},
   title     = {Benchmarking Queries over Trees: Learning the Hard Truth the Hard Way},
@@ -15369,7 +15369,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BratsbergT00,
   author    = {Svein Erik Bratsberg and
-               {\O}ystein Torbj{\o}rnsen},
+               Øystein Torbjørnsen},
   title     = {Tutorial: Designing an Ultra Highly Available {DBMS}},
   booktitle = sigmod,
   year      = 2000,
@@ -15385,7 +15385,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BlakeleyD00,
-  author    = {Jos{\'e} A. Blakeley and
+  author    = {José A. Blakeley and
                Anand Deshpande},
   title     = {Tutorial: Data Access},
   booktitle = sigmod,
@@ -15554,7 +15554,7 @@
                Stephen Kelley and
                Vadim Katz and
                Zhexuan Song and
-               Joseph J{\'a}J{\'a}},
+               Joseph JáJá},
   title     = {MOCHA: A Database Middleware System Featuring Automatic Deployment of {Application-Specific} Functionality},
   booktitle = sigmod,
   year      = 2000,
@@ -15563,7 +15563,7 @@
 
 @inproceedings{DBLP:conf/sigmod/GillmannWSWW00,
   author    = {Michael Gillmann and
-               Jeanine Wei{\ss}enfels and
+               Jeanine Weißenfels and
                German Shegalov and
                Wolfgang Wonner and
                Gerhard Weikum},
@@ -15610,7 +15610,7 @@
 @inproceedings{DBLP:conf/sigmod/BressanGOT00,
   author    = {Chong Leng Goh and
                Beng Chin Ooi and
-               St{\'e}phane Bressan and
+               Stéphane Bressan and
                Kian-Lee Tan},
   title     = {Integrating Replacement Policies in StorM: An Extensible Approach},
   booktitle = sigmod,
@@ -15620,7 +15620,7 @@
 
 @inproceedings{DBLP:conf/sigmod/OriaOILY00,
   author    = {Vincent Oria and
-               M. Tamer {\"O}zsu and
+               M. Tamer Özsu and
                Paul Iglinski and
                Shu Lin and
                Benjamin Bin Yao},
@@ -15685,7 +15685,7 @@
   author    = {Mihael Ankerst and
                Markus M. Breunig and
                Hans-Peter Kriegel and
-               J{\"o}rg Sander},
+               Jörg Sander},
   title     = {OPTICS: Ordering Points To Identify the Clustering Structure},
   booktitle = sigmod,
   year      = 1999,
@@ -15842,7 +15842,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BlohsfeldKS99,
-  author    = {Bj{\"o}rn Blohsfeld and
+  author    = {Björn Blohsfeld and
                Dieter Korus and
                Bernhard Seeger},
   title     = {A Comparison of Selectivity Estimators for Range Queries on Metric Attributes},
@@ -15999,7 +15999,7 @@
 
 @inproceedings{DBLP:conf/sigmod/DeutschFS99,
   author    = {Alin Deutsch and
-               Mary F. Fern{\'a}ndez and
+               Mary F. Fernández and
                Dan Suciu},
   title     = {Storing Semistructured Data with {STORED}},
   booktitle = sigmod,
@@ -16078,7 +16078,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Ozsu99,
-  author    = {M. Tamer {\"O}zsu},
+  author    = {M. Tamer Özsu},
   title     = {Data Management Issues in Electronic Commerce},
   booktitle = sigmod,
   year      = 1999,
@@ -16086,7 +16086,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Dullmann99,
-  author    = {Dirk D{\"u}llmann},
+  author    = {Dirk Düllmann},
   title     = {Petabyte Databases},
   booktitle = sigmod,
   year      = 1999,
@@ -16134,7 +16134,7 @@
                Doug Doole and
                Serge Rielau and
                Richard Swagerman and
-               Nelson Mendon{\c{c}}a Mattos},
+               Nelson Mendonça Mattos},
   title     = {O-O, What's Happening to DB2?},
   booktitle = sigmod,
   year      = 1999,
@@ -16476,7 +16476,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BohlenBD99,
-  author    = {Michael H. B{\"o}hlen and
+  author    = {Michael H. Böhlen and
                Linas Bukauskas and
                Curtis E. Dyreson},
   title     = {The Jungle Database Search Engine},
@@ -16519,7 +16519,7 @@
 @inproceedings{DBLP:conf/sigmod/BaruGLMPVC99,
   author    = {Chaitanya K. Baru and
                Amarnath Gupta and
-               Bertram Lud{\"a}scher and
+               Bertram Ludäscher and
                Richard Marciano and
                Yannis Papakonstantinou and
                Pavel Velikhov and
@@ -16629,7 +16629,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/JonssonFS98,
-  author    = {Bj{\"o}rn {\'o}r J{\'o}nsson and
+  author    = {Björn Þór Jónsson and
                Michael J. Franklin and
                Divesh Srivastava},
   title     = {Interaction of Query Evaluation and Buffer Management for Information Retrieval},
@@ -16650,7 +16650,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BerchtoldBK98,
   author    = {Stefan Berchtold and
-               Christian B{\"o}hm and
+               Christian Böhm and
                Hans-Peter Kriegel},
   title     = {The Pyramid-Technique: Towards Breaking the Curse of Dimensionality},
   booktitle = sigmod,
@@ -16680,7 +16680,7 @@
 @inproceedings{DBLP:conf/sigmod/CluetDSS98,
   author    = {Sophie Cluet and
                Claude Delobel and
-               J{\'e}r{\^o}me Sim{\'e}on and
+               Jérôme Siméon and
                Katarzyna Smaga},
   title     = {Your Mediators Need Data Conversion!},
   booktitle = sigmod,
@@ -16689,7 +16689,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Miller98,
-  author    = {Ren{\'e}e J. Miller},
+  author    = {Renée J. Miller},
   title     = {Using Schematically Heterogeneous Structures},
   booktitle = sigmod,
   year      = 1998,
@@ -16705,7 +16705,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/GrumbachRS98,
-  author    = {St{\'e}phane Grumbach and
+  author    = {Stéphane Grumbach and
                Philippe Rigaux and
                Luc Segoufin},
   title     = {The {DEDALE} System for Complex Spatial Queries},
@@ -16724,7 +16724,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/HjaltasonS98,
-  author    = {G{\'\i}sli R. Hjaltason and
+  author    = {Gísli R. Hjaltason and
                Hanan Samet},
   title     = {Incremental Distance Join Algorithms for Spatial Databases},
   booktitle = sigmod,
@@ -16869,7 +16869,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/FernandezFKLS98,
-  author    = {Mary F. Fern{\'a}ndez and
+  author    = {Mary F. Fernández and
                Daniela Florescu and
                Jaewoo Kang and
                Alon Y. Levy and
@@ -16920,7 +16920,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LarsonG98,
-  author    = {Per-{\AA}ke Larson and
+  author    = {Per-Åke Larson and
                Goetz Graefe},
   title     = {Memory Management During Run Generation in External Sorting},
   booktitle = sigmod,
@@ -16997,7 +16997,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BlakeleyP98,
-  author    = {Jos{\'e} A. Blakeley and
+  author    = {José A. Blakeley and
                Michael Pizzo},
   title     = {Microsoft Universal Data Access Platform},
   booktitle = sigmod,
@@ -17225,7 +17225,7 @@
 
 @inproceedings{DBLP:conf/sigmod/KiepuszewskiMO98,
   author    = {Bartek Kiepuszewski and
-               Ralf M{\"u}hlberger and
+               Ralf Mühlberger and
                Maria E. Orlowska},
   title     = {FlowBack: Providing Backward Recovery for Workflow Systems},
   booktitle = sigmod,
@@ -17242,7 +17242,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/AmbiteABKMMMPT98,
-  author    = {Jos{\'e} Luis Ambite and
+  author    = {José Luis Ambite and
                Naveen Ashish and
                Greg Barish and
                Craig A. Knoblock and
@@ -17297,7 +17297,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LacroixSC98,
-  author    = {Zo{\'e} Lacroix and
+  author    = {Zoé Lacroix and
                Arnaud Sahuguet and
                Raman Chandrasekar},
   title     = {User-oriented smart-cache for the Web: What You Seek is What You Get!},
@@ -17332,7 +17332,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/ZaianeHLCC98,
-  author    = {Osmar R. Za{\"\i}ane and
+  author    = {Osmar R. Zaïane and
                Jiawei Han and
                Ze-Nian Li and
                Sonny Han Seng Chee and
@@ -17384,8 +17384,8 @@
 
 @inproceedings{DBLP:conf/sigmod/BerchtoldBBKK97,
   author    = {Stefan Berchtold and
-               Christian B{\"o}hm and
-               Bernhard Braunm{\"u}ller and
+               Christian Böhm and
+               Bernhard Braunmüller and
                Daniel A. Keim and
                Hans-Peter Kriegel},
   title     = {Fast Parallel Similarity Search in Multimedia Databases},
@@ -17483,7 +17483,7 @@
 
 @inproceedings{DBLP:conf/sigmod/DoppelhammerHKK97,
   author    = {Jochen Doppelhammer and
-               Thomas H{\"o}ppler and
+               Thomas Höppler and
                Alfons Kemper and
                Donald Kossmann},
   title     = {Database Performance in the Real World - {TPC-D} and {SAP} R/3},
@@ -17717,7 +17717,7 @@
 
 @inproceedings{DBLP:conf/sigmod/BozkayaO97,
   author    = {Tolga Bozkaya and
-               Z. Meral {\"O}zsoyoglu},
+               Z. Meral Özsoyoglu},
   title     = {{Distance-Based} Indexing for {High-Dimensional} Metric Spaces},
   booktitle = sigmod,
   year      = 1997,
@@ -17775,8 +17775,8 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LlirbatFS97,
-  author    = {Fran{\c{c}}ois Llirbat and
-               Fran{\c{c}}oise Fabret and
+  author    = {François Llirbat and
+               Françoise Fabret and
                Eric Simon},
   title     = {Eliminating Costly Redundant Computations from {SQL} Trigger Executions},
   booktitle = sigmod,
@@ -17794,7 +17794,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/YangM97,
-  author    = {Ren{\'e}e J. Miller and
+  author    = {Renée J. Miller and
                Yuping Yang},
   title     = {Association Rules over Interval Data},
   booktitle = sigmod,
@@ -17842,7 +17842,7 @@
 
 @inproceedings{DBLP:conf/sigmod/CareyMN97,
   author    = {Michael J. Carey and
-               Nelson Mendon{\c{c}}a Mattos and
+               Nelson Mendonça Mattos and
                Anil Nori},
   title     = {{Object-Relational} Database Systems: Principles, Products, and Challenges},
   booktitle = sigmod,
@@ -17893,7 +17893,7 @@
                Ravi Krishnamurthy and
                Brian Meckler and
                Michael Suckow and
-               Mosh{\'e} M. Zloof},
+               Moshé M. Zloof},
   title     = {Picture Programming Project},
   booktitle = sigmod,
   year      = 1997,
@@ -17917,7 +17917,7 @@
 
 @inproceedings{DBLP:conf/sigmod/LiCHH97,
   author    = {Wen-Syan Li and
-               K. Sel{\c{c}}uk Candan and
+               K. Selçuk Candan and
                Kyoji Hirata and
                Yoshinori Hara},
   title     = {SEMCOG: An Object-based Image Retrieval System and Its Visual Query Interface},
@@ -17927,7 +17927,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BressanGFJHKLMPQSS97,
-  author    = {St{\'e}phane Bressan and
+  author    = {Stéphane Bressan and
                Cheng Hian Goh and
                Kofi Fynn and
                Marta Jessica Jakobisiak and
@@ -17968,7 +17968,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/GingrasLSPS97,
-  author    = {Fr{\'e}d{\'e}ric Gingras and
+  author    = {Frédéric Gingras and
                Laks V. S. Lakshmanan and
                Iyer N. Subramanian and
                Despina Papoulis and
@@ -18014,7 +18014,7 @@
 
 @inproceedings{DBLP:conf/sigmod/TomasicABKNR97,
   author    = {Anthony Tomasic and
-               R{\'e}my Amouroux and
+               Rémy Amouroux and
                Philippe Bonnet and
                Olga Kapitskaia and
                Hubert Naacke and
@@ -18026,7 +18026,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/FernandezFKLS97,
-  author    = {Mary F. Fern{\'a}ndez and
+  author    = {Mary F. Fernández and
                Daniela Florescu and
                Jaewoo Kang and
                Alon Y. Levy and
@@ -18101,7 +18101,7 @@
 
 @inproceedings{DBLP:conf/sigmod/WodtkeWWDM97,
   author    = {Dirk Wodtke and
-               Jeanine Wei{\ss}enfels and
+               Jeanine Weißenfels and
                Gerhard Weikum and
                Angelika Kotz Dittrich and
                Peter Muth},
@@ -18201,7 +18201,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/OzdenRSS96,
-  author    = {Banu {\"O}zden and
+  author    = {Banu Özden and
                Rajeev Rastogi and
                Prashant J. Shenoy and
                Abraham Silberschatz},
@@ -18251,7 +18251,7 @@
 
 @inproceedings{DBLP:conf/sigmod/AdaliCPS96,
   author    = {Sibel Adali and
-               K. Sel{\c{c}}uk Candan and
+               K. Selçuk Candan and
                Yannis Papakonstantinou and
                V. S. Subrahmanian},
   title     = {Query Caching and Optimization in Distributed Mediator Systems},
@@ -18262,7 +18262,7 @@
 
 @inproceedings{DBLP:conf/sigmod/FranklinJK96,
   author    = {Michael J. Franklin and
-               Bj{\"o}rn {\'o}r J{\'o}nsson and
+               Björn Þór Jónsson and
                Donald Kossmann},
   title     = {Performance Tradeoffs for {Client-Server} Query Processing},
   booktitle = sigmod,
@@ -18271,7 +18271,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Blakeley96,
-  author    = {Jos{\'e} A. Blakeley},
+  author    = {José A. Blakeley},
   title     = {Data Access for the Masses through {OLE} {DB}},
   booktitle = sigmod,
   year      = 1996,
@@ -18424,7 +18424,7 @@
 @inproceedings{DBLP:conf/sigmod/BlottRS96,
   author    = {Stephen Blott and
                Lukas Relly and
-               Hans-J{\"o}rg Schek},
+               Hans-Jörg Schek},
   title     = {An Open Storage System for Abstract Objects},
   booktitle = sigmod,
   year      = 1996,
@@ -18534,9 +18534,9 @@
 
 @inproceedings{DBLP:conf/sigmod/MorpainCFP96,
   author    = {Claire Morpain and
-               Mich{\`e}le Cart and
-               Jean Ferri{\'e} and
-               Jean-Fran{\c{c}}ois Pons},
+               Michèle Cart and
+               Jean Ferrié and
+               Jean-François Pons},
   title     = {Maintaining Database Consistency in Presence of Value Dependencies in Multidatabase Systems},
   booktitle = sigmod,
   year      = 1996,
@@ -18660,7 +18660,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BohmA96,
-  author    = {Klemens B{\"o}hm and
+  author    = {Klemens Böhm and
                Karl Aberer},
   title     = {{HyperStorM} - Administering Structured Documents Using {Object-Oriented} Database Technology},
   booktitle = sigmod,
@@ -18702,7 +18702,7 @@
                Yongjian Fu and
                Wei Wang and
                Jenny Chiang and
-               Osmar R. Za{\"\i}ane and
+               Osmar R. Zaïane and
                Krzysztof Koperski},
   title     = {DBMiner: Interactive Mining of {Multiple-Level} Knowledge in Relational Databases},
   booktitle = sigmod,
@@ -18729,7 +18729,7 @@
   author    = {Asuman Dogac and
                Ugur Halici and
                Ebru Kilic and
-               G{\"o}khan {\"O}zhan and
+               Gökhan Özhan and
                Fatma Ozcan and
                Sena Nural and
                Cevdet Dengi and
@@ -18770,7 +18770,7 @@
                Young-Gook Ra and
                Viviane Crestana-Taube and
                Matthew C. Jones and
-               Pedro Jos{\'e} Marr{\'o}n},
+               Pedro José Marrón},
   title     = {The {MultiView} Project: {Object-Oriented} View Technology and Applications},
   booktitle = sigmod,
   year      = 1996,
@@ -18868,7 +18868,7 @@
 @inproceedings{DBLP:conf/sigmod/RoussopoulosKV95,
   author    = {Nick Roussopoulos and
                Stephen Kelley and
-               Fr{\'e}d{\'e}ic Vincent},
+               Frédéic Vincent},
   title     = {Nearest Neighbor Queries},
   booktitle = sigmod,
   year      = 1995,
@@ -18914,7 +18914,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/HernandezS95,
-  author    = {Mauricio A. Hern{\'a}ndez and
+  author    = {Mauricio A. Hernández and
                Salvatore J. Stolfo},
   title     = {The Merge/Purge Problem for Large Databases},
   booktitle = sigmod,
@@ -18933,7 +18933,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ArefBV95,
   author    = {Walid G. Aref and
-               Daniel Barbar{\'a} and
+               Daniel Barbará and
                Padmavathi Vallabhaneni},
   title     = {The Handwritten Trie: Indexing Electronic Ink},
   booktitle = sigmod,
@@ -19090,7 +19090,7 @@
 @inproceedings{DBLP:conf/sigmod/LuMSS95,
   author    = {James J. Lu and
                Guido Moerkotte and
-               Joachim Sch{\"u} and
+               Joachim Schü and
                V. S. Subrahmanian},
   title     = {Efficient Maintenance of Materialized Mediated Views},
   booktitle = sigmod,
@@ -19379,7 +19379,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MattosM95,
-  author    = {Nelson Mendon{\c{c}}a Mattos and
+  author    = {Nelson Mendonça Mattos and
                Jim Melton},
   title     = {An Overview of the Emerging {Third-Generation} {SQL} Standard},
   booktitle = sigmod,
@@ -19456,7 +19456,7 @@
 @inproceedings{DBLP:conf/sigmod/BuchmannDZH95,
   author    = {Alejandro P. Buchmann and
                Alin Deutsch and
-               J{\"u}rgen Zimmermann and
+               Jürgen Zimmermann and
                M. Higa},
   title     = {The {REACH} Active {OODBMS}},
   booktitle = sigmod,
@@ -19488,8 +19488,8 @@
 
 @inproceedings{DBLP:conf/sigmod/ThomasDM95,
   author    = {Joachim Thomas and
-               Stefan De{\ss}loch and
-               Nelson Mendon{\c{c}}a Mattos},
+               Stefan Deßloch and
+               Nelson Mendonça Mattos},
   title     = {Design and Implementation of Advanced Knowledge Processing in the {KDMS} {KRISYS}},
   booktitle = sigmod,
   year      = 1995,
@@ -19508,7 +19508,7 @@
 
 @inproceedings{DBLP:conf/sigmod/RadekeBBEKKN95,
   author    = {Elke Radeke and
-               Ralf B{\"o}ttger and
+               Ralf Böttger and
                Bernd Burkert and
                Yaron Engel and
                Gerd Kachel and
@@ -19599,7 +19599,7 @@
 
 @inproceedings{DBLP:conf/sigmod/JonkerS95,
   author    = {Willem Jonker and
-               Heribert Sch{\"u}tz},
+               Heribert Schütz},
   title     = {The {ECRC} Multi Database System},
   booktitle = sigmod,
   year      = 1995,
@@ -19607,7 +19607,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BarbaraI94,
-  author    = {Daniel Barbar{\'a} and
+  author    = {Daniel Barbará and
                Tomasz Imielinski},
   title     = {Sleepers and Workaholics: Caching Strategies in Mobile Environments},
   booktitle = sigmod,
@@ -19839,7 +19839,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/KrollW94,
-  author    = {Brigitte Kr{\"o}ll and
+  author    = {Brigitte Kröll and
                Peter Widmayer},
   title     = {Distributing a Search Tree Among a Growing Number of Processors},
   booktitle = sigmod,
@@ -19850,7 +19850,7 @@
 @inproceedings{DBLP:conf/sigmod/DewanSHH94,
   author    = {Hasanat M. Dewan and
                Salvatore J. Stolfo and
-               Mauricio A. Hern{\'a}ndez and
+               Mauricio A. Hernández and
                Jae-Jun Hwang},
   title     = {Predictive Dynamic Load Balancing of Parallel and Distributed Rule and Query Processing},
   booktitle = sigmod,
@@ -19908,7 +19908,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Galindo-Legaria94,
-  author    = {C{\'e}sar A. Galindo-Legaria},
+  author    = {César A. Galindo-Legaria},
   title     = {Outerjoins as Disjunctions},
   booktitle = sigmod,
   year      = 1994,
@@ -20195,7 +20195,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/KuhnTS94,
-  author    = {eva K{\"u}hn and
+  author    = {eva Kühn and
                Thomas Tschernko and
                Konrad Schwarz},
   title     = {A Language Based Multidatabase System},
@@ -20328,7 +20328,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Blakeley94,
-  author    = {Jos{\'e} A. Blakeley},
+  author    = {José A. Blakeley},
   title     = {Open Object Database Management Systems},
   booktitle = sigmod,
   year      = 1994,
@@ -20443,7 +20443,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MeseguerQ93,
-  author    = {Jos{\'e} Meseguer and
+  author    = {José Meseguer and
                Xiaolei Qian},
   title     = {A Logical Semantics for {Object-Oriented} Databases},
   booktitle = sigmod,
@@ -20464,7 +20464,7 @@
 @inproceedings{DBLP:conf/sigmod/AnanthanarayananGKLP93,
   author    = {R. Ananthanarayanan and
                Vibby Gottemukkala and
-               Wolfgang K{\"a}fer and
+               Wolfgang Käfer and
                Tobin J. Lehman and
                Hamid Pirahesh},
   title     = {Using the Co-existence Approach to Achieve Combined Functionality of {Object-Oriented} and Relational Systems},
@@ -20628,7 +20628,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Guting93,
-  author    = {Ralf Hartmut G{\"u}ting},
+  author    = {Ralf Hartmut Güting},
   title     = {{Second-Order} Signature: A Tool for Specifying Data Models, Query Processing, and Optimization},
   booktitle = sigmod,
   year      = 1993,
@@ -20636,7 +20636,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BlakeleyMG93,
-  author    = {Jos{\'e} A. Blakeley and
+  author    = {José A. Blakeley and
                William J. McKenna and
                Goetz Graefe},
   title     = {Experiences Building the Open {OODB} Query Optimizer},
@@ -20705,7 +20705,7 @@
 @inproceedings{DBLP:conf/sigmod/VadapartyAO93,
   author    = {Kumar V. Vadaparty and
                Y. Alp Aslandogan and
-               Gultekin {\"O}zsoyoglu},
+               Gultekin Özsoyoglu},
   title     = {Towards a Unified Visual Database Access},
   booktitle = sigmod,
   year      = 1993,
@@ -20853,7 +20853,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Velez93,
-  author    = {Fernando V{\'e}lez},
+  author    = {Fernando Vélez},
   title     = {Modularity and Tuning Mechanisms in the O2 System},
   booktitle = sigmod,
   year      = 1993,
@@ -21058,9 +21058,9 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/KupperSR93,
-  author    = {Detlef K{\"u}pper and
+  author    = {Detlef Küpper and
                M. Strobel and
-               Dietmar R{\"o}sner},
+               Dietmar Rösner},
   title     = {{NAUDA} - A Cooperative, Natural Language Interface to Relational Databases},
   booktitle = sigmod,
   year      = 1993,
@@ -21093,7 +21093,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MoenkebergZHW93,
-  author    = {Axel M{\"o}nkeberg and
+  author    = {Axel Mönkeberg and
                Peter Zabback and
                Christof Hasse and
                Gerhard Weikum},
@@ -21152,7 +21152,7 @@
 
 @inproceedings{DBLP:conf/sigmod/FordBB93,
   author    = {Steve Ford and
-               Jos{\'e} A. Blakeley and
+               José A. Blakeley and
                Thomas J. Bannon},
   title     = {Open OODB: A Modular {Object-Oriented} {DBMS}},
   booktitle = sigmod,
@@ -21255,11 +21255,11 @@
 @inproceedings{DBLP:conf/sigmod/GesmannGHHKMS92,
   author    = {Michael Gesmann and
                Andreas Grasnickel and
-               Theo H{\"a}rder and
-               Christoph H{\"u}bel and
-               Wolfgang K{\"a}fer and
+               Theo Härder and
+               Christoph Hübel and
+               Wolfgang Käfer and
                Bernhard Mitschang and
-               Harald Sch{\"o}ning},
+               Harald Schöning},
   title     = {{PRIMA} - A Database System Supporting Dynamically Defined Composite Objects},
   booktitle = sigmod,
   year      = 1992,
@@ -21275,7 +21275,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Bancilhon92,
-  author    = {Fran{\c{c}}ois Bancilhon},
+  author    = {François Bancilhon},
   title     = {The O2 {Object-Oriented} Database System},
   booktitle = sigmod,
   year      = 1992,
@@ -21589,7 +21589,7 @@
 @inproceedings{DBLP:conf/sigmod/LanzelotteVZ92,
   author    = {Rosana S. G. Lanzelotte and
                Patrick Valduriez and
-               Mohamed Za{\"\i}t},
+               Mohamed Zaït},
   title     = {Optimization of {Object-Oriented} Recursive Queries using {Cost-Controlled} Strategies},
   booktitle = sigmod,
   year      = 1992,
@@ -21597,8 +21597,8 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/KaferS92,
-  author    = {Wolfgang K{\"a}fer and
-               Harald Sch{\"o}ning},
+  author    = {Wolfgang Käfer and
+               Harald Schöning},
   title     = {Realizing a Temporal {Complex-Object} Data Model},
   booktitle = sigmod,
   year      = 1992,
@@ -21982,9 +21982,9 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/GuntzerKT91,
-  author    = {Ulrich G{\"u}ntzer and
-               Werner Kie{\ss}ling and
-               Helmut Th{\"o}ne},
+  author    = {Ulrich Güntzer and
+               Werner Kießling and
+               Helmut Thöne},
   title     = {New Directions For Uncertainty Reasoning In Deductive Databases},
   booktitle = sigmod,
   year      = 1991,
@@ -22001,7 +22001,7 @@
 
 @inproceedings{DBLP:conf/sigmod/LouO91,
   author    = {Yanjun Lou and
-               Z. Meral {\"O}zsoyoglu},
+               Z. Meral Özsoyoglu},
   title     = {LLO: An {Object-Oriented} Deductive Language with Methods and Method Inheritance},
   booktitle = sigmod,
   year      = 1991,
@@ -22075,7 +22075,7 @@
 
 @inproceedings{DBLP:conf/sigmod/HouOD91,
   author    = {Wen-Chi Hou and
-               Gultekin {\"O}zsoyoglu and
+               Gultekin Özsoyoglu and
                Erdogan Dogdu},
   title     = {{Error-Constraint} {COUNT} Query Evaluation in Relational Databases},
   booktitle = sigmod,
@@ -22225,7 +22225,7 @@
 
 @inproceedings{DBLP:conf/sigmod/SeegerL91,
   author    = {Bernhard Seeger and
-               Per-{\AA}ke Larson},
+               Per-Åke Larson},
   title     = {{Multi-Disk} B-trees},
   booktitle = sigmod,
   year      = 1991,
@@ -22425,7 +22425,7 @@
 
 @inproceedings{DBLP:conf/sigmod/LaenensSV90,
   author    = {Els Laenens and
-               Domenico Sacc{\`a} and
+               Domenico Saccà and
                Dirk Vermeir},
   title     = {Extending Logic Programming},
   booktitle = sigmod,
@@ -22528,7 +22528,7 @@
 
 @inproceedings{DBLP:conf/sigmod/RosenthalG90,
   author    = {Arnon Rosenthal and
-               C{\'e}sar A. Galindo-Legaria},
+               César A. Galindo-Legaria},
   title     = {Query Graphs, Implementing Trees, and {Freely-Reorderable} Outerjoins},
   booktitle = sigmod,
   year      = 1990,
@@ -22655,7 +22655,7 @@
 
 @inproceedings{DBLP:conf/sigmod/KentLMW90,
   author    = {William Kent and
-               Peter Lyngb{\ae}k and
+               Peter Lyngbæk and
                Samir Mathur and
                W. Kevin Wilkinson},
   title     = {The Iris Database System},
@@ -22684,7 +22684,7 @@
 
 @inproceedings{DBLP:conf/sigmod/AtkinsonBDDMZ90,
   author    = {Malcolm P. Atkinson and
-               Fran{\c{c}}ois Bancilhon and
+               François Bancilhon and
                David J. DeWitt and
                Klaus R. Dittrich and
                David Maier and
@@ -22733,7 +22733,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Ozsoyoglu89,
-  author    = {Gultekin {\"O}zsoyoglu},
+  author    = {Gultekin Özsoyoglu},
   title     = {{Real-Time} Databases: Are they Real?},
   booktitle = sigmod,
   year      = 1989,
@@ -22815,7 +22815,7 @@
 
 @inproceedings{DBLP:conf/sigmod/HouOT89,
   author    = {Wen-Chi Hou and
-               Gultekin {\"O}zsoyoglu and
+               Gultekin Özsoyoglu and
                Baldeo K. Taneja},
   title     = {Processing Aggregate Relational Queries with Hard Time Constraints},
   booktitle = sigmod,
@@ -22915,7 +22915,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Bry89,
-  author    = {Fran{\c{c}}ois Bry},
+  author    = {François Bry},
   title     = {Towards an Efficient Evaluation of General Queries: Quantifier and Disjunction Processing Revisited},
   booktitle = sigmod,
   year      = 1989,
@@ -22960,7 +22960,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LarsonD89,
-  author    = {Per-{\AA}ke Larson and
+  author    = {Per-Åke Larson and
                Vinay Deshpande},
   title     = {A File Structure Supporting Traversal Recursion},
   booktitle = sigmod,
@@ -23396,7 +23396,7 @@
 @inproceedings{DBLP:conf/sigmod/AlhoPMS88,
   author    = {Kari Alho and
                Hannu Peltonen and
-               Martti M{\"a}ntyl{\"a} and
+               Martti Mäntylä and
                Reijo Sulonen},
   title     = {A Design Data Manager},
   booktitle = sigmod,
@@ -23431,7 +23431,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/Fromm88,
-  author    = {Hansj{\"o}rg Fromm},
+  author    = {Hansjörg Fromm},
   title     = {Database Services in the German Bildschirmtext System (Btx)},
   booktitle = sigmod,
   year      = 1988,
@@ -23467,7 +23467,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/HernandezC88,
-  author    = {H{\'e}ctor J. Hern{\'a}ndez and
+  author    = {Héctor J. Hernández and
                Edward P. F. Chan},
   title     = {A Characterization of Constant-time-mainteinability for {BCNF} Database Schemes},
   booktitle = sigmod,
@@ -23693,9 +23693,9 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LecluseRV88,
-  author    = {Christophe L{\'e}cluse and
+  author    = {Christophe Lécluse and
                Philippe Richard and
-               Fernando V{\'e}lez},
+               Fernando Vélez},
   title     = {O2, an {Object-Oriented} Data Model},
   booktitle = sigmod,
   year      = 1988,
@@ -23787,7 +23787,7 @@
 @inproceedings{DBLP:conf/sigmod/AbiteboulKG87,
   author    = {Serge Abiteboul and
                Paris C. Kanellakis and
-               G{\"o}sta Grahne},
+               Gösta Grahne},
   title     = {On the Representation and Querying of Sets of Possible Worlds},
   booktitle = sigmod,
   year      = 1987,
@@ -23795,7 +23795,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/SaccaZ87,
-  author    = {Domenico Sacc{\`a} and
+  author    = {Domenico Saccà and
                Carlo Zaniolo},
   title     = {Magic Counting Methods},
   booktitle = sigmod,
@@ -23805,7 +23805,7 @@
 
 @inproceedings{DBLP:conf/sigmod/AlyO87,
   author    = {Hussien Aly and
-               Z. Meral {\"O}zsoyoglu},
+               Z. Meral Özsoyoglu},
   title     = {Non-deterministic Modelling of Logical Queries in Deductive Databases},
   booktitle = sigmod,
   year      = 1987,
@@ -23865,7 +23865,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LyngbaekV87,
-  author    = {Peter Lyngb{\ae}k and
+  author    = {Peter Lyngbæk and
                Victor Vianu},
   title     = {Mapping a Semantic Database Model to the Relational Model},
   booktitle = sigmod,
@@ -23876,7 +23876,7 @@
 @inproceedings{DBLP:conf/sigmod/RothK87,
   author    = {Mark A. Roth and
                Henry F. Korth},
-  title     = {The Design of {\neg}1{NF} Relational Databases into Nested Normal Form},
+  title     = {The Design of ¬1{NF} Relational Databases into Nested Normal Form},
   booktitle = sigmod,
   year      = 1987,
   pages     = {143-159},
@@ -23901,7 +23901,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ShenoyO87,
   author    = {Sreekumar T. Shenoy and
-               Z. Meral {\"O}zsoyoglu},
+               Z. Meral Özsoyoglu},
   title     = {A System for Semantic Query Optimization},
   booktitle = sigmod,
   year      = 1987,
@@ -23910,7 +23910,7 @@
 
 @inproceedings{DBLP:conf/sigmod/PaulSSWD87,
   author    = {H.-Bernhard Paul and
-               Hans-J{\"o}rg Schek and
+               Hans-Jörg Schek and
                Marc H. Scholl and
                Gerhard Weikum and
                Uwe Deppisch},
@@ -23949,7 +23949,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/HarderR87,
-  author    = {Theo H{\"a}rder and
+  author    = {Theo Härder and
                Kurt Rothermel},
   title     = {Concepts for Transaction Recovery in Nested Transactions},
   booktitle = sigmod,
@@ -24184,7 +24184,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BancilhonR86,
-  author    = {Fran{\c{c}}ois Bancilhon and
+  author    = {François Bancilhon and
                Raghu Ramakrishnan},
   title     = {An Amateur's Introduction to Recursive Query Processing Strategies},
   booktitle = sigmod,
@@ -24205,8 +24205,8 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BlakeleyLT86,
-  author    = {Jos{\'e} A. Blakeley and
-               Per-{\AA}ke Larson and
+  author    = {José A. Blakeley and
+               Per-Åke Larson and
                Frank Wm. Tompa},
   title     = {Efficiently Updating Materialized Views},
   booktitle = sigmod,
@@ -24341,7 +24341,7 @@
 
 @inproceedings{DBLP:conf/sigmod/WedekindZ86,
   author    = {Hartmut Wedekind and
-               Georg Z{\"o}rntlein},
+               Georg Zörntlein},
   title     = {Prefetching in Realtime Database Applications},
   booktitle = sigmod,
   year      = 1986,
@@ -24455,11 +24455,11 @@
 
 @inproceedings{DBLP:conf/sigmod/DadamKABEGLPW86,
   author    = {Peter Dadam and
-               Klaus K{\"u}spert and
+               Klaus Küspert and
                F. Andersen and
                Henk M. Blanken and
                R. Erbe and
-               J{\"u}rgen G{\"u}nauer and
+               Jürgen Günauer and
                Vincent Y. Lum and
                Peter Pistor and
                Georg Walch},
@@ -24505,8 +24505,8 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/OzsoyogluOM85,
-  author    = {Gultekin {\"O}zsoyoglu and
-               Z. Meral {\"O}zsoyoglu and
+  author    = {Gultekin Özsoyoglu and
+               Z. Meral Özsoyoglu and
                Francisco Mata},
   title     = {A Language and a Physical Organization Technique for Summary Tables},
   booktitle = sigmod,
@@ -24629,7 +24629,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/LarsonR85,
-  author    = {Per-{\AA}ke Larson and
+  author    = {Per-Åke Larson and
                M. V. Ramakrishna},
   title     = {External Perfect Hashing},
   booktitle = sigmod,
@@ -24919,7 +24919,7 @@
                Gerald Kreissig and
                Norbert G. Lenz and
                Michael Scheible and
-               Bernd Sch{\"o}ner},
+               Bernd Schöner},
   title     = {Data Management Facilities of an Operating System Kernel},
   booktitle = sigmod,
   year      = 1984,
@@ -24961,7 +24961,7 @@
 
 @inproceedings{DBLP:conf/sigmod/ValduriezV84,
   author    = {Patrick Valduriez and
-               Yann Vi{\'e}mont},
+               Yann Viémont},
   title     = {A Multikey Hashing Scheme Using Predicate Trees},
   booktitle = sigmod,
   year      = 1984,
@@ -24972,7 +24972,7 @@
   author    = {Vincent Y. Lum and
                Peter Dadam and
                R. Erbe and
-               J{\"u}rgen G{\"u}nauer and
+               Jürgen Günauer and
                Peter Pistor and
                Georg Walch and
                H. Werner and
@@ -25358,7 +25358,7 @@
 
 @inproceedings{DBLP:conf/sigmod/JarkeK83,
   author    = {Matthias Jarke and
-               J{\"u}rgen Koch},
+               Jürgen Koch},
   title     = {Range Nesting: A Fast Method to Evaluate Quantified Queries},
   booktitle = sigmod,
   year      = 1983,
@@ -25519,7 +25519,7 @@
 @inproceedings{DBLP:conf/sigmod/SchlageterRPU82,
   author    = {Gunter Schlageter and
                M. Rieskamp and
-               U. Pr{\"a}del and
+               U. Prädel and
                Rainer Unland},
   title     = {The Network Query Language {NOAH}},
   booktitle = sigmod,
@@ -26038,7 +26038,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/BancilhonS80,
-  author    = {Fran{\c{c}}ois Bancilhon and
+  author    = {François Bancilhon and
                Michel Scholl},
   title     = {On Designing an I/O Processor for a Relational Data Base Machine},
   booktitle = sigmod,
@@ -26249,7 +26249,7 @@
   author    = {Clement T. Yu and
                K. Lam and
                M. K. Siu and
-               Z. Meral {\"O}zsoyoglu},
+               Z. Meral Özsoyoglu},
   title     = {Performance Analysis of three Related Assignment Problems},
   booktitle = sigmod,
   year      = 1979,
@@ -26388,7 +26388,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/MenascePM78,
-  author    = {Daniel A. Menasc{\'e} and
+  author    = {Daniel A. Menascé and
                Gerald J. Popek and
                Richard R. Muntz},
   title     = {A Locking Protocol for Resource Coordination in Distributed Databases},
@@ -26997,7 +26997,7 @@
 }
 
 @inproceedings{DBLP:conf/sigmod/FernandezSC75,
-  author    = {Eduardo B. Fern{\'a}ndez and
+  author    = {Eduardo B. Fernández and
                Rita C. Summers and
                Charles D. Coleman},
   title     = {An Authorization Model for a Shared Data Base},

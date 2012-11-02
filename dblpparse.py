@@ -10,7 +10,6 @@ import datetime
 
 import lxml.etree
 
-import latex
 import parentheticals
 import overrides
 from locations import LOCATION_AMBIGUITIES
@@ -44,7 +43,7 @@ class CitationContainer:
     def _normalize_author(self, author):
         if numbered_author_re.search(author):
             author = author[:-5]
-        return self._to_latex(author)
+        return author
 
     def _normalize_title(self, citekey, citeattrs):
         title = citeattrs['title']
@@ -114,7 +113,7 @@ class CitationContainer:
                     if equation == stack[-1]:
                         equation = None
                     stack.pop()
-        return self._caps_stuff(self._to_latex(title.strip(' .')))
+        return self._caps_stuff(title.strip(' .'))
 
     def _normalize_pages(self, p):
         pagesrt = (-1, '')
@@ -140,17 +139,6 @@ class CitationContainer:
                 else:
                     print 'ERROR:  key "%s" has corrupt "pages"' % citekey
         return pagesrt, pages
-
-    def _to_latex(self, s):
-        ls = ''
-        for c in s:
-            if ord(c) in latex.latex:
-                ls += latex.latex[ord(c)]
-            elif c in (string.ascii_letters + string.digits + string.punctuation + ' '):
-                ls += c
-            else:
-                print 'WARNING:  unknown unicode character %s %i' % (repr(c), ord(c))
-        return ls
 
     def _to_upper_quoted(self, s):
         s = s.group()
@@ -234,7 +222,7 @@ class Conference(CitationContainer):
         self._out.truncate(0)
         self._out.write('@include conferences-cs\n')
         for year, pages, citekey, bibtex in sorted(tmp):
-            self._out.write(bibtex)
+            self._out.write(bibtex.encode('utf8'))
         self._out.flush()
 
     def write_citation(self, fout):
@@ -257,7 +245,7 @@ class Conference(CitationContainer):
   longname  = "%s",
 %s}\n'''
             citation = templ % (self._citetype, self._slug, self._shortname, self._longname, yearsstr)
-        fout.write(citation)
+        fout.write(citation.encode('utf8'))
 
     def _extract_year(self, citekey, citeattrs):
         if 'year' in citeattrs:
@@ -371,7 +359,7 @@ class Journal(CitationContainer):
         self._out.truncate(0)
         self._out.write('@include journals-cs\n')
         for year, pages, citekey, bibtex in sorted(tmp):
-            self._out.write(bibtex)
+            self._out.write(bibtex.encode('utf8'))
         self._out.flush()
 
     def write_citation(self, fout):
@@ -381,7 +369,7 @@ class Journal(CitationContainer):
         else:
             templ = '''@journal{%s, shortname = "%s", longname  = "%s"}\n'''
             citation = templ % (self._slug, self._shortname, self._longname)
-        fout.write(citation)
+        fout.write(citation.encode('utf8'))
 
 
 class DBLPProcessor:
@@ -552,7 +540,7 @@ class DBLPProcessor:
                             elif citeattrs.get(element.tag, None) is None:
                                 citeattrs[element.tag] = element.text
                 if select:
-                    fout.write('%s\n' % repr((citetype, citekey, citeattrs)))
+                    fout.write(('%s\n' % repr((citetype, citekey, citeattrs))))
                 element.clear()
                 while element.getprevious() is not None:
                     del element.getparent()[0]
@@ -568,7 +556,7 @@ class DBLPProcessor:
         self._preprocess()
 
     def _iterate(self):
-        with open(self._ppfilename) as fin:
+        with open(self._ppfilename, 'r') as fin:
             for line in fin:
                 yield eval(line[:-1])
 

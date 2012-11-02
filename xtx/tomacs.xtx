@@ -24,8 +24,8 @@
 }
 
 @article{DBLP:journals/tomacs/RainvilleGTL12,
-  author    = {Fran{\c{c}}ois-Michel De Rainville and
-               Christian Gagn{\'e} and
+  author    = {François-Michel De Rainville and
+               Christian Gagné and
                Olivier Teytaud and
                Denis Laurendeau},
   title     = {Evolutionary optimization of low-discrepancy sequences},
@@ -48,8 +48,8 @@
 }
 
 @article{DBLP:journals/tomacs/InacioFPM12,
-  author    = {Pedro R. M. In{\'a}cio and
-               M{\'a}rio M. Freire and
+  author    = {Pedro R. M. Inácio and
+               Mário M. Freire and
                Manuela Pereira and
                Paulo P. Monteiro},
   title     = {Fast synthesis of persistent fractional Brownian motion},
@@ -71,9 +71,69 @@
   pages     = {12},
 }
 
+@article{DBLP:journals/tomacs/BlanchetGL12,
+  author    = {Jose Blanchet and
+               Peter W. Glynn and
+               Kevin Leder},
+  title     = {On Lyapunov Inequalities and Subsolutions for Efficient Importance Sampling},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {3},
+  year      = 2012,
+  pages     = {13},
+}
+
+@article{DBLP:journals/tomacs/ChenFL12,
+  author    = {Zisheng Chen and
+               Liming Feng and
+               Xiong Lin},
+  title     = {Simulating Lévy Processes from Their Characteristic Functions and Financial Applications},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {3},
+  year      = 2012,
+  pages     = {14},
+}
+
+@article{DBLP:journals/tomacs/SaltzmanDLH12,
+  author    = {Evan A. Saltzman and
+               John H. Drew and
+               Lawrence M. Leemis and
+               Shane G. Henderson},
+  title     = {Simulating Multivariate Nonhomogeneous Poisson Processes Using Projections},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {3},
+  year      = 2012,
+  pages     = {15},
+}
+
+@article{DBLP:journals/tomacs/WaeberFH12,
+  author    = {Rolf Waeber and
+               Peter Frazier and
+               Shane G. Henderson},
+  title     = {A Framework for Selecting a Selection Procedure},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {3},
+  year      = 2012,
+  pages     = {16},
+}
+
+@article{DBLP:journals/tomacs/NgY12,
+  author    = {Szu Hui Ng and
+               Jun Yin},
+  title     = {Bayesian Kriging Analysis and Design for Stochastic Simulations},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {3},
+  year      = 2012,
+  pages     = {17},
+}
+
 @article{DBLP:journals/tomacs/PowellBBBG11,
   author    = {Warren B. Powell and
-               Belgacem Bouza{\"\i}ene-Ayari and
+               Belgacem Bouzaïene-Ayari and
                Jean Berger and
                Abdeslem Boukhtouta and
                Abraham P. George},
@@ -192,7 +252,7 @@
 
 @article{DBLP:journals/tomacs/AmreinK11,
   author    = {Michael Amrein and
-               Hans R. K{\"u}nsch},
+               Hans R. Künsch},
   title     = {A variant of importance splitting for rare event estimation: Fixed number of successes},
   journal   = tomacs,
   volume    = {21},
@@ -306,7 +366,7 @@
 }
 
 @article{DBLP:journals/tomacs/GunalP11,
-  author    = {Murat M. G{\"u}nal and
+  author    = {Murat M. Günal and
                Michael Pidd},
   title     = {DGHPSIM: : Generic simulation of hospital performance},
   journal   = tomacs,
@@ -368,7 +428,7 @@
   author    = {Sylvain Housseman and
                Nabil Absi and
                Dominique Feillet and
-               St{\'e}phane Dauz{\`e}re-P{\'e}r{\`e}s},
+               Stéphane Dauzère-Pérès},
   title     = {Impacts of radio-identification on cryo-conservation centers},
   journal   = tomacs,
   volume    = {21},
@@ -392,7 +452,7 @@
 @article{DBLP:journals/tomacs/AndrewQV10,
   author    = {Lachlan L. H. Andrew and
                Guoqi Qian and
-               Felisa J. V{\'a}zquez-Abad},
+               Felisa J. Vázquez-Abad},
   title     = {Setwise and filtered gibbs samplers for teletraffic analysis},
   journal   = tomacs,
   volume    = {20},
@@ -412,7 +472,7 @@
 
 @article{DBLP:journals/tomacs/ChickY10,
   author    = {Stephen E. Chick and
-               Enver Y{\"u}cesan},
+               Enver Yücesan},
   title     = {Guest editors' introduction to special issue on the first {INFORMS} simulation society research workshop},
   journal   = tomacs,
   volume    = {20},
@@ -435,7 +495,7 @@
 
 @article{DBLP:journals/tomacs/HeidergottVPF10,
   author    = {Bernd Heidergott and
-               Felisa J. V{\'a}zquez-Abad and
+               Felisa J. Vázquez-Abad and
                Georg Ch. Pflug and
                Taoying Farenhorst-Yuan},
   title     = {Gradient estimation for discrete-event systems by measure-valued differentiation},
@@ -658,7 +718,7 @@
 
 @article{DBLP:journals/tomacs/DerflingerHL10,
   author    = {Gerhard Derflinger and
-               Wolfgang H{\"o}rmann and
+               Wolfgang Hörmann and
                Josef Leydold},
   title     = {Random variate generation by numerical inversion when only the density is known},
   journal   = tomacs,
@@ -746,8 +806,8 @@
 }
 
 @article{DBLP:journals/tomacs/BrandaoN09,
-  author    = {Rita Marques Brand{\~a}o and
-               Ac{\'a}cio M. O. Porta Nova},
+  author    = {Rita Marques Brandão and
+               Acácio M. O. Porta Nova},
   title     = {Analysis of nonstationary stochastic simulations using classical time-series models},
   journal   = tomacs,
   volume    = {19},
@@ -818,7 +878,7 @@
 
 @article{DBLP:journals/tomacs/HeidergottV09,
   author    = {Bernd Heidergott and
-               Felisa J. V{\'a}zquez-Abad},
+               Felisa J. Vázquez-Abad},
   title     = {Gradient estimation for a class of systems with bulk services: A problem in public transportation},
   journal   = tomacs,
   volume    = {19},
@@ -1067,9 +1127,9 @@
 }
 
 @article{DBLP:journals/tomacs/TopcuAO08,
-  author    = {Okan Top{\c{c}}u and
+  author    = {Okan Topçu and
                Mehmet Adak and
-               Halit Oguzt{\"u}z{\"u}n},
+               Halit Oguztüzün},
   title     = {A metamodel for federation architectures},
   journal   = tomacs,
   volume    = {18},
@@ -1078,7 +1138,7 @@
 }
 
 @article{DBLP:journals/tomacs/AndradottirGGHJ07,
-  author    = {Sigr{\'u}n Andrad{\'o}ttir and
+  author    = {Sigrún Andradóttir and
                Paul Glasserman and
                Peter W. Glynn and
                Philip Heidelberger and
@@ -1149,7 +1209,7 @@
 }
 
 @article{DBLP:journals/tomacs/HernandezPA07,
-  author    = {Jos{\'e} Alberto Hern{\'a}ndez and
+  author    = {José Alberto Hernández and
                Iain W. Phillips and
                Javier Aracil},
   title     = {Discrete-time heavy-tailed chains, and their properties in modeling network traffic},
@@ -1170,7 +1230,7 @@
 }
 
 @article{DBLP:journals/tomacs/HormannLD07,
-  author    = {Wolfgang H{\"o}rmann and
+  author    = {Wolfgang Hörmann and
                Josef Leydold and
                Gerhard Derflinger},
   title     = {Inverse transformed density rejection for unbounded monotone densities},
@@ -1214,7 +1274,7 @@
 
 @article{DBLP:journals/tomacs/LEcuyerDT07,
   author    = {Pierre L'Ecuyer and
-               Val{\'e}rie Demers and
+               Valérie Demers and
                Bruno Tuffin},
   title     = {Rare events, splitting, and {quasi-Monte} Carlo},
   journal   = tomacs,
@@ -1259,8 +1319,8 @@
 
 @article{DBLP:journals/tomacs/McCoyWMD07,
   author    = {Aaron McCoy and
-               Tom{\'a}s Ward and
-               S{\'e}amus McLoone and
+               Tomás Ward and
+               Séamus McLoone and
                Declan Delaney},
   title     = {Multistep-ahead neural-network predictors for network traffic reduction in distributed interactive applications},
   journal   = tomacs,
@@ -1446,8 +1506,8 @@
 }
 
 @article{DBLP:journals/tomacs/Villen-AltamiranoV06,
-  author    = {Manuel Vill{\'e}n-Altamirano and
-               Jos{\'e} Vill{\'e}n-Altamirano},
+  author    = {Manuel Villén-Altamirano and
+               José Villén-Altamirano},
   title     = {On the efficiency of {RESTART} for multidimensional state systems},
   journal   = tomacs,
   volume    = {16},
@@ -1470,7 +1530,7 @@
 
 @article{DBLP:journals/tomacs/AlexopoulosAAG06,
   author    = {Christos Alexopoulos and
-               Sigr{\'u}n Andrad{\'o}ttir and
+               Sigrún Andradóttir and
                Nilay Tanik Argon and
                David Goldsman},
   title     = {Replicated batch means variance estimators in the presence of an initial transient},
@@ -1495,7 +1555,7 @@
 }
 
 @article{DBLP:journals/tomacs/Andradottir06,
-  author    = {Sigr{\'u}n Andrad{\'o}ttir},
+  author    = {Sigrún Andradóttir},
   title     = {Simulation optimization with countably infinite feasible regions: Efficiency and convergence},
   journal   = tomacs,
   volume    = {16},
@@ -1667,7 +1727,7 @@
 }
 
 @article{DBLP:journals/tomacs/PannetonL05,
-  author    = {Fran{\c{c}}ois Panneton and
+  author    = {François Panneton and
                Pierre L'Ecuyer},
   title     = {On the xorshift random number generators},
   journal   = tomacs,
@@ -1775,7 +1835,7 @@
 
 @article{DBLP:journals/tomacs/WalshS04,
   author    = {Kevin Walsh and
-               Emin G{\"u}n Sirer},
+               Emin Gün Sirer},
   title     = {Staged simulation: A general technique for improving simulation scale and performance},
   journal   = tomacs,
   volume    = {14},
@@ -1927,7 +1987,7 @@
 }
 
 @article{DBLP:journals/tomacs/LedecziDNA03,
-  author    = {{\'A}kos L{\'e}deczi and
+  author    = {Ákos Lédeczi and
                James Davis and
                Sandeep Neema and
                Aditya Agrawal},
@@ -1963,7 +2023,7 @@
 @article{DBLP:journals/tomacs/SwisherJY03,
   author    = {James R. Swisher and
                Sheldon H. Jacobson and
-               Enver Y{\"u}cesan},
+               Enver Yücesan},
   title     = {Discrete-event simulation optimization using ranking, selection, and multiple comparison procedures: A survey},
   journal   = tomacs,
   volume    = {13},
@@ -2083,7 +2143,7 @@
 }
 
 @article{DBLP:journals/tomacs/SeznecS03,
-  author    = {Andr{\'e} Seznec and
+  author    = {André Seznec and
                Nicolas Sendrier},
   title     = {HAVEGE: A user-level software heuristic for generating empirically strong random numbers},
   journal   = tomacs,
@@ -2094,7 +2154,7 @@
 }
 
 @article{DBLP:journals/tomacs/HormannL03,
-  author    = {Wolfgang H{\"o}rmann and
+  author    = {Wolfgang Hörmann and
                Josef Leydold},
   title     = {Continuous random variate generation by fast numerical inversion},
   journal   = tomacs,
@@ -2136,7 +2196,7 @@
 }
 
 @article{DBLP:journals/tomacs/Vazquez-abadAE02,
-  author    = {Felisa J. V{\'a}zquez-Abad and
+  author    = {Felisa J. Vázquez-Abad and
                Lachlan L. H. Andrew and
                David Everitt},
   title     = {Estimation of blocking probabilities in cellular networks with dynamic channel assignment},
@@ -2148,7 +2208,7 @@
 }
 
 @article{DBLP:journals/tomacs/HormannD02,
-  author    = {Wolfgang H{\"o}rmann and
+  author    = {Wolfgang Hörmann and
                Gerhard Derflinger},
   title     = {Fast generation of order statistics},
   journal   = tomacs,
@@ -2249,7 +2309,7 @@
 
 @article{DBLP:journals/tomacs/AtkinsonK02,
   author    = {Colin Atkinson and
-               Thomas K{\"u}hne},
+               Thomas Kühne},
   title     = {Rearchitecting the {UML} infrastructure},
   journal   = tomacs,
   volume    = {12},
@@ -2396,7 +2456,7 @@
 }
 
 @article{DBLP:journals/tomacs/GallardoMO01,
-  author    = {Jos{\'e} R. Gallardo and
+  author    = {José R. Gallardo and
                Dimitrios Makrakis and
                Luis Orozco-Barbosa},
   title     = {Fast simulation of broadband telecommunications networks carrying long-range dependent bursty traffic},
@@ -2488,7 +2548,7 @@
 
 @article{DBLP:journals/tomacs/KapadiaFL00,
   author    = {Nirav H. Kapadia and
-               Jos{\'e} A. B. Fortes and
+               José A. B. Fortes and
                Mark S. Lundstrom},
   title     = {The Purdue University network-computing hubs: running unmodified simulation tools via the {WWW}},
   journal   = tomacs,
@@ -2535,11 +2595,11 @@
 }
 
 @article{DBLP:journals/tomacs/Lopez-ArdaoLSFR00,
-  author    = {Jos{\'e} C. L{\'o}pez-Ardao and
-               C{\'a}ndido L{\'o}pez-Garc{\'\i}a and
-               Andr{\'e}s Su{\'a}rez-Gonz{\'a}lez and
-               Manuel Fern{\'a}ndez-Veiga and
-               Ra{\'u}l Fernando Rodr{\'\i}guez Rubio},
+  author    = {José C. López-Ardao and
+               Cándido López-García and
+               Andrés Suárez-González and
+               Manuel Fernández-Veiga and
+               Raúl Fernando Rodríguez Rubio},
   title     = {On the use of self-similar processes in network simulation},
   journal   = tomacs,
   volume    = {10},
@@ -2801,7 +2861,7 @@
 @article{DBLP:journals/tomacs/ChoquetLL99,
   author    = {Denis Choquet and
                Pierre L'Ecuyer and
-               Christian L{\'e}ger},
+               Christian Léger},
   title     = {Bootstrap confidence intervals for ratios of expectations},
   journal   = tomacs,
   volume    = {9},
@@ -2811,7 +2871,7 @@
 }
 
 @article{DBLP:journals/tomacs/Andradottir99,
-  author    = {Sigr{\'u}n Andrad{\'o}ttir},
+  author    = {Sigrún Andradóttir},
   title     = {Accelerating the convergence of random search methods for discrete stochastic optimization},
   journal   = tomacs,
   volume    = {9},
@@ -2993,7 +3053,7 @@
 }
 
 @article{DBLP:journals/tomacs/FrolundG98,
-  author    = {Svend Fr{\o}lund and
+  author    = {Svend Frølund and
                Pankaj K. Garg},
   title     = {{Design-Time} Simulation of a Large-Scale, Distributed Object System},
   journal   = tomacs,
@@ -3099,7 +3159,7 @@
 }
 
 @article{DBLP:journals/tomacs/RonngrenA97,
-  author    = {Robert R{\"o}nngren and
+  author    = {Robert Rönngren and
                Rassul Ayani},
   title     = {A Comparative Study of Parallel and Sequential Priority Queue Algorithms},
   journal   = tomacs,
@@ -3266,7 +3326,7 @@
 }
 
 @article{DBLP:journals/tomacs/YucesanJ96,
-  author    = {Enver Y{\"u}cesan and
+  author    = {Enver Yücesan and
                Sheldon H. Jacobson},
   title     = {Computational Issues for Accessibility in Discrete Event Simulation},
   journal   = tomacs,
@@ -3322,7 +3382,7 @@
 }
 
 @article{DBLP:journals/tomacs/HormannD96,
-  author    = {Wolfgang H{\"o}rmann and
+  author    = {Wolfgang Hörmann and
                Gerhard Derflinger},
   title     = {{Rejection-Inversion} to Generate Variates from Monotone Discrete Distributions},
   journal   = tomacs,
@@ -3465,7 +3525,7 @@
 @article{DBLP:journals/tomacs/WagnerW95,
   author    = {Mary Ann Flanigan Wagner and
                James R. Wilson},
-  title     = {Graphical Interactive Simulation Input Modeling with Bivariate B{\'e}zier Distributions},
+  title     = {Graphical Interactive Simulation Input Modeling with Bivariate Bézier Distributions},
   journal   = tomacs,
   volume    = {5},
   number    = {3},
@@ -3510,7 +3570,7 @@
 }
 
 @article{DBLP:journals/tomacs/AndradottirO95,
-  author    = {Sigr{\'u}n Andrad{\'o}ttir and
+  author    = {Sigrún Andradóttir and
                Teunis J. Ott},
   title     = {{Time-Segmentation} Parallel Simulation of Networks of Queues with Loss or Communication Blocking},
   journal   = tomacs,
@@ -3565,7 +3625,7 @@
 }
 
 @article{DBLP:journals/tomacs/Eichenauer-HerrmannN94,
-  author    = {J{\"u}rgen Eichenauer-Herrmann and
+  author    = {Jürgen Eichenauer-Herrmann and
                Harald Niederreiter},
   title     = {On the Statistical Independence of Nonlinear Congruential Pseudorandom Numbers},
   journal   = tomacs,
@@ -3576,7 +3636,7 @@
 }
 
 @article{DBLP:journals/tomacs/Hormann94,
-  author    = {Wolfgang H{\"o}rmann},
+  author    = {Wolfgang Hörmann},
   title     = {A Note on the Quality of Random Variates Generated by the Ratio of Uniforms Method},
   journal   = tomacs,
   volume    = {4},
@@ -3665,7 +3725,7 @@
 
 @article{DBLP:journals/tomacs/EpsteinS94,
   author    = {Peter Epstein and
-               J{\"o}rg-R{\"u}diger Sack},
+               Jörg-Rüdiger Sack},
   title     = {Generating Triangulations at Random},
   journal   = tomacs,
   volume    = {4},
@@ -3709,7 +3769,7 @@
 }
 
 @article{DBLP:journals/tomacs/Eichenauer-HerrmannN94a,
-  author    = {J{\"u}rgen Eichenauer-Herrmann and
+  author    = {Jürgen Eichenauer-Herrmann and
                Harald Niederreiter},
   title     = {Digital Inversive Pseudorandom Numbers},
   journal   = tomacs,
@@ -3742,7 +3802,7 @@
 }
 
 @article{DBLP:journals/tomacs/BaccelliC93,
-  author    = {Fran{\c{c}}ois Baccelli and
+  author    = {François Baccelli and
                Miguel Canales},
   title     = {Parallel Simulation of Stochastic Petri Nets Using Recurrence Equations},
   journal   = tomacs,
@@ -3776,7 +3836,7 @@
 
 @article{DBLP:journals/tomacs/LEcuyerBC93,
   author    = {Pierre L'Ecuyer and
-               Fran{\c{c}}ois Blouin and
+               François Blouin and
                Raymond Couture},
   title     = {A Search for Good Multiple Recursive Random Number Generators},
   journal   = tomacs,
@@ -3807,7 +3867,7 @@
 }
 
 @article{DBLP:journals/tomacs/BremaudG93,
-  author    = {Pierre Br{\'e}maud and
+  author    = {Pierre Brémaud and
                W.-B. Gong},
   title     = {Derivatives of Likelihood Ratios and Smoothed Perturbation Analysis for the Routing Problem},
   journal   = tomacs,
@@ -3818,7 +3878,7 @@
 }
 
 @article{DBLP:journals/tomacs/AndradottirHO93,
-  author    = {Sigr{\'u}n Andrad{\'o}ttir and
+  author    = {Sigrún Andradóttir and
                Daniel P. Heyman and
                Teunis J. Ott},
   title     = {Variance Reduction Through Smoothing and Control Variates for Markov Chain Simulations},
@@ -3943,7 +4003,7 @@
 }
 
 @article{DBLP:journals/tomacs/Eichenauer-HerrmannG92,
-  author    = {J{\"u}rgen Eichenauer-Herrmann and
+  author    = {Jürgen Eichenauer-Herrmann and
                Holger Grothe},
   title     = {A New Inversive Congruential Pseudorandom Number Generator with Power of Two Modulus},
   journal   = tomacs,
@@ -3976,7 +4036,7 @@
 }
 
 @article{DBLP:journals/tomacs/YucesanS92,
-  author    = {Enver Y{\"u}cesan and
+  author    = {Enver Yücesan and
                Lee Schruben},
   title     = {Structural and Behavioral Equivalence of Simulation Models},
   journal   = tomacs,
@@ -3998,7 +4058,7 @@
 }
 
 @article{DBLP:journals/tomacs/AsmussenGT92,
-  author    = {S{\o}ren Asmussen and
+  author    = {Søren Asmussen and
                Peter W. Glynn and
                Hermann Thorisson},
   title     = {Stationarity Detection in the Initial Transient Problem},
@@ -4235,7 +4295,7 @@
 }
 
 @article{DBLP:journals/tomacs/SouleG91,
-  author    = {Larry Soul{\'e} and
+  author    = {Larry Soulé and
                Anoop Gupta},
   title     = {An Evaluation of the {Chandy-Misra-Bryant} Algorithm for Digital Logic Simulation},
   journal   = tomacs,

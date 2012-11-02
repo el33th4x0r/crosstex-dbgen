@@ -47,7 +47,7 @@
 
 @inproceedings{DBLP:conf/osdi/FordLPSTBGQ10,
   author    = {Daniel Ford and
-               Fran{\c{c}}ois Labelle and
+               François Labelle and
                Florentina I. Popovici and
                Murray Stokely and
                Van-Anh Truong and
@@ -378,7 +378,7 @@
                Michael Isard and
                Dennis Fetterly and
                Mihai Budiu and
-               {\'U}lfar Erlingsson and
+               Úlfar Erlingsson and
                Pradeep Kumar Gunda and
                Jon Currey},
   title     = {DryadLINQ: A System for {General-Purpose} Distributed {Data-Parallel} Computing Using a {High-Level} Language},
@@ -573,7 +573,7 @@
   author    = {Dan Williams and
                Patrick Reynolds and
                Kevin Walsh and
-               Emin G{\"u}n Sirer and
+               Emin Gün Sirer and
                Fred B. Schneider},
   title     = {Device Driver Safety Through a Reference Validation Mechanism},
   booktitle = osdi,
@@ -596,7 +596,7 @@
   author    = {Madanlal Musuvathi and
                Shaz Qadeer and
                Thomas Ball and
-               G{\'e}rard Basler and
+               Gérard Basler and
                Piramanayagam Arumuga Nainar and
                Iulian Neamtiu},
   title     = {Finding and Reproducing Heisenbugs in Concurrent Programs},
@@ -609,7 +609,7 @@
   author    = {Yin Wang and
                Terence Kelly and
                Manjunath Kudlur and
-               St{\'e}phane Lafortune and
+               Stéphane Lafortune and
                Scott A. Mahlke},
   title     = {Gadara: Dynamic Deadlock Avoidance for Multithreaded Programs},
   booktitle = osdi,
@@ -747,8 +747,8 @@
 }
 
 @inproceedings{DBLP:conf/osdi/ErlingssonAVBN06,
-  author    = {{\'U}lfar Erlingsson and
-               Mart{\'\i}n Abadi and
+  author    = {Úlfar Erlingsson and
+               Martín Abadi and
                Michael Vrable and
                Mihai Budiu and
                George C. Necula},
@@ -911,7 +911,7 @@
   author    = {Nickolai Zeldovich and
                Silas Boyd-Wickizer and
                Eddie Kohler and
-               David Mazi{\`e}res},
+               David Mazières},
   title     = {Making Information Flow Explicit in {HiStar}},
   booktitle = osdi,
   year      = 2006,
@@ -1018,7 +1018,7 @@
   author    = {Joshua LeVasseur and
                Volkmar Uhlig and
                Jan Stoess and
-               Stefan G{\"o}tz},
+               Stefan Götz},
   title     = {Unmodified Device Driver Reuse and Improved System Dependability via Virtual Machines},
   booktitle = osdi,
   year      = 2004,
@@ -1050,7 +1050,7 @@
 
 @inproceedings{DBLP:conf/osdi/NagarajaOBMN04,
   author    = {Kiran Nagaraja and
-               F{\'a}bio Oliveira and
+               Fábio Oliveira and
                Ricardo Bianchini and
                Richard P. Martin and
                Thu D. Nguyen},
@@ -1094,7 +1094,7 @@
 @inproceedings{DBLP:conf/osdi/LiKMS04,
   author    = {Jinyuan Li and
                Maxwell N. Krohn and
-               David Mazi{\`e}res and
+               David Mazières and
                Dennis Shasha},
   title     = {Secure Untrusted Data Repository (SUNDR)},
   booktitle = osdi,
@@ -1175,7 +1175,7 @@
 @inproceedings{DBLP:conf/osdi/CohenCGKS04,
   author    = {Ira Cohen and
                Jeffrey S. Chase and
-               Mois{\'e}s Goldszmidt and
+               Moisés Goldszmidt and
                Terence Kelly and
                Julie Symons},
   title     = {Correlating Instrumentation Data to System States: A Building Block for Automated Diagnosis and Control},
@@ -1361,7 +1361,7 @@
 }
 
 @inproceedings{DBLP:conf/osdi/FlautnerM02,
-  author    = {Kriszti{\'a}n Flautner and
+  author    = {Krisztián Flautner and
                Trevor N. Mudge},
   title     = {Vertigo: Automatic {Performance-Setting} for Linux},
   booktitle = osdi,
@@ -1547,7 +1547,7 @@
 
 @inproceedings{DBLP:conf/osdi/WeisselBB02,
   author    = {Andreas Weissel and
-               Bj{\'o}rn Beutel and
+               Bjórn Beutel and
                Frank Bellosa},
   title     = {Cooperative I/O: A Novel I/O Semantics for {Energy-Aware} Applications},
   booktitle = osdi,
@@ -1590,8 +1590,8 @@
 }
 
 @inproceedings{DBLP:conf/osdi/MerillonRCMM00,
-  author    = {Fabrice M{\'e}rillon and
-               Laurent R{\'e}veill{\`e}re and
+  author    = {Fabrice Mérillon and
+               Laurent Réveillère and
                Charles Consel and
                Renaud Marlet and
                Gilles Muller},
@@ -1622,9 +1622,9 @@
 }
 
 @inproceedings{DBLP:conf/osdi/CorbalanML00,
-  author    = {Julita Corbal{\'a}n and
+  author    = {Julita Corbalán and
                Xavier Martorell and
-               Jes{\'u}s Labarta},
+               Jesús Labarta},
   title     = {{Performance-Driven} Processor Allocation},
   booktitle = osdi,
   year      = 2000,
@@ -1712,7 +1712,7 @@
 @inproceedings{DBLP:conf/osdi/FuKM00,
   author    = {Kevin Fu and
                M. Frans Kaashoek and
-               David Mazi{\`e}res},
+               David Mazières},
   title     = {Fast and Secure Distributed {Read-Only} File System},
   booktitle = osdi,
   year      = 2000,
@@ -2017,7 +2017,7 @@
 }
 
 @inproceedings{DBLP:conf/osdi/GronvallWP99,
-  author    = {Bj{\"o}rn Gr{\"o}nvall and
+  author    = {Björn Grönvall and
                Assar Westerlund and
                Stephen Pink},
   title     = {The Design of a {Multicast-Based} Distributed File System},
@@ -2238,7 +2238,7 @@
 }
 
 @inproceedings{DBLP:conf/osdi/BrustoloniS96,
-  author    = {Jos{\'e} Carlos Brustoloni and
+  author    = {José Carlos Brustoloni and
                Peter Steenkiste},
   title     = {Effects of Buffering Semantics on I/O Performance},
   booktitle = osdi,
@@ -2268,7 +2268,7 @@
 
 @inproceedings{DBLP:conf/osdi/DouglisCKLMT94,
   author    = {Fred Douglis and
-               Ram{\'o}n C{\'a}ceres and
+               Ramón Cáceres and
                M. Frans Kaashoek and
                Kai Li and
                Brian Marsh and

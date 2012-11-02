@@ -13,16 +13,41 @@
   pages     = {1-3},
 }
 
+@article{DBLP:journals/sigops/DolzFIMQ12,
+  author    = {Manuel F. Dolz and
+               Juan Carlos Fernández and
+               Sergio Iserte and
+               Rafael Mayo and
+               Enrique S. Quintana-Ortí},
+  title     = {A simulator to assess energy saving strategies and policies in {HPC} workloads},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {2-9},
+}
+
 @article{DBLP:journals/sigops/TatemuraPH12,
   author    = {Jun'ichi Tatemura and
                Oliver Po and
-               Hakan Hacig{\"u}m{\"u}s},
+               Hakan Hacigümüs},
   title     = {Microsharding: a declarative approach to support elastic {OLTP} workloads},
   journal   = osr,
   volume    = {46},
   number    = {1},
   year      = 2012,
   pages     = {4-11},
+}
+
+@article{DBLP:journals/sigops/OliveiraL12,
+  author    = {Frederico Alvares de Oliveira Jr. and
+               Thomas Ledoux},
+  title     = {Self-management of cloud applications and infrastructure for energy optimization},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {10-18},
 }
 
 @article{DBLP:journals/sigops/RusuD12,
@@ -48,6 +73,18 @@
   pages     = {19-25},
 }
 
+@article{DBLP:journals/sigops/TakounaDM12,
+  author    = {Ibrahim Takouna and
+               Wesam Dawoud and
+               Christoph Meinel},
+  title     = {Energy efficient scheduling of {HPC-jobs} on virtualize clusters using host and {VM} dynamic configuration},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {19-27},
+}
+
 @article{DBLP:journals/sigops/WolfBRHKPWV12,
   author    = {Joel L. Wolf and
                Andrey Balmin and
@@ -65,6 +102,18 @@
   pages     = {26-32},
 }
 
+@article{DBLP:journals/sigops/KamgaTB12,
+  author    = {Christine Mayap Kamga and
+               Giang Son Tran and
+               Laurent Broto},
+  title     = {Extended scheduler for efficient frequency scaling in virtualized systems},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {28-35},
+}
+
 @article{DBLP:journals/sigops/SenF12,
   author    = {Siddhartha Sen and
                Michael J. Freedman},
@@ -74,6 +123,17 @@
   number    = {1},
   year      = 2012,
   pages     = {33-39},
+}
+
+@article{DBLP:journals/sigops/BoutiK12,
+  author    = {Adil Bouti and
+               Jörg Keller},
+  title     = {Securing cloud-based computations against malicious providers},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {38-42},
 }
 
 @article{DBLP:journals/sigops/LadenMV12,
@@ -86,6 +146,22 @@
   number    = {1},
   year      = 2012,
   pages     = {40-46},
+}
+
+@article{DBLP:journals/sigops/BessaniKPRGKC12,
+  author    = {Alysson Neves Bessani and
+               Rüdiger Kapitza and
+               Dana Petcu and
+               Paolo Romano and
+               Spyridon V. Gogouvitis and
+               Dimosthenis Kyriazis and
+               Roberto G. Cascella},
+  title     = {A look to the old-world_sky: {EU-funded} dependability cloud computing research},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {43-56},
 }
 
 @article{DBLP:journals/sigops/MalkhiBDPW12,
@@ -103,7 +179,7 @@
 }
 
 @article{DBLP:journals/sigops/FrohlichBLPSB12,
-  author    = {Antonio Augusto Fr{\"o}hlich and
+  author    = {Antonio Augusto Fröhlich and
                Leandro Buss Becker and
                George Lima and
                Stefan Petters and
@@ -130,17 +206,39 @@
   pages     = {53-63},
 }
 
+@article{DBLP:journals/sigops/Baset12,
+  author    = {Salman Abdul Baset},
+  title     = {Cloud SLAs: present and future},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {57-66},
+}
+
 @article{DBLP:journals/sigops/MuckFGS12,
-  author    = {Tiago Rog{\'e}rio M{\"u}ck and
-               Ant{\^o}nio Augusto Fr{\"o}hlich and
+  author    = {Tiago Rogério Mück and
+               Antônio Augusto Fröhlich and
                Michael Gernoth and
-               Wolfgang Schr{\"o}der-Preikschat},
+               Wolfgang Schröder-Preikschat},
   title     = {Implementing {OS} components in hardware using {AOP}},
   journal   = osr,
   volume    = {46},
   number    = {1},
   year      = 2012,
   pages     = {64-72},
+}
+
+@article{DBLP:journals/sigops/OliveiraRF12,
+  author    = {Augusto Born de Oliveira and
+               Ahmad Saif Ur Rehman and
+               Sebastian Fischmeister},
+  title     = {mTags: augmenting microkernel messages with lightweight metadata},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {67-79},
 }
 
 @article{DBLP:journals/sigops/WehrmeisterPC12,
@@ -155,8 +253,23 @@
   pages     = {73-81},
 }
 
+@article{DBLP:journals/sigops/AvivMOSXL12,
+  author    = {Adam J. Aviv and
+               Vin Mannino and
+               Thanat Owlarn and
+               Seth Shannin and
+               Kevin Xu and
+               Boon Thau Loo},
+  title     = {Experiences in teaching an educational user-level operating systems implementation project},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {80-86},
+}
+
 @article{DBLP:journals/sigops/NassiffeCL12,
-  author    = {R{\'\i}ad Nassiffe and
+  author    = {Ríad Nassiffe and
                Eduardo Camponogara and
                George Lima},
   title     = {Optimizing quality of service in real-time systems under energy constraints},
@@ -165,6 +278,17 @@
   number    = {1},
   year      = 2012,
   pages     = {82-92},
+}
+
+@article{DBLP:journals/sigops/CouceiroR12,
+  author    = {Maria Couceiro and
+               Paolo Romano},
+  title     = {Where does transactional memory research stand and what challenges lie ahead?: {WTM} 2012, {EuroTM} workshop on transactional memory},
+  journal   = osr,
+  volume    = {46},
+  number    = {2},
+  year      = 2012,
+  pages     = {87-92},
 }
 
 @article{DBLP:journals/sigops/HaydenN12,
@@ -191,7 +315,7 @@
 @article{DBLP:journals/sigops/EideMSS11,
   author    = {Eric Eide and
                Gilles Muller and
-               Wolfgang Schr{\"o}der-Preikschat and
+               Wolfgang Schröder-Preikschat and
                Olaf Spinczyk},
   title     = {Summary of {PLOS} 2011: the sixth workshop on programming languages and operating systems},
   journal   = osr,
@@ -283,7 +407,7 @@
 
 @article{DBLP:journals/sigops/GidraTSS11,
   author    = {Lokesh Gidra and
-               Ga{\"e}l Thomas and
+               Gaël Thomas and
                Julien Sopena and
                Marc Shapiro},
   title     = {Assessing the scalability of garbage collectors on many cores},
@@ -295,7 +419,7 @@
 }
 
 @article{DBLP:journals/sigops/Bodik11,
-  author    = {Peter Bod{\'\i}k},
+  author    = {Peter Bodík},
   title     = {Overview of the workshop on managing large-scale systems via the analysis of system logs and the application of machine learning techniques},
   journal   = osr,
   volume    = {45},
@@ -451,7 +575,7 @@
 }
 
 @article{DBLP:journals/sigops/SchiperMS11,
-  author    = {Andr{\'e} Schiper and
+  author    = {André Schiper and
                Zarko Milosevic and
                Omid Shahmirzadi},
   title     = {Student mini-kernel project based on an {FPGA} board},
@@ -475,10 +599,10 @@
 }
 
 @article{DBLP:journals/sigops/HonigEKS11,
-  author    = {Timo H{\"o}nig and
+  author    = {Timo Hönig and
                Christopher Eibel and
-               R{\"u}diger Kapitza and
-               Wolfgang Schr{\"o}der-Preikschat},
+               Rüdiger Kapitza and
+               Wolfgang Schröder-Preikschat},
   title     = {SEEP: exploiting symbolic execution for energy-aware programming},
   journal   = osr,
   volume    = {45},
@@ -513,7 +637,7 @@
 @article{DBLP:journals/sigops/JavedHCPSV11,
   author    = {Umar Javed and
                Dongsu Han and
-               Ram{\'o}n C{\'a}ceres and
+               Ramón Cáceres and
                Jeffrey Pang and
                Srinivasan Seshan and
                Alexander Varshavsky},
@@ -550,7 +674,7 @@
 }
 
 @article{DBLP:journals/sigops/Lagar-CavillaJVBP11,
-  author    = {H. Andr{\'e}s Lagar-Cavilla and
+  author    = {H. Andrés Lagar-Cavilla and
                Kaustubh R. Joshi and
                Alexander Varshavsky and
                Jeffrey Bickford and
@@ -663,7 +787,7 @@
 @article{DBLP:journals/sigops/SilvaBP11,
   author    = {Dilma da Silva and
                Luciano Barreto and
-               Paulo C{\'e}sar A. Pereira},
+               Paulo César A. Pereira},
   title     = {{VII} Brazilian workshop on operating systems},
   journal   = osr,
   volume    = {45},
@@ -720,9 +844,9 @@
 
 @article{DBLP:journals/sigops/RomanoRCC10,
   author    = {Paolo Romano and
-               Lu{\'\i}s Rodrigues and
+               Luís Rodrigues and
                Nuno Carvalho and
-               Jo{\~a}o P. Cachopo},
+               João P. Cachopo},
   title     = {Cloud-TM: harnessing the cloud with distributed transactional memories},
   journal   = osr,
   volume    = {44},
@@ -849,7 +973,7 @@
 @article{DBLP:journals/sigops/BoutcherC10,
   author    = {David Boutcher and
                Abhishek Chandra},
-  title     = {Does virtualization make disk scheduling pass{\'e}?},
+  title     = {Does virtualization make disk scheduling passé?},
   journal   = osr,
   volume    = {44},
   number    = {1},
@@ -908,7 +1032,7 @@
 
 @article{DBLP:journals/sigops/LetiaPS10,
   author    = {Mihai Letia and
-               Nuno M. Pregui{\c{c}}a and
+               Nuno M. Preguiça and
                Marc Shapiro},
   title     = {Consistency without concurrency control in large, dynamic systems},
   journal   = osr,
@@ -969,7 +1093,7 @@
 
 @article{DBLP:journals/sigops/BouchenakR10,
   author    = {Sara Bouchenak and
-               {\'E}ric Rutten},
+               Éric Rutten},
   title     = {Summary of the 5th international workshop on feedback control implementation and design in computing systems and networks ({FeBID} 2010)},
   journal   = osr,
   volume    = {44},
@@ -1036,7 +1160,7 @@
 }
 
 @article{DBLP:journals/sigops/GoldszmidtBZP10,
-  author    = {Mois{\'e}s Goldszmidt and
+  author    = {Moisés Goldszmidt and
                Mihai Budiu and
                Yue Zhang and
                Michael Pechuk},
@@ -1377,7 +1501,7 @@
 }
 
 @article{DBLP:journals/sigops/GoisB10,
-  author    = {Lourival A. de G{\'o}is and
+  author    = {Lourival A. de Góis and
                Walter da Cunha Borelli},
   title     = {Optimization of procedures for discovery and information of idle resources in distributed systems},
   journal   = osr,
@@ -1401,7 +1525,7 @@
 
 @article{DBLP:journals/sigops/CansadoPM10,
   author    = {Jacinto C. A. Cansado and
-               Jo{\~a}o H. S. Pereira and
+               João H. S. Pereira and
                Edson T. Midorikawa},
   title     = {Considering the frequency dimension into on demand adaptive algorithms},
   journal   = osr,
@@ -1424,7 +1548,7 @@
 }
 
 @article{DBLP:journals/sigops/SchmidtG10,
-  author    = {Ren{\'e} W. Schmidt and
+  author    = {René W. Schmidt and
                Steffen Grarup},
   title     = {vApp: a standards-based container for cloud providers},
   journal   = osr,
@@ -1715,7 +1839,7 @@
 }
 
 @article{DBLP:journals/sigops/DagandBR09,
-  author    = {Pierre-{\'E}variste Dagand and
+  author    = {Pierre-Évariste Dagand and
                Andrew Baumann and
                Timothy Roscoe},
   title     = {Filet-o-fish: practical and dependable domain-specific languages for {OS} development},
@@ -1841,7 +1965,7 @@
 
 @article{DBLP:journals/sigops/ArgolloFFMO09,
   author    = {Eduardo Argollo and
-               Ayose Falc{\'o}n and
+               Ayose Falcón and
                Paolo Faraboschi and
                Matteo Monchiero and
                Daniel Ortega},
@@ -2077,9 +2201,9 @@
 }
 
 @article{DBLP:journals/sigops/MoretoCRSV09,
-  author    = {Miquel Moret{\'o} and
+  author    = {Miquel Moretó and
                Francisco J. Cazorla and
-               Alex Ram{\'\i}rez and
+               Alex Ramírez and
                Rizos Sakellariou and
                Mateo Valero},
   title     = {FlexDCP: a {QoS} framework for {CMP} architectures},
@@ -2122,7 +2246,7 @@
                David Erickson and
                Christos Kozyrakis and
                Jacob Leverich and
-               David Mazi{\`e}res and
+               David Mazières and
                Subhasish Mitra and
                Aravind Narayanan and
                Guru M. Parulkar and
@@ -2274,7 +2398,7 @@
   author    = {Muli Ben-Yehuda and
                Eric Van Hensbergen and
                Marc E. Fiuczynski},
-  title     = {Minding the gap: R{\&}D in the Linux kernel},
+  title     = {Minding the gap: R&D in the Linux kernel},
   journal   = osr,
   volume    = {42},
   number    = {5},
@@ -2480,7 +2604,7 @@
 
 @article{DBLP:journals/sigops/BergerCPSVPSS08,
   author    = {Stefan Berger and
-               Ram{\'o}n C{\'a}ceres and
+               Ramón Cáceres and
                Dimitrios E. Pendarakis and
                Reiner Sailer and
                Enriquillo Valdez and
@@ -2510,7 +2634,7 @@
 @article{DBLP:journals/sigops/CraciunasKR08,
   author    = {Silviu S. Craciunas and
                Christoph M. Kirsch and
-               Harald R{\"o}ck},
+               Harald Röck},
   title     = {I/O resource management through system call scheduling},
   journal   = osr,
   volume    = {42},
@@ -2535,7 +2659,7 @@
 }
 
 @article{DBLP:journals/sigops/OliveiraS08,
-  author    = {R{\^o}mulo Silva de Oliveira and
+  author    = {Rômulo Silva de Oliveira and
                Alexandre Sztajnberg},
   title     = {Brazilian workshop on operating systems},
   journal   = osr,
@@ -2563,7 +2687,7 @@
                Wendy Belluomini and
                K. K. Rao and
                Dan E. Poff and
-               B{\"u}lent Abali},
+               Bülent Abali},
   title     = {Flipstone: managing storage with fail-in-place and deferred maintenance service models},
   journal   = osr,
   volume    = {42},
@@ -2600,7 +2724,7 @@
 }
 
 @article{DBLP:journals/sigops/ColacoOSBG08,
-  author    = {Eduardo M. Cola{\c{c}}o and
+  author    = {Eduardo M. Colaço and
                Marcelo Iury S. Oliveira and
                Alexandro S. Soares and
                Francisco Vilar Brasileiro and
@@ -2642,7 +2766,7 @@
   author    = {Geovani Ricardo Wiedenhoft and
                Lucas Francisco Wanner and
                Giovani Gracioli and
-               Ant{\^o}nio Augusto Fr{\"o}hlich},
+               Antônio Augusto Fröhlich},
   title     = {Power management in the {EPOS} system},
   journal   = osr,
   volume    = {42},
@@ -3044,7 +3168,7 @@
 @article{DBLP:journals/sigops/PayneSCPL07,
   author    = {Bryan D. Payne and
                Reiner Sailer and
-               Ram{\'o}n C{\'a}ceres and
+               Ramón Cáceres and
                Ronald Perez and
                Wenke Lee},
   title     = {A layered approach to simplified access control in virtualized systems},
@@ -3062,7 +3186,7 @@
                Boris Koldehofe and
                Harry C. Li and
                Robbert van Renesse and
-               Gilles Tr{\'e}dan},
+               Gilles Trédan},
   title     = {How robust are gossip-based communication protocols?},
   journal   = osr,
   volume    = {41},
@@ -3111,7 +3235,7 @@
 
 @article{DBLP:journals/sigops/FernandessFM07,
   author    = {Yaacov Fernandess and
-               Antonio Fern{\'a}ndez and
+               Antonio Fernández and
                Maxime Monod},
   title     = {A generic theoretical framework for modeling gossip-based algorithms},
   journal   = osr,
@@ -3164,7 +3288,7 @@
 
 @article{DBLP:journals/sigops/BakhshiBFH07,
   author    = {Rena Bakhshi and
-               Fran{\c{c}}ois Bonnet and
+               François Bonnet and
                Wan Fokkink and
                Boudewijn R. Haverkort},
   title     = {Formal analysis techniques for gossiping protocols},
@@ -3254,7 +3378,7 @@
   author    = {Etienne Riviere and
                Roberto Baldoni and
                Harry C. Li and
-               Jos{\'e} Pereira},
+               José Pereira},
   title     = {Compositional gossip: a conceptual architecture for designing gossip-based applications},
   journal   = osr,
   volume    = {41},
@@ -3299,7 +3423,7 @@
 @article{DBLP:journals/sigops/CostaGJJMMQ07,
   author    = {Paolo Costa and
                Vincent Gramoli and
-               M{\'a}rk Jelasity and
+               Márk Jelasity and
                Gian Paolo Jesi and
                Erwan Le Merrer and
                Alberto Montresor and
@@ -3379,7 +3503,7 @@
 @article{DBLP:journals/sigops/FriedmanGRVV07,
   author    = {Roy Friedman and
                Daniela Gavidia and
-               Lu{\'\i}s Rodrigues and
+               Luís Rodrigues and
                Aline Carneiro Viana and
                Spyros Voulgaris},
   title     = {Gossiping on MANETs: the beauty and the beast},
@@ -3568,7 +3692,7 @@
 }
 
 @article{DBLP:journals/sigops/Sirer06,
-  author    = {Emin G{\"u}n Sirer},
+  author    = {Emin Gün Sirer},
   title     = {Introduction},
   journal   = osr,
   volume    = {40},
@@ -3591,8 +3715,8 @@
 }
 
 @article{DBLP:journals/sigops/BabaogluJKMS06,
-  author    = {{\"O}zalp Babaoglu and
-               M{\'a}rk Jelasity and
+  author    = {Özalp Babaoglu and
+               Márk Jelasity and
                Anne-Marie Kermarrec and
                Alberto Montresor and
                Maarten van Steen},
@@ -3800,11 +3924,11 @@
 @article{DBLP:journals/sigops/ChakravortyMKJTIM06,
   author    = {Sayantan Chakravorty and
                Celso L. Mendes and
-               Laxmikant V. Kal{\'e} and
+               Laxmikant V. Kalé and
                Terry Jones and
                Andrew Tauferner and
                Todd Inglett and
-               Jos{\'e} E. Moreira},
+               José E. Moreira},
   title     = {HPC-Colony: services and interfaces for very large systems},
   journal   = osr,
   volume    = {40},
@@ -3875,7 +3999,7 @@
 
 @article{DBLP:journals/sigops/HalesB06,
   author    = {David Hales and
-               {\"O}zalp Babaoglu},
+               Özalp Babaoglu},
   title     = {Towards automatic social bootstrapping of peer-to-peer protocols},
   journal   = osr,
   volume    = {40},
@@ -3886,7 +4010,7 @@
 
 @article{DBLP:journals/sigops/CorboCP06,
   author    = {Jacomo Corbo and
-               Antoni Calv{\'o}-Armengol and
+               Antoni Calvó-Armengol and
                David C. Parkes},
   title     = {A study of Nash equilibrium in contribution games for peer-to-peer networks},
   journal   = osr,
@@ -3898,7 +4022,7 @@
 
 @article{DBLP:journals/sigops/WongS06,
   author    = {Bernard Wong and
-               Emin G{\"u}n Sirer},
+               Emin Gün Sirer},
   title     = {ClosestNode.com: an open access, scalable, shared geocast service for distributed systems},
   journal   = osr,
   volume    = {40},
@@ -3949,8 +4073,8 @@
 }
 
 @article{DBLP:journals/sigops/OzkasapGA06,
-  author    = {{\"O}znur {\"O}zkasap and
-               Z{\"u}lk{\"u}f Gen{\c{c}} and
+  author    = {Öznur Özkasap and
+               Zülküf Genç and
                Emre Atsan},
   title     = {Epidemic-based approaches for reliable multicast in mobile ad hoc networks},
   journal   = osr,
@@ -4026,7 +4150,7 @@
   author    = {Gilles Muller and
                Yoann Padioleau and
                Julia L. Lawall and
-               Ren{\'e} Rydhof Hansen},
+               René Rydhof Hansen},
   title     = {Semantic patches considered helpful},
   journal   = osr,
   volume    = {40},
@@ -4038,7 +4162,7 @@
 @article{DBLP:journals/sigops/ZhengHK06,
   author    = {Gengbin Zheng and
                Chao Huang and
-               Laxmikant V. Kal{\'e}},
+               Laxmikant V. Kalé},
   title     = {Performance evaluation of automatic checkpoint-based fault tolerance for {AMPI} and Charm++},
   journal   = osr,
   volume    = {40},
@@ -4048,7 +4172,7 @@
 }
 
 @article{DBLP:journals/sigops/ErlingssonM06,
-  author    = {{\'U}lfar Erlingsson and
+  author    = {Úlfar Erlingsson and
                John MacCormick},
   title     = {Ad hoc extensibility and access control},
   journal   = osr,
@@ -4110,7 +4234,7 @@
 
 @article{DBLP:journals/sigops/FreilingV06,
   author    = {Felix C. Freiling and
-               Hagen V{\"o}lzer},
+               Hagen Völzer},
   title     = {Illustrating the impossibility of crash-tolerant consensus in asynchronous systems},
   journal   = osr,
   volume    = {40},
@@ -4240,8 +4364,8 @@
 }
 
 @article{DBLP:journals/sigops/GuerreroC05,
-  author    = {Jorge Herrer{\'\i}as Guerrero and
-               Roberto G{\'o}mez C{\'a}rdenas},
+  author    = {Jorge Herrerías Guerrero and
+               Roberto Gómez Cárdenas},
   title     = {An example of communication between security tools: iptables - snort},
   journal   = osr,
   volume    = {39},
@@ -4283,12 +4407,12 @@
                Alan Fekete and
                Marie-Claude Gaudel and
                Henry F. Korth and
-               Rog{\'e}rio de Lemos and
+               Rogério de Lemos and
                J. Eliot B. Moss and
                Ravi Rajwar and
                Krithi Ramamritham and
                Brian Randell and
-               Lu{\'\i}s Rodrigues},
+               Luís Rodrigues},
   title     = {The atomic manifesto: a story in four quarks},
   journal   = osr,
   volume    = {39},
@@ -4552,7 +4676,7 @@
 }
 
 @article{DBLP:journals/sigops/SerralG04,
-  author    = {Ren{\'e} Serral and
+  author    = {René Serral and
                Marisa Gil},
   title     = {A Linux networking study},
   journal   = osr,
@@ -4605,7 +4729,7 @@
 }
 
 @article{DBLP:journals/sigops/Kuhnhauser04,
-  author    = {Winfried E. K{\"u}hnhauser},
+  author    = {Winfried E. Kühnhauser},
   title     = {Root Kits: an operating systems viewpoint},
   journal   = osr,
   volume    = {38},
@@ -4892,7 +5016,7 @@
 }
 
 @article{DBLP:journals/sigops/BenchaibaBBA04,
-  author    = {Mahfoud Bencha{\"\i}ba and
+  author    = {Mahfoud Benchaïba and
                Abdelmadjid Bouabdallah and
                Nadjib Badache and
                Mohamed Ahmed-Nacer},
@@ -5358,7 +5482,7 @@
                Bowei Du and
                T. W. Danny Kim and
                Bing Zhou and
-               Emin G{\"u}n Sirer},
+               Emin Gün Sirer},
   title     = {On the need for system-level support for ad hoc and sensor networks},
   journal   = osr,
   volume    = {36},
@@ -5378,7 +5502,7 @@
 }
 
 @article{DBLP:journals/sigops/Issarny02,
-  author    = {Val{\'e}rie Issarny},
+  author    = {Valérie Issarny},
   title     = {Upcoming Events in Operating System Research},
   journal   = osr,
   volume    = {36},
@@ -5709,7 +5833,7 @@
 }
 
 @article{DBLP:journals/sigops/Issarny01,
-  author    = {Val{\'e}rie Issarny},
+  author    = {Valérie Issarny},
   title     = {Upcoming Events in Operating System Research},
   journal   = osr,
   volume    = {35},
@@ -5719,7 +5843,7 @@
 }
 
 @article{DBLP:journals/sigops/Issarny01c,
-  author    = {Val{\'e}rie Issarny},
+  author    = {Valérie Issarny},
   title     = {Upcoming Events in Operating Systems Research},
   journal   = osr,
   volume    = {35},
@@ -5729,7 +5853,7 @@
 }
 
 @article{DBLP:journals/sigops/Issarny01a,
-  author    = {Val{\'e}rie Issarny},
+  author    = {Valérie Issarny},
   title     = {Upcoming Events in Operating System Research},
   journal   = osr,
   volume    = {35},
@@ -5739,7 +5863,7 @@
 }
 
 @article{DBLP:journals/sigops/Issarny01b,
-  author    = {Val{\'e}rie Issarny},
+  author    = {Valérie Issarny},
   title     = {Upcoming Events in Operating System Research},
   journal   = osr,
   volume    = {35},
@@ -5784,7 +5908,7 @@
 
 @article{DBLP:journals/sigops/EisenhauerBS01,
   author    = {Greg Eisenhauer and
-               Fabi{\'a}n E. Bustamante and
+               Fabián E. Bustamante and
                Karsten Schwan},
   title     = {A Middleware Toolkit for {Client-Initiated} Service Specialization},
   journal   = osr,
@@ -6051,7 +6175,7 @@
 @article{DBLP:journals/sigops/MontresorDB01,
   author    = {Alberto Montresor and
                Renzo Davoli and
-               {\"O}zalp Babaoglu},
+               Özalp Babaoglu},
   title     = {Middleware for Dependable Network Services in Partitionable Distributed Systems},
   journal   = osr,
   volume    = {35},
@@ -6151,7 +6275,7 @@
 }
 
 @article{DBLP:journals/sigops/Issarny00,
-  author    = {Val{\'e}rie Issarny},
+  author    = {Valérie Issarny},
   title     = {Upcoming Events in Operating System Research},
   journal   = osr,
   volume    = {34},
@@ -6348,7 +6472,7 @@
 
 @article{DBLP:journals/sigops/SonntagH00,
   author    = {Michael Sonntag and
-               Rudolf H{\"o}rmanseder},
+               Rudolf Hörmanseder},
   title     = {Mobile agent security based on payment},
   journal   = osr,
   volume    = {34},
@@ -6432,7 +6556,7 @@
                Rob van Nieuwpoort and
                John Romain and
                Luc Renambot and
-               Tim R{\"u}hl and
+               Tim Rühl and
                Ronald Veldema and
                Kees Verstoep and
                Aline Baggio and
@@ -6502,7 +6626,7 @@
 }
 
 @article{DBLP:journals/sigops/Kuhnhauser99,
-  author    = {Winfried E. K{\"u}hnhauser},
+  author    = {Winfried E. Kühnhauser},
   title     = {A Comment on S. Kang's and H. Lee's paper on ``Analysis and Solution of {Non-Preemptive} Policies for Scheduling Readers and Writers''},
   journal   = osr,
   volume    = {33},
@@ -6591,7 +6715,7 @@
 }
 
 @article{DBLP:journals/sigops/Ryan99,
-  author    = {Stein J{\o}rgen Ryan},
+  author    = {Stein Jørgen Ryan},
   title     = {Synchronization in Portable Device Drivers},
   journal   = osr,
   volume    = {33},
@@ -6746,7 +6870,7 @@
 
 @article{DBLP:journals/sigops/HalfmannK99,
   author    = {Udo Halfmann and
-               Winfried E. K{\"u}hnhauser},
+               Winfried E. Kühnhauser},
   title     = {Embedding Security Policies into a Distributed Compuiting Environment},
   journal   = osr,
   volume    = {33},
@@ -6820,7 +6944,7 @@
 }
 
 @article{DBLP:journals/sigops/HaringLR98,
-  author    = {G{\"u}nter Haring and
+  author    = {Günter Haring and
                Christoph Lindemann and
                Martin Reiser},
   title     = {International Workshop Performance Evaluation - Origins and Directions},
@@ -6988,7 +7112,7 @@
 }
 
 @article{DBLP:journals/sigops/BabaogluDMS98,
-  author    = {{\"O}zalp Babaoglu and
+  author    = {Özalp Babaoglu and
                Renzo Davoli and
                Alberto Montresor and
                Roberto Segala},
@@ -7001,7 +7125,7 @@
 }
 
 @article{DBLP:journals/sigops/Kuhnhauser98,
-  author    = {Winfried E. K{\"u}hnhauser},
+  author    = {Winfried E. Kühnhauser},
   title     = {A Classification of Interdomain Actions},
   journal   = osr,
   volume    = {32},
@@ -7044,7 +7168,7 @@
 }
 
 @article{DBLP:journals/sigops/Ryan98,
-  author    = {Stein J{\o}rgen Ryan},
+  author    = {Stein Jørgen Ryan},
   title     = {Synchronization in Portable Device Drivers},
   journal   = osr,
   volume    = {32},
@@ -7097,7 +7221,7 @@
 
 @article{DBLP:journals/sigops/Waite97,
   author    = {William M. Waite},
-  title     = {Book Review: {PostScript} {\&} Acrobat/{PDF} by Thomas Merz},
+  title     = {Book Review: {PostScript} & Acrobat/{PDF} by Thomas Merz},
   journal   = osr,
   volume    = {31},
   number    = {2},
@@ -7138,7 +7262,7 @@
 
 @article{DBLP:journals/sigops/HelmeS97,
   author    = {Arne Helme and
-               Tage Stabell-Kul{\o}},
+               Tage Stabell-Kulø},
   title     = {Security Functions for a File Repository},
   journal   = osr,
   volume    = {31},
@@ -7179,7 +7303,7 @@
 }
 
 @article{DBLP:journals/sigops/Stabell-Kulo97,
-  author    = {Tage Stabell-Kul{\o}},
+  author    = {Tage Stabell-Kulø},
   title     = {Security and Log Structured File Systems},
   journal   = osr,
   volume    = {31},
@@ -7189,7 +7313,7 @@
 }
 
 @article{DBLP:journals/sigops/BabaogluDM97,
-  author    = {{\"O}zalp Babaoglu and
+  author    = {Özalp Babaoglu and
                Renzo Davoli and
                Alberto Montresor},
   title     = {Group Membership and View Synchrony in Partitionable Asynchronous Distributed Systems: Specifications},
@@ -7355,7 +7479,7 @@
                Sonia Edith Flores and
                Fabiana Piccoli and
                Marcela Printista and
-               Ra{\'u}l H{\'e}ctor Gallard},
+               Raúl Héctor Gallard},
   title     = {Load Distribution and Balancing Support in a {Workstation-Based} Distributed System},
   journal   = osr,
   volume    = {31},
@@ -7385,9 +7509,9 @@
 }
 
 @article{DBLP:journals/sigops/RodriguezPM97,
-  author    = {Santiago Rodr{\'\i}guez and
-               Antonio P{\'e}rez and
-               Rafael M{\'e}ndez},
+  author    = {Santiago Rodríguez and
+               Antonio Pérez and
+               Rafael Méndez},
   title     = {A New Checkpoint Mechanism for Real Time Operating Systems},
   journal   = osr,
   volume    = {31.},
@@ -7399,7 +7523,7 @@
 @article{DBLP:journals/sigops/KargesRS97,
   author    = {Jonathan Karges and
                Otto Ritter and
-               S{\'a}ndor Suhai},
+               Sándor Suhai},
   title     = {Design and Implementation of a Parallel Pipe},
   journal   = osr,
   volume    = {31},
@@ -7671,7 +7795,7 @@
 @article{DBLP:journals/sigops/CornilleauG96,
   author    = {T. Cornilleau and
                Eric Gressier-Soudan},
-  title     = {A {Combined-Consistency} Approach: Sequential{\&}{Causal-Consistency}},
+  title     = {A {Combined-Consistency} Approach: Sequential&{Causal-Consistency}},
   journal   = osr,
   volume    = {30},
   number    = {4},
@@ -7785,10 +7909,10 @@
 }
 
 @article{DBLP:journals/sigops/CarreteroPMGA96,
-  author    = {Jes{\'u}s Carretero and
-               Felix P{\'e}rez and
+  author    = {Jesús Carretero and
+               Felix Pérez and
                Pedro de Miguel and
-               Francisco Garc{\'\i}a and
+               Francisco García and
                L. Alonso},
   title     = {ParFiSys: A Parallel File System for {MPP}},
   journal   = osr,
@@ -7949,7 +8073,7 @@
 @article{DBLP:journals/sigops/CenaCG95,
   author    = {M. Cena and
                M. L. Crespo and
-               Ra{\'u}l H{\'e}ctor Gallard},
+               Raúl Héctor Gallard},
   title     = {Transparent Remote Execution in Lahnos by Means of a Neural Network Device},
   journal   = osr,
   volume    = {29},
@@ -7983,7 +8107,7 @@
 
 @article{DBLP:journals/sigops/PetriL95,
   author    = {Stefan Petri and
-               Horst Langend{\"o}rfer},
+               Horst Langendörfer},
   title     = {Load Balancing and Fault Tolerance in Workstation Clusters Migrating Groups of Communicating Processes},
   journal   = osr,
   volume    = {29},
@@ -8137,8 +8261,8 @@
 }
 
 @article{DBLP:journals/sigops/BabaogluS95,
-  author    = {{\"O}zalp Babaoglu and
-               Andr{\'e} Schiper},
+  author    = {Özalp Babaoglu and
+               André Schiper},
   title     = {On Group Communication in {Large-Scale} Distributed Systems},
   journal   = osr,
   volume    = {29},
@@ -8159,7 +8283,7 @@
 }
 
 @article{DBLP:journals/sigops/Franky95,
-  author    = {Mar{\'\i}a Consuelo Franky},
+  author    = {María Consuelo Franky},
   title     = {DGDBM: Programming Support for Distributed Transactions over Replicated Files},
   journal   = osr,
   volume    = {29},
@@ -8197,7 +8321,7 @@
                Dylan McNamee and
                Przemyslaw Pardyak and
                Stefan Savage and
-               Emin G{\"u}n Sirer},
+               Emin Gün Sirer},
   title     = {{SPIN} - An Extensible Microkernel for Application-specific Operating System Services},
   journal   = osr,
   volume    = {29},
@@ -8241,8 +8365,8 @@
 
 @article{DBLP:journals/sigops/EsquivelLG95,
   author    = {Susana C. Esquivel and
-               Guillermo Leguizam{\'o}n and
-               Ra{\'u}l H{\'e}ctor Gallard},
+               Guillermo Leguizamón and
+               Raúl Héctor Gallard},
   title     = {A {Quasi-Optimal} Cluster Allocation Strategy for Parallel Program Execution in Distributed Systems Using Genetic Algorithms},
   journal   = osr,
   volume    = {29},
@@ -8511,10 +8635,10 @@
 }
 
 @article{DBLP:journals/sigops/BarcellosSFG94,
-  author    = {Ant{\^o}nio Marinho Pilla Barcellos and
-               Jo{\~a}o Frederico Lacava Schramm and
+  author    = {Antônio Marinho Pilla Barcellos and
+               João Frederico Lacava Schramm and
                Valdir Rossi Belmonte Filho and
-               Cl{\'a}udio F. R. Geyer},
+               Cláudio F. R. Geyer},
   title     = {The {HetNOS} Network Operating System: A Tool for Writing Distributed Applications},
   journal   = osr,
   volume    = {28},
@@ -8527,8 +8651,8 @@
   author    = {Guillermo Aguirre and
                Marcelo Luis Errecalde and
                Susana C. Esquivel and
-               Guillermo Leguizam{\'o}n and
-               Ra{\'u}l H{\'e}ctor Gallard},
+               Guillermo Leguizamón and
+               Raúl Héctor Gallard},
   title     = {Design Features of High Level Layers in Lahnos, a Local Area Heterogeneous Network Operating System},
   journal   = osr,
   volume    = {28},
@@ -8928,7 +9052,7 @@
 @article{DBLP:journals/sigops/KavkaPG93,
   author    = {C. Kavka and
                M. Pritista and
-               Ra{\'u}l H{\'e}ctor Gallard},
+               Raúl Héctor Gallard},
   title     = {Extending Device Management in Minix},
   journal   = osr,
   volume    = {27},
@@ -8980,7 +9104,7 @@
 }
 
 @article{DBLP:journals/sigops/BanatreK93,
-  author    = {Jean-Pierre Ban{\^a}tre and
+  author    = {Jean-Pierre Banâtre and
                Sacha Krakowiak},
   title     = {Models and Paradigms for Distributed Systems Structuring - Introduction},
   journal   = osr,
@@ -9028,7 +9152,7 @@
 
 @article{DBLP:journals/sigops/ChaseIL93,
   author    = {Jeffrey S. Chase and
-               Val{\'e}rie Issarny and
+               Valérie Issarny and
                Henry M. Levy},
   title     = {Distribution in a Single Address Space Operating System},
   journal   = osr,
@@ -9120,7 +9244,7 @@
 @article{DBLP:journals/sigops/GuerreroLG93,
   author    = {R. Guerrero and
                L. Leguizamon and
-               Ra{\'u}l H{\'e}ctor Gallard},
+               Raúl Héctor Gallard},
   title     = {Implementation and Evaluation of Alternative Process Schedules in Minix},
   journal   = osr,
   volume    = {27},
@@ -9474,7 +9598,7 @@
 
 @article{DBLP:journals/sigops/Druschel92,
   author    = {Peter Druschel},
-  title     = {Modularity and Protection are Orthogonal, or "Why {\mbox{$\mu$}}-kernel Architectures are Flawed"},
+  title     = {Modularity and Protection are Orthogonal, or "Why µ-kernel Architectures are Flawed"},
   journal   = osr,
   volume    = {26},
   number    = {2},
@@ -9727,8 +9851,8 @@
 
 @article{DBLP:journals/sigops/KehneSL92,
   author    = {A. Kehne and
-               J{\"u}rgen Sch{\"o}nw{\"a}lder and
-               Horst Langend{\"o}rfer},
+               Jürgen Schönwälder and
+               Horst Langendörfer},
   title     = {A {Nonce-Based} Protocol For Multiple Authentications},
   journal   = osr,
   volume    = {26},
@@ -9857,7 +9981,7 @@
 }
 
 @article{DBLP:journals/sigops/Babaoglu91,
-  author    = {{\"O}zalp Babaoglu},
+  author    = {Özalp Babaoglu},
   title     = {Report on the Fourth {ACM} {SIGOPS} European Workshop: Fault Tolerance Support in Distributed Systems},
   journal   = osr,
   volume    = {25},
@@ -9867,7 +9991,7 @@
 }
 
 @article{DBLP:journals/sigops/Chavez91,
-  author    = {Jorge Buenabad Ch{\'a}vez},
+  author    = {Jorge Buenabad Chávez},
   title     = {{XINIX} {Time-Sharing} Operating System},
   journal   = osr,
   volume    = {25},
@@ -9905,9 +10029,9 @@
                Marcelo Luis Errecalde and
                R. Guerrero and
                C. Kavka and
-               Guillermo Leguizam{\'o}n and
+               Guillermo Leguizamón and
                Marcela Printista and
-               Ra{\'u}l H{\'e}ctor Gallard},
+               Raúl Héctor Gallard},
   title     = {Experiencing Minix as a Didactical Aid for Operating Systems Courses},
   journal   = osr,
   volume    = {25},
@@ -9981,7 +10105,7 @@
                Dietmar Heinrichs and
                Rudolf Ruland and
                Gyula Szalay},
-  title     = {Two Years of Experience with a {\mbox{$\mu$}}-Kernel Based {OS}},
+  title     = {Two Years of Experience with a µ-Kernel Based {OS}},
   journal   = osr,
   volume    = {25},
   number    = {2},
@@ -10048,7 +10172,7 @@
 }
 
 @article{DBLP:journals/sigops/BanatreJMMRS91,
-  author    = {Michel Ban{\^a}tre and
+  author    = {Michel Banâtre and
                Philippe Joubert and
                Christine Morin and
                Gilles Muller and
@@ -10116,7 +10240,7 @@
 }
 
 @article{DBLP:journals/sigops/LannB91,
-  author    = {G{\'e}rard Le Lann and
+  author    = {Gérard Le Lann and
                G. Bres},
   title     = {Reliable Atomic Broadcast in Distributed Systems with Omission Faults},
   journal   = osr,
@@ -10244,7 +10368,7 @@
 
 @article{DBLP:journals/sigops/PowellCD91,
   author    = {David Powell and
-               Marc Ch{\'e}r{\`e}que and
+               Marc Chérèque and
                David Drackley},
   title     = {{Fault-Tolerance} in Delta-4},
   journal   = osr,
@@ -10255,7 +10379,7 @@
 }
 
 @article{DBLP:journals/sigops/NehmerB91,
-  author    = {J{\"u}rgen Nehmer and
+  author    = {Jürgen Nehmer and
                Thomas Becker},
   title     = {A Fault Tolerance Approach for Distributed {ISDN} Control Systems},
   journal   = osr,
@@ -10389,7 +10513,7 @@
 }
 
 @article{DBLP:journals/sigops/Babaoglu90,
-  author    = {{\"O}zalp Babaoglu},
+  author    = {Özalp Babaoglu},
   title     = {{Fault-Tolerant} Computing Based on Mach},
   journal   = osr,
   volume    = {24},
@@ -10421,7 +10545,7 @@
 
 @article{DBLP:journals/sigops/BurrowsAN90,
   author    = {Michael Burrows and
-               Mart{\'\i}n Abadi and
+               Martín Abadi and
                Roger M. Needham},
   title     = {Rejoinder to Nessett},
   journal   = osr,
@@ -10851,7 +10975,7 @@
 }
 
 @article{DBLP:journals/sigops/CanasE88,
-  author    = {Daniel A. Ca{\~n}as and
+  author    = {Daniel A. Cañas and
                Laura M. Esquivel},
   title     = {Portability and the {UNIX} Operating System},
   journal   = osr,
@@ -11058,7 +11182,7 @@
 }
 
 @article{DBLP:journals/sigops/ZobelK88,
-  author    = {Dieter Z{\"o}bel and
+  author    = {Dieter Zöbel and
                Christoph Koch},
   title     = {Resolution techniques and Complexity Results with Deadlocks: A Classifying and Annotated Bibliography},
   journal   = osr,
@@ -11467,7 +11591,7 @@
 
 @article{DBLP:journals/sigops/MullenderV86,
   author    = {Sape J. Mullender and
-               Paul M. B. Vit{\'a}nyi},
+               Paul M. B. Vitányi},
   title     = {Distributed {Match-Making} for Processes in Computer Networks},
   journal   = osr,
   volume    = {20},
@@ -11532,7 +11656,7 @@
 
 @article{DBLP:journals/sigops/Svobodova85,
   author    = {Liba Svobodova},
-  title     = {Workshop Summary: Operating Systems in Computer Networks, January 28-30, 1985, R{\"u}schlikon, Switzerland},
+  title     = {Workshop Summary: Operating Systems in Computer Networks, January 28-30, 1985, Rüschlikon, Switzerland},
   journal   = osr,
   volume    = {19},
   number    = {2},
@@ -11821,7 +11945,7 @@
 }
 
 @article{DBLP:journals/sigops/Zobel83,
-  author    = {Dieter Z{\"o}bel},
+  author    = {Dieter Zöbel},
   title     = {The Deadlock Problem: A Classifying Bibliography},
   journal   = osr,
   volume    = {17},
@@ -12607,7 +12731,7 @@
 
 @article{DBLP:journals/sigops/HopperKU79,
   author    = {K. Hopper and
-               Hans-J{\"u}rgen Kugler and
+               Hans-Jürgen Kugler and
                Claus Unger},
   title     = {Abstract Machines Modelling Network Control Systems},
   journal   = osr,
@@ -12880,7 +13004,7 @@
 }
 
 @article{DBLP:journals/sigops/Gorski78,
-  author    = {Janusz G{\'o}rski},
+  author    = {Janusz Górski},
   title     = {A Modular Representation of the Access Control System},
   journal   = osr,
   volume    = {12},
@@ -13229,7 +13353,7 @@
 }
 
 @article{DBLP:journals/sigops/DanthineB75,
-  author    = {Andr{\'e} A. S. Danthine and
+  author    = {André A. S. Danthine and
                Joseph Bremer},
   title     = {Communication protocols in a network context},
   journal   = osr,

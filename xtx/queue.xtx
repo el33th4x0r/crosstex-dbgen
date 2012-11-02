@@ -58,6 +58,16 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/McKusick12,
+  author    = {Marshall K. McKusick},
+  title     = {Disks from the Perspective of a File System},
+  journal   = queue,
+  volume    = {10},
+  number    = {9},
+  year      = 2012,
+  pages     = {10},
+}
+
 @article{DBLP:journals/queue/Neville-Neil12,
   author    = {George V. Neville-Neil},
   title     = {The Network Protocol Battle: A tale of hubris and zealotry},
@@ -90,7 +100,7 @@
 
 @article{DBLP:journals/queue/SerranoB12,
   author    = {Manuel Serrano and
-               G{\'e}rard Berry},
+               Gérard Berry},
   title     = {Multitier Programming in Hop},
   journal   = queue,
   volume    = {10},
@@ -172,6 +182,19 @@
   pages     = {20},
 }
 
+@article{DBLP:journals/queue/RobbinsKAL12,
+  author    = {Jesse Robbins and
+               Kripa Krishnan and
+               John Allspaw and
+               Thomas A. Limoncelli},
+  title     = {Resilience Engineering: Learning to Embrace Failure},
+  journal   = queue,
+  volume    = {10},
+  number    = {9},
+  year      = 2012,
+  pages     = {20},
+}
+
 @article{DBLP:journals/queue/Berger12,
   author    = {Emery D. Berger},
   title     = {Software Needs Seatbelts and Airbags},
@@ -188,6 +211,16 @@
   journal   = queue,
   volume    = {10},
   number    = {4},
+  year      = 2012,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Krishnan12,
+  author    = {Kripa Krishnan},
+  title     = {Weathering the Unexpected},
+  journal   = queue,
+  volume    = {10},
+  number    = {9},
   year      = 2012,
   pages     = {30},
 }
@@ -584,6 +617,17 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/ErbadK10,
+  author    = {Aiman Erbad and
+               Charles Krasic},
+  title     = {Sender-side Buffers and the Case for Multimedia Adaptation},
+  journal   = queue,
+  volume    = {10},
+  number    = {10},
+  year      = 2010,
+  pages     = {10},
+}
+
 @article{DBLP:journals/queue/HaberKM10,
   author    = {Eben M. Haber and
                Eser Kandogan and
@@ -766,6 +810,16 @@
   journal   = queue,
   volume    = {8},
   number    = {3},
+  year      = 2010,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/X10,
+  author    = {},
+  title     = {Queue Portrait: Robert Watson},
+  journal   = queue,
+  volume    = {10},
+  number    = {10},
   year      = 2010,
   pages     = {20},
 }
@@ -1271,7 +1325,7 @@
 
 @article{DBLP:journals/queue/Berni09,
   author    = {Alessandro Berni},
-  title     = {Review of "Wireless Ad Hoc and Sensor Networks by Houda Labiod, " John Wiley {\&} Sons, Inc., 2008, {ISBN} 1848210035},
+  title     = {Review of "Wireless Ad Hoc and Sensor Networks by Houda Labiod, " John Wiley & Sons, Inc., 2008, {ISBN} 1848210035},
   journal   = queue,
   volume    = {7},
   number    = {1},
@@ -1415,7 +1469,7 @@
 
 @article{DBLP:journals/queue/Kelly-Bootle09a,
   author    = {Stan Kelly-Bootle},
-  title     = {One Peut-{\^E}tre, Two Peut-{\^E}tre, Three Peut-{\^E}tre, More},
+  title     = {One Peut-Être, Two Peut-Être, Three Peut-Être, More},
   journal   = queue,
   volume    = {7},
   number    = {4},
@@ -1565,7 +1619,7 @@
 
 @article{DBLP:journals/queue/Waldo08,
   author    = {Jim Waldo},
-  title     = {Scaling in Games {\&} Virtual Worlds},
+  title     = {Scaling in Games & Virtual Worlds},
   journal   = queue,
   volume    = {6},
   number    = {7},
@@ -2451,7 +2505,7 @@
 
 @article{DBLP:journals/queue/Garfinkel07,
   author    = {Simson L. Garfinkel},
-  title     = {Document {\&} Media Exploitation},
+  title     = {Document & Media Exploitation},
   journal   = queue,
   volume    = {5},
   number    = {7},
@@ -4153,7 +4207,7 @@
 
 @article{DBLP:journals/queue/State06,
   author    = {Radu State},
-  title     = {Review of "Switching to {VoIP} by Ted Wallingford, " O'Reilly {\&} Associates, 2005, {ISBN} 0596008686},
+  title     = {Review of "Switching to {VoIP} by Ted Wallingford, " O'Reilly & Associates, 2005, {ISBN} 0596008686},
   journal   = queue,
   volume    = {4},
   number    = {1},
@@ -4989,7 +5043,7 @@
 
 @article{DBLP:journals/queue/SteimannK05,
   author    = {Friedrich Steimann and
-               Thomas K{\"u}hne},
+               Thomas Kühne},
   title     = {Coding for the code},
   journal   = queue,
   volume    = {3},
@@ -5009,7 +5063,7 @@
 }
 
 @article{DBLP:journals/queue/Barroso05,
-  author    = {Luiz Andr{\'e} Barroso},
+  author    = {Luiz André Barroso},
   title     = {The price of performance},
   journal   = queue,
   volume    = {3},
@@ -5251,7 +5305,7 @@
 }
 
 @article{DBLP:journals/queue/Marien05,
-  author    = {Andr{\'e} Mari{\"e}n},
+  author    = {André Mariën},
   title     = {Review of "Exploiting Software: How to Break Code by Greg Hoglund and Gary McGraw"},
   journal   = queue,
   volume    = {3},
@@ -5261,7 +5315,7 @@
 }
 
 @article{DBLP:journals/queue/Marien05a,
-  author    = {Andr{\'e} Mari{\"e}n},
+  author    = {André Mariën},
   title     = {Review of "IPv6 Network Programming by Jun-ichiro itojun Hagino"},
   journal   = queue,
   volume    = {3},
@@ -6745,7 +6799,7 @@
 
 @article{DBLP:journals/queue/Joy04,
   author    = {M. S. Joy},
-  title     = {Review of "Eclipse by Steve Holzner". O'Reilly {\&} Associates, 2004, Isbn 0-596-00641-1},
+  title     = {Review of "Eclipse by Steve Holzner". O'Reilly & Associates, 2004, Isbn 0-596-00641-1},
   journal   = queue,
   volume    = {2},
   number    = {9},
@@ -7016,7 +7070,7 @@
 
 @article{DBLP:journals/queue/Kelly-Bootle04,
   author    = {Stan Kelly-Bootle},
-  title     = {Curmudgeon: Damn{\'e}d Digits},
+  title     = {Curmudgeon: Damnéd Digits},
   journal   = queue,
   volume    = {2},
   number    = {1},

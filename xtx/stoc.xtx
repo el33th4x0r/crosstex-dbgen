@@ -21,7 +21,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Vegh12,
-  author    = {L{\'a}szl{\'o} A. V{\'e}gh},
+  author    = {László A. Végh},
   title     = {Strongly polynomial algorithm for a class of minimum-cost flow problems with separable convex objectives},
   booktitle = stoc,
   year      = 2012,
@@ -124,7 +124,7 @@
 
 @inproceedings{DBLP:conf/stoc/GroheM12,
   author    = {Martin Grohe and
-               D{\'a}niel Marx},
+               Dániel Marx},
   title     = {Structure theorem and isomorphism test for graphs with excluded topological subgraphs},
   booktitle = stoc,
   year      = 2012,
@@ -152,7 +152,7 @@
 
 @inproceedings{DBLP:conf/stoc/HuynhN12,
   author    = {Trinh Huynh and
-               Jakob Nordstr{\"o}m},
+               Jakob Nordström},
   title     = {On the virtue of succinct proofs: amplifying communication complexity hardness to time-space trade-offs in proof complexity},
   booktitle = stoc,
   year      = 2012,
@@ -160,7 +160,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai12,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {Determinism versus nondeterminism with arithmetic tests and computation: extended abstract},
   booktitle = stoc,
   year      = 2012,
@@ -181,7 +181,7 @@
   author    = {Subhash Khot and
                Preyas Popat and
                Nisheeth K. Vishnoi},
-  title     = {2log1-{$\epsilon$} n hardness for the closest vector problem with preprocessing},
+  title     = {2log1-ε n hardness for the closest vector problem with preprocessing},
   booktitle = stoc,
   year      = 2012,
   pages     = {277-288},
@@ -198,7 +198,7 @@
 
 @inproceedings{DBLP:conf/stoc/BarakBHKSZ12,
   author    = {Boaz Barak and
-               Fernando G. S. L. Brand{\~a}o and
+               Fernando G. S. L. Brandão and
                Aram Wettroth Harrow and
                Jonathan A. Kelner and
                David Steurer and
@@ -257,7 +257,7 @@
 @inproceedings{DBLP:conf/stoc/SharathkumarA12,
   author    = {R. Sharathkumar and
                Pankaj K. Agarwal},
-  title     = {A near-linear time {$\epsilon$}-approximation algorithm for geometric bipartite matching},
+  title     = {A near-linear time ε-approximation algorithm for geometric bipartite matching},
   booktitle = stoc,
   year      = 2012,
   pages     = {385-394},
@@ -274,7 +274,7 @@
 
 @inproceedings{DBLP:conf/stoc/BrunschR12,
   author    = {Tobias Brunsch and
-               Heiko R{\"o}glin},
+               Heiko Röglin},
   title     = {Improved smoothed analysis of multiobjective optimization},
   booktitle = stoc,
   year      = 2012,
@@ -322,10 +322,10 @@
 }
 
 @inproceedings{DBLP:conf/stoc/GalHKPV12,
-  author    = {Anna G{\'a}l and
+  author    = {Anna Gál and
                Kristoffer Arnsfelt Hansen and
-               Michal Kouck{\'y} and
-               Pavel Pudl{\'a}k and
+               Michal Koucký and
+               Pavel Pudlák and
                Emanuele Viola},
   title     = {Tight bounds on computing error-correcting codes by bounded-depth circuits with arbitrary gates},
   booktitle = stoc,
@@ -393,7 +393,7 @@
   author    = {Anna Adamaszek and
                Artur Czumaj and
                Matthias Englert and
-               Harald R{\"a}cke},
+               Harald Räcke},
   title     = {Optimal online buffer scheduling for block devices},
   booktitle = stoc,
   year      = 2012,
@@ -405,7 +405,7 @@
                Chandan Saha and
                Ramprasad Saptharishi and
                Nitin Saxena},
-  title     = {Jacobian hits circuits: hitting-sets, lower bounds for {depth-D} occur-k formulas {\&} depth-3 transcendence degree-k circuits},
+  title     = {Jacobian hits circuits: hitting-sets, lower bounds for {depth-D} occur-k formulas & depth-3 transcendence degree-k circuits},
   booktitle = stoc,
   year      = 2012,
   pages     = {599-614},
@@ -508,7 +508,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/CebrianCVV12,
-  author    = {Manuel Cebri{\'a}n and
+  author    = {Manuel Cebrián and
                Lorenzo Coviello and
                Andrea Vattani and
                Panagiotis Voulgaris},
@@ -687,7 +687,7 @@
 
 @inproceedings{DBLP:conf/stoc/MosselR12,
   author    = {Elchanan Mossel and
-               Mikl{\'o}s Z. R{\'a}cz},
+               Miklós Z. Rácz},
   title     = {A quantitative gibbard-satterthwaite theorem without neutrality},
   booktitle = stoc,
   year      = 2012,
@@ -725,7 +725,7 @@
 
 @inproceedings{DBLP:conf/stoc/DobzinskiV12,
   author    = {Shahar Dobzinski and
-               Jan Vondr{\'a}k},
+               Jan Vondrák},
   title     = {From query complexity to computational complexity},
   booktitle = stoc,
   year      = 2012,
@@ -757,7 +757,7 @@
   author    = {Lorenzo Orecchia and
                Sushant Sachdeva and
                Nisheeth K. Vishnoi},
-  title     = {Approximating the exponential, the lanczos method and an {\~O}(m)-time spectral algorithm for balanced separator},
+  title     = {Approximating the exponential, the lanczos method and an Õ(m)-time spectral algorithm for balanced separator},
   booktitle = stoc,
   year      = 2012,
   pages     = {1141-1160},
@@ -766,7 +766,7 @@
 @inproceedings{DBLP:conf/stoc/GoemansORZ12,
   author    = {Michel X. Goemans and
                Neil Olver and
-               Thomas Rothvo{\ss} and
+               Thomas Rothvoß and
                Rico Zenklusen},
   title     = {Matroids and integrality gaps for hypergraphic steiner tree relaxations},
   booktitle = stoc,
@@ -775,7 +775,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BrodalLT12,
-  author    = {Gerth St{\o}lting Brodal and
+  author    = {Gerth Stølting Brodal and
                George Lagogiannis and
                Robert Endre Tarjan},
   title     = {Strict fibonacci heaps},
@@ -785,8 +785,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BulanekKS12,
-  author    = {Jan Bul{\'a}nek and
-               Michal Kouck{\'y} and
+  author    = {Jan Bulánek and
+               Michal Koucký and
                Michael Saks},
   title     = {Tight lower bounds for the online labeling problem},
   booktitle = stoc,
@@ -805,7 +805,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Lopez-AltTV12,
-  author    = {Adriana L{\'o}pez-Alt and
+  author    = {Adriana López-Alt and
                Eran Tromer and
                Vinod Vaikuntanathan},
   title     = {On-the-fly multiparty computation on the cloud via multikey fully homomorphic encryption},
@@ -940,7 +940,7 @@
 
 @inproceedings{DBLP:conf/stoc/HolensteinKT11,
   author    = {Thomas Holenstein and
-               Robin K{\"u}nzler and
+               Robin Künzler and
                Stefano Tessaro},
   title     = {The equivalence of the random oracle model and the ideal cipher model, revisited},
   booktitle = stoc,
@@ -1052,7 +1052,7 @@
 
 @inproceedings{DBLP:conf/stoc/HansenKLMT11,
   author    = {Kristoffer Arnsfelt Hansen and
-               Michal Kouck{\'y} and
+               Michal Koucký and
                Niels Lauritzen and
                Peter Bro Miltersen and
                Elias P. Tsigaridas},
@@ -1087,7 +1087,7 @@
 @inproceedings{DBLP:conf/stoc/KolipakaS11,
   author    = {Kashyap Babu Rao Kolipaka and
                Mario Szegedy},
-  title     = {Moser and tardos meet Lov{\'a}sz},
+  title     = {Moser and tardos meet Lovász},
   booktitle = stoc,
   year      = 2011,
   pages     = {235-244},
@@ -1096,7 +1096,7 @@
 @inproceedings{DBLP:conf/stoc/MoserS11,
   author    = {Robin A. Moser and
                Dominik Scheder},
-  title     = {A full derandomization of sch{\"o}ning's {k-SAT} algorithm},
+  title     = {A full derandomization of schöning's {k-SAT} algorithm},
   booktitle = stoc,
   year      = 2011,
   pages     = {245-252},
@@ -1114,9 +1114,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KouckyNP11,
-  author    = {Michal Kouck{\'y} and
+  author    = {Michal Koucký and
                Prajakta Nimbhorkar and
-               Pavel Pudl{\'a}k},
+               Pavel Pudlák},
   title     = {Pseudorandom generators for group products: extended abstract},
   booktitle = stoc,
   year      = 2011,
@@ -1191,7 +1191,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BrandaoCY11,
-  author    = {Fernando G. S. L. Brand{\~a}o and
+  author    = {Fernando G. S. L. Brandão and
                Matthias Christandl and
                Jon Yard},
   title     = {A quasipolynomial-time algorithm for the quantum separability problem},
@@ -1256,7 +1256,7 @@
 
 @inproceedings{DBLP:conf/stoc/NovocinSV11,
   author    = {Andrew Novocin and
-               Damien Stehl{\'e} and
+               Damien Stehlé and
                Gilles Villard},
   title     = {An {LLL-reduction} algorithm with quasi-linear time complexity: extended abstract},
   booktitle = stoc,
@@ -1313,7 +1313,7 @@
 @inproceedings{DBLP:conf/stoc/BousquetDT11,
   author    = {Nicolas Bousquet and
                Jean Daligault and
-               St{\'e}phan Thomass{\'e}},
+               Stéphan Thomassé},
   title     = {Multicut is {FPT}},
   booktitle = stoc,
   year      = 2011,
@@ -1321,7 +1321,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/MarxR11,
-  author    = {D{\'a}niel Marx and
+  author    = {Dániel Marx and
                Igor Razgon},
   title     = {Fixed-parameter tractability of multicut parameterized by the size of the cutset},
   booktitle = stoc,
@@ -1332,7 +1332,7 @@
 @inproceedings{DBLP:conf/stoc/GroheKMW11,
   author    = {Martin Grohe and
                Ken-ichi Kawarabayashi and
-               D{\'a}niel Marx and
+               Dániel Marx and
                Paul Wollan},
   title     = {Finding topological subgraphs is fixed-parameter tractable},
   booktitle = stoc,
@@ -1360,7 +1360,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BurgisserI11,
-  author    = {Peter B{\"u}rgisser and
+  author    = {Peter Bürgisser and
                Christian Ikenmeyer},
   title     = {Geometric complexity theory and tensor rank},
   booktitle = stoc,
@@ -1390,7 +1390,7 @@
 
 @inproceedings{DBLP:conf/stoc/ColeCGMO11,
   author    = {Richard Cole and
-               Jos{\'e} R. Correa and
+               José R. Correa and
                Vasilis Gkatzelis and
                Vahab S. Mirrokni and
                Neil Olver},
@@ -1460,7 +1460,7 @@
   author    = {Anna Adamaszek and
                Artur Czumaj and
                Matthias Englert and
-               Harald R{\"a}cke},
+               Harald Räcke},
   title     = {Almost tight bounds for reordering buffer management},
   booktitle = stoc,
   year      = 2011,
@@ -1557,7 +1557,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai11,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {Secure computation with information leaking to an adversary},
   booktitle = stoc,
   year      = 2011,
@@ -1622,7 +1622,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/VondrakCZ11,
-  author    = {Jan Vondr{\'a}k and
+  author    = {Jan Vondrák and
                Chandra Chekuri and
                Rico Zenklusen},
   title     = {Submodular function maximization via the multilinear relaxation and contention resolution schemes},
@@ -1657,13 +1657,6 @@
   booktitle = stoc,
   year      = 2011,
   pages     = {813-822},
-}
-
-@inproceedings{DBLP:conf/stoc/2010,
-  author    = {},
-  title     = {Proceedings of the 42nd {ACM} Symposium on Theory of Computing, {STOC} 2010, Cambridge, Massachusetts, USA, 5-8 June 2010},
-  booktitle = stoc,
-  year      = 2010,
 }
 
 @inproceedings{DBLP:conf/stoc/Kannan10,
@@ -1805,7 +1798,7 @@
   author    = {Andris Ambainis and
                Julia Kempe and
                Or Sattath},
-  title     = {A quantum lov{\'a}sz local lemma},
+  title     = {A quantum lovász local lemma},
   booktitle = stoc,
   year      = 2010,
   pages     = {151-160},
@@ -1831,7 +1824,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai10,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {Oblivious {RAMs} without cryptogrpahic assumptions},
   booktitle = stoc,
   year      = 2010,
@@ -1862,7 +1855,7 @@
 @inproceedings{DBLP:conf/stoc/BateniHM10,
   author    = {MohammadHossein Bateni and
                MohammadTaghi Hajiaghayi and
-               D{\'a}niel Marx},
+               Dániel Marx},
   title     = {Approximation schemes for steiner forest on planar graphs and graphs of bounded treewidth},
   booktitle = stoc,
   year      = 2010,
@@ -1889,7 +1882,7 @@
 
 @inproceedings{DBLP:conf/stoc/PaturiP10,
   author    = {Ramamohan Paturi and
-               Pavel Pudl{\'a}k},
+               Pavel Pudlák},
   title     = {On the complexity of circuit satisfiability},
   booktitle = stoc,
   year      = 2010,
@@ -1906,7 +1899,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/MagniezMN10,
-  author    = {Fr{\'e}d{\'e}ric Magniez and
+  author    = {Frédéric Magniez and
                Claire Mathieu and
                Ashwin Nayak},
   title     = {Recognizing well-parenthesized expressions in the streaming model},
@@ -1982,7 +1975,7 @@
 @inproceedings{DBLP:conf/stoc/DasguptaKS10,
   author    = {Anirban Dasgupta and
                Ravi Kumar and
-               Tam{\'a}s Sarl{\'o}s},
+               Tamás Sarlós},
   title     = {A sparse Johnson: Lindenstrauss transform},
   booktitle = stoc,
   year      = 2010,
@@ -2001,8 +1994,8 @@
 @inproceedings{DBLP:conf/stoc/CardinalFJJM10,
   author    = {Jean Cardinal and
                Samuel Fiorini and
-               Gwena{\"e}l Joret and
-               Rapha{\"e}l M. Jungers and
+               Gwenaël Joret and
+               Raphaël M. Jungers and
                J. Ian Munro},
   title     = {Sorting under partial information (without the ellipsoid algorithm)},
   booktitle = stoc,
@@ -2013,7 +2006,7 @@
 @inproceedings{DBLP:conf/stoc/LeeSV10,
   author    = {Jon Lee and
                Maxim Sviridenko and
-               Jan Vondr{\'a}k},
+               Jan Vondrák},
   title     = {Matroid matching: the power of local search},
   booktitle = stoc,
   year      = 2010,
@@ -2052,7 +2045,7 @@
 
 @inproceedings{DBLP:conf/stoc/GuruswamiHK10,
   author    = {Venkatesan Guruswami and
-               Johan H{\aa}stad and
+               Johan Håstad and
                Swastik Kopparty},
   title     = {On the list-decodability of random linear codes},
   booktitle = stoc,
@@ -2128,9 +2121,9 @@
 
 @inproceedings{DBLP:conf/stoc/GodoyGRA10,
   author    = {Guillem Godoy and
-               Omer Gim{\'e}nez and
+               Omer Giménez and
                Lander Ramos and
-               Carme {\`A}lvarez},
+               Carme Àlvarez},
   title     = {The {HOM} problem is decidable},
   booktitle = stoc,
   year      = 2010,
@@ -2147,7 +2140,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BurgisserC10,
-  author    = {Peter B{\"u}rgisser and
+  author    = {Peter Bürgisser and
                Felipe Cucker},
   title     = {Solving polynomial equations in smoothed polynomial time and a near solution to smale's 17th problem},
   booktitle = stoc,
@@ -2208,7 +2201,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Vegh10,
-  author    = {L{\'a}szl{\'o} A. V{\'e}gh},
+  author    = {László A. Végh},
   title     = {Augmenting undirected node-connectivity by one},
   booktitle = stoc,
   year      = 2010,
@@ -2229,8 +2222,8 @@
 @inproceedings{DBLP:conf/stoc/ByrkaGRS10,
   author    = {Jaroslaw Byrka and
                Fabrizio Grandoni and
-               Thomas Rothvo{\ss} and
-               Laura Sanit{\`a}},
+               Thomas Rothvoß and
+               Laura Sanità},
   title     = {An improved {LP-based} approximation for steiner tree},
   booktitle = stoc,
   year      = 2010,
@@ -2377,7 +2370,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Marx10,
-  author    = {D{\'a}niel Marx},
+  author    = {Dániel Marx},
   title     = {Tractable hypergraph properties for constraint satisfaction and conjunctive queries},
   booktitle = stoc,
   year      = 2010,
@@ -2505,9 +2498,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiBS09,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                Robert Beals and
-               {\'A}kos Seress},
+               Ákos Seress},
   title     = {Polynomial-time theory of matrix groups},
   booktitle = stoc,
   year      = 2009,
@@ -2543,7 +2536,7 @@
 @inproceedings{DBLP:conf/stoc/CardinalFJJM09,
   author    = {Jean Cardinal and
                Samuel Fiorini and
-               Gwena{\"e}l Joret and
+               Gwenaël Joret and
                Raphael M. Jungers and
                J. Ian Munro},
   title     = {An efficient algorithm for partial order production},
@@ -2790,7 +2783,7 @@
 
 @inproceedings{DBLP:conf/stoc/Moser09,
   author    = {Robin A. Moser},
-  title     = {A constructive proof of the Lov{\'a}sz local lemma},
+  title     = {A constructive proof of the Lovász local lemma},
   booktitle = stoc,
   year      = 2009,
   pages     = {343-350},
@@ -2934,7 +2927,7 @@
 
 @inproceedings{DBLP:conf/stoc/AustrinH09,
   author    = {Per Austrin and
-               Johan H{\aa}stad},
+               Johan Håstad},
   title     = {Randomly supported independence and resistance},
   booktitle = stoc,
   year      = 2009,
@@ -2980,7 +2973,7 @@
 @inproceedings{DBLP:conf/stoc/KleinbergPT09,
   author    = {Robert Kleinberg and
                Georgios Piliouras and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {Multiplicative updates outperform generic no-regret learning in congestion games: extended abstract},
   booktitle = stoc,
   year      = 2009,
@@ -3072,8 +3065,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/ChalopinG09,
-  author    = {J{\'e}r{\'e}mie Chalopin and
-               Daniel Gon{\c{c}}alves},
+  author    = {Jérémie Chalopin and
+               Daniel Gonçalves},
   title     = {Every planar graph is the intersection graph of segments in the plane: extended abstract},
   booktitle = stoc,
   year      = 2009,
@@ -3169,7 +3162,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KunS09,
-  author    = {G{\'a}bor Kun and
+  author    = {Gábor Kun and
                Mario Szegedy},
   title     = {A new line of attack on the dichotomy conjecture},
   booktitle = stoc,
@@ -3211,7 +3204,7 @@
 
 @inproceedings{DBLP:conf/stoc/BodirskyK08,
   author    = {Manuel Bodirsky and
-               Jan K{\'a}ra},
+               Jan Kára},
   title     = {The complexity of temporal constraint satisfaction problems},
   booktitle = stoc,
   year      = 2008,
@@ -3254,7 +3247,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Vondrak08,
-  author    = {Jan Vondr{\'a}k},
+  author    = {Jan Vondrák},
   title     = {Optimal approximation for the submodular welfare problem in the value oracle model},
   booktitle = stoc,
   year      = 2008,
@@ -3441,7 +3434,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Racke08,
-  author    = {Harald R{\"a}cke},
+  author    = {Harald Räcke},
   title     = {Optimal hierarchical decompositions for congestion minimization in networks},
   booktitle = stoc,
   year      = 2008,
@@ -3479,7 +3472,7 @@
 
 @inproceedings{DBLP:conf/stoc/KleinbergT08,
   author    = {Jon M. Kleinberg and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {Balanced outcomes in social exchange networks},
   booktitle = stoc,
   year      = 2008,
@@ -3534,7 +3527,7 @@
 
 @inproceedings{DBLP:conf/stoc/SkopalikV08,
   author    = {Alexander Skopalik and
-               Berthold V{\"o}cking},
+               Berthold Vöcking},
   title     = {Inapproximability of pure nash equilibria},
   booktitle = stoc,
   year      = 2008,
@@ -3889,8 +3882,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/NordstromH08,
-  author    = {Jakob Nordstr{\"o}m and
-               Johan H{\aa}stad},
+  author    = {Jakob Nordström and
+               Johan Håstad},
   title     = {Towards an optimal separation of space and length in resolution},
   booktitle = stoc,
   year      = 2008,
@@ -4011,7 +4004,7 @@
 @inproceedings{DBLP:conf/stoc/ChanP07,
   author    = {Timothy M. Chan and
                Mihai Patrascu},
-  title     = {Voronoi diagrams in n{\mbox{$\cdot$}}2osqrt(lg lg n) time},
+  title     = {Voronoi diagrams in n·2osqrt(lg lg n) time},
   booktitle = stoc,
   year      = 2007,
   pages     = {31-39},
@@ -4034,7 +4027,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Furer07,
-  author    = {Martin F{\"u}rer},
+  author    = {Martin Fürer},
   title     = {Faster integer multiplication},
   booktitle = stoc,
   year      = 2007,
@@ -4042,11 +4035,11 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BjorklundHKK07,
-  author    = {Andreas Bj{\"o}rklund and
+  author    = {Andreas Björklund and
                Thore Husfeldt and
                Petteri Kaski and
                Mikko Koivisto},
-  title     = {Fourier meets m{\"o}bius: fast subset convolution},
+  title     = {Fourier meets möbius: fast subset convolution},
   booktitle = stoc,
   year      = 2007,
   pages     = {67-74},
@@ -4113,7 +4106,7 @@
 
 @inproceedings{DBLP:conf/stoc/MosselR07,
   author    = {Elchanan Mossel and
-               S{\'e}bastien Roch},
+               Sébastien Roch},
   title     = {On the submodularity of influence in social networks},
   booktitle = stoc,
   year      = 2007,
@@ -4124,7 +4117,7 @@
   author    = {Christian Borgs and
                Jennifer T. Chayes and
                Constantinos Daskalakis and
-               S{\'e}bastien Roch},
+               Sébastien Roch},
   title     = {First to market is not everything: an analysis of preferential attachment with fitness},
   booktitle = stoc,
   year      = 2007,
@@ -4296,7 +4289,7 @@
 
 @inproceedings{DBLP:conf/stoc/Dantchev07,
   author    = {Stefan S. Dantchev},
-  title     = {Rank complexity gap for Lov{\'a}{sz-Schrijver} and {Sherali-Adams} proof systems},
+  title     = {Rank complexity gap for Lová{sz-Schrijver} and {Sherali-Adams} proof systems},
   booktitle = stoc,
   year      = 2007,
   pages     = {311-317},
@@ -4471,7 +4464,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/RodlS07,
-  author    = {Vojtech R{\"o}dl and
+  author    = {Vojtech Rödl and
                Mathias Schacht},
   title     = {Property testing in hypergraphs and the removal lemma},
   booktitle = stoc,
@@ -4513,7 +4506,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/HoyerLS07,
-  author    = {Peter H{\o}yer and
+  author    = {Peter Høyer and
                Troy Lee and
                Robert Spalek},
   title     = {Negative weights make adversaries stronger},
@@ -4544,7 +4537,7 @@
 
 @inproceedings{DBLP:conf/stoc/EnglertRW07,
   author    = {Matthias Englert and
-               Harald R{\"a}cke and
+               Harald Räcke and
                Matthias Westermann},
   title     = {Reordering buffers for general metric spaces},
   booktitle = stoc,
@@ -4562,9 +4555,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/MagniezNRS07,
-  author    = {Fr{\'e}d{\'e}ric Magniez and
+  author    = {Frédéric Magniez and
                Ashwin Nayak and
-               J{\'e}r{\'e}mie Roland and
+               Jérémie Roland and
                Miklos Santha},
   title     = {Search via quantum walk},
   booktitle = stoc,
@@ -4603,7 +4596,7 @@
                Telikepalli Kavitha and
                Debmalya Panigrahi and
                Anand Bhalgat},
-  title     = {An {\~O}(mn) {Gomory-Hu} tree construction algorithm for unweighted graphs},
+  title     = {An Õ(mn) {Gomory-Hu} tree construction algorithm for unweighted graphs},
   booktitle = stoc,
   year      = 2007,
   pages     = {605-614},
@@ -4798,7 +4791,7 @@
 
 @inproceedings{DBLP:conf/stoc/HayrapetyanTW06,
   author    = {Ara Hayrapetyan and
-               {\'E}va Tardos and
+               Éva Tardos and
                Tom Wexler},
   title     = {The effect of collusion in congestion games},
   booktitle = stoc,
@@ -4874,7 +4867,7 @@
 @inproceedings{DBLP:conf/stoc/DaskalakisMR06,
   author    = {Constantinos Daskalakis and
                Elchanan Mossel and
-               S{\'e}bastien Roch},
+               Sébastien Roch},
   title     = {Optimal phylogenetic reconstruction},
   booktitle = stoc,
   year      = 2006,
@@ -4977,9 +4970,9 @@
 @inproceedings{DBLP:conf/stoc/BorgsCLSSV06,
   author    = {Christian Borgs and
                Jennifer T. Chayes and
-               L{\'a}szl{\'o} Lov{\'a}sz and
-               Vera T. S{\'o}s and
-               Bal{\'a}zs Szegedy and
+               László Lovász and
+               Vera T. Sós and
+               Balázs Szegedy and
                Katalin Vesztergombi},
   title     = {Graph limits and parameter testing},
   booktitle = stoc,
@@ -5042,7 +5035,7 @@
 
 @inproceedings{DBLP:conf/stoc/AsanoMT06,
   author    = {Tetsuo Asano and
-               Jir{\'\i} Matousek and
+               Jirí Matousek and
                Takeshi Tokuyama},
   title     = {The distance trisector curve},
   booktitle = stoc,
@@ -5208,7 +5201,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Nordstrom06,
-  author    = {Jakob Nordstr{\"o}m},
+  author    = {Jakob Nordström},
   title     = {Narrow proofs may be spacious: separating space and width in resolution},
   booktitle = stoc,
   year      = 2006,
@@ -5308,7 +5301,7 @@
 @inproceedings{DBLP:conf/stoc/HallgrenMRRS06,
   author    = {Sean Hallgren and
                Cristopher Moore and
-               Martin R{\"o}tteler and
+               Martin Rötteler and
                Alexander Russell and
                Pranab Sen},
   title     = {Limitations of quantum coset states for graph isomorphism},
@@ -5347,8 +5340,8 @@
 
 @inproceedings{DBLP:conf/stoc/FischerRV06,
   author    = {Simon Fischer and
-               Harald R{\"a}cke and
-               Berthold V{\"o}cking},
+               Harald Räcke and
+               Berthold Vöcking},
   title     = {Fast convergence to Wardrop equilibria by adaptive sampling methods},
   booktitle = stoc,
   year      = 2006,
@@ -5357,9 +5350,9 @@
 
 @inproceedings{DBLP:conf/stoc/FleischerKLS06,
   author    = {Lisa Fleischer and
-               Jochen K{\"o}nemann and
+               Jochen Könemann and
                Stefano Leonardi and
-               Guido Sch{\"a}fer},
+               Guido Schäfer},
   title     = {Simple cost sharing schemes for multicommodity rent-or-buy and stochastic Steiner tree},
   booktitle = stoc,
   year      = 2006,
@@ -5503,7 +5496,7 @@
 @inproceedings{DBLP:conf/stoc/BriestKV05,
   author    = {Patrick Briest and
                Piotr Krysta and
-               Berthold V{\"o}cking},
+               Berthold Vöcking},
   title     = {Approximation techniques for utilitarian mechanism design},
   booktitle = stoc,
   year      = 2005,
@@ -5556,7 +5549,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai05,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {Representing hard lattices with O(n log n) bits},
   booktitle = stoc,
   year      = 2005,
@@ -5618,7 +5611,7 @@
 
 @inproceedings{DBLP:conf/stoc/FriedlIS05,
   author    = {Katalin Friedl and
-               G{\'a}bor Ivanyos and
+               Gábor Ivanyos and
                Miklos Santha},
   title     = {Efficient testing of groups},
   booktitle = stoc,
@@ -5658,7 +5651,7 @@
   author    = {Mohammad Taghi Hajiaghayi and
                Jeong Han Kim and
                Tom Leighton and
-               Harald R{\"a}cke},
+               Harald Räcke},
   title     = {Oblivious routing in directed graphs with random demands},
   booktitle = stoc,
   year      = 2005,
@@ -5731,9 +5724,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KouckyPT05,
-  author    = {Michal Kouck{\'y} and
-               Pavel Pudl{\'a}k and
-               Denis Th{\'e}rien},
+  author    = {Michal Koucký and
+               Pavel Pudlák and
+               Denis Thérien},
   title     = {Bounded-depth circuits: separating wires from gates},
   booktitle = stoc,
   year      = 2005,
@@ -5780,7 +5773,7 @@
 @inproceedings{DBLP:conf/stoc/BasuPR05,
   author    = {Saugata Basu and
                Richard Pollack and
-               Marie-Fran{\c{c}}oise Roy},
+               Marie-Françoise Roy},
   title     = {Computing the first Betti number and the connected components of semi-algebraic sets},
   booktitle = stoc,
   year      = 2005,
@@ -5844,7 +5837,7 @@
 
 @inproceedings{DBLP:conf/stoc/MosselR05,
   author    = {Elchanan Mossel and
-               S{\'e}bastien Roch},
+               Sébastien Roch},
   title     = {Learning nonsingular phylogenies and hidden Markov models},
   booktitle = stoc,
   year      = 2005,
@@ -5927,7 +5920,7 @@
 @inproceedings{DBLP:conf/stoc/AdlerEM05,
   author    = {Micah Adler and
                Jeff Edmonds and
-               Jir{\'\i} Matousek},
+               Jirí Matousek},
   title     = {Towards asymptotic optimality in probabilistic packet marking},
   booktitle = stoc,
   year      = 2005,
@@ -5991,7 +5984,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Goncalves05,
-  author    = {Daniel Gon{\c{c}}alves},
+  author    = {Daniel Gonçalves},
   title     = {Edge partition of planar sraphs into two outerplanar graphs},
   booktitle = stoc,
   year      = 2005,
@@ -6225,7 +6218,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Hastad05,
-  author    = {Johan H{\aa}stad},
+  author    = {Johan Håstad},
   title     = {Every 2-{CSP} allows nontrivial approximation},
   booktitle = stoc,
   year      = 2005,
@@ -6577,7 +6570,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/LovaszV04,
-  author    = {L{\'a}szl{\'o} Lov{\'a}sz and
+  author    = {László Lovász and
                Santosh Vempala},
   title     = {Hit-and-run from a corner},
   booktitle = stoc,
@@ -6613,7 +6606,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Tardos04,
-  author    = {{\'E}va Tardos},
+  author    = {Éva Tardos},
   title     = {Network games},
   booktitle = stoc,
   year      = 2004,
@@ -6621,8 +6614,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BeierV04,
-  author    = {Ren{\'e} Beier and
-               Berthold V{\"o}cking},
+  author    = {René Beier and
+               Berthold Vöcking},
   title     = {Typical properties of winners and losers in discrete optimization},
   booktitle = stoc,
   year      = 2004,
@@ -6677,9 +6670,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/CorreaG04,
-  author    = {Jos{\'e} R. Correa and
+  author    = {José R. Correa and
                Michel X. Goemans},
-  title     = {An approximate K{\"o}nig's theorem for edge-coloring weighted bipartite graphs},
+  title     = {An approximate König's theorem for edge-coloring weighted bipartite graphs},
   booktitle = stoc,
   year      = 2004,
   pages     = {398-406},
@@ -6695,7 +6688,7 @@
 
 @inproceedings{DBLP:conf/stoc/GuptaPRS04,
   author    = {Anupam Gupta and
-               Martin P{\'a}l and
+               Martin Pál and
                R. Ravi and
                Amitabh Sinha},
   title     = {Boosted sampling: approximation algorithms for stochastic optimization},
@@ -6748,7 +6741,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BurgisserC04,
-  author    = {Peter B{\"u}rgisser and
+  author    = {Peter Bürgisser and
                Felipe Cucker},
   title     = {Counting complexity classes for numeric computations II: algebraic and semialgebraic sets},
   booktitle = stoc,
@@ -6757,7 +6750,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai04,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {A conjecture about polynomial time computable lattice-lattice functions},
   booktitle = stoc,
   year      = 2004,
@@ -6801,7 +6794,7 @@
 @inproceedings{DBLP:conf/stoc/ChenKLRSV04,
   author    = {Jiangzhuo Chen and
                Robert D. Kleinberg and
-               L{\'a}szl{\'o} Lov{\'a}sz and
+               László Lovász and
                Rajmohan Rajaraman and
                Ravi Sundaram and
                Adrian Vetta},
@@ -6902,7 +6895,7 @@
 
 @inproceedings{DBLP:conf/stoc/GairingLMM04,
   author    = {Martin Gairing and
-               Thomas L{\"u}cking and
+               Thomas Lücking and
                Marios Mavronicolas and
                Burkhard Monien},
   title     = {Computing Nash equilibria for scheduling on restricted parallel links},
@@ -6930,8 +6923,8 @@
 
 @inproceedings{DBLP:conf/stoc/FriedlIMSS03,
   author    = {Katalin Friedl and
-               G{\'a}bor Ivanyos and
-               Fr{\'e}d{\'e}ric Magniez and
+               Gábor Ivanyos and
+               Frédéric Magniez and
                Miklos Santha and
                Pranab Sen},
   title     = {Hidden translation and orbit coset in quantum computing},
@@ -7056,7 +7049,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Tardo03,
-  author    = {G{\'a}bor Tardos},
+  author    = {Gábor Tardos},
   title     = {Optimal probabilistic fingerprint codes},
   booktitle = stoc,
   year      = 2003,
@@ -7172,8 +7165,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BeierV03,
-  author    = {Ren{\'e} Beier and
-               Berthold V{\"o}cking},
+  author    = {René Beier and
+               Berthold Vöcking},
   title     = {Random knapsack in expected polynomial time},
   booktitle = stoc,
   year      = 2003,
@@ -7245,7 +7238,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BrodalF03,
-  author    = {Gerth St{\o}lting Brodal and
+  author    = {Gerth Stølting Brodal and
                Rolf Fagerberg},
   title     = {On the limits of cache-obliviousness},
   booktitle = stoc,
@@ -7255,7 +7248,7 @@
 
 @inproceedings{DBLP:conf/stoc/BatuEKMRRS03,
   author    = {Tugkan Batu and
-               Funda Erg{\"u}n and
+               Funda Ergün and
                Joe Kilian and
                Avner Magen and
                Sofya Raskhodnikova and
@@ -7328,7 +7321,7 @@
                Edith Cohen and
                Amos Fiat and
                Haim Kaplan and
-               Harald R{\"a}cke},
+               Harald Räcke},
   title     = {Optimal oblivious routing in polynomial time},
   booktitle = stoc,
   year      = 2003,
@@ -7336,7 +7329,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KonemannR03,
-  author    = {Jochen K{\"o}nemann and
+  author    = {Jochen Könemann and
                R. Ravi},
   title     = {Primal-dual meets local search: approximating {MST's} with nonuniform degree bounds},
   booktitle = stoc,
@@ -7345,7 +7338,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai03,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {The worst-case behavior of schnorr's algorithm approximating the shortest nonzero vector in a lattice},
   booktitle = stoc,
   year      = 2003,
@@ -7371,7 +7364,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/DamgardG03,
-  author    = {Ivan Damg{\aa}rd and
+  author    = {Ivan Damgård and
                Jens Groth},
   title     = {Non-interactive and reusable non-malleable commitment schemes},
   booktitle = stoc,
@@ -7460,7 +7453,7 @@
 @inproceedings{DBLP:conf/stoc/AnshelevichDTW03,
   author    = {Elliot Anshelevich and
                Anirban Dasgupta and
-               {\'E}va Tardos and
+               Éva Tardos and
                Tom Wexler},
   title     = {Near-optimal network design with selfish agents},
   booktitle = stoc,
@@ -7490,9 +7483,9 @@
 
 @inproceedings{DBLP:conf/stoc/AronovPST03,
   author    = {Boris Aronov and
-               J{\'a}nos Pach and
+               János Pach and
                Micha Sharir and
-               G{\'a}bor Tardos},
+               Gábor Tardos},
   title     = {Distinct distances in three and higher dimensions},
   booktitle = stoc,
   year      = 2003,
@@ -7584,7 +7577,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/OstlinP03,
-  author    = {Anna {\"O}stlin and
+  author    = {Anna Östlin and
                Rasmus Pagh},
   title     = {Uniform hashing in constant time and linear space},
   booktitle = stoc,
@@ -7620,8 +7613,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/GalR03,
-  author    = {Anna G{\'a}l and
-               Adi Ros{\'e}n},
+  author    = {Anna Gál and
+               Adi Rosén},
   title     = {Lower bounds on the amount of randomness in private computation},
   booktitle = stoc,
   year      = 2003,
@@ -7726,7 +7719,7 @@
                Ashish Goel and
                Ming-Deh A. Huang and
                David Kempe and
-               Pablo Moisset de Espan{\'e}s and
+               Pablo Moisset de Espanés and
                Paul W. K. Rothemund},
   title     = {Combinatorial optimization problems in self-assembly},
   booktitle = stoc,
@@ -7744,7 +7737,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/HastadV02,
-  author    = {Johan H{\aa}stad and
+  author    = {Johan Håstad and
                Srinivasan Venkatesh},
   title     = {On the advantage over a random assignment},
   booktitle = stoc,
@@ -7811,7 +7804,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Gacs02,
-  author    = {P{\'e}ter G{\'a}cs},
+  author    = {Péter Gács},
   title     = {Clairvoyant scheduling of random walks},
   booktitle = stoc,
   year      = 2002,
@@ -7847,7 +7840,7 @@
 
 @inproceedings{DBLP:conf/stoc/Kontogiannis02,
   author    = {Spyros C. Kontogiannis},
-  title     = {Lower bounds {\&} competitive algorithms for online scheduling of unit-size tasks to related machines},
+  title     = {Lower bounds & competitive algorithms for online scheduling of unit-size tasks to related machines},
   booktitle = stoc,
   year      = 2002,
   pages     = {124-133},
@@ -8018,7 +8011,7 @@
 @inproceedings{DBLP:conf/stoc/CzumajKV02,
   author    = {Artur Czumaj and
                Piotr Krysta and
-               Berthold V{\"o}cking},
+               Berthold Vöcking},
   title     = {Selfish traffic allocation for server farms},
   booktitle = stoc,
   year      = 2002,
@@ -8097,7 +8090,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiJKS02,
-  author    = {Mikl{\'o}s Ajtai and
+  author    = {Miklós Ajtai and
                T. S. Jayram and
                Ravi Kumar and
                D. Sivakumar},
@@ -8234,7 +8227,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai02,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {The invasiveness of off-line memory checking},
   booktitle = stoc,
   year      = 2002,
@@ -8304,7 +8297,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BrodalLMTT02,
-  author    = {Gerth St{\o}lting Brodal and
+  author    = {Gerth Stølting Brodal and
                George Lagogiannis and
                Christos Makris and
                Athanasios K. Tsakalidis and
@@ -8365,7 +8358,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/CrepeauGS02,
-  author    = {Claude Cr{\'e}peau and
+  author    = {Claude Crépeau and
                Daniel Gottesman and
                Adam Smith},
   title     = {Secure multi-party quantum computation},
@@ -8711,7 +8704,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/MostefaouiRR01,
-  author    = {Achour Most{\'e}faoui and
+  author    = {Achour Mostéfaoui and
                Sergio Rajsbaum and
                Michel Raynal},
   title     = {Conditions on input vectors for consensus solvability in asynchronous distributed systems},
@@ -8827,7 +8820,7 @@
 @inproceedings{DBLP:conf/stoc/KlivansS01a,
   author    = {Adam Klivans and
                Rocco A. Servedio},
-  title     = {Learning {DNF} in time 2{\~O}(n1/3)},
+  title     = {Learning {DNF} in time 2Õ(n1/3)},
   booktitle = stoc,
   year      = 2001,
   pages     = {258-265},
@@ -8871,8 +8864,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/GartnerSTWV01,
-  author    = {Bernd G{\"a}rtner and
-               J{\'o}zsef Solymosi and
+  author    = {Bernd Gärtner and
+               József Solymosi and
                Falk Tschirschnitz and
                Emo Welzl and
                Pavel Valtr},
@@ -8972,7 +8965,7 @@
                Jon M. Kleinberg and
                Amit Kumar and
                Rajeev Rastogi and
-               B{\"u}lent Yener},
+               Bülent Yener},
   title     = {Provisioning a virtual private network: a network design problem for multicommodity flow},
   booktitle = stoc,
   year      = 2001,
@@ -9061,7 +9054,7 @@
 
 @inproceedings{DBLP:conf/stoc/AlstrupBR01,
   author    = {Stephen Alstrup and
-               Gerth St{\o}lting Brodal and
+               Gerth Stølting Brodal and
                Theis Rauhe},
   title     = {Optimal static range reporting in one dimension},
   booktitle = stoc,
@@ -9070,8 +9063,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/ErgunSSS01,
-  author    = {Funda Erg{\"u}n and
-               S{\"u}leyman Cenk Sahinalp and
+  author    = {Funda Ergün and
+               Süleyman Cenk Sahinalp and
                Jonathan Sharp and
                Rakesh K. Sinha},
   title     = {Biased dictionaries with fast insert/deletes},
@@ -9122,7 +9115,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Vocking01,
-  author    = {Berthold V{\"o}cking},
+  author    = {Berthold Vöcking},
   title     = {Almost optimal permutation routing on hypercubes},
   booktitle = stoc,
   year      = 2001,
@@ -9201,7 +9194,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiKS01,
-  author    = {Mikl{\'o}s Ajtai and
+  author    = {Miklós Ajtai and
                Ravi Kumar and
                D. Sivakumar},
   title     = {A sieve algorithm for the shortest lattice vector problem},
@@ -9250,7 +9243,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Muller-OlmS01,
-  author    = {Markus M{\"u}ller-Olm and
+  author    = {Markus Müller-Olm and
                Helmut Seidl},
   title     = {On optimal slicing of parallel programs},
   booktitle = stoc,
@@ -9296,7 +9289,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Gacs01,
-  author    = {P{\'e}ter G{\'a}cs},
+  author    = {Péter Gács},
   title     = {Compatible sequences and a slow Winkler percolation},
   booktitle = stoc,
   year      = 2001,
@@ -9323,7 +9316,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/SimaO01,
-  author    = {Jir{\'\i} S{\'\i}ma and
+  author    = {Jirí Síma and
                Pekka Orponen},
   title     = {Computing with continuous-time Liapunov systems},
   booktitle = stoc,
@@ -9389,7 +9382,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Gutierrez00,
-  author    = {Claudio Guti{\'e}rrez},
+  author    = {Claudio Gutiérrez},
   title     = {Satisfiability of equations in free groups is in {PSPACE}},
   booktitle = stoc,
   year      = 2000,
@@ -9407,7 +9400,7 @@
 @inproceedings{DBLP:conf/stoc/CzumajS00,
   author    = {Artur Czumaj and
                Christian Scheideler},
-  title     = {A new algorithm approach to the general Lov{\'a}sz local lemma with applications to scheduling and satisfiability problems},
+  title     = {A new algorithm approach to the general Lovász local lemma with applications to scheduling and satisfiability problems},
   booktitle = stoc,
   year      = 2000,
   pages     = {38-47},
@@ -9503,7 +9496,7 @@
 
 @inproceedings{DBLP:conf/stoc/FeigeHK00,
   author    = {Uriel Feige and
-               Magn{\'u}s M. Halld{\'o}rsson and
+               Magnús M. Halldórsson and
                Guy Kortsarz},
   title     = {Approximating the domatic number},
   booktitle = stoc,
@@ -9573,7 +9566,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/CsirikJKOSW00,
-  author    = {J{\'a}nos Csirik and
+  author    = {János Csirik and
                David S. Johnson and
                Claire Kenyon and
                James B. Orlin and
@@ -9650,7 +9643,7 @@
                Andreas Stathopoulos and
                Dafna Talmor and
                Shang-Hua Teng and
-               Alper {\"U}ng{\"o}r and
+               Alper Üngör and
                Noel Walkington},
   title     = {Smoothing and cleaning up slivers},
   booktitle = stoc,
@@ -9671,7 +9664,7 @@
 @inproceedings{DBLP:conf/stoc/AleksandrovMS00,
   author    = {Lyudmil Aleksandrov and
                Anil Maheshwari and
-               J{\"o}rg-R{\"u}diger Sack},
+               Jörg-Rüdiger Sack},
   title     = {Approximation algorithms for geometric shortest path problems},
   booktitle = stoc,
   year      = 2000,
@@ -9709,7 +9702,7 @@
 
 @inproceedings{DBLP:conf/stoc/CramerDD00,
   author    = {Ronald Cramer and
-               Ivan Damg{\aa}rd and
+               Ivan Damgård and
                Stefan Dziembowski},
   title     = {On the complexity of verifiable secret sharing and multiparty computation},
   booktitle = stoc,
@@ -9802,7 +9795,7 @@
 
 @inproceedings{DBLP:conf/stoc/MuthukrishnanS00,
   author    = {S. Muthukrishnan and
-               S{\"u}leyman Cenk Sahinalp},
+               Süleyman Cenk Sahinalp},
   title     = {Approximate nearest neighbors and sequence comparison with block operations},
   booktitle = stoc,
   year      = 2000,
@@ -9919,7 +9912,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/FederMS00,
-  author    = {Tom{\'a}s Feder and
+  author    = {Tomás Feder and
                Rajeev Motwani and
                Carlos S. Subi},
   title     = {Finding long paths and cycles in sparse Hamiltonian graphs},
@@ -9939,7 +9932,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KonemannR00,
-  author    = {Jochen K{\"o}nemann and
+  author    = {Jochen Könemann and
                R. Ravi},
   title     = {A matter of degree: improved approximation algorithms for degree-bounded minimum spanning trees},
   booktitle = stoc,
@@ -10004,7 +9997,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/FederMPOW00,
-  author    = {Tom{\'a}s Feder and
+  author    = {Tomás Feder and
                Rajeev Motwani and
                Rina Panigrahy and
                Chris Olston and
@@ -10060,7 +10053,7 @@
 
 @inproceedings{DBLP:conf/stoc/GuptaT00,
   author    = {Anupam Gupta and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {A constant factor approximation algorithm for a class of classification problems},
   booktitle = stoc,
   year      = 2000,
@@ -10078,7 +10071,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Furer00,
-  author    = {Martin F{\"u}rer},
+  author    = {Martin Fürer},
   title     = {Approximating permanents of complex matrices},
   booktitle = stoc,
   year      = 2000,
@@ -10106,7 +10099,7 @@
 
 @inproceedings{DBLP:conf/stoc/DamMMS00,
   author    = {Wim van Dam and
-               Fr{\'e}d{\'e}ric Magniez and
+               Frédéric Magniez and
                Michele Mosca and
                Miklos Santha},
   title     = {Self-testing of universal and fault-tolerant sets of quantum gates},
@@ -10173,7 +10166,7 @@
   author    = {Petra Berenbrink and
                Artur Czumaj and
                Angelika Steger and
-               Berthold V{\"o}cking},
+               Berthold Vöcking},
   title     = {Balanced allocations: the heavily loaded case},
   booktitle = stoc,
   year      = 2000,
@@ -10183,7 +10176,7 @@
 @inproceedings{DBLP:conf/stoc/CharikarGTS99,
   author    = {Moses Charikar and
                Sudipto Guha and
-               {\'E}va Tardos and
+               Éva Tardos and
                David B. Shmoys},
   title     = {A {Constant-Factor} Approximation Algorithm for the {k-Median} Problem},
   booktitle = stoc,
@@ -10224,7 +10217,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/ErgunKR99,
-  author    = {Funda Erg{\"u}n and
+  author    = {Funda Ergün and
                Ravi Kumar and
                Ronitt Rubinfeld},
   title     = {Fast Approximate {PCPs}},
@@ -10235,7 +10228,7 @@
 
 @inproceedings{DBLP:conf/stoc/KiwiMS99,
   author    = {Marcos A. Kiwi and
-               Fr{\'e}d{\'e}ric Magniez and
+               Frédéric Magniez and
                Miklos Santha},
   title     = {Approximate Testing with Relative Error},
   booktitle = stoc,
@@ -10370,7 +10363,7 @@
   author    = {Ashish Goel and
                Monika Rauch Henzinger and
                Serge A. Plotkin and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {Scheduling Data Transfers in a Network and the Set Scheduling Problem},
   booktitle = stoc,
   year      = 1999,
@@ -10398,7 +10391,7 @@
 
 @inproceedings{DBLP:conf/stoc/ScheidelerV99,
   author    = {Christian Scheideler and
-               Berthold V{\"o}cking},
+               Berthold Vöcking},
   title     = {From Static to Dynamic Routing: Efficient Transformations of {Store-and-Forward} Protocols},
   booktitle = stoc,
   year      = 1999,
@@ -10454,7 +10447,7 @@
 
 @inproceedings{DBLP:conf/stoc/ChenLP99,
   author    = {Fang Chen and
-               L{\'a}szl{\'o} Lov{\'a}sz and
+               László Lovász and
                Igor Pak},
   title     = {Lifting Markov Chains to Speed up Mixing},
   booktitle = stoc,
@@ -10463,7 +10456,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/LovaszK99,
-  author    = {L{\'a}szl{\'o} Lov{\'a}sz and
+  author    = {László Lovász and
                Ravi Kannan},
   title     = {Faster Mixing via Average Conductance},
   booktitle = stoc,
@@ -10539,8 +10532,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/GalR99,
-  author    = {Anna G{\'a}l and
-               Adi Ros{\'e}n},
+  author    = {Anna Gál and
+               Adi Rosén},
   title     = {A Theorem on Sensitivity and Applications in Private Computation},
   booktitle = stoc,
   year      = 1999,
@@ -10651,7 +10644,7 @@
 @inproceedings{DBLP:conf/stoc/MuthukrishnanPSS99,
   author    = {S. Muthukrishnan and
                Mike Paterson and
-               S{\"u}leyman Cenk Sahinalp and
+               Süleyman Cenk Sahinalp and
                Torsten Suel},
   title     = {Compact Grid Layouts of {Multi-Level} Networks},
   booktitle = stoc,
@@ -10660,7 +10653,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/FederHKM99,
-  author    = {Tom{\'a}s Feder and
+  author    = {Tomás Feder and
                Pavol Hell and
                Sulamita Klein and
                Rajeev Motwani},
@@ -10833,7 +10826,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai99,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {Determinism versus {Non-Determinism} for Linear Time {RAMs}},
   booktitle = stoc,
   year      = 1999,
@@ -10911,7 +10904,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BlomerS99,
-  author    = {Johannes Bl{\"o}mer and
+  author    = {Johannes Blömer and
                Jean-Pierre Seifert},
   title     = {On the Complexity of Computing Short Linearly Independent Vectors and Short Bases in a Lattice},
   booktitle = stoc,
@@ -10998,7 +10991,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai98,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {The Shortest Vector Problem in L2 is {NP-hard} for Randomized Reductions},
   booktitle = stoc,
   year      = 1998,
@@ -11243,7 +11236,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/TherienW98,
-  author    = {Denis Th{\'e}rien and
+  author    = {Denis Thérien and
                Thomas Wilke},
   title     = {Over Words, Two Variables Are as Powerful as One Quantifier Alternation},
   booktitle = stoc,
@@ -11272,7 +11265,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/ErgunKKRV98,
-  author    = {Funda Erg{\"u}n and
+  author    = {Funda Ergün and
                Sampath Kannan and
                Ravi Kumar and
                Ronitt Rubinfeld and
@@ -11285,7 +11278,7 @@
 
 @inproceedings{DBLP:conf/stoc/BenderFRSV98,
   author    = {Michael A. Bender and
-               Antonio Fern{\'a}ndez and
+               Antonio Fernández and
                Dana Ron and
                Amit Sahai and
                Salil P. Vadhan},
@@ -11324,7 +11317,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiFS98,
-  author    = {Mikl{\'o}s Ajtai and
+  author    = {Miklós Ajtai and
                Ronald Fagin and
                Larry J. Stockmeyer},
   title     = {The Closure of Monadic {NP}},
@@ -11374,7 +11367,7 @@
   author    = {William Aiello and
                Eyal Kushilevitz and
                Rafail Ostrovsky and
-               Adi Ros{\'e}n},
+               Adi Rosén},
   title     = {Adaptive Packet Routing for Bursty Adversarial Traffic},
   booktitle = stoc,
   year      = 1998,
@@ -11395,10 +11388,10 @@
                Bruce M. Maggs and
                Friedhelm Meyer auf der Heide and
                Michael Mitzenmacher and
-               Andr{\'e}a W. Richa and
-               Klaus Schr{\"o}der and
+               Andréa W. Richa and
+               Klaus Schröder and
                Ramesh K. Sitaraman and
-               Berthold V{\"o}cking},
+               Berthold Vöcking},
   title     = {Randomized Protocols for Low Congestion Circuit Routing in Multistage Interconnection Networks},
   booktitle = stoc,
   year      = 1998,
@@ -11446,7 +11439,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Gal98,
-  author    = {Anna G{\'a}l},
+  author    = {Anna Gál},
   title     = {A Characterization of Span Program Size and Improved Lower Bounds for Monotone Span Programs},
   booktitle = stoc,
   year      = 1998,
@@ -11529,7 +11522,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/FournierK98,
-  author    = {Herv{\'e} Fournier and
+  author    = {Hervé Fournier and
                Pascal Koiran},
   title     = {Are Lower Bounds Easier over the Reals?},
   booktitle = stoc,
@@ -11703,7 +11696,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiHK98,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                Thomas P. Hayes and
                Peter G. Kimmel},
   title     = {The Cost of the Missing Bit: Communication Complexity with Help},
@@ -11713,7 +11706,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Hastad97,
-  author    = {Johan H{\aa}stad},
+  author    = {Johan Håstad},
   title     = {Some Optimal Inapproximability Results},
   booktitle = stoc,
   year      = 1997,
@@ -11954,7 +11947,7 @@
 
 @inproceedings{DBLP:conf/stoc/DuhF97,
   author    = {Rong-chii Duh and
-               Martin F{\"u}rer},
+               Martin Fürer},
   title     = {Approximation of {k-Set} Cover by {Semi-Local} Optimization},
   booktitle = stoc,
   year      = 1997,
@@ -11963,7 +11956,7 @@
 
 @inproceedings{DBLP:conf/stoc/ShmoysTA97,
   author    = {David B. Shmoys and
-               {\'E}va Tardos and
+               Éva Tardos and
                Karen Aardal},
   title     = {Approximation Algorithms for Facility Location Problems},
   booktitle = stoc,
@@ -11983,7 +11976,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiD97,
-  author    = {Mikl{\'o}s Ajtai and
+  author    = {Miklós Ajtai and
                Cynthia Dwork},
   title     = {A {Public-Key} Cryptosystem with Worst-Case/{Average-Case} Equivalence},
   booktitle = stoc,
@@ -12077,8 +12070,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Babai97,
-  author    = {L{\'a}szl{\'o} Babai},
-  title     = {Paul Erd{\"o}s (1913-1996): His Influence on the Theory of Computing},
+  author    = {László Babai},
+  title     = {Paul Erdös (1913-1996): His Influence on the Theory of Computing},
   booktitle = stoc,
   year      = 1997,
   pages     = {383-401},
@@ -12123,7 +12116,7 @@
 
 @inproceedings{DBLP:conf/stoc/CramerD97,
   author    = {Ronald Cramer and
-               Ivan Damg{\aa}rd},
+               Ivan Damgård},
   title     = {Linear {Zero-Knowledge} - A Note on Efficient {Zero-Knowledge} Proofs and Arguments},
   booktitle = stoc,
   year      = 1997,
@@ -12151,7 +12144,7 @@
                Martin Dietzfelbinger and
                Peter Bro Miltersen and
                Erez Petrank and
-               G{\'a}bor Tardos},
+               Gábor Tardos},
   title     = {Is Linear Hashing Good?},
   booktitle = stoc,
   year      = 1997,
@@ -12179,7 +12172,7 @@
 @inproceedings{DBLP:conf/stoc/KilianPT97,
   author    = {Joe Kilian and
                Erez Petrank and
-               G{\'a}bor Tardos},
+               Gábor Tardos},
   title     = {Probabilistically Checkable Proofs with Zero Knowledge},
   booktitle = stoc,
   year      = 1997,
@@ -12197,7 +12190,7 @@
 
 @inproceedings{DBLP:conf/stoc/MaggsV97,
   author    = {Bruce M. Maggs and
-               Berthold V{\"o}cking},
+               Berthold Vöcking},
   title     = {Improved Routing and Sorting on Multibutterflies},
   booktitle = stoc,
   year      = 1997,
@@ -12299,7 +12292,7 @@
 @inproceedings{DBLP:conf/stoc/CharikarCFM97,
   author    = {Moses Charikar and
                Chandra Chekuri and
-               Tom{\'a}s Feder and
+               Tomás Feder and
                Rajeev Motwani},
   title     = {Incremental Clustering and Dynamic Information Retrieval},
   booktitle = stoc,
@@ -12341,7 +12334,7 @@
 @inproceedings{DBLP:conf/stoc/KleinbergRT97,
   author    = {Jon M. Kleinberg and
                Yuval Rabani and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {Allocating Bandwidth for Bursty Connections},
   booktitle = stoc,
   year      = 1997,
@@ -12462,7 +12455,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Hastad96,
-  author    = {Johan H{\aa}stad},
+  author    = {Johan Håstad},
   title     = {Testing of the Long Code and Hardness for Clique},
   booktitle = stoc,
   year      = 1996,
@@ -12498,9 +12491,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BenczurK96,
-  author    = {Andr{\'a}s A. Bencz{\'u}r and
+  author    = {András A. Benczúr and
                David R. Karger},
-  title     = {Approximating s-t Minimum Cuts in {\~O}(n2) Time},
+  title     = {Approximating s-t Minimum Cuts in Õ(n2) Time},
   booktitle = stoc,
   year      = 1996,
   pages     = {47-55},
@@ -12517,7 +12510,7 @@
 @inproceedings{DBLP:conf/stoc/NagamochiI96,
   author    = {Hiroshi Nagamochi and
                Toshihide Ibaraki},
-  title     = {Deterministic {\~O}(nm) Time {Edge-Splitting} in Undirected Graphs},
+  title     = {Deterministic Õ(nm) Time {Edge-Splitting} in Undirected Graphs},
   booktitle = stoc,
   year      = 1996,
   pages     = {64-73},
@@ -12550,7 +12543,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ajtai96,
-  author    = {Mikl{\'o}s Ajtai},
+  author    = {Miklós Ajtai},
   title     = {Generating Hard Instances of Lattice Problems},
   booktitle = stoc,
   year      = 1996,
@@ -12593,7 +12586,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Cesa-BianchiDFS96,
-  author    = {Nicol{\`o} Cesa-Bianchi and
+  author    = {Nicolò Cesa-Bianchi and
                Eli Dichterman and
                Paul Fischer and
                Hans-Ulrich Simon},
@@ -12628,7 +12621,7 @@
 @inproceedings{DBLP:conf/stoc/BasuPR96,
   author    = {Saugata Basu and
                Richard Pollack and
-               Marie-Fran{\c{c}}oise Roy},
+               Marie-Françoise Roy},
   title     = {Computing Roadmaps of {Semi-Algebraic} Sets},
   booktitle = stoc,
   year      = 1996,
@@ -12816,7 +12809,7 @@
   author    = {Robert Cypher and
                Friedhelm Meyer auf der Heide and
                Christian Scheideler and
-               Berthold V{\"o}cking},
+               Berthold Vöcking},
   title     = {Universal Algorithms for {Store-and-Forward} and Wormhole Routing},
   booktitle = stoc,
   year      = 1996,
@@ -12825,7 +12818,7 @@
 
 @inproceedings{DBLP:conf/stoc/RabaniT96,
   author    = {Yuval Rabani and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {Distributed Packet Switching in Arbitrary Networks},
   booktitle = stoc,
   year      = 1996,
@@ -12896,7 +12889,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Slavik96,
-  author    = {Petr Slav{\'\i}k},
+  author    = {Petr Slavík},
   title     = {A Tight Analysis of the Greedy Algorithm for Set Cover},
   booktitle = stoc,
   year      = 1996,
@@ -13003,7 +12996,7 @@
 @inproceedings{DBLP:conf/stoc/KushilevitzOR96,
   author    = {Eyal Kushilevitz and
                Rafail Ostrovsky and
-               Adi Ros{\'e}n},
+               Adi Rosén},
   title     = {Characterizing Linear Size Circuits in Terms of Privacy},
   booktitle = stoc,
   year      = 1996,
@@ -13066,11 +13059,11 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiGKRSW96,
-  author    = {L{\'a}szl{\'o} Babai and
-               Anna G{\'a}l and
-               J{\'a}nos Koll{\'a}r and
-               Lajos R{\'o}nyai and
-               Tibor Szab{\'o} and
+  author    = {László Babai and
+               Anna Gál and
+               János Kollár and
+               Lajos Rónyai and
+               Tibor Szabó and
                Avi Wigderson},
   title     = {Extremal Bipartite Graphs and Superpolynomial Lower Bounds for Monotone Span Programs},
   booktitle = stoc,
@@ -13162,7 +13155,7 @@
 
 @inproceedings{DBLP:conf/stoc/KleinbergT95,
   author    = {Jon M. Kleinberg and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {Approximations for the disjoint paths problem in high-diameter planar networks},
   booktitle = stoc,
   year      = 1995,
@@ -13206,7 +13199,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/LovaszW95,
-  author    = {L{\'a}szl{\'o} Lov{\'a}sz and
+  author    = {László Lovász and
                Peter Winkler},
   title     = {Efficient stopping rules for Markov chains},
   booktitle = stoc,
@@ -13434,7 +13427,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/GradelM95,
-  author    = {Erich Gr{\"a}del and
+  author    = {Erich Grädel and
                Klaus Meer},
   title     = {Descriptive complexity theory over the real numbers},
   booktitle = stoc,
@@ -13530,7 +13523,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ergun95,
-  author    = {Funda Erg{\"u}n},
+  author    = {Funda Ergün},
   title     = {Testing multivariate linear functions: overcoming the generator bottleneck},
   booktitle = stoc,
   year      = 1995,
@@ -13539,7 +13532,7 @@
 
 @inproceedings{DBLP:conf/stoc/AnderssonHP95,
   author    = {Arne Andersson and
-               Johan H{\aa}stad and
+               Johan Håstad and
                Ola Petersson},
   title     = {A tight lower bound for searching a sorted array},
   booktitle = stoc,
@@ -13564,7 +13557,7 @@
                Yuan Ma and
                C. Greg Plaxton and
                Torsten Suel and
-               Endre Szemer{\'e}di},
+               Endre Szemerédi},
   title     = {Lower bounds for sorting networks},
   booktitle = stoc,
   year      = 1995,
@@ -13675,7 +13668,7 @@
                S. Muthukrishnan and
                C. Greg Plaxton and
                Rajmohan Rajaraman and
-               Andr{\'e}a W. Richa and
+               Andréa W. Richa and
                Robert Endre Tarjan and
                David Zuckerman},
   title     = {Tight analyses of two local load balancing algorithms},
@@ -13687,7 +13680,7 @@
 @inproceedings{DBLP:conf/stoc/KushilevitzOR95,
   author    = {Eyal Kushilevitz and
                Rafail Ostrovsky and
-               Adi Ros{\'e}n},
+               Adi Rosén},
   title     = {Log-space polynomial end-to-end communication},
   booktitle = stoc,
   year      = 1995,
@@ -13696,7 +13689,7 @@
 
 @inproceedings{DBLP:conf/stoc/GoldmannH95,
   author    = {Mikael Goldmann and
-               Johan H{\aa}stad},
+               Johan Håstad},
   title     = {Monotone circuits for connectivity have depth (log n)2-o(1) (Extended Abstract)},
   booktitle = stoc,
   year      = 1995,
@@ -13929,7 +13922,7 @@
 
 @inproceedings{DBLP:conf/stoc/KrauseP94,
   author    = {Matthias Krause and
-               Pavel Pudl{\'a}k},
+               Pavel Pudlák},
   title     = {On the computational power of depth 2 circuits with threshold and modulo gates},
   booktitle = stoc,
   year      = 1994,
@@ -13938,7 +13931,7 @@
 
 @inproceedings{DBLP:conf/stoc/JakobyRS94,
   author    = {Andreas Jakoby and
-               R{\"u}diger Reischuk and
+               Rüdiger Reischuk and
                Christian Schindelhauer},
   title     = {Circuit complexity: from the worst case to the average case},
   booktitle = stoc,
@@ -14169,7 +14162,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/SahinalpV94,
-  author    = {S{\"u}leyman Cenk Sahinalp and
+  author    = {Süleyman Cenk Sahinalp and
                Uzi Vishkin},
   title     = {Symmetry breaking for suffix tree construction},
   booktitle = stoc,
@@ -14188,7 +14181,7 @@
 @inproceedings{DBLP:conf/stoc/AnderssonHHP94,
   author    = {Arne Andersson and
                Torben Hagerup and
-               Johan H{\aa}stad and
+               Johan Håstad and
                Ola Petersson},
   title     = {The complexity of searching a sorted array of strings},
   booktitle = stoc,
@@ -14297,7 +14290,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/HalldorssonR94,
-  author    = {Magn{\'u}s M. Halld{\'o}rsson and
+  author    = {Magnús M. Halldórsson and
                Jaikumar Radhakrishnan},
   title     = {Greed is good: approximating independent sets in sparse and bounded-degree graphs},
   booktitle = stoc,
@@ -14475,7 +14468,7 @@
 @inproceedings{DBLP:conf/stoc/JiangSV94,
   author    = {Tao Jiang and
                Joel I. Seiferas and
-               Paul M. B. Vit{\'a}nyi},
+               Paul M. B. Vitányi},
   title     = {Two heads are better than two tapes},
   booktitle = stoc,
   year      = 1994,
@@ -14510,7 +14503,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Poutre94,
-  author    = {Johannes A. La Poutr{\'e}},
+  author    = {Johannes A. La Poutré},
   title     = {Alpha-algorithms for incremental planarity testing},
   booktitle = stoc,
   year      = 1994,
@@ -14650,9 +14643,9 @@
 
 @inproceedings{DBLP:conf/stoc/BennettGLVZ93,
   author    = {Charles H. Bennett and
-               P{\'e}ter G{\'a}cs and
+               Péter Gács and
                Ming Li and
-               Paul M. B. Vit{\'a}nyi and
+               Paul M. B. Vitányi and
                Wojciech H. Zurek},
   title     = {Thermodynamics of computation and information distance},
   booktitle = stoc,
@@ -14707,7 +14700,7 @@
 
 @inproceedings{DBLP:conf/stoc/IduryS93,
   author    = {Ramana M. Idury and
-               Alejandro A. Sch{\"a}ffer},
+               Alejandro A. Schäffer},
   title     = {Multiple matching of rectangular patterns},
   booktitle = stoc,
   year      = 1993,
@@ -15018,7 +15011,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Cesa-BianchiFHHSW93,
-  author    = {Nicol{\`o} Cesa-Bianchi and
+  author    = {Nicolò Cesa-Bianchi and
                Yoav Freund and
                David P. Helmbold and
                David Haussler and
@@ -15117,7 +15110,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/MatousekS93,
-  author    = {Jir{\'\i} Matousek and
+  author    = {Jirí Matousek and
                Otfried Schwarzkopf},
   title     = {A deterministic algorithm for the three-dimensional diameter problem},
   booktitle = stoc,
@@ -15149,7 +15142,7 @@
 
 @inproceedings{DBLP:conf/stoc/BergMS93,
   author    = {Mark de Berg and
-               Jir{\'\i} Matousek and
+               Jirí Matousek and
                Otfried Schwarzkopf},
   title     = {Piecewise linear paths among convex obstacles},
   booktitle = stoc,
@@ -15167,8 +15160,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/PudlakR93,
-  author    = {Pavel Pudl{\'a}k and
-               Vojtech R{\"o}dl},
+  author    = {Pavel Pudlák and
+               Vojtech Rödl},
   title     = {Modified ranks of tensors and the size of circuits},
   booktitle = stoc,
   year      = 1993,
@@ -15253,7 +15246,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/FederV93,
-  author    = {Tom{\'a}s Feder and
+  author    = {Tomás Feder and
                Moshe Y. Vardi},
   title     = {Monotone monadic {SNP} and constraint satisfaction},
   booktitle = stoc,
@@ -15337,7 +15330,7 @@
 
 @inproceedings{DBLP:conf/stoc/PlotkinT93,
   author    = {Serge A. Plotkin and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {Improved bounds on the max-flow min-cut ratio for multicommodity flows},
   booktitle = stoc,
   year      = 1993,
@@ -15488,7 +15481,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/FederM92,
-  author    = {Tom{\'a}s Feder and
+  author    = {Tomás Feder and
                Milena Mihail},
   title     = {Balanced Matroids},
   booktitle = stoc,
@@ -15562,7 +15555,7 @@
 
 @inproceedings{DBLP:conf/stoc/BealsS92,
   author    = {Robert Beals and
-               {\'A}kos Seress},
+               Ákos Seress},
   title     = {Structure Forest and Composition Factors for Small Base Groups in Nearly Linear Time},
   booktitle = stoc,
   year      = 1992,
@@ -15614,8 +15607,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BjornerLY92,
-  author    = {Anders Bj{\"o}rner and
-               L{\'a}szl{\'o} Lov{\'a}sz and
+  author    = {Anders Björner and
+               László Lovász and
                Andrew Chi-Chih Yao},
   title     = {Linear Decision Trees: Volume Estimates and Topological Bounds},
   booktitle = stoc,
@@ -15644,9 +15637,9 @@
 @inproceedings{DBLP:conf/stoc/BeameIKPPW92,
   author    = {Paul Beame and
                Russell Impagliazzo and
-               Jan Kraj{\'\i}cek and
+               Jan Krajícek and
                Toniann Pitassi and
-               Pavel Pudl{\'a}k and
+               Pavel Pudlák and
                Alan R. Woods},
   title     = {Exponential Lower Bounds for the Pigeonhole Principle},
   booktitle = stoc,
@@ -15749,7 +15742,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiM92,
-  author    = {Mikl{\'o}s Ajtai and
+  author    = {Miklós Ajtai and
                Nimrod Megiddo},
   title     = {A Deterministic Poly(log log N)-Time {N-Processor} Algorithm for Linear Programming in Fixed Dimension},
   booktitle = stoc,
@@ -15835,9 +15828,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiBT92,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                Robert Beals and
-               P{\'a}l Tak{\'a}csi-Nagy},
+               Pál Takácsi-Nagy},
   title     = {Symmetry and Complexity},
   booktitle = stoc,
   year      = 1992,
@@ -15916,7 +15909,7 @@
 
 @inproceedings{DBLP:conf/stoc/AgarwalM92,
   author    = {Pankaj K. Agarwal and
-               Jir{\'\i} Matousek},
+               Jirí Matousek},
   title     = {Ray Shooting and Parametric Search},
   booktitle = stoc,
   year      = 1992,
@@ -15934,7 +15927,7 @@
 
 @inproceedings{DBLP:conf/stoc/LoMS92,
   author    = {Chi-Yuan Lo and
-               Jir{\'\i} Matousek and
+               Jirí Matousek and
                William L. Steiger},
   title     = {{Ham-Sandwich} Cuts in R^d},
   booktitle = stoc,
@@ -16000,7 +15993,7 @@
 
 @inproceedings{DBLP:conf/stoc/Nisan92,
   author    = {Noam Nisan},
-  title     = {{RL} {SC}},
+  title     = {{RL} ⊆ {SC}},
   booktitle = stoc,
   year      = 1992,
   pages     = {619-623},
@@ -16100,7 +16093,7 @@
 
 @inproceedings{DBLP:conf/stoc/FeigeL92a,
   author    = {Uriel Feige and
-               L{\'a}szl{\'o} Lov{\'a}sz},
+               László Lovász},
   title     = {{Two-Prover} {One-Round} Proof Systems: Their Power and Their Problems},
   booktitle = stoc,
   year      = 1992,
@@ -16161,7 +16154,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiFLS91,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                Lance Fortnow and
                Leonid A. Levin and
                Mario Szegedy},
@@ -16228,11 +16221,11 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiCFLS91,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                Gene Cooperman and
                Larry Finkelstein and
                Eugene M. Luks and
-               {\'A}kos Seress},
+               Ákos Seress},
   title     = {Fast Monte Carlo Algorithms for Permutation Groups},
   booktitle = stoc,
   year      = 1991,
@@ -16244,7 +16237,7 @@
                Fillia Makedon and
                Serge A. Plotkin and
                Clifford Stein and
-               {\'E}va Tardos and
+               Éva Tardos and
                Spyros Tragoudas},
   title     = {Fast Approximation Algorithms for Multicommodity Flow Problems},
   booktitle = stoc,
@@ -16261,7 +16254,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/FederM91,
-  author    = {Tom{\'a}s Feder and
+  author    = {Tomás Feder and
                Rajeev Motwani},
   title     = {Clique Partitions, Graph Compression, and {Speeding-Up} Algorithms},
   booktitle = stoc,
@@ -16298,7 +16291,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Babai91,
-  author    = {L{\'a}szl{\'o} Babai},
+  author    = {László Babai},
   title     = {Local Expansion of {Vertex-Transitive} Graphs and Random Generation in Finite Groups},
   booktitle = stoc,
   year      = 1991,
@@ -16627,7 +16620,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Matousek91,
-  author    = {Jir{\'\i} Matousek},
+  author    = {Jirí Matousek},
   title     = {Approximations and Optimal Geometric {Divide-And-Conquer}},
   booktitle = stoc,
   year      = 1991,
@@ -16721,7 +16714,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Poutre90,
-  author    = {Johannes A. La Poutr{\'e}},
+  author    = {Johannes A. La Poutré},
   title     = {Lower Bounds for the {Union-Find} and the {Split-Find} Problem on Pointer Machines},
   booktitle = stoc,
   year      = 1990,
@@ -16978,7 +16971,7 @@
 @inproceedings{DBLP:conf/stoc/KleinST90,
   author    = {Philip N. Klein and
                Clifford Stein and
-               {\'E}va Tardos},
+               Éva Tardos},
   title     = {{Leighton-Rao} Might Be Practical: Faster Approximation Algorithms for Concurrent Flow with Uniform Capacities},
   booktitle = stoc,
   year      = 1990,
@@ -17049,7 +17042,7 @@
   author    = {Shai Ben-David and
                Allan Borodin and
                Richard M. Karp and
-               G{\'a}bor Tardos and
+               Gábor Tardos and
                Avi Wigderson},
   title     = {On the Power of Randomization in Online Algorithms},
   booktitle = stoc,
@@ -17066,7 +17059,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Hastad90,
-  author    = {Johan H{\aa}stad},
+  author    = {Johan Håstad},
   title     = {{Pseudo-Random} Generators under Uniform Assumptions},
   booktitle = stoc,
   year      = 1990,
@@ -17102,7 +17095,7 @@
 
 @inproceedings{DBLP:conf/stoc/PapadimitriouSY90,
   author    = {Christos H. Papadimitriou and
-               Alejandro A. Sch{\"a}ffer and
+               Alejandro A. Schäffer and
                Mihalis Yannakakis},
   title     = {On the Complexity of Local Search},
   booktitle = stoc,
@@ -17140,7 +17133,7 @@
 
 @inproceedings{DBLP:conf/stoc/HarjuK90,
   author    = {Tero Harju and
-               Juhani Karhum{\"a}ki},
+               Juhani Karhumäki},
   title     = {Decidability of the Multiplicity Equivalence of Multitape Finite Automata},
   booktitle = stoc,
   year      = 1990,
@@ -17213,7 +17206,7 @@
 
 @inproceedings{DBLP:conf/stoc/Lakshman90,
   author    = {Yagati N. Lakshman},
-  title     = {On the Complexity of Computing a Gr{\"o}bner Basis for the Radical of a Zero Dimensional Ideal},
+  title     = {On the Complexity of Computing a Gröbner Basis for the Radical of a Zero Dimensional Ideal},
   booktitle = stoc,
   year      = 1990,
   pages     = {555-563},
@@ -17231,7 +17224,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiNS89,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                Noam Nisan and
                Mario Szegedy},
   title     = {Multiparty Protocols and Logspace-hard Pseudorandom Sequences},
@@ -17305,7 +17298,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Vallee89,
-  author    = {Brigitte Vall{\'e}e},
+  author    = {Brigitte Vallée},
   title     = {Provably Fast Integer Factoring with {Quasi-Uniform} Small Quadratic Residues},
   booktitle = stoc,
   year      = 1989,
@@ -17440,7 +17433,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/HastadLN89,
-  author    = {Johan H{\aa}stad and
+  author    = {Johan Håstad and
                Frank Thomson Leighton and
                Mark Newman},
   title     = {Fast Computation Using Faulty Hypercubes},
@@ -17674,7 +17667,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Feder89,
-  author    = {Tom{\'a}s Feder},
+  author    = {Tomás Feder},
   title     = {A New Fixed Point Approach for Stable Networks and Stable Marriages},
   booktitle = stoc,
   year      = 1989,
@@ -17742,7 +17735,7 @@
 @inproceedings{DBLP:conf/stoc/FriedmanKS89,
   author    = {Joel Friedman and
                Jeff Kahn and
-               Endre Szemer{\'e}di},
+               Endre Szemerédi},
   title     = {On the Second Eigenvalue in Random Regular Graphs},
   booktitle = stoc,
   year      = 1989,
@@ -17761,8 +17754,8 @@
 
 @inproceedings{DBLP:conf/stoc/ChaumCD88,
   author    = {David Chaum and
-               Claude Cr{\'e}peau and
-               Ivan Damg{\aa}rd},
+               Claude Crépeau and
+               Ivan Damgård},
   title     = {Multiparty Unconditionally Secure Protocols},
   booktitle = stoc,
   year      = 1988,
@@ -17875,7 +17868,7 @@
 
 @inproceedings{DBLP:conf/stoc/HalstenbergR88,
   author    = {Bernd Halstenberg and
-               R{\"u}diger Reischuk},
+               Rüdiger Reischuk},
   title     = {On Different Modes of Communication},
   booktitle = stoc,
   year      = 1988,
@@ -17892,9 +17885,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/HajnalMT88,
-  author    = {Andr{\'a}s Hajnal and
+  author    = {András Hajnal and
                Wolfgang Maass and
-               Gy{\"o}rgy Tur{\'a}n},
+               György Turán},
   title     = {On the Communication Complexity of Graph Properties},
   booktitle = stoc,
   year      = 1988,
@@ -18052,7 +18045,7 @@
 @inproceedings{DBLP:conf/stoc/FiatNSSS88,
   author    = {Amos Fiat and
                Moni Naor and
-               Alejandro A. Sch{\"a}ffer and
+               Alejandro A. Schäffer and
                Jeanette P. Schmidt and
                Alan Siegel},
   title     = {Storing and Searching a Multikey Table},
@@ -18135,16 +18128,16 @@
 
 @inproceedings{DBLP:conf/stoc/FraysseixPP88,
   author    = {Hubert de Fraysseix and
-               J{\'a}nos Pach and
+               János Pach and
                Richard Pollack},
-  title     = {Small Sets Supporting F{\'a}ry Embeddings of Planar Graphs},
+  title     = {Small Sets Supporting Fáry Embeddings of Planar Graphs},
   booktitle = stoc,
   year      = 1988,
   pages     = {426-433},
 }
 
 @inproceedings{DBLP:conf/stoc/FederG88,
-  author    = {Tom{\'a}s Feder and
+  author    = {Tomás Feder and
                Daniel H. Greene},
   title     = {Optimal Algorithms for Approximate Clustering},
   booktitle = stoc,
@@ -18199,7 +18192,7 @@
 @inproceedings{DBLP:conf/stoc/PintzSS88,
   author    = {Janos Pintz and
                William L. Steiger and
-               Endre Szemer{\'e}di},
+               Endre Szemerédi},
   title     = {Two Infinite Sets of Primes with Fast Primality Tests},
   booktitle = stoc,
   year      = 1988,
@@ -18332,7 +18325,7 @@
 
 @inproceedings{DBLP:conf/stoc/BeameH87,
   author    = {Paul Beame and
-               Johan H{\aa}stad},
+               Johan Håstad},
   title     = {Optimal Bounds for Decision Problems on the {CRCW} {PRAM}},
   booktitle = stoc,
   year      = 1987,
@@ -18342,7 +18335,7 @@
 @inproceedings{DBLP:conf/stoc/MaassSS87,
   author    = {Wolfgang Maass and
                Georg Schnitger and
-               Endre Szemer{\'e}di},
+               Endre Szemerédi},
   title     = {Two Tapes Are Better than One for {Off-Line} Turing Machines},
   booktitle = stoc,
   year      = 1987,
@@ -18351,8 +18344,8 @@
 
 @inproceedings{DBLP:conf/stoc/BarringtonT87,
   author    = {David A. Mix Barrington and
-               Denis Th{\'e}rien},
-  title     = {Finite Monoids and the Fine Structure of NC{\mbox{$^1$}}},
+               Denis Thérien},
+  title     = {Finite Monoids and the Fine Structure of NC¹},
   booktitle = stoc,
   year      = 1987,
   pages     = {101-109},
@@ -18375,9 +18368,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiKS87,
-  author    = {Mikl{\'o}s Ajtai and
-               J{\'a}nos Koml{\'o}s and
-               Endre Szemer{\'e}di},
+  author    = {Miklós Ajtai and
+               János Komlós and
+               Endre Szemerédi},
   title     = {Deterministic Simulation in {LOGSPACE}},
   booktitle = stoc,
   year      = 1987,
@@ -18419,7 +18412,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Furer87,
-  author    = {Martin F{\"u}rer},
+  author    = {Martin Fürer},
   title     = {The Power of Randomness for Communication Complexity},
   booktitle = stoc,
   year      = 1987,
@@ -18435,7 +18428,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AbadiFK87,
-  author    = {Mart{\'\i}n Abadi and
+  author    = {Martín Abadi and
                Joan Feigenbaum and
                Joe Kilian},
   title     = {On Hiding Information from an Oracle},
@@ -18481,7 +18474,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/HastadLR87,
-  author    = {Johan H{\aa}stad and
+  author    = {Johan Håstad and
                Frank Thomson Leighton and
                Brian Rogoff},
   title     = {Analysis of Backoff Protocols for Multiple Access Channels},
@@ -18509,7 +18502,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/HastadLN87,
-  author    = {Johan H{\aa}stad and
+  author    = {Johan Håstad and
                Frank Thomson Leighton and
                Mark Newman},
   title     = {Reconfiguring a Hypercube in the Presence of Faults},
@@ -18589,7 +18582,7 @@
 @inproceedings{DBLP:conf/stoc/NaorNS87,
   author    = {Joseph Naor and
                Moni Naor and
-               Alejandro A. Sch{\"a}ffer},
+               Alejandro A. Schäffer},
   title     = {Fast Parallel Algorithms for Chordal Graphs},
   booktitle = stoc,
   year      = 1987,
@@ -18633,7 +18626,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ronyai87,
-  author    = {Lajos R{\'o}nyai},
+  author    = {Lajos Rónyai},
   title     = {Simple Algebras Are Difficult},
   booktitle = stoc,
   year      = 1987,
@@ -18641,9 +18634,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiLS87,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                Eugene M. Luks and
-               {\'A}kos Seress},
+               Ákos Seress},
   title     = {Permutation Groups in {NC}},
   booktitle = stoc,
   year      = 1987,
@@ -18704,14 +18697,14 @@
 
 @inproceedings{DBLP:conf/stoc/Barrington86,
   author    = {David A. Mix Barrington},
-  title     = {{Bounded-Width} {Polynomial-Size} Branching Programs Recognize Exactly Those Languages in NC{\mbox{$^1$}}},
+  title     = {{Bounded-Width} {Polynomial-Size} Branching Programs Recognize Exactly Those Languages in NC¹},
   booktitle = stoc,
   year      = 1986,
   pages     = {1-5},
 }
 
 @inproceedings{DBLP:conf/stoc/Hastad86,
-  author    = {Johan H{\aa}stad},
+  author    = {Johan Håstad},
   title     = {Almost Optimal Lower Bounds for Small Depth Circuits},
   booktitle = stoc,
   year      = 1986,
@@ -18727,14 +18720,14 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiBHKPRST86,
-  author    = {Mikl{\'o}s Ajtai and
-               L{\'a}szl{\'o} Babai and
-               P{\'e}ter Hajnal and
-               J{\'a}nos Koml{\'o}s and
-               Pavel Pudl{\'a}k and
-               Vojtech R{\"o}dl and
-               Endre Szemer{\'e}di and
-               Gy{\"o}rgy Tur{\'a}n},
+  author    = {Miklós Ajtai and
+               László Babai and
+               Péter Hajnal and
+               János Komlós and
+               Pavel Pudlák and
+               Vojtech Rödl and
+               Endre Szemerédi and
+               György Turán},
   title     = {Two lower bounds for branching programs},
   booktitle = stoc,
   year      = 1986,
@@ -18744,7 +18737,7 @@
 @inproceedings{DBLP:conf/stoc/GalilKS86,
   author    = {Zvi Galil and
                Ravi Kannan and
-               Endre Szemer{\'e}di},
+               Endre Szemerédi},
   title     = {On Nontrivial Separators for {k-Page} Graphs and Simulations by Nondeterministic {One-Tape} Turing Machines},
   booktitle = stoc,
   year      = 1986,
@@ -18868,10 +18861,10 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiKSS86,
-  author    = {Mikl{\'o}s Ajtai and
-               J{\'a}nos Koml{\'o}s and
+  author    = {Miklós Ajtai and
+               János Komlós and
                William L. Steiger and
-               Endre Szemer{\'e}di},
+               Endre Szemerédi},
   title     = {Deterministic Selection in O(log log N) Parallel Time},
   booktitle = stoc,
   year      = 1986,
@@ -19118,8 +19111,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BaranyF86,
-  author    = {Imre B{\'a}r{\'a}ny and
-               Zolt{\'a}n F{\"u}redi},
+  author    = {Imre Bárány and
+               Zoltán Füredi},
   title     = {Computing the Volume Is Difficult},
   booktitle = stoc,
   year      = 1986,
@@ -19277,7 +19270,7 @@
 
 @inproceedings{DBLP:conf/stoc/FriedlR85,
   author    = {Katalin Friedl and
-               Lajos R{\'o}nyai},
+               Lajos Rónyai},
   title     = {Polynomial Time Solutions of Some Problems in Computational Algebra},
   booktitle = stoc,
   year      = 1985,
@@ -19355,8 +19348,8 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BollobasS85,
-  author    = {B{\'e}la Bollob{\'a}s and
-               Istv{\'a}n Simon},
+  author    = {Béla Bollobás and
+               István Simon},
   title     = {On the Expected Behaviour of Disjoint Set Union Algorithms},
   booktitle = stoc,
   year      = 1985,
@@ -19383,7 +19376,7 @@
 @inproceedings{DBLP:conf/stoc/BakkerMOZ85,
   author    = {J. W. de Bakker and
                John-Jules Ch. Meyer and
-               Ernst-R{\"u}diger Olderog and
+               Ernst-Rüdiger Olderog and
                Jeffery I. Zucker},
   title     = {Transition Systems, Infinitary Languages and the Semantics of Uniform Concurrency},
   booktitle = stoc,
@@ -19474,7 +19467,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/HastadS85,
-  author    = {Johan H{\aa}stad and
+  author    = {Johan Håstad and
                Adi Shamir},
   title     = {The Cryptographic Security of Truncated Linearly Related Variables},
   booktitle = stoc,
@@ -19510,7 +19503,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/GacsR85,
-  author    = {P{\'e}ter G{\'a}cs and
+  author    = {Péter Gács and
                John H. Reif},
   title     = {A Simple {Three-Dimensional} {Real-Time} Reliable Cellular Array},
   booktitle = stoc,
@@ -19543,7 +19536,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Babai85,
-  author    = {L{\'a}szl{\'o} Babai},
+  author    = {László Babai},
   title     = {Trading Group Theory for Randomness},
   booktitle = stoc,
   year      = 1985,
@@ -19551,7 +19544,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BollobasFF85,
-  author    = {B{\'e}la Bollob{\'a}s and
+  author    = {Béla Bollobás and
                Trevor I. Fenner and
                Alan M. Frieze},
   title     = {An Algorithm for Finding Hamilton Cycles in a Random Graph},
@@ -19600,7 +19593,7 @@
 
 @inproceedings{DBLP:conf/stoc/AharoniEL85,
   author    = {Ron Aharoni and
-               Paul Erd{\"o}s and
+               Paul Erdös and
                Nathan Linial},
   title     = {Dual Integer Linear Programs and the Relationship between their Optima},
   booktitle = stoc,
@@ -19797,7 +19790,7 @@
 @inproceedings{DBLP:conf/stoc/KannanLL84,
   author    = {Ravindran Kannan and
                Arjen K. Lenstra and
-               L{\'a}szl{\'o} Lov{\'a}sz},
+               László Lovász},
   title     = {Polynomial Factorization and Nonrandomness of Bits of Algebraic and Some Transcendental Numbers},
   booktitle = stoc,
   year      = 1984,
@@ -20098,7 +20091,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiB84,
-  author    = {Mikl{\'o}s Ajtai and
+  author    = {Miklós Ajtai and
                Michael Ben-Or},
   title     = {A Theorem on Probabilistic Constant Depth Computations},
   booktitle = stoc,
@@ -20192,7 +20185,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Vitanyi84,
-  author    = {Paul M. B. Vit{\'a}nyi},
+  author    = {Paul M. B. Vitányi},
   title     = {Distributed Elections in an Archimedean Ring of Processors},
   booktitle = stoc,
   year      = 1984,
@@ -20200,9 +20193,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AjtaiKS83,
-  author    = {Mikl{\'o}s Ajtai and
-               J{\'a}nos Koml{\'o}s and
-               Endre Szemer{\'e}di},
+  author    = {Miklós Ajtai and
+               János Komlós and
+               Endre Szemerédi},
   title     = {An O(n log n) Sorting Network},
   booktitle = stoc,
   year      = 1983,
@@ -20235,7 +20228,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Gacs83,
-  author    = {P{\'e}ter G{\'a}cs},
+  author    = {Péter Gács},
   title     = {Reliable Computation with Cellular Automata},
   booktitle = stoc,
   year      = 1983,
@@ -20336,7 +20329,7 @@
   author    = {Pavol Duris and
                Zvi Galil and
                Wolfgang J. Paul and
-               R{\"u}diger Reischuk},
+               Rüdiger Reischuk},
   title     = {Two Nonlinear Lower Bounds},
   booktitle = stoc,
   year      = 1983,
@@ -20372,7 +20365,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/FurerSS83,
-  author    = {Martin F{\"u}rer and
+  author    = {Martin Fürer and
                Walter Schnyder and
                Ernst Specker},
   title     = {Normal Forms for Trivalent Graphs and Graphs of Bounded Valence},
@@ -20382,7 +20375,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiL83,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                Eugene M. Luks},
   title     = {Canonical Labeling of Graphs},
   booktitle = stoc,
@@ -20415,7 +20408,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/ODunlaingSY83,
-  author    = {Colm {\'O}'D{\'u}nlaing and
+  author    = {Colm Ó'Dúnlaing and
                Micha Sharir and
                Chee-Keng Yap},
   title     = {Retraction: A New Approach to {Motion-Planning}},
@@ -20511,7 +20504,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Olderog83,
-  author    = {Ernst-R{\"u}diger Olderog},
+  author    = {Ernst-Rüdiger Olderog},
   title     = {A Characterization of Hoare's Logic for Programs with Pascal-like Procedures},
   booktitle = stoc,
   year      = 1983,
@@ -20648,7 +20641,7 @@
 
 @inproceedings{DBLP:conf/stoc/Spinrad83,
   author    = {Jeremy Spinrad},
-  title     = {Transitive Orientation in O(n{\mbox{$^2$}}) Time},
+  title     = {Transitive Orientation in O(n²) Time},
   booktitle = stoc,
   year      = 1983,
   pages     = {457-466},
@@ -20682,7 +20675,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Furer82,
-  author    = {Martin F{\"u}rer},
+  author    = {Martin Fürer},
   title     = {The Tight Deterministic Time Hierarchy},
   booktitle = stoc,
   year      = 1982,
@@ -20698,7 +20691,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Vitanyi82,
-  author    = {Paul M. B. Vit{\'a}nyi},
+  author    = {Paul M. B. Vitányi},
   title     = {{Real-Time} Simulation of Multicounters by Oblivious {One-Tape} Turing Machines},
   booktitle = stoc,
   year      = 1982,
@@ -20976,7 +20969,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BabaiGM82,
-  author    = {L{\'a}szl{\'o} Babai and
+  author    = {László Babai and
                D. Yu. Grigoryev and
                David M. Mount},
   title     = {Isomorphism of Graphs with Bounded Eigenvalue Multiplicity},
@@ -21769,7 +21762,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/JaJa80,
-  author    = {Joseph J{\'a}J{\'a}},
+  author    = {Joseph JáJá},
   title     = {{Time-Space} Tradeoffs for some Algebraic Problems},
   booktitle = stoc,
   year      = 1980,
@@ -21895,7 +21888,7 @@
 
 @inproceedings{DBLP:conf/stoc/FlajoletFV79,
   author    = {Philippe Flajolet and
-               Jean Fran{\c{c}}on and
+               Jean Françon and
                Jean Vuillemin},
   title     = {Computing Integrated Costs of Sequences of Operations with Application to Dictionaries},
   booktitle = stoc,
@@ -22032,7 +22025,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/JaJa79,
-  author    = {Joseph J{\'a}J{\'a}},
+  author    = {Joseph JáJá},
   title     = {On the Complexity of Bilinear Forms with Commutativity},
   booktitle = stoc,
   year      = 1979,
@@ -22342,7 +22335,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/JaJa78,
-  author    = {Joseph J{\'a}J{\'a}},
+  author    = {Joseph JáJá},
   title     = {Optimal Evaluation of Pairs of Bilinear Forms},
   booktitle = stoc,
   year      = 1978,
@@ -22463,7 +22456,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Baudet78,
-  author    = {G{\'e}rard M. Baudet},
+  author    = {Gérard M. Baudet},
   title     = {An Analysis of the Full {Alpha-Beta} Pruning Algorithm},
   booktitle = stoc,
   year      = 1978,
@@ -22663,7 +22656,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/SimonG77,
-  author    = {Istv{\'a}n Simon and
+  author    = {István Simon and
                John Gill},
   title     = {Polynomial Reducibilities and Upward Diagonalizations},
   booktitle = stoc,
@@ -22970,7 +22963,7 @@
 
 @inproceedings{DBLP:conf/stoc/GuibasS76,
   author    = {Leonidas J. Guibas and
-               Endre Szemer{\'e}di},
+               Endre Szemerédi},
   title     = {The Analysis of Double Hashing},
   booktitle = stoc,
   year      = 1976,
@@ -23030,7 +23023,7 @@
 @inproceedings{DBLP:conf/stoc/MachteyY76,
   author    = {Michael Machtey and
                Paul Young},
-  title     = {Simple G{\"o}del Numberings, Translations, and the {P-Hierarchy}},
+  title     = {Simple Gödel Numberings, Translations, and the {P-Hierarchy}},
   booktitle = stoc,
   year      = 1976,
   pages     = {236-243},
@@ -23860,7 +23853,7 @@
 @inproceedings{DBLP:conf/stoc/ConstableM72,
   author    = {Robert L. Constable and
                Steven S. Muchnick},
-  title     = {Subrecursive Program Schemata I {\&} II: I. Undecidable Equivalence Problems; II. Decidable Equivalence Problems},
+  title     = {Subrecursive Program Schemata I & II: I. Undecidable Equivalence Problems; II. Decidable Equivalence Problems},
   booktitle = stoc,
   year      = 1972,
   pages     = {1-17},
@@ -23982,7 +23975,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/NievergeltR72,
-  author    = {J{\"u}rg Nievergelt and
+  author    = {Jürg Nievergelt and
                Edward M. Reingold},
   title     = {Binary Search Trees of Bounded Balance},
   booktitle = stoc,
@@ -24252,7 +24245,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Terrine71,
-  author    = {G{\'e}rrine Terrine},
+  author    = {Gérrine Terrine},
   title     = {An Algorithm Generating the Decision Table of a Deterministic Bottom Up Parser for a Subset of Context Free Grammars},
   booktitle = stoc,
   year      = 1971,
@@ -24500,7 +24493,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Perrot70,
-  author    = {Jean-Fran{\c{c}}ois Perrot},
+  author    = {Jean-François Perrot},
   title     = {On The Relationship between Finite Automata, Finite Monoids, and Prefix Codes},
   booktitle = stoc,
   year      = 1970,
