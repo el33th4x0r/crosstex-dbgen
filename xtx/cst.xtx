@@ -1,5 +1,224 @@
 @include journals-cs
 
+@article{DBLP:journals/jcst/AltmanS13,
+  author    = {Erik R. Altman and
+               Weisong Shi},
+  title     = {Preface},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/jcst/TangTLLGG13,
+  author    = {Jie Tang and
+               Pollawat Thanarungroj and
+               Chen Liu and
+               Shaoshan Liu and
+               Zhimin Gu and
+               Jean-Luc Gaudiot},
+  title     = {Pinned OS/Services: A Case Study of {XML} Parsing on Intel {SCC}},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {3-13},
+}
+
+@article{DBLP:journals/jcst/ChenXLD13,
+  author    = {Zhiguang Chen and
+               Nong Xiao and
+               Fang Liu and
+               Yimo Du},
+  title     = {Reorder Write Sequence by {Hetero-Buffer} to Extend {SSD's} Lifespan},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {14-27},
+}
+
+@article{DBLP:journals/jcst/DuXLC13,
+  author    = {Yimo Du and
+               Nong Xiao and
+               Fang Liu and
+               Zhiguang Chen},
+  title     = {CSWL: {Cross-SSD} {Wear-Leveling} Method in {SSD-Based} {RAID} Systems for System Endurance and Performance},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {28-41},
+}
+
+@article{DBLP:journals/jcst/MengYFT13,
+  author    = {Jin-Tao Meng and
+               Jian-Rui Yuan and
+               Sheng-Zhong Feng and
+               Lian-Sheng Tan},
+  title     = {Power Adjusting Algorithm: A New {Cross-Layer} Power Saving Mechanism for Mobile {Ad-Hoc} Networks},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {42-53},
+}
+
+@article{DBLP:journals/jcst/WangLYPJH13,
+  author    = {Xiaohang Wang and
+               Peng Liu and
+               Mei Yang and
+               Maurizio Palesi and
+               Yingtao Jiang and
+               Michael C. Huang},
+  title     = {Energy Efficient {Run-Time} Incremental Mapping for 3-D {Networks-on-Chip}},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {54-71},
+}
+
+@article{DBLP:journals/jcst/TeijeiroTTDMMW13,
+  author    = {Carlos Teijeiro and
+               Guillermo L. Taboada and
+               Juan Touriño and
+               Ramon Doallo and
+               José Carlos Mouriño and
+               Damián A. Mallón and
+               Brian Wibecan},
+  title     = {Design and Implementation of an Extended Collectives Library for Unified Parallel C},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {72-89},
+}
+
+@article{DBLP:journals/jcst/LiZLLJ13,
+  author    = {Yan Li and
+               Yunquan Zhang and
+               Yi-Qun Liu and
+               Guoping Long and
+               Haipeng Jia},
+  title     = {MPFFT: An {Auto-Tuning} {FFT} Library for {OpenCL} {GPUs}},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {90-105},
+}
+
+@article{DBLP:journals/jcst/ZhaoY13,
+  author    = {Lei Zhao and
+               Jiwen Yang},
+  title     = {Resources Snapshot Model for Concurrent Transactions in {Multi-Core} Processors},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {106-118},
+}
+
+@article{DBLP:journals/jcst/ChengZHL13,
+  author    = {Yuan-Qing Cheng and
+               Lei Zhang and
+               Yin-He Han and
+               Xiao-Wei Li},
+  title     = {{TSV} Minimization for Circuit - Partitioned 3D {SoC} Test Wrapper Design},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {119-128},
+}
+
+@article{DBLP:journals/jcst/Wang13,
+  author    = {Gao-Li Wang},
+  title     = {Collision Attack on the Full Extended MD4 and {Pseudo-Preimage} Attack on {RIPEMD}},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {129-143},
+}
+
+@article{DBLP:journals/jcst/Atanasiu13,
+  author    = {Adrian Atanasiu},
+  title     = {A New Batch Verifying Scheme for Identifying Illegal Signatures},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {144-151},
+}
+
+@article{DBLP:journals/jcst/YangYY13,
+  author    = {Bo Yang and
+               Yong Yu and
+               Chung-Huang Yang},
+  title     = {A Secure Scalar Product Protocol Against Malicious Adversaries},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {152-158},
+}
+
+@article{DBLP:journals/jcst/LiuGW13,
+  author    = {Shusheng Liu and
+               Zheng Gong and
+               Libin Wang},
+  title     = {Cryptanalysis of {Reduced-Round} {DASH}},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {159-164},
+}
+
+@article{DBLP:journals/jcst/YangLTMXS13,
+  author    = {Qiliang Yang and
+               Jian Lu and
+               XianPing Tao and
+               Xiaoxing Ma and
+               Jianchun Xing and
+               Wei Song},
+  title     = {Fuzzy {Self-Adaptation} of {Mission-Critical} Software Under Uncertainty},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {165-187},
+}
+
+@article{DBLP:journals/jcst/ZhouBR13,
+  author    = {Yu Zhou and
+               Luciano Baresi and
+               Matteo Rossi},
+  title     = {Towards a Formal Semantics for UML/{MARTE} State Machines Based on Hierarchical Timed Automata},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {188-202},
+}
+
+@article{DBLP:journals/jcst/LiuMZML13,
+  author    = {Yang Liu and
+               Huaikou Miao and
+               Hongwei Zeng and
+               Yan Ma and
+               Pan Liu},
+  title     = {Nondeterministic Probabilistic Petri Net - A New Method to Study Qualitative and Quantitative Behaviors of System},
+  journal   = cst,
+  volume    = {28},
+  number    = {1},
+  year      = 2013,
+  pages     = {203-216},
+}
+
 @article{DBLP:journals/jcst/Zhang12,
   author    = {Qin Zhang},
   title     = {Dynamic Uncertain Causality Graph for Knowledge Representation and Reasoning: Discrete {DAG} Cases},
@@ -160,7 +379,7 @@
 @article{DBLP:journals/jcst/WangZP12,
   author    = {Lu Wang and
                Hong-Yan Zhang and
-               Si-Long Peng},
+               Silong Peng},
   title     = {New Explorations on Cannon's Contributions and Generalized Solutions for Uniform Linear Motion Blur Identification},
   journal   = cst,
   volume    = {27},
@@ -377,8 +596,8 @@
 @article{DBLP:journals/jcst/PingTZY12,
   author    = {Yuan Ping and
                Ying-Jie Tian and
-               Ya-Jian Zhou and
-               Yi-Xian Yang},
+               Yajian Zhou and
+               Yixian Yang},
   title     = {Convex Decomposition Based Cluster Labeling Method for Support Vector Clustering},
   journal   = cst,
   volume    = {27},
@@ -882,6 +1101,419 @@
   pages     = {897-902},
 }
 
+@article{DBLP:journals/jcst/X12,
+  author    = {},
+  title     = {Preface},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {903-906},
+}
+
+@article{DBLP:journals/jcst/WeiseCT12,
+  author    = {Thomas Weise and
+               Raymond Chiong and
+               Ke Tang},
+  title     = {Evolutionary Optimization: Pitfalls and Booby Traps},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {907-936},
+}
+
+@article{DBLP:journals/jcst/ChangHZ12,
+  author    = {Pei-Chann Chang and
+               Wei-Hsiu Huang and
+               Zhen-Zhen Zhang},
+  title     = {A {Puzzle-Based} Genetic Algorithm with Block Mining and Recombination Heuristic for the Traveling Salesman Problem},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {937-949},
+}
+
+@article{DBLP:journals/jcst/ChenZ12,
+  author    = {Wei-neng Chen and
+               Jun Zhang},
+  title     = {Scheduling {Multi-Mode} Projects under Uncertainty to Optimize Cash Flows: A Monte Carlo Ant Colony System Approach},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {950-965},
+}
+
+@article{DBLP:journals/jcst/GallagherO12,
+  author    = {John C. Gallagher and
+               Michael W. Oppenheimer},
+  title     = {An Improved Evolvable Oscillator and Basis Function Set for Control of an {Insect-Scale} {Flapping-Wing} Micro Air Vehicle},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {966-978},
+}
+
+@article{DBLP:journals/jcst/YuanL12,
+  author    = {Bo Yuan and
+               Bin Li},
+  title     = {Coverage Optimization for {Defect-Tolerance} Logic Mapping on Nanoelectronic Crossbar Architectures},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {979-988},
+}
+
+@article{DBLP:journals/jcst/DashSM12,
+  author    = {Ratnakar Dash and
+               Pankaj Kumar Sa and
+               Banshidhar Majhi},
+  title     = {Particle Swarm Optimization Based Support Vector Regression for Blind Image Restoration},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {989-995},
+}
+
+@article{DBLP:journals/jcst/Al-KhateebK12,
+  author    = {Belal Al-Khateeb and
+               Graham Kendall},
+  title     = {Effect of {Look-Ahead} Depth in Evolutionary Checkers},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {996-1006},
+}
+
+@article{DBLP:journals/jcst/MoraFGGF12,
+  author    = {Antonio Miguel Mora and
+               Antonio Fernández-Ares and
+               Juan J. Merelo Guervós and
+               Pablo García-Sánchez and
+               Carlos M. Fernandes},
+  title     = {Effect of Noisy Fitness in {Real-Time} Strategy Games Player Behaviour Optimisation Using Evolutionary Algorithms},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {1007-1023},
+}
+
+@article{DBLP:journals/jcst/LuT12,
+  author    = {Xiaofen Lu and
+               Ke Tang},
+  title     = {Classification- and {Regression-Assisted} Differential Evolution for Computationally Expensive Problems},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {1024-1034},
+}
+
+@article{DBLP:journals/jcst/HeY12,
+  author    = {Ren-Jie He and
+               Zhen-Yu Yang},
+  title     = {Differential Evolution with Adaptive Mutation and Parameter Control Using Lévy Probability Distribution},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {1035-1055},
+}
+
+@article{DBLP:journals/jcst/IaccaCN12,
+  author    = {Giovanni Iacca and
+               Fabio Caraffini and
+               Ferrante Neri},
+  title     = {Compact Differential Evolution Light: High Performance Despite Limited Memory Requirement and Modest Computational Overhead},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {1056-1076},
+}
+
+@article{DBLP:journals/jcst/NikanjamR12,
+  author    = {Amin Nikanjam and
+               Adel Rahmani},
+  title     = {Exploiting Bivariate Dependencies to Speedup Structure Learning in Bayesian Optimization Algorithm},
+  journal   = cst,
+  volume    = {27},
+  number    = {5},
+  year      = 2012,
+  pages     = {1077-1090},
+}
+
+@article{DBLP:journals/jcst/X12a,
+  author    = {},
+  title     = {Preface},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1091},
+}
+
+@article{DBLP:journals/jcst/YangS12,
+  author    = {Yong-Liang Yang and
+               Chao-Hui Shen},
+  title     = {{Multi-Scale} Salient Features for Analyzing 3D Shapes},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1092-1099},
+}
+
+@article{DBLP:journals/jcst/MiaoFWP12,
+  author    = {Yongwei Miao and
+               Jieqing Feng and
+               Jinrong Wang and
+               Renato Pajarola},
+  title     = {A {Multi-Channel} Salience Based Detail Exaggeration Technique for 3D Relief Surfaces},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1100-1109},
+}
+
+@article{DBLP:journals/jcst/ZhaoTT12,
+  author    = {Jieyi Zhao and
+               Min Tang and
+               Ruofeng Tong},
+  title     = {{Connectivity-Based} Segmentation for {GPU-Accelerated} Mesh Decompression},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1110-1118},
+}
+
+@article{DBLP:journals/jcst/WangJLC12,
+  author    = {Xiaohui Wang and
+               Jia Jia and
+               Hanyu Liao and
+               Lianhong Cai},
+  title     = {Affective Image Colorization},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1119-1128},
+}
+
+@article{DBLP:journals/jcst/DingHXWSM12,
+  author    = {Shouhong Ding and
+               Feiyue Huang and
+               Zhifeng Xie and
+               Yongjian Wu and
+               Bin Sheng and
+               Lizhuang Ma},
+  title     = {A Customized Framework to Recompress Massive Internet Images},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1129-1139},
+}
+
+@article{DBLP:journals/jcst/LuWY12,
+  author    = {Bo Lu and
+               Guoren Wang and
+               Ye Yuan},
+  title     = {A Novel Approach Towards Large Scale {Cross-Media} Retrieval},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1140-1149},
+}
+
+@article{DBLP:journals/jcst/Al-DallalS12,
+  author    = {Jehad Al-Dallal and
+               Kassem Saleh},
+  title     = {Synthesizing Distributed Protocol Specifications from a {UML} State Machine Modeled Service Specification},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1150-1168},
+}
+
+@article{DBLP:journals/jcst/YangQY12,
+  author    = {Xibei Yang and
+               Yu-Hua Qian and
+               Jing-Yu Yang},
+  title     = {Hierarchical Structures on Multigranulation Spaces},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1169-1183},
+}
+
+@article{DBLP:journals/jcst/NiZLX12,
+  author    = {Chong-Jia Ni and
+               Ai-Ying Zhang and
+               Wenju Liu and
+               Bo Xu},
+  title     = {Automatic Prosodic Break Detection and Feature Analysis},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1184-1196},
+}
+
+@article{DBLP:journals/jcst/AltwaijryM12,
+  author    = {Najwa Altwaijry and
+               Mohamed El-bachir Menai},
+  title     = {Data Structures in {Multi-Objective} Evolutionary Algorithms},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1197-1210},
+}
+
+@article{DBLP:journals/jcst/BarriocanalSA12,
+  author    = {Elena García Barriocanal and
+               Miguel-Ángel Sicilia and
+               Salvador Sánchez Alonso},
+  title     = {Social {Network-Aware} Interfaces as Facilitators of Innovation},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1211-1221},
+}
+
+@article{DBLP:journals/jcst/GilM12,
+  author    = {Jorge Martínez Gil and
+               José Francisco Aldana Montes},
+  title     = {KnoE: A Web Mining Tool to Validate Previously Discovered Semantic Correspondences},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1222-1232},
+}
+
+@article{DBLP:journals/jcst/BediTBBM12,
+  author    = {Punam Bedi and
+               Anjali Thukral and
+               Hema Banati and
+               Abhishek Behl and
+               Varun Mendiratta},
+  title     = {A {Multi-Threaded} Semantic Focused Crawler},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1233-1242},
+}
+
+@article{DBLP:journals/jcst/MeslehSBQ12,
+  author    = {Abdelwadood Mesleh and
+               Dmitriy Skopin and
+               Sergey Baglikov and
+               Anas Quteishat},
+  title     = {Heart Rate Extraction from Vowel Speech Signals},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1243-1251},
+}
+
+@article{DBLP:journals/jcst/SunCYLPCC12,
+  author    = {Huifeng Sun and
+               Junliang Chen and
+               Gang Yu and
+               Chuanchang Liu and
+               Yong Peng and
+               Guang Chen and
+               Bo Cheng},
+  title     = {JacUOD: A New Similarity Measurement for Collaborative Filtering},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1252-1260},
+}
+
+@article{DBLP:journals/jcst/WuHHC12,
+  author    = {Yingjun Wu and
+               Han Huang and
+               Zhifeng Hao and
+               Feng Chen},
+  title     = {Local Community Detection Using Link Similarity},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1261-1268},
+}
+
+@article{DBLP:journals/jcst/LiuGH12,
+  author    = {Xin Liu and
+               Wei Gao and
+               Zhanyi Hu},
+  title     = {Hybrid Parallel Bundle Adjustment for 3D Scene Reconstruction with Massive Points},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1269-1280},
+}
+
+@article{DBLP:journals/jcst/LinSSXCM12,
+  author    = {Qing-Liang Lin and
+               Bin Sheng and
+               Yang Shen and
+               Zhifeng Xie and
+               Zhihua Chen and
+               Lizhuang Ma},
+  title     = {Fast Image Correspondence with Global Structure Projection},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1281-1288},
+}
+
+@article{DBLP:journals/jcst/WuLHJ12,
+  author    = {Wei Wu and
+               Hang Li and
+               Yunhua Hu and
+               Rong Jin},
+  title     = {A Kernel Approach to {Multi-Task} Learning with {Task-Specific} Kernels},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1289-1301},
+}
+
+@article{DBLP:journals/jcst/ZhangHZ12,
+  author    = {Hong-Tao Zhang and
+               Min-Lie Huang and
+               Xiao-Yan Zhu},
+  title     = {A Unified Active Learning Framework for Biomedical Relation Extraction},
+  journal   = cst,
+  volume    = {27},
+  number    = {6},
+  year      = 2012,
+  pages     = {1302-1313},
+}
+
 @article{DBLP:journals/jcst/ZongU10,
   author    = {Chengqing Zong and
                Hans Uszkoreit},
@@ -1154,7 +1786,7 @@
 
 @article{DBLP:journals/jcst/ChitsazW11,
   author    = {Mahsa Chitsaz and
-               Chaw Seng Woo},
+               Chaw-Seng Woo},
   title     = {Software Agent with Reinforcement Learning Approach for Medical Image Segmentation},
   journal   = cst,
   volume    = {26},
@@ -2554,7 +3186,7 @@
 }
 
 @article{DBLP:journals/jcst/BinhK10,
-  author    = {Nguyen Thanh Binh and
+  author    = {Thanh Binh Nguyen and
                Ashish Khare},
   title     = {Multilevel Threshold Based Image Denoising in Curvelet Domain},
   journal   = cst,
@@ -2782,8 +3414,8 @@
 }
 
 @article{DBLP:journals/jcst/YuS10,
-  author    = {Zhi-Feng Yu and
-               Wei-Song Shi},
+  author    = {Zhifeng Yu and
+               Weisong Shi},
   title     = {Queue Waiting Time Aware Dynamic Workflow Scheduling in Multicluster Environments},
   journal   = cst,
   volume    = {25},
@@ -9681,7 +10313,7 @@
                Lun-Yao Wang and
                Zong-Gang Zhou and
                Xien Ye and
-               Jian-Ping Hu},
+               Jianping Hu},
   title     = {Novel Synthesis and Optimization of {Multi-Level} Mixed Polarity {Reed-Muller} Functions},
   journal   = cst,
   volume    = {20},
@@ -13725,10 +14357,10 @@
 }
 
 @article{DBLP:journals/jcst/HuiDXX01,
-  author    = {Jiang Hui and
-               Lin Dong and
-               Zhang Xingyuan and
-               Xie Xiren},
+  author    = {Hui Jiang and
+               Dong Lin and
+               Xingyuan Zhang and
+               Xiren Xie},
   title     = {Type System in Programming Languages},
   journal   = cst,
   volume    = {16},

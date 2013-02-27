@@ -1,5 +1,123 @@
 @include journals-cs
 
+@article{DBLP:journals/tomacs/DoucetR13,
+  author    = {Arnaud Doucet and
+               Christian P. Robert},
+  title     = {Introduction to Special Issue on Monte Carlo Methods in Statistics},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tomacs/CorffF13,
+  author    = {Sylvain Le Corff and
+               Gersende Fort},
+  title     = {Convergence of a {Particle-Based} Approximation of the Block Online Expectation Maximization Algorithm},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tomacs/FusslFF13,
+  author    = {Agnes Fussl and
+               Sylvia Frühwirth-Schnatter and
+               Rudolf Frühwirth},
+  title     = {Efficient {MCMC} for Binomial Logit Models},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {3},
+}
+
+@article{DBLP:journals/tomacs/SinghCW13,
+  author    = {Sumeetpal S. Singh and
+               Nicolas Chopin and
+               Nick Whiteley},
+  title     = {Bayesian Learning of Noisy Markov Decision Processes},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tomacs/SchreckFM13,
+  author    = {Amandine Schreck and
+               Gersende Fort and
+               Eric Moulines},
+  title     = {Adaptive {Equi-Energy} Sampler: Convergence and Illustration},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tomacs/SainudiinTHL13,
+  author    = {Raazesh Sainudiin and
+               Gloria Teng and
+               Jennifer Harlow and
+               Dominic Lee},
+  title     = {Posterior Expectation of Regularly Paved Random Histograms},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {6},
+}
+
+@article{DBLP:journals/tomacs/BroniatowskiC13,
+  author    = {Michel Broniatowski and
+               Virgile Caron},
+  title     = {Small Variance Estimators for Rare Event Probabilities},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {7},
+}
+
+@article{DBLP:journals/tomacs/Schafer13,
+  author    = {Christian Schäfer},
+  title     = {Particle Algorithms for Optimization on Binary Spaces},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {8},
+}
+
+@article{DBLP:journals/tomacs/HamzeWF13,
+  author    = {Firas Hamze and
+               Ziyu Wang and
+               Nando de Freitas},
+  title     = {{Self-Avoiding} Random Dynamics on Integer Complex Systems},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {9},
+}
+
+@article{DBLP:journals/tomacs/SuchardSZRM13,
+  author    = {Marc A. Suchard and
+               Shawn E. Simpson and
+               Ivan Zorych and
+               Patrick Ryan and
+               David Madigan},
+  title     = {Massive Parallelization of Serial Inference Algorithms for a Complex Generalized Linear Model},
+  journal   = tomacs,
+  volume    = {23},
+  number    = {1},
+  year      = 2013,
+  pages     = {10},
+}
+
 @article{DBLP:journals/tomacs/ChenAN12,
   author    = {Xi Chen and
                Bruce E. Ankenman and
@@ -129,6 +247,75 @@
   number    = {3},
   year      = 2012,
   pages     = {17},
+}
+
+@article{DBLP:journals/tomacs/TaylorTSM12,
+  author    = {Simon J. E. Taylor and
+               Stephen John Turner and
+               Steffen Straßburger and
+               Navonil Mustafee},
+  title     = {Bridging the gap: A standards-based approach to OR/{MS} distributed simulation},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {4},
+  year      = 2012,
+  pages     = {18},
+}
+
+@article{DBLP:journals/tomacs/Lim12,
+  author    = {Eunji Lim},
+  title     = {Stochastic approximation over multidimensional discrete sets with applications to inventory systems and admission control of queueing networks},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {4},
+  year      = 2012,
+  pages     = {19},
+}
+
+@article{DBLP:journals/tomacs/HernandezLC12,
+  author    = {Alejandro S. Hernandez and
+               Thomas W. Lucas and
+               W. Matthew Carlyle},
+  title     = {Constructing nearly orthogonal latin hypercubes for any nonsaturated run-variable combination},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {4},
+  year      = 2012,
+  pages     = {20},
+}
+
+@article{DBLP:journals/tomacs/SantoroQ12,
+  author    = {Andrea Santoro and
+               Francesco Quaglia},
+  title     = {Transparent optimistic synchronization in the high-level architecture via time-management conversion},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {4},
+  year      = 2012,
+  pages     = {21},
+}
+
+@article{DBLP:journals/tomacs/HendersonE12,
+  author    = {Shane G. Henderson and
+               Samuel Ehrlichman},
+  title     = {Sharpening comparisons via gaussian copulas and semidefinite programming},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {4},
+  year      = 2012,
+  pages     = {22},
+}
+
+@article{DBLP:journals/tomacs/XueGH12,
+  author    = {Haidong Xue and
+               Feng Gu and
+               Xiaolin Hu},
+  title     = {Data assimilation using sequential monte carlo methods in wildfire spread simulation},
+  journal   = tomacs,
+  volume    = {22},
+  number    = {4},
+  year      = 2012,
+  pages     = {23},
 }
 
 @article{DBLP:journals/tomacs/PowellBBBG11,

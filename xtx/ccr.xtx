@@ -1,5 +1,104 @@
 @include journals-cs
 
+@article{DBLP:journals/ccr/LeeL13,
+  author    = {Yeonhee Lee and
+               Youngseok Lee},
+  title     = {Toward scalable internet traffic measurement and analysis with Hadoop},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {5-13},
+}
+
+@article{DBLP:journals/ccr/LiuAW13,
+  author    = {Yaoqing Liu and
+               Syed Obaid Amin and
+               Lan Wang},
+  title     = {Efficient {FIB} caching using minimal non-overlapping prefixes},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {14-21},
+}
+
+@article{DBLP:journals/ccr/BeverlyA13,
+  author    = {Robert Beverly and
+               Mark Allman},
+  title     = {Findings and implications from data mining the {IMC} review process},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {22-29},
+}
+
+@article{DBLP:journals/ccr/Allman13,
+  author    = {Mark Allman},
+  title     = {Comments on bufferbloat},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {30-37},
+}
+
+@article{DBLP:journals/ccr/Godfrey13,
+  author    = {P. Brighten Godfrey},
+  title     = {Hotnets 2012 highlights},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {38-42},
+}
+
+@article{DBLP:journals/ccr/GrunenbergerS13,
+  author    = {Yan Grunenberger and
+               Jonathan M. Smith},
+  title     = {Observations from the 2012 mobile world congress in Barcelona},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {43-45},
+}
+
+@article{DBLP:journals/ccr/ArslanYG13,
+  author    = {Engin Arslan and
+               Murat Yuksel and
+               Mehmet Hadi Gunes},
+  title     = {Network management game},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {46-50},
+}
+
+@article{DBLP:journals/ccr/SathiaseelanC13,
+  author    = {Arjuna Sathiaseelan and
+               Jon Crowcroft},
+  title     = {Internet on the move: challenges and solutions},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {51-55},
+}
+
+@article{DBLP:journals/ccr/RexfordZ13,
+  author    = {Jennifer Rexford and
+               Pamela Zave},
+  title     = {Report of the {DIMACS} working group on abstractions for network services, architecture, and implementation},
+  journal   = ccr,
+  volume    = {43},
+  number    = {1},
+  year      = 2013,
+  pages     = {56-59},
+}
+
 @article{DBLP:journals/ccr/LamRPVV12,
   author    = {Vinh The Lam and
                Sivasankar Radhakrishnan and
@@ -8808,7 +8907,7 @@
 }
 
 @article{DBLP:journals/ccr/Parr87,
-  author    = {G. P. Parr},
+  author    = {Gerard P. Parr},
   title     = {Address resolution for an intelligent filtering bridge running on a subnetted ethernet system},
   journal   = ccr,
   volume    = {17},

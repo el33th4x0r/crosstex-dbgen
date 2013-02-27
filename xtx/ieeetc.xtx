@@ -1,5 +1,666 @@
 @include journals-cs
 
+@article{DBLP:journals/tc/Zomaya13,
+  author    = {Albert Y. Zomaya},
+  title     = {State of the Journal},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {1-5},
+}
+
+@article{DBLP:journals/tc/YiRG13,
+  author    = {Kyueun Yi and
+               Won Woo Ro and
+               Jean-Luc Gaudiot},
+  title     = {Importance of Coherence Protocols with Network Applications on Multicore Processors},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {6-15},
+}
+
+@article{DBLP:journals/tc/VeroneseCBLV13,
+  author    = {Giuliana Santos Veronese and
+               Miguel Correia and
+               Alysson Neves Bessani and
+               Lau Cheuk Lung and
+               Paulo Veríssimo},
+  title     = {Efficient Byzantine {Fault-Tolerance}},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {16-30},
+}
+
+@article{DBLP:journals/tc/GolubcovsSXMY13,
+  author    = {Stanislavs Golubcovs and
+               Delong Shang and
+               Fei Xia and
+               Andrey Mokhov and
+               Alex Yakovlev},
+  title     = {Concurrent Multiresource Arbiter: Design and Applications},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {31-44},
+}
+
+@article{DBLP:journals/tc/BettiBPCS13,
+  author    = {Emiliano Betti and
+               Stanley Bak and
+               Rodolfo Pellizzoni and
+               Marco Caccamo and
+               Lui Sha},
+  title     = {{Real-Time} I/O Management System with {COTS} Peripherals},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {45-58},
+}
+
+@article{DBLP:journals/tc/KinsyCSLSD13,
+  author    = {Michel A. Kinsy and
+               Myong Hyon Cho and
+               Keun Sup Shim and
+               Mieszko Lis and
+               G. Edward Suh and
+               Srinivas Devadas},
+  title     = {Optimal and Heuristic {Application-Aware} Oblivious Routing},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {59-73},
+}
+
+@article{DBLP:journals/tc/BiancoGMR13,
+  author    = {Andrea Bianco and
+               Paolo Giaccone and
+               Guido Masera and
+               Marco Ricca},
+  title     = {Power Control for {Crossbar-Based} {Input-Queued} Switches},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {74-82},
+}
+
+@article{DBLP:journals/tc/LiS13,
+  author    = {Ze Li and
+               Haiying Shen},
+  title     = {SEDUM: Exploiting Social Networks in {Utility-Based} Distributed Routing for {DTNs}},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {83-97},
+}
+
+@article{DBLP:journals/tc/LombardiMB13,
+  author    = {Michele Lombardi and
+               Michela Milano and
+               Luca Benini},
+  title     = {Robust Scheduling of Task Graphs under Execution Time Uncertainty},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {98-111},
+}
+
+@article{DBLP:journals/tc/SakaiKZS13,
+  author    = {Kazuya Sakai and
+               Wei-Shinn Ku and
+               Roger Zimmermann and
+               Min-Te Sun},
+  title     = {Dynamic Bit Encoding for Privacy Protection against Correlation Attacks in {RFID} Backward Channel},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {112-123},
+}
+
+@article{DBLP:journals/tc/ChenSS13,
+  author    = {Zhimin Chen and
+               Ambuj Sinha and
+               Patrick Schaumont},
+  title     = {Using Virtual Secure Circuit to Protect Embedded Software from {Side-Channel} Attacks},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {124-136},
+}
+
+@article{DBLP:journals/tc/ChuGLLL13,
+  author    = {Rui Chu and
+               Lin Gu and
+               Yunhao Liu and
+               Mo Li and
+               Xicheng Lu},
+  title     = {SenSmart: Adaptive Stack Management for Multitasking Sensor Networks},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {137-150},
+}
+
+@article{DBLP:journals/tc/LiuZY013,
+  author    = {Xinxin Liu and
+               Han Zhao and
+               Xin Yang and
+               Xiaolin Li},
+  title     = {SinkTrail: A Proactive Data Reporting Protocol for Wireless Sensor Networks},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {151-162},
+}
+
+@article{DBLP:journals/tc/KumarL13,
+  author    = {T. Nandha Kumar and
+               Fabrizio Lombardi},
+  title     = {A Novel Heuristic Method for {Application-Dependent} Testing of a {SRAM-Based} {FPGA} Interconnect},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {163-172},
+}
+
+@article{DBLP:journals/tc/LuongMT13,
+  author    = {Thé Van Luong and
+               Nouredine Melab and
+               El-Ghazali Talbi},
+  title     = {{GPU} Computing for Parallel Local Search Metaheuristic Algorithms},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {173-185},
+}
+
+@article{DBLP:journals/tc/ZhouOD13,
+  author    = {Bo Zhou and
+               Hiroyuki Okamura and
+               Tadashi Dohi},
+  title     = {Enhancing Performance of Random Testing through Markov Chain Monte Carlo Methods},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {186-192},
+}
+
+@article{DBLP:journals/tc/AdikariBHNN13,
+  author    = {Jithra Adikari and
+               Ayad F. Barsoum and
+               M. Anwar Hasan and
+               Ashkan Hosseinzadeh Namin and
+               Christophe Nègre},
+  title     = {Improved {Area-Time} Tradeoffs for Field Multiplication Using Optimal Normal Bases},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {193-199},
+}
+
+@article{DBLP:journals/tc/Jha13,
+  author    = {Pranava K. Jha},
+  title     = {Comments on "{Multiple-Radix} Gray Codes in Lee Metric"},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {1},
+  year      = 2013,
+  pages     = {200},
+}
+
+@article{DBLP:journals/tc/ChoYA13,
+  author    = {Hansu Cho and
+               Lochi Yu and
+               Samar Abdi},
+  title     = {Automatic Generation of Transducer Models for {Bus-Based} {MPSoC} Design},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {211-224},
+}
+
+@article{DBLP:journals/tc/GuglielmoFPSV13,
+  author    = {Luigi Di Guglielmo and
+               Franco Fummi and
+               Graziano Pravadelli and
+               Francesco Stefanni and
+               Sara Vinco},
+  title     = {UNIVERCM: The {UNIversal} {VERsatile} Computational Model for Heterogeneous System Integration},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {225-241},
+}
+
+@article{DBLP:journals/tc/BalstonKHIW13,
+  author    = {Kyle Balston and
+               Mehdi Karimibiuki and
+               Alan J. Hu and
+               André Ivanov and
+               Steven J. E. Wilton},
+  title     = {{Post-Silicon} Code Coverage for Multiprocessor {System-on-Chip} Designs},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {242-246},
+}
+
+@article{DBLP:journals/tc/SinghD13,
+  author    = {Rajwinder Singh and
+               Mayank Dave},
+  title     = {Antecedence Graph Approach to Checkpointing for Fault Tolerance in Mobile Agent Systems},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {247-258},
+}
+
+@article{DBLP:journals/tc/Tsai13,
+  author    = {Chang-Hsiung Tsai},
+  title     = {A Quick Pessimistic Diagnosis Algorithm for {Hypercube-Like} Multiprocessor Systems under the {PMC} Model},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {259-267},
+}
+
+@article{DBLP:journals/tc/OzturkKC13,
+  author    = {Ozcan Ozturk and
+               Mahmut T. Kandemir and
+               Guangyu Chen},
+  title     = {{Compiler-Directed} Energy Reduction Using Dynamic Voltage Scaling and Voltage Islands for Embedded Systems},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {268-278},
+}
+
+@article{DBLP:journals/tc/ChakrabortyMRS13,
+  author    = {Debrup Chakraborty and
+               Cuauhtemoc Mancillas-López and
+               Francisco Rodríguez-Henríquez and
+               Palash Sarkar},
+  title     = {Efficient Hardware Implementations of {BRW} Polynomials and Tweakable Enciphering Schemes},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {279-294},
+}
+
+@article{DBLP:journals/tc/MichelogiannakisD13,
+  author    = {George Michelogiannakis and
+               William J. Dally},
+  title     = {Elastic Buffer Flow Control for {On-Chip} Networks},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {295-309},
+}
+
+@article{DBLP:journals/tc/LiuW13,
+  author    = {Cong Liu and
+               Jie Wu},
+  title     = {Fast Deep Packet Inspection with a Dual Finite Automata},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {310-321},
+}
+
+@article{DBLP:journals/tc/QuislantGPZ13,
+  author    = {Ricardo Quislant and
+               Eladio Gutiérrez and
+               Oscar G. Plata and
+               Emilio L. Zapata},
+  title     = {LS-Sig: {Locality-Sensitive} Signatures for Transactional Memory},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {322-335},
+}
+
+@article{DBLP:journals/tc/WangLQS13,
+  author    = {Yi Wang and
+               Duo Liu and
+               Zhiwei Qin and
+               Zili Shao},
+  title     = {Optimally Removing Intercore Communication Overhead for Streaming Applications on {MPSoCs}},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {336-350},
+}
+
+@article{DBLP:journals/tc/LiuLLJ13,
+  author    = {Fangming Liu and
+               Bo Li and
+               Baochun Li and
+               Hai Jin},
+  title     = {{Peer-Assisted} {On-Demand} Streaming: Characterizing Demands and Optimizing Supplies},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {351-361},
+}
+
+@article{DBLP:journals/tc/WangCWRL13,
+  author    = {Cong Wang and
+               Sherman S. M. Chow and
+               Qian Wang and
+               Kui Ren and
+               Wenjing Lou},
+  title     = {{Privacy-Preserving} Public Auditing for Secure Cloud Storage},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {362-375},
+}
+
+@article{DBLP:journals/tc/ChenVHLECZ13,
+  author    = {Dehao Chen and
+               Neil Vachharajani and
+               Robert Hundt and
+               Xinliang D. Li and
+               Stéphane Eranian and
+               Wenguang Chen and
+               Weimin Zheng},
+  title     = {Taming Hardware Event Samples for Precise and Versatile Feedback Directed Optimizations},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {376-389},
+}
+
+@article{DBLP:journals/tc/ZangG13,
+  author    = {Wei Zang and
+               Ann Gordon-Ross},
+  title     = {{T-SPaCS} - A {Two-Level} {Single-Pass} Cache Simulation Methodology},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {390-403},
+}
+
+@article{DBLP:journals/tc/Pomeranz13,
+  author    = {Irith Pomeranz},
+  title     = {An Adjacent Switching Activity Metric under Functional Broadside Tests},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {404-410},
+}
+
+@article{DBLP:journals/tc/RadonjicV13,
+  author    = {Aleksandar Radonjic and
+               Vladimir Vujicic},
+  title     = {Integer Codes Correcting Burst Errors within a Byte},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {2},
+  year      = 2013,
+  pages     = {411-415},
+}
+
+@article{DBLP:journals/tc/CaiWZC13,
+  author    = {Zhiping Cai and
+               Zhijun Wang and
+               Kai Zheng and
+               Jiannong Cao},
+  title     = {A Distributed {TCAM} Coprocessor Architecture for Integrated Longest Prefix Matching, Policy Filtering, and Content Filtering},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {417-427},
+}
+
+@article{DBLP:journals/tc/LuJL13,
+  author    = {Chia-Yu Lu and
+               Shang-Ming Jen and
+               Chi-Sung Laih},
+  title     = {A General Framework of {Side-Channel} Atomicity for Elliptic Curve Scalar Multiplication},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {428-438},
+}
+
+@article{DBLP:journals/tc/LinKT13,
+  author    = {Cheng-Kuan Lin and
+               Tzu-Liang Kung and
+               Jimmy J. M. Tan},
+  title     = {An Algorithmic Approach to {Conditional-Fault} Local Diagnosis of Regular Multiprocessor Interconnected Systems under the {PMC} Model},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {439-451},
+}
+
+@article{DBLP:journals/tc/RahmatiMBAMS13,
+  author    = {Dara Rahmati and
+               Srinivasan Murali and
+               Luca Benini and
+               Federico Angiolini and
+               Giovanni De Micheli and
+               Hamid Sarbazi-Azad},
+  title     = {Computing Accurate Performance Bounds for Best Effort {Networks-on-Chip}},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {452-467},
+}
+
+@article{DBLP:journals/tc/LinCYHCH13,
+  author    = {Chen-Wei Lin and
+               Hung-Hsin Chen and
+               Hao-Yu Yang and
+               Chin-Yuan Huang and
+               Mango Chia-Tso Chao and
+               Rei-Fu Huang},
+  title     = {Fault Models and Test Methods for Subthreshold {SRAMs}},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {468-481},
+}
+
+@article{DBLP:journals/tc/CuestaRGRD13,
+  author    = {Blas Cuesta and
+               Alberto Ros and
+               María Engracia Gómez and
+               Antonio Robles and
+               José Duato},
+  title     = {Increasing the Effectiveness of Directory Caches by Avoiding the Tracking of Noncoherent Memory Blocks},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {482-495},
+}
+
+@article{DBLP:journals/tc/OmanaRBM13,
+  author    = {Martin Omaña and
+               Daniele Rossi and
+               Nicolò Bosio and
+               Cecilia Metra},
+  title     = {Low Cost {NBTI} Degradation Detection and Masking Approaches},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {496-509},
+}
+
+@article{DBLP:journals/tc/ZhengC13,
+  author    = {Qiang Zheng and
+               Guohong Cao},
+  title     = {Minimizing Probing Cost and Achieving Identifiability in {Probe-Based} Network Link Monitoring},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {510-523},
+}
+
+@article{DBLP:journals/tc/KinsmanN13,
+  author    = {Phillip Kinsman and
+               Nicola Nicolici},
+  title     = {{NoC-Based} {FPGA} Acceleration for Monte Carlo Simulations with Applications to {SPECT} Imaging},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {524-535},
+}
+
+@article{DBLP:journals/tc/LiuB13,
+  author    = {Bin Liu and
+               Bevan M. Baas},
+  title     = {Parallel {AES} Encryption Engines for {Many-Core} Processor Arrays},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {536-547},
+}
+
+@article{DBLP:journals/tc/LuLOS13,
+  author    = {Liang Lu and
+               Weiqiang Liu and
+               Máire O'Neill and
+               Earl E. Swartzlander Jr.},
+  title     = {{QCA} Systolic Array Design},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {548-560},
+}
+
+@article{DBLP:journals/tc/RamanujamL13,
+  author    = {Rohit Sunkam Ramanujam and
+               Bill Lin},
+  title     = {Randomized {Throughput-Optimal} Oblivious Routing for Torus Networks},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {561-574},
+}
+
+@article{DBLP:journals/tc/SarikayaIB13,
+  author    = {Ruhi Sarikaya and
+               Canturk Isci and
+               Alper Buyuktosunoglu},
+  title     = {Runtime Application Behavior Prediction Using a Statistical Metric Model},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {575-588},
+}
+
+@article{DBLP:journals/tc/LiuHY13,
+  author    = {Ren Ping Liu and
+               Mark Hedley and
+               Xun Yang},
+  title     = {{WLAN} Location Service with {TXOP}},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {589-598},
+}
+
+@article{DBLP:journals/tc/ZhangMRKN13,
+  author    = {Yiwei Zhang and
+               Joseph McGeehan and
+               Edward Regan and
+               Stephen Kelly and
+               Jose Luis Nunez-Yanez},
+  title     = {Biophysically Accurate Foating Point Neuroprocessors for Reconfigurable Logic},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {599-608},
+}
+
+@article{DBLP:journals/tc/DuboisSPB13,
+  author    = {Florentine Dubois and
+               Abbas Sheibanyrad and
+               Frédéric Pétrot and
+               Maryam Bahmani},
+  title     = {Elevator-First: A {Deadlock-Free} Distributed Routing Algorithm for Vertically Partially Connected 3{D-NoCs}},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {609-615},
+}
+
+@article{DBLP:journals/tc/HeBCC13,
+  author    = {Daojing He and
+               Jiajun Bu and
+               Sammy Chan and
+               Chun Chen},
+  title     = {Handauth: Efficient Handover Authentication with Conditional Privacy for Wireless Networks},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {616-622},
+}
+
+@article{DBLP:journals/tc/FlahiveB13,
+  author    = {Mary Flahive and
+               Bella Bose},
+  title     = {On Resource Placement in Gaussian and {EJ} Interconnection Networks},
+  journal   = ieeetc,
+  volume    = {62},
+  number    = {3},
+  year      = 2013,
+  pages     = {623-626},
+}
+
 @article{DBLP:journals/tc/Zomaya12,
   author    = {Albert Y. Zomaya},
   title     = {State of the Journal},
@@ -1660,6 +2321,182 @@
   number    = {11},
   year      = 2012,
   pages     = {1651-1664},
+}
+
+@article{DBLP:journals/tc/Zomaya12b,
+  author    = {Albert Y. Zomaya},
+  title     = {A Message to the Editorial Board},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1665},
+}
+
+@article{DBLP:journals/tc/ElnozahyM12,
+  author    = {Mootaz Elnozahy and
+               Rami G. Melhem},
+  title     = {Guest Editors' Introduction: Special Section on Energy Efficient Computing},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1666-1667},
+}
+
+@article{DBLP:journals/tc/Li12a,
+  author    = {Keqin Li},
+  title     = {Scheduling Precedence Constrained Tasks with Reduced Processor Energy on Multiprocessor Computers},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1668-1681},
+}
+
+@article{DBLP:journals/tc/HanWZJYG12,
+  author    = {Jian-Jun Han and
+               Xiaodong Wu and
+               Dakai Zhu and
+               Hai Jin and
+               Laurence Tianruo Yang and
+               Jean-Luc Gaudiot},
+  title     = {{Synchronization-Aware} Energy Management for {VFI-Based} Multicore {Real-Time} Systems},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1682-1696},
+}
+
+@article{DBLP:journals/tc/SudanRHC12,
+  author    = {Kshitij Sudan and
+               Karthick Rajamani and
+               Wei Huang and
+               John B. Carter},
+  title     = {Tiered Memory: An {Iso-Power} Memory Architecture to Address the Memory Power Wall},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1697-1710},
+}
+
+@article{DBLP:journals/tc/SethiaDMM12,
+  author    = {Ankit Sethia and
+               Ganesh S. Dasika and
+               Trevor N. Mudge and
+               Scott A. Mahlke},
+  title     = {A Customized Processor for Energy Efficient Scientific Computing},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1711-1723},
+}
+
+@article{DBLP:journals/tc/PedramGG12,
+  author    = {Ardavan Pedram and
+               Robert A. van de Geijn and
+               Andreas Gerstlauer},
+  title     = {Codesign Tradeoffs for High-Performance, {Low-Power} Linear Algebra Architectures},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1724-1736},
+}
+
+@article{DBLP:journals/tc/CardosaSPC12,
+  author    = {Michael Cardosa and
+               Aameek Singh and
+               Himabindu Pucha and
+               Abhishek Chandra},
+  title     = {Exploiting {Spatio-Temporal} Tradeoffs for {Energy-Aware} {MapReduce} in the Cloud},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1737-1751},
+}
+
+@article{DBLP:journals/tc/SaroodMTK12,
+  author    = {Osman Sarood and
+               Phil Miller and
+               Ehsan Totoni and
+               Laxmikant V. Kalé},
+  title     = {"Cool" Load Balancing for High Performance Computing Data Centers},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1752-1764},
+}
+
+@article{DBLP:journals/tc/XiaoLSSYH12,
+  author    = {Yu Xiao and
+               Wei Li and
+               Matti Siekkinen and
+               Petri Savolainen and
+               Antti Ylä-Jääski and
+               Pan Hui},
+  title     = {Power Management for Wireless Data Transmission Using Complex Event Processing},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1765-1777},
+}
+
+@article{DBLP:journals/tc/SiderisP12,
+  author    = {Isidoros Sideris and
+               Kiamal Z. Pekmestzi},
+  title     = {Cost Effective Protection Techniques for {TCAM} Memory Arrays},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1778-1788},
+}
+
+@article{DBLP:journals/tc/MastroleonOYB12,
+  author    = {Lykomidis Mastroleon and
+               Daniel C. O'Neill and
+               Benjamin Yolken and
+               Nicholas Bambos},
+  title     = {Power and Delay Aware Management of Packet Switches},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1789-1799},
+}
+
+@article{DBLP:journals/tc/LiuTLC12,
+  author    = {Qiang Liu and
+               Tim Todman and
+               Wayne Luk and
+               George A. Constantinides},
+  title     = {Optimizing Hardware Design by Composing {Utility-Directed} Transformations},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1800-1812},
+}
+
+@article{DBLP:journals/tc/WangHLKW12,
+  author    = {Yue-Li Wang and
+               Cheng-Ju Hsu and
+               Jia Jie Liu and
+               Ming-Tat Ko and
+               Fu-Hsing Wang},
+  title     = {A New Subclass of Integer Linear Programming Problems and Its Applications},
+  journal   = ieeetc,
+  volume    = {61},
+  number    = {12},
+  year      = 2012,
+  pages     = {1813-1822},
 }
 
 @article{DBLP:journals/tc/Lombardi11,
@@ -7369,7 +8206,7 @@
   author    = {Wan-Chen Lu and
                Kwei-Jay Lin and
                Hsin-Wen Wei and
-               Wei Kuan Shih},
+               Wei-Kuan Shih},
   title     = {Efficient Exact Test for {Rate-Monotonic} Schedulability Using Large {Period-Dependent} Initial Values},
   journal   = ieeetc,
   volume    = {57},
@@ -11688,7 +12525,7 @@
 
 @article{DBLP:journals/tc/SchaumontHYV06,
   author    = {Patrick Schaumont and
-               David Hwang and
+               David D. Hwang and
                Shenglin Yang and
                Ingrid Verbauwhede},
   title     = {Multilevel Design Validation in a Secure Embedded System},
@@ -23233,7 +24070,7 @@
 }
 
 @article{DBLP:journals/tc/LauP98,
-  author    = {Francis C. M. Lau and
+  author    = {Francis Chung-Ming Lau and
                W. C. Poon},
   title     = {Throughput Analysis of {B-Networks}},
   journal   = ieeetc,
@@ -24340,7 +25177,7 @@
 @article{DBLP:journals/tc/HamadaF97,
   author    = {Mitsuru Hamada and
                Eiji Fujiwara},
-  title     = {A Class of Error Control Codes for Byte Organized Memory Systems SbEC-(Sb+S){ED} Codes},
+  title     = {A Class of Error Control Codes for Byte Organized Memory Systems -SbEC-(Sb+S){ED} Codes-},
   journal   = ieeetc,
   volume    = {46},
   number    = {1},
@@ -24363,7 +25200,7 @@
   author    = {Qing Hu and
                Xiaojun Shen and
                Jing-Yu Yang},
-  title     = {Topologies of Combined (2{logN}  1)-Stage Interconnection Networks},
+  title     = {Topologies of Combined (2{logN} - 1)-Stage Interconnection Networks},
   journal   = ieeetc,
   volume    = {46},
   number    = {1},
@@ -27353,7 +28190,7 @@
                Alain Gefflaut and
                Philippe Joubert and
                Christine Morin and
-               Peter W. Lee},
+               Peter A. Lee},
   title     = {An Architecture for Tolerating Processor Failures in Shared Memory Multiprocessors},
   journal   = ieeetc,
   volume    = {45},
@@ -28329,7 +29166,7 @@
 }
 
 @article{DBLP:journals/tc/ShihL95,
-  author    = {Wei Kuan Shih and
+  author    = {Wei-Kuan Shih and
                Jane W.-S. Liu},
   title     = {Algorithms for Scheduling Imprecise Computations with Timing Constraints to Minimize Maximum Error},
   journal   = ieeetc,
@@ -28477,6 +29314,18 @@
   number    = {4},
   year      = 1995,
   pages     = {601-604},
+}
+
+@article{DBLP:journals/tc/ShenXW95,
+  author    = {Xiaojun Shen and
+               Mao Xu and
+               Xiangzu Wang},
+  title     = {An Optimal Algorithm for Permutation Admissibility to Multistage Interconnection Networks},
+  journal   = ieeetc,
+  volume    = {44},
+  number    = {4},
+  year      = 1995,
+  pages     = {604-608},
 }
 
 @article{DBLP:journals/tc/ChenB95,
@@ -33642,17 +34491,6 @@
   pages     = {36-51},
 }
 
-@article{DBLP:journals/tc/PehaT92,
-  author    = {Jon M. Peha and
-               Fouad A. Tobagi},
-  title     = {Comments on ``Tolerance of {Double-Loop} Computer Networks to Multinode Failures''. {IEEE} Trans. Comput., vol},
-  journal   = ieeetc,
-  volume    = {41},
-  number    = {11},
-  year      = 1992,
-  pages     = {38},
-}
-
 @article{DBLP:journals/tc/SayahK92,
   author    = {John Y. Sayah and
                Charles R. Kime},
@@ -35391,6 +36229,17 @@
   pages     = {1484-1488},
 }
 
+@article{DBLP:journals/tc/PehaT92,
+  author    = {Jon M. Peha and
+               Fouad A. Tobagi},
+  title     = {Comments on ``Tolerance of {Double-Loop} Computer Networks to Multinode Failures''. {IEEE} Trans. Comput., vol. 38, no. 5, pp. 738-741, May 1989},
+  journal   = ieeetc,
+  volume    = {41},
+  number    = {11},
+  year      = 1992,
+  pages     = {1488-1490},
+}
+
 @article{DBLP:journals/tc/YangF92,
   author    = {Guu-chang Yang and
                Thomas E. Fuja},
@@ -37034,7 +37883,7 @@
 }
 
 @article{DBLP:journals/tc/KohT91,
-  author    = {Jae-moon Koh and
+  author    = {Jae-Moon Koh and
                Dong-wan Tcha},
   title     = {Information Dissemination in Trees with Nonuniform Edge Transmission Times},
   journal   = ieeetc,
@@ -38281,7 +39130,7 @@
 }
 
 @article{DBLP:journals/tc/ShihWK90,
-  author    = {Wei Kuan Shih and
+  author    = {Wei-Kuan Shih and
                Sun Wu and
                Yue-Sun Kuo},
   title     = {Unifying Maximum Cut and Minimum Cut of a Planar Graph},
@@ -43973,7 +44822,7 @@
 }
 
 @article{DBLP:journals/tc/ZangW87,
-  author    = {Wenlong Zang and
+  author    = {Wenlong Zhang and
                Jack K. Wolf},
   title     = {Rate 1/2 and 2/3 Majority Logic Decodable Binary Burst {Error-Correcting} Codes},
   journal   = ieeetc,
@@ -46597,7 +47446,7 @@
   author    = {Israel Koren and
                Zahava Koren and
                Stephen Y. H. Su},
-  title     = {Analaysis of a Class of Recovery Procedures},
+  title     = {Analysis of a Class of Recovery Procedures},
   journal   = ieeetc,
   volume    = {35},
   number    = {8},

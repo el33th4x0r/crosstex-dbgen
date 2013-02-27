@@ -1,5 +1,119 @@
 @include journals-cs
 
+@article{DBLP:journals/sigops/MalkhiR13,
+  author    = {Dahlia Malkhi and
+               Robbert van Renesse},
+  title     = {Workshop report on {LADIS} 2012},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/sigops/Costa13,
+  author    = {Paolo Costa},
+  title     = {Bridging the gap between applications and networks in data centers},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {3-8},
+}
+
+@article{DBLP:journals/sigops/JunqueiraKR13,
+  author    = {Flavio Paiva Junqueira and
+               Ivan Kelly and
+               Benjamin Reed},
+  title     = {Durability with {BookKeeper}},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {9-15},
+}
+
+@article{DBLP:journals/sigops/ShueFS13,
+  author    = {David Shue and
+               Michael J. Freedman and
+               Anees Shaikh},
+  title     = {Fairness and isolation in multi-tenant storage as optimization decomposition},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {16-21},
+}
+
+@article{DBLP:journals/sigops/GhitaAT13,
+  author    = {Denisa Ghita and
+               Katerina J. Argyraki and
+               Patrick Thiran},
+  title     = {Toward accurate and practical network tomography},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {22-26},
+}
+
+@article{DBLP:journals/sigops/LudwichF13,
+  author    = {Mateus Krepsky Ludwich and
+               Antônio Augusto Fröhlich},
+  title     = {On the formal verification of component-based embedded operating systems},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {28-34},
+}
+
+@article{DBLP:journals/sigops/SaFM13,
+  author    = {Alirio Santos de Sá and
+               Allan Edgard Silva Freitas and
+               Raimundo José de Araújo Macêdo},
+  title     = {Adaptive request batching for byzantine replication},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {35-42},
+}
+
+@article{DBLP:journals/sigops/JivanD13,
+  author    = {Naser Ezzati Jivan and
+               Michel R. Dagenais},
+  title     = {A framework to compute statistics of system parameters from very large trace files},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {43-54},
+}
+
+@article{DBLP:journals/sigops/SaurN13,
+  author    = {Karla Saur and
+               Iulian Neamtiu},
+  title     = {Report on the fourth workshop on hot topics in software upgrades ({HotSWUp} 2012)},
+  journal   = osr,
+  volume    = {47},
+  number    = {1},
+  year      = 2013,
+  pages     = {55-62},
+}
+
+@article{DBLP:journals/sigops/DawkinsVS12,
+  author    = {Scott Dawkins and
+               Kaladhar Voruganti and
+               John D. Strunk},
+  title     = {Systems research and innovation in data {ONTAP}},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {1-3},
+}
+
 @article{DBLP:journals/sigops/RodriguesAVC12,
   author    = {Luis Rodrigues and
                Divyakant Agrawal and
@@ -27,6 +141,18 @@
   pages     = {2-9},
 }
 
+@article{DBLP:journals/sigops/EllardER12,
+  author    = {Daniel Ellard and
+               Craig Everhart and
+               Theresa Raj},
+  title     = {Glitz: cross-vendor federated file systems},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {4-10},
+}
+
 @article{DBLP:journals/sigops/TatemuraPH12,
   author    = {Jun'ichi Tatemura and
                Oliver Po and
@@ -48,6 +174,18 @@
   number    = {2},
   year      = 2012,
   pages     = {10-18},
+}
+
+@article{DBLP:journals/sigops/BissonPP12,
+  author    = {Timothy Bisson and
+               Yuvraj Patel and
+               Shankar Pasupathy},
+  title     = {Designing a fast file system crawler with incremental differencing},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {11-19},
 }
 
 @article{DBLP:journals/sigops/RusuD12,
@@ -85,6 +223,21 @@
   pages     = {19-27},
 }
 
+@article{DBLP:journals/sigops/BasakWVNMN12,
+  author    = {Jayanta Basak and
+               Kushal Wadhwani and
+               Kaladhar Voruganti and
+               Srinivasan Narayanamurthy and
+               Vipul Mathur and
+               Siddhartha Nandi},
+  title     = {Model building for dynamic multi-tenant provider environments},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {20-31},
+}
+
 @article{DBLP:journals/sigops/WolfBRHKPWV12,
   author    = {Joel L. Wolf and
                Andrey Balmin and
@@ -112,6 +265,20 @@
   number    = {2},
   year      = 2012,
   pages     = {28-35},
+}
+
+@article{DBLP:journals/sigops/BairavasundaramSMVS12,
+  author    = {Lakshmi N. Bairavasundaram and
+               Gokul Soundararajan and
+               Vipul Mathur and
+               Kaladhar Voruganti and
+               Kiran Srinivasan},
+  title     = {Responding rapidly to service level violations using virtual appliances},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {32-40},
 }
 
 @article{DBLP:journals/sigops/SenF12,
@@ -148,6 +315,17 @@
   pages     = {40-46},
 }
 
+@article{DBLP:journals/sigops/GoelC12,
+  author    = {Atul Goel and
+               Peter F. Corbett},
+  title     = {{RAID} triple parity},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {41-49},
+}
+
 @article{DBLP:journals/sigops/BessaniKPRGKC12,
   author    = {Alysson Neves Bessani and
                Rüdiger Kapitza and
@@ -178,6 +356,16 @@
   pages     = {47-51},
 }
 
+@article{DBLP:journals/sigops/Strunk12,
+  author    = {John D. Strunk},
+  title     = {Hybrid aggregates: combining {SSDs} and {HDDs} in a single storage pool},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {50-56},
+}
+
 @article{DBLP:journals/sigops/FrohlichBLPSB12,
   author    = {Antonio Augusto Fröhlich and
                Leandro Buss Becker and
@@ -206,6 +394,17 @@
   pages     = {53-63},
 }
 
+@article{DBLP:journals/sigops/YasaN12,
+  author    = {Giridhar Appaji Nag Yasa and
+               P. C. Nagesh},
+  title     = {Space savings and design considerations in variable length deduplication},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {57-64},
+}
+
 @article{DBLP:journals/sigops/Baset12,
   author    = {Salman Abdul Baset},
   title     = {Cloud SLAs: present and future},
@@ -227,6 +426,17 @@
   number    = {1},
   year      = 2012,
   pages     = {64-72},
+}
+
+@article{DBLP:journals/sigops/DesnoyersD12,
+  author    = {Mathieu Desnoyers and
+               Michel R. Dagenais},
+  title     = {Lockless multi-core high-throughput buffering scheme for kernel tracing},
+  journal   = osr,
+  volume    = {46},
+  number    = {3},
+  year      = 2012,
+  pages     = {65-81},
 }
 
 @article{DBLP:journals/sigops/OliveiraRF12,
@@ -10748,7 +10958,7 @@
 }
 
 @article{DBLP:journals/sigops/ShihLCG89,
-  author    = {Wei Kuan Shih and
+  author    = {Wei-Kuan Shih and
                Jane W.-S. Liu and
                Jen-Yao Chung and
                Donald W. Gillies},
@@ -13260,7 +13470,7 @@
 }
 
 @article{DBLP:journals/sigops/Cerf75,
-  author    = {Vinton Cerf},
+  author    = {Vinton G. Cerf},
   title     = {Formalisms for interprocess communication},
   journal   = osr,
   volume    = {9},

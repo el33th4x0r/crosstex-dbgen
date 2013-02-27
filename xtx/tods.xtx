@@ -167,7 +167,7 @@
   author    = {Tian Xia and
                Donghui Zhang and
                Zheng Fang and
-               Cindy Chen and
+               Cindy X. Chen and
                Jie Wang},
   title     = {Online subspace skyline query processing using the compressed skycube},
   journal   = tods,
@@ -259,6 +259,131 @@
   number    = {3},
   year      = 2012,
   pages     = {22},
+}
+
+@article{DBLP:journals/tods/Ozsoyoglu12a,
+  author    = {Z. Meral Özsoyoglu},
+  title     = {Foreword},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {23},
+}
+
+@article{DBLP:journals/tods/KimelfeldVW12,
+  author    = {Benny Kimelfeld and
+               Jan Vondrák and
+               Ryan Williams},
+  title     = {Maximizing Conjunctive Views in Deletion Propagation},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {24},
+}
+
+@article{DBLP:journals/tods/FanGW12,
+  author    = {Wenfei Fan and
+               Floris Geerts and
+               Jef Wijsen},
+  title     = {Determining the Currency of Data},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {25},
+}
+
+@article{DBLP:journals/tods/ShengT12,
+  author    = {Cheng Sheng and
+               Yufei Tao},
+  title     = {{Worst-Case} I/{O-Efficient} Skyline Algorithms},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {26},
+}
+
+@article{DBLP:journals/tods/LiMDMS12,
+  author    = {Boduo Li and
+               Edward Mazur and
+               Yanlei Diao and
+               Andrew McGregor and
+               Prashant J. Shenoy},
+  title     = {SCALLA: A Platform for Scalable {One-Pass} Analytics Using {MapReduce}},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {27},
+}
+
+@article{DBLP:journals/tods/LiPT12,
+  author    = {Yinan Li and
+               Jignesh M. Patel and
+               Allison Terrell},
+  title     = {WHAM: A {High-Throughput} Sequence Alignment Method},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {28},
+}
+
+@article{DBLP:journals/tods/XieDSZZ12,
+  author    = {Kexin Xie and
+               Ke Deng and
+               Shuo Shang and
+               Xiaofang Zhou and
+               Kai Zheng},
+  title     = {Finding Alternative Shortest Paths in Spatial Networks},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {29},
+}
+
+@article{DBLP:journals/tods/AmsterdamerDMT12,
+  author    = {Yael Amsterdamer and
+               Daniel Deutch and
+               Tova Milo and
+               Val Tannen},
+  title     = {On Provenance Minimization},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {30},
+}
+
+@article{DBLP:journals/tods/BarceloLLW12,
+  author    = {Pablo Barceló and
+               Leonid Libkin and
+               Anthony Widjaja Lin and
+               Peter T. Wood},
+  title     = {Expressive Languages for Path Queries over {Graph-Structured} Data},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {31},
+}
+
+@article{DBLP:journals/tods/CongFKLL12,
+  author    = {Gao Cong and
+               Wenfei Fan and
+               Anastasios Kementsietsidis and
+               Jianzhong Li and
+               Xianmin Liu},
+  title     = {Partial Evaluation for Distributed {XPath} Query Processing and Beyond},
+  journal   = tods,
+  volume    = {37},
+  number    = {4},
+  year      = 2012,
+  pages     = {32},
 }
 
 @article{DBLP:journals/tods/WangL11,

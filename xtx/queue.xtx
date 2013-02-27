@@ -1,5 +1,47 @@
 @include journals-cs
 
+@article{DBLP:journals/queue/Neville-Neil13,
+  author    = {George Neville-Neil},
+  title     = {Divided by Division},
+  journal   = queue,
+  volume    = {11},
+  number    = {1},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Watson13,
+  author    = {Robert N. M. Watson},
+  title     = {A Decade of {OS} Access-control Extensibility},
+  journal   = queue,
+  volume    = {11},
+  number    = {1},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/KumarNR13,
+  author    = {Arun Kumar and
+               Feng Niu and
+               Christopher Ré},
+  title     = {Hazy: Making it Easier to Build and Maintain Big-data Analytics},
+  journal   = queue,
+  volume    = {11},
+  number    = {1},
+  year      = 2013,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Matsudaira13,
+  author    = {Kate Matsudaira},
+  title     = {Making the Mobile Web Faster},
+  journal   = queue,
+  volume    = {11},
+  number    = {1},
+  year      = 2013,
+  pages     = {40},
+}
+
 @article{DBLP:journals/queue/AbtsF12,
   author    = {Dennis Abts and
                Bob Felderman},
@@ -48,12 +90,33 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/ErbadK10,
+  author    = {Aiman Erbad and
+               Charles Krasic},
+  title     = {Sender-side Buffers and the Case for Multimedia Adaptation},
+  journal   = queue,
+  volume    = {10},
+  number    = {10},
+  year      = 2012,
+  pages     = {10},
+}
+
 @article{DBLP:journals/queue/Gettys12,
   author    = {Jim Gettys},
   title     = {Home Bufferbloat Demonstration Videos},
   journal   = queue,
   volume    = {10},
   number    = {2},
+  year      = 2012,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Grossman12,
+  author    = {Jeremiah Grossman},
+  title     = {The Web Won't Be Safe or Secure until We Break It},
+  journal   = queue,
+  volume    = {10},
+  number    = {11},
   year      = 2012,
   pages     = {10},
 }
@@ -109,6 +172,16 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/X12,
+  author    = {},
+  title     = {Node Summit: The Importance of Cross Platform},
+  journal   = queue,
+  volume    = {10},
+  number    = {12},
+  year      = 2012,
+  pages     = {10},
+}
+
 @article{DBLP:journals/queue/Chisnall12,
   author    = {David Chisnall},
   title     = {A New {Objective-C} Runtime: from Research to Production},
@@ -127,6 +200,16 @@
   journal   = queue,
   volume    = {10},
   number    = {1},
+  year      = 2012,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Helland12a,
+  author    = {Pat Helland},
+  title     = {Condos and Clouds},
+  journal   = queue,
+  volume    = {10},
+  number    = {11},
   year      = 2012,
   pages     = {20},
 }
@@ -195,12 +278,45 @@
   pages     = {20},
 }
 
+@article{DBLP:journals/queue/X10,
+  author    = {},
+  title     = {Queue Portrait: Robert Watson},
+  journal   = queue,
+  volume    = {10},
+  number    = {10},
+  year      = 2012,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/X12a,
+  author    = {},
+  title     = {Node Summit: The Evolution of Javascript},
+  journal   = queue,
+  volume    = {10},
+  number    = {12},
+  year      = 2012,
+  pages     = {20},
+}
+
 @article{DBLP:journals/queue/Berger12,
   author    = {Emery D. Berger},
   title     = {Software Needs Seatbelts and Airbags},
   journal   = queue,
   volume    = {10},
   number    = {7},
+  year      = 2012,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/GrossmanLBN12,
+  author    = {Jeremiah Grossman and
+               Ben Livshits and
+               Rebecca Gurley Bace and
+               George Neville-Neil},
+  title     = {Browser Security Case Study: Appearances Can Be Deceiving},
+  journal   = queue,
+  volume    = {10},
+  number    = {11},
   year      = 2012,
   pages     = {30},
 }
@@ -225,6 +341,16 @@
   pages     = {30},
 }
 
+@article{DBLP:journals/queue/Neville-Neil12d,
+  author    = {George Neville-Neil},
+  title     = {Code Abuse},
+  journal   = queue,
+  volume    = {10},
+  number    = {12},
+  year      = 2012,
+  pages     = {30},
+}
+
 @article{DBLP:journals/queue/Polanczyk12,
   author    = {Rafael Vanoni Polanczyk},
   title     = {Extending the Semantics of Scheduling Priorities},
@@ -243,6 +369,16 @@
   number    = {1},
   year      = 2012,
   pages     = {30},
+}
+
+@article{DBLP:journals/queue/Gregg12,
+  author    = {Brendan Gregg},
+  title     = {Thinking Methodically about Performance},
+  journal   = queue,
+  volume    = {10},
+  number    = {12},
+  year      = 2012,
+  pages     = {40},
 }
 
 @article{DBLP:journals/queue/Kamp12,
@@ -617,17 +753,6 @@
   pages     = {10},
 }
 
-@article{DBLP:journals/queue/ErbadK10,
-  author    = {Aiman Erbad and
-               Charles Krasic},
-  title     = {Sender-side Buffers and the Case for Multimedia Adaptation},
-  journal   = queue,
-  volume    = {10},
-  number    = {10},
-  year      = 2010,
-  pages     = {10},
-}
-
 @article{DBLP:journals/queue/HaberKM10,
   author    = {Eben M. Haber and
                Eser Kandogan and
@@ -810,16 +935,6 @@
   journal   = queue,
   volume    = {8},
   number    = {3},
-  year      = 2010,
-  pages     = {20},
-}
-
-@article{DBLP:journals/queue/X10,
-  author    = {},
-  title     = {Queue Portrait: Robert Watson},
-  journal   = queue,
-  volume    = {10},
-  number    = {10},
   year      = 2010,
   pages     = {20},
 }

@@ -1,5 +1,764 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/focs/AroraGM12,
+  author    = {Sanjeev Arora and
+               Rong Ge and
+               Ankur Moitra},
+  title     = {Learning Topic Models - Going beyond {SVD}},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/focs/Valiant12,
+  author    = {Gregory Valiant},
+  title     = {Finding Correlations in Subquadratic Time, with Applications to Learning Parities and Juntas},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/focs/BalcanBBY12,
+  author    = {Maria-Florina Balcan and
+               Eric Blais and
+               Avrim Blum and
+               Liu Yang},
+  title     = {Active Property Testing},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {21-30},
+}
+
+@inproceedings{DBLP:conf/focs/GoldwasserR12,
+  author    = {Shafi Goldwasser and
+               Guy N. Rothblum},
+  title     = {How to Compute in the Presence of Leakage},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {31-40},
+}
+
+@inproceedings{DBLP:conf/focs/Goyal12,
+  author    = {Vipul Goyal},
+  title     = {Positive Results for Concurrently Secure Computation in the Plain Model},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {41-50},
+}
+
+@inproceedings{DBLP:conf/focs/GoyalLOV12,
+  author    = {Vipul Goyal and
+               Chen-Kuei Lee and
+               Rafail Ostrovsky and
+               Ivan Visconti},
+  title     = {Constructing Non-malleable Commitments: A {Black-Box} Approach},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {51-60},
+}
+
+@inproceedings{DBLP:conf/focs/LovettM12,
+  author    = {Shachar Lovett and
+               Raghu Meka},
+  title     = {Constructive Discrepancy Minimization by Walking on the Edges},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {61-67},
+}
+
+@inproceedings{DBLP:conf/focs/KawarabayashiT12,
+  author    = {Ken-ichi Kawarabayashi and
+               Mikkel Thorup},
+  title     = {Combinatorial Coloring of 3-Colorable Graphs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {68-75},
+}
+
+@inproceedings{DBLP:conf/focs/Vishnoi12,
+  author    = {Nisheeth K. Vishnoi},
+  title     = {A Permanent Approach to the Traveling Salesman Problem},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {76-80},
+}
+
+@inproceedings{DBLP:conf/focs/BuschDRRS12,
+  author    = {Costas Busch and
+               Chinmoy Dutta and
+               Jaikumar Radhakrishnan and
+               Rajmohan Rajaraman and
+               Srinivasagopalan Srivathsan},
+  title     = {Split and Join: Strong Partitions and Universal Steiner Trees for Graphs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {81-90},
+}
+
+@inproceedings{DBLP:conf/focs/Kane12,
+  author    = {Daniel M. Kane},
+  title     = {A Structure Theorem for Poorly Anticoncentrated Gaussian Chaoses and Applications to the Study of Polynomial Threshold Functions},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {91-100},
+}
+
+@inproceedings{DBLP:conf/focs/BeckIL12,
+  author    = {Chris Beck and
+               Russell Impagliazzo and
+               Shachar Lovett},
+  title     = {Large Deviation Bounds for Decision Trees and Sampling Lower Bounds for AC0-Circuits},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {101-110},
+}
+
+@inproceedings{DBLP:conf/focs/ImpagliazzoMZ12,
+  author    = {Russell Impagliazzo and
+               Raghu Meka and
+               David Zuckerman},
+  title     = {Pseudorandomness from Shrinkage},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {111-119},
+}
+
+@inproceedings{DBLP:conf/focs/GopalanMRTV12,
+  author    = {Parikshit Gopalan and
+               Raghu Meka and
+               Omer Reingold and
+               Luca Trevisan and
+               Salil P. Vadhan},
+  title     = {Better Pseudorandom Generators from Milder Pseudorandom Restrictions},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {120-129},
+}
+
+@inproceedings{DBLP:conf/focs/CaiDW12,
+  author    = {Yang Cai and
+               Constantinos Daskalakis and
+               S. Matthew Weinberg},
+  title     = {Optimal Multi-dimensional Mechanism Design: Reducing Revenue to Welfare Maximization},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {130-139},
+}
+
+@inproceedings{DBLP:conf/focs/HuangK12,
+  author    = {Zhiyi Huang and
+               Sampath Kannan},
+  title     = {The Exponential Mechanism for Social Welfare: Private, Truthful, and Nearly Optimal},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {140-149},
+}
+
+@inproceedings{DBLP:conf/focs/Vegh12,
+  author    = {László A. Végh},
+  title     = {Concave Generalized Flows with Applications to Market Equilibria},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {150-159},
+}
+
+@inproceedings{DBLP:conf/focs/BrakerskiK12,
+  author    = {Zvika Brakerski and
+               Yael Tauman Kalai},
+  title     = {Efficient Interactive Coding against Adversarial Noise},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {160-166},
+}
+
+@inproceedings{DBLP:conf/focs/JainPY12,
+  author    = {Rahul Jain and
+               Attila Pereszlényi and
+               Penghui Yao},
+  title     = {A Direct Product Theorem for the {Two-Party} {Bounded-Round} {Public-Coin} Communication Complexity},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {167-176},
+}
+
+@inproceedings{DBLP:conf/focs/Ben-SassonLR12,
+  author    = {Eli Ben-Sasson and
+               Shachar Lovett and
+               Noga Ron-Zewi},
+  title     = {An Additive Combinatorics Approach Relating Rank to Communication Complexity},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {177-186},
+}
+
+@inproceedings{DBLP:conf/focs/GharanT12,
+  author    = {Shayan Oveis Gharan and
+               Luca Trevisan},
+  title     = {Approximating the Expansion Profile and Almost Optimal Local Graph Clustering},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {187-196},
+}
+
+@inproceedings{DBLP:conf/focs/GuruswamiS12,
+  author    = {Venkatesan Guruswami and
+               Ali Kemal Sinop},
+  title     = {Faster {SDP} Hierarchy Solvers for Local Rounding Algorithms},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {197-206},
+}
+
+@inproceedings{DBLP:conf/focs/Belovs12,
+  author    = {Aleksandrs Belovs},
+  title     = {{Learning-Graph-Based} Quantum Algorithm for {k-Distinctness}},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {207-216},
+}
+
+@inproceedings{DBLP:conf/focs/Meka12,
+  author    = {Raghu Meka},
+  title     = {A {PTAS} for Computing the Supremum of Gaussian Processes},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {217-222},
+}
+
+@inproceedings{DBLP:conf/focs/BitanskyP12,
+  author    = {Nir Bitansky and
+               Omer Paneth},
+  title     = {From the Impossibility of Obfuscation to a New {Non-Black-Box} Simulation Technique},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {223-232},
+}
+
+@inproceedings{DBLP:conf/focs/ChuzhoyL12,
+  author    = {Julia Chuzhoy and
+               Shi Li},
+  title     = {A Polylogarithmic Approximation Algorithm for {Edge-Disjoint} Paths with Congestion 2},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {233-242},
+}
+
+@inproceedings{DBLP:conf/focs/ItoV12,
+  author    = {Tsuyoshi Ito and
+               Thomas Vidick},
+  title     = {A Multi-prover Interactive Proof for {NEXP} Sound against Entangled Provers},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {243-252},
+}
+
+@inproceedings{DBLP:conf/focs/NewmanNN12,
+  author    = {Alantha Newman and
+               Ofer Neiman and
+               Aleksandar Nikolov},
+  title     = {Beck's Three Permutations Conjecture: A Counterexample and Some Consequences},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {253-262},
+}
+
+@inproceedings{DBLP:conf/focs/FukunagaR12,
+  author    = {Takuro Fukunaga and
+               R. Ravi},
+  title     = {Iterative Rounding Approximation Algorithms for {Degree-Bounded} {Node-Connectivity} Network Design},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {263-272},
+}
+
+@inproceedings{DBLP:conf/focs/CyganHK12,
+  author    = {Marek Cygan and
+               MohammadTaghi Hajiaghayi and
+               Samir Khuller},
+  title     = {{LP} Rounding for {k-Centers} with Non-uniform Hard Capacities},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {273-282},
+}
+
+@inproceedings{DBLP:conf/focs/Kopelowitz12,
+  author    = {Tsvi Kopelowitz},
+  title     = {{On-Line} Indexing for General Alphabets via Predecessor Queries on Subsets of an Ordered List},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {283-292},
+}
+
+@inproceedings{DBLP:conf/focs/Larsen12,
+  author    = {Kasper Green Larsen},
+  title     = {Higher Cell Probe Lower Bounds for Evaluating Polynomials},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {293-301},
+}
+
+@inproceedings{DBLP:conf/focs/DotyLPSSW12,
+  author    = {David Doty and
+               Jack H. Lutz and
+               Matthew J. Patitz and
+               Robert T. Schweller and
+               Scott M. Summers and
+               Damien Woods},
+  title     = {The Tile Assembly Model is Intrinsically Universal},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {302-310},
+}
+
+@inproceedings{DBLP:conf/focs/Chazelle12,
+  author    = {Bernard Chazelle},
+  title     = {The Dynamics of Influence Systems},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {311-320},
+}
+
+@inproceedings{DBLP:conf/focs/BarenboimEPS12,
+  author    = {Leonid Barenboim and
+               Michael Elkin and
+               Seth Pettie and
+               Johannes Schneider},
+  title     = {The Locality of Distributed Symmetry Breaking},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {321-330},
+}
+
+@inproceedings{DBLP:conf/focs/AlistarhBGG12,
+  author    = {Dan Alistarh and
+               Michael A. Bender and
+               Seth Gilbert and
+               Rachid Guerraoui},
+  title     = {How to Allocate Tasks Asynchronously},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {331-340},
+}
+
+@inproceedings{DBLP:conf/focs/SauerwaldS12,
+  author    = {Thomas Sauerwald and
+               He Sun},
+  title     = {Tight Bounds for Randomized Load Balancing on Arbitrary Network Topologies},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {341-350},
+}
+
+@inproceedings{DBLP:conf/focs/Berkholz12,
+  author    = {Christoph Berkholz},
+  title     = {On the Complexity of Finding Narrow Proofs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {351-360},
+}
+
+@inproceedings{DBLP:conf/focs/SlyS12,
+  author    = {Allan Sly and
+               Nike Sun},
+  title     = {The Computational Hardness of Counting in {Two-Spin} Models on {d-Regular} Graphs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {361-369},
+}
+
+@inproceedings{DBLP:conf/focs/BarakGHMRS12,
+  author    = {Boaz Barak and
+               Parikshit Gopalan and
+               Johan Håstad and
+               Raghu Meka and
+               Prasad Raghavendra and
+               David Steurer},
+  title     = {Making the Long Code Shorter},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {370-379},
+}
+
+@inproceedings{DBLP:conf/focs/KhotS12,
+  author    = {Subhash Khot and
+               Rishi Saket},
+  title     = {Hardness of Finding Independent Sets in Almost {q-Colorable} Graphs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {380-389},
+}
+
+@inproceedings{DBLP:conf/focs/WigdersonY12,
+  author    = {Avi Wigderson and
+               Amir Yehudayoff},
+  title     = {Population Recovery and Partial Identification},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {390-399},
+}
+
+@inproceedings{DBLP:conf/focs/DworkNV12,
+  author    = {Cynthia Dwork and
+               Moni Naor and
+               Salil P. Vadhan},
+  title     = {The Privacy of the Analyst and the Power of the State},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {400-409},
+}
+
+@inproceedings{DBLP:conf/focs/BlockiBDS12,
+  author    = {Jeremiah Blocki and
+               Avrim Blum and
+               Anupam Datta and
+               Or Sheffet},
+  title     = {The {Johnson-Lindenstrauss} Transform Itself Preserves Differential Privacy},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {410-419},
+}
+
+@inproceedings{DBLP:conf/focs/AgarwalMS12,
+  author    = {Pankaj K. Agarwal and
+               Jirí Matousek and
+               Micha Sharir},
+  title     = {On Range Searching with Semialgebraic Sets {II}},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {420-429},
+}
+
+@inproceedings{DBLP:conf/focs/Har-PeledK12,
+  author    = {Sariel Har-Peled and
+               Nirman Kumar},
+  title     = {Down the Rabbit Hole: Robust Proximity Search and Density Estimation in Sublinear Space},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {430-439},
+}
+
+@inproceedings{DBLP:conf/focs/LazarusR12,
+  author    = {Francis Lazarus and
+               Julien Rivaud},
+  title     = {On the Homotopy Test on Surfaces},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {440-449},
+}
+
+@inproceedings{DBLP:conf/focs/KratschW12,
+  author    = {Stefan Kratsch and
+               Magnus Wahlström},
+  title     = {Representative Sets and Irrelevant Vertices: New Tools for Kernelization},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {450-459},
+}
+
+@inproceedings{DBLP:conf/focs/ChitnisCHPP12,
+  author    = {Rajesh Hemant Chitnis and
+               Marek Cygan and
+               MohammadTaghi Hajiaghayi and
+               Marcin Pilipczuk and
+               Michal Pilipczuk},
+  title     = {Designing {FPT} Algorithms for Cut Problems Using Randomized Contractions},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {460-469},
+}
+
+@inproceedings{DBLP:conf/focs/FominLMS12,
+  author    = {Fedor V. Fomin and
+               Daniel Lokshtanov and
+               Neeldhara Misra and
+               Saket Saurabh},
+  title     = {Planar F-Deletion: Approximation, Kernelization and Optimal {FPT} Algorithms},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {470-479},
+}
+
+@inproceedings{DBLP:conf/focs/BraunFPS12,
+  author    = {Gábor Braun and
+               Samuel Fiorini and
+               Sebastian Pokutta and
+               David Steurer},
+  title     = {Approximation Limits of Linear Programs (Beyond Hierarchies)},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {480-489},
+}
+
+@inproceedings{DBLP:conf/focs/KalaiLR12,
+  author    = {Yael Tauman Kalai and
+               Allison B. Lewko and
+               Anup Rao},
+  title     = {Formulas Resilient to {Short-Circuit} Errors},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {490-499},
+}
+
+@inproceedings{DBLP:conf/focs/KerenidisLLRX12,
+  author    = {Iordanis Kerenidis and
+               Sophie Laplante and
+               Virginie Lerays and
+               Jérémie Roland and
+               David Xiao},
+  title     = {Lower Bounds on Information Complexity via {Zero-Communication} Protocols and Applications},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {500-509},
+}
+
+@inproceedings{DBLP:conf/focs/Levin12,
+  author    = {Leonid A. Levin},
+  title     = {Rarity for Semimeasures},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {510-513},
+}
+
+@inproceedings{DBLP:conf/focs/Gall12,
+  author    = {François Le Gall},
+  title     = {Faster Algorithms for Rectangular Matrix Multiplication},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {514-523},
+}
+
+@inproceedings{DBLP:conf/focs/BenoitBH12,
+  author    = {Alexandre Benoit and
+               Alin Bostan and
+               Joris van der Hoeven},
+  title     = {Quasi-optimal Multiplication of Linear Differential Operators},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {524-530},
+}
+
+@inproceedings{DBLP:conf/focs/CyganGS12,
+  author    = {Marek Cygan and
+               Harold N. Gabow and
+               Piotr Sankowski},
+  title     = {Algorithmic Applications of {Baur-Strassen's} Theorem: Shortest Cycles, Diameter and Matchings},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {531-540},
+}
+
+@inproceedings{DBLP:conf/focs/Sohler12,
+  author    = {Christian Sohler},
+  title     = {Almost Optimal Canonical Property Testers for Satisfiability},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {541-550},
+}
+
+@inproceedings{DBLP:conf/focs/BlaisWY12,
+  author    = {Eric Blais and
+               Amit Weinstein and
+               Yuichi Yoshida},
+  title     = {Partially Symmetric Functions Are Efficiently {Isomorphism-Testable}},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {551-560},
+}
+
+@inproceedings{DBLP:conf/focs/Ben-SassonRS12,
+  author    = {Eli Ben-Sasson and
+               Noga Ron-Zewi and
+               Madhu Sudan},
+  title     = {Sparse {Affine-Invariant} Linear Codes Are Locally Testable},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {561-570},
+}
+
+@inproceedings{DBLP:conf/focs/ChandrasekaranVV12,
+  author    = {Karthekeyan Chandrasekaran and
+               László A. Végh and
+               Santosh Vempala},
+  title     = {The Cutting Plane Method Is Polynomial for Perfect Matchings},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {571-580},
+}
+
+@inproceedings{DBLP:conf/focs/RamshawT12,
+  author    = {Lyle Ramshaw and
+               Robert Endre Tarjan},
+  title     = {A {Weight-Scaling} Algorithm for {Min-Cost} Imperfect Matchings in Bipartite Graphs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {581-590},
+}
+
+@inproceedings{DBLP:conf/focs/IzumiW12,
+  author    = {Taisuke Izumi and
+               Tadashi Wadayama},
+  title     = {A New Direction for Counting Perfect Matchings},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {591-598},
+}
+
+@inproceedings{DBLP:conf/focs/LackiNSW12,
+  author    = {Jakub Lacki and
+               Yahav Nussbaum and
+               Piotr Sankowski and
+               Christian Wulff-Nilsen},
+  title     = {Single Source - All Sinks Max Flows in Planar Digraphs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {599-608},
+}
+
+@inproceedings{DBLP:conf/focs/Drucker12,
+  author    = {Andrew Drucker},
+  title     = {New Limits to Classical and Quantum Instance Compression},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {609-618},
+}
+
+@inproceedings{DBLP:conf/focs/ChattopadhyayS12,
+  author    = {Arkadev Chattopadhyay and
+               Rahul Santhanam},
+  title     = {Lower Bounds on Interactive Compressibility by {Constant-Depth} Circuits},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {619-628},
+}
+
+@inproceedings{DBLP:conf/focs/Mulmuley12,
+  author    = {Ketan Mulmuley},
+  title     = {Geometric Complexity Theory V: Equivalence between Blackbox Derandomization of Polynomial Identity Testing and Derandomization of Noether's Normalization Lemma},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {629-638},
+}
+
+@inproceedings{DBLP:conf/focs/ChristandlDW12,
+  author    = {Matthias Christandl and
+               Brent Doran and
+               Michael Walter},
+  title     = {Computing Multiplicities of Lie Group Representations},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {639-648},
+}
+
+@inproceedings{DBLP:conf/focs/BuchbinderFNS12,
+  author    = {Niv Buchbinder and
+               Moran Feldman and
+               Joseph Naor and
+               Roy Schwartz},
+  title     = {A Tight Linear Time (1/2)-Approximation for Unconstrained Submodular Maximization},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {649-658},
+}
+
+@inproceedings{DBLP:conf/focs/FilmusW12,
+  author    = {Yuval Filmus and
+               Justin Ward},
+  title     = {A Tight Combinatorial Algorithm for Submodular Maximization Subject to a Matroid Constraint},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {659-668},
+}
+
+@inproceedings{DBLP:conf/focs/ThapperZ12,
+  author    = {Johan Thapper and
+               Stanislav Zivny},
+  title     = {The Power of Linear Programming for Valued {CSPs}},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {669-678},
+}
+
+@inproceedings{DBLP:conf/focs/Zhandry12,
+  author    = {Mark Zhandry},
+  title     = {How to Construct Quantum Random Functions},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {679-687},
+}
+
+@inproceedings{DBLP:conf/focs/Li12,
+  author    = {Xin Li},
+  title     = {Non-malleable Extractors, {Two-Source} Extractors and Privacy Amplification},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {688-697},
+}
+
+@inproceedings{DBLP:conf/focs/HolensteinS12,
+  author    = {Thomas Holenstein and
+               Makrand Sinha},
+  title     = {Constructing a Pseudorandom Generator Requires an Almost Linear Number of Calls},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {698-707},
+}
+
+@inproceedings{DBLP:conf/focs/PoloczekS12,
+  author    = {Matthias Poloczek and
+               Mario Szegedy},
+  title     = {Randomized Greedy Algorithms for the Maximum Matching Problem with New Analysis},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {708-717},
+}
+
+@inproceedings{DBLP:conf/focs/GoelT12,
+  author    = {Gagan Goel and
+               Pushkar Tripathi},
+  title     = {Matching with Our Eyes Closed},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {718-727},
+}
+
+@inproceedings{DBLP:conf/focs/MehtaP12,
+  author    = {Aranyak Mehta and
+               Debmalya Panigrahi},
+  title     = {Online Matching with Stochastic Rewards},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {728-737},
+}
+
+@inproceedings{DBLP:conf/focs/PatrascuRT12,
+  author    = {Mihai Patrascu and
+               Liam Roditty and
+               Mikkel Thorup},
+  title     = {A New Infinity of Distance Oracles for Sparse Graphs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {738-747},
+}
+
+@inproceedings{DBLP:conf/focs/GrandoniW12,
+  author    = {Fabrizio Grandoni and
+               Virginia Vassilevska Williams},
+  title     = {Improved Distance Sensitivity Oracles via Fast {Single-Source} Replacement Paths},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {748-757},
+}
+
+@inproceedings{DBLP:conf/focs/ChlamtacDK12,
+  author    = {Eden Chlamtac and
+               Michael Dinitz and
+               Robert Krauthgamer},
+  title     = {{Everywhere-Sparse} Spanners via Dense Subgraphs},
+  booktitle = focs,
+  year      = 2012,
+  pages     = {758-767},
+}
+
 @inproceedings{DBLP:conf/focs/Dwork11,
   author    = {Cynthia Dwork},
   title     = {The Promise of Differential Privacy: A Tutorial on Algorithmic Techniques},
@@ -12370,7 +13129,7 @@
 }
 
 @inproceedings{DBLP:conf/focs/Poon93,
-  author    = {C. K. Poon},
+  author    = {Chung Keung Poon},
   title     = {Space Bounds for Graph Connectivity Problems on Node-named {JAGs} and Node-ordered {JAGs}},
   booktitle = focs,
   year      = 1993,

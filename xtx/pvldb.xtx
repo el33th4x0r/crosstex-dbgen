@@ -92,6 +92,41 @@
   pages     = {vii-viii},
 }
 
+@article{DBLP:journals/pvldb/BourosGM12,
+  author    = {Panagiotis Bouros and
+               Shen Ge and
+               Nikos Mamoulis},
+  title     = {Spatio-textual similarity joins},
+  journal   = pvldb,
+  volume    = {6},
+  number    = {1},
+  year      = 2012,
+  pages     = {1-12},
+}
+
+@article{DBLP:journals/pvldb/DrosouP12,
+  author    = {Marina Drosou and
+               Evaggelia Pitoura},
+  title     = {{DisC} diversity: result diversification based on dissimilarity and coverage},
+  journal   = pvldb,
+  volume    = {6},
+  number    = {1},
+  year      = 2012,
+  pages     = {13-24},
+}
+
+@article{DBLP:journals/pvldb/ZengNC12,
+  author    = {Chen Zeng and
+               Jeffrey F. Naughton and
+               Jin-Yi Cai},
+  title     = {On differentially private frequent itemset mining},
+  journal   = pvldb,
+  volume    = {6},
+  number    = {1},
+  year      = 2012,
+  pages     = {25-36},
+}
+
 @article{DBLP:journals/pvldb/SunAH12,
   author    = {Yizhou Sun and
                Charu C. Aggarwal and
@@ -2213,7 +2248,7 @@
                Ying Zhang and
                Mihai Datcu and
                Gottfried Schwarz and
-               Corneliu Dumitru and
+               Corneliu Octavian Dumitru and
                Daniela Espinoza-Molina and
                Katrin Molch and
                Ugo Di Giammatteo and
@@ -2932,7 +2967,7 @@
 
 @article{DBLP:journals/pvldb/CaoSDS11,
   author    = {Zhao Cao and
-               Charles Sutton and
+               Charles A. Sutton and
                Yanlei Diao and
                Prashant J. Shenoy},
   title     = {Distributed inference and query processing for {RFID} tracking and monitoring},
@@ -5826,7 +5861,7 @@
 
 @article{DBLP:journals/pvldb/SmolaN10,
   author    = {Alexander J. Smola and
-               Shravan Narayanamurthy},
+               Shravan M. Narayanamurthy},
   title     = {An Architecture for Parallel Topic Models},
   journal   = pvldb,
   volume    = {3},

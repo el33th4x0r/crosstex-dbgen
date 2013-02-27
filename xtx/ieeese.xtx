@@ -1,5 +1,184 @@
 @include journals-cs
 
+@article{DBLP:journals/tse/ChenZ13,
+  author    = {Wei-neng Chen and
+               Jun Zhang},
+  title     = {Ant Colony Optimization for Software Project Scheduling and Staffing with an {Event-Based} Scheduler},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {1},
+  year      = 2013,
+  pages     = {1-17},
+}
+
+@article{DBLP:journals/tse/FalessiCC13,
+  author    = {Davide Falessi and
+               Giovanni Cantone and
+               Gerardo Canfora},
+  title     = {Empirical Principles and an Industrial Case Study in Retrieving Equivalent Requirements via Natural Language Processing Techniques},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {1},
+  year      = 2013,
+  pages     = {18-44},
+}
+
+@article{DBLP:journals/tse/KimNGW13,
+  author    = {Miryung Kim and
+               David Notkin and
+               Dan Grossman and
+               Gary Wilson Jr.},
+  title     = {Identifying and Summarizing Systematic Code Changes via Rule Inference},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {1},
+  year      = 2013,
+  pages     = {45-62},
+}
+
+@article{DBLP:journals/tse/NatellaCDM13,
+  author    = {Roberto Natella and
+               Domenico Cotroneo and
+               João Durães and
+               Henrique Madeira},
+  title     = {On Fault Representativeness of Software Fault Injection},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {1},
+  year      = 2013,
+  pages     = {80-96},
+}
+
+@article{DBLP:journals/tse/HaydenBC13,
+  author    = {Richard A. Hayden and
+               Jeremy T. Bradley and
+               Allan Clark},
+  title     = {Performance Specification and Evaluation with Unified Stochastic Probes and Fluid Analysis},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {1},
+  year      = 2013,
+  pages     = {97-118},
+}
+
+@article{DBLP:journals/tse/DubocLR13,
+  author    = {Leticia Duboc and
+               Emmanuel Letier and
+               David S. Rosenblum},
+  title     = {Systematic Elaboration of Scalability Requirements through {Goal-Obstacle} Analysis},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {1},
+  year      = 2013,
+  pages     = {119-140},
+}
+
+@article{DBLP:journals/tse/Nuseibeh13,
+  author    = {Bashar Nuseibeh},
+  title     = {Editorial: State of the Journal},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {145-146},
+}
+
+@article{DBLP:journals/tse/SoaresGM13,
+  author    = {Gustavo Soares and
+               Rohit Gheyi and
+               Tiago Massoni},
+  title     = {Automated Behavioral Testing of Refactoring Engines},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {147-162},
+}
+
+@article{DBLP:journals/tse/ShahbaziTM13,
+  author    = {Ali Shahbazi and
+               Andrew F. Tappenden and
+               James Miller},
+  title     = {Centroidal Voronoi Tessellations - A New Approach to Random Testing},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {163-183},
+}
+
+@article{DBLP:journals/tse/PiccioniOM13,
+  author    = {Marco Piccioni and
+               Manuel Oriol and
+               Bertrand Meyer},
+  title     = {Class Schema Evolution for Persistent {Object-Oriented} Software: Model, Empirical Study, and Automated Support},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {184-196},
+}
+
+@article{DBLP:journals/tse/LawranceBBBRF13,
+  author    = {Joseph Lawrance and
+               Christopher Bogart and
+               Margaret M. Burnett and
+               Rachel K. E. Bellamy and
+               Kyle Rector and
+               Scott D. Fleming},
+  title     = {How Programmers Debug, Revisited: An Information Foraging Theory Perspective},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {197-215},
+}
+
+@article{DBLP:journals/tse/LeueW13,
+  author    = {Stefan Leue and
+               Wei Wei},
+  title     = {Integer Linear {Programming-Based} Property Checking for Asynchronous Reactive Systems},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {216-236},
+}
+
+@article{DBLP:journals/tse/DejaegerVB13,
+  author    = {Karel Dejaeger and
+               Thomas Verbraken and
+               Bart Baesens},
+  title     = {Toward Comprehensible Software Fault Prediction Models Using Bayesian Network Classifiers},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {237-257},
+}
+
+@article{DBLP:journals/tse/HaidryM13,
+  author    = {Shifa-e-Zehra Haidry and
+               Tim Miller},
+  title     = {Using Dependency Structures for Prioritization of Functional Test Suites},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {258-275},
+}
+
+@article{DBLP:journals/tse/FraserA13,
+  author    = {Gordon Fraser and
+               Andrea Arcuri},
+  title     = {Whole Test Suite Generation},
+  journal   = ieeese,
+  volume    = {39},
+  number    = {2},
+  year      = 2013,
+  pages     = {276-291},
+}
+
 @article{DBLP:journals/tse/Nuseibeh12,
   author    = {Bashar Nuseibeh},
   title     = {State of the Journal},
@@ -874,6 +1053,175 @@
   number    = {5},
   year      = 2012,
   pages     = {1213-1231},
+}
+
+@article{DBLP:journals/tse/SchaferTST12,
+  author    = {Max Schäfer and
+               Andreas Thies and
+               Friedrich Steimann and
+               Frank Tip},
+  title     = {A Comprehensive Approach to Naming and Accessibility in Refactoring Java Programs},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1233-1257},
+}
+
+@article{DBLP:journals/tse/MeiHZ0ZR12,
+  author    = {Hong Mei and
+               Dan Hao and
+               Lingming Zhang and
+               Lu Zhang and
+               Ji Zhou and
+               Gregg Rothermel},
+  title     = {A Static Approach to Prioritizing {JUnit} Test Cases},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1258-1275},
+}
+
+@article{DBLP:journals/tse/HallBBGC12,
+  author    = {Tracy Hall and
+               Sarah Beecham and
+               David Bowes and
+               David Gray and
+               Steve Counsell},
+  title     = {A Systematic Literature Review on Fault Prediction Performance in Software Engineering},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1276-1304},
+}
+
+@article{DBLP:journals/tse/BurdaloTEG12,
+  author    = {Luis Búrdalo and
+               Andrés Terrasa and
+               Agustín Espinosa and
+               Ana García-Fornes},
+  title     = {Analyzing the Effect of Gain Time on {Soft-Task} Scheduling Policies in {Real-Time} Systems},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1305-1318},
+}
+
+@article{DBLP:journals/tse/BroschKBR12,
+  author    = {Franz Brosch and
+               Heiko Koziolek and
+               Barbora Buhnova and
+               Ralf Reussner},
+  title     = {{Architecture-Based} Reliability Prediction with the Palladio Component Model},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1319-1339},
+}
+
+@article{DBLP:journals/tse/HaydenSHHF12,
+  author    = {Christopher M. Hayden and
+               Edward K. Smith and
+               Eric A. Hardisty and
+               Michael Hicks and
+               Jeffrey S. Foster},
+  title     = {Evaluating Dynamic Software Update Safety Using Systematic Testing},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1340-1354},
+}
+
+@article{DBLP:journals/tse/NejatiSCEZ12,
+  author    = {Shiva Nejati and
+               Mehrdad Sabetzadeh and
+               Marsha Chechik and
+               Steve M. Easterbrook and
+               Pamela Zave},
+  title     = {Matching and Merging of Variant Feature Specifications},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1355-1375},
+}
+
+@article{DBLP:journals/tse/AltintasCDO12,
+  author    = {N. Ilker Altintas and
+               Semih Cetin and
+               Ali H. Dogru and
+               Halit Oguztüzün},
+  title     = {Modeling Product Line Software Assets Using {Domain-Specific} Kits},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1376-1402},
+}
+
+@article{DBLP:journals/tse/KocaguneliMK12,
+  author    = {Ekrem Kocaguneli and
+               Tim Menzies and
+               Jacky W. Keung},
+  title     = {On the Value of Ensemble Effort Estimation},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1403-1416},
+}
+
+@article{DBLP:journals/tse/Murphy-HillB12,
+  author    = {Emerson R. Murphy-Hill and
+               Andrew P. Black},
+  title     = {{Programmer-Friendly} Refactoring Errors},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1417-1431},
+}
+
+@article{DBLP:journals/tse/GeipelS12,
+  author    = {Markus M. Geipel and
+               Frank Schweitzer},
+  title     = {The Link between Dependency and Cochange: Empirical Evidence},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1432-1444},
+}
+
+@article{DBLP:journals/tse/CassouBCB12,
+  author    = {Damien Cassou and
+               Julien Bruneau and
+               Charles Consel and
+               Emilie Balland},
+  title     = {Toward a {Tool-Based} Development Methodology for Pervasive Computing Applications},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1445-1463},
+}
+
+@article{DBLP:journals/tse/HeydarnooriCBB12,
+  author    = {Abbas Heydarnoori and
+               Krzysztof Czarnecki and
+               Walter Binder and
+               Thiago Tonelli Bartolomei},
+  title     = {Two Studies of {Framework-Usage} Templates Extracted from Dynamic Traces},
+  journal   = ieeese,
+  volume    = {38},
+  number    = {6},
+  year      = 2012,
+  pages     = {1464-1487},
 }
 
 @article{DBLP:journals/tse/Nuseibeh11,
@@ -16659,7 +17007,7 @@
 }
 
 @article{DBLP:journals/tse/ShihLL93,
-  author    = {Wei Kuan Shih and
+  author    = {Wei-Kuan Shih and
                Jane W.-S. Liu and
                C. L. Liu},
   title     = {Modified {Rate-Monotonic} Algorithm for Scheduling Periodic Jobs with Deferred Deadlines},
@@ -20417,7 +20765,7 @@
 }
 
 @article{DBLP:journals/tse/SarkarS89,
-  author    = {D. Sarkar and
+  author    = {Dipankar Sarkar and
                S. C. De Sarkar},
   title     = {Some Inference Rules for Integer Arithmetic for Verification of Flowchart Programs on Integers},
   journal   = ieeese,
@@ -21896,7 +22244,7 @@
 }
 
 @article{DBLP:journals/tse/SarkarS89a,
-  author    = {D. Sarkar and
+  author    = {Dipankar Sarkar and
                S. C. De Sarkar},
   title     = {A Set of Inference Rules for Quantified Formula Handling and Array Handling in Verification of Programs Over Integers},
   journal   = ieeese,
@@ -22081,7 +22429,7 @@
 }
 
 @article{DBLP:journals/tse/SarkarS89b,
-  author    = {D. Sarkar and
+  author    = {Dipankar Sarkar and
                S. C. De Sarkar},
   title     = {A Theorem Prover for Verifying Iterative Programs Over Integers},
   journal   = ieeese,

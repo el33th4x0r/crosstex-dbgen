@@ -1,5 +1,4804 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/cikm/Baeza-YatesL12,
+  author    = {Ricardo A. Baeza-Yates and
+               Mounia Lalmas},
+  title     = {User engagement: the network effect matters!},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/cikm/Cohen12,
+  author    = {William W. Cohen},
+  title     = {Learning similarity measures based on random walks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/cikm/Vitter12,
+  author    = {Jeffrey Scott Vitter},
+  title     = {Compressed data structures with relevance},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {4-5},
+}
+
+@inproceedings{DBLP:conf/cikm/MahajanRTM12,
+  author    = {Dhruv Kumar Mahajan and
+               Rajeev Rastogi and
+               Charu Tiwari and
+               Adway Mitra},
+  title     = {LogUCB: an explore-exploit algorithm for comments recommendation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {6-15},
+}
+
+@inproceedings{DBLP:conf/cikm/LiKBCL12,
+  author    = {Ruirui Li and
+               Ben Kao and
+               Bin Bi and
+               Reynold Cheng and
+               Eric Lo},
+  title     = {DQR: a probabilistic approach to diversified query recommendation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {16-25},
+}
+
+@inproceedings{DBLP:conf/cikm/AntonellisSD12,
+  author    = {Ioannis Antonellis and
+               Anish Das Sarma and
+               Shaddin Dughmi},
+  title     = {Dynamic covering for recommendation systems},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {26-34},
+}
+
+@inproceedings{DBLP:conf/cikm/LiL12,
+  author    = {Lei Li and
+               Tao Li},
+  title     = {MEET: a generalized framework for reciprocal recommender systems},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {35-44},
+}
+
+@inproceedings{DBLP:conf/cikm/JiangCLYWZY12,
+  author    = {Meng Jiang and
+               Peng Cui and
+               Rui Liu and
+               Qiang Yang and
+               Fei Wang and
+               Wenwu Zhu and
+               Shiqiang Yang},
+  title     = {Social contextual recommendation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {45-54},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuQ12,
+  author    = {Mengchi Liu and
+               Jun-Feng Qu},
+  title     = {Mining high utility itemsets without candidate generation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {55-64},
+}
+
+@inproceedings{DBLP:conf/cikm/DongFSZY12,
+  author    = {Weishan Dong and
+               Wei Fan and
+               Lei Shi and
+               Changjin Zhou and
+               Xifeng Yan},
+  title     = {A general framework to encode heterogeneous information sources for contextual pattern mining},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {65-74},
+}
+
+@inproceedings{DBLP:conf/cikm/TangZLW12,
+  author    = {Linpeng Tang and
+               Lei Zhang and
+               Ping Luo and
+               Min Wang},
+  title     = {Incorporating occupancy into frequent pattern mining for high quality pattern recommendation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {75-84},
+}
+
+@inproceedings{DBLP:conf/cikm/RiondatoDFU12,
+  author    = {Matteo Riondato and
+               Justin A. DeBrabant and
+               Rodrigo Fonseca and
+               Eli Upfal},
+  title     = {PARMA: a parallel randomized algorithm for approximate association rules mining in {MapReduce}},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {85-94},
+}
+
+@inproceedings{DBLP:conf/cikm/BhuiyanMH12,
+  author    = {Mansurul Bhuiyan and
+               Snehasis Mukhopadhyay and
+               Mohammad Al Hasan},
+  title     = {Interactive pattern mining on hidden data: a sampling-based solution},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {95-104},
+}
+
+@inproceedings{DBLP:conf/cikm/KazaiCYT12,
+  author    = {Gabriella Kazai and
+               Nick Craswell and
+               Emine Yilmaz and
+               Seyed M. M. Tahaghoghi},
+  title     = {An analysis of systematic judging errors in information retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {105-114},
+}
+
+@inproceedings{DBLP:conf/cikm/HofmannBR12,
+  author    = {Katja Hofmann and
+               Fritz Behr and
+               Filip Radlinski},
+  title     = {On caption bias in interleaving experiments},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {115-124},
+}
+
+@inproceedings{DBLP:conf/cikm/WebberCC12,
+  author    = {William Webber and
+               Praveen Chandar and
+               Ben Carterette},
+  title     = {Alternative assessor disagreement and retrieval depth},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {125-134},
+}
+
+@inproceedings{DBLP:conf/cikm/CarteretteKY12,
+  author    = {Ben Carterette and
+               Evangelos Kanoulas and
+               Emine Yilmaz},
+  title     = {Incorporating variability in user behavior into systems based evaluation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {135-144},
+}
+
+@inproceedings{DBLP:conf/cikm/RajputEPA12,
+  author    = {Shahzad Rajput and
+               Matthew Ekstrand-Abueg and
+               Virgiliu Pavlu and
+               Javed A. Aslam},
+  title     = {Constructing test collections by inferring document relevance via extracted relevant information},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {145-154},
+}
+
+@inproceedings{DBLP:conf/cikm/LiSD12,
+  author    = {Chenliang Li and
+               Aixin Sun and
+               Anwitaman Datta},
+  title     = {Twevent: segment-based event detection from tweets},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {155-164},
+}
+
+@inproceedings{DBLP:conf/cikm/PennacchiottiSVV12,
+  author    = {Marco Pennacchiotti and
+               Fabrizio Silvestri and
+               Hossein Vahabi and
+               Rossano Venturini},
+  title     = {Making your interests follow you on twitter},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {165-174},
+}
+
+@inproceedings{DBLP:conf/cikm/LinLLWCL12,
+  author    = {Chen Lin and
+               Chun Lin and
+               Jingxuan Li and
+               Dingding Wang and
+               Yang Chen and
+               Tao Li},
+  title     = {Generating event storylines from microblogs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {175-184},
+}
+
+@inproceedings{DBLP:conf/cikm/KoolenKK12,
+  author    = {Marijn Koolen and
+               Jaap Kamps and
+               Gabriella Kazai},
+  title     = {Social book search: comparing topical relevance judgements and book suggestions for evaluation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {185-194},
+}
+
+@inproceedings{DBLP:conf/cikm/KamathC12,
+  author    = {Krishna Yeswanth Kamath and
+               James Caverlee},
+  title     = {Content-based crowd retrieval on the real-time web},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {195-204},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhuYCQ12,
+  author    = {Yuanyuan Zhu and
+               Jeffrey Xu Yu and
+               Hong Cheng and
+               Lu Qin},
+  title     = {Graph classification: a diversified discriminative feature selection approach},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {205-214},
+}
+
+@inproceedings{DBLP:conf/cikm/ShinSD12,
+  author    = {Donghyuk Shin and
+               Si Si and
+               Inderjit S. Dhillon},
+  title     = {Multi-scale link prediction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {215-224},
+}
+
+@inproceedings{DBLP:conf/cikm/EldardiryN12,
+  author    = {Hoda Eldardiry and
+               Jennifer Neville},
+  title     = {An analysis of how ensembles of collective classifiers improve predictions in graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {225-234},
+}
+
+@inproceedings{DBLP:conf/cikm/LiYWK12,
+  author    = {Nan Li and
+               Xifeng Yan and
+               Zhen Wen and
+               Arijit Khan},
+  title     = {Density index and proximity search in large graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {235-244},
+}
+
+@inproceedings{DBLP:conf/cikm/TongPEFF12,
+  author    = {Hanghang Tong and
+               B. Aditya Prakash and
+               Tina Eliassi-Rad and
+               Michalis Faloutsos and
+               Christos Faloutsos},
+  title     = {Gelling, and melting, large graphs by edge manipulation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {245-254},
+}
+
+@inproceedings{DBLP:conf/cikm/HaiCC12,
+  author    = {Zhen Hai and
+               Kuiyu Chang and
+               Gao Cong},
+  title     = {One seed to find them all: mining opinion features via association},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {255-264},
+}
+
+@inproceedings{DBLP:conf/cikm/MaSYC12,
+  author    = {Zongyang Ma and
+               Aixin Sun and
+               Quan Yuan and
+               Gao Cong},
+  title     = {Topic-driven reader comments summarization},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {265-274},
+}
+
+@inproceedings{DBLP:conf/cikm/YanWLZCL12,
+  author    = {Rui Yan and
+               Xiaojun Wan and
+               Mirella Lapata and
+               Wayne Xin Zhao and
+               Pu-Jen Cheng and
+               Xiaoming Li},
+  title     = {Visualizing timelines: evolutionary summarization via iterative reinforcement between text and image streams},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {275-284},
+}
+
+@inproceedings{DBLP:conf/cikm/SunSL12,
+  author    = {Xu Sun and
+               Anshumali Shrivastava and
+               Ping Li},
+  title     = {Fast multi-task learning for query spelling correction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {285-294},
+}
+
+@inproceedings{DBLP:conf/cikm/HongZCYZZ12,
+  author    = {Yu Hong and
+               Xiaopei Zhou and
+               Tingting Che and
+               Jian-Min Yao and
+               Qiaoming Zhu and
+               Guodong Zhou},
+  title     = {Cross-argument inference for implicit discourse relation recognition},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {295-304},
+}
+
+@inproceedings{DBLP:conf/cikm/PoundHIW12,
+  author    = {Jeffrey Pound and
+               Alexander K. Hudek and
+               Ihab F. Ilyas and
+               Grant E. Weddell},
+  title     = {Interpreting keyword queries over web knowledge bases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {305-314},
+}
+
+@inproceedings{DBLP:conf/cikm/ChongCZSQZ12,
+  author    = {Zhihong Chong and
+               He Chen and
+               Zhenjie Zhang and
+               Hu Shu and
+               Guilin Qi and
+               Aoying Zhou},
+  title     = {{RDF} pattern matching using sortable views},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {315-324},
+}
+
+@inproceedings{DBLP:conf/cikm/LinXCB12,
+  author    = {Wenqing Lin and
+               Xiaokui Xiao and
+               James Cheng and
+               Sourav S. Bhowmick},
+  title     = {Efficient algorithms for generalized subgraph query processing},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {325-334},
+}
+
+@inproceedings{DBLP:conf/cikm/SakrEH12,
+  author    = {Sherif Sakr and
+               Sameh Elnikety and
+               Yuxiong He},
+  title     = {G-SPARQL: a hybrid engine for querying large attributed graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {335-344},
+}
+
+@inproceedings{DBLP:conf/cikm/ShenWLW12,
+  author    = {Wei Shen and
+               Jianyong Wang and
+               Ping Luo and
+               Min Wang},
+  title     = {A graph-based approach for ontology population with named entities},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {345-354},
+}
+
+@inproceedings{DBLP:conf/cikm/KimC12,
+  author    = {Mijung Kim and
+               K. Selçuk Candan},
+  title     = {Decomposition-by-normalization (DBN): leveraging approximate functional dependencies for efficient tensor decomposition},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {355-364},
+}
+
+@inproceedings{DBLP:conf/cikm/JinCKLZ12,
+  author    = {Yifan Jin and
+               Reynold Cheng and
+               Ben Kao and
+               Kam-yiu Lam and
+               Yinuo Zhang},
+  title     = {A filter-based protocol for continuous queries over imprecise location data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {365-374},
+}
+
+@inproceedings{DBLP:conf/cikm/YanZN12,
+  author    = {Da Yan and
+               Zhou Zhao and
+               Wilfred Ng},
+  title     = {Leveraging read rates of passive {RFID} tags for real-time indoor location tracking},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {375-384},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhongFLTZ12,
+  author    = {Ruicheng Zhong and
+               Ju Fan and
+               Guoliang Li and
+               Kian-Lee Tan and
+               Lizhu Zhou},
+  title     = {Location-aware instant search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {385-394},
+}
+
+@inproceedings{DBLP:conf/cikm/EmrichKMRZ12,
+  author    = {Tobias Emrich and
+               Hans-Peter Kriegel and
+               Nikos Mamoulis and
+               Matthias Renz and
+               Andreas Züfle},
+  title     = {Indexing uncertain spatio-temporal data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {395-404},
+}
+
+@inproceedings{DBLP:conf/cikm/HuangQYY12,
+  author    = {Hao Huang and
+               Hong Qin and
+               Shinjae Yoo and
+               Dantong Yu},
+  title     = {Local anomaly descriptor: a robust unsupervised algorithm for anomaly detection based on diffusion space},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {405-414},
+}
+
+@inproceedings{DBLP:conf/cikm/AkogluTVF12,
+  author    = {Leman Akoglu and
+               Hanghang Tong and
+               Jilles Vreeken and
+               Christos Faloutsos},
+  title     = {Fast and reliable anomaly detection in categorical data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {415-424},
+}
+
+@inproceedings{DBLP:conf/cikm/MorenoSRS12,
+  author    = {Orly Moreno and
+               Bracha Shapira and
+               Lior Rokach and
+               Guy Shani},
+  title     = {TALMUD: transfer learning for multiple domains},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {425-434},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuCBLR12,
+  author    = {Wei Liu and
+               Jeffrey Chan and
+               James Bailey and
+               Christopher Leckie and
+               Kotagiri Ramamohanarao},
+  title     = {Utilizing common substructures to speedup tensor factorization for mining dynamic graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {435-444},
+}
+
+@inproceedings{DBLP:conf/cikm/KootiMGC12,
+  author    = {Farshad Kooti and
+               Winter A. Mason and
+               P. Krishna Gummadi and
+               Meeyoung Cha},
+  title     = {Predicting emerging social conventions in online social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {445-454},
+}
+
+@inproceedings{DBLP:conf/cikm/LiSG12,
+  author    = {Ze Li and
+               Haiying Shen and
+               Joseph Edward Grant},
+  title     = {Collective intelligence in the online social network of yahoo!answers and its implications},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {455-464},
+}
+
+@inproceedings{DBLP:conf/cikm/WangYL12,
+  author    = {Chunyan Wang and
+               Mao Ye and
+               Wang-Chien Lee},
+  title     = {From face-to-face gathering to social structure},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {465-474},
+}
+
+@inproceedings{DBLP:conf/cikm/XueKRKP12,
+  author    = {Mingqiang Xue and
+               Panagiotis Karras and
+               Chedy Raïssi and
+               Panos Kalnis and
+               Hung Keng Pung},
+  title     = {Delineating social network data anonymization via random edge perturbation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {475-484},
+}
+
+@inproceedings{DBLP:conf/cikm/XuZG12,
+  author    = {Tianbing Xu and
+               Ruofei Zhang and
+               Zhen Guo},
+  title     = {Multiview hierarchical bayesian regression model andapplication to online advertising},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {485-494},
+}
+
+@inproceedings{DBLP:conf/cikm/AzimiZZNMF12,
+  author    = {Javad Azimi and
+               Ruofei Zhang and
+               Yang Zhou and
+               Vidhya Navalpakkam and
+               Jianchang Mao and
+               Xiaoli Fern},
+  title     = {Visual appearance of display ads and its effect on click through rate},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {495-504},
+}
+
+@inproceedings{DBLP:conf/cikm/YamamotoSIYWT12,
+  author    = {Takehiro Yamamoto and
+               Tetsuya Sakai and
+               Mayu Iwata and
+               Chen Yu and
+               Ji-Rong Wen and
+               Katsumi Tanaka},
+  title     = {The wisdom of advertisers: mining subgoals via query clustering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {505-514},
+}
+
+@inproceedings{DBLP:conf/cikm/YuanW12,
+  author    = {Shuai Yuan and
+               Jun Wang},
+  title     = {Sequential selection of correlated ads by {POMDPs}},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {515-524},
+}
+
+@inproceedings{DBLP:conf/cikm/KeikhaCC12,
+  author    = {Mostafa Keikha and
+               Fabio Crestani and
+               W. Bruce Croft},
+  title     = {Diversity in blog feed retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {525-534},
+}
+
+@inproceedings{DBLP:conf/cikm/KoenigsteinRS12,
+  author    = {Noam Koenigstein and
+               Parikshit Ram and
+               Yuval Shavitt},
+  title     = {Efficient retrieval of recommendations in a matrix factorization framework},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {535-544},
+}
+
+@inproceedings{DBLP:conf/cikm/HoffartSNTW12,
+  author    = {Johannes Hoffart and
+               Stephan Seufert and
+               Dat Ba Nguyen and
+               Martin Theobald and
+               Gerhard Weikum},
+  title     = {KORE: keyphrase overlap relatedness for entity disambiguation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {545-554},
+}
+
+@inproceedings{DBLP:conf/cikm/KulkarniTHC12,
+  author    = {Anagha Kulkarni and
+               Almer S. Tigelaar and
+               Djoerd Hiemstra and
+               Jamie Callan},
+  title     = {Shard ranking and cutoff estimation for topically partitioned collections},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {555-564},
+}
+
+@inproceedings{DBLP:conf/cikm/LappasT12,
+  author    = {Theodoros Lappas and
+               Evimaria Terzi},
+  title     = {Daily-deal selection for revenue maximization},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {565-574},
+}
+
+@inproceedings{DBLP:conf/cikm/FuxmanKLT12,
+  author    = {Ariel Fuxman and
+               Anitha Kannan and
+               Zhenhui Li and
+               Panayiotis Tsaparas},
+  title     = {Enabling direct interest-aware audience selection},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {575-584},
+}
+
+@inproceedings{DBLP:conf/cikm/ShirazipourazadBVSH12,
+  author    = {Shahrzad Shirazipourazad and
+               Brian Bogard and
+               Harsh Vachhani and
+               Arunabha Sen and
+               Paul Horn},
+  title     = {Influence propagation in adversarial setting: how to defeat competition with least amount of investment},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {585-594},
+}
+
+@inproceedings{DBLP:conf/cikm/ShenRS12,
+  author    = {Dan Shen and
+               Jean-David Ruvini and
+               Badrul Sarwar},
+  title     = {Large-scale item categorization for e-commerce},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {595-604},
+}
+
+@inproceedings{DBLP:conf/cikm/GopalakrishnanIMRS12,
+  author    = {Vishrawas Gopalakrishnan and
+               Suresh Parthasarathy Iyengar and
+               Amit Madaan and
+               Rajeev Rastogi and
+               Srinivasan H. Sengamedu},
+  title     = {Matching product titles using web-based enrichment},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {605-614},
+}
+
+@inproceedings{DBLP:conf/cikm/ChiangWD12,
+  author    = {Kai-Yang Chiang and
+               Joyce Jiyoung Whang and
+               Inderjit S. Dhillon},
+  title     = {Scalable clustering of signed networks using balance normalized cut},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {615-624},
+}
+
+@inproceedings{DBLP:conf/cikm/FanZCCO12,
+  author    = {Xuhui Fan and
+               Lin Zhu and
+               Longbing Cao and
+               Xia Cui and
+               Yew-Soon Ong},
+  title     = {Maximum margin clustering on evolutionary data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {625-634},
+}
+
+@inproceedings{DBLP:conf/cikm/WeningerBH12,
+  author    = {Tim Weninger and
+               Yonatan Bisk and
+               Jiawei Han},
+  title     = {Document-topic hierarchies from document graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {635-644},
+}
+
+@inproceedings{DBLP:conf/cikm/WangQD12,
+  author    = {Xiang Wang and
+               Buyue Qian and
+               Ian Davidson},
+  title     = {Improving document clustering using automated machine translation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {645-653},
+}
+
+@inproceedings{DBLP:conf/cikm/VlachosWS12,
+  author    = {Michail Vlachos and
+               Aleksander Wieczorek and
+               Johannes Schneider},
+  title     = {Right-protected data publishing with hierarchical clustering preservation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {654-663},
+}
+
+@inproceedings{DBLP:conf/cikm/RedaPTPS12,
+  author    = {Azarias Reda and
+               Yubin Park and
+               Mitul Tiwari and
+               Christian Posse and
+               Sam Shah},
+  title     = {Metaphor: a system for related search recommendations},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {664-673},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuTYL12,
+  author    = {Xingjie Liu and
+               Yuan Tian and
+               Mao Ye and
+               Wang-Chien Lee},
+  title     = {Exploring personal impact for group recommendation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {674-683},
+}
+
+@inproceedings{DBLP:conf/cikm/RenLZZ12,
+  author    = {Yongli Ren and
+               Gang Li and
+               Jun Zhang and
+               Wanlei Zhou},
+  title     = {The efficient imputation method for neighborhood-based collaborative filtering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {684-693},
+}
+
+@inproceedings{DBLP:conf/cikm/AgarwalCW12,
+  author    = {Deepak Agarwal and
+               Bee-Chung Chen and
+               Xuanhui Wang},
+  title     = {Multi-faceted ranking of news articles using post-read actions},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {694-703},
+}
+
+@inproceedings{DBLP:conf/cikm/PapaioannouROA12,
+  author    = {Thanasis G. Papaioannou and
+               Jean-Eudes Ranvier and
+               Alexandra Olteanu and
+               Karl Aberer},
+  title     = {A decentralized recommender system for effective web credibility assessment},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {704-713},
+}
+
+@inproceedings{DBLP:conf/cikm/JiangSZ12,
+  author    = {Xiaorui Jiang and
+               Xiaoping Sun and
+               Hai Zhuge},
+  title     = {Towards an effective and unbiased ranking of scientific literature through mutual reinforcement},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {714-723},
+}
+
+@inproceedings{DBLP:conf/cikm/NguyenCH12,
+  author    = {Tam T. Nguyen and
+               Kuiyu Chang and
+               Siu Cheung Hui},
+  title     = {A math-aware search engine for math question answering system},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {724-733},
+}
+
+@inproceedings{DBLP:conf/cikm/NoroziAV12,
+  author    = {Muhammad Ali Norozi and
+               Paavo Arvola and
+               Arjen P. de Vries},
+  title     = {Contextualization using hyperlinks and internal hierarchical structure of Wikipedia documents},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {734-743},
+}
+
+@inproceedings{DBLP:conf/cikm/KimFC12,
+  author    = {Jin Young Kim and
+               Henry Allen Feild and
+               Marc-Allen Cartright},
+  title     = {Understanding book search behavior on the web},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {744-753},
+}
+
+@inproceedings{DBLP:conf/cikm/SiposSSJ12,
+  author    = {Ruben Sipos and
+               Adith Swaminathan and
+               Pannaga Shivaswamy and
+               Thorsten Joachims},
+  title     = {Temporal corpus summarization using submodular word coverage},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {754-763},
+}
+
+@inproceedings{DBLP:conf/cikm/LongCZZ12,
+  author    = {Guodong Long and
+               Ling Chen and
+               Xingquan Zhu and
+               Chengqi Zhang},
+  title     = {TCSST: transfer classification of short & sparse text using external data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {764-772},
+}
+
+@inproceedings{DBLP:conf/cikm/CaballeroBA12,
+  author    = {Karla L. Caballero and
+               Joel Barajas and
+               Ram Akella},
+  title     = {The generalized dirichlet distribution in enhanced topic detection},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {773-782},
+}
+
+@inproceedings{DBLP:conf/cikm/KimKKO12,
+  author    = {Joon Hee Kim and
+               Dongwoo Kim and
+               Suin Kim and
+               Alice H. Oh},
+  title     = {Modeling topic hierarchies with the recursive chinese restaurant process},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {783-792},
+}
+
+@inproceedings{DBLP:conf/cikm/DeepakVWS12,
+  author    = {P. Deepak and
+               Karthik Visweswariah and
+               Nirmalie Wiratunga and
+               Sadiq Sani},
+  title     = {Two-part segmentation of text documents},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {793-802},
+}
+
+@inproceedings{DBLP:conf/cikm/MoghaddamE12,
+  author    = {Samaneh Moghaddam and
+               Martin Ester},
+  title     = {On the design of {LDA} models for aspect-based opinion mining},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {803-812},
+}
+
+@inproceedings{DBLP:conf/cikm/MarkovitsSKC12,
+  author    = {Gad Markovits and
+               Anna Shtok and
+               Oren Kurland and
+               David Carmel},
+  title     = {Predicting query performance for fusion-based retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {813-822},
+}
+
+@inproceedings{DBLP:conf/cikm/KurlandSHRCR12,
+  author    = {Oren Kurland and
+               Anna Shtok and
+               Shay Hummel and
+               Fiana Raiber and
+               David Carmel and
+               Ofri Rom},
+  title     = {Back to the roots: a probabilistic framework for query-performance prediction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {823-832},
+}
+
+@inproceedings{DBLP:conf/cikm/AgarwalRSMLGF12,
+  author    = {Arvind Agarwal and
+               Hema Raghavan and
+               Karthik Subbian and
+               Prem Melville and
+               Richard D. Lawrence and
+               David Gondek and
+               James Fan},
+  title     = {Learning to rank for robust question answering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {833-842},
+}
+
+@inproceedings{DBLP:conf/cikm/VolkovsLZ12,
+  author    = {Maksims Volkovs and
+               Hugo Larochelle and
+               Richard S. Zemel},
+  title     = {Learning to rank by aggregating expert preferences},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {843-851},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhouZ12,
+  author    = {Jian Zhou and
+               Hongyu Zhang},
+  title     = {Learning to rank duplicate bug reports},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {852-861},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhaoN12,
+  author    = {Zhou Zhao and
+               Wilfred Ng},
+  title     = {A model-based approach for {RFID} data stream cleansing},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {862-871},
+}
+
+@inproceedings{DBLP:conf/cikm/MeccaPRS12,
+  author    = {Giansalvatore Mecca and
+               Paolo Papotti and
+               Salvatore Raunich and
+               Donatello Santoro},
+  title     = {What is the {IQ} of your data transformation system?},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {872-881},
+}
+
+@inproceedings{DBLP:conf/cikm/Sadri12,
+  author    = {Fereidoon Sadri},
+  title     = {On the foundations of probabilistic information integration},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {882-891},
+}
+
+@inproceedings{DBLP:conf/cikm/KozawaAK12,
+  author    = {Yusuke Kozawa and
+               Toshiyuki Amagasa and
+               Hiroyuki Kitagawa},
+  title     = {{GPU} acceleration of probabilistic frequent itemset mining from uncertain databases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {892-901},
+}
+
+@inproceedings{DBLP:conf/cikm/NuttR12,
+  author    = {Werner Nutt and
+               Simon Razniewski},
+  title     = {Completeness of queries over {SQL} databases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {902-911},
+}
+
+@inproceedings{DBLP:conf/cikm/StuparM12,
+  author    = {Aleksandar Stupar and
+               Sebastian Michel},
+  title     = {Being picky: processing top-k queries with set-defined selections},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {912-921},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhanZZL12,
+  author    = {Liming Zhan and
+               Ying Zhang and
+               Wenjie Zhang and
+               Xuemin Lin},
+  title     = {Finding top k most influential spatial facilities over uncertain objects},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {922-931},
+}
+
+@inproceedings{DBLP:conf/cikm/HuangLTF12,
+  author    = {Weihuang Huang and
+               Guoliang Li and
+               Kian-Lee Tan and
+               Jianhua Feng},
+  title     = {Efficient safe-region construction for moving {top-K} spatial keyword queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {932-941},
+}
+
+@inproceedings{DBLP:conf/cikm/YanZN12a,
+  author    = {Da Yan and
+               Zhou Zhao and
+               Wilfred Ng},
+  title     = {Monochromatic and bichromatic reverse nearest neighbor queries on land surfaces},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {942-951},
+}
+
+@inproceedings{DBLP:conf/cikm/CreceliusS12,
+  author    = {Tom Crecelius and
+               Ralf Schenkel},
+  title     = {Pay-as-you-go maintenance of precomputed nearest neighbors in large graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {952-961},
+}
+
+@inproceedings{DBLP:conf/cikm/KamathCCS12,
+  author    = {Krishna Yeswanth Kamath and
+               James Caverlee and
+               Zhiyuan Cheng and
+               Daniel Z. Sui},
+  title     = {Spatial influence vs. community influence: modeling the global spread of social media},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {962-971},
+}
+
+@inproceedings{DBLP:conf/cikm/TangY12,
+  author    = {Xuning Tang and
+               Christopher C. Yang},
+  title     = {TUT: a statistical model for detecting trends, topics and user interests in social media},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {972-981},
+}
+
+@inproceedings{DBLP:conf/cikm/HuangCLL12,
+  author    = {Shu Huang and
+               Min Chen and
+               Bo Luo and
+               Dongwon Lee},
+  title     = {Predicting aggregate social activities using continuous-time stochastic process},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {982-991},
+}
+
+@inproceedings{DBLP:conf/cikm/TalukdarWM12,
+  author    = {Partha Pratim Talukdar and
+               Derry Tanti Wijaya and
+               Tom Mitchell},
+  title     = {Acquiring temporal constraints between relations},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {992-1001},
+}
+
+@inproceedings{DBLP:conf/cikm/HagenPBS12,
+  author    = {Matthias Hagen and
+               Martin Potthast and
+               Anna Beyer and
+               Benno Stein},
+  title     = {Towards optimum query segmentation: in doubt without},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1015-1024},
+}
+
+@inproceedings{DBLP:conf/cikm/DiriyeWBD12,
+  author    = {Abdigani Diriye and
+               Ryen White and
+               Georg Buscher and
+               Susan T. Dumais},
+  title     = {Leaving so soon?: understanding and predicting web search abandonment rationales},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1025-1034},
+}
+
+@inproceedings{DBLP:conf/cikm/DuanKZ12,
+  author    = {Huizhong Duan and
+               Emre Kiciman and
+               ChengXiang Zhai},
+  title     = {Click patterns: an empirical representation of complex query intents},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1035-1044},
+}
+
+@inproceedings{DBLP:conf/cikm/DangKT12,
+  author    = {Van Dang and
+               Giridhar Kumaran and
+               Adam D. Troy},
+  title     = {Domain dependent query reformulation for web search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1045-1054},
+}
+
+@inproceedings{DBLP:conf/cikm/SarmaJMB12,
+  author    = {Anish Das Sarma and
+               Ankur Jain and
+               Ashwin Machanavajjhala and
+               Philip Bohannon},
+  title     = {An automatic blocking mechanism for large-scale de-duplication tasks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1055-1064},
+}
+
+@inproceedings{DBLP:conf/cikm/VouzoukidouAC12,
+  author    = {Nelly Vouzoukidou and
+               Bernd Amann and
+               Vassilis Christophides},
+  title     = {Processing continuous text queries featuring non-homogeneous scoring functions},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1065-1074},
+}
+
+@inproceedings{DBLP:conf/cikm/KashyapH12,
+  author    = {Abhijith Kashyap and
+               Vagelis Hristidis},
+  title     = {Comprehension-based result snippets},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1075-1084},
+}
+
+@inproceedings{DBLP:conf/cikm/NiuRWY12,
+  author    = {Xing Niu and
+               Shu Rong and
+               Haofen Wang and
+               Yong Yu},
+  title     = {An effective rule miner for instance matching in a web of data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1085-1094},
+}
+
+@inproceedings{DBLP:conf/cikm/JiaZH12,
+  author    = {Yi Jia and
+               Wenrong Zeng and
+               Jun Huan},
+  title     = {Non-stationary bayesian networks based on perfect simulation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1095-1104},
+}
+
+@inproceedings{DBLP:conf/cikm/SunG12,
+  author    = {Ang Sun and
+               Ralph Grishman},
+  title     = {Active learning for relation type extension with local and global data views},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1105-1112},
+}
+
+@inproceedings{DBLP:conf/cikm/SrinivasanBC12,
+  author    = {Sriram Srinivasan and
+               Sourangshu Bhattacharya and
+               Rudrasis Chakraborty},
+  title     = {Segmenting web-domains and hashtags using length specific models},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1113-1122},
+}
+
+@inproceedings{DBLP:conf/cikm/BlessingS12,
+  author    = {André Blessing and
+               Hinrich Schütze},
+  title     = {Crosslingual distant supervision for extracting relations of different complexity},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1123-1132},
+}
+
+@inproceedings{DBLP:conf/cikm/PatwardhanBAMC12,
+  author    = {Siddharth Patwardhan and
+               Branimir Boguraev and
+               Apoorv Agarwal and
+               Alessandro Moschitti and
+               Jennifer Chu-Carroll},
+  title     = {Labeling by landscaping: classifying tokens in context by pruning and decorating trees},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1133-1142},
+}
+
+@inproceedings{DBLP:conf/cikm/JiangVLN12,
+  author    = {Di Jiang and
+               Jan Vosecky and
+               Kenneth Wai-Ting Leung and
+               Wilfred Ng},
+  title     = {G-WSTD: a framework for geographic web search topic discovery},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1143-1152},
+}
+
+@inproceedings{DBLP:conf/cikm/LeongC12,
+  author    = {Chee Wee Leong and
+               Silviu Cucerzan},
+  title     = {Supporting factual statements with evidence from the web},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1153-1162},
+}
+
+@inproceedings{DBLP:conf/cikm/YuR12,
+  author    = {Haitao Yu and
+               Fuji Ren},
+  title     = {Role-explicit query identification and intent role annotation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1163-1172},
+}
+
+@inproceedings{DBLP:conf/cikm/GaoLD12,
+  author    = {Wei Gao and
+               Peng Li and
+               Kareem Darwish},
+  title     = {Joint topic modeling for event summarization across news and social media streams},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1173-1182},
+}
+
+@inproceedings{DBLP:conf/cikm/PanZ12,
+  author    = {Shirui Pan and
+               Xingquan Zhu},
+  title     = {CGStream: continuous correlated graph query for data streams},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1183-1192},
+}
+
+@inproceedings{DBLP:conf/cikm/ArvanitisDV12,
+  author    = {Anastasios Arvanitis and
+               Antonios Deligiannakis and
+               Yannis Vassiliou},
+  title     = {Efficient influence-based processing of market research queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1193-1202},
+}
+
+@inproceedings{DBLP:conf/cikm/ParameswaranPGPW12,
+  author    = {Aditya G. Parameswaran and
+               Hyunjung Park and
+               Hector Garcia-Molina and
+               Neoklis Polyzotis and
+               Jennifer Widom},
+  title     = {Deco: declarative crowdsourcing},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1203-1212},
+}
+
+@inproceedings{DBLP:conf/cikm/ChengTH12,
+  author    = {Shiwen Cheng and
+               Arash Termehchy and
+               Vagelis Hristidis},
+  title     = {Predicting the effectiveness of keyword queries on databases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1213-1222},
+}
+
+@inproceedings{DBLP:conf/cikm/ShiMWG12,
+  author    = {Yingjie Shi and
+               Xiaofeng Meng and
+               Fusheng Wang and
+               Yantao Gan},
+  title     = {You can stop early with COLA: online processing of aggregate queries in the cloud},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1223-1232},
+}
+
+@inproceedings{DBLP:conf/cikm/WangWYHDC12,
+  author    = {Yilei Wang and
+               Bingzheng Wei and
+               Jun Yan and
+               Yang Hu and
+               Zhi-Hong Deng and
+               Zheng Chen},
+  title     = {A novel local patch framework for fixing supervised learning models},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1233-1242},
+}
+
+@inproceedings{DBLP:conf/cikm/ChenW12,
+  author    = {Lifei Chen and
+               Shengrui Wang},
+  title     = {Automated feature weighting in naive bayes for high-dimensional data classification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1243-1252},
+}
+
+@inproceedings{DBLP:conf/cikm/AnHS12,
+  author    = {Yuan An and
+               Xiaohua Hu and
+               Il-Yeol Song},
+  title     = {Learning to discover complex mappings from web forms to ontologies},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1253-1262},
+}
+
+@inproceedings{DBLP:conf/cikm/ChenHZAHP12,
+  author    = {Xin Chen and
+               Xiaohua Hu and
+               Zhongna Zhou and
+               Yuan An and
+               Tingting He and
+               E. K. Park},
+  title     = {Modeling semantic relations between visual attributes and object categories via dirichlet forest prior},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1263-1272},
+}
+
+@inproceedings{DBLP:conf/cikm/QuanzH12,
+  author    = {Brian Quanz and
+               Jun Huan},
+  title     = {CoNet: feature generation for multi-view semi-supervised learning with partially observed views},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1273-1282},
+}
+
+@inproceedings{DBLP:conf/cikm/KummamuruJD12,
+  author    = {Krishna Kummamuru and
+               Ajith Jujjuru and
+               Mayuri Duggirala},
+  title     = {Generating facets for phone-based navigation of structured data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1283-1292},
+}
+
+@inproceedings{DBLP:conf/cikm/ArguelloC12,
+  author    = {Jaime Arguello and
+               Robert Capra},
+  title     = {The effect of aggregated search coherence on search behavior},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1293-1302},
+}
+
+@inproceedings{DBLP:conf/cikm/WangSE12,
+  author    = {Lei Wang and
+               Dawei Song and
+               Eyad Elyan},
+  title     = {Improving bag-of-visual-words model with spatial-temporal correlation for video retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1303-1312},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuLCBZ12,
+  author    = {Jingjing Liu and
+               Chang Liu and
+               Michael J. Cole and
+               Nicholas J. Belkin and
+               Xiangmin Zhang},
+  title     = {Exploring and predicting search task difficulty},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1313-1322},
+}
+
+@inproceedings{DBLP:conf/cikm/SudituF12,
+  author    = {Nicolae Suditu and
+               François Fleuret},
+  title     = {Iterative relevance feedback with adaptive exploration/exploitation trade-off},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1323-1331},
+}
+
+@inproceedings{DBLP:conf/cikm/ThonangiB012,
+  author    = {Risi Thonangi and
+               Shivnath Babu and
+               Jun Yang},
+  title     = {A practical concurrent index for solid-state drives},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1332-1341},
+}
+
+@inproceedings{DBLP:conf/cikm/LeeH12,
+  author    = {Mu-Woong Lee and
+               Seung-won Hwang},
+  title     = {Robust distributed indexing for locality-skewed workloads},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1342-1351},
+}
+
+@inproceedings{DBLP:conf/cikm/BaoKWZS12,
+  author    = {Zhifeng Bao and
+               Henning Köhler and
+               Liwei Wang and
+               Xiaofang Zhou and
+               Shazia Wasim Sadiq},
+  title     = {Efficient provenance storage for relational queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1352-1361},
+}
+
+@inproceedings{DBLP:conf/cikm/BarbosaPG12,
+  author    = {Manuel Barbosa and
+               Alexandre Pinto and
+               Bruno Gomes},
+  title     = {Generically extending anonymization algorithms to deal with successive queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1362-1371},
+}
+
+@inproceedings{DBLP:conf/cikm/YungLY12,
+  author    = {Duncan Yung and
+               Eric Lo and
+               Man Lung Yiu},
+  title     = {Authentication of moving range queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1372-1381},
+}
+
+@inproceedings{DBLP:conf/cikm/WeiFLC12,
+  author    = {Wei Wei and
+               Xuhui Fan and
+               Jinyan Li and
+               Longbing Cao},
+  title     = {Model the complex dependence structures of financial variables by using canonical vine},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1382-1391},
+}
+
+@inproceedings{DBLP:conf/cikm/WangH012,
+  author    = {Dayong Wang and
+               Steven Chu Hong Hoi and
+               Ying He},
+  title     = {A unified learning framework for auto face annotation by mining web facial images},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1392-1401},
+}
+
+@inproceedings{DBLP:conf/cikm/DengSZ12,
+  author    = {Fan Deng and
+               Stefan Siersdorfer and
+               Sergej Zerr},
+  title     = {Efficient jaccard-based diversity analysis of large document collections},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1402-1411},
+}
+
+@inproceedings{DBLP:conf/cikm/CosciaR12,
+  author    = {Michele Coscia and
+               Viridiana Rios},
+  title     = {Knowing where and how criminal organizations operate using web content},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1412-1421},
+}
+
+@inproceedings{DBLP:conf/cikm/JiangCWYZY12,
+  author    = {Meng Jiang and
+               Peng Cui and
+               Fei Wang and
+               Qiang Yang and
+               Wenwu Zhu and
+               Shiqiang Yang},
+  title     = {Social recommendation across multiple relational domains},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1422-1431},
+}
+
+@inproceedings{DBLP:conf/cikm/YangTKZLDLW12,
+  author    = {Yang Yang and
+               Jie Tang and
+               Jacklyne Keomany and
+               Yanting Zhao and
+               Juanzi Li and
+               Ying Ding and
+               Tian Li and
+               Liangwei Wang},
+  title     = {Mining competitive relationships by learning across heterogeneous networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1432-1441},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhangS0CB12,
+  author    = {Chao Zhang and
+               Lidan Shou and
+               Ke Chen and
+               Gang Chen and
+               Yijun Bei},
+  title     = {Evaluating geo-social influence in location-based social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1442-1451},
+}
+
+@inproceedings{DBLP:conf/cikm/DinhST12,
+  author    = {Thang N. Dinh and
+               Yilin Shen and
+               My T. Thai},
+  title     = {The walls have ears: optimize sharing for visibility and privacy in online social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1452-1461},
+}
+
+@inproceedings{DBLP:conf/cikm/WangHY12,
+  author    = {Guan Wang and
+               Qingbo Hu and
+               Philip S. Yu},
+  title     = {Influence and similarity on heterogeneous networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1462-1466},
+}
+
+@inproceedings{DBLP:conf/cikm/RahmanBH12,
+  author    = {Mahmudur Rahman and
+               Mansurul Bhuiyan and
+               Mohammad Al Hasan},
+  title     = {GRAFT: an approximate graphlet counting algorithm for large graph analysis},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1467-1471},
+}
+
+@inproceedings{DBLP:conf/cikm/ChengZPW12,
+  author    = {Wei Cheng and
+               Xiang Zhang and
+               Feng Pan and
+               Wei Wang},
+  title     = {Hierarchical co-clustering based on entropy splitting},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1472-1476},
+}
+
+@inproceedings{DBLP:conf/cikm/TanLZ12,
+  author    = {Bin Tan and
+               Yuanhua Lv and
+               ChengXiang Zhai},
+  title     = {Mining long-lasting exploratory user interests from search history},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1477-1481},
+}
+
+@inproceedings{DBLP:conf/cikm/WangZLL12,
+  author    = {Deqing Wang and
+               Hui Zhang and
+               Rui Liu and
+               Weifeng Lv},
+  title     = {Feature selection based on term frequency and T-test for text categorization},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1482-1486},
+}
+
+@inproceedings{DBLP:conf/cikm/WangSGM12,
+  author    = {Shuaiqiang Wang and
+               Jiankai Sun and
+               Byron J. Gao and
+               Jun Ma},
+  title     = {Adapting vector space model to ranking-based collaborative filtering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1487-1491},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhouLZ12,
+  author    = {Guangyou Zhou and
+               Kang Liu and
+               Jun Zhao},
+  title     = {Joint relevance and answer quality learning for question routing in community {QA}},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1492-1496},
+}
+
+@inproceedings{DBLP:conf/cikm/GubichevN12,
+  author    = {Andrey Gubichev and
+               Thomas Neumann},
+  title     = {Fast approximation of steiner trees in large graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1497-1501},
+}
+
+@inproceedings{DBLP:conf/cikm/CeylanADL12,
+  author    = {Hakan Ceylan and
+               Ioannis Arapakis and
+               Pinar Donmez and
+               Mounia Lalmas},
+  title     = {Automatically embedding newsworthy links to articles},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1502-1506},
+}
+
+@inproceedings{DBLP:conf/cikm/ShangJLW12,
+  author    = {Fanhua Shang and
+               L. C. Jiao and
+               Yuanyuan Liu and
+               Fei Wang},
+  title     = {Learning spectral embedding via iterative eigenvalue thresholding},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1507-1511},
+}
+
+@inproceedings{DBLP:conf/cikm/LiYHCS12,
+  author    = {Rong-Hua Li and
+               Jeffrey Xu Yu and
+               Xin Huang and
+               Hong Cheng and
+               Zechao Shang},
+  title     = {Measuring robustness of complex networks under {MVC} attack},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1512-1516},
+}
+
+@inproceedings{DBLP:conf/cikm/LongGXK12,
+  author    = {Chong Long and
+               Xiubo Geng and
+               Chang Xu and
+               Sathiya Keerthi},
+  title     = {A simple approach to the design of site-level extractors using domain-centric principles},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1517-1521},
+}
+
+@inproceedings{DBLP:conf/cikm/MasadaT12,
+  author    = {Tomonari Masada and
+               Atsuhiro Takasu},
+  title     = {Extraction of topic evolutions from references in scientific articles and its {GPU} acceleration},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1522-1526},
+}
+
+@inproceedings{DBLP:conf/cikm/CaoYDWW12,
+  author    = {Bin Cao and
+               Jianwei Yin and
+               ShuiGuang Deng and
+               Dongjing Wang and
+               Zhaohui Wu},
+  title     = {Graph-based workflow recommendation: on improving business process modeling},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1527-1531},
+}
+
+@inproceedings{DBLP:conf/cikm/AbedjanLN12,
+  author    = {Ziawasch Abedjan and
+               Johannes Lorey and
+               Felix Naumann},
+  title     = {Reconciling ontologies and the web of data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1532-1536},
+}
+
+@inproceedings{DBLP:conf/cikm/LiCLP12,
+  author    = {Tianyu Li and
+               Pirooz Chubak and
+               Laks V. S. Lakshmanan and
+               Rachel Pottinger},
+  title     = {Efficient extraction of ontologies from domain specific text corpora},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1537-1541},
+}
+
+@inproceedings{DBLP:conf/cikm/LinTCXS12,
+  author    = {Zheng Lin and
+               Songbo Tan and
+               Xueqi Cheng and
+               Xueke Xu and
+               Weisong Shi},
+  title     = {Effective and efficient?: bilingual sentiment lexicon extraction using collocation alignment},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1542-1546},
+}
+
+@inproceedings{DBLP:conf/cikm/YaoS12,
+  author    = {Lina Yao and
+               Quan Z. Sheng},
+  title     = {Exploiting latent relevance for relational learning of ubiquitous things},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1547-1551},
+}
+
+@inproceedings{DBLP:conf/cikm/LvCC12,
+  author    = {Mingqi Lv and
+               Ling Chen and
+               Gencai Chen},
+  title     = {Discovering personally semantic places from {GPS} trajectories},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1552-1556},
+}
+
+@inproceedings{DBLP:conf/cikm/DaiZLP12,
+  author    = {Hanbo Dai and
+               Feida Zhu and
+               Ee-Peng Lim and
+               HweeHwa Pang},
+  title     = {Mining coherent anomaly collections on web data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1557-1561},
+}
+
+@inproceedings{DBLP:conf/cikm/LiSSTDL12,
+  author    = {Daifeng Li and
+               Xin Shuai and
+               Guozheng Sun and
+               Jie Tang and
+               Ying Ding and
+               Zhipeng Luo},
+  title     = {Mining topic-level opinion influence in microblog},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1562-1566},
+}
+
+@inproceedings{DBLP:conf/cikm/KongYDW12,
+  author    = {Xiangnan Kong and
+               Philip S. Yu and
+               Ying Ding and
+               David J. Wild},
+  title     = {Meta path-based collective classification in heterogeneous information networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1567-1571},
+}
+
+@inproceedings{DBLP:conf/cikm/SongKNCXB12,
+  author    = {Yi Song and
+               Panagiotis Karras and
+               Sadegh Nobari and
+               Giorgos Cheliotis and
+               Mingqiang Xue and
+               Stéphane Bressan},
+  title     = {Discretionary social network data revelation with a user-centric utility guarantee},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1572-1576},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhukovskiyVPOGGSR12,
+  author    = {Maxim Zhukovskiy and
+               Dmitry Vinogradov and
+               Yuri Pritykin and
+               Liudmila Ostroumova and
+               Evgeny Grechnikov and
+               Gleb Gusev and
+               Pavel Serdyukov and
+               Andrei Raigorodskii},
+  title     = {Empirical validation of the buckley-osthus model for the web host graph: degree and edge distributions},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1577-1581},
+}
+
+@inproceedings{DBLP:conf/cikm/GaoTL12,
+  author    = {Huiji Gao and
+               Jiliang Tang and
+               Huan Liu},
+  title     = {gSCorr: modeling geo-social correlations for new check-ins on location-based social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1582-1586},
+}
+
+@inproceedings{DBLP:conf/cikm/GuySBRD12,
+  author    = {Ido Guy and
+               Tal Steier and
+               Maya Barnea and
+               Inbal Ronen and
+               Tal Daniel},
+  title     = {Swimming against the streamz: search and analytics over the enterprise activity stream},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1587-1591},
+}
+
+@inproceedings{DBLP:conf/cikm/Diaz-AvilesDGSN12,
+  author    = {Ernesto Diaz-Aviles and
+               Lucas Drumond and
+               Zeno Gantner and
+               Lars Schmidt-Thieme and
+               Wolfgang Nejdl},
+  title     = {What is happening right now ... that interests me?: online topic discovery and recommendation in twitter},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1592-1596},
+}
+
+@inproceedings{DBLP:conf/cikm/BonomiXCF12,
+  author    = {Luca Bonomi and
+               Li Xiong and
+               Rui Chen and
+               Benjamin C. M. Fung},
+  title     = {Frequent grams based embedding for privacy preserving record linkage},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1597-1601},
+}
+
+@inproceedings{DBLP:conf/cikm/TTBS12,
+  author    = {Amir Asiaee T. and
+               Mariano Tepper and
+               Arindam Banerjee and
+               Guillermo Sapiro},
+  title     = {If you are happy and you know it... tweet},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1602-1606},
+}
+
+@inproceedings{DBLP:conf/cikm/LinXLHL12,
+  author    = {Chen Lin and
+               Runquan Xie and
+               Lei Li and
+               Zhenhua Huang and
+               Tao Li},
+  title     = {PRemiSE: personalized news recommendation via implicit social experts},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1607-1611},
+}
+
+@inproceedings{DBLP:conf/cikm/MaoHYL12,
+  author    = {Xianling Mao and
+               Jing He and
+               Hongfei Yan and
+               Xiaoming Li},
+  title     = {Hierarchical topic integration through semi-supervised hierarchical topic modeling},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1612-1616},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhuCCXT12,
+  author    = {Hengshu Zhu and
+               Huanhuan Cao and
+               Enhong Chen and
+               Hui Xiong and
+               Jilei Tian},
+  title     = {Exploiting enriched contextual information for mobile app classification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1617-1621},
+}
+
+@inproceedings{DBLP:conf/cikm/LiHTH12,
+  author    = {Fang Li and
+               Tingting He and
+               Xinhui Tu and
+               Xiaohua Hu},
+  title     = {Incorporating word correlation into tag-topic model for semantic knowledge acquisition},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1622-1626},
+}
+
+@inproceedings{DBLP:conf/cikm/GangadharaiahC12,
+  author    = {Rashmi Gangadharaiah and
+               Rose Catherine},
+  title     = {PriSM: discovering and prioritizing severe technical issues from product discussion forums},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1627-1631},
+}
+
+@inproceedings{DBLP:conf/cikm/ReyesD12,
+  author    = {Raúl Ernesto Gutiérrez de Piñerez Reyes and
+               Juan Francisco Díaz-Frías},
+  title     = {Preprocessing of informal mathematical discourse in context ofcontrolled natural language},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1632-1636},
+}
+
+@inproceedings{DBLP:conf/cikm/LeePKL12,
+  author    = {Sangkeun Lee and
+               Sungchan Park and
+               Minsuk Kahng and
+               Sang-goo Lee},
+  title     = {PathRank: a novel node ranking measure on a heterogeneous graph for recommender systems},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1637-1641},
+}
+
+@inproceedings{DBLP:conf/cikm/LuWZR12,
+  author    = {Yue Lu and
+               Hongning Wang and
+               ChengXiang Zhai and
+               Dan Roth},
+  title     = {Unsupervised discovery of opposing opinion networks from forum discussions},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1642-1646},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhouCLZ12,
+  author    = {Guangyou Zhou and
+               Li Cai and
+               Kang Liu and
+               Jun Zhao},
+  title     = {Exploring the existing category hierarchy to automatically label the newly-arising topics in {cQA}},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1647-1651},
+}
+
+@inproceedings{DBLP:conf/cikm/YinPZH12,
+  author    = {Wenpeng Yin and
+               Yulong Pei and
+               Fan Zhang and
+               Lian'en Huang},
+  title     = {Query-focused multi-document summarization based on query-sensitive feature space},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1652-1656},
+}
+
+@inproceedings{DBLP:conf/cikm/LiangXTC12,
+  author    = {Huizhi Liang and
+               Yue Xu and
+               Dian Tjondronegoro and
+               Peter Christen},
+  title     = {Time-aware topic recommendation based on micro-blogs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1657-1661},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhouLLZ12,
+  author    = {Guangyou Zhou and
+               Siwei Lai and
+               Kang Liu and
+               Jun Zhao},
+  title     = {Topic-sensitive probabilistic model for expert finding in question answer communities},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1662-1666},
+}
+
+@inproceedings{DBLP:conf/cikm/OhY12,
+  author    = {Jinoh Oh and
+               Hwanjo Yu},
+  title     = {iSampling: framework for developing sampling methods considering user's interest},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1667-1671},
+}
+
+@inproceedings{DBLP:conf/cikm/MoroN12,
+  author    = {Andrea Moro and
+               Roberto Navigli},
+  title     = {WiSeNet: building a wikipedia-based semantic network with ontologized relations},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1672-1676},
+}
+
+@inproceedings{DBLP:conf/cikm/Prat-PerezDBL12,
+  author    = {Arnau Prat-Pérez and
+               David Dominguez-Sal and
+               Josep M. Brunat and
+               Josep-Lluis Larriba-Pey},
+  title     = {Shaping communities out of triangles},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1677-1681},
+}
+
+@inproceedings{DBLP:conf/cikm/MeleBG12,
+  author    = {Ida Mele and
+               Francesco Bonchi and
+               Aristides Gionis},
+  title     = {The early-adopter graph and its application to web-page recommendation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1682-1686},
+}
+
+@inproceedings{DBLP:conf/cikm/LiBCH12,
+  author    = {Ping Li and
+               Jiajun Bu and
+               Chun Chen and
+               Zhanying He},
+  title     = {Relational co-clustering via manifold ensemble learning},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1687-1691},
+}
+
+@inproceedings{DBLP:conf/cikm/TsatsaronisVN12,
+  author    = {George Tsatsaronis and
+               Iraklis Varlamis and
+               Kjetil Nørvåg},
+  title     = {SemaFor: semantic document indexing using semantic forests},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1692-1696},
+}
+
+@inproceedings{DBLP:conf/cikm/MendesMZB12,
+  author    = {Pablo N. Mendes and
+               Peter Mika and
+               Hugo Zaragoza and
+               Roi Blanco},
+  title     = {Measuring website similarity using an entity-aware click graph},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1697-1701},
+}
+
+@inproceedings{DBLP:conf/cikm/ChuaCBL12,
+  author    = {Freddy Chong Tat Chua and
+               William W. Cohen and
+               Justin Betteridge and
+               Ee-Peng Lim},
+  title     = {Community-based classification of noun phrases in twitter},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1702-1706},
+}
+
+@inproceedings{DBLP:conf/cikm/BalakrishnanB12,
+  author    = {Raju Balakrishnan and
+               Rushi P. Bhatt},
+  title     = {Real-time bid optimization for group-buying ads},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1707-1711},
+}
+
+@inproceedings{DBLP:conf/cikm/DurakPKS12,
+  author    = {Nurcan Durak and
+               Ali Pinar and
+               Tamara G. Kolda and
+               C. Seshadhri},
+  title     = {Degree relations of triangles in real-world networks and graph models},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1712-1716},
+}
+
+@inproceedings{DBLP:conf/cikm/IntagornL12,
+  author    = {Suradej Intagorn and
+               Kristina Lerman},
+  title     = {A probabilistic approach to mining geospatial knowledge from social annotations},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1717-1721},
+}
+
+@inproceedings{DBLP:conf/cikm/GutierrezDFG12,
+  author    = {Fernando Gutierrez and
+               Dejing Dou and
+               Stephen Fickas and
+               Gina Griffiths},
+  title     = {Providing grades and feedback for student summaries by ontology-based information extraction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1722-1726},
+}
+
+@inproceedings{DBLP:conf/cikm/LiLJWZH12,
+  author    = {Qi Li and
+               Haibo Li and
+               Heng Ji and
+               Wen Wang and
+               Jing Zheng and
+               Fei Huang},
+  title     = {Joint bilingual name tagging for parallel corpora},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1727-1731},
+}
+
+@inproceedings{DBLP:conf/cikm/CheungSM12,
+  author    = {Alvin Cheung and
+               Armando Solar-Lezama and
+               Samuel Madden},
+  title     = {Using program synthesis for social recommendations},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1732-1736},
+}
+
+@inproceedings{DBLP:conf/cikm/AhmedADSA12,
+  author    = {Amr Ahmed and
+               Mohamed Aly and
+               Abhimanyu Das and
+               Alexander J. Smola and
+               Tasos Anastasakos},
+  title     = {Web-scale multi-task feature selection for behavioral targeting},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1737-1741},
+}
+
+@inproceedings{DBLP:conf/cikm/MakinoTO12,
+  author    = {Takuya Makino and
+               Hiroya Takamura and
+               Manabu Okumura},
+  title     = {Balanced coverage of aspects for text summarization},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1742-1746},
+}
+
+@inproceedings{DBLP:conf/cikm/BarajasAHKFA12,
+  author    = {Joel Barajas and
+               Ram Akella and
+               Marius Holtan and
+               Jaimie Kwon and
+               Aaron Flores and
+               Victor Andrei},
+  title     = {Dynamic effects of ad impressions on commercial actions in display advertising},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1747-1751},
+}
+
+@inproceedings{DBLP:conf/cikm/XieFTCMLL12,
+  author    = {Yulai Xie and
+               Dan Feng and
+               Zhipeng Tan and
+               Lei Chen and
+               Kiran-Kumar Muniswamy-Reddy and
+               Yan Li and
+               Darrell D. E. Long},
+  title     = {A hybrid approach for efficient provenance storage},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1752-1756},
+}
+
+@inproceedings{DBLP:conf/cikm/RaiberKT12,
+  author    = {Fiana Raiber and
+               Oren Kurland and
+               Moshe Tennenholtz},
+  title     = {Content-based relevance estimation on the web using inter-document similarities},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1769-1773},
+}
+
+@inproceedings{DBLP:conf/cikm/HuangNHT12,
+  author    = {Jin Huang and
+               Feiping Nie and
+               Heng Huang and
+               Yi-Cheng Tu},
+  title     = {Trust prediction via aggregating heterogeneous social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1774-1778},
+}
+
+@inproceedings{DBLP:conf/cikm/HofmannWR12,
+  author    = {Katja Hofmann and
+               Shimon Whiteson and
+               Maarten de Rijke},
+  title     = {Estimating interleaved comparison outcomes from historical click data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1779-1783},
+}
+
+@inproceedings{DBLP:conf/cikm/LinDH0S12,
+  author    = {Zijia Lin and
+               Guiguang Ding and
+               Mingqing Hu and
+               Jianmin Wang and
+               Jiaguang Sun},
+  title     = {Automatic image annotation using tag-related random search over visual neighbors},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1784-1788},
+}
+
+@inproceedings{DBLP:conf/cikm/WangYYLM12,
+  author    = {Jing Wang and
+               Clement T. Yu and
+               Philip S. Yu and
+               Bing Liu and
+               Weiyi Meng},
+  title     = {Diversionary comments under political blog posts},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1789-1793},
+}
+
+@inproceedings{DBLP:conf/cikm/CuiZLMZ12,
+  author    = {Anqi Cui and
+               Min Zhang and
+               Yiqun Liu and
+               Shaoping Ma and
+               Kuo Zhang},
+  title     = {Discover breaking events with popular hashtags in twitter},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1794-1798},
+}
+
+@inproceedings{DBLP:conf/cikm/LvZ12,
+  author    = {Yuanhua Lv and
+               ChengXiang Zhai},
+  title     = {Query likelihood with negative query generation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1799-1803},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuW12,
+  author    = {Chao Liu and
+               Yi-Min Wang},
+  title     = {On the connections between explicit semantic analysis and latent semantic analysis},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1804-1808},
+}
+
+@inproceedings{DBLP:conf/cikm/CaiZ12,
+  author    = {Wenbin Cai and
+               Ya Zhang},
+  title     = {Variance maximization via noise injection for active sampling in learning to rank},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1809-1813},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhuGCL12,
+  author    = {Xiaofei Zhu and
+               Jiafeng Guo and
+               Xueqi Cheng and
+               Yanyan Lan},
+  title     = {More than relevance: high utility query recommendation by mining users' search behaviors},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1814-1818},
+}
+
+@inproceedings{DBLP:conf/cikm/HuHXLUZ12,
+  author    = {Po Hu and
+               Minlie Huang and
+               Peng Xu and
+               Weichang Li and
+               Adam K. Usadi and
+               Xiaoyan Zhu},
+  title     = {Finding nuggets in {IP} portfolios: core patent mining through textual temporal analysis},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1819-1823},
+}
+
+@inproceedings{DBLP:conf/cikm/ShenDZT12,
+  author    = {Yilin Shen and
+               Thang N. Dinh and
+               Huiyuan Zhang and
+               My T. Thai},
+  title     = {Interest-matching information propagation in multiple online social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1824-1828},
+}
+
+@inproceedings{DBLP:conf/cikm/LappasV12,
+  author    = {Theodoros Lappas and
+               Michail Vlachos},
+  title     = {Customizing search results for non-native speakers},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1829-1833},
+}
+
+@inproceedings{DBLP:conf/cikm/ChoiCK12,
+  author    = {Jaeho Choi and
+               W. Bruce Croft and
+               Jinyoung Kim},
+  title     = {Quality models for microblog retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1834-1838},
+}
+
+@inproceedings{DBLP:conf/cikm/XinKALH12,
+  author    = {Xin Xin and
+               Irwin King and
+               Ritesh Agrawal and
+               Michael R. Lyu and
+               Heyan Huang},
+  title     = {Do ads compete or collaborate?: designing click models with full relationship incorporated},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1839-1843},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhengFY12,
+  author    = {Wei Zheng and
+               Hui Fang and
+               Conglei Yao},
+  title     = {Exploiting concept hierarchy for result diversification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1844-1848},
+}
+
+@inproceedings{DBLP:conf/cikm/KongJYXZ12,
+  author    = {Liang Kong and
+               Shan Jiang and
+               Rui Yan and
+               Shize Xu and
+               Yan Zhang},
+  title     = {Ranking news events by influence decay and information fusion for media and users},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1849-1853},
+}
+
+@inproceedings{DBLP:conf/cikm/WuCLXBZ12,
+  author    = {Le Wu and
+               Enhong Chen and
+               Qi Liu and
+               Linli Xu and
+               Tengfei Bao and
+               Lei Zhang},
+  title     = {Leveraging tagging for neighborhood-aware probabilistic matrix factorization},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1854-1858},
+}
+
+@inproceedings{DBLP:conf/cikm/LuZZX12,
+  author    = {Yao Lu and
+               Wei Zhang and
+               Ke Zhang and
+               Xiangyang Xue},
+  title     = {Semantic context learning with large-scale weakly-labeled image set},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1859-1863},
+}
+
+@inproceedings{DBLP:conf/cikm/HustonCC12,
+  author    = {Samuel Huston and
+               J. Shane Culpepper and
+               W. Bruce Croft},
+  title     = {Sketch-based indexing of n-words},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1864-1868},
+}
+
+@inproceedings{DBLP:conf/cikm/BonchiFNSV12,
+  author    = {Francesco Bonchi and
+               Ophir Frieder and
+               Franco Maria Nardini and
+               Fabrizio Silvestri and
+               Hossein Vahabi},
+  title     = {Interactive and context-aware tag spell check and correction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1869-1873},
+}
+
+@inproceedings{DBLP:conf/cikm/NguyenDTH12,
+  author    = {Dong Nguyen and
+               Thomas Demeester and
+               Dolf Trieschnigg and
+               Djoerd Hiemstra},
+  title     = {Federated search in the wild: the combined power of over a hundred search engines},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1874-1878},
+}
+
+@inproceedings{DBLP:conf/cikm/XuCWS12,
+  author    = {Zhixiang Eddie Xu and
+               Minmin Chen and
+               Kilian Q. Weinberger and
+               Fei Sha},
+  title     = {From {sBoW} to {dCoT} marginalized encoders for text representation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1879-1884},
+}
+
+@inproceedings{DBLP:conf/cikm/HassanW12,
+  author    = {Ahmed Hassan and
+               Ryen W. White},
+  title     = {Task tours: helping users tackle complex search tasks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1885-1889},
+}
+
+@inproceedings{DBLP:conf/cikm/GollapudiIK12,
+  author    = {Sreenivas Gollapudi and
+               Samuel Ieong and
+               Anitha Kannan},
+  title     = {Structured query reformulations in commerce search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1890-1894},
+}
+
+@inproceedings{DBLP:conf/cikm/XuTLCL12,
+  author    = {Xueke Xu and
+               Songbo Tan and
+               Yue Liu and
+               Xueqi Cheng and
+               Zheng Lin},
+  title     = {Towards jointly extracting aspects and aspect-specific sentiment knowledge},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1895-1899},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhouLZ12a,
+  author    = {Ke Zhou and
+               Xin Li and
+               Hongyuan Zha},
+  title     = {Collaborative ranking: improving the relevance for tail queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1900-1904},
+}
+
+@inproceedings{DBLP:conf/cikm/VydiswaranZRP12,
+  author    = {V. G. Vinod Vydiswaran and
+               ChengXiang Zhai and
+               Dan Roth and
+               Peter Pirolli},
+  title     = {BiasTrust: teaching biased users about controversial topics},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1905-1909},
+}
+
+@inproceedings{DBLP:conf/cikm/HuangKCMGR12,
+  author    = {Wenyi Huang and
+               Saurabh Kataria and
+               Cornelia Caragea and
+               Prasenjit Mitra and
+               C. Lee Giles and
+               Lior Rokach},
+  title     = {Recommending citations: translating papers into references},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1910-1914},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhangHLL12,
+  author    = {Xin Zhang and
+               Ben He and
+               Tiejian Luo and
+               Baobin Li},
+  title     = {Query-biased learning to rank for real-time twitter search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1915-1919},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuQCH12,
+  author    = {Zhao Liu and
+               Xipeng Qiu and
+               Ling Cao and
+               Xuanjing Huang},
+  title     = {Discovering logical knowledge for deep question answering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1920-1924},
+}
+
+@inproceedings{DBLP:conf/cikm/QiYZZ12,
+  author    = {Zhongang Qi and
+               Ming Yang and
+               Zhongfei (Mark) Zhang and
+               Zhengyou Zhang},
+  title     = {Mining noisy tagging from multi-label space},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1925-1929},
+}
+
+@inproceedings{DBLP:conf/cikm/RamanSGB12,
+  author    = {Karthik Raman and
+               Krysta Marie Svore and
+               Ran Gilad-Bachrach and
+               Christopher J. C. Burges},
+  title     = {Learning from mistakes: towards a correctable learning algorithm},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1930-1934},
+}
+
+@inproceedings{DBLP:conf/cikm/ChoiKKLLLK12,
+  author    = {Jaehoon Choi and
+               Donghyeon Kim and
+               Seongsoon Kim and
+               Junkyu Lee and
+               Sangrak Lim and
+               Sunwon Lee and
+               Jaewoo Kang},
+  title     = {CONSENTO: a new framework for opinion based entity search and summarization},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1935-1939},
+}
+
+@inproceedings{DBLP:conf/cikm/SteinGH12,
+  author    = {Benno Stein and
+               Tim Gollub and
+               Dennis Hoppe},
+  title     = {Search result presentation based on faceted clustering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1940-1944},
+}
+
+@inproceedings{DBLP:conf/cikm/AwadallahRW12,
+  author    = {Rawia Awadallah and
+               Maya Ramanath and
+               Gerhard Weikum},
+  title     = {PolariCQ: polarity classification of political quotations},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1945-1949},
+}
+
+@inproceedings{DBLP:conf/cikm/LeelanupabZJ12,
+  author    = {Teerapong Leelanupab and
+               Guido Zuccon and
+               Joemon M. Jose},
+  title     = {A comprehensive analysis of parameter settings for novelty-biased cumulative gain},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1950-1954},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuFCW12,
+  author    = {Xitong Liu and
+               Hui Fang and
+               Fei Chen and
+               Min Wang},
+  title     = {Entity centric query expansion for enterprise search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1955-1959},
+}
+
+@inproceedings{DBLP:conf/cikm/WanKC12,
+  author    = {Chang Wan and
+               Ben Kao and
+               David W. Cheung},
+  title     = {Location-sensitive resources recommendation in social tagging systems},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1960-1964},
+}
+
+@inproceedings{DBLP:conf/cikm/SandersonTZS12,
+  author    = {Mark Sanderson and
+               Andrew Turpin and
+               Ying Zhang and
+               Falk Scholer},
+  title     = {Differences in effectiveness across sub-collections},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1965-1969},
+}
+
+@inproceedings{DBLP:conf/cikm/GeorgescuPFNG12,
+  author    = {Mihai Georgescu and
+               Dang Duc Pham and
+               Claudiu S. Firan and
+               Wolfgang Nejdl and
+               Julien Gaugaz},
+  title     = {Map to humans and reduce error: crowdsourcing for deduplication applied to digital libraries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1970-1974},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuZG12,
+  author    = {Xiaozhong Liu and
+               Jinsong Zhang and
+               Chun Guo},
+  title     = {Full-text citation analysis: enhancing bibliometric and scientific publication ranking},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1975-1979},
+}
+
+@inproceedings{DBLP:conf/cikm/XiangFWHR12,
+  author    = {Guang Xiang and
+               Bin Fan and
+               Ling Wang and
+               Jason I. Hong and
+               Carolyn Penstein Rosé},
+  title     = {Detecting offensive tweets via topical feature discovery over a large scale twitter corpus},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1980-1984},
+}
+
+@inproceedings{DBLP:conf/cikm/OliveiraGBBAZG12,
+  author    = {Vitor Oliveira and
+               Guilherme Gomes and
+               Fabiano Belém and
+               Wladmir C. Brandão and
+               Jussara M. Almeida and
+               Nivio Ziviani and
+               Marcos André Gonçalves},
+  title     = {Automatic query expansion based on tag recommendation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1985-1989},
+}
+
+@inproceedings{DBLP:conf/cikm/GyllstromEVM12,
+  author    = {Karl Gyllstrom and
+               Carsten Eickhoff and
+               Arjen P. de Vries and
+               Marie-Francine Moens},
+  title     = {The downside of markup: examining the harmful effects of {CSS} and javascript on indexing today's web},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1990-1994},
+}
+
+@inproceedings{DBLP:conf/cikm/BlancoCLPS12,
+  author    = {Roi Blanco and
+               Diego Ceccarelli and
+               Claudio Lucchese and
+               Raffaele Perego and
+               Fabrizio Silvestri},
+  title     = {You should read this! let me explain you why: explaining news recommendations to users},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {1995-1999},
+}
+
+@inproceedings{DBLP:conf/cikm/AltingovdeBCOSU12,
+  author    = {Ismail Sengör Altingövde and
+               Roi Blanco and
+               Berkant Barla Cambazoglu and
+               Rifat Ozcan and
+               Erdem Sarigil and
+               Özgür Ulusoy},
+  title     = {Characterizing web search queries that match very few or no results},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2000-2004},
+}
+
+@inproceedings{DBLP:conf/cikm/SalomatinLY12,
+  author    = {Konstantin Salomatin and
+               Tie-Yan Liu and
+               Yiming Yang},
+  title     = {A unified optimization framework for auction and guaranteed delivery in online advertising},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2005-2009},
+}
+
+@inproceedings{DBLP:conf/cikm/TorresHWS12,
+  author    = {Sergio Duarte Torres and
+               Djoerd Hiemstra and
+               Ingmar Weber and
+               Pavel Serdyukov},
+  title     = {Query recommendation for children},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2010-2014},
+}
+
+@inproceedings{DBLP:conf/cikm/AshkanC12,
+  author    = {Azin Ashkan and
+               Charles L. A. Clarke},
+  title     = {Modeling browsing behavior for click analysis in sponsored search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2015-2019},
+}
+
+@inproceedings{DBLP:conf/cikm/VuralCS12,
+  author    = {A. Gural Vural and
+               Berkant Barla Cambazoglu and
+               Pinar Senkul},
+  title     = {Sentiment-focused web crawling},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2020-2024},
+}
+
+@inproceedings{DBLP:conf/cikm/YuSNMH12,
+  author    = {Xiao Yu and
+               Yizhou Sun and
+               Brandon Norick and
+               Tiancheng Mao and
+               Jiawei Han},
+  title     = {User guided entity similarity search using meta-path selection in heterogeneous information networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2025-2029},
+}
+
+@inproceedings{DBLP:conf/cikm/Jin12,
+  author    = {Hongxia Jin},
+  title     = {User activity profiling with multi-layer analysis},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2030-2034},
+}
+
+@inproceedings{DBLP:conf/cikm/CamposDJN12,
+  author    = {Ricardo Campos and
+               Gaël Dias and
+               Alípio Jorge and
+               Celia Nunes},
+  title     = {GTE: a distributional second-order co-occurrence approach to improve the identification of top relevant dates in web snippets},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2035-2039},
+}
+
+@inproceedings{DBLP:conf/cikm/SmuckerC12,
+  author    = {Mark D. Smucker and
+               Charles L. A. Clarke},
+  title     = {Stochastic simulation of time-biased gain},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2040-2044},
+}
+
+@inproceedings{DBLP:conf/cikm/KashyapAH12,
+  author    = {Abhijith Kashyap and
+               Reza Amini and
+               Vagelis Hristidis},
+  title     = {SonetRank: leveraging social networks to personalize search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2045-2049},
+}
+
+@inproceedings{DBLP:conf/cikm/GuoLA12,
+  author    = {Qi Guo and
+               Dmitry Lagun and
+               Eugene Agichtein},
+  title     = {Predicting web search success with fine-grained interaction data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2050-2054},
+}
+
+@inproceedings{DBLP:conf/cikm/Tyler012,
+  author    = {Sarah K. Tyler and
+               Yi Zhang},
+  title     = {Multi-session re-search: in pursuit of repetition and diversification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2055-2059},
+}
+
+@inproceedings{DBLP:conf/cikm/AmiriC12,
+  author    = {Hadi Amiri and
+               Tat-Seng Chua},
+  title     = {Mining sentiment terminology through time},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2060-2064},
+}
+
+@inproceedings{DBLP:conf/cikm/Kawamae12,
+  author    = {Noriaki Kawamae},
+  title     = {Theme chronicle model: chronicle consists of timestamp and topical words over each theme},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2065-2069},
+}
+
+@inproceedings{DBLP:conf/cikm/LowZ12,
+  author    = {Yucheng Low and
+               Alice X. Zheng},
+  title     = {Fast top-k similarity queries via matrix compression},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2070-2074},
+}
+
+@inproceedings{DBLP:conf/cikm/WangZCM12,
+  author    = {Hongbing Wang and
+               Xuan Zhou and
+               Wujin Chen and
+               Peisheng Ma},
+  title     = {Top-k retrieval using conditional preference networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2075-2079},
+}
+
+@inproceedings{DBLP:conf/cikm/AchakeevSW12,
+  author    = {Daniar Achakeev and
+               Bernhard Seeger and
+               Peter Widmayer},
+  title     = {Sort-based query-adaptive loading of R-trees},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2080-2084},
+}
+
+@inproceedings{DBLP:conf/cikm/WustBRBKP12,
+  author    = {Johannes Wust and
+               Joos-Hendrik Boese and
+               Frank Renkes and
+               Sebastian Blessing and
+               Jens Krüger and
+               Hasso Plattner},
+  title     = {Efficient logging for enterprise workloads on column-oriented in-memory databases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2085-2089},
+}
+
+@inproceedings{DBLP:conf/cikm/HanFJ12,
+  author    = {Lushan Han and
+               Tim Finin and
+               Anupam Joshi},
+  title     = {Schema-free structured querying of {DBpedia} data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2090-2093},
+}
+
+@inproceedings{DBLP:conf/cikm/BauckmannALMN12,
+  author    = {Jana Bauckmann and
+               Ziawasch Abedjan and
+               Ulf Leser and
+               Heiko Müller and
+               Felix Naumann},
+  title     = {Discovering conditional inclusion dependencies},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2094-2098},
+}
+
+@inproceedings{DBLP:conf/cikm/HasanMTK12,
+  author    = {Mahbub Hasan and
+               Abdullah Mueen and
+               Vassilis J. Tsotras and
+               Eamonn J. Keogh},
+  title     = {Diversifying query results on semi-structured data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2099-2103},
+}
+
+@inproceedings{DBLP:conf/cikm/BohmMNW12,
+  author    = {Christoph Böhm and
+               Gerard de Melo and
+               Felix Naumann and
+               Gerhard Weikum},
+  title     = {LINDA: distributed web-of-data-scale entity matching},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2104-2108},
+}
+
+@inproceedings{DBLP:conf/cikm/TranC12,
+  author    = {Quoc Trung Tran and
+               Chee-Yong Chan},
+  title     = {SliceSort: efficient sorting of hierarchical data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2109-2113},
+}
+
+@inproceedings{DBLP:conf/cikm/XieZSzP12,
+  author    = {Qing Xie and
+               Jia Zhu and
+               Mohamed A. Sharaf and
+               Xiaofang Zhou and
+               Chaoyi Pang},
+  title     = {Efficient buffer management for piecewise linear representation of multiple data streams},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2114-2118},
+}
+
+@inproceedings{DBLP:conf/cikm/Li0HRD12,
+  author    = {Chengkai Li and
+               Nan Zhang and
+               Naeemul Hassan and
+               Sundaresan Rajasekaran and
+               Gautam Das},
+  title     = {On skyline groups},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2119-2123},
+}
+
+@inproceedings{DBLP:conf/cikm/YangYGL12,
+  author    = {Yajun Yang and
+               Jeffrey Xu Yu and
+               Hong Gao and
+               Jianzhong Li},
+  title     = {Finding the optimal path over multi-cost graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2124-2128},
+}
+
+@inproceedings{DBLP:conf/cikm/MaRHMHZCL12,
+  author    = {Youzhong Ma and
+               Jia Rao and
+               Weisong Hu and
+               Xiaofeng Meng and
+               Xu Han and
+               Yu Zhang and
+               Yunpeng Chai and
+               Chunqiu Liu},
+  title     = {An efficient index for massive {IOT} data in cloud environment},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2129-2133},
+}
+
+@inproceedings{DBLP:conf/cikm/NguyenNMF12,
+  author    = {Thanh Hoang Nguyen and
+               Huong Dieu Nguyen and
+               Viviane Moreira and
+               Juliana Freire},
+  title     = {Clustering Wikipedia infoboxes to discover their types},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2134-2138},
+}
+
+@inproceedings{DBLP:conf/cikm/TanLN12,
+  author    = {Haoyu Tan and
+               Wuman Luo and
+               Lionel M. Ni},
+  title     = {CloST: a hadoop-based storage system for big spatio-temporal data analytics},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2139-2143},
+}
+
+@inproceedings{DBLP:conf/cikm/LiXF12,
+  author    = {Guoliang Li and
+               Jing Xu and
+               Jianhua Feng},
+  title     = {Keyword-based k-nearest neighbor search in spatial databases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2144-2148},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhangSZZ12,
+  author    = {Rong Zhang and
+               Chaofeng Sha and
+               Minqi Zhou and
+               Aoying Zhou},
+  title     = {Credibility-based product ranking for C2C transactions},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2149-2153},
+}
+
+@inproceedings{DBLP:conf/cikm/SunHCZD12,
+  author    = {Yu Sun and
+               Jin Huang and
+               Yueguo Chen and
+               Rui Zhang and
+               Xiaoyong Du},
+  title     = {Location selection for utility maximization with capacity constraints},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2154-2158},
+}
+
+@inproceedings{DBLP:conf/cikm/QahtanZW12,
+  author    = {Abdulhakim Ali Qahtan and
+               Xiangliang Zhang and
+               Suojin Wang},
+  title     = {Efficient estimation of dynamic density functions with an application to outlier detection},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2159-2163},
+}
+
+@inproceedings{DBLP:conf/cikm/MaFL12,
+  author    = {Dongzhe Ma and
+               Jianhua Feng and
+               Guoliang Li},
+  title     = {A positional access method for relational databases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2164-2168},
+}
+
+@inproceedings{DBLP:conf/cikm/FanX12,
+  author    = {Liyue Fan and
+               Li Xiong},
+  title     = {Real-time aggregate monitoring with differential privacy},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2169-2173},
+}
+
+@inproceedings{DBLP:conf/cikm/BahmaniGS12,
+  author    = {Bahman Bahmani and
+               Ashish Goel and
+               Rajendra Shinde},
+  title     = {Efficient distributed locality sensitive hashing},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2174-2178},
+}
+
+@inproceedings{DBLP:conf/cikm/WangHTH12,
+  author    = {Jianwen Wang and
+               Xiaohua Hu and
+               Xinhui Tu and
+               Tingting He},
+  title     = {Author-conference topic-connection model for academic network search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2179-2183},
+}
+
+@inproceedings{DBLP:conf/cikm/KimCS12,
+  author    = {Jung Hyun Kim and
+               K. Selçuk Candan and
+               Maria Luisa Sapino},
+  title     = {Impact neighborhood indexing (INI) in diffusion graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2184-2188},
+}
+
+@inproceedings{DBLP:conf/cikm/ShenCL12,
+  author    = {Zhitao Shen and
+               Muhammad Aamir Cheema and
+               Xuemin Lin},
+  title     = {Loyalty-based selection: retrieving objects that persistently satisfy criteria},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2189-2193},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuLF12,
+  author    = {Sitong Liu and
+               Guoliang Li and
+               Jianhua Feng},
+  title     = {Star-Join: spatio-textual similarity join},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2194-2198},
+}
+
+@inproceedings{DBLP:conf/cikm/NiLZLF12,
+  author    = {Jiacai Ni and
+               Guoliang Li and
+               Jun Zhang and
+               Lei Li and
+               Jianhua Feng},
+  title     = {Adapt: adaptive database schema design for multi-tenant applications},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2199-2203},
+}
+
+@inproceedings{DBLP:conf/cikm/QinZWWZH12,
+  author    = {Xiulei Qin and
+               Wenbo Zhang and
+               Wei Wang and
+               Jun Wei and
+               Xin Zhao and
+               Tao Huang},
+  title     = {Optimizing data migration for cloud-based key-value stores},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2204-2208},
+}
+
+@inproceedings{DBLP:conf/cikm/Lehrack12,
+  author    = {Sebastian Lehrack},
+  title     = {Applying weighted queries on probabilistic databases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2209-2213},
+}
+
+@inproceedings{DBLP:conf/cikm/SuhGCK12,
+  author    = {Young-Kyoon Suh and
+               Ahmad Ghazal and
+               Alain Crolotte and
+               Pekka Kostamaa},
+  title     = {A new tool for multi-level partitioning in teradata},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2214-2218},
+}
+
+@inproceedings{DBLP:conf/cikm/OrdonezMGTM12,
+  author    = {Carlos Ordonez and
+               Naveen Mohanam and
+               Carlos Garcia-Alvarado and
+               Predrag T. Tosic and
+               Edgar Martinez},
+  title     = {Fast {PCA} computation in a {DBMS} with aggregate {UDFs} and {LAPACK}},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2219-2223},
+}
+
+@inproceedings{DBLP:conf/cikm/NegahbanRG12,
+  author    = {Sahand Negahban and
+               Benjamin I. P. Rubinstein and
+               Jim Gemmell},
+  title     = {Scaling multiple-source entity resolution using statistically efficient transfer learning},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2224-2228},
+}
+
+@inproceedings{DBLP:conf/cikm/OrangS12,
+  author    = {Mahsa Orang and
+               Nematollaah Shiri},
+  title     = {A probabilistic approach to correlation queries in uncertain time series data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2229-2233},
+}
+
+@inproceedings{DBLP:conf/cikm/YangLCYH12,
+  author    = {De-Nian Yang and
+               Wang-Chien Lee and
+               Nai-Hui Chia and
+               Mao Ye and
+               Hui-Ju Hung},
+  title     = {On bundle configuration for viral marketing in social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2234-2238},
+}
+
+@inproceedings{DBLP:conf/cikm/SunWGM12,
+  author    = {Jiankai Sun and
+               Shuaiqiang Wang and
+               Byron J. Gao and
+               Jun Ma},
+  title     = {Learning to rank for hybrid recommendation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2239-2242},
+}
+
+@inproceedings{DBLP:conf/cikm/WangXY12,
+  author    = {Shuaiqiang Wang and
+               Xiaoming Xi and
+               Yilong Yin},
+  title     = {Importance weighted passive learning},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2243-2246},
+}
+
+@inproceedings{DBLP:conf/cikm/YaoS12a,
+  author    = {Lina Yao and
+               Quan Z. Sheng},
+  title     = {A tag-centric discriminative model for web objects classification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2247-2250},
+}
+
+@inproceedings{DBLP:conf/cikm/BaeJKL12,
+  author    = {Duck-Ho Bae and
+               Seo Jeong and
+               Sang-Wook Kim and
+               Minsoo Lee},
+  title     = {Outlier detection using centrality and center-proximity},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2251-2254},
+}
+
+@inproceedings{DBLP:conf/cikm/BaeK12,
+  author    = {Kyoungman Bae and
+               Youngjoong Ko},
+  title     = {An effective category classification method based on a language model for question category recommendation on a {cQA} service},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2255-2258},
+}
+
+@inproceedings{DBLP:conf/cikm/YanGLCW12,
+  author    = {Xiaohui Yan and
+               Jiafeng Guo and
+               Shenghua Liu and
+               Xueqi Cheng and
+               Yanfeng Wang},
+  title     = {Clustering short text using Ncut-weighted non-negative matrix factorization},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2259-2262},
+}
+
+@inproceedings{DBLP:conf/cikm/WangGWCY12,
+  author    = {Shuaiqiang Wang and
+               Byron J. Gao and
+               Shuangling Wang and
+               Guibao Cao and
+               Yilong Yin},
+  title     = {Polygene-based evolution: a novel framework for evolutionary algorithms},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2263-2266},
+}
+
+@inproceedings{DBLP:conf/cikm/SymondsBST12,
+  author    = {Michael Symonds and
+               Peter D. Bruza and
+               Laurianne Sitbon and
+               Ian Turner},
+  title     = {A tensor encoding model for semantic processing},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2267-2270},
+}
+
+@inproceedings{DBLP:conf/cikm/YaoC12,
+  author    = {Guanhong Yao and
+               Deng Cai},
+  title     = {Accelerating locality preserving nonnegative matrix factorization},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2271-2274},
+}
+
+@inproceedings{DBLP:conf/cikm/BambaSGBF12,
+  author    = {Patrick Bamba and
+               Julien Subercaze and
+               Christophe Gravier and
+               Nabil Benmira and
+               Jimi Fontaine},
+  title     = {The twitaholic next door.: scalable friend recommender system using a concept-sensitive hash function},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2275-2278},
+}
+
+@inproceedings{DBLP:conf/cikm/GargKL12,
+  author    = {Priyanka Garg and
+               Irwin King and
+               Michael R. Lyu},
+  title     = {Information propagation in social rating networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2279-2282},
+}
+
+@inproceedings{DBLP:conf/cikm/DuttingHW12,
+  author    = {Paul Dütting and
+               Monika Henzinger and
+               Ingmar Weber},
+  title     = {Maximizing revenue from strategic recommendations under decaying trust},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2283-2286},
+}
+
+@inproceedings{DBLP:conf/cikm/ComarLSNT12,
+  author    = {Prakash Mandayam Comar and
+               Lei Liu and
+               Sabyasachi Saha and
+               Antonio Nucci and
+               Pang-Ning Tan},
+  title     = {Weighted linear kernel with tree transformed features for malware detection},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2287-2290},
+}
+
+@inproceedings{DBLP:conf/cikm/WangC12,
+  author    = {Chieh-Jen Wang and
+               Hsin-Hsi Chen},
+  title     = {Learning to predict the cost-per-click for your ad words},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2291-2294},
+}
+
+@inproceedings{DBLP:conf/cikm/JuLSZHL12,
+  author    = {Shengfeng Ju and
+               Shoushan Li and
+               Yan Su and
+               Guodong Zhou and
+               Yu Hong and
+               Xiaojun Li},
+  title     = {Dual word and document seed selection for semi-supervised sentiment classification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2295-2298},
+}
+
+@inproceedings{DBLP:conf/cikm/BabbarPGA12,
+  author    = {Rohit Babbar and
+               Ioannis Partalas and
+               Éric Gaussier and
+               Cécile Amblard},
+  title     = {On empirical tradeoffs in large scale hierarchical classification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2299-2302},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhangWW12,
+  author    = {Jingsong Zhang and
+               Yinglin Wang and
+               Hao Wei},
+  title     = {An interaction framework of service-oriented ontology learning},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2303-2306},
+}
+
+@inproceedings{DBLP:conf/cikm/SultanaHBDRDL12,
+  author    = {Afroza Sultana and
+               Quazi Mainul Hasan and
+               Ashis Kumer Biswas and
+               Soumyava Das and
+               Habibur Rahman and
+               Chris H. Q. Ding and
+               Chengkai Li},
+  title     = {Infobox suggestion for Wikipedia entities},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2307-2310},
+}
+
+@inproceedings{DBLP:conf/cikm/CamposBDC12,
+  author    = {Pedro G. Campos and
+               Alejandro Bellogín and
+               Fernando Díez and
+               Iván Cantador},
+  title     = {Time feature selection for identifying active household members},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2311-2314},
+}
+
+@inproceedings{DBLP:conf/cikm/FukumotoYMS12,
+  author    = {Fumiyo Fukumoto and
+               Takeshi Yamamoto and
+               Suguru Matsuyoshi and
+               Yoshimi Suzuki},
+  title     = {Text classification with relatively small positive documents and unlabeled data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2315-2318},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuKCBLPR12,
+  author    = {Wei Liu and
+               Andrey Kan and
+               Jeffrey Chan and
+               James Bailey and
+               Christopher Leckie and
+               Jian Pei and
+               Kotagiri Ramamohanarao},
+  title     = {On compressing weighted time-evolving graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2319-2322},
+}
+
+@inproceedings{DBLP:conf/cikm/DuanWZS12,
+  author    = {Yajuan Duan and
+               Furu Wei and
+               Ming Zhou and
+               Heung-Yeung Shum},
+  title     = {Graph-based collective classification for tweets},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2323-2326},
+}
+
+@inproceedings{DBLP:conf/cikm/RamachandranG12,
+  author    = {Lakshmi Ramachandran and
+               Edward F. Gehringer},
+  title     = {A word-order based graph representation for relevance identification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2327-2330},
+}
+
+@inproceedings{DBLP:conf/cikm/BodenGS12,
+  author    = {Brigitte Boden and
+               Stephan Günnemann and
+               Thomas Seidl},
+  title     = {Tracing clusters in evolving graphs with node attributes},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2331-2334},
+}
+
+@inproceedings{DBLP:conf/cikm/KupavskiiOUUSGK12,
+  author    = {Andrey Kupavskii and
+               Liudmila Ostroumova and
+               Alexey Umnov and
+               Svyatoslav Usachev and
+               Pavel Serdyukov and
+               Gleb Gusev and
+               Andrey Kustarev},
+  title     = {Prediction of retweet cascade size over time},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2335-2338},
+}
+
+@inproceedings{DBLP:conf/cikm/LiangZ12,
+  author    = {Guohua Liang and
+               Chengqi Zhang},
+  title     = {An efficient and simple under-sampling technique for imbalanced time series classification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2339-2342},
+}
+
+@inproceedings{DBLP:conf/cikm/HaKKFP12,
+  author    = {Jiwoon Ha and
+               Soon-Hyoung Kwon and
+               Sang-Wook Kim and
+               Christos Faloutsos and
+               Sunju Park},
+  title     = {{Top-N} recommendation through belief propagation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2343-2346},
+}
+
+@inproceedings{DBLP:conf/cikm/WicaksonoM12,
+  author    = {Alfan Farizki Wicaksono and
+               Sung-Hyon Myaeng},
+  title     = {Mining advices from weblogs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2347-2350},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhuZYGX12,
+  author    = {Zhenfeng Zhu and
+               Xingquan Zhu and
+               Yangdong Ye and
+               Yue-Fei Guo and
+               Xiangyang Xue},
+  title     = {Parallel proximal support vector machine for high-dimensional pattern classification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2351-2354},
+}
+
+@inproceedings{DBLP:conf/cikm/HwangLKL12,
+  author    = {Won-Seok Hwang and
+               Ho-Jong Lee and
+               Sang-Wook Kim and
+               Minsoo Lee},
+  title     = {On using category experts for improving the performance and accuracy in recommender systems},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2355-2358},
+}
+
+@inproceedings{DBLP:conf/cikm/YeoPH12,
+  author    = {Jinyoung Yeo and
+               Jin-Woo Park and
+               Seung-won Hwang},
+  title     = {Finding influential products on social domination game},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2359-2362},
+}
+
+@inproceedings{DBLP:conf/cikm/KhabsaTG12,
+  author    = {Madian Khabsa and
+               Pucktada Treeratpituk and
+               C. Lee Giles},
+  title     = {Entity resolution using search engine results},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2363-2366},
+}
+
+@inproceedings{DBLP:conf/cikm/TakemuraT12,
+  author    = {Hikaru Takemura and
+               Keishi Tajima},
+  title     = {Tweet classification based on their lifetime duration},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2367-2370},
+}
+
+@inproceedings{DBLP:conf/cikm/YangZW12,
+  author    = {Xiao Yang and
+               Zhaoxin Zhang and
+               Ke Wang},
+  title     = {Scalable collaborative filtering using incremental update and local link prediction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2371-2374},
+}
+
+@inproceedings{DBLP:conf/cikm/LiS12,
+  author    = {Cheng-Te Li and
+               Man-Kwan Shan},
+  title     = {Composing activity groups in social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2375-2378},
+}
+
+@inproceedings{DBLP:conf/cikm/ChenPZ12,
+  author    = {Xu Chen and
+               Zhiyong Peng and
+               Cheng Zeng},
+  title     = {A co-training based method for chinese patent semantic annotation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2379-2382},
+}
+
+@inproceedings{DBLP:conf/cikm/MaoMZCYL12,
+  author    = {Xianling Mao and
+               Zhaoyan Ming and
+               Zheng-Jun Zha and
+               Tat-Seng Chua and
+               Hongfei Yan and
+               Xiaoming Li},
+  title     = {Automatic labeling hierarchical topics},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2383-2386},
+}
+
+@inproceedings{DBLP:conf/cikm/LiuSJL12,
+  author    = {Jing Liu and
+               Xinying Song and
+               Jingtian Jiang and
+               Chin-Yew Lin},
+  title     = {An unsupervised method for author extraction from web pages containing user-generated content},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2387-2390},
+}
+
+@inproceedings{DBLP:conf/cikm/BalogN12a,
+  author    = {Krisztian Balog and
+               Robert Neumayer},
+  title     = {Hierarchical target type identification for entity-oriented queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2391-2394},
+}
+
+@inproceedings{DBLP:conf/cikm/MehrotraAH12,
+  author    = {Rishabh Mehrotra and
+               Rushabh Agrawal and
+               Syed Aqueel Haider},
+  title     = {Dictionary based sparse representation for domain adaptation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2395-2398},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhangWH12,
+  author    = {Qi Zhang and
+               Yan Wu and
+               Xuanjing Huang},
+  title     = {Selecting expansion terms as a set via integer linear programming},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2399-2402},
+}
+
+@inproceedings{DBLP:conf/cikm/LevacherLW12,
+  author    = {Killian Levacher and
+               Séamus Lawless and
+               Vincent Wade},
+  title     = {An evaluation and enhancement of densitometric fragmentation for content slicing reuse},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2403-2406},
+}
+
+@inproceedings{DBLP:conf/cikm/KimYK12,
+  author    = {Shinil Kim and
+               Seon Yang and
+               Youngjoong Ko},
+  title     = {Mathematical equation retrieval using plain words as a query},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2407-2410},
+}
+
+@inproceedings{DBLP:conf/cikm/WuJZ12,
+  author    = {Mingda Wu and
+               Shan Jiang and
+               Yan Zhang},
+  title     = {Serial position effects of clicking behavior on result pages returned by search engines},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2411-2414},
+}
+
+@inproceedings{DBLP:conf/cikm/JeongWL12,
+  author    = {Jin-Woo Jeong and
+               Xin-Jing Wang and
+               Dong-Ho Lee},
+  title     = {Towards measuring the visualness of a concept},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2415-2418},
+}
+
+@inproceedings{DBLP:conf/cikm/AsadiL12,
+  author    = {Nima Asadi and
+               Jimmy Lin},
+  title     = {Fast candidate generation for two-phase document ranking: postings list intersection with bloom filters},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2419-2422},
+}
+
+@inproceedings{DBLP:conf/cikm/CuiMWGL12,
+  author    = {Chaoran Cui and
+               Jun Ma and
+               Shuaiqiang Wang and
+               Shuai Gao and
+               Tao Lian},
+  title     = {Semantically coherent image annotation with a learning-based keyword propagation strategy},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2423-2426},
+}
+
+@inproceedings{DBLP:conf/cikm/DarwishMM12,
+  author    = {Kareem Darwish and
+               Walid Magdy and
+               Ahmed Mourad},
+  title     = {Language processing for arabic microblog retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2427-2430},
+}
+
+@inproceedings{DBLP:conf/cikm/BannourH12,
+  author    = {Hichem Bannour and
+               Céline Hudelot},
+  title     = {Hierarchical image annotation using semantic hierarchies},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2431-2434},
+}
+
+@inproceedings{DBLP:conf/cikm/Cummins12,
+  author    = {Ronan Cummins},
+  title     = {On the inference of average precision from score distributions},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2435-2438},
+}
+
+@inproceedings{DBLP:conf/cikm/KoopmanZBSL12,
+  author    = {Bevan Koopman and
+               Guido Zuccon and
+               Peter Bruza and
+               Laurianne Sitbon and
+               Michael Lawley},
+  title     = {An evaluation of corpus-driven measures of medical concept similarity for information retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2439-2442},
+}
+
+@inproceedings{DBLP:conf/cikm/CumminsO12,
+  author    = {Ronan Cummins and
+               Colm O'Riordan},
+  title     = {A constraint to automatically regulate document-length normalisation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2443-2446},
+}
+
+@inproceedings{DBLP:conf/cikm/Gomez-RodriguezR12,
+  author    = {Manuel Gomez-Rodriguez and
+               Monica Rogati},
+  title     = {Bridging offline and online social graph dynamics},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2447-2450},
+}
+
+@inproceedings{DBLP:conf/cikm/KrikonCK12,
+  author    = {Eyal Krikon and
+               David Carmel and
+               Oren Kurland},
+  title     = {Predicting the performance of passage retrieval for question answering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2451-2454},
+}
+
+@inproceedings{DBLP:conf/cikm/XuXLW12,
+  author    = {Jun Xu and
+               Ruifeng Xu and
+               Qin Lu and
+               Xiaolong Wang},
+  title     = {Coarse-to-fine sentence-level emotion classification based on the intra-sentence features and sentential context},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2455-2458},
+}
+
+@inproceedings{DBLP:conf/cikm/KurlandRS12,
+  author    = {Oren Kurland and
+               Fiana Raiber and
+               Anna Shtok},
+  title     = {Query-performance prediction and cluster ranking: two sides of the same coin},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2459-2462},
+}
+
+@inproceedings{DBLP:conf/cikm/KanhabuaN12,
+  author    = {Nattiya Kanhabua and
+               Kjetil Nørvåg},
+  title     = {Learning to rank search results for time-sensitive queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2463-2466},
+}
+
+@inproceedings{DBLP:conf/cikm/ChengZXAC12,
+  author    = {Yu Cheng and
+               Kunpeng Zhang and
+               Yusheng Xie and
+               Ankit Agrawal and
+               Alok N. Choudhary},
+  title     = {On active learning in hierarchical classification},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2467-2470},
+}
+
+@inproceedings{DBLP:conf/cikm/JiXWH12,
+  author    = {Zongcheng Ji and
+               Fei Xu and
+               Bin Wang and
+               Ben He},
+  title     = {Question-answer topic model for question retrieval in community question answering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2471-2474},
+}
+
+@inproceedings{DBLP:conf/cikm/MurakamiM12,
+  author    = {Harumi Murakami and
+               Yuki Miyake},
+  title     = {How do humans distinguish different people with identical names on the web?},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2475-2478},
+}
+
+@inproceedings{DBLP:conf/cikm/LongBDC12,
+  author    = {Bo Long and
+               Jiang Bian and
+               Anlei Dong and
+               Yi Chang},
+  title     = {Enhancing product search by best-selling prediction in e-commerce},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2479-2482},
+}
+
+@inproceedings{DBLP:conf/cikm/AmatiAG12,
+  author    = {Gianni Amati and
+               Giuseppe Amodeo and
+               Carlo Gaibisso},
+  title     = {Survival analysis for freshness in microblogging search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2483-2486},
+}
+
+@inproceedings{DBLP:conf/cikm/ChenLTH12,
+  author    = {Ruey-Cheng Chen and
+               Chia-Jung Lee and
+               Chiung-Min Tsai and
+               Jieh Hsiang},
+  title     = {Information preservation in static index pruning},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2487-2490},
+}
+
+@inproceedings{DBLP:conf/cikm/ChoiC12,
+  author    = {Jaeho Choi and
+               W. Bruce Croft},
+  title     = {Temporal models for microblogs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2491-2494},
+}
+
+@inproceedings{DBLP:conf/cikm/BiyaniCSM12,
+  author    = {Prakhar Biyani and
+               Cornelia Caragea and
+               Amit Singh and
+               Prasenjit Mitra},
+  title     = {I want what i need!: analyzing subjectivity of online forum threads},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2495-2498},
+}
+
+@inproceedings{DBLP:conf/cikm/ChaliHI12,
+  author    = {Yllias Chali and
+               Sadid A. Hasan and
+               Kaisar Imam},
+  title     = {Improving the performance of the reinforcement learning model for answering complex questions},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2499-2502},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhangLZW12,
+  author    = {Qing Zhang and
+               Jianwu Li and
+               Zhiping Zhang and
+               Li Wang},
+  title     = {Relation regularized subspace recommending for related scientific articles},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2503-2506},
+}
+
+@inproceedings{DBLP:conf/cikm/RaiberK12,
+  author    = {Fiana Raiber and
+               Oren Kurland},
+  title     = {Exploring the cluster hypothesis, and cluster-based retrieval, over the web},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2507-2510},
+}
+
+@inproceedings{DBLP:conf/cikm/XuKZ12,
+  author    = {Shize Xu and
+               Liang Kong and
+               Yan Zhang},
+  title     = {A picture paints a thousand words: a method of generating image-text timelines},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2511-2514},
+}
+
+@inproceedings{DBLP:conf/cikm/QureshiOP12,
+  author    = {M. Atif Qureshi and
+               Colm O'Riordan and
+               Gabriella Pasi},
+  title     = {Short-text domain specific key terms/phrases extraction using an n-gram model with wikipedia},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2515-2518},
+}
+
+@inproceedings{DBLP:conf/cikm/NiuLGC12,
+  author    = {Shuzi Niu and
+               Yanyan Lan and
+               Jiafeng Guo and
+               Xueqi Cheng},
+  title     = {A new probabilistic model for top-k ranking problem},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2519-2522},
+}
+
+@inproceedings{DBLP:conf/cikm/JatowtT12,
+  author    = {Adam Jatowt and
+               Katsumi Tanaka},
+  title     = {Large scale analysis of changes in english vocabulary over recent time},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2523-2526},
+}
+
+@inproceedings{DBLP:conf/cikm/KaratzoglouBCB12,
+  author    = {Alexandros Karatzoglou and
+               Linas Baltrunas and
+               Karen Church and
+               Matthias Böhmer},
+  title     = {Climbing the app wall: enabling mobile app discovery through context-aware recommendations},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2527-2530},
+}
+
+@inproceedings{DBLP:conf/cikm/MukherjeeMRB12,
+  author    = {Subhabrata Mukherjee and
+               Akshat Malu and
+               Balamurali A. R. and
+               Pushpak Bhattacharyya},
+  title     = {TwiSent: a multistage system for analyzing sentiment in twitter},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2531-2534},
+}
+
+@inproceedings{DBLP:conf/cikm/GaoZLH12,
+  author    = {Dehong Gao and
+               Renxian Zhang and
+               Wenjie Li and
+               Yuexian Hou},
+  title     = {Twitter hyperlink recommendation with user-tweet-hyperlink three-way clustering},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2535-2538},
+}
+
+@inproceedings{DBLP:conf/cikm/Clinchant12,
+  author    = {Stéphane Clinchant},
+  title     = {Concavity in {IR} models},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2539-2542},
+}
+
+@inproceedings{DBLP:conf/cikm/BordinoDP12,
+  author    = {Ilaria Bordino and
+               Debora Donato and
+               Barbara Poblete},
+  title     = {Extracting interesting association rules from toolbar data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2543-2546},
+}
+
+@inproceedings{DBLP:conf/cikm/KolesnikovLT12,
+  author    = {Alexander Kolesnikov and
+               Yury Logachev and
+               Valeriy Topinskiy},
+  title     = {Predicting {CTR} of new ads via click prediction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2547-2550},
+}
+
+@inproceedings{DBLP:conf/cikm/McCreadieMOGJ12,
+  author    = {Richard M. C. McCreadie and
+               Craig Macdonald and
+               Iadh Ounis and
+               Jim Giles and
+               Ferris Jabr},
+  title     = {An examination of content farms in web search using crowdsourcing},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2551-2554},
+}
+
+@inproceedings{DBLP:conf/cikm/KharitonovS12,
+  author    = {Eugene Kharitonov and
+               Pavel Serdyukov},
+  title     = {Demographic context in web search re-ranking},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2555-2558},
+}
+
+@inproceedings{DBLP:conf/cikm/MacdonaldSO12,
+  author    = {Craig Macdonald and
+               Rodrygo L. T. Santos and
+               Iadh Ounis},
+  title     = {On the usefulness of query features for learning to rank},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2559-2562},
+}
+
+@inproceedings{DBLP:conf/cikm/KustarevUMS12,
+  author    = {Andrey Kustarev and
+               Yury Ustinovsky and
+               Anna Mazur and
+               Pavel Serdyukov},
+  title     = {Session-based query performance prediction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2563-2566},
+}
+
+@inproceedings{DBLP:conf/cikm/FangS12,
+  author    = {Yi Fang and
+               Luo Si},
+  title     = {A latent pairwise preference learning approach for recommendation from implicit feedback},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2567-2570},
+}
+
+@inproceedings{DBLP:conf/cikm/RenCJ12,
+  author    = {Reede Ren and
+               John P. Collomosse and
+               Joemon M. Jose},
+  title     = {Topic based pose relevance learning in dance archives},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2571-2574},
+}
+
+@inproceedings{DBLP:conf/cikm/WienbergG12,
+  author    = {Christopher Wienberg and
+               Andrew S. Gordon},
+  title     = {PhotoFall: discovering weblog stories through photographs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2575-2578},
+}
+
+@inproceedings{DBLP:conf/cikm/TeymorianQF12,
+  author    = {Amin Y. Teymorian and
+               Xiao Qin and
+               Ophir Frieder},
+  title     = {RESQ: rank-energy selective query forwarding for distributed search systems},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2579-2582},
+}
+
+@inproceedings{DBLP:conf/cikm/KazaiKM12,
+  author    = {Gabriella Kazai and
+               Jaap Kamps and
+               Natasa Milic-Frayling},
+  title     = {The face of quality in crowdsourcing relevance labels: demographics, personality and labeling accuracy},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2583-2586},
+}
+
+@inproceedings{DBLP:conf/cikm/DybalaRAS12,
+  author    = {Pawel Dybala and
+               Rafal Rzepka and
+               Kenji Araki and
+               Kohichi Sayama},
+  title     = {Data filtering in humor generation: comparative analysis of hit rate and co-occurrence rankings as a method to choose usable pun candidates},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2587-2590},
+}
+
+@inproceedings{DBLP:conf/cikm/KangLC12,
+  author    = {Changsung Kang and
+               Jeehaeng Lee and
+               Yi Chang},
+  title     = {Predicting primary categories of business listings for local search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2591-2594},
+}
+
+@inproceedings{DBLP:conf/cikm/YueJHH12,
+  author    = {Zhen Yue and
+               Jiepu Jiang and
+               Shuguang Han and
+               Daqing He},
+  title     = {Where do the query terms come from?: an analysis of query reformulation in collaborative web search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2595-2598},
+}
+
+@inproceedings{DBLP:conf/cikm/GuoMCJ12,
+  author    = {Lei Guo and
+               Jun Ma and
+               Zhumin Chen and
+               Haoran Jiang},
+  title     = {Learning to recommend with social relation ensemble},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2599-2602},
+}
+
+@inproceedings{DBLP:conf/cikm/BhatiaHHS12,
+  author    = {Sumit Bhatia and
+               Bin He and
+               Qi He and
+               W. Scott Spangler},
+  title     = {A scalable approach for performing proximal search for verbose patent search queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2603-2606},
+}
+
+@inproceedings{DBLP:conf/cikm/JatowtT12a,
+  author    = {Adam Jatowt and
+               Katsumi Tanaka},
+  title     = {Is wikipedia too difficult?: comparative analysis of readability of wikipedia, simple wikipedia and britannica},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2607-2610},
+}
+
+@inproceedings{DBLP:conf/cikm/Chung12,
+  author    = {Young-joo Chung},
+  title     = {Finding food entity relationships using user-generated data in recipe service},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2611-2614},
+}
+
+@inproceedings{DBLP:conf/cikm/LuYW12,
+  author    = {Bo Lu and
+               Ye Yuan and
+               Guoren Wang},
+  title     = {SRGSIS: a novel framework based on social relationship graph for social image search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2615-2618},
+}
+
+@inproceedings{DBLP:conf/cikm/WangWLL12,
+  author    = {Xun Wang and
+               Lei Wang and
+               Jiwei Li and
+               Sujian Li},
+  title     = {Exploring simultaneous keyword and key sentence extraction: improve graph-based ranking using wikipedia},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2619-2622},
+}
+
+@inproceedings{DBLP:conf/cikm/KanhabuaN12a,
+  author    = {Nattiya Kanhabua and
+               Kjetil Nørvåg},
+  title     = {Estimating query difficulty for news prediction retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2623-2626},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhukovskiyVGSR12,
+  author    = {Maxim Zhukovskiy and
+               Dmitry Vinogradov and
+               Gleb Gusev and
+               Pavel Serdyukov and
+               Andrei Raigorodskii},
+  title     = {Recency-sensitive model of web page authority},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2627-2630},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhouCLJ12,
+  author    = {Ke Zhou and
+               Ronan Cummins and
+               Mounia Lalmas and
+               Joemon M. Jose},
+  title     = {Evaluating reward and risk for vertical selection},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2631-2634},
+}
+
+@inproceedings{DBLP:conf/cikm/JiangHHYN12,
+  author    = {Jiepu Jiang and
+               Daqing He and
+               Shuguang Han and
+               Zhen Yue and
+               Chaoqun Ni},
+  title     = {Contextual evaluation of query reformulations in a search session by user simulation},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2635-2638},
+}
+
+@inproceedings{DBLP:conf/cikm/GaoCK12,
+  author    = {Byron J. Gao and
+               Zhumin Chen and
+               Qi Kang},
+  title     = {Information-complete and redundancy-free keyword search over large data graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2639-2642},
+}
+
+@inproceedings{DBLP:conf/cikm/LiWXCS12,
+  author    = {Yafei Li and
+               Dingming Wu and
+               Jianliang Xu and
+               Byron Choi and
+               Weifeng Su},
+  title     = {Spatial-aware interest group queries in location-based social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2643-2646},
+}
+
+@inproceedings{DBLP:conf/cikm/BerneckerEKRZ12,
+  author    = {Thomas Bernecker and
+               Tobias Emrich and
+               Hans-Peter Kriegel and
+               Matthias Renz and
+               Andreas Züfle},
+  title     = {Probabilistic ranking in fuzzy object databases},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2647-2650},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhengWLS12,
+  author    = {Shuai Zheng and
+               Fusheng Wang and
+               James J. Lu and
+               Joel H. Saltz},
+  title     = {Enabling ontology based semantic queries in biomedical database systems},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2651-2654},
+}
+
+@inproceedings{DBLP:conf/cikm/LokocWSR12,
+  author    = {Jakub Lokoc and
+               Jürgen Wünschmann and
+               Tomás Skopal and
+               Albrecht Rothermel},
+  title     = {Similarity search in 3D object-based video data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2655-2658},
+}
+
+@inproceedings{DBLP:conf/cikm/PanZ12a,
+  author    = {Shirui Pan and
+               Xingquan Zhu},
+  title     = {Continuous top-k query for graph streams},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2659-2662},
+}
+
+@inproceedings{DBLP:conf/cikm/BohmKN12,
+  author    = {Christoph Böhm and
+               Gjergji Kasneci and
+               Felix Naumann},
+  title     = {Latent topics in graph-structured data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2663-2666},
+}
+
+@inproceedings{DBLP:conf/cikm/WelchSD12,
+  author    = {Michael J. Welch and
+               Aamod Sane and
+               Chris Drome},
+  title     = {Fast and accurate incremental entity resolution relative to an entity knowledge base},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2667-2670},
+}
+
+@inproceedings{DBLP:conf/cikm/MetzgerSHS12,
+  author    = {Steffen Metzger and
+               Michael Stoll and
+               Katja Hose and
+               Ralf Schenkel},
+  title     = {{LUKe} and MIKe: learning from user knowledge and managing interactive knowledge extraction},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2671-2673},
+}
+
+@inproceedings{DBLP:conf/cikm/WangDRSW12,
+  author    = {Yafang Wang and
+               Maximilian Dylla and
+               Zhaochun Ren and
+               Marc Spaniol and
+               Gerhard Weikum},
+  title     = {PRAVDA-live: interactive knowledge harvesting},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2674-2676},
+}
+
+@inproceedings{DBLP:conf/cikm/ChenZMZ12,
+  author    = {Yunfei Chen and
+               Lanbo Zhang and
+               Aaron Michelony and
+               Yi Zhang},
+  title     = {4Is of social bully filtering: identity, inference, influence, and intervention},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2677-2679},
+}
+
+@inproceedings{DBLP:conf/cikm/DragutOMMBS12,
+  author    = {Eduard C. Dragut and
+               Mourad Ouzzani and
+               Amgad Madkour and
+               Nabeel Mohamed and
+               Peter Baker and
+               David E. Salt},
+  title     = {Lonomics Atlas: a tool to explore interconnected ionomic, genomic and environmental data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2680-2682},
+}
+
+@inproceedings{DBLP:conf/cikm/BertinSPR12,
+  author    = {Benjamin Bertin and
+               Vasile-Marian Scuturici and
+               Jean-Marie Pinon and
+               Emmanuel Risler},
+  title     = {CarbonDB: a semantic life cycle inventory database},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2683-2685},
+}
+
+@inproceedings{DBLP:conf/cikm/KanhabuaRSN12,
+  author    = {Nattiya Kanhabua and
+               Sara Romano and
+               Avaré Stewart and
+               Wolfgang Nejdl},
+  title     = {Supporting temporal analytics for health-related events in microblogs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2686-2688},
+}
+
+@inproceedings{DBLP:conf/cikm/KimZRDHCL12,
+  author    = {Hyun Duk Kim and
+               ChengXiang Zhai and
+               Thomas A. Rietz and
+               Daniel Diermeier and
+               Meichun Hsu and
+               Malú Castellanos and
+               Carlos Ceja Limon},
+  title     = {InCaToMi: integrative causal topic miner between textual and non-textual time series data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2689-2691},
+}
+
+@inproceedings{DBLP:conf/cikm/KranenWRRS12,
+  author    = {Philipp Kranen and
+               Stephan Wels and
+               Tim Rohlfs and
+               Sebastian Raubach and
+               Thomas Seidl},
+  title     = {A tool for automated evaluation of algorithms},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2692-2694},
+}
+
+@inproceedings{DBLP:conf/cikm/MagdyAD12,
+  author    = {Walid Magdy and
+               Ahmed Ali and
+               Kareem Darwish},
+  title     = {A summarization tool for time-sensitive social media},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2695-2697},
+}
+
+@inproceedings{DBLP:conf/cikm/WhitingZJAL12,
+  author    = {Stewart Whiting and
+               Ke Zhou and
+               Joemon M. Jose and
+               Omar Alonso and
+               Teerapong Leelanupab},
+  title     = {CrowdTiles: presenting crowd-based information for event-driven information needs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2698-2700},
+}
+
+@inproceedings{DBLP:conf/cikm/YinKRC12,
+  author    = {Jie Yin and
+               Sarvnaz Karimi and
+               Bella Robinson and
+               Mark A. Cameron},
+  title     = {ESA: emergency situation awareness via microbloggers},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2701-2703},
+}
+
+@inproceedings{DBLP:conf/cikm/ChenGK12,
+  author    = {Zhumin Chen and
+               Byron J. Gao and
+               Qi Kang},
+  title     = {Cager: a framework for cross-page search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2704-2706},
+}
+
+@inproceedings{DBLP:conf/cikm/WongCTP12,
+  author    = {Wilson Wong and
+               Lawrence Cavedon and
+               John Thangarajah and
+               Lin Padgham},
+  title     = {Mixed-initiative conversational system using question-answer pairs mined from the web},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2707-2709},
+}
+
+@inproceedings{DBLP:conf/cikm/ZerrSH12,
+  author    = {Sergej Zerr and
+               Stefan Siersdorfer and
+               Jonathon S. Hare},
+  title     = {PicAlert!: a system for privacy-aware image classification and retrieval},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2710-2712},
+}
+
+@inproceedings{DBLP:conf/cikm/LinJZY12,
+  author    = {Sheng Lin and
+               Peiquan Jin and
+               Xujian Zhao and
+               Lihua Yue},
+  title     = {TASE: a time-aware search engine},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2713-2715},
+}
+
+@inproceedings{DBLP:conf/cikm/BaoKLRY12,
+  author    = {Zhuowei Bao and
+               Benny Kimelfeld and
+               Yunyao Li and
+               Sriram Raghavan and
+               Huahai Yang},
+  title     = {Gumshoe quality toolkit: administering programmable search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2716-2718},
+}
+
+@inproceedings{DBLP:conf/cikm/Shiraishi0KA12,
+  author    = {Yuhki Shiraishi and
+               Jianwei Zhang and
+               Yukiko Kawai and
+               Toyokazu Akiyama},
+  title     = {Simultaneous realization of page-centric communication and search},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2719-2721},
+}
+
+@inproceedings{DBLP:conf/cikm/KacimiG12,
+  author    = {Mouna Kacimi and
+               Johann Gamper},
+  title     = {MOUNA: mining opinions to unveil neglected arguments},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2722-2724},
+}
+
+@inproceedings{DBLP:conf/cikm/SavkovicPPN12,
+  author    = {Ognjen Savkovic and
+               Mirza Paramita and
+               Sergey Paramonov and
+               Werner Nutt},
+  title     = {MAGIK: managing completeness of data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2725-2727},
+}
+
+@inproceedings{DBLP:conf/cikm/EmrichKNRSZ12,
+  author    = {Tobias Emrich and
+               Hans-Peter Kriegel and
+               Johannes Niedermayer and
+               Matthias Renz and
+               André Suhartha and
+               Andreas Züfle},
+  title     = {Exploration of monte-carlo based probabilistic query processing in uncertain graphs},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2728-2730},
+}
+
+@inproceedings{DBLP:conf/cikm/HerschelE12,
+  author    = {Melanie Herschel and
+               Hanno Eichelberger},
+  title     = {The nautilus analyzer: understanding and debugging data transformations},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2731-2733},
+}
+
+@inproceedings{DBLP:conf/cikm/SouihliS12,
+  author    = {Asma Souihli and
+               Pierre Senellart},
+  title     = {Demonstrating {ProApproX} 2.0: a predictive query engine for probabilistic {XML}},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2734-2736},
+}
+
+@inproceedings{DBLP:conf/cikm/ChoiLKLM12,
+  author    = {Hyebong Choi and
+               Kyong-Ha Lee and
+               Soo-Hyong Kim and
+               Yoon-Joon Lee and
+               Bongki Moon},
+  title     = {HadoopXML: a suite for parallel processing of massive {XML} data with multiple twig pattern queries},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2737-2739},
+}
+
+@inproceedings{DBLP:conf/cikm/GrantGLWC12,
+  author    = {Christan Earl Grant and
+               Joir-dan Gumbs and
+               Kun Li and
+               Daisy Zhe Wang and
+               George Chitouras},
+  title     = {MADden: query-driven statistical text analytics},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2740-2742},
+}
+
+@inproceedings{DBLP:conf/cikm/CandanRSW12,
+  author    = {K. Selçuk Candan and
+               Rosaria Rossini and
+               Maria Luisa Sapino and
+               Xiaolan Wang},
+  title     = {STFMap: query- and feature-driven visualization of large time series data sets},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2743-2745},
+}
+
+@inproceedings{DBLP:conf/cikm/DhiaAS12,
+  author    = {Imen Ben Dhia and
+               Talel Abdessalem and
+               Mauro Sozio},
+  title     = {Primates: a privacy management system for social networks},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2746-2748},
+}
+
+@inproceedings{DBLP:conf/cikm/Aranda-AndujarBCCGKM12,
+  author    = {Andrés Aranda-Andújar and
+               Francesca Bugiotti and
+               Jesús Camacho-Rodríguez and
+               Dario Colazzo and
+               François Goasdoué and
+               Zoi Kaoudi and
+               Ioana Manolescu},
+  title     = {AMADA: web data repositories in the amazon cloud},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2749-2751},
+}
+
+@inproceedings{DBLP:conf/cikm/MahmudCNDZ12,
+  author    = {Jalal Mahmud and
+               James Caverlee and
+               Jeffrey Nichols and
+               John O'Donovan and
+               Michelle X. Zhou},
+  title     = {DUBMMSM'12: international workshop on data-driven user behavioral modeling and mining from social media},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2752-2753},
+}
+
+@inproceedings{DBLP:conf/cikm/MengSW12,
+  author    = {Xiaofeng Meng and
+               Adam Silberstein and
+               Fusheng Wang},
+  title     = {{CloudDB} 2012: fourth international workshop on cloud data management},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2754-2755},
+}
+
+@inproceedings{DBLP:conf/cikm/BicerTOE12,
+  author    = {Veli Bicer and
+               Thanh Tran and
+               Fatma Ozcan and
+               Opher Etzion},
+  title     = {{CDMW} 2012 - city data management workshop: workshop summary},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2756-2757},
+}
+
+@inproceedings{DBLP:conf/cikm/TaoB12,
+  author    = {Cui Tao and
+               Matt-Mouley Bouamrane},
+  title     = {Managing interoperability and {compleXity} in health systems - MIXHS'12},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2758-2759},
+}
+
+@inproceedings{DBLP:conf/cikm/KotoulasZH12,
+  author    = {Spyros Kotoulas and
+               Yi Zeng and
+               Zhisheng Huang},
+  title     = {The 2012 international workshop on web-scale knowledge representation, retrieval, and reasoning},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2760-2761},
+}
+
+@inproceedings{DBLP:conf/cikm/YangCWCT12,
+  author    = {Christopher C. Yang and
+               Hsinchun Chen and
+               Howard D. Wactlar and
+               Carlo Combi and
+               Xuning Tang},
+  title     = {{SHB} 2012: international workshop on smart health and wellbeing},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2762-2763},
+}
+
+@inproceedings{DBLP:conf/cikm/KazaiLEB12,
+  author    = {Gabriella Kazai and
+               Monica Landoni and
+               Carsten Eickhoff and
+               Peter Brusilovsky},
+  title     = {Booksonline'12: 5th workshop on online books, complementary social media and their impact},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2764-2765},
+}
+
+@inproceedings{DBLP:conf/cikm/SongLXA12,
+  author    = {Min Song and
+               Doheon Lee and
+               Hua Xu and
+               Sophia Ananiadou},
+  title     = {{DTMBIO} 2012: international workshop on data and text mining in biomedical informatics},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2766-2767},
+}
+
+@inproceedings{DBLP:conf/cikm/WeberPP12,
+  author    = {Ingmar Weber and
+               Ana-Maria Popescu and
+               Marco Pennacchiotti},
+  title     = {{PLEAD} 2012: politics, elections and data},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2768-2769},
+}
+
+@inproceedings{DBLP:conf/cikm/RoitmanCF12,
+  author    = {Haggai Roitman and
+               Iván Cantador and
+               Miriam Fernández},
+  title     = {Workshop on multimodal crowd sensing ({CrowdSens} 2012)},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2770-2771},
+}
+
+@inproceedings{DBLP:conf/cikm/KampsKMM12,
+  author    = {Jaap Kamps and
+               Jussi Karlgren and
+               Peter Mika and
+               Vanessa Murdock},
+  title     = {Fifth workshop on exploiting semantic annotations in information retrieval: ESAIR"12)},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2772-2773},
+}
+
+@inproceedings{DBLP:conf/cikm/AgrawalOR12,
+  author    = {Rakesh Agrawal and
+               Douglas W. Oard and
+               Nitendra Rajput},
+  title     = {First international workshop on information and knowledge management for developing region},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2774-2775},
+}
+
+@inproceedings{DBLP:conf/cikm/VardeS12,
+  author    = {Aparna S. Varde and
+               Fabian M. Suchanek},
+  title     = {{PIKM} 2012: 5th {ACM} workshop for {PhD} students in information and knowledge management},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2776-2777},
+}
+
+@inproceedings{DBLP:conf/cikm/FletcherM12,
+  author    = {George H. L. Fletcher and
+               Prasenjit Mitra},
+  title     = {{WIDM} 2012: the 12th international workshop on web information and data management},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2778-2779},
+}
+
+@inproceedings{DBLP:conf/cikm/GolfarelliS12,
+  author    = {Matteo Golfarelli and
+               Il-Yeol Song},
+  title     = {{DOLAP} 2012 workshop summary},
+  booktitle = cikm,
+  year      = 2012,
+  pages     = {2780-2781},
+}
+
 @inproceedings{DBLP:conf/cikm/Karger11,
   author    = {David R. Karger},
   title     = {Creating user interfaces that entice people to manage better information},
@@ -3817,7 +8616,7 @@
   author    = {Raymond Yiu-Keung Lau and
                Chun Lam Lai and
                Peter Bruza and
-               Kam F. Wong},
+               Kam-Fai Wong},
   title     = {Leveraging web 2.0 data for scalable semi-supervised learning of domain-specific sentiment lexicons},
   booktitle = cikm,
   year      = 2011,
@@ -22295,7 +27094,7 @@
                I. C. Wang and
                Cheng-Lung Sung and
                Wen-Lian Hsu and
-               Wei Kuan Shih},
+               Wei-Kuan Shih},
   title     = {Semantic Search on Internet Tabular Information Extraction for Answering Queries},
   booktitle = cikm,
   year      = 2000,

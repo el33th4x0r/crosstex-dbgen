@@ -1,5 +1,478 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/popl/Gonthier13,
+  author    = {Georges Gonthier},
+  title     = {Engineering mathematics: the odd order theorem proof},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/popl/LoschP13,
+  author    = {Steffen Lösch and
+               Andrew M. Pitts},
+  title     = {Full abstraction for nominal Scott domains},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/popl/Tate13,
+  author    = {Ross Tate},
+  title     = {The sequential semantics of producer effect systems},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {15-26},
+}
+
+@inproceedings{DBLP:conf/popl/AbelPTS13,
+  author    = {Andreas Abel and
+               Brigitte Pientka and
+               David Thibodeau and
+               Anton Setzer},
+  title     = {Copatterns: programming infinite structures by observations},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {27-38},
+}
+
+@inproceedings{DBLP:conf/popl/BlellochH13,
+  author    = {Guy E. Blelloch and
+               Robert Harper},
+  title     = {Cache and I/O efficent functional algorithms},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {39-50},
+}
+
+@inproceedings{DBLP:conf/popl/Ben-AmramG13,
+  author    = {Amir M. Ben-Amram and
+               Samir Genaim},
+  title     = {On the linear ranking problem for integer linear-constraint loops},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {51-62},
+}
+
+@inproceedings{DBLP:conf/popl/MayrC13,
+  author    = {Richard Mayr and
+               Lorenzo Clemente},
+  title     = {Advanced automata minimization},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {63-74},
+}
+
+@inproceedings{DBLP:conf/popl/UnnoTK13,
+  author    = {Hiroshi Unno and
+               Tachio Terauchi and
+               Naoki Kobayashi},
+  title     = {Automating relatively complete verification of higher-order functional programs},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {75-86},
+}
+
+@inproceedings{DBLP:conf/popl/AtkeyJK13,
+  author    = {Robert Atkey and
+               Patricia Johann and
+               Andrew Kennedy},
+  title     = {Abstraction and invariance for algebraically indexed types},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {87-100},
+}
+
+@inproceedings{DBLP:conf/popl/BenzakenCNS13,
+  author    = {Véronique Benzaken and
+               Giuseppe Castagna and
+               Kim Nguyen and
+               Jérôme Siméon},
+  title     = {Static and dynamic semantics of {NoSQL} languages},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {101-114},
+}
+
+@inproceedings{DBLP:conf/popl/CernyHR13,
+  author    = {Pavol Cerný and
+               Thomas A. Henzinger and
+               Arjun Radhakrishna},
+  title     = {Quantitative abstraction refinement},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {115-128},
+}
+
+@inproceedings{DBLP:conf/popl/FarzanKP13,
+  author    = {Azadeh Farzan and
+               Zachary Kincaid and
+               Andreas Podelski},
+  title     = {Inductive data flow graphs},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {129-142},
+}
+
+@inproceedings{DBLP:conf/popl/DSilvaHK13,
+  author    = {Vijay D'Silva and
+               Leopold Haller and
+               Daniel Kroening},
+  title     = {Abstract conflict driven learning},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {143-154},
+}
+
+@inproceedings{DBLP:conf/popl/Goyet13,
+  author    = {Alexis Goyet},
+  title     = {The Lambda {Lambda-Bar} calculus: a dual calculus for unconstrained strategies},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {155-166},
+}
+
+@inproceedings{DBLP:conf/popl/LagoP13,
+  author    = {Ugo Dal Lago and
+               Barbara Petit},
+  title     = {The geometry of types},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {167-178},
+}
+
+@inproceedings{DBLP:conf/popl/StatonL13,
+  author    = {Sam Staton and
+               Paul Blain Levy},
+  title     = {Universal properties of impure programming languages},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {179-192},
+}
+
+@inproceedings{DBLP:conf/popl/HurNDV13,
+  author    = {Chung-Kil Hur and
+               Georg Neis and
+               Derek Dreyer and
+               Viktor Vafeiadis},
+  title     = {The power of parameterization in coinductive proof},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {193-206},
+}
+
+@inproceedings{DBLP:conf/popl/DelawareOS13,
+  author    = {Benjamin Delaware and
+               Bruno C. d. S. Oliveira and
+               Tom Schrijvers},
+  title     = {Meta-theory à la carte},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {207-218},
+}
+
+@inproceedings{DBLP:conf/popl/ParkSP13,
+  author    = {Jonghyun Park and
+               Jeongbong Seo and
+               Sungwoo Park},
+  title     = {A theorem prover for Boolean {BI}},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {219-232},
+}
+
+@inproceedings{DBLP:conf/popl/Krishnamurthi13,
+  author    = {Shriram Krishnamurthi},
+  title     = {From principles to programming languages (and back)},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {233-234},
+}
+
+@inproceedings{DBLP:conf/popl/BattyDG13,
+  author    = {Mark Batty and
+               Mike Dodds and
+               Alexey Gotsman},
+  title     = {Library abstraction for C/C++ concurrency},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {235-248},
+}
+
+@inproceedings{DBLP:conf/popl/RamalingamV13,
+  author    = {Ganesan Ramalingam and
+               Kapil Vaswani},
+  title     = {Fault tolerance via idempotence},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {249-262},
+}
+
+@inproceedings{DBLP:conf/popl/CarboneM13,
+  author    = {Marco Carbone and
+               Fabrizio Montesi},
+  title     = {Deadlock-freedom-by-design: multiparty asynchronous global programming},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {263-274},
+}
+
+@inproceedings{DBLP:conf/popl/CairesS13,
+  author    = {Luís Caires and
+               João Costa Seco},
+  title     = {The type discipline of behavioral separation},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {275-286},
+}
+
+@inproceedings{DBLP:conf/popl/Dinsdale-YoungBGPY13,
+  author    = {Thomas Dinsdale-Young and
+               Lars Birkedal and
+               Philippa Gardner and
+               Matthew J. Parkinson and
+               Hongseok Yang},
+  title     = {Views: compositional reasoning for concurrent programs},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {287-300},
+}
+
+@inproceedings{DBLP:conf/popl/JensenBK13,
+  author    = {Jonas Braband Jensen and
+               Nick Benton and
+               Andrew Kennedy},
+  title     = {High-level separation logic for low-level code},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {301-314},
+}
+
+@inproceedings{DBLP:conf/popl/Myers13,
+  author    = {Andrew C. Myers},
+  title     = {How languages can save distributed computing},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {315-316},
+}
+
+@inproceedings{DBLP:conf/popl/HenzingerKPSS13,
+  author    = {Thomas A. Henzinger and
+               Christoph M. Kirsch and
+               Hannes Payer and
+               Ali Sezgin and
+               Ana Sokolova},
+  title     = {Quantitative relaxation of concurrent data structures},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {317-328},
+}
+
+@inproceedings{DBLP:conf/popl/DemangeLZJPV13,
+  author    = {Delphine Demange and
+               Vincent Laporte and
+               Lei Zhao and
+               Suresh Jagannathan and
+               David Pichardie and
+               Jan Vitek},
+  title     = {Plan B: a buffered memory model for Java},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {329-342},
+}
+
+@inproceedings{DBLP:conf/popl/TuronTABD13,
+  author    = {Aaron Joseph Turon and
+               Jacob Thamsborg and
+               Amal Ahmed and
+               Lars Birkedal and
+               Derek Dreyer},
+  title     = {Logical relations for fine-grained concurrency},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {343-356},
+}
+
+@inproceedings{DBLP:conf/popl/GaboardiHHNP13,
+  author    = {Marco Gaboardi and
+               Andreas Haeberlen and
+               Justin Hsu and
+               Arjun Narayan and
+               Benjamin C. Pierce},
+  title     = {Linear dependent types for differential privacy},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {357-370},
+}
+
+@inproceedings{DBLP:conf/popl/FournetSCDSL13,
+  author    = {Cédric Fournet and
+               Nikhil Swamy and
+               Juan Chen and
+               Pierre-Évariste Dagand and
+               Pierre-Yves Strub and
+               Benjamin Livshits},
+  title     = {Fully abstract compilation to {JavaScript}},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {371-384},
+}
+
+@inproceedings{DBLP:conf/popl/LivshitsC13,
+  author    = {Benjamin Livshits and
+               Stephen Chong},
+  title     = {Towards fully automatic placement of security sanitizers and declassifiers},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {385-398},
+}
+
+@inproceedings{DBLP:conf/popl/Goodman13,
+  author    = {Noah D. Goodman},
+  title     = {The principles and practice of probabilistic programming},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {399-402},
+}
+
+@inproceedings{DBLP:conf/popl/GordonABCGNRR13,
+  author    = {Andrew D. Gordon and
+               Mihhail Aizatulin and
+               Johannes Borgström and
+               Guillaume Claret and
+               Thore Graepel and
+               Aditya V. Nori and
+               Sriram K. Rajamani and
+               Claudio V. Russo},
+  title     = {A model-learner pattern for bayesian reasoning},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {403-416},
+}
+
+@inproceedings{DBLP:conf/popl/SuenagaSH13,
+  author    = {Kohei Suenaga and
+               Hiroyoshi Sekine and
+               Ichiro Hasuo},
+  title     = {Hyperstream processing systems: nonstandard modeling of continuous-time signals},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {417-430},
+}
+
+@inproceedings{DBLP:conf/popl/VytiniotisJCR13,
+  author    = {Dimitrios Vytiniotis and
+               Simon L. Peyton Jones and
+               Koen Claessen and
+               Dan Rosén},
+  title     = {HALO: haskell to logic through denotational semantics},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {431-442},
+}
+
+@inproceedings{DBLP:conf/popl/BotincanB13,
+  author    = {Matko Botincan and
+               Domagoj Babic},
+  title     = {Sigma*: symbolic learning of input-output specifications},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {443-456},
+}
+
+@inproceedings{DBLP:conf/popl/BonchiP13,
+  author    = {Filippo Bonchi and
+               Damien Pous},
+  title     = {Checking {NFA} equivalence with bisimulations up to congruence},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {457-468},
+}
+
+@inproceedings{DBLP:conf/popl/KoksalPSBFP13,
+  author    = {Ali Sinan Köksal and
+               Yewen Pu and
+               Saurabh Srivastava and
+               Rastislav Bodík and
+               Jasmin Fisher and
+               Nir Piterman},
+  title     = {Synthesis of biological models from mutation experiments},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {469-482},
+}
+
+@inproceedings{DBLP:conf/popl/UpadrastaC13,
+  author    = {Ramakrishna Upadrasta and
+               Albert Cohen},
+  title     = {Sub-polyhedral scheduling using (unit-)two-variable-per-inequality polyhedra},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {483-496},
+}
+
+@inproceedings{DBLP:conf/popl/RompfSABJLJOO13,
+  author    = {Tiark Rompf and
+               Arvind K. Sujeeth and
+               Nada Amin and
+               Kevin J. Brown and
+               Vojin Jovanovic and
+               HyoukJoong Lee and
+               Manohar Jonnalagedda and
+               Kunle Olukotun and
+               Martin Odersky},
+  title     = {Optimizing data structures in high-level programs: new directions for extensible compilers based on staging},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {497-510},
+}
+
+@inproceedings{DBLP:conf/popl/Adams13,
+  author    = {Michael D. Adams},
+  title     = {Principled parsing for indentation-sensitive languages: revisiting landin's offside rule},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {511-522},
+}
+
+@inproceedings{DBLP:conf/popl/HoborV13,
+  author    = {Aquinas Hobor and
+               Jules Villard},
+  title     = {The ramifications of sharing in data structures},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {523-536},
+}
+
+@inproceedings{DBLP:conf/popl/TotlaW13,
+  author    = {Nishant Totla and
+               Thomas Wies},
+  title     = {Complete instantiation-based interpolation},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {537-548},
+}
+
+@inproceedings{DBLP:conf/popl/BarrVLS13,
+  author    = {Earl T. Barr and
+               Thanh Vo and
+               Vu Le and
+               Zhendong Su},
+  title     = {Automatic detection of floating-point exceptions},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {549-560},
+}
+
+@inproceedings{DBLP:conf/popl/Ley-WildN13,
+  author    = {Ruy Ley-Wild and
+               Aleksandar Nanevski},
+  title     = {Subjective auxiliary state for coarse-grained concurrency},
+  booktitle = popl,
+  year      = 2013,
+  pages     = {561-574},
+}
+
 @inproceedings{DBLP:conf/popl/BlackO12,
   author    = {Andrew P. Black and
                Peter W. O'Hearn},
