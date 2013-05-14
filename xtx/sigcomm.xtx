@@ -4147,6 +4147,7 @@
 @inproceedings{DBLP:conf/sigcomm/GkantsidisKV06,
   author    = {Christos Gkantsidis and
                Thomas Karagiannis and
+               Pablo Rodriguez and
                Milan Vojnovic},
   title     = {Planet scale software updates},
   booktitle = sigcomm,
@@ -7660,7 +7661,7 @@
 }
 
 @inproceedings{DBLP:conf/sigcomm/KayP93,
-  author    = {Jonathan Kay and
+  author    = {Jonathan S. Kay and
                Joseph Pasquale},
   title     = {The Importance of {Non-Data} Touching Processing Overheads in TCP/{IP}},
   booktitle = sigcomm,

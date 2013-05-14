@@ -1,5 +1,146 @@
 @include journals-cs
 
+@article{DBLP:journals/csur/FaroL13,
+  author    = {Simone Faro and
+               Thierry Lecroq},
+  title     = {The exact online string matching problem: A review of the most recent results},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {13},
+}
+
+@article{DBLP:journals/csur/KritikakouCKG13,
+  author    = {Angeliki Kritikakou and
+               Francky Catthoor and
+               Vasilios I. Kelefouras and
+               Costas E. Goutis},
+  title     = {A systematic approach to classify design-time global scheduling techniques},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {14},
+}
+
+@article{DBLP:journals/csur/AtteneCK13,
+  author    = {Marco Attene and
+               Marcel Campen and
+               Leif Kobbelt},
+  title     = {Polygon mesh repairing: An application perspective},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {15},
+}
+
+@article{DBLP:journals/csur/LomaxV13,
+  author    = {Susan Lomax and
+               Sunil Vadera},
+  title     = {A survey of cost-sensitive decision tree induction algorithms},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {16},
+}
+
+@article{DBLP:journals/csur/PearceZH13,
+  author    = {Michael Pearce and
+               Sherali Zeadally and
+               Ray Hunt},
+  title     = {Virtualization: Issues, security threats, and solutions},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {17},
+}
+
+@article{DBLP:journals/csur/Acevedo-MosquedaYA13,
+  author    = {María Elena Acevedo-Mosqueda and
+               Cornelio Yáñez-Márquez and
+               Marco Antonio Acevedo-Mosqueda},
+  title     = {Bidirectional associative memories: Different approaches},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {18},
+}
+
+@article{DBLP:journals/csur/MooneyR13,
+  author    = {Carl Mooney and
+               John F. Roddick},
+  title     = {Sequential pattern mining - approaches and algorithms},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {19},
+}
+
+@article{DBLP:journals/csur/KoskelaKHY13,
+  author    = {Timo Koskela and
+               Otso Kassinen and
+               Erkki Harjula and
+               Mika Ylianttila},
+  title     = {P2P group management systems: A conceptual analysis},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/csur/SaeediM13,
+  author    = {Mehdi Saeedi and
+               Igor L. Markov},
+  title     = {Synthesis and optimization of reversible circuits - a survey},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {21},
+}
+
+@article{DBLP:journals/csur/AbazaRHHN13,
+  author    = {Ayman Abaza and
+               Arun Ross and
+               Christina Hebert and
+               Mary Ann F. Harrison and
+               Mark S. Nixon},
+  title     = {A survey on ear biometrics},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {22},
+}
+
+@article{DBLP:journals/csur/ParvezM13,
+  author    = {Mohammad Tanvir Parvez and
+               Sabri A. Mahmoud},
+  title     = {Offline arabic handwritten text recognition: A Survey},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {23},
+}
+
+@article{DBLP:journals/csur/Suomela13,
+  author    = {Jukka Suomela},
+  title     = {Survey of local algorithms},
+  journal   = acmcs,
+  volume    = {45},
+  number    = {2},
+  year      = 2013,
+  pages     = {24},
+}
+
 @article{DBLP:journals/csur/CarpinetoR12,
   author    = {Claudio Carpineto and
                Giovanni Romano},
@@ -4484,6 +4625,40 @@
   pages     = {528-552},
 }
 
+@article{DBLP:journals/csur/ReidMB97,
+  author    = {M. M. Reid and
+               Richard J. Millar and
+               Norman D. Black},
+  title     = {{Second-Generation} Image Codeing: An Overview},
+  journal   = acmcs,
+  volume    = {29},
+  number    = {1},
+  year      = 1997,
+  pages     = {3-29},
+}
+
+@article{DBLP:journals/csur/WalickiM97,
+  author    = {Michal Walicki and
+               Sigurd Meldal},
+  title     = {Algebraic Approaches to Nondeterminism: An Overview},
+  journal   = acmcs,
+  volume    = {29},
+  number    = {1},
+  year      = 1997,
+  pages     = {30-81},
+}
+
+@article{DBLP:journals/csur/PongD97,
+  author    = {Fong Pong and
+               Michel Dubois},
+  title     = {Verification Techniques for Cache Coherence Protocols},
+  journal   = acmcs,
+  volume    = {29},
+  number    = {1},
+  year      = 1997,
+  pages     = {82-126},
+}
+
 @article{DBLP:journals/csur/UhligM97,
   author    = {Richard Uhlig and
                Trevor N. Mudge},
@@ -4622,18 +4797,6 @@
   number    = {1},
   year      = 1996,
   pages     = {3-15},
-}
-
-@article{DBLP:journals/csur/ReidMB97,
-  author    = {M. M. Reid and
-               Richard J. Millar and
-               Norman D. Black},
-  title     = {{Second-Generation} Image Codeing: An Overview},
-  journal   = acmcs,
-  volume    = {29},
-  number    = {1},
-  year      = 1996,
-  pages     = {3-29},
 }
 
 @article{DBLP:journals/csur/Doyle96,
@@ -4935,17 +5098,6 @@
   number    = {4es},
   year      = 1996,
   pages     = {30},
-}
-
-@article{DBLP:journals/csur/WalickiM97,
-  author    = {Michal Walicki and
-               Sigurd Meldal},
-  title     = {Algebraic Approaches to Nondeterminism: An Overview},
-  journal   = acmcs,
-  volume    = {29},
-  number    = {1},
-  year      = 1996,
-  pages     = {30-81},
 }
 
 @article{DBLP:journals/csur/Mills96,
@@ -5580,17 +5732,6 @@
   number    = {4es},
   year      = 1996,
   pages     = {82},
-}
-
-@article{DBLP:journals/csur/PongD97,
-  author    = {Fong Pong and
-               Michel Dubois},
-  title     = {Verification Techniques for Cache Coherence Protocols},
-  journal   = acmcs,
-  volume    = {29},
-  number    = {1},
-  year      = 1996,
-  pages     = {82-126},
 }
 
 @article{DBLP:journals/csur/Maier96,
@@ -7862,7 +8003,7 @@
 
 @article{DBLP:journals/csur/DoyleD96,
   author    = {Jon Doyle and
-               Thomas Dean},
+               Thomas L. Dean},
   title     = {Strategic Directions in Artificial Intelligence},
   journal   = acmcs,
   volume    = {28},

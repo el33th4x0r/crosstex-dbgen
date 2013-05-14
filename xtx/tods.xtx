@@ -1,5 +1,92 @@
 @include journals-cs
 
+@article{DBLP:journals/tods/PapavasileiouFFKC13,
+  author    = {Vicky Papavasileiou and
+               Giorgos Flouris and
+               Irini Fundulaki and
+               Dimitris Kotzinos and
+               Vassilis Christophides},
+  title     = {High-level change detection in RDF(S) {KBs}},
+  journal   = tods,
+  volume    = {38},
+  number    = {1},
+  year      = 2013,
+  pages     = {1},
+}
+
+@article{DBLP:journals/tods/Jaiswal0M13,
+  author    = {Anuj R. Jaiswal and
+               David J. Miller and
+               Prasenjit Mitra},
+  title     = {Schema matching and embedded value mapping for databases with opaque column names and mixed continuous and discrete-valued data fields},
+  journal   = tods,
+  volume    = {38},
+  number    = {1},
+  year      = 2013,
+  pages     = {2},
+}
+
+@article{DBLP:journals/tods/GrustR13,
+  author    = {Torsten Grust and
+               Jan Rittinger},
+  title     = {Observing {SQL} queries in their natural habitat},
+  journal   = tods,
+  volume    = {38},
+  number    = {1},
+  year      = 2013,
+  pages     = {3},
+}
+
+@article{DBLP:journals/tods/BenzakenCCN13,
+  author    = {Véronique Benzaken and
+               Giuseppe Castagna and
+               Dario Colazzo and
+               Kim Nguyen},
+  title     = {Optimizing {XML} querying using type-based document projection},
+  journal   = tods,
+  volume    = {38},
+  number    = {1},
+  year      = 2013,
+  pages     = {4},
+}
+
+@article{DBLP:journals/tods/DasAA13,
+  author    = {Sudipto Das and
+               Divyakant Agrawal and
+               Amr El Abbadi},
+  title     = {ElasTraS: An elastic, scalable, and self-managing transactional database for the cloud},
+  journal   = tods,
+  volume    = {38},
+  number    = {1},
+  year      = 2013,
+  pages     = {5},
+}
+
+@article{DBLP:journals/tods/FranceschetGMP13,
+  author    = {Massimo Franceschet and
+               Donatella Gubiani and
+               Angelo Montanari and
+               Carla Piazza},
+  title     = {A graph-theoretic approach to map conceptual designs to {XML} schemas},
+  journal   = tods,
+  volume    = {38},
+  number    = {1},
+  year      = 2013,
+  pages     = {6},
+}
+
+@article{DBLP:journals/tods/WuYJ13,
+  author    = {Dingming Wu and
+               Man Lung Yiu and
+               Christian S. Jensen},
+  title     = {Moving spatial keyword queries: Formulation, methods, and analysis},
+  journal   = tods,
+  volume    = {38},
+  number    = {1},
+  year      = 2013,
+  pages     = {7},
+}
+
 @article{DBLP:journals/tods/Graefe12,
   author    = {Goetz Graefe},
   title     = {A survey of B-tree logging and recovery techniques},

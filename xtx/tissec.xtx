@@ -1,5 +1,55 @@
 @include journals-cs
 
+@article{DBLP:journals/tissec/FrankBB13,
+  author    = {Mario Frank and
+               Joachim M. Buhmann and
+               David A. Basin},
+  title     = {Role Mining with Probabilistic Models},
+  journal   = tissec,
+  volume    = {15},
+  number    = {4},
+  year      = 2013,
+  pages     = {15},
+}
+
+@article{DBLP:journals/tissec/GiladH13,
+  author    = {Yossi Gilad and
+               Amir Herzberg},
+  title     = {Fragmentation Considered Vulnerable},
+  journal   = tissec,
+  volume    = {15},
+  number    = {4},
+  year      = 2013,
+  pages     = {16},
+}
+
+@article{DBLP:journals/tissec/AliAKK13,
+  author    = {Muhammad Qasim Ali and
+               Ehab Al-Shaer and
+               Hassan Khan and
+               Syed Ali Khayam},
+  title     = {Automated Anomaly Detector Adaptation using Adaptive Threshold Tuning},
+  journal   = tissec,
+  volume    = {15},
+  number    = {4},
+  year      = 2013,
+  pages     = {17},
+}
+
+@article{DBLP:journals/tissec/JayaramanTGRC13,
+  author    = {Karthick Jayaraman and
+               Mahesh V. Tripunitara and
+               Vijay Ganesh and
+               Martin C. Rinard and
+               Steve J. Chapin},
+  title     = {Mohawk: {Abstraction-Refinement} and {Bound-Estimation} for Verifying Access Control Policies},
+  journal   = tissec,
+  volume    = {15},
+  number    = {4},
+  year      = 2013,
+  pages     = {18},
+}
+
 @article{DBLP:journals/tissec/SyversonJ12,
   author    = {Paul F. Syverson and
                Somesh Jha},
@@ -1819,7 +1869,7 @@
 
 @article{DBLP:journals/tissec/ChandramouliBSU06,
   author    = {Rajarathnam Chandramouli and
-               S. Bapatla and
+               Satish Bapatla and
                K. P. Subbalakshmi and
                R. N. Uma},
   title     = {Battery power-aware encryption},

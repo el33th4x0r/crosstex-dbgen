@@ -137,7 +137,7 @@ class CitationContainer:
                     pagesrt = (-1, p)
                     pages = '  pages     = {%s},\n' % pagesrt[1]
                 else:
-                    print 'ERROR:  key "%s" has corrupt "pages"' % citekey
+                    print 'ERROR:  corrupt "pages" %r' % p
         return pagesrt, pages
 
     def _to_upper_quoted(self, s):
@@ -587,6 +587,7 @@ d.add_conference('sacmat',      'SACMAT', 'ACM Symposium on Access Control Model
 d.add_conference('saint',       'SAINT', 'International Symposium on Applications and the Internet')
 d.add_conference('wwca',        'WWCA', 'Worldwide Computing and its Applications')
 d.add_conference('cidr',        'CIDR', 'Conference on Innovative Data Systems Research')
+d.add_conference('vldb',        'VLDB', 'International Conference on Very Large Data Bases')
 d.add_workshop('esigops',       'ESIGOPS Workshop', 'European SIGOPS Workshop', dblpslug='sigopsE', booktitle='ACM SIGOPS European Workshop')
 d.add_workshop('grid',          'GRID Workshop', 'International Workshop on Grid Computing', booktitle='GRID')
 d.add_workshop('hotnets',       'HotNets Workshop', 'Workshop on Hot Topics in Networks', booktitle='HotNets')

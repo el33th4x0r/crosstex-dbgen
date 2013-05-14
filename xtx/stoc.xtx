@@ -14298,6 +14298,16 @@
   pages     = {439-448},
 }
 
+@inproceedings{DBLP:conf/stoc/BodlaenderFH94,
+  author    = {Hans L. Bodlaender and
+               Michael R. Fellows and
+               Michael T. Hallett},
+  title     = {Beyond {NP-completeness} for problems of bounded width: hardness for the W hierarchy},
+  booktitle = stoc,
+  year      = 1994,
+  pages     = {449-458},
+}
+
 @inproceedings{DBLP:conf/stoc/AroraRV94,
   author    = {Sanjeev Arora and
                Yuval Rabani and
@@ -18909,8 +18919,8 @@
 
 @inproceedings{DBLP:conf/stoc/LubotzkyPS86,
   author    = {Alexander Lubotzky and
-               R. Phillips and
-               P. Sarnak},
+               Ralph Phillips and
+               Peter Sarnak},
   title     = {Explicit Expanders and the Ramanujan Conjectures},
   booktitle = stoc,
   year      = 1986,
