@@ -5186,6 +5186,35 @@
   pages     = {293-304},
 }
 
+@inproceedings{DBLP:conf/pldi/BlellochC99a,
+  author    = {Guy E. Blelloch and
+               Perry Cheng},
+  title     = {On bounding time and space for multiprocessor garbage collection (with retrospective)},
+  booktitle = pldi,
+  year      = 1999,
+  pages     = {626-641},
+}
+
+@inproceedings{DBLP:conf/pldi/Frigo99a,
+  author    = {Matteo Frigo},
+  title     = {A fast Fourier transform compiler (with retrospective)},
+  booktitle = pldi,
+  year      = 1999,
+  pages     = {642-655},
+}
+
+@inproceedings{DBLP:conf/pldi/GrantPMCE99a,
+  author    = {Brian Grant and
+               Matthai Philipose and
+               Markus Mock and
+               Craig Chambers and
+               Susan J. Eggers},
+  title     = {An evaluation of staged run-time optimizations in {DyC} (with retrospective)},
+  booktitle = pldi,
+  year      = 1999,
+  pages     = {656-669},
+}
+
 @inproceedings{DBLP:conf/pldi/BodikGS98,
   author    = {Rastislav Bodík and
                Rajiv Gupta and
@@ -5487,6 +5516,45 @@
   booktitle = pldi,
   year      = 1998,
   pages     = {345-357},
+}
+
+@inproceedings{DBLP:conf/pldi/AmmonsL98a,
+  author    = {Glenn Ammons and
+               James R. Larus},
+  title     = {Improving data-flow analysis with path profiles (with retrospective)},
+  booktitle = pldi,
+  year      = 1998,
+  pages     = {568-582},
+}
+
+@inproceedings{DBLP:conf/pldi/BaconKMS98a,
+  author    = {David F. Bacon and
+               Ravi B. Konuru and
+               Chet Murthy and
+               Mauricio J. Serrano},
+  title     = {Thin locks: featherweight Synchronization for Java (with retrospective)},
+  booktitle = pldi,
+  year      = 1998,
+  pages     = {583-595},
+}
+
+@inproceedings{DBLP:conf/pldi/BodikGS98a,
+  author    = {Rastislav Bodík and
+               Rajiv Gupta and
+               Mary Lou Soffa},
+  title     = {Complete removal of redundant expressions (with retrospective)},
+  booktitle = pldi,
+  year      = 1998,
+  pages     = {596-611},
+}
+
+@inproceedings{DBLP:conf/pldi/NeculaL98a,
+  author    = {George C. Necula and
+               Peter Lee},
+  title     = {The design and implementation of a certifying compiler (with retrospective)},
+  booktitle = pldi,
+  year      = 1998,
+  pages     = {612-625},
 }
 
 @inproceedings{DBLP:conf/pldi/Proebsting97,
@@ -6059,6 +6127,28 @@
   pages     = {291-300},
 }
 
+@inproceedings{DBLP:conf/pldi/LeeL96a,
+  author    = {Peter Lee and
+               Mark Leone},
+  title     = {Optimizing {ML} with run-time code generation (with retrospective)},
+  booktitle = pldi,
+  year      = 1996,
+  pages     = {540-553},
+}
+
+@inproceedings{DBLP:conf/pldi/TarditiMCSHL96a,
+  author    = {David Tarditi and
+               J. Gregory Morrisett and
+               Perry Cheng and
+               Christopher A. Stone and
+               Robert Harper and
+               Peter Lee},
+  title     = {TIL: a type-directed, optimizing compiler for {ML} (with retrospective)},
+  booktitle = pldi,
+  year      = 1996,
+  pages     = {554-567},
+}
+
 @inproceedings{DBLP:conf/pldi/WilsonL95,
   author    = {Robert P. Wilson and
                Monica S. Lam},
@@ -6594,6 +6684,15 @@
   pages     = {349-360},
 }
 
+@inproceedings{DBLP:conf/pldi/SrivastavaE94a,
+  author    = {Amitabh Srivastava and
+               Alan Eustace},
+  title     = {ATOM: a system for building customized program analysis tools (with retrospective)},
+  booktitle = pldi,
+  year      = 1994,
+  pages     = {528-539},
+}
+
 @inproceedings{DBLP:conf/pldi/WahbeLG93,
   author    = {Robert Wahbe and
                Steven Lucco and
@@ -6859,6 +6958,34 @@
   booktitle = pldi,
   year      = 1993,
   pages     = {300-313},
+}
+
+@inproceedings{DBLP:conf/pldi/Boehm93a,
+  author    = {Hans-Juergen Boehm},
+  title     = {Space efficient conservative garbage collection (with retrospective)},
+  booktitle = pldi,
+  year      = 1993,
+  pages     = {490-501},
+}
+
+@inproceedings{DBLP:conf/pldi/FlanaganSDF93a,
+  author    = {Cormac Flanagan and
+               Amr Sabry and
+               Bruce F. Duba and
+               Matthias Felleisen},
+  title     = {The essence of compiling with continuations (with retrospective)},
+  booktitle = pldi,
+  year      = 1993,
+  pages     = {502-514},
+}
+
+@inproceedings{DBLP:conf/pldi/KernsE93a,
+  author    = {Daniel R. Kerns and
+               Susan J. Eggers},
+  title     = {Balanced scheduling: instruction scheduling when memory latency is uncertain (with retrospective)},
+  booktitle = pldi,
+  year      = 1993,
+  pages     = {515-527},
 }
 
 @inproceedings{DBLP:conf/pldi/BrooksHS92,
@@ -7138,6 +7265,25 @@
   pages     = {341-352},
 }
 
+@inproceedings{DBLP:conf/pldi/KnoopRS92a,
+  author    = {Jens Knoop and
+               Oliver Rüthing and
+               Bernhard Steffen},
+  title     = {Lazy code motion (with retrospective)},
+  booktitle = pldi,
+  year      = 1992,
+  pages     = {460-472},
+}
+
+@inproceedings{DBLP:conf/pldi/LandiR92a,
+  author    = {William Landi and
+               Barbara G. Ryder},
+  title     = {A safe approximate algorithm for interprocedural pointer aliasing (with retrospective)},
+  booktitle = pldi,
+  year      = 1992,
+  pages     = {473-489},
+}
+
 @inproceedings{DBLP:conf/pldi/MaydanHL91,
   author    = {Dror E. Maydan and
                John L. Hennessy and
@@ -7402,6 +7548,32 @@
   pages     = {353-356},
 }
 
+@inproceedings{DBLP:conf/pldi/CartwrightF91a,
+  author    = {Robert Cartwright and
+               Mike Fagan},
+  title     = {Soft typing (with retrospective)},
+  booktitle = pldi,
+  year      = 1991,
+  pages     = {412-428},
+}
+
+@inproceedings{DBLP:conf/pldi/Wall91a,
+  author    = {David W. Wall},
+  title     = {Predicting program behavior using real or estimated profiles (with retrospective)},
+  booktitle = pldi,
+  year      = 1991,
+  pages     = {429-441},
+}
+
+@inproceedings{DBLP:conf/pldi/LamW91,
+  author    = {Monica S. Lam and
+               Michael E. Wolf},
+  title     = {A data locality optimizing algorithm (with retrospective)},
+  booktitle = pldi,
+  year      = 1991,
+  pages     = {442-459},
+}
+
 @inproceedings{DBLP:conf/pldi/Giegerich90,
   author    = {Robert Giegerich},
   title     = {On the Structure of Verifiable Code Generator Specifications},
@@ -7662,6 +7834,16 @@
   pages     = {322-336},
 }
 
+@inproceedings{DBLP:conf/pldi/CallahanCK90a,
+  author    = {David Callahan and
+               Steve Carr and
+               Ken Kennedy},
+  title     = {Improving register allocation for subscripted variables (with retrospective)},
+  booktitle = pldi,
+  year      = 1990,
+  pages     = {328-342},
+}
+
 @inproceedings{DBLP:conf/pldi/CytronFS90,
   author    = {Ron Cytron and
                Jeanne Ferrante and
@@ -7670,6 +7852,51 @@
   booktitle = pldi,
   year      = 1990,
   pages     = {337-351},
+}
+
+@inproceedings{DBLP:conf/pldi/ChaseWZ90a,
+  author    = {David R. Chase and
+               Mark N. Wegman and
+               F. Kenneth Zadeck},
+  title     = {Analysis of pointers and structures (with retrospective)},
+  booktitle = pldi,
+  year      = 1990,
+  pages     = {343-359},
+}
+
+@inproceedings{DBLP:conf/pldi/Clinger90a,
+  author    = {William D. Clinger},
+  title     = {How to read floating point numbers accurately (with retrospective)},
+  booktitle = pldi,
+  year      = 1990,
+  pages     = {360-371},
+}
+
+@inproceedings{DBLP:conf/pldi/SteeleW90a,
+  author    = {Guy L. Steele Jr. and
+               Jon L. White},
+  title     = {How to print floating-point numbers accurately (with retrospective)},
+  booktitle = pldi,
+  year      = 1990,
+  pages     = {372-389},
+}
+
+@inproceedings{DBLP:conf/pldi/Kessler90a,
+  author    = {Peter B. Kessler},
+  title     = {Fast breakpoints: design and implementation (with retrospective)},
+  booktitle = pldi,
+  year      = 1990,
+  pages     = {390-397},
+}
+
+@inproceedings{DBLP:conf/pldi/PettisHD90,
+  author    = {Karl Pettis and
+               Robert C. Hansen and
+               Jack W. Davidson},
+  title     = {Profile guided code positioning (with retrospective)},
+  booktitle = pldi,
+  year      = 1990,
+  pages     = {398-411},
 }
 
 @inproceedings{DBLP:conf/pldi/Venkatesh89,
@@ -7909,12 +8136,32 @@
   pages     = {275-284},
 }
 
+@inproceedings{DBLP:conf/pldi/BriggsCKT89a,
+  author    = {Preston Briggs and
+               Keith D. Cooper and
+               Ken Kennedy and
+               Linda Torczon},
+  title     = {Coloring heuristics for register allocation (with retrospective)},
+  booktitle = pldi,
+  year      = 1989,
+  pages     = {283-294},
+}
+
 @inproceedings{DBLP:conf/pldi/Schonberg89,
   author    = {Edith Schonberg},
   title     = {{On-The-Fly} Detection of Access Anomalies},
   booktitle = pldi,
   year      = 1989,
   pages     = {285-297},
+}
+
+@inproceedings{DBLP:conf/pldi/ChambersU89a,
+  author    = {Craig Chambers and
+               David Ungar},
+  title     = {A retrospective on: "customization: optimizing compiler technology for self, a dynamically-typed object-oriented programming language" (with retrospective)},
+  booktitle = pldi,
+  year      = 1989,
+  pages     = {295-312},
 }
 
 @inproceedings{DBLP:conf/pldi/Sarkar89,
@@ -7931,6 +8178,14 @@
   booktitle = pldi,
   year      = 1989,
   pages     = {313-321},
+}
+
+@inproceedings{DBLP:conf/pldi/Schonberg89a,
+  author    = {Edith Schonberg},
+  title     = {On-the-fly detection of access anomalies (with retrospective)},
+  booktitle = pldi,
+  year      = 1989,
+  pages     = {313-327},
 }
 
 @inproceedings{DBLP:conf/pldi/AtkinsonDHJKW89,
@@ -8144,6 +8399,14 @@
   pages     = {199-208},
 }
 
+@inproceedings{DBLP:conf/pldi/Appel88,
+  author    = {Andrew W. Appel},
+  title     = {Real-time concurrent collection on stock multiprocessors (with retrospective)},
+  booktitle = pldi,
+  year      = 1988,
+  pages     = {205-216},
+}
+
 @inproceedings{DBLP:conf/pldi/WalzJ88,
   author    = {Janet A. Walz and
                Gregory F. Johnson},
@@ -8153,6 +8416,15 @@
   pages     = {209-221},
 }
 
+@inproceedings{DBLP:conf/pldi/CooperK88a,
+  author    = {Keith D. Cooper and
+               Ken Kennedy},
+  title     = {Interprocedural side-effect analysis in linear time (with retrospective)},
+  booktitle = pldi,
+  year      = 1988,
+  pages     = {217-228},
+}
+
 @inproceedings{DBLP:conf/pldi/PlebanL88,
   author    = {Uwe F. Pleban and
                Peter Lee},
@@ -8160,6 +8432,16 @@
   booktitle = pldi,
   year      = 1988,
   pages     = {222-232},
+}
+
+@inproceedings{DBLP:conf/pldi/HorwitzRB88a,
+  author    = {Susan Horwitz and
+               Thomas W. Reps and
+               David Binkley},
+  title     = {Interprocedural slicing using dependence graphs (with retrospective)},
+  booktitle = pldi,
+  year      = 1988,
+  pages     = {229-243},
 }
 
 @inproceedings{DBLP:conf/pldi/SeshadriWJWYS88,
@@ -8184,12 +8466,28 @@
   pages     = {241-249},
 }
 
+@inproceedings{DBLP:conf/pldi/Lam88a,
+  author    = {Monica S. Lam},
+  title     = {Software pipelining: an effective scheduling technique for {VLIW} machines (with retrospective)},
+  booktitle = pldi,
+  year      = 1988,
+  pages     = {244-256},
+}
+
 @inproceedings{DBLP:conf/pldi/Reppy88,
   author    = {John H. Reppy},
   title     = {Synchronous Operations as {First-Class} Values},
   booktitle = pldi,
   year      = 1988,
   pages     = {250-259},
+}
+
+@inproceedings{DBLP:conf/pldi/Shivers88a,
+  author    = {Olin Shivers},
+  title     = {Higher-order control-flow analysis in retrospect: lessons learned, lessons abandoned (with retrospective)},
+  booktitle = pldi,
+  year      = 1988,
+  pages     = {257-269},
 }
 
 @inproceedings{DBLP:conf/pldi/LiskovS88,
@@ -8208,6 +8506,14 @@
   booktitle = pldi,
   year      = 1988,
   pages     = {268-277},
+}
+
+@inproceedings{DBLP:conf/pldi/Wall88a,
+  author    = {David W. Wall},
+  title     = {Register windows vs. register allocation (with retrospective)},
+  booktitle = pldi,
+  year      = 1988,
+  pages     = {270-282},
 }
 
 @inproceedings{DBLP:conf/pldi/Rose88,
@@ -8524,4 +8830,165 @@
   booktitle = pldi,
   year      = 1987,
   pages     = {283-291},
+}
+
+@inproceedings{DBLP:conf/pldi/BurkeC86,
+  author    = {Michael G. Burke and
+               Ron Cytron},
+  title     = {Interprocedural dependence analysis and parallelization (with retrospective)},
+  booktitle = pldi,
+  year      = 1986,
+  pages     = {139-154},
+}
+
+@inproceedings{DBLP:conf/pldi/CallahanCKT86,
+  author    = {David Callahan and
+               Keith D. Cooper and
+               Ken Kennedy and
+               Linda Torczon},
+  title     = {Interprocedural constant propagation (with retrospective)},
+  booktitle = pldi,
+  year      = 1986,
+  pages     = {155-166},
+}
+
+@inproceedings{DBLP:conf/pldi/MuchnickG86,
+  author    = {Steven S. Muchnick and
+               Phillip B. Gibbons},
+  title     = {Efficient instruction scheduling for a pipelined architecture (with retrospective)},
+  booktitle = pldi,
+  year      = 1986,
+  pages     = {167-174},
+}
+
+@inproceedings{DBLP:conf/pldi/KranzKRHPA86,
+  author    = {David A. Kranz and
+               Richard Kelsey and
+               Jonathan Rees and
+               Paul Hudak and
+               James Philbin and
+               Norman Adams},
+  title     = {Orbit: an optimizing compiler for scheme (with retrospective)},
+  booktitle = pldi,
+  year      = 1986,
+  pages     = {175-191},
+}
+
+@inproceedings{DBLP:conf/pldi/Wall86,
+  author    = {David W. Wall},
+  title     = {Global register allocation at link time (with retrospective)},
+  booktitle = pldi,
+  year      = 1986,
+  pages     = {192-204},
+}
+
+@inproceedings{DBLP:conf/pldi/AllenK84,
+  author    = {Randy Allen and
+               Ken Kennedy},
+  title     = {Automatic loop interchange (with retrospective)},
+  booktitle = pldi,
+  year      = 1984,
+  pages     = {75-90},
+}
+
+@inproceedings{DBLP:conf/pldi/ChowH84,
+  author    = {Fred C. Chow and
+               John L. Hennessy},
+  title     = {Register allocation by priority-based coloring (with retrospective)},
+  booktitle = pldi,
+  year      = 1984,
+  pages     = {91-103},
+}
+
+@inproceedings{DBLP:conf/pldi/DavidsonF84,
+  author    = {Jack W. Davidson and
+               Christopher W. Fraser},
+  title     = {Automatic generation of peephole optimizations (with retrospective)},
+  booktitle = pldi,
+  year      = 1984,
+  pages     = {104-111},
+}
+
+@inproceedings{DBLP:conf/pldi/FisherERN84,
+  author    = {Joseph A. Fisher and
+               John R. Ellis and
+               John C. Ruttenberg and
+               Alexandru Nicolau},
+  title     = {Parallel processing: a smart compiler and a dumb machine (with retrospective)},
+  booktitle = pldi,
+  year      = 1984,
+  pages     = {112-124},
+}
+
+@inproceedings{DBLP:conf/pldi/Johnsson84,
+  author    = {Thomas Johnsson},
+  title     = {Efficient compilation of lazy evaluation (with retrospective)},
+  booktitle = pldi,
+  year      = 1984,
+  pages     = {125-138},
+}
+
+@inproceedings{DBLP:conf/pldi/AuslanderH82,
+  author    = {Marc A. Auslander and
+               Martin Hopkins},
+  title     = {An overview of the PL.8 compiler (with retrospective)},
+  booktitle = pldi,
+  year      = 1982,
+  pages     = {38-48},
+}
+
+@inproceedings{DBLP:conf/pldi/GrahamKM82,
+  author    = {Susan L. Graham and
+               Peter B. Kessler and
+               Marshall K. McKusick},
+  title     = {gprof: a call graph execution profiler (with retrospective)},
+  booktitle = pldi,
+  year      = 1982,
+  pages     = {49-57},
+}
+
+@inproceedings{DBLP:conf/pldi/MarksteinMC82,
+  author    = {Victoria Markstein and
+               Peter W. Markstein and
+               John Cocke},
+  title     = {Optimization of range checking (with retrospective)},
+  booktitle = pldi,
+  year      = 1982,
+  pages     = {58-65},
+}
+
+@inproceedings{DBLP:conf/pldi/Chaitin82,
+  author    = {Gregory J. Chaitin},
+  title     = {Register allocation and spilling via graph coloring (with retrospective)},
+  booktitle = pldi,
+  year      = 1982,
+  pages     = {66-74},
+}
+
+@inproceedings{DBLP:conf/pldi/CattellNL79,
+  author    = {R. G. G. Cattell and
+               Joseph M. Newcomer and
+               Bruce W. Leverett},
+  title     = {Code generation in a machine-independent compiler (with retrospective)},
+  booktitle = pldi,
+  year      = 1979,
+  pages     = {1-13},
+}
+
+@inproceedings{DBLP:conf/pldi/PennelloD79,
+  author    = {Thomas J. Pennello and
+               Frank DeRemer},
+  title     = {Efficient computation of LALR(1) look-ahead sets (with retrospective)},
+  booktitle = pldi,
+  year      = 1979,
+  pages     = {14-27},
+}
+
+@inproceedings{DBLP:conf/pldi/FabriA79,
+  author    = {Janet Fabri and
+               Frances E. Allen},
+  title     = {Automatic storage optimization (with retrospective)},
+  booktitle = pldi,
+  year      = 1979,
+  pages     = {28-37},
 }

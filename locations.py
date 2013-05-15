@@ -89,6 +89,7 @@ US_STATES = [('AL', {'longname': 'Alabama', 'shortname': 'AL'})
 
 US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('Alexandria', {'city': 'Alexandria', 'state': 'VA'})
+               ,('Asilomar', {'city': 'Asilomar', 'state': 'CA'})
                ,('Amherst', {'city': 'Amherst', 'state': 'MA'})
                ,('Anaheim', {'city': 'Anaheim', 'state': 'CA'})
                ,('Anchorage', {'city': 'Anchorage', 'state': 'AK'})
@@ -129,13 +130,16 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('Davis', {'city': 'Davis', 'state': 'CA'})
                ,('DC', {'city': 'Washington', 'state': '"D.C."'})
                ,('Denver', {'city': 'Denver', 'state': 'CO'})
+               ,('Detroit', {'city': 'Detroit', 'state': 'MI'})
                ,('Durham', {'city': 'Durham', 'state': 'NC'})
+               ,('EastLansing', {'city': 'East Lansing', 'state': 'MI'})
                ,('ElPaso', {'city': 'El Paso', 'state': 'TX'})
                ,('EstesPark', {'city': 'Estes Park', 'state': 'CO'})
                ,('Eugene', {'city': 'Eugene', 'state': 'OR'})
                ,('Fairfax', {'city': 'Fairfax', 'state': 'VA'})
                ,('FortLauderdale', {'city': 'Fort Lauderdale', 'state': 'FL'})
-               ,('Gaithersberg', {'city': 'Gaithersberg', 'state': 'MD'})
+               ,('Framingham', {'city': 'Framingham', 'state': 'Massachusetts'})
+               ,('Gaithersburg', {'city': 'Gaithersburg', 'state': 'MD'})
                ,('Gatlinburg', {'city': 'Gatlinburg', 'state': 'TN'})
                ,('Hanover', {'city': 'Hanover', 'state': 'NH'})
                ,('Hawaii', {'city': 'Hawaii', 'state': 'HI'})
@@ -174,6 +178,7 @@ US_LOCATIONS = [('Albuquerque', {'city': 'Albuquerque', 'state': 'NM'})
                ,('NewOrleans', {'city': 'New Orleans', 'state': 'LA'})
                ,('NewportBeach', {'city': 'Newport Beach', 'state': 'CA'})
                ,('Newport', {'city': 'Newport', 'state': 'RI'})
+               ,('NiagaraFalls', {'city': 'Niagara Falls', 'state': 'NY'})
                ,('Northampton', {'city': 'Northampton', 'state': 'MA'})
                ,('NYC', {'city': 'New York', 'state': 'NY'})
                ,('Oakland', {'city': 'Oakland', 'state': 'CA'})
@@ -249,6 +254,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Bratislava', {'city': 'Bratislava', 'country': 'Slovakia'})
                  ,('Bremen', {'city': 'Bremen', 'country': 'Germany'})
                  ,('Brighton', {'city': 'Brighton', 'country': 'UK'})
+                 ,('Brisbane', {'city': 'Brisbane', 'state': 'Queensland', 'country': 'Australia'})
                  ,('Brussels', {'city': 'Brussels', 'country': 'Belgium'})
                  ,('Budapest', {'city': 'Budapest', 'country': 'Hungary'})
                  ,('Cairns', {'city': 'Cairns', 'state': 'Queensland', 'country': 'Oz'})
@@ -299,6 +305,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Manchester', {'city': 'Manchester', 'country': 'UK'})
                  ,('Marseille', {'city': 'Marseille', 'country': 'France'})
                  ,('Melbourne', {'city': 'Melbourne', 'state': 'Victoria', 'country': 'Oz'})
+                 ,('MexicoCity', {'city': 'MexicoCity', 'country': 'Mexico'})
                  ,('Minaki', {'city': 'Minaki', 'country': 'Canada'})
                  ,('MonteVerita', {'city': 'Monte Verit{\`a}', 'country': 'Switzerland'})
                  ,('Montreal', {'city': '{Montr\\\'eal}', 'country': 'Canada'})
@@ -315,6 +322,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('Paris', {'city': 'Paris', 'country': 'France'})
                  ,('Piza', {'city': 'Piza', 'country': 'Italy'})
                  ,('Poznan', {'city': 'Poznan', 'country': 'Poland'})
+                 ,('Prague', {'city': 'Prague', 'country': 'Czech Republic'})
                  ,('PuertoVallarta', {'city': 'Puerto Vallarta', 'country': 'Mexico'})
                  ,('QuebecCity', {'city': 'Quebec City', 'country': 'Canada'})
                  ,('RhodesIsland', {'city': 'Rhodes Island', 'country': 'Greece'})
@@ -339,6 +347,7 @@ INTL_LOCATIONS = [('Adelaide', {'city': 'Adelaide', 'state': 'South Australia', 
                  ,('TelAviv', {'city': 'Tel Aviv', 'country': 'Israel'})
                  ,('Tokyo', {'city': 'Tokyo', 'country': 'Japan'})
                  ,('Toronto', {'city': 'Toronto', 'country': 'Canada'})
+                 ,('Trondheim', {'city': 'Trondheim', 'country': 'Norway'})
                  ,('Trento', {'city': 'Trento', 'country': 'Italy'})
                  ,('Tsukuba', {'city': 'Tsukuba', 'country': 'Japan'})
                  ,('Turku', {'city': 'Turku', 'country': 'Finland'})
@@ -371,14 +380,17 @@ LOCATION_ALIASES = {'99Atlanta': 'Atlanta'
                    ,'Lihue(Kauai)': 'Lihue'
                    ,'Lisboa': 'Lisbon'
                    ,'MarinadelRay': 'MarinaDelRay'
+                   ,'MarinadelRey': 'MarinaDelRay'
                    ,'Miami/FtLauderdale': 'MiamiFtLauderdale'
                    ,u'Montr\xe9al': 'Montreal'
                    ,'MontSaint-Michel': 'MontSaintMichel'
                    ,u'MonteVerit\xe0': 'MonteVerita'
                    ,'NewYork': 'NYC'
+                   ,'NewYorkCity': 'NYC'
                    ,'Philadephia': 'Philadelphia'
                    ,'Pisa': 'Piza'
                    ,'RiodeJaneiro': 'Rio'
+                   ,'RiodeJaneriro': 'Rio'
                    ,u'R\xfcschlikon': 'Ruschlikon'
                    ,'Saint-Emilion': 'SaintEmilion'
                    ,'SaltLakeCity': 'SaltLake'

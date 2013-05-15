@@ -224,7 +224,6 @@
 @conference{starconf, shortname="STAR", longname="International Conference on Software Testing And Review"}
 @conference{usenixsa, shortname="USENIX SAC", longname="USENIX Systems Administration Conference"}
 @conference{usenixvm, shortname="USENIX VM", longname="USENIX Virtual Machine Research and Technology Symposium"}
-@conference{vldb, shortname="VLDB", longname="International Conference on Very Large Databases"}
 
 @conference{acsac,
   name="Annual Computer Security Applications Conference",
@@ -311,8 +310,8 @@
   name="Hawaii International International Conference on Systems",
   shortname="HICSS",
   [year=2007] address=Waikoloa, month=jan,
-  [year=2006] isbn="0-7695-2507-5", address=Kauai, month=jan,
-  [year=2005] isbn="0-7695-2268-8", address=Hawaii, month=jan,
+  [year=2006] address=Kauai, month=jan,
+  [year=2005] address=Hawaii, month=jan,
   [year=2004] address=Hawaii, month=jan,
   [year=2003] address=Hawaii, month=jan,
   [year=2002] address=Hawaii, month=jan,

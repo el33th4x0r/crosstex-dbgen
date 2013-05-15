@@ -1,5 +1,4716 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/ipps/BrudaA99,
+  author    = {Stefan D. Bruda and
+               Selim G. Akl},
+  title     = {The Characterization of {Data-Accumulating} Algorithms},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {2-6},
+}
+
+@inproceedings{DBLP:conf/ipps/SubramanianP99,
+  author    = {Ram Subramanian and
+               Santosh Pande},
+  title     = {Efficient Program Partitioning Based on Compiler Controlled Communication},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {4-18},
+}
+
+@inproceedings{DBLP:conf/ipps/HelmanJ99,
+  author    = {David R. Helman and
+               Joseph JáJá},
+  title     = {Prefix Computations on Symmetric Multiprocessors},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {7-13},
+}
+
+@inproceedings{DBLP:conf/ipps/DehneHMD99,
+  author    = {Frank K. H. A. Dehne and
+               David A. Hutchinson and
+               Anil Maheshwari and
+               Wolfgang Dittrich},
+  title     = {Reducing I/O Complexity by Simulating Coarse Grained Parallel Algorithms},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {14-20},
+}
+
+@inproceedings{DBLP:conf/ipps/Schulz99,
+  author    = {Martin Schulz},
+  title     = {SCI-VM: A Flexible Base for Transparent Shared Memory Programming Models on Clusters of {PCs}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {19-33},
+}
+
+@inproceedings{DBLP:conf/ipps/DharmasenaV99,
+  author    = {Hettihe P. Dharmasena and
+               Ramachandran Vaidyanathan},
+  title     = {Lower Bounds on the Loading of Degree-2 Multiple Bus Networks for {Binary-Tree} Algorithms},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {21-25},
+}
+
+@inproceedings{DBLP:conf/ipps/NakanoOZ99,
+  author    = {Koji Nakano and
+               Stephan Olariu and
+               Albert Y. Zomaya},
+  title     = {A {Time-Optimal} Solution for the Path Cover Problem on Cographs},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {26-30},
+}
+
+@inproceedings{DBLP:conf/ipps/LiP99,
+  author    = {Keqin Li and
+               Victor Y. Pan},
+  title     = {Parallel Matrix Multiplication on a Linear Array with a Reconfigurable Pipelined Bus System},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {31},
+}
+
+@inproceedings{DBLP:conf/ipps/Nolte99,
+  author    = {Jörg Nolte},
+  title     = {Flexible Collective Operations for Distributed Object Groups},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {34-48},
+}
+
+@inproceedings{DBLP:conf/ipps/DickensT99,
+  author    = {Phillip M. Dickens and
+               Rajeev Thakur},
+  title     = {Improving Collective I/O Performance Using Threads},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {38-45},
+}
+
+@inproceedings{DBLP:conf/ipps/CortesL99,
+  author    = {Toni Cortes and
+               Jesús Labarta},
+  title     = {Linear Aggressive Prefetching: A Way to Increase the Performance of Cooperative Caches},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {46-54},
+}
+
+@inproceedings{DBLP:conf/ipps/SunPFZ99,
+  author    = {Xian-He Sun and
+               Mario Pantano and
+               Thomas Fahringer and
+               Zhaohua Zhan},
+  title     = {SCALA: A Framework for Performance Evaluation of Scalable Computing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {49-62},
+}
+
+@inproceedings{DBLP:conf/ipps/AfsahiD99,
+  author    = {Ahmad Afsahi and
+               Nikitas J. Dimopoulos},
+  title     = {Hiding Communication Latency in Reconfigurable {Message-Passing} Environments},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/ipps/DuZ99,
+  author    = {Xing Du and
+               Xiaodong Zhang},
+  title     = {The Impact of Memory Hierarchies on Cluster Computing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {61-69},
+}
+
+@inproceedings{DBLP:conf/ipps/Mou99,
+  author    = {Z. George Mou},
+  title     = {Recursive Individually Distributed Object},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {63-78},
+}
+
+@inproceedings{DBLP:conf/ipps/SunHCL99,
+  author    = {Xian-He Sun and
+               Dongmei He and
+               Kirk W. Cameron and
+               Yong Luo},
+  title     = {A Factorial Performance Evaluation for Hierarchical Memory Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {70-74},
+}
+
+@inproceedings{DBLP:conf/ipps/TuahKV99,
+  author    = {Nor Jaidi Tuah and
+               Mohan Kumar and
+               Svetha Venkatesh},
+  title     = {A Performance Model of Speculative Prefetching in Distributed Information Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {75-80},
+}
+
+@inproceedings{DBLP:conf/ipps/Leberecht99,
+  author    = {Markus Leberecht},
+  title     = {The {MuSE} System: A Flexible Combination of {On-Stack} Execution and {Work-Stealing}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {79-92},
+}
+
+@inproceedings{DBLP:conf/ipps/LowenthalJ99,
+  author    = {David K. Lowenthal and
+               Michael James},
+  title     = {{Run-Time} Selection of Block Size in Pipelined Parallel Programs},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {82-87},
+}
+
+@inproceedings{DBLP:conf/ipps/VossE99,
+  author    = {Michael Voss and
+               Rudolf Eigenmann},
+  title     = {Reducing Parallel Overheads Through Dynamic Serialization},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {88-92},
+}
+
+@inproceedings{DBLP:conf/ipps/MayM99,
+  author    = {David May and
+               Henk L. Muller},
+  title     = {Using Channels for Multimedia Communication},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {93-98},
+}
+
+@inproceedings{DBLP:conf/ipps/Spiegel99,
+  author    = {André Spiegel},
+  title     = {PANGAEA: An Automatic Distribution {Front-End} for {JAVA}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {93-99},
+}
+
+@inproceedings{DBLP:conf/ipps/BonordenJOR99,
+  author    = {Olaf Bonorden and
+               Ben H. H. Juurlink and
+               Ingo von Otte and
+               Ingo Rieping},
+  title     = {The Paderborn University {BSP} (PUB) Library - Design, Implementation and Performance},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {99-104},
+}
+
+@inproceedings{DBLP:conf/ipps/FodorO99,
+  author    = {Eugene F. Fodor and
+               Ronald A. Olsson},
+  title     = {Concurrent Language Support for Interoperable Applications},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {100-107},
+}
+
+@inproceedings{DBLP:conf/ipps/DiwanG99,
+  author    = {Shridhar Diwan and
+               Dennis Gannon},
+  title     = {A Capabilities Based Communication Model for {High-Performance} Distributed Applications: The Open HPC++ Approach},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {105},
+}
+
+@inproceedings{DBLP:conf/ipps/KellerC99,
+  author    = {Gabriele Keller and
+               Manuel M. T. Chakravarty},
+  title     = {On the Distribution Implementation of Aggregate Data Structures by Program Transformation},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {108-122},
+}
+
+@inproceedings{DBLP:conf/ipps/LiS99,
+  author    = {Keqin Li and
+               Xian-He Sun},
+  title     = {{Average-Case} Analysis of Isospeed Scalability of Parallel Computations on Multiprocessors},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {112-116},
+}
+
+@inproceedings{DBLP:conf/ipps/KimP99,
+  author    = {Sung-Ryul Kim and
+               Kunsoo Park},
+  title     = {{Fully-Scalable} {Fault-Tolerant} Simulations for {BSP} and {CGM}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {117-124},
+}
+
+@inproceedings{DBLP:conf/ipps/GorlatchP99,
+  author    = {Sergei Gorlatch and
+               Susanna Pelagatti},
+  title     = {A Transformational Framework for Skeletal Programs: Overview and Case Study},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {123-137},
+}
+
+@inproceedings{DBLP:conf/ipps/BoseCDL99,
+  author    = {Prosenjit Bose and
+               Albert Chan and
+               Frank K. H. A. Dehne and
+               Markus Latzel},
+  title     = {Coarse Grained Parallel Maximum Matching In Convex Bipartite Graphs},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {125-129},
+}
+
+@inproceedings{DBLP:conf/ipps/GraysonDR99,
+  author    = {Brian Grayson and
+               Michael Dahlin and
+               Vijaya Ramachandran},
+  title     = {Experimental Evaluation of QSM, a Simple {Shared-Memory} Model},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {130},
+}
+
+@inproceedings{DBLP:conf/ipps/LeMahieuB99,
+  author    = {Paul S. LeMahieu and
+               Jehoshua Bruck},
+  title     = {A Consistent History Link Connectivity Protocol},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {138-142},
+}
+
+@inproceedings{DBLP:conf/ipps/KusakabeIATMG99,
+  author    = {Shigeru Kusakabe and
+               Kentaro Inenaga and
+               Makoto Amamiya and
+               Xinan Tang and
+               Andrés Márquez and
+               Guang R. Gao},
+  title     = {Implementing a {Non-Strict} Functional Programming Language on a Threaded Architecture},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {138-152},
+}
+
+@inproceedings{DBLP:conf/ipps/AvreskySHM99,
+  author    = {Dimiter R. Avresky and
+               Vladimir Shurbanov and
+               Robert W. Horst and
+               Pankaj Mehra},
+  title     = {Performance Evaluation of the {ServerNet} R {SAN} under {Self-Similar} Traffic},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {143-147},
+}
+
+@inproceedings{DBLP:conf/ipps/MoorthyJPWPPSND99,
+  author    = {Vijay Moorthy and
+               Matthew G. Jacunski and
+               Manoj Pillai and
+               Peter P. Ware and
+               Dhabaleswar K. Panda and
+               Thomas W. Page Jr. and
+               P. Sadayappan and
+               V. Nagarajan and
+               Johns Daniel},
+  title     = {{Low-Latency} Message Passing on Workstation Clusters using {SCRAMNet}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {148-152},
+}
+
+@inproceedings{DBLP:conf/ipps/DwarkadasSHKN99,
+  author    = {Sandhya Dwarkadas and
+               Robert Stets and
+               Nikos Hardavellas and
+               Leonidas I. Kontothanassis and
+               Rishiyur S. Nikhil},
+  title     = {Cashmere-VLM: Remote Memory Paging for Software Distributed Shared Memory},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {153-159},
+}
+
+@inproceedings{DBLP:conf/ipps/KingLRR99,
+  author    = {Roger L. King and
+               Aric B. Lambert and
+               Samuel H. Russ and
+               Donna S. Reese},
+  title     = {The Biological Basis of the Immune System as a Model for Intelligent Agents},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {156-164},
+}
+
+@inproceedings{DBLP:conf/ipps/CirneM99,
+  author    = {Walfredo Cirne and
+               Keith Marzullo},
+  title     = {The Computational Co-op: Gathering Clusters into a Metacomputer},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {160-166},
+}
+
+@inproceedings{DBLP:conf/ipps/Szuba99,
+  author    = {Tadeusz Szuba},
+  title     = {A Formal Definition of the Phenomenon of Collective Intelligence and its {IQ} Measure},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {165-173},
+}
+
+@inproceedings{DBLP:conf/ipps/HuST99,
+  author    = {Weiwu Hu and
+               Weisong Shi and
+               Zhimin Tang},
+  title     = {Reducing System Overheads in Home-based Software {DSMs}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {167},
+}
+
+@inproceedings{DBLP:conf/ipps/WasiewiczBMW99,
+  author    = {Piotr Wasiewicz and
+               Piotr Borsuk and
+               Jan J. Mulawka and
+               Piotr Weglenski},
+  title     = {Implementation of Data Flow Logical Operation via {Self-Assembly} of {DNA}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {174-182},
+}
+
+@inproceedings{DBLP:conf/ipps/DonaldsonHS99a,
+  author    = {Stephen R. Donaldson and
+               Jonathan M. D. Hill and
+               David B. Skillicorn},
+  title     = {Exploiting Global Structure for Performance on Clusters},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {176-182},
+}
+
+@inproceedings{DBLP:conf/ipps/BanikazemiGBP99,
+  author    = {Mohammad Banikazemi and
+               Rama Govindaraju and
+               Robert Blackmore and
+               Dhabaleswar K. Panda},
+  title     = {Implementing Efficient {MPI} on {LAPI} for {IBM} RS/6000 {SP} Systems: Experiences and Performance Evaluation},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {183-190},
+}
+
+@inproceedings{DBLP:conf/ipps/ViannaOD99,
+  author    = {Dalessandro Soares Vianna and
+               Luiz Satoru Ochi and
+               Lúcia Maria de A. Drummond},
+  title     = {A Parallel Hybrid Evolutionary Metaheuristic for the Period Vehicle Routing Problem},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {183-191},
+}
+
+@inproceedings{DBLP:conf/ipps/SantosA99,
+  author    = {Claudio M. P. Santos and
+               Júlio S. Aude},
+  title     = {PM-PVM: A Portable Multithreaded {PVM}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {191-195},
+}
+
+@inproceedings{DBLP:conf/ipps/SeredynskiKJ99,
+  author    = {Franciszek Seredynski and
+               Jacek Koronacki and
+               Cezary Z. Janikow},
+  title     = {Distributed Scheduling with Decomposed Optimization Criterion: Genetic Programming Approach},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {192-200},
+}
+
+@inproceedings{DBLP:conf/ipps/TanWY99,
+  author    = {C. P. Tan and
+               Weng-Fai Wong and
+               Chung-Kwong Yuen},
+  title     = {{tmPVM} - Task Migratable {PVM}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {196-202},
+}
+
+@inproceedings{DBLP:conf/ipps/AlaouiFE99,
+  author    = {S. Mounir Alaoui and
+               Ophir Frieder and
+               Tarek A. El-Ghazawi},
+  title     = {A Parallel Genetic Algorithm for Task Mapping on Parallel Machines},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {201-209},
+}
+
+@inproceedings{DBLP:conf/ipps/Dincer99,
+  author    = {Kivanc Dincer},
+  title     = {Ubiquitous Message Passing Interface Implementation in Java: jmpi},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {203},
+}
+
+@inproceedings{DBLP:conf/ipps/JedrzejowiczCSS99,
+  author    = {Piotr Jedrzejowicz and
+               Ireneusz Czarnowski and
+               Henryk Szreder and
+               Aleksander Skakovski},
+  title     = {{Evolution-Based} Scheduling of {Fault-Tolerant} Programs on Multiple Processors},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {210-219},
+}
+
+@inproceedings{DBLP:conf/ipps/SuW99,
+  author    = {Te-Chou Su and
+               Jia-Shung Wang},
+  title     = {{On-Demand} Multicast Routing Scheme and its Algorithms},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {212-217},
+}
+
+@inproceedings{DBLP:conf/ipps/KanekoI99,
+  author    = {Keiichi Kaneko and
+               Hideo Ito},
+  title     = {{Fault-Tolerant} Routing Algorithms for Hypercube Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {218-224},
+}
+
+@inproceedings{DBLP:conf/ipps/LohS99,
+  author    = {Peter K. K. Loh and
+               Venson Shaw},
+  title     = {A {Genetic-Based} {Fault-Tolerant} Routing Strategy for Multiprocessor Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {220-229},
+}
+
+@inproceedings{DBLP:conf/ipps/KrizancLR99,
+  author    = {Danny Krizanc and
+               Flaminia L. Luccio and
+               Rajeev Raman},
+  title     = {Dynamic Interval Routing on Asynchronous Rings},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {225-232},
+}
+
+@inproceedings{DBLP:conf/ipps/Leopold99,
+  author    = {Claudia Leopold},
+  title     = {Regularity Considerations in {Instance-Based} Locality Optimization},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {230-238},
+}
+
+@inproceedings{DBLP:conf/ipps/TrahanBVP99,
+  author    = {Jerry L. Trahan and
+               Anu G. Bourgeois and
+               Ramachandran Vaidyanathan and
+               Yi Pan},
+  title     = {Optimally Scaling Permutation Routing on Reconfigurable Linear Arrays with Optical Buses},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {233},
+}
+
+@inproceedings{DBLP:conf/ipps/TalbiRFR99,
+  author    = {El-Ghazali Talbi and
+               Olivier Roux and
+               Cyril Fonlupt and
+               Denis Robilliard},
+  title     = {Parallel Ant Colonies for Combinatorial Optimization Problems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {239-247},
+}
+
+@inproceedings{DBLP:conf/ipps/DuatoRSB99,
+  author    = {José Duato and
+               Antonio Robles and
+               Federico Silla and
+               Ramón Beivide},
+  title     = {A Comparison of Router Architectures for Virtual {Cut-Through} and Wormhole Switching in a {NOWEnvironment}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {240-247},
+}
+
+@inproceedings{DBLP:conf/ipps/AlbaT99,
+  author    = {Enrique Alba and
+               José M. Troya},
+  title     = {An Analysis of Synchronous and Asynchronous Parallel Distributed Genetic Algorithms with Structured and Panmictic Islands},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {248-256},
+}
+
+@inproceedings{DBLP:conf/ipps/SouzaR99,
+  author    = {Alberto Ferreira de Souza and
+               Peter Rounce},
+  title     = {Dynamically Scheduling the Trace Produced During Program Execution into {VLIW} Instructions},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {248-257},
+}
+
+@inproceedings{DBLP:conf/ipps/ChalermwatEL99,
+  author    = {Prachya Chalermwat and
+               Tarek A. El-Ghazawi and
+               Jacqueline Le Moigne},
+  title     = {{GA-Based} Parallel Image Registration on Parallel Clusters},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {257-265},
+}
+
+@inproceedings{DBLP:conf/ipps/ChoiP99,
+  author    = {Jong Hyuk Choi and
+               Kyu Ho Park},
+  title     = {Segment Directory Enhancing the Limited Directory Cache Coherence Schemes},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {258-267},
+}
+
+@inproceedings{DBLP:conf/ipps/SenaIM99,
+  author    = {Giuseppe A. Sena and
+               Germinal Isern and
+               Dalila Megherbi},
+  title     = {Implementation of a Parallel Genetic Algorithm on a Cluster of Workstations: The Travelling Salesman Problem, a Case Study},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {266-274},
+}
+
+@inproceedings{DBLP:conf/ipps/Kim99,
+  author    = {Kichul Kim},
+  title     = {Shuffle Memory System},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {268-272},
+}
+
+@inproceedings{DBLP:conf/ipps/LinNOZ99,
+  author    = {Rong Lin and
+               Koji Nakano and
+               Stephan Olariu and
+               Albert Y. Zomaya},
+  title     = {An Efficient {VLSI} Architecture Parallel Prefix Counting With Domino Logic},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {273},
+}
+
+@inproceedings{DBLP:conf/ipps/BoloniHJM99,
+  author    = {Ladislau Bölöni and
+               Ruibing Hao and
+               Kyungkoo Jun and
+               Dan C. Marinescu},
+  title     = {Structural Biology Metaphors Applied to the Design of a Distributed Object System},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {275-283},
+}
+
+@inproceedings{DBLP:conf/ipps/SilvaS99,
+  author    = {Luís Moura Silva and
+               João Gabriel Silva},
+  title     = {The Performance of Coordinated and Independent Checkpointing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {280-284},
+}
+
+@inproceedings{DBLP:conf/ipps/MilosavljevicJ99,
+  author    = {Igor Z. Milosavljevic and
+               Marwan A. Jabri},
+  title     = {Automatic Array Alignment in Parallel Matlab Scripts},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {285-289},
+}
+
+@inproceedings{DBLP:conf/ipps/ChenKLM99,
+  author    = {Lei Chen and
+               Shahadat Khan and
+               Kin F. Li and
+               Eric G. Manning},
+  title     = {Building an Adaptive Multimedia System using the Utility Model},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {289-298},
+}
+
+@inproceedings{DBLP:conf/ipps/MassingillC99,
+  author    = {Berna L. Massingill and
+               K. Mani Chandy},
+  title     = {Parallel Program Archetypes},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {290-296},
+}
+
+@inproceedings{DBLP:conf/ipps/WelchRWMSSHMDLASSBSHC99,
+  author    = {Lonnie R. Welch and
+               Binoy Ravindran and
+               Paul V. Werme and
+               Michael W. Masters and
+               Behrooz Shirazi and
+               Prashant A. Shirolkar and
+               Robert D. Harrison and
+               D. Wayne Mills and
+               Tuy Do and
+               Judy Lafratta and
+               Shafqat Anwar and
+               Steve Sharp and
+               Terry Sergeant and
+               George Bilowus and
+               Mark Swick and
+               Jim Hoppel and
+               Joseph M. Caruso},
+  title     = {Distributed, Scalable, Dependable {Real-Time} Systems: Middleware Services and Applications},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {297-301},
+}
+
+@inproceedings{DBLP:conf/ipps/RajagopalA99,
+  author    = {Parvathi Rajagopal and
+               Amy W. Apon},
+  title     = {Evaluation of {Real-Time} Fiber Communications for Prallel Collective Operations},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {299-308},
+}
+
+@inproceedings{DBLP:conf/ipps/HuLCZ99,
+  author    = {Y. Charlie Hu and
+               Honghui Lu and
+               Alan L. Cox and
+               Willy Zwaenepoel},
+  title     = {{OpenMP} for Networks of {SMPs}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {302},
+}
+
+@inproceedings{DBLP:conf/ipps/DindaKLO99,
+  author    = {Peter A. Dinda and
+               Loukas F. Kallivokas and
+               Bruce Lowekamp and
+               David R. O'Hallaron},
+  title     = {The Case for {Prediction-Based} {Best-Effort} {Real-Time} Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {309-318},
+}
+
+@inproceedings{DBLP:conf/ipps/KimLL99,
+  author    = {Jin Suk Kim and
+               Eric Lehman and
+               Frank Thomson Leighton},
+  title     = {Oblivious {Deadlock-Free} Routing in a Faulty Hypercube},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {312-319},
+}
+
+@inproceedings{DBLP:conf/ipps/MittalMM99,
+  author    = {Anita Mittal and
+               G. Manimaran and
+               C. Siva Ram Murthy},
+  title     = {Dynamic {Real-Time} Channel Establishment in Multiple Access Bus Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {319-328},
+}
+
+@inproceedings{DBLP:conf/ipps/FujitaF99,
+  author    = {Satoshi Fujita and
+               Arthur M. Farley},
+  title     = {Sparse Hypercube: A Minimal {k-Line} Broadcast Graph},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {320-324},
+}
+
+@inproceedings{DBLP:conf/ipps/JacunskiSP99,
+  author    = {Matthew G. Jacunski and
+               P. Sadayappan and
+               Dhabaleswar K. Panda},
+  title     = {{All-to-All} Broadcast on {Switch-Based} Clusters of Workstations},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {325-329},
+}
+
+@inproceedings{DBLP:conf/ipps/LamKLT99,
+  author    = {Kam-yiu Lam and
+               Tei-Wei Kuo and
+               Gary C. K. Law and
+               Wai-Hung Tsang},
+  title     = {A {Similarity-Based} Protocol for Concurrency Control in Mobile Distribution {Real-Time} Database Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {329-338},
+}
+
+@inproceedings{DBLP:conf/ipps/LiuLG99,
+  author    = {Xicheng Liu and
+               Timothy J. Li and
+               Wen Gao},
+  title     = {VBMAR: Virtual Network Load Balanced Minimal Adaptive Routing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {330},
+}
+
+@inproceedings{DBLP:conf/ipps/BiswasODH99,
+  author    = {Rupak Biswas and
+               Leonid Oliker and
+               Sajal K. Das and
+               Daniel J. Harvey},
+  title     = {Portable Parallel Programming for the Dynamic Load Balancing of Unstructured Grid Applications},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {338-342},
+}
+
+@inproceedings{DBLP:conf/ipps/TovarV99,
+  author    = {Eduardo Tovar and
+               Francisco Vasques},
+  title     = {From Task Scheduling in Single Processor Environments to Message Scheduling in a {PROFIBUS} Fieldbus Network},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {339-352},
+}
+
+@inproceedings{DBLP:conf/ipps/BraunMS99,
+  author    = {Tracy D. Braun and
+               Anthony A. Maciejewski and
+               Howard Jay Siegel},
+  title     = {A Parallel Algorithm for Singular Value Decomposition as Applied to Failure Tolerant Manipulators},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {343-349},
+}
+
+@inproceedings{DBLP:conf/ipps/MelabTP99,
+  author    = {Nordine Melab and
+               El-Ghazali Talbi and
+               Serge G. Petiton},
+  title     = {A Parallel Adaptive version of the Block-based {Gauss-Jordan} Algorithm},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {350-354},
+}
+
+@inproceedings{DBLP:conf/ipps/ClarkJKMWWZWLH99,
+  author    = {Raymond K. Clark and
+               E. Douglas Jensen and
+               Arkady Kanevsky and
+               John A. Maurer and
+               Paul J. Wallace and
+               Thomas Wheeler and
+               Yun Zhang and
+               Douglas Wells and
+               Tom Lawrence and
+               Pat Hurley},
+  title     = {An Adaptive, Distributed Airborne Tracking System ("process the Right Tracks at the Right Time")},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {353-362},
+}
+
+@inproceedings{DBLP:conf/ipps/BanderaZ99,
+  author    = {Gerardo Bandera and
+               Emilio L. Zapata},
+  title     = {Sparse Matrix {Block-Cyclic} Redistribution},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {355-359},
+}
+
+@inproceedings{DBLP:conf/ipps/HeberGB99,
+  author    = {Gerd Heber and
+               Guang R. Gao and
+               Rupak Biswas},
+  title     = {A New Approach to Parallel Dynamic Partitioning for Adaptive Unstructured Meshes},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {360-364},
+}
+
+@inproceedings{DBLP:conf/ipps/JonssonLS99,
+  author    = {Jan Jonsson and
+               Henrik Lönn and
+               Kang G. Shin},
+  title     = {{Non-Preemptive} Scheduling of {Real-Time} Threads on {Multi-Level-Context} Architectures},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {363-374},
+}
+
+@inproceedings{DBLP:conf/ipps/FilipponeCP99,
+  author    = {Salvatore Filippone and
+               Michele Colajanni and
+               Dario Pascucci},
+  title     = {An {Object-Oriented} Environment for Sparse Parallel Computation on Adaptive Grids},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {365},
+}
+
+@inproceedings{DBLP:conf/ipps/KimL99,
+  author    = {JunSeong Kim and
+               David J. Lilja},
+  title     = {A Network Status Predictor to Support Dynamic Scheduling in {Network-Based} Computing Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {372-378},
+}
+
+@inproceedings{DBLP:conf/ipps/Nait-AbdesselamA99,
+  author    = {Farid Naït-Abdesselam and
+               Nazim Agoulmine},
+  title     = {Qos Control and Adaptation in Distributed Multimedia Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {375-383},
+}
+
+@inproceedings{DBLP:conf/ipps/KwanR99,
+  author    = {Thomas T. Kwan and
+               Daniel A. Reed},
+  title     = {Performance Evaluation of an Infrastructure for Worldwide Parallel Computing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {379-386},
+}
+
+@inproceedings{DBLP:conf/ipps/CampeloYRGS99,
+  author    = {José Carlos Campelo and
+               Pedro Yuste and
+               Francisco Rodríguez and
+               Pedro J. Gil and
+               Juan José Serrano},
+  title     = {Dependability Evaluation of Fault Tolerant Distributed Industrial Control Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {384-388},
+}
+
+@inproceedings{DBLP:conf/ipps/BakicMR99,
+  author    = {Aleksandar M. Bakic and
+               Matt W. Mutka and
+               Diane T. Rover},
+  title     = {BRISK: A Portable and Flexible Distributed Instrumentation System},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {387-391},
+}
+
+@inproceedings{DBLP:conf/ipps/ChappellMIO99,
+  author    = {Brett L. Chappell and
+               David T. Marlow and
+               Philip M. Irey IV and
+               Karen O'Donoghue},
+  title     = {An Approach for Measuring {IP} Security Performance in a Distributed Environment},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {389-394},
+}
+
+@inproceedings{DBLP:conf/ipps/Zambonelli99,
+  author    = {Franco Zambonelli},
+  title     = {An Efficient Logging Algorithm for Incremental Replay of Message},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {392-398},
+}
+
+@inproceedings{DBLP:conf/ipps/FagundesMM99,
+  author    = {Luciano G. Fagundes and
+               Rodrigo Fernandes de Mello and
+               Célio Estevan Morón},
+  title     = {An Environment for Generating Applications Involving Remote Manipulation of Parallel Machines},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {395-399},
+}
+
+@inproceedings{DBLP:conf/ipps/KongmunvattanaT99,
+  author    = {Angkul Kongmunvattana and
+               Nian-Feng Tzeng},
+  title     = {Lazy Logging and {Prefetch-Based} Crash Recovery in Software Distributed Shared Memory Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {399-406},
+}
+
+@inproceedings{DBLP:conf/ipps/GentileCWBFFLOQRVV99,
+  author    = {Antonio Gentile and
+               José Cruz-Rivera and
+               D. Scott Wills and
+               Leugim Bustelo and
+               José J. Figueroa and
+               Javier E. Fonseca-Camacho and
+               Wilfredo E. Lugo-Beauchamp and
+               Ricardo Olivieri and
+               Marlyn Quiñones-Cerpa and
+               Alexis H. Rivera-Ríos and
+               Iomar Vargas-Gonzáles and
+               Michelle Viera-Vera},
+  title     = {{Real-Time} Image Processing on a Focal Plane {SIMD} Array},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {400-405},
+}
+
+@inproceedings{DBLP:conf/ipps/IreyM99,
+  author    = {Philip M. Irey IV and
+               David T. Marlow},
+  title     = {Metrics for the Evaluation of Multicast Communications},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {406-412},
+}
+
+@inproceedings{DBLP:conf/ipps/BrobergLG99,
+  author    = {Magnus Broberg and
+               Lars Lundberg and
+               Håkan Grahn},
+  title     = {Visualization and Performance Prediction of Multithreaded Solaris Programs by Tracing Kernel Threads},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {407},
+}
+
+@inproceedings{DBLP:conf/ipps/KohKS99,
+  author    = {Jaeyong Koh and
+               Kihan Kim and
+               Heonshik Shin},
+  title     = {Distributing Periodic Workload Uniformly Across Time to Achieve Better Service Quality},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {413-417},
+}
+
+@inproceedings{DBLP:conf/ipps/Robinson99,
+  author    = {John Robinson},
+  title     = {Delivering On Standards, Balancing Portability and Performance},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {416},
+}
+
+@inproceedings{DBLP:conf/ipps/HuangY99,
+  author    = {Jyh-Ming Huang and
+               Ted C. Yang},
+  title     = {A Dynamic {Fault-Tolerant} Mesh Architecture},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {418-424},
+}
+
+@inproceedings{DBLP:conf/ipps/Sibeyn99,
+  author    = {Jop F. Sibeyn},
+  title     = {Better Deterministic Routing on Meshes},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {420-425},
+}
+
+@inproceedings{DBLP:conf/ipps/LivianiK99,
+  author    = {Mohammad Ali Livani and
+               Jörg Kaiser},
+  title     = {Evaluation of a Hybrid {Real-Time} Bus Scheduling Mechanism for {CAN}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {425-429},
+}
+
+@inproceedings{DBLP:conf/ipps/Shen99,
+  author    = {Hong Shen},
+  title     = {Efficient Parallel Algorithms for Selection and Multiselection on {Mesh-Connected} Computers},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {426-430},
+}
+
+@inproceedings{DBLP:conf/ipps/NakjimaKA99,
+  author    = {Tatsuo Nakajima and
+               Mamadou Tadiou Kone and
+               Hiroyuki Aizu},
+  title     = {System Support for Migratory Continuous Media},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {430-441},
+}
+
+@inproceedings{DBLP:conf/ipps/Datta99,
+  author    = {Amitava Datta},
+  title     = {{Constant-Time} Algorithm for Medial Axis Transform on the Reconfigurable Mesh},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {431-435},
+}
+
+@inproceedings{DBLP:conf/ipps/YehPLV99,
+  author    = {Chi-Hsiang Yeh and
+               Behrooz Parhami and
+               Hua Lee and
+               Emmanouel A. Varvarigos},
+  title     = {2.5{n-Step} Sorting on n*n Meshes in the Presence of o(sqrt(n)) {Worst-Case} Faults},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {436-440},
+}
+
+@inproceedings{DBLP:conf/ipps/YehPV99,
+  author    = {Chi-Hsiang Yeh and
+               Behrooz Parhami and
+               Emmanouel A. Varvarigos},
+  title     = {The Recursive Grid Layout Scheme for {VLSI} Layout of Hierarchical Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {441},
+}
+
+@inproceedings{DBLP:conf/ipps/Chatterjee99,
+  author    = {Saurav Chatterjee},
+  title     = {Dynamic Application Structuring on Heterogeneous, Distributed Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {442-453},
+}
+
+@inproceedings{DBLP:conf/ipps/LiaoCWV99,
+  author    = {Wei-keng Liao and
+               Alok N. Choudhary and
+               Donald Weiner and
+               Pramod K. Varshney},
+  title     = {{Multi-Threaded} Design and Implementation of Parallel Pipelined {STAP} on Parallel Computers with {SMP} Nodes},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {448-452},
+}
+
+@inproceedings{DBLP:conf/ipps/ChungPK99,
+  author    = {Sang-Hwa Chung and
+               Min-Uk Park and
+               Hyung-Soon Kim},
+  title     = {A Parallel Phoneme Recognition Algorithm Based on Continuous Hidden Markov Model},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {453-457},
+}
+
+@inproceedings{DBLP:conf/ipps/Niehaus99,
+  author    = {Douglas Niehaus},
+  title     = {Improving Support for Multimedia System Experimentation and Development},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {454-465},
+}
+
+@inproceedings{DBLP:conf/ipps/KhokharHTG99,
+  author    = {Ashfaq A. Khokhar and
+               Gerd Heber and
+               Parimala Thulasiraman and
+               Guang R. Gao},
+  title     = {Load Adaptive Algorithms and Implementations for the 2D Discrete Wavelet Transform on {Fine-Grain} Multithreaded Architectures},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {458-462},
+}
+
+@inproceedings{DBLP:conf/ipps/Martinez99,
+  author    = {David R. Martinez},
+  title     = {Application of Parallel Processors to {Real-Time} Sensor Array Processing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {463-469},
+}
+
+@inproceedings{DBLP:conf/ipps/BougeMN99,
+  author    = {Luc Bougé and
+               Jean-François Méhaut and
+               Raymond Namyst},
+  title     = {Efficient Communications in Multithreaded Runtime Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {468-482},
+}
+
+@inproceedings{DBLP:conf/ipps/Luling99,
+  author    = {Reinhard Lüling},
+  title     = {Mapping Media Streams onto a Network of Servers},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {470-476},
+}
+
+@inproceedings{DBLP:conf/ipps/ErcalAF99,
+  author    = {Fikret Erçal and
+               Mark Allen and
+               Hao Feng},
+  title     = {A Systolic Algorithm to Process Compressed Binary Images},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {477},
+}
+
+@inproceedings{DBLP:conf/ipps/KaleBPV99,
+  author    = {Laxmikant V. Kalé and
+               Robert Brunner and
+               James C. Phillips and
+               Krishnan Varadarajan},
+  title     = {Application Performance of a Linux Cluster Using Converse},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {483-495},
+}
+
+@inproceedings{DBLP:conf/ipps/VetterS99,
+  author    = {Jeffrey S. Vetter and
+               Karsten Schwan},
+  title     = {Optimizations for {Language-Directed} Computational Steering},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {486-491},
+}
+
+@inproceedings{DBLP:conf/ipps/GorlatchWL99,
+  author    = {Sergei Gorlatch and
+               Christoph Wedler and
+               Christian Lengauer},
+  title     = {Optimization Rules for Programming with Collective Operations},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {492-499},
+}
+
+@inproceedings{DBLP:conf/ipps/AntoniuBN99,
+  author    = {Gabriel Antoniu and
+               Luc Bougé and
+               Raymond Namyst},
+  title     = {An Efficient and Transparent Thread Migration Scheme in the PM2 Runtime System},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {496-510},
+}
+
+@inproceedings{DBLP:conf/ipps/ChingchitKB99,
+  author    = {S. Chingchit and
+               Mohan Kumar and
+               Laxmi N. Bhuyan},
+  title     = {A Flexible Clustering and Scheduling Scheme for Efficient Parallel Computation},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {500-505},
+}
+
+@inproceedings{DBLP:conf/ipps/BaratlooIKZ99,
+  author    = {Arash Baratloo and
+               Ayal Itzkovitz and
+               Zvi M. Kedem and
+               Yuanyuan Zhao},
+  title     = {Mechanisms for {Just-in-Time} Allocation of Resources to Adaptive Parallel Programs},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {506-512},
+}
+
+@inproceedings{DBLP:conf/ipps/ThitikamolK99,
+  author    = {Kritchalach Thitikamol and
+               Peter J. Keleher},
+  title     = {{Communication-Intensive} Parallel Applications and Non-dedicated Clusters of Workstations},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {511-518},
+}
+
+@inproceedings{DBLP:conf/ipps/TalbyF99,
+  author    = {David Talby and
+               Dror G. Feitelson},
+  title     = {Supporting Priorities and Improving Utilization of the {IBM} {SP} Scheduler Using {Slack-Based} Backfilling},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {513},
+}
+
+@inproceedings{DBLP:conf/ipps/SimitciRFMOTW99,
+  author    = {Huseyin Simitci and
+               Daniel A. Reed and
+               Ryan Fox and
+               Mario Medina and
+               James Oly and
+               Nancy Tran and
+               Guoyi Wang},
+  title     = {A Framework for Adaptive Storage Input/Output on Computational Grids},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {519-532},
+}
+
+@inproceedings{DBLP:conf/ipps/Rosenberg99,
+  author    = {Arnold L. Rosenberg},
+  title     = {Guidelines for {Data-Parallel} {Cycle-Stealing} in Networks of Workstations, II: On Maximizing Guaranteed Output},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {520-524},
+}
+
+@inproceedings{DBLP:conf/ipps/RadulescuGL99,
+  author    = {Andrei Radulescu and
+               Arjan J. C. van Gemund and
+               Hai-Xiang Lin},
+  title     = {LLB: A Fast and Effective Scheduling Algorithm for {Distributed-Memory} Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {525-530},
+}
+
+@inproceedings{DBLP:conf/ipps/BischofEE99,
+  author    = {Stefan Bischof and
+               Ralf Ebner and
+               Thomas Erlebach},
+  title     = {Parallel Load Balancing for Problems with Good Bisectors},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {531-538},
+}
+
+@inproceedings{DBLP:conf/ipps/NieplochaC99,
+  author    = {Jarek Nieplocha and
+               Bryan Carpenter},
+  title     = {ARMCI: A Portable Remote Memory Copy Libray for Ditributed Array Libraries and Compiler {Run-Time} Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {533-546},
+}
+
+@inproceedings{DBLP:conf/ipps/WuJ99,
+  author    = {Kuen-Pin Wu and
+               Yuh-Jzer Joung},
+  title     = {Asynchronous Group Mutual Exclusion in Ring Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {539-543},
+}
+
+@inproceedings{DBLP:conf/ipps/HayashiNO99,
+  author    = {Tatsuya Hayashi and
+               Koji Nakano and
+               Stephan Olariu},
+  title     = {Randomized Initialization Protocols for Packet Radio Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {544},
+}
+
+@inproceedings{DBLP:conf/ipps/Seidmann99,
+  author    = {Thomas Seidmann},
+  title     = {{Multicast-Based} Runtime System for Highly Efficient Causally Cinsistent {Software-Only} {DSM}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {547-552},
+}
+
+@inproceedings{DBLP:conf/ipps/DasP99,
+  author    = {Sajal K. Das and
+               Maria Cristina Pinotti},
+  title     = {An Optimal Disk Allocation Strategy for Partial Match Queries on {Non-Uniform} Cartesian Product Files},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {550-554},
+}
+
+@inproceedings{DBLP:conf/ipps/Mueller99,
+  author    = {Frank Mueller},
+  title     = {Adaptive {DSM-Behavior} via Speculative Data Distribution},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {553-567},
+}
+
+@inproceedings{DBLP:conf/ipps/SreenivasAR99,
+  author    = {Mahesh K. Sreenivas and
+               Khaled Alsabti and
+               Sanjay Ranka},
+  title     = {Parallel {Out-of-Core} {Divide-and-Conquer} Techniques with Application to Classification Trees},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {555-562},
+}
+
+@inproceedings{DBLP:conf/ipps/Lopez-de-TeruelGAR99,
+  author    = {Pedro E. López-de-Teruel and
+               José M. García and
+               Manuel E. Acacio and
+               Óscar Cánovas Reverte},
+  title     = {P-EDR: An Algorithm for Parallel Implementation of Parzen Density Estimation from Uncertain Observations},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {563-568},
+}
+
+@inproceedings{DBLP:conf/ipps/SulatyckeG99,
+  author    = {Peter Sulatycke and
+               Kanad Ghose},
+  title     = {A Fast Multithreaded {Out-of-Core} Visualization Technique},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {569-575},
+}
+
+@inproceedings{DBLP:conf/ipps/BondalapatiDDGHJZ99,
+  author    = {Kiran Bondalapati and
+               Pedro C. Diniz and
+               Phillip Duncan and
+               John J. Granacki and
+               Mary W. Hall and
+               Rajeev Jain and
+               Heidi E. Ziegler},
+  title     = {DEFACTO: A Design Environment for Adaptive Computing Technology},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {570-578},
+}
+
+@inproceedings{DBLP:conf/ipps/GoilC99,
+  author    = {Sanjay Goil and
+               Alok N. Choudhary},
+  title     = {Design and Implementation of a Scalable Parallel System for Multidimensional Analysis and {OLAP}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {576-581},
+}
+
+@inproceedings{DBLP:conf/ipps/DiesselKW99,
+  author    = {Oliver Diessel and
+               David A. Kearney and
+               Grant B. Wigley},
+  title     = {A {Web-Based} Multiuser Operating System for Reconfiguarble Computing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {579-587},
+}
+
+@inproceedings{DBLP:conf/ipps/ChangFSS99,
+  author    = {Chialin Chang and
+               Renato Ferreira and
+               Alan Sussman and
+               Joel H. Saltz},
+  title     = {Infrastructure for Building Parallel Database Systems for {Multi-Dimensional} Data},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {582},
+}
+
+@inproceedings{DBLP:conf/ipps/SrinivasanRVW99,
+  author    = {Vinoo Srinivasan and
+               Shankar Radhakrishnan and
+               Ranga Vemuri and
+               Jeffrey Walrath},
+  title     = {Interconnect Synthesis for Reconfigurable {Multi-FPGA} Architectures},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {588-596},
+}
+
+@inproceedings{DBLP:conf/ipps/MarongiuPC99,
+  author    = {Alessandro Marongiu and
+               Paolo Palazzari and
+               C. Casaccia},
+  title     = {A New {Memory-Saving} Technique to Map System of Affine Recurrence Equations (SARE) onto Distributed Memory Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {590-596},
+}
+
+@inproceedings{DBLP:conf/ipps/ChakrabartiB99,
+  author    = {Dhruva R. Chakrabarti and
+               Prithviraj Banerjee},
+  title     = {A Novel Compilation Framework for Supporting {Semi-Regular} Distributions in Hybrid Applications},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {597-602},
+}
+
+@inproceedings{DBLP:conf/ipps/KhalidR99,
+  author    = {Mohammed A. S. Khalid and
+               Jonathan Rose},
+  title     = {{Hardwired-Clusters} Partial-Crossbar: A Hierarchical Routing Architecture for {Multi-FPGA} Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {597-605},
+}
+
+@inproceedings{DBLP:conf/ipps/YuanGM99,
+  author    = {Xin Yuan and
+               Rajiv Gupta and
+               Rami G. Melhem},
+  title     = {Compiler Analysis to Support Compiled Communication for {HPF-Like} Programs},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {603-608},
+}
+
+@inproceedings{DBLP:conf/ipps/KaulV99,
+  author    = {Meenakshi Kaul and
+               Ranga Vemuri},
+  title     = {Integrated {Block-Processing} and {Design-Space} Exploration in Temporal Partitioning for {RTR} Architectures},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {606-615},
+}
+
+@inproceedings{DBLP:conf/ipps/JoishaB99,
+  author    = {Pramod G. Joisha and
+               Prithviraj Banerjee},
+  title     = {{PARADIGM} (version 2.0): A New {HPF} Compilation System},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {609-615},
+}
+
+@inproceedings{DBLP:conf/ipps/Queinnec99,
+  author    = {Christian Queinnec},
+  title     = {Marshaling/Demarshaling as a Compilation/Interpretation Process},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {616},
+}
+
+@inproceedings{DBLP:conf/ipps/Fernandez-ZepedaVT99,
+  author    = {José Alberto Fernández-Zepeda and
+               Ramachandran Vaidyanathan and
+               Jerry L. Trahan},
+  title     = {Improved Scaling Simulation of the General Reconfigurable Mesh},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {616-624},
+}
+
+@inproceedings{DBLP:conf/ipps/CasselmanSB99,
+  author    = {Steve Casselman and
+               John Schewel and
+               Christophe Beaumont},
+  title     = {{IP} Validation for {FPGAs} using Hardware Object {TechnologyTM}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {624},
+}
+
+@inproceedings{DBLP:conf/ipps/Middendorf99,
+  author    = {Martin Middendorf},
+  title     = {Bit Summation on the Reconfigurable Mesh},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {625-633},
+}
+
+@inproceedings{DBLP:conf/ipps/LynchMLB99,
+  author    = {Robert E. Lynch and
+               Dan C. Marinescu and
+               Hong Lin and
+               Timothy S. Baker},
+  title     = {Parallel Algorithms for 3D Reconstruction of Asymmetric Objects from Electron Micrographs},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {632-637},
+}
+
+@inproceedings{DBLP:conf/ipps/LinNOPSZ99,
+  author    = {Rong Lin and
+               Koji Nakano and
+               Stephan Olariu and
+               Maria Cristina Pinotti and
+               James L. Schwing and
+               Albert Y. Zomaya},
+  title     = {Scalable {Hardware-Algorithms} for Binary Prefix Sums},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {634-642},
+}
+
+@inproceedings{DBLP:conf/ipps/BernardGT99,
+  author    = {Pierre-Eric Bernard and
+               Thierry Gautier and
+               Denis Trystram},
+  title     = {Large Scale Simulation of Parallel Molecular Dynamics},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {638-644},
+}
+
+@inproceedings{DBLP:conf/ipps/WojkoE99,
+  author    = {Mathew Wojko and
+               Hossam A. ElGindy},
+  title     = {Configuration Sequencing with Self Configurable Binary Multipliers},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {643-651},
+}
+
+@inproceedings{DBLP:conf/ipps/RajanD99,
+  author    = {Kumar Rajan and
+               Narsingh Deo},
+  title     = {A Parallel Algorithm for {Bound-Smoothing}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {645-652},
+}
+
+@inproceedings{DBLP:conf/ipps/DandalisMP99,
+  author    = {Andreas Dandalis and
+               Alessandro Mei and
+               Viktor K. Prasanna},
+  title     = {Domain Specific Mapping for Solving Graph Problems on Reconfigurable Devices},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {652-660},
+}
+
+@inproceedings{DBLP:conf/ipps/AluruFM99,
+  author    = {Srinivas Aluru and
+               Natsuhiko Futamura and
+               Kishan Mehrotra},
+  title     = {Parallel Biological Sequence Comparison Using Prefix Computations},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {653-659},
+}
+
+@inproceedings{DBLP:conf/ipps/SamehS99,
+  author    = {Ahmed H. Sameh and
+               Vivek Sarin},
+  title     = {Large Scale Simulation of Particulate Flows},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {660},
+}
+
+@inproceedings{DBLP:conf/ipps/LuLSBKF99,
+  author    = {Guangming Lu and
+               Ming-Hau Lee and
+               Hartej Singh and
+               Nader Bagherzadeh and
+               Fadi J. Kurdahi and
+               Eliseu M. Chaves Filho},
+  title     = {MorphoSys: A Reconfigurable Processor Trageted to High Performance Image Application},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {661-669},
+}
+
+@inproceedings{DBLP:conf/ipps/BonuccelliC99,
+  author    = {Maurizio A. Bonuccelli and
+               M. Claudia Clò},
+  title     = {{EDD} Algorithm Performance Guarantee for Periodic {Hard-Real-Time} Scheduling in Distributed Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {668-677},
+}
+
+@inproceedings{DBLP:conf/ipps/NaganoMN99,
+  author    = {Hidehisa Nagano and
+               Akihiro Matsuura and
+               Akira Nagoya},
+  title     = {An Efficient Implementation Method of Fractal Image Compression on Dynamically Reconfigurable Architecture},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {670-678},
+}
+
+@inproceedings{DBLP:conf/ipps/Jonsson99a,
+  author    = {Jan Jonsson},
+  title     = {A Robust Adaptive Metric for Deadline Assignment in Heterogeneous Distributed {Real-Time} Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {678-687},
+}
+
+@inproceedings{DBLP:conf/ipps/NakadaOIIKINS99,
+  author    = {Hiroshi Nakada and
+               Kiyoshi Oguri and
+               Norbert Imlig and
+               Minoru Inamori and
+               Ryusuke Konishi and
+               Hideyuki Ito and
+               Kouichi Nagami and
+               Tsunemichi Shiozawa},
+  title     = {Plastic Cell Architecture: A Dynamically Reconfigurable {Hardware-Based} Computer},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {679-687},
+}
+
+@inproceedings{DBLP:conf/ipps/JohnstonC99,
+  author    = {Charles Michael Johnston and
+               Anthony T. Chronopoulos},
+  title     = {A Communication Latency Hiding Parallelization of a Traffic Flow Simulation},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {688-695},
+}
+
+@inproceedings{DBLP:conf/ipps/RitterPS99,
+  author    = {Gilles Ritter and
+               Jean-Michel Puiatti and
+               Eduardo Sanchez},
+  title     = {Leonardo and Discipulus Simplex: An Autonomous, Evolvable {Six-Legged} Walking Robot},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {688-696},
+}
+
+@inproceedings{DBLP:conf/ipps/ThondugulamRRW99,
+  author    = {Narayanan V. Thondugulam and
+               Dhananjai Madhava Rao and
+               Radharamanan Radhakrishnan and
+               Philip A. Wilsey},
+  title     = {Relaxing Causal Constraints in {PDES}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {696-700},
+}
+
+@inproceedings{DBLP:conf/ipps/AgunC99,
+  author    = {Ka-an Agun and
+               J. Morris Chang},
+  title     = {Reusable Internal Hardware Templates},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {697-699},
+}
+
+@inproceedings{DBLP:conf/ipps/BeuchatS99,
+  author    = {Jean-Luc Beuchat and
+               Eduardo Sanchez},
+  title     = {An {On-Line} {Arithmetic-Based} Reconfigurable Neuroprocessor},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {700-702},
+}
+
+@inproceedings{DBLP:conf/ipps/CamposS99,
+  author    = {Luis Miguel Campos and
+               Isaac D. Scherson},
+  title     = {Rate of Change Load Balancing in Distributed and Parallel Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {701-707},
+}
+
+@inproceedings{DBLP:conf/ipps/HardtRK99,
+  author    = {Wolfram Hardt and
+               Achim Rettberg and
+               Bernd Kleinjohann},
+  title     = {The {Re-Configurable} {Delay-Intensitive} {FLYSIG} Architecture},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {703-705},
+}
+
+@inproceedings{DBLP:conf/ipps/KohlerSGS99,
+  author    = {Steffen Köhler and
+               Sergej Sawitzki and
+               Achim Gratz and
+               Rainer G. Spallek},
+  title     = {Digital Signal Processing with General Purpose Microprocessors, {DSP} and Rcinfigurable Logic},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {706-708},
+}
+
+@inproceedings{DBLP:conf/ipps/RimJK99,
+  author    = {Hwakyung Rim and
+               Ju-wook Jang and
+               Sung-Chun Kim},
+  title     = {An Efficient Dynamic Load Balancing using the Dimension Exchange Method for Balancing of Quantized Loads on Hypercube Multiprocessors},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {708},
+}
+
+@inproceedings{DBLP:conf/ipps/SuyamaYN99,
+  author    = {Takayuki Suyama and
+               Makoto Yokoo and
+               Akira Nagoya},
+  title     = {Solving Satisfiability Problems on {FPGAs} using Experimental Unit Propagation Heuristic},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {709-711},
+}
+
+@inproceedings{DBLP:conf/ipps/TiountchikT99,
+  author    = {Alexander Tiountchik and
+               Elena Trichina},
+  title     = {{FPGA} Implementation of Modular Exponentiation},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {712-715},
+}
+
+@inproceedings{DBLP:conf/ipps/AndersonNZ99,
+  author    = {Ruth E. Anderson and
+               Thu D. Nguyen and
+               John Zahorjan},
+  title     = {Cascaded Execution: Speeding Up Unparallelized Execution on {Shared-Memory} Multiprocessors},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {714-719},
+}
+
+@inproceedings{DBLP:conf/ipps/PhilippsenH99,
+  author    = {Michael Philippsen and
+               Bernhard Haumacher},
+  title     = {More Efficient Object Serialization},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {718-732},
+}
+
+@inproceedings{DBLP:conf/ipps/Costa99,
+  author    = {Vítor Santos Costa},
+  title     = {COWL: {Copy-On-Write} for Logic Programs},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {720-727},
+}
+
+@inproceedings{DBLP:conf/ipps/SobralP99,
+  author    = {João Luís Sobral and
+               Alberto José Proença},
+  title     = {Dynamic {Grain-Size} Adaptation on Object Oriented Parallel Programming The {SCOOPP} Approach},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {728-732},
+}
+
+@inproceedings{DBLP:conf/ipps/BoukercheDDL99,
+  author    = {Azzedine Boukerche and
+               Sajal K. Das and
+               Ajoy Kumar Datta and
+               Timothy E. LeMaster},
+  title     = {Implementation of a Virtual Time Synchronizer for Distributed Databases},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {733-737},
+}
+
+@inproceedings{DBLP:conf/ipps/BregG99,
+  author    = {Fabian Breg and
+               Dennis Gannon},
+  title     = {A Customizable Implementation of {RMI} for High Performance Computing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {733-747},
+}
+
+@inproceedings{DBLP:conf/ipps/KandemirCRB99,
+  author    = {Mahmut T. Kandemir and
+               Alok N. Choudhary and
+               J. Ramanujam and
+               Prithviraj Banerjee},
+  title     = {A Graph Based Framework to Detect Optimal Memory Layouts for Improving Data Locality},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {738-743},
+}
+
+@inproceedings{DBLP:conf/ipps/PrakashS99,
+  author    = {S. R. Prakash and
+               Y. N. Srikant},
+  title     = {Hyperplane Partitioning: An Approach to Global Data Partitioning for Distributed Memory Machines},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {744},
+}
+
+@inproceedings{DBLP:conf/ipps/BakerCFKL99,
+  author    = {Mark Baker and
+               Bryan Carpenter and
+               Geoffrey Fox and
+               Sung Hoon Ko and
+               Sang Lim},
+  title     = {MPIJAVA: An {Object-Oriented} {JAVA} Interface to {MPI}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {748-762},
+}
+
+@inproceedings{DBLP:conf/ipps/ChangKK99,
+  author    = {Fangzhe Chang and
+               Vijay Karamcheti and
+               Zvi M. Kedem},
+  title     = {Exploiting Application Tunability for Efficient, Predictable Parallel Resource Management},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {749},
+}
+
+@inproceedings{DBLP:conf/ipps/Sarmenta99,
+  author    = {Luis F. G. Sarmenta},
+  title     = {An Adaptive, {Fault-Tolerant} Implementation of {BSP} for {JAVA-Based} Volunteer Computing Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {763-780},
+}
+
+@inproceedings{DBLP:conf/ipps/ClementSJ99,
+  author    = {Mark J. Clement and
+               Quinn Snell and
+               Glenn Judd},
+  title     = {High Performance Computing for the Masses},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {781-796},
+}
+
+@inproceedings{DBLP:conf/ipps/WebbWM99,
+  author    = {Darren Webb and
+               Andrew L. Wendelborn and
+               Kevin Maciunas},
+  title     = {Process Networks as a {High-Level} Notation for Metacomputing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {797-812},
+}
+
+@inproceedings{DBLP:conf/ipps/GalatopoullosM99,
+  author    = {Demetris G. Galatopoullos and
+               Elias S. Manolakos},
+  title     = {Developing Parallel Applications Using the {JAVAPORTS} Environment},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {813-828},
+}
+
+@inproceedings{DBLP:conf/ipps/LiangS99,
+  author    = {Weifa Liang and
+               Xiaojun Shen},
+  title     = {Permutation Routing in {All-Optical} Product Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {831-844},
+}
+
+@inproceedings{DBLP:conf/ipps/CarreraB99,
+  author    = {Enrique V. Carrera and
+               Ricardo Bianchini},
+  title     = {NWCache: Optimizing Disk Accesses via an Optical Network/Write Cache Hybrid},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {845-858},
+}
+
+@inproceedings{DBLP:conf/ipps/CarreraB99a,
+  author    = {Enrique V. Carrera and
+               Ricardo Bianchini},
+  title     = {NetCache: A Network/Cache Hybrid for Multiprocessors},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {859-872},
+}
+
+@inproceedings{DBLP:conf/ipps/ChooDL99,
+  author    = {Peng Yin Choo and
+               Abram Detofsky and
+               Ahmed Louri},
+  title     = {A {Multi-Wavelength} Optical {Content-Addressable} Parallel Processor (MW-OCAPP) for {High-Speed} Parallel Relational Database Processing: Architectural Concepts and Preliminary Experimental System},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {873-886},
+}
+
+@inproceedings{DBLP:conf/ipps/YehWH99,
+  author    = {Hongjin Yeh and
+               Kyubum Wee and
+               Manpyo Hong},
+  title     = {Optimal Scheduling Algorithms in {WDM} Optical Passive Star Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {887-896},
+}
+
+@inproceedings{DBLP:conf/ipps/CoudertFM99,
+  author    = {David Coudert and
+               Afonso Ferreira and
+               Xavier Muñoz},
+  title     = {{OTIS-Based} {Multi-Hop} {Multi-OPS} Lightwave Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {897-910},
+}
+
+@inproceedings{DBLP:conf/ipps/LiPH99,
+  author    = {Keqin Li and
+               Yi Pan and
+               Mounir Hamdi},
+  title     = {Solving Graph Theory Problems Using Reconfigurable Pipelined Optical Buses},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {911-923},
+}
+
+@inproceedings{DBLP:conf/ipps/FeldmanVE99,
+  author    = {Martin Feldman and
+               Ramachandran Vaidyanathan and
+               Ahmed El-Amawy},
+  title     = {High Speed, High Capacity Bused Interconnects using Optical Slab Waveguides},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {924-937},
+}
+
+@inproceedings{DBLP:conf/ipps/JaekelBS99,
+  author    = {Arunita Jaekel and
+               Subir Bandyopadhyay and
+               Abhijit Sengupta},
+  title     = {A new Architecture for Multihop Optical Networks},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {938-949},
+}
+
+@inproceedings{DBLP:conf/ipps/ZhangQ99,
+  author    = {Xijun Zhang and
+               Chunming Qiao},
+  title     = {Pipelined Versus {Non-Pipelined} Scheduling in Undirectional {WDM} Rings},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {950-963},
+}
+
+@inproceedings{DBLP:conf/ipps/HeberBG99,
+  author    = {Gerd Heber and
+               Rupak Biswas and
+               Guang R. Gao},
+  title     = {{Self-Avoiding} Walks over Adaptive Unstructured Grids},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {968-977},
+}
+
+@inproceedings{DBLP:conf/ipps/HolzrichterO99,
+  author    = {Michael Holzrichter and
+               Suely Oliveira},
+  title     = {A Graph Based Method for Generating the Fiedler Vector of Irregular Problems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {978-985},
+}
+
+@inproceedings{DBLP:conf/ipps/PellegriniRA99,
+  author    = {François Pellegrini and
+               Jean Roman and
+               Patrick Amestoy},
+  title     = {Hybridizing Nested Dissection and Halo Approximate Minimum Degree for Efficient Sparse Matrix Ordering},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {986-995},
+}
+
+@inproceedings{DBLP:conf/ipps/ChenT99,
+  author    = {Jian Chen and
+               Valerie E. Taylor},
+  title     = {ParaPART: Parallel Mesh Partitioning Tool for Distributed Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {996-1005},
+}
+
+@inproceedings{DBLP:conf/ipps/VoisinP99,
+  author    = {Frédérique Voisin and
+               Guy-René Perrin},
+  title     = {Sparse Computations with {PEI}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1006-1014},
+}
+
+@inproceedings{DBLP:conf/ipps/Benkner99,
+  author    = {Siegfried Benkner},
+  title     = {Optimizing Irregular {HPF} Applications using Halos},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1015-1024},
+}
+
+@inproceedings{DBLP:conf/ipps/Gao99,
+  author    = {Guang R. Gao},
+  title     = {From {EARTH} to HTMT: An Evolution of a Multiheaded Architecture Model},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1025},
+}
+
+@inproceedings{DBLP:conf/ipps/BlountCP99,
+  author    = {Brian Blount and
+               Siddhartha Chatterjee and
+               Michael Philippsen},
+  title     = {Irregular Parallel Algorithms in {JAVA}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1026-1035},
+}
+
+@inproceedings{DBLP:conf/ipps/LinP99,
+  author    = {Yuan Lin and
+               David A. Padua},
+  title     = {A Simple Framework to Calculate the Reaching Definition of Array References and its Use in Subscript Array Analysis},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1036-1045},
+}
+
+@inproceedings{DBLP:conf/ipps/EveraarsKA99,
+  author    = {C. T. H. Everaars and
+               Barry Koren and
+               Farhad Arbab},
+  title     = {Dynamic Process Composition and Communication Patterns in Irregularly Structured Applications},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1046-1054},
+}
+
+@inproceedings{DBLP:conf/ipps/RhodesG99,
+  author    = {David L. Rhodes and
+               Apostolos Gerasoulis},
+  title     = {Scalable Parallelization of Harmonic Balance Simulation},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1055-1064},
+}
+
+@inproceedings{DBLP:conf/ipps/BoeresNR99,
+  author    = {Cristina Boeres and
+               Aline de P. Nascimento and
+               Vinod E. F. Rebello},
+  title     = {Towards an Effective Task Clustering Heuristic for {LogP} Machines},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1065-1074},
+}
+
+@inproceedings{DBLP:conf/ipps/MongelliS99,
+  author    = {Henrique Mongelli and
+               Siang W. Song},
+  title     = {A Range Minima Parallel Algorithm for Coarse Grained Multicomputers},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1075-1084},
+}
+
+@inproceedings{DBLP:conf/ipps/HerleyPP99,
+  author    = {Kieran T. Herley and
+               Andrea Pietracaprina and
+               Geppino Pucci},
+  title     = {Deterministic {Branch-and-Bound} on Distributed Memory Machines},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1085-1094},
+}
+
+@inproceedings{DBLP:conf/ipps/DonaldsonHS99,
+  author    = {Stephen R. Donaldson and
+               Jonathan M. D. Hill and
+               David B. Skillicorn},
+  title     = {Performance Results for a Reliable {Low-Latency} Cluster Communication Protocol},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1097-1114},
+}
+
+@inproceedings{DBLP:conf/ipps/Karl99,
+  author    = {Holger Karl},
+  title     = {Coscheduling through Synchronized Scheduling Servers - A Prototype and Experiments},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1115-1129},
+}
+
+@inproceedings{DBLP:conf/ipps/AnglanoGB99,
+  author    = {Cosimo Anglano and
+               Attilio Giordana and
+               Giuseppe Lo Bello},
+  title     = {{High-Performance} Knowledge Extraction from Data on {PC-Based} Networks of Workstations},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1130-1144},
+}
+
+@inproceedings{DBLP:conf/ipps/RajsekaranCW99,
+  author    = {Umesh Kumar V. Rajasekaran and
+               Malolan Chetlur and
+               Philip A. Wilsey},
+  title     = {Adressing Comminication Latency Issues on Clusters for Fine Grained Asynchronous Applications - A Case Study},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1145-1162},
+}
+
+@inproceedings{DBLP:conf/ipps/ConteMPRV99,
+  author    = {Gianni Conte and
+               Michele Mazzeo and
+               Agostino Poggi and
+               Pietro Rossi and
+               Michele Vignali},
+  title     = {Low Cost Databases for {NOW}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1163-1177},
+}
+
+@inproceedings{DBLP:conf/ipps/TakahashiOTHSHIB99,
+  author    = {Toshiyuki Takahashi and
+               Francis O'Carroll and
+               Hiroshi Tezuka and
+               Atsushi Hori and
+               Shinji Sumimoto and
+               Hiroshi Harada and
+               Yutaka Ishikawa and
+               Peter H. Beckman},
+  title     = {Implementation and Evaluation of {MPI} on an {SMP} Cluster},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1178-1192},
+}
+
+@inproceedings{DBLP:conf/ipps/AttaliCL99,
+  author    = {Isabelle Attali and
+               Denis Caromel and
+               Sylvain Lippi},
+  title     = {From a Specification to an Equivalence Proof in {Object-Oriented} Parallelism},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1197-1214},
+}
+
+@inproceedings{DBLP:conf/ipps/CharpentierC99,
+  author    = {Michel Charpentier and
+               K. Mani Chandy},
+  title     = {Examples of Program Composition Illustrating the Use of Universal Properties},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1215-1227},
+}
+
+@inproceedings{DBLP:conf/ipps/ChernyakhovskyFRWAC99,
+  author    = {Victoria Chernyakhovsky and
+               Peter Frey and
+               Radharamanan Radhakrishnan and
+               Philip A. Wilsey and
+               Perry Alexander and
+               Harold W. Carter},
+  title     = {A Formal Framework for Specifying and Verifying Time Warp Optimizations},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1228-1242},
+}
+
+@inproceedings{DBLP:conf/ipps/CreeseR99,
+  author    = {S. J. Creese and
+               Joy N. Reed},
+  title     = {Verifying {End-to-End} Protocols using Induction with CSP/{FDR}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1243-1257},
+}
+
+@inproceedings{DBLP:conf/ipps/Havelund99,
+  author    = {Klaus Havelund},
+  title     = {Mechanical Verification of a Garbage Collector},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1258-1283},
+}
+
+@inproceedings{DBLP:conf/ipps/Massingill99,
+  author    = {Berna L. Massingill},
+  title     = {A Structured Approach to Parallel Programming: Methodology and Models},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1284-1298},
+}
+
+@inproceedings{DBLP:conf/ipps/SimpsonHD99,
+  author    = {Andrew C. Simpson and
+               Jonathan M. D. Hill and
+               Stephen R. Donaldson},
+  title     = {{BSP} in CSP: Easy as {ABC}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1299-1313},
+}
+
+@inproceedings{DBLP:conf/ipps/WelchMMMIWS99,
+  author    = {Lonnie R. Welch and
+               Michael W. Masters and
+               Leslie A. Madden and
+               David T. Marlow and
+               Philip M. Irey IV and
+               Paul V. Werme and
+               Behrooz Shirazi},
+  title     = {A Distributed System Reference Architecture for Adaptive {QoS} and Resource Management},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1316-1326},
+}
+
+@inproceedings{DBLP:conf/ipps/RussJKH99,
+  author    = {Samuel H. Russ and
+               Rashid Jean-Baptiste and
+               Tangirala Shailendra Krishna Kumar and
+               Marion G. Harmon},
+  title     = {Transparent {Real-Time} Monitoring in {MPI}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1327-1334},
+}
+
+@inproceedings{DBLP:conf/ipps/ShiraziWRCYBH99,
+  author    = {Behrooz Shirazi and
+               Lonnie R. Welch and
+               Binoy Ravindran and
+               Charles Cavanaugh and
+               Barath Yanamula and
+               Russ Brucks and
+               Eui-nam Huh},
+  title     = {DynBench: A Dynamic Benchmark Suite for Distributed {Real-Time} Systems},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1335-1349},
+}
+
+@inproceedings{DBLP:conf/ipps/VoorstJPPNC99,
+  author    = {Brian Van Voorst and
+               Rakesh Jha and
+               Subburajan Ponnuswamy and
+               Luiz Pires and
+               Chirag Nanvati and
+               David A. Castañon},
+  title     = {Reflections in the Creation of a {Real-Time} Parallel Benchmark Suite},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1350-1360},
+}
+
+@inproceedings{DBLP:conf/ipps/FrohlichS99,
+  author    = {Antônio Augusto Fröhlich and
+               Wolfgang Schröder-Preikschat},
+  title     = {{Tailor-Made} Operating Systems for Embedded Parallel Applications},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1361-1373},
+}
+
+@inproceedings{DBLP:conf/ipps/Jonsson99,
+  author    = {Magnus Jonsson},
+  title     = {{Fiber-Optic} Interconnection Networks for Signal Processing Applications},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1374-1385},
+}
+
+@inproceedings{DBLP:conf/ipps/DavisBWD99,
+  author    = {Emmett Davis and
+               Bonnie Holte Bennett and
+               Bill Wren and
+               Linda Davis},
+  title     = {Reconfigurable Parallel Sorting and Load Balancing: {HeteroSort}},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1386-1406},
+}
+
+@inproceedings{DBLP:conf/ipps/BertozziBFT99,
+  author    = {Massimo Bertozzi and
+               Alberto Broggi and
+               Alessandra Fascioli and
+               Stefano Tommesani},
+  title     = {Addressing {Real-Time} Requirements of Automatic Vehicle Guidance with {MMX} Technology},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1407-1417},
+}
+
+@inproceedings{DBLP:conf/ipps/BennettH99,
+  author    = {Bonnie Holte Bennett and
+               George D. Hadden},
+  title     = {{Condition-Based} Maintenance: Algorithms and Applications for Embedded High Performance Computing},
+  booktitle = ipps,
+  year      = 1999,
+  pages     = {1418-1438},
+}
+
+@inproceedings{DBLP:conf/ipps/GhareL98,
+  author    = {Gautam Ghare and
+               Soo-Young Lee},
+  title     = {Dynamic Reconfiguration of a {PMMLA} for {High-Throughput} Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/ipps/TsayW98,
+  author    = {Jyh-Jong Tsay and
+               Wen-Tsong Wang},
+  title     = {Nearly Optimal Algorithms for Broadcast on {d-Dimensional} {All-Port} and {Wormhole-Routed} Torus},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {2-9},
+}
+
+@inproceedings{DBLP:conf/ipps/FornaciariP98,
+  author    = {William Fornaciari and
+               Vincenzo Piuri},
+  title     = {Virtual FPGAs: Some Steps Behind the Physical Barriers},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/ipps/CangW98,
+  author    = {Songluan Cang and
+               Jie Wu},
+  title     = {Minimizing Total Communication Distance of {Time-Step} Optimal Broadcast in Mesh Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {10-17},
+}
+
+@inproceedings{DBLP:conf/ipps/BagliettoMM98,
+  author    = {Pierpaolo Baglietto and
+               Massimo Maresca and
+               Mauro Migliardi},
+  title     = {A Parallel Algorithm for Minimum Cost Path Computation on Polymorphic Processor Array},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/ipps/GargS98,
+  author    = {Vivek Garg and
+               David E. Schimmel},
+  title     = {Hiding Communication Latency in Data Parallel Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {18-23},
+}
+
+@inproceedings{DBLP:conf/ipps/WalrathV98,
+  author    = {Jeffrey Walrath and
+               Ranga Vemuri},
+  title     = {A Performance Modeling and Analysis Environment for Reconfigurable Computers},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/ipps/Demaine98,
+  author    = {Erik D. Demaine},
+  title     = {Protocols for {Non-Deterministic} Communication over Synchronous Channels},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {24-30},
+}
+
+@inproceedings{DBLP:conf/ipps/BrebnerD98,
+  author    = {Gordon J. Brebner and
+               Adam Donlin},
+  title     = {Runtime Reconfigurable Routing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/ipps/NakanoOS98,
+  author    = {Koji Nakano and
+               Stephan Olariu and
+               James L. Schwing},
+  title     = {{Broadcast-Efficient} Algorithms on the {Coarse-Grain} Broadcast Communication Model with Few Channels},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {31-35},
+}
+
+@inproceedings{DBLP:conf/ipps/OuaissGSKV98,
+  author    = {Iyad Ouaiss and
+               Sriram Govindarajan and
+               Vinoo Srinivasan and
+               Meenakshi Kaul and
+               Ranga Vemuri},
+  title     = {An Integrated Partitioning and Synthesis System for Dynamically Reconfigurable {Multi-FPGA} Architectures},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/ipps/Hu98,
+  author    = {Y. Charlie Hu},
+  title     = {Optimal {All-to-Some} Personalized Communication on Hypercubes},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {36-40},
+}
+
+@inproceedings{DBLP:conf/ipps/SpillaneO98,
+  author    = {John Spillane and
+               Henry L. Owen},
+  title     = {Temporal Partitioning for {Partially-Reconfigurable-Field-Programmable} Gate},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/ipps/LuM98,
+  author    = {Bo Lu and
+               John M. Mellor-Crummey},
+  title     = {{Compiler-Optimization} of Implicit Reductions for Distributed Memory Multiprocessors},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {42-51},
+}
+
+@inproceedings{DBLP:conf/ipps/DavisBBEHMS98,
+  author    = {Don Davis and
+               Michael Barr and
+               Toby Bennett and
+               Stephen Edwards and
+               Jonathan Harris and
+               Ian Miller and
+               Chris Schanck},
+  title     = {A Java Development and Runtime Environment for Reconfigurable Computing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/ipps/RathL98,
+  author    = {Kamlesh Rath and
+               Jian Li},
+  title     = {Synthesizing Reconfigurable Sequential Machines Using Tabular Models},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/ipps/BanderoTZ98,
+  author    = {Gerardo Bandera and
+               Pablo P. Trabado and
+               Emilio L. Zapata},
+  title     = {Local Enumeration Techniques for Sparse Algorithms},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {52-56},
+}
+
+@inproceedings{DBLP:conf/ipps/AbnousSIWR98,
+  author    = {Arthur Abnous and
+               Katsunori Seno and
+               Yuji Ichikawa and
+               Marlene Wan and
+               Jan M. Rabaey},
+  title     = {Evaluation of a {Low-Power} Reconfigurable {DSP} Architecture},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/ipps/TianSCK98,
+  author    = {Yi Tian and
+               Edwin Hsing-Mean Sha and
+               Chantana Chantrapornchai and
+               Peter M. Kogge},
+  title     = {Optimizing Data Scheduling on {Processor-in-Memory} Arrays},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {57-61},
+}
+
+@inproceedings{DBLP:conf/ipps/KirschbaumBG98,
+  author    = {Andreas Kirschbaum and
+               Jürgen Becker and
+               Manfred Glesner},
+  title     = {A Reconfigurable {Hardware-Monitor} for Communication Analysis in Distributed {Real-Time} Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {61-66},
+}
+
+@inproceedings{DBLP:conf/ipps/HwangL98,
+  author    = {Gwan-Hwan Hwang and
+               Jenq Kuen Lee},
+  title     = {An {Expression-Rewriting} Framework to Generic Communication Sets for {HPF} Programs with {Block-Cyclic} Distribution},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {62-68},
+}
+
+@inproceedings{DBLP:conf/ipps/HartensteinHHN98,
+  author    = {Reiner W. Hartenstein and
+               Michael Herz and
+               Thomas Hoffmann and
+               Ulrich Nageldinger},
+  title     = {On Reconfigurable Co-processing Units},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {67-72},
+}
+
+@inproceedings{DBLP:conf/ipps/KandemirBCRS98,
+  author    = {Mahmut T. Kandemir and
+               Prithviraj Banerjee and
+               Alok N. Choudhary and
+               J. Ramanujam and
+               U. Nagaraj Shenoy},
+  title     = {A Generalized Framework for Global Communication Optimization},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {69-73},
+}
+
+@inproceedings{DBLP:conf/ipps/ScaleraML98,
+  author    = {Stephen M. Scalera and
+               John J. Murray and
+               Steve Lease},
+  title     = {A Mathematical Benefit Analysis of Context Switching Reconfigurable Computing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {73-78},
+}
+
+@inproceedings{DBLP:conf/ipps/ChakrabartiBL98,
+  author    = {Dhruva R. Chakrabarti and
+               Prithviraj Banerjee and
+               Antonio Lain},
+  title     = {Evaluation of Compiler and Runtime Library Approaches for Supporting Parallel Regular Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {74-79},
+}
+
+@inproceedings{DBLP:conf/ipps/PudipeddiAA98,
+  author    = {Bharadwaj Pudipeddi and
+               A. Lynn Abbott and
+               Peter M. Athanas},
+  title     = {A Configurable Computing Approach Towards {Real-Time} Target Tracking},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {79-84},
+}
+
+@inproceedings{DBLP:conf/ipps/QuinnMSZ98,
+  author    = {Michael J. Quinn and
+               Alexey G. Malishevsky and
+               Nagajagadeswar Seelam and
+               Yan Zhao},
+  title     = {Preliminary Results from a Parallel {MATLAB} Compiler},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {81-87},
+}
+
+@inproceedings{DBLP:conf/ipps/ShibataMLA98,
+  author    = {Yuichiro Shibata and
+               Hidenori Miyazaki and
+               Xiao-ping Ling and
+               Hideharu Amano},
+  title     = {HOSMII: A Virtual Hardware Integrated with {DRAM}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {85-90},
+}
+
+@inproceedings{DBLP:conf/ipps/RoyoGV98,
+  author    = {Dolors Royo and
+               Antonio González and
+               Miguel Valero-García},
+  title     = {Jacobi Orderings for {Multi-Port} Hypercubes},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {88-97},
+}
+
+@inproceedings{DBLP:conf/ipps/BeuchatHS98,
+  author    = {Jean-Luc Beuchat and
+               Jacques-Olivier Haenni and
+               Eduardo Sanchez},
+  title     = {Hardware Reconfigurable Neural Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {91-98},
+}
+
+@inproceedings{DBLP:conf/ipps/HovlandB98,
+  author    = {Paul D. Hovland and
+               Christian H. Bischof},
+  title     = {Automatic Differentiation for {Message-Passing} Parallel Programs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {98-104},
+}
+
+@inproceedings{DBLP:conf/ipps/SteckelMES98,
+  author    = {Carsten Steckel and
+               Martin Middendorf and
+               Hossam A. ElGindy and
+               Hartmut Schmeck},
+  title     = {A Simulator for the Reconfigurable Mesh Architecture},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {99-104},
+}
+
+@inproceedings{DBLP:conf/ipps/CappelloE98,
+  author    = {Peter R. Cappello and
+               Ömer Egecioglu},
+  title     = {Processor Lower Bound Formulas for Array Computations and Parametric Diophantine Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {105-109},
+}
+
+@inproceedings{DBLP:conf/ipps/KollaS98,
+  author    = {Reiner Kolla and
+               Oliver Springauf},
+  title     = {PACE: Processor Architectures for Circuit Emulation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {105-110},
+}
+
+@inproceedings{DBLP:conf/ipps/GunnelsLMG98,
+  author    = {John A. Gunnels and
+               Calvin Lin and
+               Greg Morrow and
+               Robert A. van de Geijn},
+  title     = {A Flexible Class of Parallel Matrix Multiplication Algorithms},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {110-116},
+}
+
+@inproceedings{DBLP:conf/ipps/KaleBBY98,
+  author    = {Laxmikant V. Kalé and
+               Milind A. Bhandarkar and
+               Robert Brunner and
+               Josh Yelon},
+  title     = {Multiparadigm, Multilingual Interoperability: Experience with Converse},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {111-122},
+}
+
+@inproceedings{DBLP:conf/ipps/SulatyckeG98,
+  author    = {Peter Sulatycke and
+               Kanad Ghose},
+  title     = {{Caching-Efficient} Multithreaded Fast Multiplication of Sparse Matrices},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {117-123},
+}
+
+@inproceedings{DBLP:conf/ipps/LimLCHHT98,
+  author    = {Chu-Cheow Lim and
+               Yoke-Hean Low and
+               Wentong Cai and
+               Wen-Jing Hsu and
+               Shell-Ying Huang and
+               Stephen John Turner},
+  title     = {An Empirical Comparison of Runtime Systems for Conservative Parallel Simulation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {123-134},
+}
+
+@inproceedings{DBLP:conf/ipps/YangWP98,
+  author    = {Yuanyuan Yang and
+               Jianchao Wang and
+               Yi Pan},
+  title     = {Permutation Capability of Optical Multistage Interconnect Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {125-133},
+}
+
+@inproceedings{DBLP:conf/ipps/SivaramSP98,
+  author    = {Rajeev Sivaram and
+               Craig B. Stunkel and
+               Dhabaleswar K. Panda},
+  title     = {HIPIQS: A {High-Performance} Switch Architecture Using Input Queuing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {134-143},
+}
+
+@inproceedings{DBLP:conf/ipps/RuhlB98,
+  author    = {Tim Rühl and
+               Henri E. Bal},
+  title     = {Synchronizing Operations on Multiple Objects},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {135-146},
+}
+
+@inproceedings{DBLP:conf/ipps/BornsteinLMSY98,
+  author    = {Claudson F. Bornstein and
+               Ami Litman and
+               Bruce M. Maggs and
+               Ramesh K. Sitaraman and
+               Tal Yatzkar},
+  title     = {On the Bisection Width and Expansion of Butterfly Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {144-150},
+}
+
+@inproceedings{DBLP:conf/ipps/NibhanupudiS98,
+  author    = {Mohan V. Nibhanupudi and
+               Boleslaw K. Szymanski},
+  title     = {Runtime Support for Virtual {BSP} Computer},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {147-158},
+}
+
+@inproceedings{DBLP:conf/ipps/CoudertFM98,
+  author    = {David Coudert and
+               Afonso Ferreira and
+               Xavier Muñoz},
+  title     = {Multiprocessor Architectures Using {Multi-Hop} {Multi-OPS} Lightwave Networks and Distributed Control},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {151-155},
+}
+
+@inproceedings{DBLP:conf/ipps/SalisburyM98,
+  author    = {Charles A. Salisbury and
+               Rami G. Melhem},
+  title     = {Distributed Dynamic Control of {Circuit-Switched} Banyan Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {156-161},
+}
+
+@inproceedings{DBLP:conf/ipps/PetriBL98,
+  author    = {Stefan Petri and
+               Matthias Bolz and
+               Horst Langendörfer},
+  title     = {Migration and Rollback Transparency for Arbitrary Distributed Applications in Workstation Clusters},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {159-170},
+}
+
+@inproceedings{DBLP:conf/ipps/HoareD98,
+  author    = {Raymond Hoare and
+               Henry G. Dietz},
+  title     = {A Case for Aggregate Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {162-166},
+}
+
+@inproceedings{DBLP:conf/ipps/GovindarajanRAG98,
+  author    = {Ramaswamy Govindarajan and
+               N. S. S. Narasimha Rao and
+               Erik R. Altman and
+               Guang R. Gao},
+  title     = {An Enhanced {Co-Scheduling} Method Using Reduced {MS-State} Diagrams},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {168-175},
+}
+
+@inproceedings{DBLP:conf/ipps/TangmunarunkitS98,
+  author    = {Hongsuda Tangmunarunkit and
+               Peter Steenkiste},
+  title     = {{Network-Aware} Distributed Computing: A Case Study},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {171-182},
+}
+
+@inproceedings{DBLP:conf/ipps/MilicevJ98,
+  author    = {Dragan Milicev and
+               Zoran Jovanovic},
+  title     = {Predicated Software Pipelining Technique for Loops with Conditions},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {176-180},
+}
+
+@inproceedings{DBLP:conf/ipps/ChangCW98,
+  author    = {Weng-Long Chang and
+               Chih-Ping Chu and
+               Jesse Wu},
+  title     = {The Generalized Lambda Test},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {181-186},
+}
+
+@inproceedings{DBLP:conf/ipps/NikolopoulosPP98,
+  author    = {Dimitrios S. Nikolopoulos and
+               Eleftherios D. Polychronopoulos and
+               Theodore S. Papatheodorou},
+  title     = {Efficient Runtime Thread Management for the {Nano-Threads} Programming Model},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {183-194},
+}
+
+@inproceedings{DBLP:conf/ipps/PaekP98,
+  author    = {Yunheung Paek and
+               David A. Padua},
+  title     = {Experimental Study of Compiler Techniques for {NUMA} Machines},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {187-193},
+}
+
+@inproceedings{DBLP:conf/ipps/DaniRG98,
+  author    = {Amod K. Dani and
+               V. Janaki Ramanan and
+               Ramaswamy Govindarajan},
+  title     = {{Register-Sensitive} Software Pipelining},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {194-198},
+}
+
+@inproceedings{DBLP:conf/ipps/Nolte98,
+  author    = {Jörg Nolte},
+  title     = {A Topology Based Approach to Coordinated Multicast Operations},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {195-206},
+}
+
+@inproceedings{DBLP:conf/ipps/SrinivasN98,
+  author    = {M. Srinivas and
+               Alexandru Nicolau},
+  title     = {Analyzing the Individual/Combined Effects of Speculative and Guarded Execution on a Superscalar Architecture},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {199-208},
+}
+
+@inproceedings{DBLP:conf/ipps/Fernandez-VillacanasFA98,
+  author    = {José Luis Fernández-Villacañas Martín and
+               J. M. Fatah and
+               S. Amin},
+  title     = {Computing with Evolving Proteins},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {207-215},
+}
+
+@inproceedings{DBLP:conf/ipps/MunzSMLBZNBS98,
+  author    = {Frank Munz and
+               T. Stephan and
+               Ursula Maier and
+               Thomas Ludwig and
+               Arndt Bode and
+               Sibylle Ziegler and
+               Stephan G. Nekolla and
+               P. Bartenstein and
+               Markus Schwaiger},
+  title     = {{NOW} Parallel Reconstruction of Functional Images},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {210-214},
+}
+
+@inproceedings{DBLP:conf/ipps/GuptaS98,
+  author    = {Neelima Gupta and
+               Sandeep Sen},
+  title     = {An Improved {Output-Size} Sensitive Parallel Algorithm for {Hidden-Surface} Removal for Terrains},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {215-219},
+}
+
+@inproceedings{DBLP:conf/ipps/OchiVDV98,
+  author    = {Luiz Satoru Ochi and
+               Dalessandro Soares Vianna and
+               Lúcia Maria de A. Drummond and
+               André O. Victor},
+  title     = {A Parallel Evolutionary Algorithm for the Vehicle Routing Problem with Heterogeneous Fleet},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {216-224},
+}
+
+@inproceedings{DBLP:conf/ipps/ChoudharyLWVLL98,
+  author    = {Alok N. Choudhary and
+               Wei-keng Liao and
+               Donald Weiner and
+               Pramod K. Varshney and
+               Richard W. Linderman and
+               Mark H. Linderman},
+  title     = {Design, Implementation and Evaluation of Parallel Pipelined {STAP} on Parallel Computers},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {220-225},
+}
+
+@inproceedings{DBLP:conf/ipps/Leopold98,
+  author    = {Claudia Leopold},
+  title     = {Locality Optimization for Program Instances},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {225-233},
+}
+
+@inproceedings{DBLP:conf/ipps/TavenikuAJS98,
+  author    = {Mikael Taveniku and
+               Anders Ahlander and
+               Magnus Jonsson and
+               Bertil Svensson},
+  title     = {The {VEGA} Moderately Parallel MIMD, Moderately Parallel SIMD, Architectures for High Performance Array Signal Processing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {226-232},
+}
+
+@inproceedings{DBLP:conf/ipps/GiessMEM98,
+  author    = {Christoph Giess and
+               Achim Mayer and
+               Harald Evers and
+               Hans-Peter Meinzer},
+  title     = {Medical Image Processing and Visualization on Heterogeneous Clusters of Symmetric Multiprocessors Using {MPI} and {POSIX} Threads},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {233-237},
+}
+
+@inproceedings{DBLP:conf/ipps/JenqL98,
+  author    = {Jing-Fu Fu Jenq and
+               Wing Ning Li},
+  title     = {Artificial Neural Networks on Reconfigurable Meshes},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {234-242},
+}
+
+@inproceedings{DBLP:conf/ipps/SernecZT98,
+  author    = {R. Sernec and
+               M. Zajc and
+               Jurij F. Tasic},
+  title     = {A Quantitative Code Analysis of Scientific Systolic Programs: {DSP} vs. Matrix Algorithms},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {238-242},
+}
+
+@inproceedings{DBLP:conf/ipps/Szuba98,
+  author    = {Tadeusz Szuba},
+  title     = {A Molecular {Quasi-Random} Model of Computations Applied to Evaluate Collective Intelligence},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {243-251},
+}
+
+@inproceedings{DBLP:conf/ipps/Libeskind-HadasMR98,
+  author    = {Ran Libeskind-Hadas and
+               Dominic Mazzoni and
+               Ranjith Rajagopalan},
+  title     = {{Tree-Based} Multicasting in {Wormhole-Routed} Irregular Topologies},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {244-249},
+}
+
+@inproceedings{DBLP:conf/ipps/HopfnerFF98,
+  author    = {Thomas Hopfner and
+               Franz Fischer and
+               Georg Färber},
+  title     = {NoWait-RPC: Extending {ONC} {RPC} to a Fully Compatible Message Passing System},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {250-254},
+}
+
+@inproceedings{DBLP:conf/ipps/HeHS98,
+  author    = {Xiangjian He and
+               Tom Hintz and
+               Ury Szewcow},
+  title     = {Replicated Shared Object Model for Edge Detection with Spiral Architecture},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {252-260},
+}
+
+@inproceedings{DBLP:conf/ipps/KimHJ98,
+  author    = {Jin-Soo Kim and
+               Soonhoi Ha and
+               Chu Shik Jhon},
+  title     = {Efficient Barrier Synchronization Mechanism for {BSP} Model on Message Passing Architectures},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {255-259},
+}
+
+@inproceedings{DBLP:conf/ipps/ShahNMKHGGDB98,
+  author    = {Gautam Shah and
+               Jarek Nieplocha and
+               Jamshed H. Mirza and
+               Chulho Kim and
+               Robert J. Harrison and
+               Rama Govindaraju and
+               Kevin J. Gildea and
+               Paul DiNicola and
+               Carl A. Bender},
+  title     = {Performance and Experience with {LAPI} - a New {High-Performance} Communication Library for the {IBM} RS/6000 {SP}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {260-266},
+}
+
+@inproceedings{DBLP:conf/ipps/Seredynski98,
+  author    = {Franciszek Seredynski},
+  title     = {Scheduling Tasks of a Parallel Program in {Two-Processor} Systems with Use of Cellular Automata},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {261-269},
+}
+
+@inproceedings{DBLP:conf/ipps/Petrini98,
+  author    = {Fabrizio Petrini},
+  title     = {Total Exchange on k-ary n-cubes with Adaptive Routing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {267-271},
+}
+
+@inproceedings{DBLP:conf/ipps/ElradL98,
+  author    = {Tzilla Elrad and
+               Jinlong Lin},
+  title     = {Evolving Processes and Evolution Schedulers for Concurrent Scheduling Controls and Parallel Evolutionary Computation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {270-278},
+}
+
+@inproceedings{DBLP:conf/ipps/LumettaC98,
+  author    = {Steven Lumetta and
+               David E. Culler},
+  title     = {Managing Concurrent Access for Shared Memory Active Messages},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {272-278},
+}
+
+@inproceedings{DBLP:conf/ipps/Nossal98,
+  author    = {Roman Nossal},
+  title     = {An Evolutionary Approach to Multiprocessor Scheduling of Dependent Tasks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {279-287},
+}
+
+@inproceedings{DBLP:conf/ipps/NoPCCC98,
+  author    = {Jaechun No and
+               Sung-Soon Park and
+               Jesús Carretero and
+               Alok N. Choudhary and
+               Pang Chen},
+  title     = {Design and Implementation of a Parallel I/O Runtime System for Irregular Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {280-284},
+}
+
+@inproceedings{DBLP:conf/ipps/ParsonsSSU98,
+  author    = {Ian Parsons and
+               Jonathan Schaeffer and
+               Duane Szafron and
+               Ronald C. Unrau},
+  title     = {Using PI/{OT} to Support Complex Parallel I/O},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {285-291},
+}
+
+@inproceedings{DBLP:conf/ipps/SallehZ98,
+  author    = {Shaharuddin Salleh and
+               Albert Y. Zomaya},
+  title     = {Multiprocessor Scheduling Using {Mean-Field} Annealing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {288-296},
+}
+
+@inproceedings{DBLP:conf/ipps/KulkarniCM98,
+  author    = {Chidamber Kulkarni and
+               Francky Catthoor and
+               Hugo De Man},
+  title     = {Code Transformations for Low Power Caching in Embedded Multimedia Processors},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {292-297},
+}
+
+@inproceedings{DBLP:conf/ipps/RogersS98,
+  author    = {R. O. Rogers and
+               David B. Skillicorn},
+  title     = {Using the {BSP} Cost Model to Optimise Parallel Neural Network Training},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {297-305},
+}
+
+@inproceedings{DBLP:conf/ipps/Al-FuraihR98,
+  author    = {Ibraheem Al-Furaih and
+               Sanjay Ranka},
+  title     = {Memory Hierarchy Management for Iterative Graph Structures},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {298-302},
+}
+
+@inproceedings{DBLP:conf/ipps/LeeKRM98,
+  author    = {Jang Sun Lee and
+               Sung Hoon Ko and
+               Sanjay Ranka and
+               Byung Eui Min},
+  title     = {{High-Performance} External Computations Using {User-Controllable} I/O},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {303-307},
+}
+
+@inproceedings{DBLP:conf/ipps/TalbiGHK98,
+  author    = {El-Ghazali Talbi and
+               Jean-Marc Geib and
+               Z. Hafidi and
+               Djemai Kebbal},
+  title     = {A {Fault-Tolerant} Parallel Heuristic for Assignment Problems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {306-314},
+}
+
+@inproceedings{DBLP:conf/ipps/TezukaOHI98,
+  author    = {Hiroshi Tezuka and
+               Francis O'Carroll and
+               Atsushi Hori and
+               Yutaka Ishikawa},
+  title     = {{Pin-Down} Cache: A Virtual Memory Management Technique for {Zero-Copy} Communication},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {308-314},
+}
+
+@inproceedings{DBLP:conf/ipps/GilODM98,
+  author    = {Consolación Gil and
+               Julio Ortega and
+               Antonio F. Díaz and
+               Maria Dolores Gil Montoya},
+  title     = {Meta-heuristics for Circuit Partitioning in Parallel Test Generation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {315-323},
+}
+
+@inproceedings{DBLP:conf/ipps/MegsonB98,
+  author    = {Graham M. Megson and
+               I. M. Bland},
+  title     = {Synthesis of a Systolic Array Genetic Algorithm},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {316-320},
+}
+
+@inproceedings{DBLP:conf/ipps/BaeKR98,
+  author    = {Seungjo Bae and
+               Dongmin Kim and
+               Sanjay Ranka},
+  title     = {Vector Prefix and Reduction Computation on Coarse-Grained, {Distributed-Memory} Parallel Machines},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {321-325},
+}
+
+@inproceedings{DBLP:conf/ipps/Krizanc98,
+  author    = {Danny Krizanc},
+  title     = {A Survey of Randomness and Parallelism in Comparison Problems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {324-329},
+}
+
+@inproceedings{DBLP:conf/ipps/ShinanoFIH98,
+  author    = {Yuji Shinano and
+               Tetsuya Fujie and
+               Yoshiko Ikebe and
+               Ryuichi Hirabayashi},
+  title     = {Solving the Maximum Clique Problem Using {PUBB}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {326-332},
+}
+
+@inproceedings{DBLP:conf/ipps/HsuKLM98,
+  author    = {David Hsu and
+               Lydia E. Kavraki and
+               Jean-Claude Latombe and
+               Rajeev Motwani},
+  title     = {Capturing the Connectivity of {High-Dimensional} Geometric Spaces by Parallelizable Random Sampling Techniques},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {330-340},
+}
+
+@inproceedings{DBLP:conf/ipps/LinNOPSZ98,
+  author    = {Rong Lin and
+               Koji Nakano and
+               Stephan Olariu and
+               Maria Cristina Pinotti and
+               James L. Schwing and
+               Albert Y. Zomaya},
+  title     = {A Scalable {VLSI} Architecture for Binary Prefix Sums},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {333-337},
+}
+
+@inproceedings{DBLP:conf/ipps/Obrenic98,
+  author    = {Bojana Obrenic},
+  title     = {Emulating Direct Products by {Index-Shuffle} Graphs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {338-344},
+}
+
+@inproceedings{DBLP:conf/ipps/CohenRSS98,
+  author    = {Aviad Cohen and
+               Yuri Rabinovich and
+               Assaf Schuster and
+               Hadas Shachnai},
+  title     = {Optimal Bounds on Tail Probabilities - A Simplified Approach},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {341-350},
+}
+
+@inproceedings{DBLP:conf/ipps/WangMSR98,
+  author    = {Lee Wang and
+               Anthony A. Maciejewski and
+               Howard Jay Siegel and
+               Vwani P. Roychowdhury},
+  title     = {A Comparative Study of Five Parallel Genetic Algorithms Using the Traveling Salesman Problem},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {345-349},
+}
+
+@inproceedings{DBLP:conf/ipps/YangW98,
+  author    = {Yuanyuan Yang and
+               Jianchao Wang},
+  title     = {A New {Self-Routing} Multicast Network},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {351-357},
+}
+
+@inproceedings{DBLP:conf/ipps/Raman98,
+  author    = {Rajeev Raman},
+  title     = {Random Sampling Techniques in Parallel Computation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {351-360},
+}
+
+@inproceedings{DBLP:conf/ipps/Libeskind-HadasMR98a,
+  author    = {Ran Libeskind-Hadas and
+               Dominic Mazzoni and
+               Ranjith Rajagopalan},
+  title     = {Optimal {Contention-Free} {Unicast-Based} Multicasting in {Switch-Based} Networks of Workstations},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {358-364},
+}
+
+@inproceedings{DBLP:conf/ipps/Muthukrishnan98,
+  author    = {S. Muthukrishnan},
+  title     = {Randomization in Parallel Stringology},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {361-362},
+}
+
+@inproceedings{DBLP:conf/ipps/Varman98,
+  author    = {Peter J. Varman},
+  title     = {Randomized Parallel Prefetching and Buffer Management},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {363-372},
+}
+
+@inproceedings{DBLP:conf/ipps/LiangS98,
+  author    = {Weifa Liang and
+               Hong Shen},
+  title     = {Multicasting and Broadcasting in Large {WDM} Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {365-369},
+}
+
+@inproceedings{DBLP:conf/ipps/KuW98,
+  author    = {Shan-Chyun Ku and
+               Biing-Feng Wang},
+  title     = {Optimally Locating a Structured Facility of a Specified Length in a Weighted Tree Network},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {370-374},
+}
+
+@inproceedings{DBLP:conf/ipps/Ravikumar98,
+  author    = {Bala Ravikumar},
+  title     = {Parallel Algorithms for Finite Automata Problems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {373},
+}
+
+@inproceedings{DBLP:conf/ipps/Wei98,
+  author    = {David S. L. Wei},
+  title     = {Randomized Routing and {PRAM} Emulation on Parallel Machines},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {374-383},
+}
+
+@inproceedings{DBLP:conf/ipps/Pietracaprina98,
+  author    = {Andrea Pietracaprina},
+  title     = {Deterministic Routing of h-relations on the Multibutterfly},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {375-379},
+}
+
+@inproceedings{DBLP:conf/ipps/BuschM98,
+  author    = {Costas Busch and
+               Marios Mavronicolas},
+  title     = {An Efficient Counting Network},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {380-384},
+}
+
+@inproceedings{DBLP:conf/ipps/Suel98,
+  author    = {Torsten Suel},
+  title     = {On Randomized and Deterministic Schemes for Routing and Sorting on {Fixed-Connection} Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {384-386},
+}
+
+@inproceedings{DBLP:conf/ipps/FernandesLT98,
+  author    = {Marcio Merino Fernandes and
+               Josep Llosa and
+               Nigel P. Topham},
+  title     = {Partitioned Schedules for Clustered {VLIW} Architectures},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {386-391},
+}
+
+@inproceedings{DBLP:conf/ipps/DongarraW98,
+  author    = {Jack Dongarra and
+               Jerzy Wasniewski},
+  title     = {High Performance Linear Algebra Package LAPACK90},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {387-391},
+}
+
+@inproceedings{DBLP:conf/ipps/YueL98,
+  author    = {Kelvin K. Yue and
+               David J. Lilja},
+  title     = {Dynamic Processor Allocation with the Solaris Operating System},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {392-397},
+}
+
+@inproceedings{DBLP:conf/ipps/DessmarkDLW98,
+  author    = {Anders Dessmark and
+               Carsten Dorgerloh and
+               Andrzej Lingas and
+               Juergen Wirtgen},
+  title     = {Ultrafast Randomized Parallel Construction and Approximation Algorithms for Spanning Forests in Dense Graphs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {392-399},
+}
+
+@inproceedings{DBLP:conf/ipps/MishraY98,
+  author    = {Shivakant Mishra and
+               Rongguang Yang},
+  title     = {{Thread-Based} vs {Event-Based} Implementation of a Group Communication Service},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {398-402},
+}
+
+@inproceedings{DBLP:conf/ipps/Ramaswami98,
+  author    = {Suneeta Ramaswami},
+  title     = {Parallel Randomized Techniques for Some Fundamental Geometric Problems: A Survey},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {400-407},
+}
+
+@inproceedings{DBLP:conf/ipps/DandamudiY98,
+  author    = {Sivarama P. Dandamudi and
+               Hai Yu},
+  title     = {Performance Sensitivity of Space Sharing Processor Scheduling in {Distributed-Memory} Multicomputers},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {403-409},
+}
+
+@inproceedings{DBLP:conf/ipps/Narayanan98,
+  author    = {Lata Narayanan},
+  title     = {Randomized Algorithms on the Mesh},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {408-417},
+}
+
+@inproceedings{DBLP:conf/ipps/WeissmanGQH98,
+  author    = {Boris Weissman and
+               Benedict Gomes and
+               Jürgen Quittek and
+               Michael Holtkamp},
+  title     = {Efficient {Fine-Grain} Thread Migration with Active Threads},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {410-414},
+}
+
+@inproceedings{DBLP:conf/ipps/SenarRCL98,
+  author    = {Miquel A. Senar and
+               Ana Ripoll and
+               Ana Cortés and
+               Emilio Luque},
+  title     = {Clustering and {Reassignment-Based} Mapping Strategy for Message Passing Architectures},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {415-421},
+}
+
+@inproceedings{DBLP:conf/ipps/BumbleC98,
+  author    = {Marc Bumble and
+               Lee D. Coraor},
+  title     = {Implementing Parallelism in Random Discrete {Event-Driven} Simulation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {418-427},
+}
+
+@inproceedings{DBLP:conf/ipps/Li98,
+  author    = {Keqin Li},
+  title     = {Asymptotically Optimal Randomized Tree Embedding in Static Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {423-430},
+}
+
+@inproceedings{DBLP:conf/ipps/SanchezGA98,
+  author    = {José L. Sánchez and
+               José M. García and
+               Francisco José Alfaro},
+  title     = {Reconfigurable Wormhole Networks: A Realistic Approach},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {428-437},
+}
+
+@inproceedings{DBLP:conf/ipps/AlmohammadB98a,
+  author    = {Bader Almohammad and
+               Bella Bose},
+  title     = {Resource Placement in 2D Tori},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {431-438},
+}
+
+@inproceedings{DBLP:conf/ipps/MoukrimQ98,
+  author    = {Aziz Moukrim and
+               Alain Quilliot},
+  title     = {Scheduling with Communication Delays and Data Routing in Message Passing Architectures},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {438-451},
+}
+
+@inproceedings{DBLP:conf/ipps/HayashiNO98,
+  author    = {Tatsuya Hayashi and
+               Koji Nakano and
+               Stephan Olariu},
+  title     = {An O((log log n)2) Time Convex Hull Algorithm on Reconfigurable Meshes},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {439-446},
+}
+
+@inproceedings{DBLP:conf/ipps/AulettaDVPS98,
+  author    = {Vincenzo Auletta and
+               Sajal K. Das and
+               Amelia De Vivo and
+               Maria Cristina Pinotti and
+               Vittorio Scarano},
+  title     = {Toward a Universal Mapping Algorithm for Accessing Trees in Parallel Memory Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {447-454},
+}
+
+@inproceedings{DBLP:conf/ipps/NilsenP98,
+  author    = {Per Kristian Nilsen and
+               Nicolas Prcovic},
+  title     = {Parallel Optimisation in the {SCOOP} Library},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {452-463},
+}
+
+@inproceedings{DBLP:conf/ipps/Zimand98,
+  author    = {Marius Zimand},
+  title     = {Sharing Random Bits with No Process Coordination},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {455-459},
+}
+
+@inproceedings{DBLP:conf/ipps/AzizogluE98,
+  author    = {M. Cemil Azizoglu and
+               Ömer Egecioglu},
+  title     = {Lower Bounds on Communication Loads and Optimal Placements in Torus Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {460-464},
+}
+
+@inproceedings{DBLP:conf/ipps/VenemaSS98,
+  author    = {Sven Venema and
+               Hong Shen and
+               Francis Suraweera},
+  title     = {{NC} Algorithms for the Single Most Vital Edge Problem with Respect to All Pairs Shortest Paths},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {464-471},
+}
+
+@inproceedings{DBLP:conf/ipps/BhuyanWIK98,
+  author    = {Laxmi N. Bhuyan and
+               Hu-Jun Wang and
+               Ravi R. Iyer and
+               Akhilesh Kumar},
+  title     = {Impact of Switch Design on the Application Performance of {Cache-Coherent} Multiprocessors},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {466-474},
+}
+
+@inproceedings{DBLP:conf/ipps/PrylliT98,
+  author    = {Loïc Prylli and
+               Bernard Tourancheau},
+  title     = {BIP: A New Protocol Designed for High Performance Networking on Myrinet},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {472-485},
+}
+
+@inproceedings{DBLP:conf/ipps/ShanS98,
+  author    = {Hongzhang Shan and
+               Jaswinder Pal Singh},
+  title     = {Parallel Tree Building on a Range of Shared Address Space Multiprocessors: Algorithms and Application Performance},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {475-484},
+}
+
+@inproceedings{DBLP:conf/ipps/AbandahD98,
+  author    = {Gheith A. Abandah and
+               Edward S. Davidson},
+  title     = {Configuration Independent Analysis for Characterizing {Shared-Memory} Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {485-491},
+}
+
+@inproceedings{DBLP:conf/ipps/TanakaMAKS98,
+  author    = {Yoshio Tanaka and
+               Motohiko Matsuda and
+               Makoto Ando and
+               Kazuto Kubota and
+               Mitsuhisa Sato},
+  title     = {COMPaS: A Pentium Pro {PC-based} {SMP} Cluster and Its Experience},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {486-497},
+}
+
+@inproceedings{DBLP:conf/ipps/Juurlink98,
+  author    = {Ben H. H. Juurlink},
+  title     = {Experimental Validation of Parallel Computation Models on the Intel Paragon},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {492-497},
+}
+
+@inproceedings{DBLP:conf/ipps/LundbergL98,
+  author    = {Lars Lundberg and
+               Håkan Lennerstad},
+  title     = {Comparing the Optimal Performance of Different {MIMD} Multiprocessor Architectures},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {498-502},
+}
+
+@inproceedings{DBLP:conf/ipps/BlumWT98,
+  author    = {Joachim M. Blum and
+               Thomas M. Warschko and
+               Walter F. Tichy},
+  title     = {PULC: {ParaStation} {User-Level} Communication. Design and Overview},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {498-509},
+}
+
+@inproceedings{DBLP:conf/ipps/NandaHOBGM98,
+  author    = {Ashwini K. Nanda and
+               Yiming Hu and
+               Moriyoshi Ohara and
+               Caroline Benveniste and
+               Mark Giampapa and
+               Maged M. Michael},
+  title     = {The Design of COMPASS: An Execution Driven Simulator for Commercial Applications Running on Shared Memory Multiprocessors},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {503-509},
+}
+
+@inproceedings{DBLP:conf/ipps/RyanB98,
+  author    = {Stein Jørgen Ryan and
+               Haakon Bryhni},
+  title     = {Eliminating the Protocol Stack for Socket Based Communication in Shared Memory Interconnects},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {510-523},
+}
+
+@inproceedings{DBLP:conf/ipps/LauzacMM98,
+  author    = {Sylvain Lauzac and
+               Rami G. Melhem and
+               Daniel Mossé},
+  title     = {An Efficient {RMS} Admission Control and Its Application to Multiprocessor Scheduling},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {511-518},
+}
+
+@inproceedings{DBLP:conf/ipps/Rosenberg98,
+  author    = {Arnold L. Rosenberg},
+  title     = {Guidelines for {Data-Parallel} {Cycle-Stealing} in Networks of Workstations},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {519-523},
+}
+
+@inproceedings{DBLP:conf/ipps/CosnardJR98,
+  author    = {Michel Cosnard and
+               Emmanuel Jeannot and
+               Laurence Rougeot},
+  title     = {Low Memory Cost Dynamic Scheduling of Large Coarse Grain Task Graphs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {524-530},
+}
+
+@inproceedings{DBLP:conf/ipps/CiaccioM98,
+  author    = {Giuseppe Ciaccio and
+               Vincenzo Di Martino},
+  title     = {Porting a Molecular Dynamics Application on a {Low-Cost} Cluster of Personal Computer Running {GAMMA}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {524-533},
+}
+
+@inproceedings{DBLP:conf/ipps/KwokA98,
+  author    = {Yu-Kwong Kwok and
+               Ishfaq Ahmad},
+  title     = {Benchmarking the Task Graph Scheduling Algorithms},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {531-537},
+}
+
+@inproceedings{DBLP:conf/ipps/Ciaccio98,
+  author    = {Giuseppe Ciaccio},
+  title     = {Optimal Communication Performance on Fast Ethernet with {GAMMA}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {534-548},
+}
+
+@inproceedings{DBLP:conf/ipps/MaceyZ98,
+  author    = {Benjamin S. Macey and
+               Albert Y. Zomaya},
+  title     = {A Performance Evaluation of {CP} List Scheduling Heuristics for Communication Intensive Task Graphs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {538-541},
+}
+
+@inproceedings{DBLP:conf/ipps/FeitelsonW98,
+  author    = {Dror G. Feitelson and
+               Ahuva Mu'alem Weil},
+  title     = {Utilization and Predictability in Scheduling the {IBM} SP2 with Backfilling},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {542-546},
+}
+
+@inproceedings{DBLP:conf/ipps/GoilC98,
+  author    = {Sanjay Goil and
+               Alok N. Choudhary},
+  title     = {High Performance Data Mining Using Data Cubes on Parallel Computers},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {548-555},
+}
+
+@inproceedings{DBLP:conf/ipps/BakerF98,
+  author    = {Mark Baker and
+               Geoffrey Fox},
+  title     = {{MPI} on NT: A Preliminary Evaluation of the Available Environments},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {549-563},
+}
+
+@inproceedings{DBLP:conf/ipps/AlsabtiRS98,
+  author    = {Khaled Alsabti and
+               Sanjay Ranka and
+               Vineet Singh},
+  title     = {An Efficient Parallel Algorithms for High Dimensional Similarity Join},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {556-560},
+}
+
+@inproceedings{DBLP:conf/ipps/HelmanJ98,
+  author    = {David R. Helman and
+               Joseph JáJá},
+  title     = {Sorting on Clusters of {SMPs}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {561-567},
+}
+
+@inproceedings{DBLP:conf/ipps/Zabarsky98,
+  author    = {Jeffrey Zabarsky},
+  title     = {Failure Recovery for Distributed Processes in Single System Image Clusters},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {564-583},
+}
+
+@inproceedings{DBLP:conf/ipps/Jang98,
+  author    = {Ju-wook Jang},
+  title     = {An AT2 Optimal Mapping of Sorting onto the Mesh Connected Array without Comparators},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {568-572},
+}
+
+@inproceedings{DBLP:conf/ipps/JoshiKK98,
+  author    = {Mahesh V. Joshi and
+               George Karypis and
+               Vipin Kumar},
+  title     = {ScalParC: A New Scalable and Efficient Parallel Classification Algorithm for Mining Large Datasets},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {573-579},
+}
+
+@inproceedings{DBLP:conf/ipps/KanthSS98,
+  author    = {Kothuri Venkata Ravi Kanth and
+               David Serena and
+               Ambuj K. Singh},
+  title     = {Improved Concurrency Control Techniques For {Multi-Dimensional} Index Structures},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {580-586},
+}
+
+@inproceedings{DBLP:conf/ipps/Brower98,
+  author    = {Richard C. Brower},
+  title     = {The {QCD} Abacus: A Cellular Automata Formulation for Continuous Gauge Symmetries},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {584},
+}
+
+@inproceedings{DBLP:conf/ipps/ChangHS98,
+  author    = {Ilwoo Chang and
+               Matti A. Hiltunen and
+               Richard D. Schlichting},
+  title     = {Affordable Fault Tolerance Through Adaptation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {585-603},
+}
+
+@inproceedings{DBLP:conf/ipps/BrodeW98,
+  author    = {Brian Q. Brode and
+               Chris R. Warber},
+  title     = {DEEP: A Development Environment for Parallel Programs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {588-593},
+}
+
+@inproceedings{DBLP:conf/ipps/BenincasaBBK98,
+  author    = {Milissa M. Benincasa and
+               Richard Besler and
+               Diane Brassaw and
+               Ralph Kohler Jr.},
+  title     = {Rapid Development of {Real-Time} Systems Using {RTExpress}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {594-599},
+}
+
+@inproceedings{DBLP:conf/ipps/Campbell98,
+  author    = {Marc E. Campbell},
+  title     = {Evaluating ASIC, DSP, and {RISC} Architectures for Embedded Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {600-603},
+}
+
+@inproceedings{DBLP:conf/ipps/ShurbanovAH98,
+  author    = {Vladimir Shurbanov and
+               Dimiter R. Avresky and
+               Robert W. Horst},
+  title     = {The Effect of the Router Arbitration Policy on the Scalability of {ServerNet}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {604-609},
+}
+
+@inproceedings{DBLP:conf/ipps/Fabre98,
+  author    = {Jean-Charles Fabre},
+  title     = {Design and Implementation of the {FRIENDS} System},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {604-622},
+}
+
+@inproceedings{DBLP:conf/ipps/FrossHP98,
+  author    = {Bradley K. Fross and
+               Dennis M. Hawver and
+               James B. Peterson},
+  title     = {{WILDFIRE} Heterogeneous Adaptive Parallel Processing Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {611-615},
+}
+
+@inproceedings{DBLP:conf/ipps/DavisH98,
+  author    = {Don Davis and
+               Jonathan Harris},
+  title     = {ACEcard: A {High-Performance} Architecture for {Run-Time} Reconfiguration},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {616-619},
+}
+
+@inproceedings{DBLP:conf/ipps/Schwel98,
+  author    = {John Schwel},
+  title     = {A Hardware/Software {Co-Design} System Using Configurable Computing Technology},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {620-625},
+}
+
+@inproceedings{DBLP:conf/ipps/HuangWF98,
+  author    = {Ke Huang and
+               Jie Wu and
+               Eduardo B. Fernández},
+  title     = {A Generalized Forward Recovery Checkpointing Scheme},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {623-643},
+}
+
+@inproceedings{DBLP:conf/ipps/KrishnanT98,
+  author    = {Venkata Krishnan and
+               Josep Torrellas},
+  title     = {A Clustered Approach to Multithreaded Processors},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {627-634},
+}
+
+@inproceedings{DBLP:conf/ipps/BassettiDQ98,
+  author    = {Federico Bassetti and
+               Kei Davis and
+               Daniel J. Quinlan},
+  title     = {C++ Expression Templates Performance Issues in Scientific Computing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {635-639},
+}
+
+@inproceedings{DBLP:conf/ipps/BishopOI98,
+  author    = {Benjamin Bishop and
+               Robert Michael Owens and
+               Mary Jane Irwin},
+  title     = {Aggressive Dynamic Execution of Multimedia Kernel Traces},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {640-646},
+}
+
+@inproceedings{DBLP:conf/ipps/FetzerC98,
+  author    = {Christof Fetzer and
+               Flaviu Cristian},
+  title     = {Derivation of {Fail-Aware} Membership Service Specifications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {644-663},
+}
+
+@inproceedings{DBLP:conf/ipps/SchopfB98,
+  author    = {Jennifer M. Schopf and
+               Francine Berman},
+  title     = {Performance Prediction in Production Environments},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {647-653},
+}
+
+@inproceedings{DBLP:conf/ipps/RuginaS98,
+  author    = {Radu Rugina and
+               Klaus E. Schauser},
+  title     = {Predicting the Running Times of Parallel Programs by Simulation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {654-660},
+}
+
+@inproceedings{DBLP:conf/ipps/HanT98,
+  author    = {Hwansoo Han and
+               Chau-Wen Tseng},
+  title     = {{Compile-Time} Synchronization Optimization for Software {DSMs}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {662-669},
+}
+
+@inproceedings{DBLP:conf/ipps/MishraFC98,
+  author    = {Shivakant Mishra and
+               Christof Fetzer and
+               Flaviu Cristian},
+  title     = {The Timewheel Group Membership Protocol},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {664-680},
+}
+
+@inproceedings{DBLP:conf/ipps/ParkY98,
+  author    = {Taesoon Park and
+               Heon Young Yeom},
+  title     = {An Efficient Logging Scheme for Lazy Release Consistent Distributed Shared Memory Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {670-674},
+}
+
+@inproceedings{DBLP:conf/ipps/Keleher98,
+  author    = {Peter J. Keleher},
+  title     = {Update Protocols and Iterative Scientific Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {675-681},
+}
+
+@inproceedings{DBLP:conf/ipps/AlmohammadB98,
+  author    = {Bader Almohammad and
+               Bella Bose},
+  title     = {{Fault-Tolerant} Broadcasting in Toroidal Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {681-692},
+}
+
+@inproceedings{DBLP:conf/ipps/GontmakherS98,
+  author    = {Alex Gontmakher and
+               Assaf Schuster},
+  title     = {Characterization for Java Memory Behavior},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {682-686},
+}
+
+@inproceedings{DBLP:conf/ipps/BuckK98,
+  author    = {Bryan R. Buck and
+               Peter J. Keleher},
+  title     = {Locality and Performance of Page- and {Object-Based} {DSMs}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {687-693},
+}
+
+@inproceedings{DBLP:conf/ipps/DoringOLM98,
+  author    = {Andreas C. Döring and
+               Wolfgang Obelöer and
+               Gunther Lustig and
+               Erik Maehle},
+  title     = {A Flexible Approach for a {Fault-Tolerant} Router},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {693-713},
+}
+
+@inproceedings{DBLP:conf/ipps/FreyR98,
+  author    = {Peter Frey and
+               Radharamanan Radhakrishnan},
+  title     = {Optimistic Synchronization of {Mixed-Mode} Simulators},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {694-699},
+}
+
+@inproceedings{DBLP:conf/ipps/SubhlokSSL98,
+  author    = {Jaspal Subhlok and
+               Peter Steenkiste and
+               James M. Stichnoth and
+               Peter Lieu},
+  title     = {Airshed Pollution Modeling: A Case Study in Application Development in an {HPF} Environment},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {701-710},
+}
+
+@inproceedings{DBLP:conf/ipps/RhombergETT98,
+  author    = {Alex Rhomberg and
+               Rolf Enzler and
+               Markus Thaler and
+               Gerhard Tröster},
+  title     = {Design of a {FEM} Computation Engine for {Real-Time} Laparoscopic Surgery Simulation},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {711-715},
+}
+
+@inproceedings{DBLP:conf/ipps/ZakrevskiK98,
+  author    = {Lev Zakrevski and
+               Mark G. Karpovsky},
+  title     = {{Fault-Tolerant} Message Routing for Multiprocessors},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {714-730},
+}
+
+@inproceedings{DBLP:conf/ipps/KulaczewskiS98,
+  author    = {Mark Bernd Kulaczewski and
+               Howard Jay Siegel},
+  title     = {{SIMD} and {Mixed-Mode} Implementations of a Visual Tracking Algorithm},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {716-720},
+}
+
+@inproceedings{DBLP:conf/ipps/Pormann98,
+  author    = {John B. Pormann},
+  title     = {The Implicit Pipeline Method},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {721-725},
+}
+
+@inproceedings{DBLP:conf/ipps/DavisD98,
+  author    = {Timothy D. Davis and
+               Edward W. Davis},
+  title     = {Rendering Computer Animations on a Network of Workstations},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {726-730},
+}
+
+@inproceedings{DBLP:conf/ipps/RooholaminiH98,
+  author    = {M. Rooholamini and
+               Seyed H. Hosseini},
+  title     = {{Self-Testing} {Fault-Tolerant} {Real-Time} Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {731-741},
+}
+
+@inproceedings{DBLP:conf/ipps/ShiS98,
+  author    = {Wei Shi and
+               Pradip K. Srimani},
+  title     = {Hyper Butterfly Network: A Scalable Optimally Fault Tolerant Architecture},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {732-736},
+}
+
+@inproceedings{DBLP:conf/ipps/MaheshMMS98,
+  author    = {K. Mahesh and
+               G. Manimaran and
+               C. Siva Ram Murthy and
+               Arun K. Somani},
+  title     = {Scheduling Algorithms Exploiting Spare Capacity and Tasks' Laxities for Fault Detection and Location in {Real-Time} Multiprocessor Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {737-741},
+}
+
+@inproceedings{DBLP:conf/ipps/ParhamiY98,
+  author    = {Behrooz Parhami and
+               Chi-Hsiang Yeh},
+  title     = {The {Robust-Algorithm} Approach to Fault Tolerance on Processor Arrays: Fault Models, Fault Diameter, and Basic Algorithms},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {742-746},
+}
+
+@inproceedings{DBLP:conf/ipps/QuagliaCB98,
+  author    = {Francesco Quaglia and
+               Bruno Ciciani and
+               Roberto Baldoni},
+  title     = {Checkpointing Protocols in Distributed Systems with Mobile Hosts: A Performance Analysis},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {742-755},
+}
+
+@inproceedings{DBLP:conf/ipps/LeMahieuBB98,
+  author    = {Paul S. LeMahieu and
+               Vasken Bohossian and
+               Jehoshua Bruck},
+  title     = {{Fault-Tolerant} Switched Local Area Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {747-751},
+}
+
+@inproceedings{DBLP:conf/ipps/FrumkinHL98,
+  author    = {Michael A. Frumkin and
+               Robert Hood and
+               Luis Lopez},
+  title     = {{Trace-Driven} Debugging of Message Passing Programs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {753-762},
+}
+
+@inproceedings{DBLP:conf/ipps/BiazV98,
+  author    = {Saad Biaz and
+               Nitin H. Vaidya},
+  title     = {Performance Analysis of a {Fault-Tolerant} Scheme for Location Management of Mobile Hosts},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {756-769},
+}
+
+@inproceedings{DBLP:conf/ipps/TarafdarG98,
+  author    = {Ashis Tarafdar and
+               Vijay K. Garg},
+  title     = {Predicate Control for Active Debugging of Distributed Programs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {763-769},
+}
+
+@inproceedings{DBLP:conf/ipps/BrobergLG98,
+  author    = {Magnus Broberg and
+               Lars Lundberg and
+               Håkan Grahn},
+  title     = {{VPPB} - A Visualization and Performance Prediction Tool for Multithreaded Solaris Programs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {770-776},
+}
+
+@inproceedings{DBLP:conf/ipps/ShieldsJNPV98,
+  author    = {Charles Shields Jr. and
+               Vikas Jain and
+               Simeon C. Ntafos and
+               Ravi Prakash and
+               S. Venkatesan},
+  title     = {Fault Tolerant Mobility Planning for Rapidly Deployable Wireless Networks},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {770-789},
+}
+
+@inproceedings{DBLP:conf/ipps/GodinQP98,
+  author    = {T. J. Godin and
+               Michael J. Quinn and
+               Cherri M. Pancake},
+  title     = {Parallel Performance Visualization Using Moments of Utilization Data},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {777-782},
+}
+
+@inproceedings{DBLP:conf/ipps/BalPBDH98,
+  author    = {Henri E. Bal and
+               Aske Plaat and
+               Mirjam G. Bakker and
+               Peter Dozy and
+               Rutger F. H. Hofman},
+  title     = {Optimizing Parallel Applications for {Wide-Area} Clusters},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {784-790},
+}
+
+@inproceedings{DBLP:conf/ipps/Skillicorn98,
+  author    = {David B. Skillicorn},
+  title     = {Building {BSP} Programs Using the Refinement Calculus},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {790-795},
+}
+
+@inproceedings{DBLP:conf/ipps/Mueller98,
+  author    = {Frank Mueller},
+  title     = {Prioritized {Token-Based} Mutual Exclusion for Distributed Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {791-795},
+}
+
+@inproceedings{DBLP:conf/ipps/MahapatraD98,
+  author    = {Nihar R. Mahapatra and
+               Shantanu Dutt},
+  title     = {Adaptive Quality Equalizing: {High-Performance} Load Balancing for Parallel {Branch-and-Bound} Across Applications and Computing Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {796-800},
+}
+
+@inproceedings{DBLP:conf/ipps/Gamboa98,
+  author    = {Ruben Gamboa},
+  title     = {Mechanically Verifying the Correctness of the Fast Fourier Transform in ACL2},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {796-806},
+}
+
+@inproceedings{DBLP:conf/ipps/ChanchioS98,
+  author    = {Kasidit Chanchio and
+               Xian-He Sun},
+  title     = {Memory Space Representation for Heterogeneous Network Process Migration},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {801-805},
+}
+
+@inproceedings{DBLP:conf/ipps/BodeveixF98,
+  author    = {Jean-Paul Bodeveix and
+               Mamoun Filali},
+  title     = {On the Automatic Validation of Parameterized Unity Programs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {807-819},
+}
+
+@inproceedings{DBLP:conf/ipps/CharpentierFMPQ98,
+  author    = {Michel Charpentier and
+               Mamoun Filali and
+               Philippe Mauran and
+               Gérard Padiou and
+               Philippe Quéinnec},
+  title     = {Tailoring {UNITY} to Distributed Program Design},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {820-832},
+}
+
+@inproceedings{DBLP:conf/ipps/Thirioux98,
+  author    = {Xavier Thirioux},
+  title     = {Automatically Proving {UNITY} Safety Properties with Arrays and Quantifiers},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {833-843},
+}
+
+@inproceedings{DBLP:conf/ipps/Massingill98,
+  author    = {Berna L. Massingill},
+  title     = {Experiments with Program Parallelization Using Archetypes and Stepwise Refinement},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {844-856},
+}
+
+@inproceedings{DBLP:conf/ipps/NalumasuG98,
+  author    = {Ratan Nalumasu and
+               Ganesh Gopalakrishnan},
+  title     = {Deriving Efficient Cache Coherence Protocols through Refinement},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {857-870},
+}
+
+@inproceedings{DBLP:conf/ipps/RomanM98,
+  author    = {Gruia-Catalin Roman and
+               Peter J. McCann},
+  title     = {An Introduction to Mobile {UNITY}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {871-880},
+}
+
+@inproceedings{DBLP:conf/ipps/Misra98,
+  author    = {Jayadev Misra},
+  title     = {An Object Model for Multiprogramming},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {881-889},
+}
+
+@inproceedings{DBLP:conf/ipps/ChandySK98,
+  author    = {K. Mani Chandy and
+               Paolo A. G. Sivilotti and
+               Joseph Kiniry},
+  title     = {A Cottage Industry of Software Publishing: Implications for Theories of Composition},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {890-899},
+}
+
+@inproceedings{DBLP:conf/ipps/DraperBKS98,
+  author    = {Jeffrey T. Draper and
+               Jay Block and
+               Jeff Koller and
+               Craig S. Steele},
+  title     = {Thermal Management in Embedded Systems Using {MEMS}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {900-901},
+}
+
+@inproceedings{DBLP:conf/ipps/ScherrerE98,
+  author    = {Daniel Scherrer and
+               Hans Eberle},
+  title     = {A Scalable Multiprocessor for {Real-Time} Signal Processing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {902-907},
+}
+
+@inproceedings{DBLP:conf/ipps/SteeleDK98,
+  author    = {Craig S. Steele and
+               Jeffrey T. Draper and
+               Jeff Koller},
+  title     = {Safety Net: Secure Communications for Embedded {High-Performance} Computing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {908-912},
+}
+
+@inproceedings{DBLP:conf/ipps/DiesselE98,
+  author    = {Oliver Diessel and
+               Hossam A. ElGindy},
+  title     = {Partial Rearrangements of {Space-Shared} {FPGAs}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {913-918},
+}
+
+@inproceedings{DBLP:conf/ipps/LakamrajuKKK98,
+  author    = {Vijay Lakamraju and
+               Zahava Koren and
+               Israel Koren and
+               C. Mani Krishna},
+  title     = {Measuring the Vulnerability of Interconnection Networks in Embedded Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {919-924},
+}
+
+@inproceedings{DBLP:conf/ipps/Russ98,
+  author    = {Samuel H. Russ},
+  title     = {An Architecture for Rapid Distributed Fault Tolerance},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {925-930},
+}
+
+@inproceedings{DBLP:conf/ipps/RavindranWBSC98,
+  author    = {Binoy Ravindran and
+               Lonnie R. Welch and
+               Carl Bruggeman and
+               Behrooz Shirazi and
+               Charles Cavanaugh},
+  title     = {A Resource Management Model for Dynamic, Scalable, Dependable, {Real-Time} Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {931-936},
+}
+
+@inproceedings{DBLP:conf/ipps/LeeLP98,
+  author    = {Myungho Lee and
+               Wenheng Liu and
+               Viktor K. Prasanna},
+  title     = {A Mapping Methodology for Designing Software Task Pipelines for Embedded Signal Processing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {937-944},
+}
+
+@inproceedings{DBLP:conf/ipps/FoglerRY98,
+  author    = {Joe Fogler and
+               Thomas Robey and
+               Mark Young},
+  title     = {Toward Embedded Development from Advanced Khoros},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {945-952},
+}
+
+@inproceedings{DBLP:conf/ipps/NutzelDF98,
+  author    = {Jürgen Nützel and
+               Bernd Däne and
+               Wolfgang Fengler},
+  title     = {Object Nets for the Design and Verification of Distributed and Embedded Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {953-962},
+}
+
+@inproceedings{DBLP:conf/ipps/KubicaRM98,
+  author    = {Steve Kubica and
+               Thomas Robey and
+               Chris Moorman},
+  title     = {Data Parallel Programming with the Khoros Data Services Library},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {963-968},
+}
+
+@inproceedings{DBLP:conf/ipps/Krueger98,
+  author    = {Mike Krueger},
+  title     = {A Development Tool Environment for Configuration, Build, and Launch of Complex Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {969-978},
+}
+
+@inproceedings{DBLP:conf/ipps/WestA98,
+  author    = {Jack M. West and
+               John K. Antonio},
+  title     = {Simulation of the Communication Time for a {Space-Time} Adaptive Processing Algorithm on a Parallel Embedded System},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {979-986},
+}
+
+@inproceedings{DBLP:conf/ipps/MuehringA98,
+  author    = {Jeffrey T. Muehring and
+               John K. Antonio},
+  title     = {Optimal Configuration of Compute Nodes for Synthetic Aperture Radar Processing},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {987-993},
+}
+
+@inproceedings{DBLP:conf/ipps/RibeiroSM98,
+  author    = {José R. P. Ribeiro and
+               Nilton C. da Silva and
+               Célio Estevan Morón},
+  title     = {A Visual Environment for the Development of Parallel {Real-Time} Programs},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {994-1014},
+}
+
+@inproceedings{DBLP:conf/ipps/GarciaAEG98,
+  author    = {Javier García and
+               Jose Luis Díaz de Arriba and
+               Joaquín Entrialgo and
+               Daniel F. García},
+  title     = {Performance Analysis of Parallel Embedded Real Time Systems Based on Measurement and Visualization},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1015-1024},
+}
+
+@inproceedings{DBLP:conf/ipps/Sun98,
+  author    = {Xian-He Sun},
+  title     = {Performance Range Comparison via Crossing Point Analysis},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1025-1036},
+}
+
+@inproceedings{DBLP:conf/ipps/MincevM98,
+  author    = {Vesna Mincev and
+               Dragan Milicev},
+  title     = {A {Tree-Driven} {Multiple-Rate} Model of Time Measuring in {Object-Oriented} {Real-Time} Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1037-1046},
+}
+
+@inproceedings{DBLP:conf/ipps/Nakajima98,
+  author    = {Tatsuo Nakajima},
+  title     = {Resource Reservation for Adaptive {QOS} Mapping in {Real-Time} Mach},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1047-1056},
+}
+
+@inproceedings{DBLP:conf/ipps/LichteneckerGZ98,
+  author    = {Reiner Lichtenecker and
+               Klaus Gotthardt and
+               Janusz Zalewski},
+  title     = {Automated Verification of Communication Protocols Using {CCS} and {BDDs}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1057-1066},
+}
+
+@inproceedings{DBLP:conf/ipps/HorauerSS98,
+  author    = {Martin Horauer and
+               Ulrich Schmid and
+               Klaus Schossmaier},
+  title     = {NTI: A Network Time Interface {M-Module} for {High-Accuracy} {Clock-Synchronization}},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1067-1076},
+}
+
+@inproceedings{DBLP:conf/ipps/GasparyA98,
+  author    = {Luciano Paschoal Gaspary and
+               Maria Janilce B. Almeida},
+  title     = {Modeling and Validation Support for Interactive Networked Multimedia Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1077-1087},
+}
+
+@inproceedings{DBLP:conf/ipps/LivaniK98,
+  author    = {Mohammad Ali Livani and
+               Jörg Kaiser},
+  title     = {{EDF} Consensus on {CAN} Bus Access for Dynamic {Real-Time} Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1088-1097},
+}
+
+@inproceedings{DBLP:conf/ipps/HaimesJ98,
+  author    = {Robert Haimes and
+               Kirk E. Jordan},
+  title     = {Using {PVM} and {MPI} for Co-processed, Distributed and Parallel Scientific Visualization},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1098-1105},
+}
+
+@inproceedings{DBLP:conf/ipps/KorenKK98,
+  author    = {Zahava Koren and
+               Israel Koren and
+               C. Mani Krishna},
+  title     = {Surge Handling as a Measure of {Real-Time} System Dependability},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1106-1116},
+}
+
+@inproceedings{DBLP:conf/ipps/Son98,
+  author    = {Sang Hyuk Son},
+  title     = {Partial Security and Timeliness in {Real-Time} Database Systems},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1117-1120},
+}
+
+@inproceedings{DBLP:conf/ipps/IshidaA98,
+  author    = {Kenji Ishida and
+               Kitsutaro Amano},
+  title     = {A Synthesis Method for {Fault-Tolerant} Multicast Routing Protocol},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1121-1130},
+}
+
+@inproceedings{DBLP:conf/ipps/GunzelRW98,
+  author    = {Christoph Günzel and
+               Falko Riemenschneider and
+               Juergen Wirtgen},
+  title     = {Improved Videotransmission over Lossy Channels Using Parallelization},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1131-1139},
+}
+
+@inproceedings{DBLP:conf/ipps/Kshemkalyani98,
+  author    = {Ajay D. Kshemkalyani},
+  title     = {Testing of Synchronization Conditions for Distributed {Real-Time} Applications},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1140-1152},
+}
+
+@inproceedings{DBLP:conf/ipps/IreyHM98,
+  author    = {Philip M. Irey IV and
+               Robert W. Hott and
+               David T. Marlow},
+  title     = {An Architecture for Network Resource Monitoring in a Distributed Environment},
+  booktitle = ipps,
+  year      = 1998,
+  pages     = {1153-1163},
+}
+
 @inproceedings{DBLP:conf/ipps/LandinK97,
   author    = {Anders Landin and
                Mattias Karlgren},

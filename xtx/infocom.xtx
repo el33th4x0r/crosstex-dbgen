@@ -1,5 +1,15 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/infocom/KhoslaFH12,
+  author    = {Ravish Khosla and
+               Sonia Fahmy and
+               Y. Charlie Hu},
+  title     = {Content retrieval using cloud-based {DNS}},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {1-6},
+}
+
 @inproceedings{DBLP:conf/infocom/LiuJNK12,
   author    = {Jiajia Liu and
                Xiaohong Jiang and
@@ -9,6 +19,18 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {1-9},
+}
+
+@inproceedings{DBLP:conf/infocom/AdhikariGHHZ12,
+  author    = {Vijay Kumar Adhikari and
+               Yang Guo and
+               Fang Hao and
+               Volker Hilt and
+               Zhi-Li Zhang},
+  title     = {A tale of three CDNs: An active measurement study of Hulu and its {CDNs}},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {7-12},
 }
 
 @inproceedings{DBLP:conf/infocom/ZhangWHLT12,
@@ -21,6 +43,29 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {10-18},
+}
+
+@inproceedings{DBLP:conf/infocom/BielenbergHGSZ12,
+  author    = {Ames Bielenberg and
+               Lara Helm and
+               Anthony Gentilucci and
+               Dan Stefanescu and
+               Honggang Zhang},
+  title     = {The growth of Diaspora - A decentralized online social network in the wild},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/infocom/BaumgartHHB12,
+  author    = {Ingmar Baumgart and
+               Bernhard Heep and
+               Christian Hübsch and
+               Amos Brocco},
+  title     = {OverArch: A common architecture for structured and unstructured overlay networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {19-24},
 }
 
 @inproceedings{DBLP:conf/infocom/LiuLWQZH12,
@@ -36,6 +81,16 @@
   pages     = {19-27},
 }
 
+@inproceedings{DBLP:conf/infocom/LiLC12,
+  author    = {Ming Li and
+               Andrey Lukyanenko and
+               Yong Cui},
+  title     = {Network coding based multipath {TCP}},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {25-30},
+}
+
 @inproceedings{DBLP:conf/infocom/VietB12,
   author    = {Nguyen Tien Viet and
                François Baccelli},
@@ -43,6 +98,27 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {28-36},
+}
+
+@inproceedings{DBLP:conf/infocom/MoktanSSM12,
+  author    = {Gautam Raj Moktan and
+               Sebastian Siikavirta and
+               Mikko Särelä and
+               Jukka Manner},
+  title     = {Favoring the short},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/infocom/PogelLW12,
+  author    = {Tobias Pögel and
+               Jan Lubbe and
+               Lars Wolf},
+  title     = {Passive client-based bandwidth and latency measurements in cellular networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {37-42},
 }
 
 @inproceedings{DBLP:conf/infocom/SouthwellHL12,
@@ -53,6 +129,19 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {37-45},
+}
+
+@inproceedings{DBLP:conf/infocom/ParkCAKMZ12,
+  author    = {Jong Han Park and
+               Pei-chun Cheng and
+               Shane Amante and
+               Dorian Kim and
+               Danny McPherson and
+               Lixia Zhang},
+  title     = {A comparative study of architectural impact on {BGP} next-hop diversity},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {43-48},
 }
 
 @inproceedings{DBLP:conf/infocom/LiWTL12,
@@ -66,6 +155,32 @@
   pages     = {46-54},
 }
 
+@inproceedings{DBLP:conf/infocom/Paredes-OlivaCBDS12,
+  author    = {Ignasi Paredes-Oliva and
+               Ismael Castell-Uroz and
+               Pere Barlet-Ros and
+               Xenofontas A. Dimitropoulos and
+               Josep Solé-Pareta},
+  title     = {Practical anomaly detection based on classifying frequent traffic patterns},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/infocom/LiVRMWAL12,
+  author    = {Jie Li and
+               Malathi Veeraraghavan and
+               Martin Reisslein and
+               Matthew Manley and
+               Ronald D. Williams and
+               Paul D. Amer and
+               Jonathan T. Leighton},
+  title     = {A {Less-Is-More} Architecture (LIMA) for a Future internet},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {55-60},
+}
+
 @inproceedings{DBLP:conf/infocom/ZhaoWJX12,
   author    = {Yao Zhao and
                Hongyi Wu and
@@ -75,6 +190,15 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {55-63},
+}
+
+@inproceedings{DBLP:conf/infocom/KarimiN12,
+  author    = {Babak Karimi and
+               Vinod Namboodiri},
+  title     = {Capacity analysis of a wireless backhaul for metering in the Smart Grid},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {61-66},
 }
 
 @inproceedings{DBLP:conf/infocom/WuYLX12,
@@ -88,6 +212,28 @@
   pages     = {64-72},
 }
 
+@inproceedings{DBLP:conf/infocom/MaLH12,
+  author    = {Hannan Ma and
+               Husheng Li and
+               Zhu Han},
+  title     = {A framework of frequency oscillation in power grid: Epidemic propagation over social networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {67-72},
+}
+
+@inproceedings{DBLP:conf/infocom/LiKWNH12,
+  author    = {Yifan Li and
+               Rakpong Kaewpuang and
+               Ping Wang and
+               Dusit Niyato and
+               Zhu Han},
+  title     = {An energy efficient solution: Integrating {Plug-In} Hybrid Electric Vehicle in smart grid with renewable energy},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {73-78},
+}
+
 @inproceedings{DBLP:conf/infocom/WanXL12,
   author    = {Zhiguo Wan and
                Kai Xing and
@@ -96,6 +242,17 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {73-81},
+}
+
+@inproceedings{DBLP:conf/infocom/CouilletPTD12,
+  author    = {Romain Couillet and
+               Samir Medina Perlaza and
+               Hamidou Tembine and
+               Mérouane Debbah},
+  title     = {A mean field game analysis of electric vehicles in the smart grid},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {79-84},
 }
 
 @inproceedings{DBLP:conf/infocom/SubramanianMB12,
@@ -108,6 +265,27 @@
   pages     = {82-90},
 }
 
+@inproceedings{DBLP:conf/infocom/LamHSS12,
+  author    = {Albert Y. S. Lam and
+               Longbo Huang and
+               Alonso Silva and
+               Walid Saad},
+  title     = {A multi-layer market for vehicle-to-grid energy trading in the smart grid},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {85-90},
+}
+
+@inproceedings{DBLP:conf/infocom/NguyenSH12,
+  author    = {Hung Khanh Nguyen and
+               Ju Bin Song and
+               Zhu Han},
+  title     = {Demand side management to reduce {Peak-to-Average} Ratio using game theory in smart grid},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {91-96},
+}
+
 @inproceedings{DBLP:conf/infocom/SardariBF12,
   author    = {Mohsen Sardari and
                Ahmad Beirami and
@@ -116,6 +294,16 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {91-99},
+}
+
+@inproceedings{DBLP:conf/infocom/ChiuSP12,
+  author    = {Wei-Yu Chiu and
+               Hongjian Sun and
+               H. Vincent Poor},
+  title     = {Robust power flow control in smart grids with fluctuating effects},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {97-102},
 }
 
 @inproceedings{DBLP:conf/infocom/LiGYV12,
@@ -127,6 +315,26 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {100-108},
+}
+
+@inproceedings{DBLP:conf/infocom/RottondiVC12,
+  author    = {Cristina Rottondi and
+               Giacomo Verticale and
+               Antonio Capone},
+  title     = {A security framework for smart metering with multiple data consumers},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {103-108},
+}
+
+@inproceedings{DBLP:conf/infocom/WuJM12,
+  author    = {Kui Wu and
+               Yuming Jiang and
+               Dimitri Marinakis},
+  title     = {A stochastic calculus for network systems with renewable energy sources},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {109-114},
 }
 
 @inproceedings{DBLP:conf/infocom/TengZZXZ12,
@@ -141,6 +349,17 @@
   pages     = {109-117},
 }
 
+@inproceedings{DBLP:conf/infocom/KimLAT12,
+  author    = {Young-Jin Kim and
+               Jaehwan Lee and
+               Gary Atkinson and
+               Marina Thottan},
+  title     = {GridDataBus: Information-centric platform for scalable secure resilient phasor-data sharing},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {115-120},
+}
+
 @inproceedings{DBLP:conf/infocom/LiCL12,
   author    = {Junkun Li and
                Jiming Chen and
@@ -149,6 +368,29 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {118-126},
+}
+
+@inproceedings{DBLP:conf/infocom/BianzinoCM12,
+  author    = {Aruna Prem Bianzino and
+               Luca Chiaraviglio and
+               Marco Mellia},
+  title     = {Distributed algorithms for green {IP} networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {121-126},
+}
+
+@inproceedings{DBLP:conf/infocom/SuZCWLW12,
+  author    = {Sen Su and
+               Zhongbao Zhang and
+               Xiang Cheng and
+               Yiwen Wang and
+               Yan Luo and
+               Jie Wang},
+  title     = {Energy-aware virtual network embedding through consolidation},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {127-132},
 }
 
 @inproceedings{DBLP:conf/infocom/WuXCL12,
@@ -162,6 +404,16 @@
   pages     = {127-135},
 }
 
+@inproceedings{DBLP:conf/infocom/JinWC12,
+  author    = {Yichao Jin and
+               Yonggang Wen and
+               Qinghua Chen},
+  title     = {Energy efficiency and server virtualization in data centers: An empirical investigation},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {133-138},
+}
+
 @inproceedings{DBLP:conf/infocom/FuCLF12,
   author    = {Huai-Lei Fu and
                Hou-Chun Chen and
@@ -173,6 +425,26 @@
   pages     = {136-144},
 }
 
+@inproceedings{DBLP:conf/infocom/PredojevAD12,
+  author    = {Tatjana Predojev and
+               Jesus Alonso-Zarate and
+               Mischa Dohler},
+  title     = {Energy efficiency of cooperative {ARQ} strategies in low power networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {139-144},
+}
+
+@inproceedings{DBLP:conf/infocom/SunCT12,
+  author    = {Xiangxia Sun and
+               Li Chen and
+               Danny H. K. Tsang},
+  title     = {Energy-efficient cooperative sensing scheduling for heterogeneous channel access in Cognitive Radio},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {145-150},
+}
+
 @inproceedings{DBLP:conf/infocom/LiCTW12,
   author    = {Hongkun Li and
                Yu Cheng and
@@ -182,6 +454,16 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {145-153},
+}
+
+@inproceedings{DBLP:conf/infocom/OttoSL12,
+  author    = {John S. Otto and
+               Rade Stanojevic and
+               Nikolaos Laoutaris},
+  title     = {Temporal Rate Limiting: Cloud elasticity at a flat fee},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {151-156},
 }
 
 @inproceedings{DBLP:conf/infocom/CrepaldiLELK12,
@@ -196,6 +478,25 @@
   pages     = {154-162},
 }
 
+@inproceedings{DBLP:conf/infocom/AbhishekKK12,
+  author    = {Vineet Abhishek and
+               Ian A. Kash and
+               Peter Key},
+  title     = {Fixed and market pricing for cloud services},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {157-162},
+}
+
+@inproceedings{DBLP:conf/infocom/DruckerF12,
+  author    = {Fabio Drucker and
+               Lisa Fleischer},
+  title     = {Simple sybil-proof mechanisms for multi-level marketing},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {163},
+}
+
 @inproceedings{DBLP:conf/infocom/WangWL12,
   author    = {Feng Wang and
                Dan Wang and
@@ -204,6 +505,36 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {163-171},
+}
+
+@inproceedings{DBLP:conf/infocom/WuML12,
+  author    = {Weijie Wu and
+               Richard T. B. Ma and
+               John C. S. Lui},
+  title     = {On incentivizing caching for P2{P-VoD} systems},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {164-169},
+}
+
+@inproceedings{DBLP:conf/infocom/KuttenLT12,
+  author    = {Shay Kutten and
+               Ron Lavi and
+               Amitabh Trehan},
+  title     = {Composition games for distributed systems: The {EU} grant games},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {170},
+}
+
+@inproceedings{DBLP:conf/infocom/GyarmatiSL12,
+  author    = {László Gyarmati and
+               Michael Sirivianos and
+               Nikolaos Laoutaris},
+  title     = {Sharing the cost of backbone networks: Simplicity vs. precision},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {171-176},
 }
 
 @inproceedings{DBLP:conf/infocom/LiWLHL12,
@@ -218,6 +549,25 @@
   pages     = {172-180},
 }
 
+@inproceedings{DBLP:conf/infocom/LodhiDD12a,
+  author    = {Aemen Lodhi and
+               Amogh Dhamdhere and
+               Constantine Dovrolis},
+  title     = {Analysis of peering strategy adoption by transit providers in the Internet},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {177},
+}
+
+@inproceedings{DBLP:conf/infocom/CastroG12,
+  author    = {Ignacio Castro and
+               Sergey Gorinsky},
+  title     = {T4P: Hybrid interconnection for cost reduction},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {178-183},
+}
+
 @inproceedings{DBLP:conf/infocom/PengKZL12,
   author    = {Chunyi Peng and
                Minkyong Kim and
@@ -227,6 +577,29 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {181-189},
+}
+
+@inproceedings{DBLP:conf/infocom/FuJMNTV12,
+  author    = {Hu Fu and
+               Patrick R. Jordan and
+               Mohammad Mahdian and
+               Uri Nadav and
+               Inbal Talgam-Cohen and
+               Sergei Vassilvitskii},
+  title     = {Ad auctions with data},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {184-189},
+}
+
+@inproceedings{DBLP:conf/infocom/LutuBS12,
+  author    = {Andra Lutu and
+               Marcelo Bagnulo and
+               Rade Stanojevic},
+  title     = {An economic side-effect for prefix deaggregation},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {190-195},
 }
 
 @inproceedings{DBLP:conf/infocom/SongZL12,
@@ -239,6 +612,17 @@
   pages     = {190-198},
 }
 
+@inproceedings{DBLP:conf/infocom/ShnayderHPK12,
+  author    = {Victor Shnayder and
+               Jeremy Hoon and
+               David C. Parkes and
+               Vikas Kawadia},
+  title     = {Truthful prioritization schemes for spectrum sharing},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {196-201},
+}
+
 @inproceedings{DBLP:conf/infocom/WangLC12,
   author    = {Feng Wang and
                Jiangchuan Liu and
@@ -249,6 +633,27 @@
   pages     = {199-207},
 }
 
+@inproceedings{DBLP:conf/infocom/BulutS12,
+  author    = {Eyuphan Bulut and
+               Boleslaw K. Szymanski},
+  title     = {On growth of limited scale-free overlay network topologies},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {202-207},
+}
+
+@inproceedings{DBLP:conf/infocom/GregoriILRS12,
+  author    = {Enrico Gregori and
+               Alessandro Improta and
+               Luciano Lenzini and
+               Lorenzo Rossi and
+               Luca Sani},
+  title     = {Inferring geography from {BGP} raw data},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {208-213},
+}
+
 @inproceedings{DBLP:conf/infocom/SukwongSK12,
   author    = {Orathai Sukwong and
                Akkarit Sangpetch and
@@ -257,6 +662,16 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {208-216},
+}
+
+@inproceedings{DBLP:conf/infocom/WuSN12,
+  author    = {Rui Wu and
+               R. Srikant and
+               Jian Ni},
+  title     = {Learning graph structures in discrete Markov random fields},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {214-219},
 }
 
 @inproceedings{DBLP:conf/infocom/MaYLHC12,
@@ -271,6 +686,25 @@
   pages     = {217-225},
 }
 
+@inproceedings{DBLP:conf/infocom/KuatseMT12,
+  author    = {Amelie Medem Kuatse and
+               Clémence Magnien and
+               Fabien Tarissan},
+  title     = {Impact of power-law topology on {IP-level} routing dynamics: Simulation results},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {220-225},
+}
+
+@inproceedings{DBLP:conf/infocom/SarmaT12,
+  author    = {Atish Das Sarma and
+               Amitabh Trehan},
+  title     = {Edge-preserving self-healing: Keeping network backbones densely connected},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {226-231},
+}
+
 @inproceedings{DBLP:conf/infocom/WuCXC12,
   author    = {Dengyuan Wu and
                Dechang Chen and
@@ -280,6 +714,15 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {226-234},
+}
+
+@inproceedings{DBLP:conf/infocom/CvetkovskiC12,
+  author    = {Andrej Cvetkovski and
+               Mark Crovella},
+  title     = {Low-stretch greedy embedding heuristics},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {232-237},
 }
 
 @inproceedings{DBLP:conf/infocom/HuaLLX12,
@@ -293,6 +736,29 @@
   pages     = {235-243},
 }
 
+@inproceedings{DBLP:conf/infocom/MooreDBRS12,
+  author    = {Terrence J. Moore and
+               Robert J. Drost and
+               Prithwish Basu and
+               Ram Ramanathan and
+               Ananthram Swami},
+  title     = {Analyzing collaboration networks using simplicial complexes: A case study},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {238-243},
+}
+
+@inproceedings{DBLP:conf/infocom/PaulSBD12,
+  author    = {Utpal Paul and
+               Anand Prabhu Subramanian and
+               Milind M. Buddhikot and
+               Samir R. Das},
+  title     = {Understanding spatial relationships in resource usage in cellular data networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {244-249},
+}
+
 @inproceedings{DBLP:conf/infocom/FangYX12,
   author    = {Xi Fang and
                Dejun Yang and
@@ -301,6 +767,16 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {244-252},
+}
+
+@inproceedings{DBLP:conf/infocom/RibeiroBT12,
+  author    = {Bruno F. Ribeiro and
+               Prithwish Basu and
+               Don Towsley},
+  title     = {Multiple random walks to uncover short paths in power law networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {250-255},
 }
 
 @inproceedings{DBLP:conf/infocom/LiuJNK12a,
@@ -314,6 +790,27 @@
   pages     = {253-261},
 }
 
+@inproceedings{DBLP:conf/infocom/EinolghozatiSBF12,
+  author    = {Arash Einolghozati and
+               Mohsen Sardari and
+               Ahmad Beirami and
+               Faramarz Fekri},
+  title     = {Data gathering in networks of bacteria colonies: Collective sensing and relaying using molecular communication},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {256-261},
+}
+
+@inproceedings{DBLP:conf/infocom/ThakurzxHH12,
+  author    = {Gautam S. Thakur and
+               Pan Hui and
+               Ahmed Helmy},
+  title     = {Modeling and characterization of urban vehicular mobility using web cameras},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {262-267},
+}
+
 @inproceedings{DBLP:conf/infocom/ChuS12,
   author    = {Xiaoyu Chu and
                Harish Sethu},
@@ -321,6 +818,16 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {262-270},
+}
+
+@inproceedings{DBLP:conf/infocom/MingXW12,
+  author    = {Zhongxing Ming and
+               Mingwei Xu and
+               Dan Wang},
+  title     = {Age-based cooperative caching in {Information-Centric} Networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {268-273},
 }
 
 @inproceedings{DBLP:conf/infocom/ChenHWL12,
@@ -334,6 +841,26 @@
   pages     = {271-279},
 }
 
+@inproceedings{DBLP:conf/infocom/BaugherDNO12,
+  author    = {Mark Baugher and
+               Bruce Davie and
+               Ashok Narayanan and
+               Dave Oran},
+  title     = {Self-verifying names for read-only named data},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {274-279},
+}
+
+@inproceedings{DBLP:conf/infocom/RossiR12,
+  author    = {Dario Rossi and
+               Giuseppe Rossini},
+  title     = {On sizing {CCN} content stores by exploiting topological information},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {280-285},
+}
+
 @inproceedings{DBLP:conf/infocom/FangYX12a,
   author    = {Xi Fang and
                Dejun Yang and
@@ -344,6 +871,19 @@
   pages     = {280-288},
 }
 
+@inproceedings{DBLP:conf/infocom/WangLVSRY12,
+  author    = {Yaogong Wang and
+               Kyunghan Lee and
+               Balakrishna Venkataraman and
+               Ravi L. Shamanna and
+               Injong Rhee and
+               Sunhee Yang},
+  title     = {Advertising cached contents in the control plane: Necessity and feasibility},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {286-291},
+}
+
 @inproceedings{DBLP:conf/infocom/Al-BadoSM12,
   author    = {Mustafa Al-Bado and
                Cigdem Sengul and
@@ -352,6 +892,26 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {289-297},
+}
+
+@inproceedings{DBLP:conf/infocom/FieldDH12,
+  author    = {Brian Field and
+               Jan van Doorn and
+               Jim Hall},
+  title     = {Integrating routing with content delivery networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {292-297},
+}
+
+@inproceedings{DBLP:conf/infocom/BaidVR12,
+  author    = {Akash Baid and
+               Tam Vu and
+               Dipankar Raychaudhuri},
+  title     = {Comparing alternative approaches for networking of named objects in the future Internet},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {298-303},
 }
 
 @inproceedings{DBLP:conf/infocom/LiTZCX12,
@@ -366,6 +926,16 @@
   pages     = {298-306},
 }
 
+@inproceedings{DBLP:conf/infocom/CarofiglioGM12,
+  author    = {Giovanna Carofiglio and
+               Massimo Gallo and
+               Luca Muscariello},
+  title     = {ICP: Design and evaluation of an Interest control protocol for content-centric networking},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {304-309},
+}
+
 @inproceedings{DBLP:conf/infocom/LiX12,
   author    = {Haopeng Li and
                Jiang Xie},
@@ -373,6 +943,30 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {307-315},
+}
+
+@inproceedings{DBLP:conf/infocom/FrickerRRS12,
+  author    = {Christine Fricker and
+               Philippe Robert and
+               James Roberts and
+               Nada Sbihi},
+  title     = {Impact of traffic mix on caching performance in a content-centric network},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {310-315},
+}
+
+@inproceedings{DBLP:conf/infocom/ChoLPKCP12,
+  author    = {Kideok Cho and
+               Munyoung Lee and
+               Kunwoo Park and
+               Ted Taekyoung Kwon and
+               Yanghee Choi and
+               Sangheon Pack},
+  title     = {WAVE: Popularity-based and collaborative in-network caching for content-oriented networks},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {316-321},
 }
 
 @inproceedings{DBLP:conf/infocom/NeelyTZ12,
@@ -385,6 +979,15 @@
   pages     = {316-324},
 }
 
+@inproceedings{DBLP:conf/infocom/RozhnovaF12,
+  author    = {Natalya Rozhnova and
+               Serge Fdida},
+  title     = {An effective hop-by-hop Interest shaping mechanism for {CCN} communications},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {322-327},
+}
+
 @inproceedings{DBLP:conf/infocom/YinWZXL12,
   author    = {Xunrui Yin and
                Xin Wang and
@@ -395,6 +998,18 @@
   booktitle = infocom,
   year      = 2012,
   pages     = {325-333},
+}
+
+@inproceedings{DBLP:conf/infocom/WangWKVZ12,
+  author    = {Lucas Wang and
+               Ryuji Wakikawa and
+               Romain Kuntz and
+               Rama Vuyyuru and
+               Lixia Zhang},
+  title     = {Data naming in {Vehicle-to-Vehicle} communications},
+  booktitle = infocom,
+  year      = 2012,
+  pages     = {328-333},
 }
 
 @inproceedings{DBLP:conf/infocom/LuL12,

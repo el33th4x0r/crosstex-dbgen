@@ -1,11 +1,27 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sigmod/Keogh12,
+  author    = {Eamonn J. Keogh},
+  title     = {Getting your acceptance rate to 80%: a checklist for publishing},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {1-2},
+}
+
 @inproceedings{DBLP:conf/pods/Chaudhuri12,
   author    = {Surajit Chaudhuri},
   title     = {What next?: a half-dozen data management research goals for big data and the cloud},
   booktitle = pods,
   year      = 2012,
   pages     = {1-4},
+}
+
+@inproceedings{DBLP:conf/sigmod/Sadoghi12,
+  author    = {Mohammad Sadoghi},
+  title     = {Towards an extensible efficient event processing kernel},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {3-8},
 }
 
 @inproceedings{DBLP:conf/pods/AhnGM12,
@@ -18,6 +34,23 @@
   pages     = {5-14},
 }
 
+@inproceedings{DBLP:conf/sigmod/AjiW12,
+  author    = {Ablimit Aji and
+               Fusheng Wang},
+  title     = {High performance spatial query processing for large scale scientific data},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {9-14},
+}
+
+@inproceedings{DBLP:conf/sigmod/Petraki12,
+  author    = {Eleni Petraki},
+  title     = {Holistic indexing: offline, online and adaptive indexing in the same kernel},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {15-20},
+}
+
 @inproceedings{DBLP:conf/pods/IndykLR12,
   author    = {Piotr Indyk and
                Reut Levi and
@@ -26,6 +59,14 @@
   booktitle = pods,
   year      = 2012,
   pages     = {15-22},
+}
+
+@inproceedings{DBLP:conf/sigmod/Endler12,
+  author    = {Gregor Endler},
+  title     = {Data quality and integration in collaborative environments},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {21-26},
 }
 
 @inproceedings{DBLP:conf/pods/AgarwalCHPWY12,
@@ -39,6 +80,22 @@
   booktitle = pods,
   year      = 2012,
   pages     = {23-34},
+}
+
+@inproceedings{DBLP:conf/sigmod/Mesquita12,
+  author    = {Filipe Mesquita},
+  title     = {Clustering techniques for open relation extraction},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {27-32},
+}
+
+@inproceedings{DBLP:conf/sigmod/Sarwat12,
+  author    = {Mohamed Sarwat},
+  title     = {RecDB: towards {DBMS} support for online recommender systems},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {33-38},
 }
 
 @inproceedings{DBLP:conf/pods/HullKG12,
@@ -62,6 +119,22 @@
   pages     = {37-48},
 }
 
+@inproceedings{DBLP:conf/sigmod/Losemann12,
+  author    = {Katja Losemann},
+  title     = {Foundations of regular expressions in {XML} schema languages and {SPARQL}},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {39-44},
+}
+
+@inproceedings{DBLP:conf/sigmod/Skritek12,
+  author    = {Sebastian Skritek},
+  title     = {Foundational aspects of semantic web optimization},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {45-50},
+}
+
 @inproceedings{DBLP:conf/pods/GrozMS12,
   author    = {Benoît Groz and
                Sebastian Maneth and
@@ -72,12 +145,36 @@
   pages     = {49-60},
 }
 
+@inproceedings{DBLP:conf/sigmod/Li12,
+  author    = {Pei Li},
+  title     = {Linking records in dynamic world},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {51-56},
+}
+
+@inproceedings{DBLP:conf/sigmod/Bhandari12,
+  author    = {Samujjwal Bhandari},
+  title     = {An adaptive event stream processing environment},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {57-62},
+}
+
 @inproceedings{DBLP:conf/pods/Pierce12,
   author    = {Benjamin C. Pierce},
   title     = {Linguistic foundations for bidirectional transformations: invited tutorial},
   booktitle = pods,
   year      = 2012,
   pages     = {61-64},
+}
+
+@inproceedings{DBLP:conf/sigmod/Xiong12,
+  author    = {Pengcheng Xiong},
+  title     = {Dynamic management of resources and workloads for {RDBMS} in cloud: a control-theoretic approach},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {63-68},
 }
 
 @inproceedings{DBLP:conf/pods/ChoromanskiM12,
@@ -87,6 +184,14 @@
   booktitle = pods,
   year      = 2012,
   pages     = {65-76},
+}
+
+@inproceedings{DBLP:conf/sigmod/Liu12,
+  author    = {Mengmeng Liu},
+  title     = {Efficient optimization and processing for distributed monitoring and control applications},
+  booktitle = pods,
+  year      = 2012,
+  pages     = {69-74},
 }
 
 @inproceedings{DBLP:conf/pods/KiferM12,

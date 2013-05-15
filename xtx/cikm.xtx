@@ -12649,12 +12649,50 @@
   pages     = {1981-1982},
 }
 
+@inproceedings{DBLP:conf/cikm/Leskovec09,
+  author    = {Jure Leskovec},
+  title     = {Networks, communities and kronecker products},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {1-2},
+}
+
 @inproceedings{DBLP:conf/cikm/Whang09,
   author    = {Kyu-Young Whang},
   title     = {{DB-IR} integration and its application to a massively-parallel search engine},
   booktitle = cikm,
   year      = 2009,
   pages     = {1-2},
+}
+
+@inproceedings{DBLP:conf/cikm/KimZOC09,
+  author    = {Hyeonsook Kim and
+               Ying Zhang and
+               Samia Oussena and
+               Tony Clark},
+  title     = {A case study on model driven data integration for data centric software development},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/cikm/CanoNT09,
+  author    = {Isaac Cano and
+               Guillermo Navarro-Arribas and
+               Vicenç Torra},
+  title     = {A new framework to automate constrained microaggregation},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/cikm/CheongL09,
+  author    = {Marc Cheong and
+               Vincent C. S. Lee},
+  title     = {Integrating web-based intelligence retrieval and decision-making from the twitter trends knowledge base},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {1-8},
 }
 
 @inproceedings{DBLP:conf/cikm/Chang09,
@@ -12665,12 +12703,32 @@
   pages     = {3},
 }
 
+@inproceedings{DBLP:conf/cikm/WuYYW09,
+  author    = {Bin Wu and
+               Qi Ye and
+               Shengqi Yang and
+               Bai Wang},
+  title     = {Group CRM: a new telecom {CRM} framework from social network perspective},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {3-10},
+}
+
 @inproceedings{DBLP:conf/cikm/Yu09,
   author    = {Clement T. Yu},
   title     = {Advanced metasearch engines},
   booktitle = cikm,
   year      = 2009,
   pages     = {5},
+}
+
+@inproceedings{DBLP:conf/cikm/LeeD09,
+  author    = {Hyo-Sub Lee and
+               Kyung-Goo Doh},
+  title     = {Tree-pattern-based duplicate code detection},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {7-12},
 }
 
 @inproceedings{DBLP:conf/cikm/LiuDRL09,
@@ -12684,6 +12742,67 @@
   pages     = {7-16},
 }
 
+@inproceedings{DBLP:conf/cikm/Gomez-BaoLP09,
+  author    = {Jordi Gómez-Bao and
+               Josep-Lluis Larriba-Pey and
+               Josepa Ribes Puig},
+  title     = {Record linkage performance for large data sets},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {9-16},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhangZT09,
+  author    = {Ning Zhang and
+               Yuan Zhang and
+               Jie Tang},
+  title     = {A tag recommendation system for folksonomy},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {9-16},
+}
+
+@inproceedings{DBLP:conf/cikm/DuanLJL09,
+  author    = {Dongsheng Duan and
+               Yuhua Li and
+               Yanan Jin and
+               Zhengding Lu},
+  title     = {Community mining on dynamic weighted directed graphs},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {11-18},
+}
+
+@inproceedings{DBLP:conf/cikm/JungOY09,
+  author    = {Yungbum Jung and
+               Hakjoo Oh and
+               Kwangkeun Yi},
+  title     = {Identifying static analysis techniques for finding non-fix hunks in fix revisions},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/cikm/TanKS09,
+  author    = {Saravadee Sae Tan and
+               Tang Enya Kong and
+               Gian Chand Sodhy},
+  title     = {Annotating wikipedia articles with semantic tags for structured retrieval},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {17-24},
+}
+
+@inproceedings{DBLP:conf/cikm/TroussetPM09,
+  author    = {François Trousset and
+               Pascal Poncelet and
+               Florent Masseglia},
+  title     = {SAX: a privacy preserving general pupose methodapplied to detection of intrusions},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {17-24},
+}
+
 @inproceedings{DBLP:conf/cikm/KhareA09,
   author    = {Ritu Khare and
                Yuan An},
@@ -12691,6 +12810,76 @@
   booktitle = cikm,
   year      = 2009,
   pages     = {17-26},
+}
+
+@inproceedings{DBLP:conf/cikm/ZahidAD09,
+  author    = {Noman Zahid and
+               Muhammad Shahid Ansari and
+               Kyung-Goo Doh},
+  title     = {Transaction synchronization protocol using {XML} in client-server environment},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {19-20},
+}
+
+@inproceedings{DBLP:conf/cikm/LuRCDLC09,
+  author    = {Yu-En Lu and
+               Sam G. B. Roberts and
+               Tammy M. K. Cheng and
+               Robin Dunbar and
+               Pietro Liò and
+               Jon Crowcroft},
+  title     = {On optimising personal network size to manage information flow},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {19-26},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhangZL09,
+  author    = {Xin Zhang and
+               Zhihao Zhang and
+               Jinlong Lin},
+  title     = {A method of workload compression basing on characteristics for index selection},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {21-22},
+}
+
+@inproceedings{DBLP:conf/cikm/LikarishJ09,
+  author    = {Peter Likarish and
+               Eunjin Jung},
+  title     = {A targeted web crawling for building malicious javascript collection},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {23-26},
+}
+
+@inproceedings{DBLP:conf/cikm/KodeswaranV09,
+  author    = {Palanivel Balaji Kodeswaran and
+               Evelyne Viegas},
+  title     = {Applying differential privacy to search queries in a policy based interactive framework},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {25-32},
+}
+
+@inproceedings{DBLP:conf/cikm/ZhouK09,
+  author    = {Tom Chao Zhou and
+               Irwin King},
+  title     = {Automobile, car and BMW: horizontal and hierarchical approach in social tagging systems},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {25-32},
+}
+
+@inproceedings{DBLP:conf/cikm/KwonKP09,
+  author    = {Yong-Suk Kwon and
+               Sang-Wook Kim and
+               Sunju Park},
+  title     = {An analysis of information diffusion in the blog world},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {27-30},
 }
 
 @inproceedings{DBLP:conf/cikm/KatoOOT09,
@@ -12704,6 +12893,45 @@
   pages     = {27-36},
 }
 
+@inproceedings{DBLP:conf/cikm/ChanLL09,
+  author    = {Shu Yan Chan and
+               Ian X. Y. Leung and
+               Pietro Liò},
+  title     = {Fast centrality approximation in modular networks},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {31-38},
+}
+
+@inproceedings{DBLP:conf/cikm/Domingo-Ferrer09,
+  author    = {Josep Domingo-Ferrer},
+  title     = {Weighted network decapitation: the economics of iterated attack and defense},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {33-36},
+}
+
+@inproceedings{DBLP:conf/cikm/WuZYST09,
+  author    = {Bin Wu and
+               Fengying Zhao and
+               Shengqi Yang and
+               Lijun Suo and
+               Hongqiao Tian},
+  title     = {Characterizing the evolution of collaboration network},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {33-40},
+}
+
+@inproceedings{DBLP:conf/cikm/SeisungsittisuntiN09,
+  author    = {Bowonsak Seisungsittisunti and
+               Juggapong Natwichai},
+  title     = {Incremental privacy preservation for associative classification},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {37-44},
+}
+
 @inproceedings{DBLP:conf/cikm/WangHLS09,
   author    = {Ye-Yi Wang and
                Raphael Hoffmann and
@@ -12715,6 +12943,48 @@
   pages     = {37-46},
 }
 
+@inproceedings{DBLP:conf/cikm/SantosELE09,
+  author    = {Cristian Klen dos Santos and
+               Alexandre Evsukoff and
+               Beatriz S. L. P. de Lima and
+               Nelson F. F. Ebecken},
+  title     = {Potential collaboration discovery using document clustering and community structure detection},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {39-46},
+}
+
+@inproceedings{DBLP:conf/cikm/KimB09,
+  author    = {Hyoungshick Kim and
+               Joseph Bonneau},
+  title     = {Privacy-enhanced public view for social graphs},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {41-48},
+}
+
+@inproceedings{DBLP:conf/cikm/WaddeyPY09,
+  author    = {Moez Waddey and
+               Pascal Poncelet and
+               Sadok Ben Yahia},
+  title     = {A novel approach for privacy mining of generic basic association rules},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {45-52},
+}
+
+@inproceedings{DBLP:conf/cikm/MaLNSL09,
+  author    = {Nan Ma and
+               Ee-Peng Lim and
+               Viet-An Nguyen and
+               Aixin Sun and
+               Haifeng Liu},
+  title     = {Trust relationship prediction using online product review data},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {47-54},
+}
+
 @inproceedings{DBLP:conf/cikm/ZhengSWG09,
   author    = {Shuyi Zheng and
                Ruihua Song and
@@ -12724,6 +12994,42 @@
   booktitle = cikm,
   year      = 2009,
   pages     = {47-56},
+}
+
+@inproceedings{DBLP:conf/cikm/LeungLI09,
+  author    = {Janice Kwan-Wai Leung and
+               Chun Hung Li and
+               Ting Keung Ip},
+  title     = {Commentary-based video categorization and concept discovery},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {49-56},
+}
+
+@inproceedings{DBLP:conf/cikm/Olsson09,
+  author    = {Fredrik Olsson},
+  title     = {On privacy preservation in text and document-based active learning for named entity recognition},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {53-60},
+}
+
+@inproceedings{DBLP:conf/cikm/LuZ09,
+  author    = {Linyuan Lu and
+               Tao Zhou},
+  title     = {Role of weak ties in link prediction of complex networks},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {55-58},
+}
+
+@inproceedings{DBLP:conf/cikm/SmetM09,
+  author    = {Wim De Smet and
+               Marie-Francine Moens},
+  title     = {Cross-language linking of news stories on the web using interlingual topic modelling},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {57-64},
 }
 
 @inproceedings{DBLP:conf/cikm/BeckerBGJP09,
@@ -12738,6 +13044,35 @@
   pages     = {57-66},
 }
 
+@inproceedings{DBLP:conf/cikm/Tanta-ngaiMK09,
+  author    = {Hathai Tanta-ngai and
+               Evangelos E. Milios and
+               Vlado Keselj},
+  title     = {Self-organizing peer-to-peer networks for collaborative document tracking},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {59-66},
+}
+
+@inproceedings{DBLP:conf/cikm/BodendorfK09,
+  author    = {Freimut Bodendorf and
+               Carolin Kaiser},
+  title     = {Detecting opinion leaders and trends in online social networks},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {65-68},
+}
+
+@inproceedings{DBLP:conf/cikm/BakkerOS09,
+  author    = {Arno Bakker and
+               Elth Ogston and
+               Maarten van Steen},
+  title     = {Collaborative filtering using random neighbours in peer-to-peer networks},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {67-75},
+}
+
 @inproceedings{DBLP:conf/cikm/AshkanC09,
   author    = {Azin Ashkan and
                Charles L. A. Clarke},
@@ -12747,6 +13082,16 @@
   pages     = {67-76},
 }
 
+@inproceedings{DBLP:conf/cikm/SpiegelKL09,
+  author    = {Stephan Spiegel and
+               Jérôme Kunegis and
+               Fang Li},
+  title     = {Hydra: a hybrid recommender system [cross-linked rating and content information]},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {75-80},
+}
+
 @inproceedings{DBLP:conf/cikm/HuangE09,
   author    = {Jeff Huang and
                Efthimis N. Efthimiadis},
@@ -12754,6 +13099,17 @@
   booktitle = cikm,
   year      = 2009,
   pages     = {77-86},
+}
+
+@inproceedings{DBLP:conf/cikm/ScheringDFB09,
+  author    = {Alf-Christian Schering and
+               Martin Dueffer and
+               Andreas Finger and
+               Ilvio Bruder},
+  title     = {A mobile tourist assistance and recommendation system based on complex networks},
+  booktitle = cikm,
+  year      = 2009,
+  pages     = {81-84},
 }
 
 @inproceedings{DBLP:conf/cikm/WhiteD09,
@@ -16166,6 +16522,16 @@
   pages     = {1-2},
 }
 
+@inproceedings{DBLP:conf/cikm/AiresLS08,
+  author    = {José Aires and
+               Gabriel Pereira Lopes and
+               Joaquim Ferreira da Silva},
+  title     = {Efficient multi-word expressions extractor using suffix arrays and related structures},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {1-8},
+}
+
 @inproceedings{DBLP:conf/cikm/DashRMAL08,
   author    = {Debabrata Dash and
                Jun Rao and
@@ -16176,6 +16542,15 @@
   booktitle = cikm,
   year      = 2008,
   pages     = {3-12},
+}
+
+@inproceedings{DBLP:conf/cikm/Al-ShammariL08,
+  author    = {Eiman Tamah Al-Shammari and
+               Jessica Lin},
+  title     = {Towards an error-free Arabic stemming},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {9-16},
 }
 
 @inproceedings{DBLP:conf/cikm/RoyWDNM08,
@@ -16190,6 +16565,16 @@
   pages     = {13-22},
 }
 
+@inproceedings{DBLP:conf/cikm/GaoBZ08,
+  author    = {Wei Gao and
+               John Blitzer and
+               Ming Zhou},
+  title     = {Using English information in {non-English} web search},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {17-24},
+}
+
 @inproceedings{DBLP:conf/cikm/BordognaCPR08,
   author    = {Gloria Bordogna and
                Alessandro Campi and
@@ -16201,6 +16586,26 @@
   pages     = {23-32},
 }
 
+@inproceedings{DBLP:conf/cikm/FernandezCF08,
+  author    = {Milagros Fernández Gavilanes and
+               Eric Villemonte de la Clergerie and
+               Manuel Vilares Ferro},
+  title     = {Mining conceptual graphs for knowledge acquisition},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {25-32},
+}
+
+@inproceedings{DBLP:conf/cikm/JanarthanamSN08,
+  author    = {Srinivasan C. Janarthanam and
+               Sethuramalingam Subramaniam and
+               Udhyakumar Nallasamy},
+  title     = {Named entity transliteration for cross-language information retrieval using compressed word format mapping algorithm},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {33-38},
+}
+
 @inproceedings{DBLP:conf/cikm/ChuangC08,
   author    = {Shui-Lung Chuang and
                Kevin Chen-Chuan Chang},
@@ -16208,6 +16613,16 @@
   booktitle = cikm,
   year      = 2008,
   pages     = {33-42},
+}
+
+@inproceedings{DBLP:conf/cikm/OteroVF08,
+  author    = {Juan Otero and
+               Jesús Vilares and
+               Manuel Vilares Ferro},
+  title     = {Corrupted queries in Spanish text retrieval: error correction vs. {N-Grams}},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {39-46},
 }
 
 @inproceedings{DBLP:conf/cikm/RadlinskiKJ08,
@@ -16220,6 +16635,16 @@
   pages     = {43-52},
 }
 
+@inproceedings{DBLP:conf/cikm/PaltoglouSL08,
+  author    = {Georgios Paltoglou and
+               Michail Salampasis and
+               Fotis Lazarinis},
+  title     = {Indexing and retrieval of a Greek corpus},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {47-54},
+}
+
 @inproceedings{DBLP:conf/cikm/NajorkC08,
   author    = {Marc Najork and
                Nick Craswell},
@@ -16227,6 +16652,26 @@
   booktitle = cikm,
   year      = 2008,
   pages     = {53-62},
+}
+
+@inproceedings{DBLP:conf/cikm/ShibataE08,
+  author    = {Tetsuya Shibata and
+               Koji Eguchi},
+  title     = {Automatic query structuring from sentences for Japanese web retrieval},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {55-62},
+}
+
+@inproceedings{DBLP:conf/cikm/StamouKTZ08,
+  author    = {Sofia Stamou and
+               Lefteris Kozanidis and
+               Paraskevi Tzekou and
+               Nikos Zotos},
+  title     = {Query selection for improved Greek web searches},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {63-70},
 }
 
 @inproceedings{DBLP:conf/cikm/HuangWL08,
@@ -16237,6 +16682,17 @@
   booktitle = cikm,
   year      = 2008,
   pages     = {63-72},
+}
+
+@inproceedings{DBLP:conf/cikm/WuHJG08,
+  author    = {Dan Wu and
+               Daqing He and
+               Heng Ji and
+               Ralph Grishman},
+  title     = {A study of using an out-of-box commercial {MT} system for query translation in {CLIR}},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {71-76},
 }
 
 @inproceedings{DBLP:conf/cikm/DouSYW08,
@@ -16250,6 +16706,25 @@
   pages     = {73-82},
 }
 
+@inproceedings{DBLP:conf/cikm/AleAhmadARO08,
+  author    = {Abolfazl AleAhmad and
+               Hadi Amiri and
+               Masoud Rahgozar and
+               Farhad Oroumchian},
+  title     = {Experiments with {English-Persian} text retrieval},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {77-80},
+}
+
+@inproceedings{DBLP:conf/cikm/Efthimiadis08,
+  author    = {Efthimis N. Efthimiadis},
+  title     = {How do Greeks search the web?: a query log analysis study},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {81-84},
+}
+
 @inproceedings{DBLP:conf/cikm/HuangMG08,
   author    = {Jian Huang and
                Omid Madani and
@@ -16260,6 +16735,37 @@
   pages     = {83-92},
 }
 
+@inproceedings{DBLP:conf/cikm/HaruechaiyasakKD08,
+  author    = {Choochart Haruechaiyasak and
+               Sarawoot Kongyoung and
+               Chaianun Damrongrat},
+  title     = {LearnLexTo: a machine-learning based word segmentation for indexing Thai texts},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {85-88},
+}
+
+@inproceedings{DBLP:conf/cikm/LazarinisE08,
+  author    = {Fotis Lazarinis and
+               Efthimis N. Efthimiadis},
+  title     = {Measuring search engine quality in image queries in 10 {non-English} languages: an exploratory study},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {89-92},
+}
+
+@inproceedings{DBLP:conf/cikm/PalMMMS08,
+  author    = {Dipasree Pal and
+               Prasenjit Majumder and
+               Mandar Mitra and
+               Sukanya Mitra and
+               Aparajita Sen},
+  title     = {Issues in searching for Indian language web content},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {93-96},
+}
+
 @inproceedings{DBLP:conf/cikm/SongZG08,
   author    = {Yang Song and
                Lu Zhang and
@@ -16268,6 +16774,26 @@
   booktitle = cikm,
   year      = 2008,
   pages     = {93-102},
+}
+
+@inproceedings{DBLP:conf/cikm/Riaz08a,
+  author    = {Kashif Riaz},
+  title     = {Baseline for Urdu {IR} evaluation},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {97-100},
+}
+
+@inproceedings{DBLP:conf/cikm/WangBGJP08,
+  author    = {Xuerui Wang and
+               Andrei Z. Broder and
+               Evgeniy Gabrilovich and
+               Vanja Josifovski and
+               Bo Pang},
+  title     = {Cross-lingual query classification: a preliminary study},
+  booktitle = cikm,
+  year      = 2008,
+  pages     = {101-104},
 }
 
 @inproceedings{DBLP:conf/cikm/LuoZHXH08,
@@ -21393,6 +21919,16 @@
   pages     = {1},
 }
 
+@inproceedings{DBLP:conf/cikm/FoedischSS05,
+  author    = {Mike Foedisch and
+               Craig Schlenoff and
+               Michael Shneier},
+  title     = {Towards an approach for knowledge-based road detection},
+  booktitle = cikm,
+  year      = 2005,
+  pages     = {1-8},
+}
+
 @inproceedings{DBLP:conf/cikm/Ioannidis05,
   author    = {Yannis E. Ioannidis},
   title     = {Emerging data management systems: close-up and personal},
@@ -21420,6 +21956,14 @@
   pages     = {4-11},
 }
 
+@inproceedings{DBLP:conf/cikm/Gottfried05,
+  author    = {Björn Gottfried},
+  title     = {Collision avoidance with bipartite arrangements},
+  booktitle = cikm,
+  year      = 2005,
+  pages     = {9-16},
+}
+
 @inproceedings{DBLP:conf/cikm/MihajlovicBHA05,
   author    = {Vojkan Mihajlovic and
                Henk Ernst Blok and
@@ -21429,6 +21973,14 @@
   booktitle = cikm,
   year      = 2005,
   pages     = {12-19},
+}
+
+@inproceedings{DBLP:conf/cikm/Cebulla05,
+  author    = {Michael Cebulla},
+  title     = {Knowledge-based assessment of behavior in dynamic environments},
+  booktitle = cikm,
+  year      = 2005,
+  pages     = {17-26},
 }
 
 @inproceedings{DBLP:conf/cikm/ArvolaJK05,
@@ -21441,6 +21993,15 @@
   pages     = {20-27},
 }
 
+@inproceedings{DBLP:conf/cikm/SchlenoffM05,
+  author    = {Craig Schlenoff and
+               Elena Messina},
+  title     = {A robot ontology for urban search and rescue},
+  booktitle = cikm,
+  year      = 2005,
+  pages     = {27-34},
+}
+
 @inproceedings{DBLP:conf/cikm/HallerST05,
   author    = {Klaus Haller and
                Heiko Schuldt and
@@ -21449,6 +22010,16 @@
   booktitle = cikm,
   year      = 2005,
   pages     = {28-35},
+}
+
+@inproceedings{DBLP:conf/cikm/ScrapperBM05,
+  author    = {Chris Scrapper and
+               Stephen Balakirsky and
+               Elena Messina},
+  title     = {self awareness in the mobility open architecture simulation and tools framework},
+  booktitle = cikm,
+  year      = 2005,
+  pages     = {35-41},
 }
 
 @inproceedings{DBLP:conf/cikm/GrecoS05,

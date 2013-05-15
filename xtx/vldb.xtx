@@ -1,5 +1,108 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/AlbrechtN09,
+  author    = {Alexander Albrecht and
+               Felix Naumann},
+  title     = {METL: Managing and Integrating {ETL} Processes},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/AlbutiuK09,
+  author    = {Martina-Cezara Albutiu and
+               Alfons Kemper},
+  title     = {Synergy-based Workload Management},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/BarhamgiB09,
+  author    = {Mahmoud Barhamgi and
+               Djamal Benslimane},
+  title     = {Composing {Data-Providing} Web Services},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/BoukhelefK09,
+  author    = {Djelloul Boukhelef and
+               Hiroyuki Kitagawa},
+  title     = {Efficient Management of Multidimensional Data in Structured Peer-to-peer Overlays},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/DemidovaN09,
+  author    = {Elena Demidova and
+               Wolfgang Nejdl},
+  title     = {Usability and Expressiveness in Database Keyword Search: Bridging the Gap},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/DickP09,
+  author    = {Manal El Dick and
+               Esther Pacitti},
+  title     = {Leveraging P2P overlays for Large-scale and Highly Robust Content Distribution and Search},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/KranenS09,
+  author    = {Philipp Kranen and
+               Thomas Seidl},
+  title     = {Using Index Structures for Anytime Stream Mining},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/LiarouK09,
+  author    = {Erietta Liarou and
+               Martin L. Kersten},
+  title     = {DataCell: Building a Data Stream Engine on top of a Relational Database Kernel},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/MarketosT09,
+  author    = {Gerasimos Marketos and
+               Yannis Theodoridis},
+  title     = {Mobility Data Warehousing and Mining},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/Muller-MolinaS09,
+  author    = {Arnoldo José Müller Molina and
+               Takeshi Shinohara},
+  title     = {Towards Low Carbon Similarity Search with Compressed Sketches},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/SilvaA09,
+  author    = {Yasin N. Silva and
+               Walid G. Aref},
+  title     = {Similarity-aware Query Processing and Optimization},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/WeinerH09,
+  author    = {Andreas M. Weiner and
+               Theo Härder},
+  title     = {{Framework-Based} Development and Evaluation of {Cost-Based} Native {XML} Query Optimization Techniques},
+  booktitle = vldb,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/vldb/Yan09,
+  author    = {Zhixian Yan},
+  title     = {Towards Semantic Trajectory Data Analysis: A Conceptual and Computational Approach},
+  booktitle = vldb,
+  year      = 2009,
+}
+
 @inproceedings{DBLP:conf/vldb/X07,
   author    = {},
   title     = {Cover Page},
@@ -6216,6 +6319,125 @@
   booktitle = vldb,
   year      = 2004,
   pages     = {1377-1380},
+}
+
+@inproceedings{DBLP:conf/vldb/Marrara03,
+  author    = {Stefania Marrara},
+  title     = {Analysis and design of approximate queries over {XML} documents using statistical techniques},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Michiels03,
+  author    = {Philippe Michiels},
+  title     = {{XQuery} Optimization},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Mihajlovic03,
+  author    = {Vojkan Mihajlovic},
+  title     = {{CIRQuL} - Complex Information Retrieval Query Language},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Muller03,
+  author    = {Heiko Müller},
+  title     = {Semantic Data Cleansing in Genome Databases},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Pevzner03,
+  author    = {Ilya Pevzner},
+  title     = {Extending relational database functionality with data inconsistency resolution support},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Pohle03,
+  author    = {Carsten Pohle},
+  title     = {Integrating and Updating Domain Knowledge with Data Mining},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Schindler03,
+  author    = {Jiri Schindler},
+  title     = {Matching Database Access Patterns to Storage Characteristics},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Schlesinger03,
+  author    = {Lutz Schlesinger},
+  title     = {Consistency Based Snapshot Management in Data Grids},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Simitsis03,
+  author    = {Alkis Simitsis},
+  title     = {Modeling and managing {ETL} processes},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Teubner03,
+  author    = {Jens Teubner},
+  title     = {Pathfinder: Compiling {XQuery} for Execution on the Monet Database Engine},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Treijtel03,
+  author    = {Caspar Treijtel},
+  title     = {AmbientDB: Complex Query Processing for P2P Networks},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Vereb03,
+  author    = {Krisztian Vereb},
+  title     = {On a Hierarchical Indexing Fuzzy {Content-Based} Image Retrieval Approach},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Wang03,
+  author    = {Jiying Wang},
+  title     = {Information Discovery, Extraction and Integration for the Hidden Web},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Wang03a,
+  author    = {Qiang Wang},
+  title     = {Combined Locking Approach for Scheduling Hard {Real-Time} Transactions in {Real-Time} Databases},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Wasserkrug03,
+  author    = {Segev Wasserkrug},
+  title     = {Inference and Prediction of Uncertain Events in Active Systems: A Language and Execution Model},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Witterstein03,
+  author    = {Gabriele Witterstein},
+  title     = {A Space Efficient Persistent Implementation of an Index for {DNA} Sequences},
+  booktitle = vldb,
+  year      = 2003,
+}
+
+@inproceedings{DBLP:conf/vldb/Zhou03,
+  author    = {Yongluan Zhou},
+  title     = {Adaptive Distributed Query Processing},
+  booktitle = vldb,
+  year      = 2003,
 }
 
 @inproceedings{DBLP:conf/vldb/EleftheriouBCDHLPPABDDDGJHLRSVW03,
@@ -20871,482 +21093,6 @@
   pages     = {386-387},
 }
 
-@inproceedings{DBLP:conf/vldb/Date81,
-  author    = {C. J. Date},
-  title     = {Referential Integrity},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {2-12},
-}
-
-@inproceedings{DBLP:conf/vldb/Kent81,
-  author    = {William Kent},
-  title     = {Data Model Theory Meets a Practical Application},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {13-22},
-}
-
-@inproceedings{DBLP:conf/vldb/AntonellisZ81,
-  author    = {Valeria De Antonellis and
-               Bruna Zonta},
-  title     = {Modelling Events a Data Base Application Design},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {23-31},
-}
-
-@inproceedings{DBLP:conf/vldb/Brodie81,
-  author    = {Michael L. Brodie},
-  title     = {On Modelling Behavioural Semantics of Databases},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {32-42},
-}
-
-@inproceedings{DBLP:conf/vldb/MenonH81,
-  author    = {M. J. Menon and
-               David K. Hsiao},
-  title     = {Design and Analysis of a Relational Join Operation for {VLSI}},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {44-55},
-}
-
-@inproceedings{DBLP:conf/vldb/ArmisenC81,
-  author    = {J. P. Armisen and
-               J. Y. Caleca},
-  title     = {A Commercial {Back-End} Data Base System},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {56-65},
-}
-
-@inproceedings{DBLP:conf/vldb/Pramanik81,
-  author    = {Sakti Pramanik},
-  title     = {Hardware Organization for Nonnumeric Processing},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {66-75},
-}
-
-@inproceedings{DBLP:conf/vldb/Muraszkiewicz81,
-  author    = {M. Muraszkiewicz},
-  title     = {Concepts of Sorting and Projection in a Cellular Array},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {76-80},
-}
-
-@inproceedings{DBLP:conf/vldb/Yannakakis81,
-  author    = {Mihalis Yannakakis},
-  title     = {Algorithms for Acyclic Database Schemes},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {82-94},
-}
-
-@inproceedings{DBLP:conf/vldb/Chase81,
-  author    = {Karen Chase},
-  title     = {Join Graphs and Acyclic Database Schemes},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {95-100},
-}
-
-@inproceedings{DBLP:conf/vldb/Goldstein81,
-  author    = {Billie S. Goldstein},
-  title     = {Constraints on Null Values in Relational Databases},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {101-110},
-}
-
-@inproceedings{DBLP:conf/vldb/FussellKS81,
-  author    = {Donald S. Fussell and
-               Zvi M. Kedem and
-               Abraham Silberschatz},
-  title     = {A Theory of Correct Locking Protocols for Database Systems},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {112-124},
-}
-
-@inproceedings{DBLP:conf/vldb/Schlageter81,
-  author    = {Gunter Schlageter},
-  title     = {Optimistic Methods for Concurrency Control in Distributed Database Systems},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {125-130},
-}
-
-@inproceedings{DBLP:conf/vldb/TanakamK81,
-  author    = {Katsumi Tanaka and
-               Yahiko Kambayashi},
-  title     = {Logical Integration of Locally Independent Relational Databases into a Distributed Database},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {131-141},
-}
-
-@inproceedings{DBLP:conf/vldb/Gray81,
-  author    = {Jim Gray},
-  title     = {The Transaction Concept: Virtues and Limitations},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {144-154},
-}
-
-@inproceedings{DBLP:conf/vldb/Borr81,
-  author    = {Andrea J. Borr},
-  title     = {Transaction Monitoring in ENCOMPASS: Reliable Distributed Transaction Processing},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {155-165},
-}
-
-@inproceedings{DBLP:conf/vldb/BeeriO81,
-  author    = {Catriel Beeri and
-               Ron Obermarck},
-  title     = {A Resource Class Independent Deadlock Detection Algorithm},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {166-178},
-}
-
-@inproceedings{DBLP:conf/vldb/Fields81,
-  author    = {C. Fields},
-  title     = {User Interfaces for Pictorial Data Bases},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {180},
-}
-
-@inproceedings{DBLP:conf/vldb/Sevcik81,
-  author    = {Kenneth C. Sevcik},
-  title     = {Data Base System Performance Prediction Using an Analytical Model},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {182-198},
-}
-
-@inproceedings{DBLP:conf/vldb/DeWittH81,
-  author    = {David J. DeWitt and
-               Paula B. Hawthorn},
-  title     = {A Performance Evaluation of Data Base Machine Architectures},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {199-214},
-}
-
-@inproceedings{DBLP:conf/vldb/Hainaut81,
-  author    = {Jean-Luc Hainaut},
-  title     = {Theoretical and Practical Tools for Data Base Design},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {216-224},
-}
-
-@inproceedings{DBLP:conf/vldb/Sakai81,
-  author    = {Hirotaka Sakai},
-  title     = {A Method for Defining Information Structures and Transactions in Conceptual Schema Design},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {225-234},
-}
-
-@inproceedings{DBLP:conf/vldb/LeonardL81,
-  author    = {Michel Léonard and
-               B. T. Luong},
-  title     = {Information Systems Design Approach Integrating Data and Transactions},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {235-246},
-}
-
-@inproceedings{DBLP:conf/vldb/Gallaire81,
-  author    = {Hervé Gallaire},
-  title     = {Impacts of Logic and Databases},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {248-259},
-}
-
-@inproceedings{DBLP:conf/vldb/BorgidaW81,
-  author    = {Alexander Borgida and
-               Harry K. T. Wong},
-  title     = {Data Models and Data Manipulation Languages: Complementary Semantics and Proof Theory},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {260-271},
-}
-
-@inproceedings{DBLP:conf/vldb/Warren81,
-  author    = {David H. D. Warren},
-  title     = {Efficient Processing of Interactive Relational Data Base Queries expressed in Logic},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {272-281},
-}
-
-@inproceedings{DBLP:conf/vldb/Su81,
-  author    = {Stanley Y. W. Su},
-  title     = {Data Base Machines: System Evaluation and Conversion Issues},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {284},
-}
-
-@inproceedings{DBLP:conf/vldb/Cammarate81,
-  author    = {Stephanie J. Cammarata},
-  title     = {Deferring Updates in a Relational Data Base System},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {286-292},
-}
-
-@inproceedings{DBLP:conf/vldb/Adiba81,
-  author    = {Michel E. Adiba},
-  title     = {Derived Relations: A Unified Mechanism for Views, Snapshots, and Distributed Data},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {293-305},
-}
-
-@inproceedings{DBLP:conf/vldb/KoenigP81,
-  author    = {Shaye Koenig and
-               Robert Paige},
-  title     = {A Transformational Framework for the Automatic Control of Derived Data},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {306-318},
-}
-
-@inproceedings{DBLP:conf/vldb/WhangWS81,
-  author    = {Kyu-Young Whang and
-               Gio Wiederhold and
-               Daniel Sagalowicz},
-  title     = {Separability - An Approach to Physical Data Base Design},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {320-332},
-}
-
-@inproceedings{DBLP:conf/vldb/Lomet81,
-  author    = {David B. Lomet},
-  title     = {Digital {B-Trees}},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {333-344},
-}
-
-@inproceedings{DBLP:conf/vldb/Karlsson81,
-  author    = {Kjell Karlsson},
-  title     = {Reduced {Cover-Trees} and their Application in the Sabre Access Path Model},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {345-353},
-}
-
-@inproceedings{DBLP:conf/vldb/Tsichritzis81,
-  author    = {Dennis Tsichritzis},
-  title     = {Integrating Data Base and Message Systems},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {356-362},
-}
-
-@inproceedings{DBLP:conf/vldb/Richter81,
-  author    = {Gernot Richter},
-  title     = {{IML-Inscribed} Nets for Modeling Text Processing and Data (Base) Management Systems},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {363-375},
-}
-
-@inproceedings{DBLP:conf/vldb/MontgomeryR81,
-  author    = {Christine A. Montgomery and
-               Enrique H. Ruspini},
-  title     = {The Active Information System: A {Data-Driven} System for the Analysis of Imprecise Data},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {376-384},
-}
-
-@inproceedings{DBLP:conf/vldb/Ries81,
-  author    = {Daniel R. Ries},
-  title     = {Distributed Data Processing Versus Distributed Data Base Processing},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {386},
-}
-
-@inproceedings{DBLP:conf/vldb/ImielinskiL81,
-  author    = {Tomasz Imielinski and
-               Witold Lipski Jr.},
-  title     = {On Representing Incomplete Information in a Relational Data Base},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {388-397},
-}
-
-@inproceedings{DBLP:conf/vldb/BancilhonS81,
-  author    = {François Bancilhon and
-               Nicolas Spyratos},
-  title     = {Independent Components of Databases},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {398-408},
-}
-
-@inproceedings{DBLP:conf/vldb/VelosoCF81,
-  author    = {Paulo A. S. Veloso and
-               José Mauro Volkmer de Castilho and
-               Antonio L. Furtado},
-  title     = {Systematic Derivation of Complementary Specifications},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {409-421},
-}
-
-@inproceedings{DBLP:conf/vldb/EggersOS81,
-  author    = {Susan J. Eggers and
-               Frank Olken and
-               Arie Shoshani},
-  title     = {A Compression Technique for Large Statistical {Data-Bases}},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {424-434},
-}
-
-@inproceedings{DBLP:conf/vldb/LynchB81,
-  author    = {Clifford A. Lynch and
-               E. B. Brownrigg},
-  title     = {Application of Data Compression to a Large Bibliographic Data Base},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {435-447},
-}
-
-@inproceedings{DBLP:conf/vldb/Frank81,
-  author    = {Andrew U. Frank},
-  title     = {Application of {DBMS} to Land Information Systems},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {448-453},
-}
-
-@inproceedings{DBLP:conf/vldb/ChamberlinGY81,
-  author    = {Donald D. Chamberlin and
-               A. M. Gilbert and
-               Robert A. Yost},
-  title     = {A History of System R and SQL/Data System},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {456-464},
-}
-
-@inproceedings{DBLP:conf/vldb/LienST81,
-  author    = {Y. Edmund Lien and
-               Jonathan E. Shopiro and
-               Shalom Tsur},
-  title     = {{DSIS} - A Database System with Interrelational Semantics},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {465-477},
-}
-
-@inproceedings{DBLP:conf/vldb/BenneworthBTHM81,
-  author    = {R. L. Benneworth and
-               C. D. Bishop and
-               C. J. M. Turnbull and
-               W. D. Holman and
-               F. M. Monette},
-  title     = {The Implementation of GERM, An {Entity-Relationship} Data Base Management System},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {478-484},
-}
-
-@inproceedings{DBLP:conf/vldb/Weber81,
-  author    = {Herbert Weber},
-  title     = {Data Bases for Software Development},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {486},
-}
-
-@inproceedings{DBLP:conf/vldb/MerrettKY81,
-  author    = {T. H. Merrett and
-               Yahiko Kambayashi and
-               H. Yasuura},
-  title     = {Scheduling of {Page-Fetches} in Join Operations},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {488-498},
-}
-
-@inproceedings{DBLP:conf/vldb/Soderlund81,
-  author    = {Lars Söderlund},
-  title     = {Concurrent Data Base Reorganization - Assessment of a Powerful Technique through Modeling},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {499-509},
-}
-
-@inproceedings{DBLP:conf/vldb/King81,
-  author    = {Jonathan J. King},
-  title     = {QUIST: A System for Semantic Query Optimization in Relational Databases},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {510-517},
-}
-
-@inproceedings{DBLP:conf/vldb/MakinouchiTKA81,
-  author    = {Akifumi Makinouchi and
-               Masayoshi Tezuka and
-               Hajime Kitakami and
-               S. Adachi},
-  title     = {The Optimization Strategy for Query Evaluation in RDB/V1},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {518-529},
-}
-
-@inproceedings{DBLP:conf/vldb/BussolatiM81,
-  author    = {U. Bussolati and
-               Giancarlo Martella},
-  title     = {A Database Approach to Modelling and Managing Security Information},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {532-542},
-}
-
-@inproceedings{DBLP:conf/vldb/Minsky81,
-  author    = {Naftaly H. Minsky},
-  title     = {Synergistic Authorization in Database Systems},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {543-552},
-}
-
-@inproceedings{DBLP:conf/vldb/ChanS81,
-  author    = {Paul Chan and
-               Arie Shoshani},
-  title     = {SUBJECT: A Directory Driven System for Organizing and Accessing Large Statistical Databases},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {553-563},
-}
-
-@inproceedings{DBLP:conf/vldb/Curtice81,
-  author    = {Robert M. Curtice},
-  title     = {Data Dictionaries: An Assessment of Current Practice and Problems},
-  booktitle = vldb,
-  year      = 1981,
-  pages     = {564-570},
-}
-
 @inproceedings{DBLP:conf/vldb/Gotlieb80,
   author    = {C. C. Gotlieb},
   title     = {Some Large Questions about Very Large Data Bases},
@@ -22234,6 +21980,14 @@
   pages     = {3-16},
 }
 
+@inproceedings{DBLP:conf/vldb/Sundgren78a,
+  author    = {Bo Sundgren},
+  title     = {Data Base Design in Theory and Practice - Towards an Integrated Methodology},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {3-23},
+}
+
 @inproceedings{DBLP:conf/vldb/Smith78,
   author    = {John Miles Smith},
   title     = {Comments on the paper "Data Base Design in Theory and Practice" by Bo Sundgren},
@@ -22264,6 +22018,48 @@
   booktitle = vldb,
   year      = 1978,
   pages     = {23-35},
+}
+
+@inproceedings{DBLP:conf/vldb/BubenkoY78a,
+  author    = {Janis A. Bubenko Jr. and
+               S. Bing Yao},
+  title     = {Data Base Design Tools},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {25-26},
+}
+
+@inproceedings{DBLP:conf/vldb/Heyderhoff78,
+  author    = {Peter Heyderhoff},
+  title     = {Comments on the paper "Data Base Design in Theory and Practice" by "Bo Sundgren"},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {27-28},
+}
+
+@inproceedings{DBLP:conf/vldb/Palmer78a,
+  author    = {Ian R. Palmer},
+  title     = {Comments on Dr. Sundgren's paper "Data Base Design in Theory and Practice - Towards an Integrated Methodology"},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {29-30},
+}
+
+@inproceedings{DBLP:conf/vldb/Smith78c,
+  author    = {John Miles Smith},
+  title     = {Comments on the paper "Data Base Design in Theory and Practice" by Bo Sundgren},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {31-32},
+}
+
+@inproceedings{DBLP:conf/vldb/TheysP78,
+  author    = {Michel Theys and
+               Jean Marie Plisnier},
+  title     = {Comments on the Paper "Data Base Design in Theory and Practice"},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {33-37},
 }
 
 @inproceedings{DBLP:conf/vldb/Weber78,
@@ -22298,6 +22094,14 @@
   booktitle = vldb,
   year      = 1978,
   pages     = {55-67},
+}
+
+@inproceedings{DBLP:conf/vldb/Weber78a,
+  author    = {Herbert Weber},
+  title     = {Modularity in Data Base System Design: A Software Engineering View of Data Base Systems},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {65-91},
 }
 
 @inproceedings{DBLP:conf/vldb/Hsiao78,
@@ -22344,6 +22148,40 @@
   pages     = {89-110},
 }
 
+@inproceedings{DBLP:conf/vldb/Earnest78,
+  author    = {Christopher Earnest},
+  title     = {Database Modularity},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {93-97},
+}
+
+@inproceedings{DBLP:conf/vldb/Smith78d,
+  author    = {John Miles Smith},
+  title     = {Comments on the Papers "A Software Engineering View of Data Base Management" by I. A. Wasserman and "A Software Engineering View of Data Base Systems" by H. Weber},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {99-102},
+}
+
+@inproceedings{DBLP:conf/vldb/Trauboth78,
+  author    = {Heinz Trauboth},
+  title     = {Data Base Design in Software Systems for Process Monitoring and Control},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {103-107},
+}
+
+@inproceedings{DBLP:conf/vldb/YehAC78,
+  author    = {Raymond T. Yeh and
+               Agustin A. Araya and
+               Philip Chang},
+  title     = {Software and Data Base Engineering - Towards a Common Design Methodology},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {109-123},
+}
+
 @inproceedings{DBLP:conf/vldb/Delobel78,
   author    = {Claude Delobel},
   title     = {Data Base Theory and Modeling - Theoretical and Practical Aspects},
@@ -22368,6 +22206,18 @@
   booktitle = vldb,
   year      = 1978,
   pages     = {126},
+}
+
+@inproceedings{DBLP:conf/vldb/AdibaCDGB78a,
+  author    = {Michel E. Adiba and
+               Jean-Claude Chupin and
+               Robert Demolombe and
+               Georges Gardarin and
+               Jean Le Bihan},
+  title     = {Issues in Distributed Data Base Management Systems: A Technical Overview},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {127-153},
 }
 
 @inproceedings{DBLP:conf/vldb/Berg78,
@@ -22459,12 +22309,36 @@
   pages     = {148-155},
 }
 
+@inproceedings{DBLP:conf/vldb/Bernstein78,
+  author    = {Philip A. Bernstein},
+  title     = {A Note on Theoretical Problems in Distributed Database Management},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {155-157},
+}
+
 @inproceedings{DBLP:conf/vldb/Smith78b,
   author    = {John Miles Smith},
   title     = {A Normal Form for Abstract Syntax},
   booktitle = vldb,
   year      = 1978,
   pages     = {156-162},
+}
+
+@inproceedings{DBLP:conf/vldb/Edelberg78,
+  author    = {Murray Edelberg},
+  title     = {Issues in Distributed Database Systems},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {159-161},
+}
+
+@inproceedings{DBLP:conf/vldb/Neuhold78,
+  author    = {Erich J. Neuhold},
+  title     = {Important Issues in Distributed Data Base Management Systems},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {163-165},
 }
 
 @inproceedings{DBLP:conf/vldb/Bardley78,
@@ -22475,12 +22349,36 @@
   pages     = {164-176},
 }
 
+@inproceedings{DBLP:conf/vldb/Rothnie78a,
+  author    = {James B. Rothnie Jr.},
+  title     = {Issues in Distributed Database Management Systems: A Technical Overview},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {167-170},
+}
+
+@inproceedings{DBLP:conf/vldb/Schneider78,
+  author    = {H.-J. Schneider},
+  title     = {Some Remarks on a Paper of Adiba, M. et al. on "Issues in Distributed Data Base Management Systems: A Technical Overview"},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {171-173},
+}
+
 @inproceedings{DBLP:conf/vldb/Kleefstra78,
   author    = {Willem J. Kleefstra},
   title     = {Data Base Description with a Single Name Category Data Model},
   booktitle = vldb,
   year      = 1978,
   pages     = {177-185},
+}
+
+@inproceedings{DBLP:conf/vldb/Chen78a,
+  author    = {Tien Chi Chen},
+  title     = {Computer Technology and the Database User},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {177-201},
 }
 
 @inproceedings{DBLP:conf/vldb/SharmanW78,
@@ -22501,12 +22399,86 @@
   pages     = {200-206},
 }
 
+@inproceedings{DBLP:conf/vldb/Berra78,
+  author    = {P. Bruce Berra},
+  title     = {Statement for the Session on Impact of New Technologies},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {203},
+}
+
+@inproceedings{DBLP:conf/vldb/Hollaar78,
+  author    = {Lee A. Hollaar},
+  title     = {Statement for the Session on Impact of New Technologies},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {205-206},
+}
+
+@inproceedings{DBLP:conf/vldb/Hsiao78a,
+  author    = {David K. Hsiao},
+  title     = {Statement for the Session on Impact of New Technologies},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {207-208},
+}
+
 @inproceedings{DBLP:conf/vldb/Chang78,
   author    = {H. Chang},
   title     = {On Bubble Memories and Relational Data Base},
   booktitle = vldb,
   year      = 1978,
   pages     = {207-229},
+}
+
+@inproceedings{DBLP:conf/vldb/Johnson78a,
+  author    = {H. Randall Johnson},
+  title     = {Statement for the Session on Impact of New Technologies},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {209-210},
+}
+
+@inproceedings{DBLP:conf/vldb/Kluge78a,
+  author    = {Werner E. Kluge},
+  title     = {Some Less Enthusiastic Remarks on the Impact of New Technologies},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {211-213},
+}
+
+@inproceedings{DBLP:conf/vldb/Leilich78,
+  author    = {Hans-Otto Leilich},
+  title     = {Impact of New Technologies},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {215},
+}
+
+@inproceedings{DBLP:conf/vldb/Schneider78a,
+  author    = {P. H. Schneider},
+  title     = {The Impact of New Technologies on the Architecture of Secondary Storage and Large Data Bases},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {217-218},
+}
+
+@inproceedings{DBLP:conf/vldb/Su78,
+  author    = {Stanley Y. W. Su},
+  title     = {Statement for the Session on Impact of New Technologies},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {219-220},
+}
+
+@inproceedings{DBLP:conf/vldb/HsiaoKM78a,
+  author    = {David K. Hsiao and
+               Douglas S. Kerr and
+               Stuart E. Madnick},
+  title     = {Privacy and Security of Data Communications and Data Bases},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {223-248},
 }
 
 @inproceedings{DBLP:conf/vldb/Manola78b,
@@ -22525,12 +22497,44 @@
   pages     = {243-254},
 }
 
+@inproceedings{DBLP:conf/vldb/Davida78a,
+  author    = {George I. Davida},
+  title     = {Privacy, Security and Databases: Any Solutions?},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {249-251},
+}
+
+@inproceedings{DBLP:conf/vldb/DeMillo78,
+  author    = {Richard A. DeMillo},
+  title     = {Database Security},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {253-256},
+}
+
 @inproceedings{DBLP:conf/vldb/Senko78,
   author    = {Michael E. Senko},
   title     = {{FORAL} LP: Design and Implementation},
   booktitle = vldb,
   year      = 1978,
   pages     = {255-267},
+}
+
+@inproceedings{DBLP:conf/vldb/Lockemann78,
+  author    = {Peter C. Lockemann},
+  title     = {Authorization and Database Security},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {257-258},
+}
+
+@inproceedings{DBLP:conf/vldb/Wasserman78b,
+  author    = {Anthony I. Wasserman},
+  title     = {Six Principles for Improving Security in the Use of Medical Data Bases},
+  booktitle = vldb,
+  year      = 1978,
+  pages     = {259-261},
 }
 
 @inproceedings{DBLP:conf/vldb/HollaarR78,
@@ -23361,138 +23365,6 @@
   booktitle = vldb,
   year      = 1977,
   pages     = {568-570},
-}
-
-@inproceedings{DBLP:conf/vldb/Kent76,
-  author    = {William Kent},
-  title     = {New Criteria for the Conceptual Model},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {1-12},
-}
-
-@inproceedings{DBLP:conf/vldb/Meltzer76,
-  author    = {Herbert S. Meltzer},
-  title     = {Structure and Redundancy in the Conceptual Schema in the Administration of Very Large Data Bases},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {13-25},
-}
-
-@inproceedings{DBLP:conf/vldb/HartsonH76,
-  author    = {H. Rex Hartson and
-               David K. Hsiao},
-  title     = {A Semantic Model for Data Base Protection Languages},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {27-42},
-}
-
-@inproceedings{DBLP:conf/vldb/KerschbergKT76,
-  author    = {Larry Kerschberg and
-               Anthony C. Klug and
-               Dennis Tsichritzis},
-  title     = {A Taxonomy of Data Models},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {43-64},
-}
-
-@inproceedings{DBLP:conf/vldb/Tompa76,
-  author    = {Frank Wm. Tompa},
-  title     = {Choosing an Efficient Internal Schema},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {65-77},
-}
-
-@inproceedings{DBLP:conf/vldb/SenkoA76,
-  author    = {Michael E. Senko and
-               Edward B. Altman},
-  title     = {{DIAM} {II} and Levels of Abstraction - The Physical Device Level: A General Model for Access Methods},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {79-94},
-}
-
-@inproceedings{DBLP:conf/vldb/Lozinskii76,
-  author    = {Eliezer L. Lozinskii},
-  title     = {Relational Transformation and a Redundancy in Relational Data Base},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {95-102},
-}
-
-@inproceedings{DBLP:conf/vldb/McGregorTD76,
-  author    = {D. R. McGregor and
-               R. G. Thomson and
-               W. N. Dawson},
-  title     = {High Performance Hardware for Database Systems},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {103-116},
-}
-
-@inproceedings{DBLP:conf/vldb/NahouraiiBC76,
-  author    = {E. Nahouraii and
-               L. O. Brooks and
-               Alfonso F. Cardenas},
-  title     = {An Approach to Data Communication between Different Generalized Data Base Management Systems},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {117-142},
-}
-
-@inproceedings{DBLP:conf/vldb/Su76,
-  author    = {Stanley Y. W. Su},
-  title     = {Application Program Conversion due to Data Base Changes},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {143-157},
-}
-
-@inproceedings{DBLP:conf/vldb/Bekke76,
-  author    = {J. H. ter Bekke},
-  title     = {A Data Manipulation Language for Relational Data Structures},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {159-168},
-}
-
-@inproceedings{DBLP:conf/vldb/Hitchcock76,
-  author    = {Peter Hitchcock},
-  title     = {User Extensions to the Peterlee Relational Test Vehicle},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {169-180},
-}
-
-@inproceedings{DBLP:conf/vldb/KelloggKT76,
-  author    = {Charles Kellogg and
-               Philip Klahr and
-               Larry Travis},
-  title     = {A Deductive Capability for Data Management},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {181-196},
-}
-
-@inproceedings{DBLP:conf/vldb/ErbeW76,
-  author    = {R. Erbe and
-               Georg Walch},
-  title     = {An Enduser Guidance Component for an Intelligent Data Base System},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {197-210},
-}
-
-@inproceedings{DBLP:conf/vldb/NoerrW76,
-  author    = {Peter L. Noerr and
-               M. C. White},
-  title     = {{MERLIN} - Design of a National Bibliographic Database},
-  booktitle = vldb,
-  year      = 1976,
-  pages     = {211-222},
 }
 
 @inproceedings{DBLP:conf/vldb/MahmoudR75,

@@ -23710,462 +23710,6 @@
   pages     = {434-443},
 }
 
-@inproceedings{DBLP:conf/sigmod/Neff87,
-  author    = {Raymond K. Neff},
-  title     = {Data Bases, Compound Objects, and Networked Workstations: Beyond Distributed Computing},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {1},
-}
-
-@inproceedings{DBLP:conf/sigmod/Ingenthron87,
-  author    = {Kurt Ingenthron},
-  title     = {Thoughts on Database Research: A User Perspective},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {2},
-}
-
-@inproceedings{DBLP:conf/sigmod/Halasz87,
-  author    = {Frank G. Halasz},
-  title     = {The Impact of Software Engineering Environments on the Design of Data Management Systems},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {3},
-}
-
-@inproceedings{DBLP:conf/sigmod/Gray87,
-  author    = {Jim Gray},
-  title     = {Operating System Support for Data Management Systems},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {4},
-}
-
-@inproceedings{DBLP:conf/sigmod/Wiederhold87,
-  author    = {Gio Wiederhold},
-  title     = {Experience with Knowledge Bases},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {5},
-}
-
-@inproceedings{DBLP:conf/sigmod/Mohan87,
-  author    = {C. Mohan},
-  title     = {Directions in System Architectures for High Transaction Rates},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {6},
-}
-
-@inproceedings{DBLP:conf/sigmod/Bitton87,
-  author    = {Dina Bitton},
-  title     = {Technology Trends in {Mass-Storage} Systems},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {7-8},
-}
-
-@inproceedings{DBLP:conf/sigmod/Ioannidis87,
-  author    = {Yannis E. Ioannidis and
-               Eugene Wong},
-  title     = {Query Optimization by Simulated Annealing},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {9-22},
-}
-
-@inproceedings{DBLP:conf/sigmod/GanskiW87,
-  author    = {Richard A. Ganski and
-               Harry K. T. Wong},
-  title     = {Optimization of Nested {SQL} Queries Revisited},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {23-33},
-}
-
-@inproceedings{DBLP:conf/sigmod/AbiteboulKG87,
-  author    = {Serge Abiteboul and
-               Paris C. Kanellakis and
-               Gösta Grahne},
-  title     = {On the Representation and Querying of Sets of Possible Worlds},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {34-48},
-}
-
-@inproceedings{DBLP:conf/sigmod/SaccaZ87,
-  author    = {Domenico Saccà and
-               Carlo Zaniolo},
-  title     = {Magic Counting Methods},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {49-59},
-}
-
-@inproceedings{DBLP:conf/sigmod/AlyO87,
-  author    = {Hussien Aly and
-               Z. Meral Özsoyoglu},
-  title     = {Non-deterministic Modelling of Logical Queries in Deductive Databases},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {60-72},
-}
-
-@inproceedings{DBLP:conf/sigmod/HanH87,
-  author    = {Jiawei Han and
-               Lawrence J. Henschen},
-  title     = {Handling Redundancy in the Processing of Recursive Database Queries},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {73-81},
-}
-
-@inproceedings{DBLP:conf/sigmod/DanielsST87,
-  author    = {Dean S. Daniels and
-               Alfred Z. Spector and
-               Dean S. Thompson},
-  title     = {Distributed Logging for Transaction Processing},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {82-96},
-}
-
-@inproceedings{DBLP:conf/sigmod/HermanGLW87,
-  author    = {Gary E. Herman and
-               Gita Gopal and
-               K. C. Lee and
-               Abel Weinrib},
-  title     = {The Datacycle Architecture for Very High Throughput Database Systems},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {97-103},
-}
-
-@inproceedings{DBLP:conf/sigmod/LehmanC87,
-  author    = {Tobin J. Lehman and
-               Michael J. Carey},
-  title     = {A Recovery Algorithm for A {High-Performance} {Memory-Resident} Database System},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {104-117},
-}
-
-@inproceedings{DBLP:conf/sigmod/NixonCLBMS87,
-  author    = {Brian A. Nixon and
-               Lawrence Chung and
-               David Lauzon and
-               Alexander Borgida and
-               John Mylopoulos and
-               Martin Stanley},
-  title     = {Implementation of a Compiler for a Semantic Data Model: Experiences with Taxis},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {118-131},
-}
-
-@inproceedings{DBLP:conf/sigmod/LyngbaekV87,
-  author    = {Peter Lyngbæk and
-               Victor Vianu},
-  title     = {Mapping a Semantic Database Model to the Relational Model},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {132-142},
-}
-
-@inproceedings{DBLP:conf/sigmod/RothK87,
-  author    = {Mark A. Roth and
-               Henry F. Korth},
-  title     = {The Design of ¬1{NF} Relational Databases into Nested Normal Form},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {143-159},
-}
-
-@inproceedings{DBLP:conf/sigmod/GraefeD87,
-  author    = {Goetz Graefe and
-               David J. DeWitt},
-  title     = {The {EXODUS} Optimizer Generator},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {160-172},
-}
-
-@inproceedings{DBLP:conf/sigmod/Freytag87,
-  author    = {Johann Christoph Freytag},
-  title     = {A {Rule-Based} View of Query Optimization},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {173-180},
-}
-
-@inproceedings{DBLP:conf/sigmod/ShenoyO87,
-  author    = {Sreekumar T. Shenoy and
-               Z. Meral Özsoyoglu},
-  title     = {A System for Semantic Query Optimization},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {181-195},
-}
-
-@inproceedings{DBLP:conf/sigmod/PaulSSWD87,
-  author    = {H.-Bernhard Paul and
-               Hans-Jörg Schek and
-               Marc H. Scholl and
-               Gerhard Weikum and
-               Uwe Deppisch},
-  title     = {Architecture and Implementation of the Darmstadt Database Kernel System},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {196-207},
-}
-
-@inproceedings{DBLP:conf/sigmod/RichardsonC87,
-  author    = {Joel E. Richardson and
-               Michael J. Carey},
-  title     = {Programming Constructs for Database System Implementation in {EXODUS}},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {208-219},
-}
-
-@inproceedings{DBLP:conf/sigmod/LindsayMP87,
-  author    = {Bruce G. Lindsay and
-               John McPherson and
-               Hamid Pirahesh},
-  title     = {A Data Management Extension Architecture},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {220-226},
-}
-
-@inproceedings{DBLP:conf/sigmod/JajodiaM87,
-  author    = {Sushil Jajodia and
-               David Mutchler},
-  title     = {Dynamic Voting},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {227-238},
-}
-
-@inproceedings{DBLP:conf/sigmod/HarderR87,
-  author    = {Theo Härder and
-               Kurt Rothermel},
-  title     = {Concepts for Transaction Recovery in Nested Transactions},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {239-248},
-}
-
-@inproceedings{DBLP:conf/sigmod/Garcia-MolinaS87,
-  author    = {Hector Garcia-Molina and
-               Kenneth Salem},
-  title     = {Sagas},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {249-259},
-}
-
-@inproceedings{DBLP:conf/sigmod/Freeston87,
-  author    = {Michael Freeston},
-  title     = {The {BANG} File: A New Kind of Grid File},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {260-269},
-}
-
-@inproceedings{DBLP:conf/sigmod/NelsonS87,
-  author    = {Randal C. Nelson and
-               Hanan Samet},
-  title     = {A Population Analysis for Hierarchical Data Structures},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {270-277},
-}
-
-@inproceedings{DBLP:conf/sigmod/Sellis87,
-  author    = {Timos K. Sellis},
-  title     = {Efficiently Supporting Procedures in Relational Database Systems},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {278-291},
-}
-
-@inproceedings{DBLP:conf/sigmod/Hardwick87,
-  author    = {Martin Hardwick},
-  title     = {Why Rose is Fast: Five Optimizations in the Design of an Experimental Database System for CAD/{CAM} Applications},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {292-298},
-}
-
-@inproceedings{DBLP:conf/sigmod/KemperLW87,
-  author    = {Alfons Kemper and
-               Peter C. Lockemann and
-               Mechtild Wallrath},
-  title     = {An {Object-Oriented} Database System for Engineering Applications},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {299-310},
-}
-
-@inproceedings{DBLP:conf/sigmod/BanerjeeKKK87,
-  author    = {Jay Banerjee and
-               Won Kim and
-               Hyoung-Joo Kim and
-               Henry F. Korth},
-  title     = {Semantics and Implementation of Schema Evolution in {Object-Oriented} Databases},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {311-322},
-}
-
-@inproceedings{DBLP:conf/sigmod/CruzMW87,
-  author    = {Isabel F. Cruz and
-               Alberto O. Mendelzon and
-               Peter T. Wood},
-  title     = {A Graphical Query Language Supporting Recursion},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {323-330},
-}
-
-@inproceedings{DBLP:conf/sigmod/JagadishAN87,
-  author    = {H. V. Jagadish and
-               Rakesh Agrawal and
-               Linda Ness},
-  title     = {A Study of Transitive Closure As a Recursion Mechanism},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {331-344},
-}
-
-@inproceedings{DBLP:conf/sigmod/ZhangY87,
-  author    = {Weining Zhang and
-               Clement T. Yu},
-  title     = {A Necessary Condition for a Doubly Recursive Rule to be Equivalent to a Linear Recursive Rule},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {345-356},
-}
-
-@inproceedings{DBLP:conf/sigmod/Morgenstern87,
-  author    = {Matthew Morgenstern},
-  title     = {Security and Inference in Multilevel Database and {Knowledge-Base} Systems},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {357-373},
-}
-
-@inproceedings{DBLP:conf/sigmod/StempleMS87,
-  author    = {David W. Stemple and
-               Subhasish Mazumdar and
-               Tim Sheard},
-  title     = {On the Modes and Meaning of Feedback to Transaction Designers},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {374-386},
-}
-
-@inproceedings{DBLP:conf/sigmod/RubensteinKC87,
-  author    = {W. Bradley Rubenstein and
-               M. S. Kubicar and
-               R. G. G. Cattell},
-  title     = {Benchmarking Simple Database Operations},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {387-394},
-}
-
-@inproceedings{DBLP:conf/sigmod/GrayP87,
-  author    = {Jim Gray and
-               Gianfranco R. Putzolu},
-  title     = {The 5 Minute Rule for Trading Memory for Disk Accesses and The 10 Byte Rule for Trading Memory for {CPU} Time},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {395-398},
-}
-
-@inproceedings{DBLP:conf/sigmod/RichardsonLM87,
-  author    = {James P. Richardson and
-               Hongjun Lu and
-               Krishna P. Mikkilineni},
-  title     = {Design and Evaluation of Parallel Pipelined Join Algorithms},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {399-409},
-}
-
-@inproceedings{DBLP:conf/sigmod/Butler87,
-  author    = {Margaret H. Butler},
-  title     = {Storage Reclamation in Object Oriented Database Systems},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {410-425},
-}
-
-@inproceedings{DBLP:conf/sigmod/FaloutsosSR87,
-  author    = {Christos Faloutsos and
-               Timos K. Sellis and
-               Nick Roussopoulos},
-  title     = {Analysis of Object Oriented Spatial Access Methods},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {426-439},
-}
-
-@inproceedings{DBLP:conf/sigmod/Hanson87,
-  author    = {Eric N. Hanson},
-  title     = {A Performance Analysis of View Materialization Strategies},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {440-453},
-}
-
-@inproceedings{DBLP:conf/sigmod/SegevS87,
-  author    = {Arie Segev and
-               Arie Shoshani},
-  title     = {Logical Modeling of Temporal Data},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {454-466},
-}
-
-@inproceedings{DBLP:conf/sigmod/McKenzieS87,
-  author    = {L. Edwin McKenzie and
-               Richard T. Snodgrass},
-  title     = {Extending the Relational Algebra to Support Transaction Time},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {467-478},
-}
-
-@inproceedings{DBLP:conf/sigmod/Rubenstein87,
-  author    = {W. Bradley Rubenstein},
-  title     = {A Database Design for Musical Information},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {479-490},
-}
-
-@inproceedings{DBLP:conf/sigmod/HudsonK87,
-  author    = {Scott E. Hudson and
-               Roger King},
-  title     = {{Object-Oriented} Database Support for Software Environments},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {491-503},
-}
-
-@inproceedings{DBLP:conf/sigmod/CroftS87,
-  author    = {W. Bruce Croft and
-               David W. Stemple},
-  title     = {Supporting Offics Document Architectures with Constrained Types},
-  booktitle = sigmod,
-  year      = 1987,
-  pages     = {504-509},
-}
-
 @inproceedings{DBLP:conf/sigmod/Roussopoulos86,
   author    = {Nick Roussopoulos},
   title     = {Engineering Information Systems: Builders and Designers Perspective},
@@ -26618,6 +26162,21 @@
   pages     = {169-180},
 }
 
+@inproceedings{DBLP:conf/sigmod/FM77nnp,
+  author    = {},
+  title     = {Title, Organization, Conference Chairman's Message, Table of Contents},
+  booktitle = sigmod,
+  year      = 1977,
+}
+
+@inproceedings{DBLP:conf/sigmod/Vineberg77,
+  author    = {Maniel Vineberg},
+  title     = {Implementation of Character String Pattern Matching on a Multiprocessor},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {1-7},
+}
+
 @inproceedings{DBLP:conf/sigmod/FurtadoK77,
   author    = {Antonio L. Furtado and
                Larry Kerschberg},
@@ -26625,6 +26184,16 @@
   booktitle = sigmod,
   year      = 1977,
   pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/sigmod/BirdTRW77,
+  author    = {R. M. Bird and
+               J. C. Tu and
+               R. M. Worthy},
+  title     = {Associative/Parallel Processors for Searching Very Large Textual Data Bases},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {8-16},
 }
 
 @inproceedings{DBLP:conf/sigmod/Schmidt77,
@@ -26644,12 +26213,28 @@
   pages     = {10-20},
 }
 
+@inproceedings{DBLP:conf/sigmod/Lipovski77,
+  author    = {G. Jack Lipovski},
+  title     = {On Imaginary Fields, Token Transfers and Floating Codes in Intelligent Secondary Memories},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {17-22},
+}
+
 @inproceedings{DBLP:conf/sigmod/Sharman77,
   author    = {G. C. H. Sharman},
   title     = {Update-by-Dialogue: An Interactive Approach to Database Modification},
   booktitle = sigmod,
   year      = 1977,
   pages     = {21-29},
+}
+
+@inproceedings{DBLP:conf/sigmod/Zaky77,
+  author    = {Safwat G. Zaky},
+  title     = {Microprocessors for {Non-Numeric} Processing},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {23-30},
 }
 
 @inproceedings{DBLP:conf/sigmod/SorensonW77,
@@ -26661,6 +26246,23 @@
   pages     = {30-39},
 }
 
+@inproceedings{DBLP:conf/sigmod/HsiaoK77,
+  author    = {David K. Hsiao and
+               Krishnamurthi Kannan},
+  title     = {The Architecture of a Database Computer - A Summary},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {31-34},
+}
+
+@inproceedings{DBLP:conf/sigmod/Rosenthal77,
+  author    = {Robert S. Rosenthal},
+  title     = {The Data Management Machine, A Classification},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {35-39},
+}
+
 @inproceedings{DBLP:conf/sigmod/PaoliniP77,
   author    = {Paolo Paolini and
                Giuseppe Pelagatti},
@@ -26668,6 +26270,14 @@
   booktitle = sigmod,
   year      = 1977,
   pages     = {40-46},
+}
+
+@inproceedings{DBLP:conf/sigmod/McDonell77,
+  author    = {Ken J. McDonell},
+  title     = {Trends in {Non-Software} Support for {Input-Output} Functions},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {40-47},
 }
 
 @inproceedings{DBLP:conf/sigmod/BeeriFH77,
@@ -26680,12 +26290,30 @@
   pages     = {47-61},
 }
 
+@inproceedings{DBLP:conf/sigmod/CerrettiJM77,
+  author    = {R. Cerretti and
+               D. Jasilli and
+               Dante R. Matteucci},
+  title     = {Ulisse: An Italian project for a multifunctional terminal system},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {48-67},
+}
+
 @inproceedings{DBLP:conf/sigmod/Bubenko77,
   author    = {Janis A. Bubenko Jr.},
   title     = {IAM: An Inferential Abstract Modeling Approach to Design of Conceptual Schema},
   booktitle = sigmod,
   year      = 1977,
   pages     = {62-74},
+}
+
+@inproceedings{DBLP:conf/sigmod/Bray77,
+  author    = {Olin Bray},
+  title     = {Data Management Requirements: The Similarity of Memory Management, Database Systems, and Message Processing},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {68-76},
 }
 
 @inproceedings{DBLP:conf/sigmod/SuL77,
@@ -26695,6 +26323,15 @@
   booktitle = sigmod,
   year      = 1977,
   pages     = {75-87},
+}
+
+@inproceedings{DBLP:conf/sigmod/LandsonS77,
+  author    = {Barry M. Landson and
+               Robert G. Sargent},
+  title     = {A Comparison of Sequential and Associate Computing of Priority Queues},
+  booktitle = sigmod,
+  year      = 1977,
+  pages     = {77-78},
 }
 
 @inproceedings{DBLP:conf/sigmod/Swartwout77,
@@ -27204,4 +26841,310 @@
   booktitle = sigmod,
   year      = 1975,
   pages     = {237-245},
+}
+
+@inproceedings{DBLP:conf/sigmod/FM74-1,
+  author    = {},
+  title     = {Title, Workshop Committee, Editor's Note, Table of Contents},
+  booktitle = sigmod,
+  year      = 1974,
+}
+
+@inproceedings{DBLP:conf/sigmod/FM74-2,
+  author    = {},
+  title     = {Title, Workshop Committee, Editor's Note, Table of Contents},
+  booktitle = sigmod,
+  year      = 1974,
+}
+
+@inproceedings{DBLP:conf/sigmod/Bachman74,
+  author    = {Charles W. Bachman},
+  title     = {The {Data-Structure-Set} Model},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/sigmod/Claybrook74,
+  author    = {Billy G. Claybrook},
+  title     = {A File Definition Facility for File Structures},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/sigmod/CoddD74,
+  author    = {E. F. Codd and
+               C. J. Date},
+  title     = {Interactive Support For Non-Programmers: The Relational and Network Approaches},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {11-41},
+}
+
+@inproceedings{DBLP:conf/sigmod/HoernesF74,
+  author    = {Gerhard E. Hoernes and
+               Garth H. Foster},
+  title     = {Declaration and Addressing of Varying Density Arrays and Structure},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {15-33},
+}
+
+@inproceedings{DBLP:conf/sigmod/Lucking74,
+  author    = {J. R. Lucking},
+  title     = {Data Base Languages, in Particular DDL, Development at {CODASYL}},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {35-50},
+}
+
+@inproceedings{DBLP:conf/sigmod/Sibley74,
+  author    = {Edgar H. Sibley},
+  title     = {On the Equivalence of Data Based Systems},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {43-76},
+}
+
+@inproceedings{DBLP:conf/sigmod/Minsky74,
+  author    = {Naftaly H. Minsky},
+  title     = {On Interaction with Data Bases},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {51-62},
+}
+
+@inproceedings{DBLP:conf/sigmod/Stonebraker74,
+  author    = {Michael Stonebraker},
+  title     = {A Functional View of Data Independence},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {63-81},
+}
+
+@inproceedings{DBLP:conf/sigmod/Tsichritzis74,
+  author    = {Dennis Tsichritzis},
+  title     = {Comments on Advantages of the Relational View},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {77-81},
+}
+
+@inproceedings{DBLP:conf/sigmod/FryJ74,
+  author    = {James P. Fry and
+               David W. Jeris},
+  title     = {Towards a Formulation and Definition of Data Reorganization},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {83-100},
+}
+
+@inproceedings{DBLP:conf/sigmod/DateC74,
+  author    = {C. J. Date and
+               E. F. Codd},
+  title     = {The Relational and Network Approaches: Comparison of the Application Programming Interfaces},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {83-113},
+}
+
+@inproceedings{DBLP:conf/sigmod/CaseyO74,
+  author    = {Richard G. Casey and
+               I. M. Osman},
+  title     = {Generalized Page replacement Algorithms in a Relational Data Base},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {101-124},
+}
+
+@inproceedings{DBLP:conf/sigmod/Lucking74a,
+  author    = {J. R. Lucking},
+  title     = {Comments on Advantages of the {Data-Structure-Set-Model}},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {115-119},
+}
+
+@inproceedings{DBLP:conf/sigmod/Panel74,
+  author    = {},
+  title     = {Panel and Audience: Discussion},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {121-144},
+}
+
+@inproceedings{DBLP:conf/sigmod/MehlW74,
+  author    = {James W. Mehl and
+               C. P. Wang},
+  title     = {A Study of Order Transformations of Hierarchical Structures in {IMS} Data Base},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {125-139},
+}
+
+@inproceedings{DBLP:conf/sigmod/YamaguchiM74,
+  author    = {Koichi Yamaguchi and
+               Alan G. Merten},
+  title     = {Methodology for Transferring Programs and Data},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {141-155},
+}
+
+@inproceedings{DBLP:conf/sigmod/HouselLS74,
+  author    = {Barron C. Housel and
+               Vincent Y. Lum and
+               Nan C. Shu},
+  title     = {Architecture to An Interactive Migration System (AIMS)},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {157-169},
+}
+
+@inproceedings{DBLP:conf/sigmod/LiuH74,
+  author    = {Shaun Liu and
+               Jack Heller},
+  title     = {A Record Oriented, Grammar Driven Data Translation Model},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {171-189},
+}
+
+@inproceedings{DBLP:conf/sigmod/MertenF74,
+  author    = {Alan G. Merten and
+               James P. Fry},
+  title     = {A Data Description Language Approach to File Translation},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {191-205},
+}
+
+@inproceedings{DBLP:conf/sigmod/RamirezRP74,
+  author    = {J. A. Ramirez and
+               N. Adam Rin and
+               Noah S. Prywes},
+  title     = {Automatic Generation of Data Conversion Programs Using A Data Description Language},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {207-225},
+}
+
+@inproceedings{DBLP:conf/sigmod/SuL74,
+  author    = {Stanley Y. W. Su and
+               Herman Lam},
+  title     = {A Semi-automatic Data Base Translation System for Achieving Data Sharing in a Network Environment},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {227-247},
+}
+
+@inproceedings{DBLP:conf/sigmod/ChamberlinB74,
+  author    = {Donald D. Chamberlin and
+               Raymond F. Boyce},
+  title     = {SEQUEL: A Structured English Query Language},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {249-264},
+}
+
+@inproceedings{DBLP:conf/sigmod/CopelandS74,
+  author    = {George P. Copeland and
+               Stanley Y. W. Su},
+  title     = {A High Level Data Sublanguage for a {Context-Addressed} Sequential Memory},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {265-276},
+}
+
+@inproceedings{DBLP:conf/sigmod/Rothnie74,
+  author    = {James B. Rothnie Jr.},
+  title     = {An Approach to Implementing a Relational Data Management System},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {277-294},
+}
+
+@inproceedings{DBLP:conf/sigmod/SteuertG74,
+  author    = {James Steuert and
+               Jay Goldman},
+  title     = {The Relational Data Management System: A Perspective},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {295-320},
+}
+
+@inproceedings{DBLP:conf/sigmod/Whitney74,
+  author    = {V. Kevin M. Whitney},
+  title     = {Relational Data Management Implementation Techniques},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {321-350},
+}
+
+@inproceedings{DBLP:conf/sigmod/Sayani74,
+  author    = {Hasan H. Sayani},
+  title     = {Restart and Recovery in a {Transaction-Oriented} Information Processing System},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {351-366},
+}
+
+@inproceedings{DBLP:conf/sigmod/AstrahanG74,
+  author    = {Morton M. Astrahan and
+               Sakti P. Ghosh},
+  title     = {A Search Path Selection Algorithm for the Data Independent Accessing Model (DIAM)},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {367-388},
+}
+
+@inproceedings{DBLP:conf/sigmod/BehymerOM74,
+  author    = {James A. Behymer and
+               Robert A. Ogilive and
+               Alan G. Merten},
+  title     = {Analysis of Indexed Sequential and Direct Access File Organizations},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {389-417},
+}
+
+@inproceedings{DBLP:conf/sigmod/Edelberg74,
+  author    = {Murray Edelberg},
+  title     = {Data Base Contamination and Recovery},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {419-430},
+}
+
+@inproceedings{DBLP:conf/sigmod/Taylor74,
+  author    = {Robert W. Taylor},
+  title     = {Data Administration and the {DBTG} Report},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {431-444},
+}
+
+@inproceedings{DBLP:conf/sigmod/Everest74,
+  author    = {Gordon C. Everest},
+  title     = {The Futures of Data Base Management},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {445-462},
+}
+
+@inproceedings{DBLP:conf/sigmod/Berra74,
+  author    = {P. Bruce Berra},
+  title     = {Associative Processing in Data Base Management},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {463-476},
+}
+
+@inproceedings{DBLP:conf/sigmod/Beitz74,
+  author    = {E. Henry Beitz},
+  title     = {A {Set-Theoretic} View of Data Base Representation},
+  booktitle = sigmod,
+  year      = 1974,
+  pages     = {477-494},
 }

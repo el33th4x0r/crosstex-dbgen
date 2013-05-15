@@ -13,7 +13,10 @@ all:
 
 xtx: xtx/TIMESTAMP
 
-xtx/TIMESTAMP: dblp.xml dblp.dtd dblpparse.py  latex.py  xtx/locations.xtx  overrides.py  parentheticals.py
+pre-wipe:
+	rm xtx/*
+
+xtx/TIMESTAMP: dblp.xml dblp.dtd dblpparse.py latex.py pre-wipe xtx/locations.xtx  overrides.py  parentheticals.py
 	python dblpparse.py
 
 xtx/locations.xtx: locations.py
@@ -32,11 +35,13 @@ install: install-local
 
 install-local:
 	mkdir -p ${HOME}/.crosstex
+	cp xtx-static/*.xtx ${HOME}/.crosstex
 	cp xtx-todo/*.xtx ${HOME}/.crosstex
 	cp xtx/*.xtx ${HOME}/.crosstex
 
 install-global:
 	mkdir -p /usr/local/share/crosstex
+	cp xtx-static/*.xtx /usr/local/share/crosstex
 	cp xtx-todo/*.xtx /usr/local/share/crosstex
 	cp xtx/*.xtx /usr/local/share/crosstex
 
