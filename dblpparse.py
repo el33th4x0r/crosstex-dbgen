@@ -403,7 +403,8 @@ class DBLPProcessor:
 
         out = os.path.join(self._outdir, slug + '.xtx')
         conf = Conference(out, slug, shortname, longname, citetype='conference')
-        self._slugs[slug]           = conf
+        if not prefixes:
+            self._slugs[slug]       = conf
         self._shortnames[shortname] = conf
         self._longnames[longname]   = conf
         for prefix in prefixes:
@@ -424,7 +425,8 @@ class DBLPProcessor:
 
         out = os.path.join(self._outdir, slug + '.xtx')
         jo = Journal(out, slug, shortname, longname)
-        self._slugs[slug]           = jo
+        if not prefixes:
+            self._slugs[slug]       = jo
         self._shortnames[shortname] = jo
         self._longnames[longname]   = jo
         for prefix in prefixes:
@@ -445,7 +447,8 @@ class DBLPProcessor:
 
         out = os.path.join(self._outdir, slug + '.xtx')
         conf = Conference(out, slug, shortname, longname, citetype='workshop')
-        self._slugs[slug]           = conf
+        if not prefixes:
+            self._slugs[slug]       = conf
         self._shortnames[shortname] = conf
         self._longnames[longname]   = conf
         for prefix in prefixes:
@@ -591,7 +594,7 @@ d.add_conference('icdcs',       'ICDCS', 'International Conference on Distribute
 d.add_conference('imc',         'IMC', 'Internet Measurement Conference')
 d.add_conference('infocom',     'INFOCOM', 'IEEE International Conference on Computer Communications')
 d.add_conference('ipdps',       'IPDPS', 'International Parallel and Distributed Processing Symposium', prefixes=('conf/ipps',), names=('IPDPS',))
-d.add_conference('ipps',        'IPPS', 'International Parallel Processing Symposium', prefixes=('conf/ipps',))
+d.add_conference('ipps',        'IPPS', 'International Parallel Processing Symposium')
 d.add_conference('mobicom',     'MOBICOM', 'International Conference on Mobile Computing and Networking')
 d.add_conference('nsdi',        'NSDI', 'Symposium on Networked System Design and Implementation')
 d.add_conference('osdi',        'OSDI', 'Symposium on Operating System Design and Implementation')
@@ -601,7 +604,7 @@ d.add_conference('pods',        'PODS', 'Symposium on Principles of Database Sys
 d.add_conference('popl',        'POPL', 'Symposium on Principles of Programming Languages')
 d.add_conference('sigcomm',     'SIGCOMM', 'SIGCOMM Conference')
 d.add_conference('sigmod',      'SIGMOD', 'SIGMOD International Conference on Management of Data', names=('SIGMOD Conference',))
-d.add_conference('socc',        'SoCC', 'Symposium on Cloud Computing', prefixes=('conf/ipps',))
+d.add_conference('socc',        'SoCC', 'Symposium on Cloud Computing', prefixes=('conf/cloud',))
 d.add_conference('soda',        'SODA', 'Symposium on Discrete Algorithms')
 d.add_conference('sosp',        'SOSP', 'Symposium on Operating Systems Principles')
 d.add_conference('stoc',        'STOC', 'ACM Symposium on Theory of Computing')

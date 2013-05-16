@@ -101,14 +101,6 @@
 % These conferences have no corresponding .xtx file yet
 %
 
-@conference{imc,
-  shortname="IMC",
-  longname="Internet Measurement Conference",
-  [year=2005] address=Berkeley, month=oct,
-  [year=2004] address=Taormina, month=oct,
-  [year=2003] address=MiamiBeach, month=oct,
-}
-
 @conference{mobihoc,
   shortname="MobiHoc",
   longname="International Symposium on Mobile Ad Hoc Networking and Computing",
@@ -304,18 +296,6 @@
 @conference{ftcs,
   name="International Symposium on Fault-Tolerant Computing",
   shortname="FTCS",
-}
-
-@conference{hicss,
-  name="Hawaii International International Conference on Systems",
-  shortname="HICSS",
-  [year=2007] address=Waikoloa, month=jan,
-  [year=2006] address=Kauai, month=jan,
-  [year=2005] address=Hawaii, month=jan,
-  [year=2004] address=Hawaii, month=jan,
-  [year=2003] address=Hawaii, month=jan,
-  [year=2002] address=Hawaii, month=jan,
-  [year=2001] address=Hawaii, month=jan,
 }
 
 @conference{hpca,
