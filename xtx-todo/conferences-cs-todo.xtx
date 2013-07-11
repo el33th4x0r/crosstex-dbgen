@@ -11,7 +11,6 @@
 @conference{pldi-best,
   shortname="Best of PLDI",
   longname="The Best of the SIGPLAN Conference on Programming Language Design and Implementation",
-  crossref=pldi,
 }
 
 @conference{pldi-scc,
@@ -101,14 +100,6 @@
 %
 % These conferences have no corresponding .xtx file yet
 %
-
-@conference{imc,
-  shortname="IMC",
-  longname="Internet Measurement Conference",
-  [year=2005] address=Berkeley, month=oct,
-  [year=2004] address=Taormina, month=oct,
-  [year=2003] address=MiamiBeach, month=oct,
-}
 
 @conference{mobihoc,
   shortname="MobiHoc",
@@ -225,12 +216,10 @@
 @conference{starconf, shortname="STAR", longname="International Conference on Software Testing And Review"}
 @conference{usenixsa, shortname="USENIX SAC", longname="USENIX Systems Administration Conference"}
 @conference{usenixvm, shortname="USENIX VM", longname="USENIX Virtual Machine Research and Technology Symposium"}
-@conference{vldb, shortname="VLDB", longname="International Conference on Very Large Databases"}
 
 @conference{acsac,
   name="Annual Computer Security Applications Conference",
   shortname="ACSAC",
-  publisher="IEEE Computer Society",
   [year=2005] isbn="0-7695-2461-3", address=Tucson, month=dec,
   [year=2004] isbn="0-7695-2252-1", address=Tucson, month=dec,
   [year=2003] isbn="0-7695-2041-3", address=LasVegas, month=dec,
@@ -246,19 +235,18 @@
 @conference{acsc,
   name="Australasian Computer Science Conference",
   shortname="ACSC",
-  [year=2006] publisher="Australian Computer Society", isbn="1-920682-30-9", address=Hobart, month=jan, series="CRPIT", volume=48, editor="Vladimir Estivill-Castro and Gillian Dobbie",
-  [year=2005] publisher="Australian Computer Society", isbn="1-920682-20-1", address=Newcastle, month=jan, series="CRPIT", volume=38, editor="Vladimir Estivill-Castro",
-  [year=2004] publisher="Australian Computer Society", isbn="1-920682-05-8", address=Dunedin, month=jan, series="CRPIT", volume=26, editor="Vladimir Estivill-Castro",
-  [year=2003] publisher="Australian Computer Society", isbn="0-909-92594-1", address=Adelaide, month=feb, series="CRPIT", volume=16, editor="Michael J. Oudshoorn",
-  [year=2002] publisher="Australian Computer Society", isbn="0-909-92582-8", address=Melbourne, month=jan, series="CRPIT", volume=4, editor="Michael J. Oudshoorn",
-  [year=2001] publisher="IEEE Computer Society", isbn="0-7695-0963-0", address=GoldCoast, month=jan,
-  [year=2000] publisher="IEEE Computer Society", isbn="0-7695-0518-X", address=Canberra, month=jan,
+  [year=2006] isbn="1-920682-30-9", address=Hobart, month=jan, series="CRPIT", volume=48, editor="Vladimir Estivill-Castro and Gillian Dobbie",
+  [year=2005] isbn="1-920682-20-1", address=Newcastle, month=jan, series="CRPIT", volume=38, editor="Vladimir Estivill-Castro",
+  [year=2004] isbn="1-920682-05-8", address=Dunedin, month=jan, series="CRPIT", volume=26, editor="Vladimir Estivill-Castro",
+  [year=2003] isbn="0-909-92594-1", address=Adelaide, month=feb, series="CRPIT", volume=16, editor="Michael J. Oudshoorn",
+  [year=2002] isbn="0-909-92582-8", address=Melbourne, month=jan, series="CRPIT", volume=4, editor="Michael J. Oudshoorn",
+  [year=2001] isbn="0-7695-0963-0", address=GoldCoast, month=jan,
+  [year=2000] isbn="0-7695-0518-X", address=Canberra, month=jan,
 }
 
 @conference{ccs,
   name="ACM Conference on Computer and Communications Security",
   shortname="CCS",
-  publisher="ACM",
   [year=2006] address=Alexandria, month=oct, editor="Ari Juels and Rebecca N. Wright and Sabrina De Capitani di Vimercati",
   [year=2005] isbn="1-59593-226-7", address=Alexandria, month=nov, editor="Vijay Atluri and Catherine Meadows and Ari Juels",
   [year=2004] isbn="1-58113-961-6", address=DC, month=oct, editor="Vijayalakshmi Atluri and Birgit Pfitzmann and Patrick Drew McDaniel",
@@ -269,15 +257,12 @@
 @conference{ccs-asia,
   name="ACM Symposium on Information, Computer and Communications Security",
   shortname="ASIACCS",
-  publisher="ACM",
   [year=2006] isbn="1-59593-272-0", address=Taipei, month=mar, editor="Ferng-Ching Lin and Der-Tsai Lee and Bao-Shuh Lin and Shiuhpyng Shieh and Sushil Jajodia",
 }
 
 @conference{ccs-drm,
   name="Security and Privacy in Digital Rights Management Workshop",
   shortname="DRM",
-  publisher="Springer",
-  series="Lecture Notes in Computer Science",
   [year=2002] isbn="3-540-40410-4", address=DC, month=nov, volume=2696, editor="Joan Feigenbaum",
   [year=2001] isbn="3-540-43677-4", address=Philadelphia, month=nov, volume=2320, editor="Tomas Sander",
 }
@@ -285,7 +270,6 @@
 @conference{ccs-fmse,
   name="Formal Methods in Security Engineering",
   shortname="FMSE",
-  publisher="ACM",
   [year=2006] isbn="1-59593-550-9", address=Alexandria, month=nov, editor="Marianne Winslett and Andrew D. Gordon and David Sands",
   [year=2005] isbn="1-59593-231-3", address=Fairfax, month=nov, editor="Vijay Atluri and Pierangela Samarati and Ralf K{\"u}sters and John Mitchell",
   [year=2004] isbn="1-58113-971-3", address=DC, month=oct, editor="Vijayalakshmi Atluri and Michael Backes and David A. Basin and Michael Waidner",
@@ -295,13 +279,12 @@
 @conference{dsl,
   name="Conference on Domain-Specific Languages",
   shortname="DSL",
-  [year=1997] publisher="USENIX", address=SantaBarbara, month=oct,
+  [year=1997] address=SantaBarbara, month=oct,
 }
 
 @conference{dsn,
   name="International Conference on Dependable Systems and Networks",
   shortname="DSN",
-  publisher="IEEE Computer Society",
   [year=2006] isbn="0-7695-2607-1", address=Philadelphia, month=jun,
   [year=2005] isbn="0-7695-2282-3", address=Yokohama, month=jun,
   [year=2004] isbn="0-7695-2052-9", address=Florence, month=jun,
@@ -310,38 +293,14 @@
   [year=2000] isbn="0-7695-0707-7", address=NYC, month=jun,
 }
 
-@conference{fast,
-  name="Conference on File and Storage Technologies",
-  shortname="FAST",
-  publisher="USENIX",
-  [year=2005] address=SF, month=dec,
-  [year=2004] address=SF, month=mar,
-  [year=2003] address=SF, month=mar,
-  [year=2002] address=Monterey, month=jan, isbn="1-880446-03-0", editor="Darrell D. E. Long",
-}
-
 @conference{ftcs,
   name="International Symposium on Fault-Tolerant Computing",
   shortname="FTCS",
 }
 
-@conference{hicss,
-  name="Hawaii International International Conference on Systems",
-  shortname="HICSS",
-  publisher="IEEE Computer Society",
-  [year=2007] address=Waikoloa, month=jan,
-  [year=2006] isbn="0-7695-2507-5", address=Kauai, month=jan,
-  [year=2005] isbn="0-7695-2268-8", address=Hawaii, month=jan,
-  [year=2004] address=Hawaii, month=jan,
-  [year=2003] address=Hawaii, month=jan,
-  [year=2002] address=Hawaii, month=jan,
-  [year=2001] address=Hawaii, month=jan,
-}
-
 @conference{hpca,
   name="International Conference on High-Performance Computer Architecture",
   shortname="HPCA",
-  publisher="IEEE Computer Society",
   [year=2005] isbn="0-7695-2275-0", address=SF, month=feb,
   [year=2004] isbn="0-7695-2053-7", address=Madrid, month=feb,
 }
@@ -349,7 +308,6 @@
 @conference{hpdc,
   name="International Symposium on High-Performance Distributed Computing",
   shortname="HPDC",
-  publisher="IEEE Computer Society",
   [year=2004] address=Honolulu, month=jun,
   [year=2003] isbn="0-7695-1965-2", address=Seattle, month=jun,
   [year=2002] isbn="0-7695-1686-6", address=Edinburgh, month=jul,
@@ -359,7 +317,6 @@
 @conference{icnp,
   name="International Conference on Network Protocols",
   shortname="ICNP",
-  publisher="IEEE Computer Society",
   [year=1997] isbn="0-8186-8061-X", address=Atlanta, month=oct,
   [year=1996] address=Columbus, month=nov,
   [year=1995] address=Tokyo, month=nov,
@@ -368,17 +325,16 @@
 @conference{ics,
   name="International Conference on Supercomputing",
   shortname="ICS",
-  [year=2006] publisher="ACM", isbn="1-59593-282-8", address=Cairns, month=jun, editor="Gregory K. Egan and Yoichi Muraoka",
-  [year=2005] publisher="ACM", isbn="1-59593-167-8", address=CambridgeMA, month=jun, editor="Arvind and Larry Rudolph",
-  [year=2004] publisher="ACM", isbn="1-58113-839-3", address=SaintMalo, month=jun, editor="Paul Feautrier and James Goodman and Andr{\'e} Seznec",
-  [year=2003] publisher="ACM", isbn="1-58113-733-8", address=SF, month=jun, editor="Utpal Banerjee and Kyle Gallivan and Antonio Gonz{\'a}lez",
-  [year=1988] publisher="Springer", isbn="3-540-18991-2", address=Athens, month=jun, series="Lecture Notes in Computer Science", volume=297, editor="Elias N. Houstis and Theodore S. Papatheodorou and Constantine D. Polychronopoulos",
+  [year=2006] isbn="1-59593-282-8", address=Cairns, month=jun, editor="Gregory K. Egan and Yoichi Muraoka",
+  [year=2005] isbn="1-59593-167-8", address=CambridgeMA, month=jun, editor="Arvind and Larry Rudolph",
+  [year=2004] isbn="1-58113-839-3", address=SaintMalo, month=jun, editor="Paul Feautrier and James Goodman and Andr{\'e} Seznec",
+  [year=2003] isbn="1-58113-733-8", address=SF, month=jun, editor="Utpal Banerjee and Kyle Gallivan and Antonio Gonz{\'a}lez",
+  [year=1988] isbn="3-540-18991-2", address=Athens, month=jun, volume=297, editor="Elias N. Houstis and Theodore S. Papatheodorou and Constantine D. Polychronopoulos",
 }
 
 @conference{issre,
   name="International Symposium on Software Reliability Engineering",
   shortname="ISSRE",
-  publisher="IEEE Computer Society",
   [year=2006] address=Raleigh, month=nov,
   [year=2005] isbn="0-7695-2482-6", address=Chicago, month=nov,
   [year=2004] isbn="0-7695-2215-7", address=SaintMalo, month=nov,
@@ -391,7 +347,6 @@
 @conference{lisa,
   name="Conference on Systems Administration",
   shortname="LISA",
-  publisher="USENIX",
   [year=2006] address=DC, month=dec,
   [year=2005] address=SanDiego, month=dec,
   [year=2004] address=Atlanta, month=nov,
@@ -411,8 +366,6 @@
 @conference{middleware,
   name="International Middleware Conference",
   shortname="Middleware",
-  publisher="Springer",
-  series="Lecture Notes in Computer Science",
   [year=2006] isbn="3-540-49023-X", address=Melbourne, month=nov, volume=4290, editor="Maarten van Steen and Michi Henning",
   [year=2005] isbn="3-540-30323-5", address=Grenoble, month=nov, volume=3790, editor="Gustavo Alonso",
   [year=2004] isbn="3-540-23428-4", address=Toronto, month=oct, volume=3231, editor="Hans-Arno Jacobsen",
@@ -424,41 +377,35 @@
 @conference{middleware-adaptive,
   name="Workshop on Adaptive and Reflective Middleware",
   shortname="Middleware",
-  publisher="ACM",
   [year=2004] isbn="1-58113-949-7", address=Toronto, month=oct, editor="Fabio Kon and F{\'a}bio M. Costa and Nanbor Wang and Renato Cerqueira",
 }
 
 @conference{middleware-doctoral,
   name="International Doctoral Symposium on Middleware",
-  publisher="ACM",
   [year=2004] isbn="1-58113-948-9", address=Toronto, month=oct, editor="Edward Curry and Doug Lea and Fabio Kon",
 }
 
 @conference{middleware-workshops,
   name="Middleware Workshops",
   shortname="Middleware",
-  publisher="PUC-Rio",
   [year=2003] isbn="85-87926-03-9", address=Rio, month=jun,
 }
 
 @conference{middleware-grid,
   name="Workshop on Middleware for Grid Computing",
   shortname="Middleware",
-  publisher="ACM",
   [year=2004] isbn="1-58113-950-0", address=Toronto, month=oct, editor="Bruno Schulze and Radha Nandkumar and Fabio Kon",
 }
 
 @conference{middleware-pervasive,
   name="Workshop on Middleware for Pervasive and Ad-hoc Computing",
   shortname="Middleware",
-  publisher="ACM",
   [year=2004] isbn="1-58113-951-9", address=Toronto, month=oct, editor="Paddy Nixon and Fabio Kon",
 }
 
 @conference{nca,
   name="IEEE International Symposium on Network Computing and Applications",
   shortname="NCA",
-  publisher="IEEE Computer Society",
   [year=2005] isbn="0-7695-2326-9", address=CambridgeMA, month=jul,
   [year=2004] isbn="0-7695-2242-4", address=CambridgeMA, month=aug,
   [year=2003] isbn="0-7695-1938-5", address=CambridgeMA, month=apr,
@@ -468,7 +415,6 @@
 @conference{pdis,
   name="International Conference on Parallel and Distributed Information Systems",
   shortname="PDIS",
-  publisher="IEEE Computer Society",
   [year=1996] isbn="0-8186-7475-X", address=MiamiBeach, month=dec,
   [year=1994] isbn="0-8186-6400-2", address=Austin, month=sep,
   [year=1993] isbn="0-8186-3330-1", address=SanDiego, month=jan,
@@ -478,7 +424,6 @@
 @conference{saint-workshops,
   name="International Symposium on Applications and the Internet Workshops",
   shortname="SAINT",
-  publisher="IEEE Computer Society",
   [year=2007] isbn="0-7695-2757-4", address=Hiroshima, month=jan,
   [year=2006] isbn="0-7695-2510-5", address=Phoenix, month=jan,
   [year=2005] isbn="0-7695-2263-7", address=Trento, month=jan,

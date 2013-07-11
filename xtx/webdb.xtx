@@ -1,5 +1,113 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/webdb/KashyapH12,
+  author    = {Abhijith Kashyap and
+               Vagelis Hristidis},
+  title     = {LogRank: Summarizing Social Activity Logs},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/webdb/CetindilELN12,
+  author    = {Inci Cetindil and
+               Jamshid Esmaelnezhad and
+               Chen Li and
+               David Newman},
+  title     = {Analysis of Instant Search Query Logs},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/webdb/BhatiaM12,
+  author    = {Sumit Bhatia and
+               Prakhar Biyani and
+               Prasenjit Mitra},
+  title     = {Classifying User Messages For Managing Web Forum Data},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/webdb/LiM12,
+  author    = {Chao Li and
+               Gerome Miklau},
+  title     = {Pricing Aggregate Queries in a Data Marketplace},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/webdb/AraujoTDHS12,
+  author    = {Samur Araújo and
+               Duc Tran and
+               Arjen DeVries and
+               Jan Hidders and
+               Daniel Schwabe},
+  title     = {SERIMI: Class-based Disambiguation for Effective Instance Matching over Heterogeneous Web Data},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/webdb/AbiteboulBD12,
+  author    = {Serge Abiteboul and
+               Meghyn Bienvenu and
+               Daniel Deutch},
+  title     = {Deduction in the Presence of Distribution and Contradictions},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/webdb/StuparM12,
+  author    = {Aleksandar Stupar and
+               Sebastian Michel},
+  title     = {Enhancing Locality Sensitive Hashing with Peek Probing and Nearest Neighbor Links},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/webdb/BenediktV12,
+  author    = {Michael Benedikt and
+               Huy Vu},
+  title     = {Higher­Order Functions and Structured Datatypes},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/webdb/PrytkovaSW12,
+  author    = {Natalia Prytkova and
+               Marc Spaniol and
+               Gerhard Weikum},
+  title     = {Predicting the Evolution of Taxonomy Restructuring in Collective Web Catalogues},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/webdb/MahfoudI12,
+  author    = {Houari Mahfoud and
+               Abdessamad Imine},
+  title     = {A General Approach for Securely Updating {XML} Data},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/webdb/SchroederMH12,
+  author    = {Rebeca Schroeder and
+               Ronaldo dos Santos Mello and
+               Carmem S. Hara},
+  title     = {Affinity­based {XML} Fragmentation},
+  booktitle = webdb,
+  year      = 2012,
+  pages     = {61-66},
+}
+
 @inproceedings{DBLP:conf/webdb/AbiteboulGP11,
   author    = {Serge Abiteboul and
                Alban Galland and
@@ -20,7 +128,7 @@
 
 @inproceedings{DBLP:conf/webdb/BodenLNP11,
   author    = {Christoph Boden and
-               Alexander L{\"o}ser and
+               Alexander Löser and
                Christoph Nagel and
                Stephan Pieper},
   title     = {FactCrawl: A Fact Retrieval Framework for {Full-Text} Indices},
@@ -49,7 +157,7 @@
 @inproceedings{DBLP:conf/webdb/HassanzadehYM11,
   author    = {Oktie Hassanzadeh and
                Soheil Hassas Yeganeh and
-               Ren{\'e}e J. Miller},
+               Renée J. Miller},
   title     = {Linking Semistructured Data on the Web},
   booktitle = webdb,
   year      = 2011,
@@ -141,7 +249,7 @@
 
 @inproceedings{DBLP:conf/webdb/CafarellaR10,
   author    = {Michael J. Cafarella and
-               Christopher R{\'e}},
+               Christopher Ré},
   title     = {Manimal: Relational Optimization for {Data-Intensive} Programs},
   booktitle = webdb,
   year      = 2010,
@@ -296,7 +404,7 @@
 @inproceedings{DBLP:conf/webdb/GanuEM09,
   author    = {Gayatree Ganu and
                Noemie Elhadad and
-               Am{\'e}lie Marian},
+               Amélie Marian},
   title     = {Beyond the Stars: Improving Rating Predictions using Review Text Content},
   booktitle = webdb,
   year      = 2009,
@@ -309,8 +417,8 @@
                Anshul Jain and
                Srikanth Bondalapati and
                Gleb Skobeltsyn and
-               Claudia Nieder{\'e}e and
-               Zolt{\'a}n Mikl{\'o}s},
+               Claudia Niederée and
+               Zoltán Miklós},
   title     = {Entity Search with {NECESSITY}},
   booktitle = webdb,
   year      = 2009,
@@ -318,7 +426,7 @@
 
 @inproceedings{DBLP:conf/webdb/OrdonezGMG09,
   author    = {Carlos Ordonez and
-               Javier Garc{\'\i}a-Garc{\'\i}a and
+               Javier García-García and
                Rogelio Montero-Campos and
                Carlos Garcia-Alvarado},
   title     = {A Referential Integrity Browser for Distributed Databases},
@@ -417,7 +525,7 @@
 @inproceedings{DBLP:conf/webdb/HaghaniMCA08,
   author    = {Parisa Haghani and
                Sebastian Michel and
-               Philippe Cudr{\'e}-Mauroux and
+               Philippe Cudré-Mauroux and
                Karl Aberer},
   title     = {{LSH} At Large - Distributed {KNN} Search in High Dimensions},
   booktitle = webdb,
@@ -598,7 +706,7 @@
 
 @inproceedings{DBLP:conf/webdb/WuM07,
   author    = {Minji Wu and
-               Am{\'e}lie Marian},
+               Amélie Marian},
   title     = {Corroborating Answers from Multiple Web Sources},
   booktitle = webdb,
   year      = 2007,
@@ -957,7 +1065,7 @@
                Carlo Zaniolo and
                Xin Zhou and
                Hyun Jin Moon},
-  title     = {Managing Multiversion Documents {\&} Historical Databases: a Unified Solution Based on {XML}},
+  title     = {Managing Multiversion Documents & Historical Databases: a Unified Solution Based on {XML}},
   booktitle = webdb,
   year      = 2005,
   pages     = {151-153},
@@ -994,7 +1102,7 @@
 @inproceedings{DBLP:conf/webdb/ChenSZG04,
   author    = {Jiyang Chen and
                Lisheng Sun and
-               Osmar R. Za{\"\i}ane and
+               Osmar R. Zaïane and
                Randy Goebel},
   title     = {Visualizing and Discovering Web Navigational Patterns},
   booktitle = webdb,
@@ -1037,7 +1145,7 @@
 
 @inproceedings{DBLP:conf/webdb/PapaemmanouilC04,
   author    = {Olga Papaemmanouil and
-               Ugur {\c{C}}etintemel},
+               Ugur Çetintemel},
   title     = {Semantic Multicast for Content-based Stream Dissemination},
   booktitle = webdb,
   year      = 2004,
@@ -1068,7 +1176,7 @@
   author    = {Jaap Kamps and
                Maarten Marx and
                Maarten de Rijke and
-               B{\"o}rkur Sigurbj{\"o}rnsson},
+               Börkur Sigurbjörnsson},
   title     = {{Best-Match} Querying from {Document-Centric} {XML}},
   booktitle = webdb,
   year      = 2004,
@@ -1078,7 +1186,7 @@
 @inproceedings{DBLP:conf/webdb/VidalRM04,
   author    = {Maria-Esther Vidal and
                Louiqa Raschid and
-               Juli{\'a}n Mestre},
+               Julián Mestre},
   title     = {Challenges in Selecting Paths for Navigational Queries: {Trade-Off} of Benefit of Path versus Cost of Plan},
   booktitle = webdb,
   year      = 2004,
@@ -1089,7 +1197,7 @@
   author    = {Felix Weigel and
                Holger Meuss and
                Klaus U. Schulz and
-               Fran{\c{c}}ois Bry},
+               François Bry},
   title     = {Content and Structure in Indexing and Ranking {XML}},
   booktitle = webdb,
   year      = 2004,
@@ -1198,7 +1306,7 @@
 }
 
 @inproceedings{DBLP:conf/webdb/BouchouHM03,
-  author    = {B{\'e}atrice Bouchou and
+  author    = {Béatrice Bouchou and
                Mirian Halfeld Ferrari Alves and
                Martin A. Musicante},
   title     = {Tree Automata to Verify {XML} Key Constraints},
@@ -1226,7 +1334,7 @@
 
 @inproceedings{DBLP:conf/webdb/RussellNC03,
   author    = {George Russell and
-               Mathias Neum{\"u}ller and
+               Mathias Neumüller and
                Richard C. H. Connor},
   title     = {TypEx: A Type Based Approach to {XML} Stream Querying},
   booktitle = webdb,
@@ -1423,7 +1531,7 @@
 }
 
 @inproceedings{DBLP:conf/webdb/GrahneK02,
-  author    = {G{\"o}sta Grahne and
+  author    = {Gösta Grahne and
                Victoria Kiricenko},
   title     = {Obtaining More Answers from Information Integration Systems},
   booktitle = webdb,
@@ -1658,6 +1766,555 @@
   pages     = {103-108},
 }
 
+@inproceedings{DBLP:conf/webdb/ChamberlinRF00a,
+  author    = {Donald D. Chamberlin and
+               Jonathan Robie and
+               Daniela Florescu},
+  title     = {Quilt: An {XML} Query Language for Heterogeneous Data Sources},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {1-25},
+}
+
+@inproceedings{DBLP:conf/webdb/MariaS00,
+  author    = {Nuno Maria and
+               Mário J. Silva},
+  title     = {Theme-based Retrieval of Web News},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {5-10},
+}
+
+@inproceedings{DBLP:conf/webdb/SundaresanYH00,
+  author    = {Neel Sundaresan and
+               Jeonghee Yi and
+               Anita W. Huang},
+  title     = {Using Metadata to Enhance a Web Information Gathering System},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {11-16},
+}
+
+@inproceedings{DBLP:conf/webdb/ShanmugasundaramTDNM00,
+  author    = {Jayavel Shanmugasundaram and
+               Kristin Tufte and
+               David J. DeWitt and
+               Jeffrey F. Naughton and
+               David Maier},
+  title     = {Architecting a Network Query Engine for Producing Partial Results},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {17-22},
+}
+
+@inproceedings{DBLP:conf/webdb/QuanCR00,
+  author    = {Luping Quan and
+               Li Chen and
+               Elke A. Rundensteiner},
+  title     = {Argos: Efficient Refresh in an {XQL-Based} Web Caching System},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {23-28},
+}
+
+@inproceedings{DBLP:conf/webdb/MariaS00a,
+  author    = {Nuno Maria and
+               Mário J. Silva},
+  title     = {Theme-based Retrieval of Web News},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {26-37},
+}
+
+@inproceedings{DBLP:conf/webdb/LuoNKCL00,
+  author    = {Qiong Luo and
+               Jeffrey F. Naughton and
+               Rajasekar Krishnamurthy and
+               Pei Cao and
+               Yunrui Li},
+  title     = {Active Query Caching for Database Web Servers},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {29-34},
+}
+
+@inproceedings{DBLP:conf/webdb/TheobaldW00,
+  author    = {Anja Theobald and
+               Gerhard Weikum},
+  title     = {Adding Relevance to {XML}},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {35-40},
+}
+
+@inproceedings{DBLP:conf/webdb/YiSH00,
+  author    = {Jeonghee Yi and
+               Neel Sundaresan and
+               Anita W. Huang},
+  title     = {Using Metadata to Enhance a Web Information Gathering System},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {38-57},
+}
+
+@inproceedings{DBLP:conf/webdb/FiebigM00,
+  author    = {Thorsten Fiebig and
+               Guido Moerkotte},
+  title     = {Evaluating Queries on Structure with {eXtended} Access Support Relations},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {41-46},
+}
+
+@inproceedings{DBLP:conf/webdb/SchmidtKWW00,
+  author    = {Albrecht Schmidt and
+               Martin L. Kersten and
+               Menzo Windhouwer and
+               Florian Waas},
+  title     = {Efficient Relational Storage and Retrieval of {XML} Documents},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {47-52},
+}
+
+@inproceedings{DBLP:conf/webdb/ChamberlinRF00,
+  author    = {Donald D. Chamberlin and
+               Jonathan Robie and
+               Daniela Florescu},
+  title     = {Quilt: An {XML} Query Language for Heterogeneous Data Sources},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {53-62},
+}
+
+@inproceedings{DBLP:conf/webdb/ShanmugasundaramTDMN00,
+  author    = {Jayavel Shanmugasundaram and
+               Kristin Tufte and
+               David J. DeWitt and
+               David Maier and
+               Jeffrey F. Naughton},
+  title     = {Architecting a Network Query Engine for Producing Partial Results},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {58-77},
+}
+
+@inproceedings{DBLP:conf/webdb/KlettkeM00,
+  author    = {Meike Klettke and
+               Holger Meyer},
+  title     = {{XML} and {Object-Relational} Database Systems - Enhancing Structural Mappings Based on Statistics},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {63-68},
+}
+
+@inproceedings{DBLP:conf/webdb/Sahuguet00,
+  author    = {Arnaud Sahuguet},
+  title     = {Everything You Ever Wanted to Know About DTDs, But Were Afraid to Ask},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {69-74},
+}
+
+@inproceedings{DBLP:conf/webdb/ChienTZ00,
+  author    = {Shu-Yao Chien and
+               Vassilis J. Tsotras and
+               Carlo Zaniolo},
+  title     = {Version Management of {XML} Documents},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {75-80},
+}
+
+@inproceedings{DBLP:conf/webdb/QuanCR00a,
+  author    = {Luping Quan and
+               Li Chen and
+               Elke A. Rundensteiner},
+  title     = {Argos: Efficient Refresh in an {XQL-Based} Web Caching System},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {78-91},
+}
+
+@inproceedings{DBLP:conf/webdb/DoanDL00,
+  author    = {AnHai Doan and
+               Pedro Domingos and
+               Alon Y. Levy},
+  title     = {Learning Source Description for Data Integration},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {81-86},
+}
+
+@inproceedings{DBLP:conf/webdb/BongioCFM00,
+  author    = {Aldo Bongio and
+               Stefano Ceri and
+               Piero Fraternali and
+               Andrea Maurino},
+  title     = {Modeling Data Entry and Operations in {WebML}},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {87-92},
+}
+
+@inproceedings{DBLP:conf/webdb/LuoNKCL00a,
+  author    = {Qiong Luo and
+               Jeffrey F. Naughton and
+               Rajasekar Krishnamurthy and
+               Pei Cao and
+               Yunrui Li},
+  title     = {Active Query Caching for Database Web Servers},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {92-104},
+}
+
+@inproceedings{DBLP:conf/webdb/MihailaRV00,
+  author    = {George A. Mihaila and
+               Louiqa Raschid and
+               Maria-Esther Vidal},
+  title     = {Using Quality of Data Metadata for Source Selection and Ranking},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {93-98},
+}
+
+@inproceedings{DBLP:conf/webdb/GrahneT00,
+  author    = {Gösta Grahne and
+               Alex Thomo},
+  title     = {An Optimization Technique for Answering Regular Path Queries},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {99-104},
+}
+
+@inproceedings{DBLP:conf/webdb/CareyFILSSS00,
+  author    = {Michael J. Carey and
+               Daniela Florescu and
+               Zachary G. Ives and
+               Ying Lu and
+               Jayavel Shanmugasundaram and
+               Eugene J. Shekita and
+               Subbu N. Subramanian},
+  title     = {XPERANTO: Publishing {Object-Relational} Data as {XML}},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {105-110},
+}
+
+@inproceedings{DBLP:conf/webdb/TheobaldW00a,
+  author    = {Anja Theobald and
+               Gerhard Weikum},
+  title     = {Adding Relevance to {XML}},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {105-124},
+}
+
+@inproceedings{DBLP:conf/webdb/HosoyaP00,
+  author    = {Haruo Hosoya and
+               Benjamin C. Pierce},
+  title     = {XDuce: A Typed {XML} Processing Language},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {111-116},
+}
+
+@inproceedings{DBLP:conf/webdb/IpeirotisGS00,
+  author    = {Panagiotis G. Ipeirotis and
+               Luis Gravano and
+               Mehran Sahami},
+  title     = {Automatic Classification of Text Databases Through Query Probing},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {117-122},
+}
+
+@inproceedings{DBLP:conf/webdb/EmbleyX00,
+  author    = {David W. Embley and
+               Li Xu},
+  title     = {Record Location and Reconfiguration in Unstructured {Multiple-Record} Web Documents},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {123-128},
+}
+
+@inproceedings{DBLP:conf/webdb/FiebigM00a,
+  author    = {Thorsten Fiebig and
+               Guido Moerkotte},
+  title     = {Evaluating Queries on Structure with {eXtended} Access Support Relations},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {125-136},
+}
+
+@inproceedings{DBLP:conf/webdb/HaveliwalaGI00,
+  author    = {Taher H. Haveliwala and
+               Aristides Gionis and
+               Piotr Indyk},
+  title     = {Scalable Techniques for Clustering the Web},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {129-134},
+}
+
+@inproceedings{DBLP:conf/webdb/SchmidtKWW00a,
+  author    = {Albrecht Schmidt and
+               Martin L. Kersten and
+               Menzo Windhouwer and
+               Florian Waas},
+  title     = {Efficient Relational Storage and Retrieval of {XML} Documents},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {137-150},
+}
+
+@inproceedings{DBLP:conf/webdb/KlettkeM00a,
+  author    = {Meike Klettke and
+               Holger Meyer},
+  title     = {{XML} and {Object-Relational} Database Systems - Enhancing Structural Mappings Based on Statistics},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {151-170},
+}
+
+@inproceedings{DBLP:conf/webdb/Sahuguet00a,
+  author    = {Arnaud Sahuguet},
+  title     = {Everything You Ever Wanted to Know About DTDs, But Were Afraid to Ask},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {171-183},
+}
+
+@inproceedings{DBLP:conf/webdb/ChienTZ00a,
+  author    = {Shu-Yao Chien and
+               Vassilis J. Tsotras and
+               Carlo Zaniolo},
+  title     = {Version Management of {XML} Documents},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {184-200},
+}
+
+@inproceedings{DBLP:conf/webdb/BongioCFM00a,
+  author    = {Aldo Bongio and
+               Stefano Ceri and
+               Piero Fraternali and
+               Andrea Maurino},
+  title     = {Modeling Data Entry and Operations in {WebML}},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {201-214},
+}
+
+@inproceedings{DBLP:conf/webdb/GrahneT00a,
+  author    = {Gösta Grahne and
+               Alex Thomo},
+  title     = {An Optimization Technique for Answering Regular Path Queries},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {215-225},
+}
+
+@inproceedings{DBLP:conf/webdb/HosoyaP00a,
+  author    = {Haruo Hosoya and
+               Benjamin C. Pierce},
+  title     = {XDuce: A Typed {XML} Processing Language},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {226-244},
+}
+
+@inproceedings{DBLP:conf/webdb/IpeirotisGS00a,
+  author    = {Panagiotis G. Ipeirotis and
+               Luis Gravano and
+               Mehran Sahami},
+  title     = {Automatic Classification of Text Databases Through Query Probing},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {245-255},
+}
+
+@inproceedings{DBLP:conf/webdb/EmbleyX00a,
+  author    = {David W. Embley and
+               Li Xu},
+  title     = {Record Location and Reconfiguration in Unstructured {Multiple-Record} Web Documents},
+  booktitle = webdb,
+  year      = 2000,
+  pages     = {256-274},
+}
+
+@inproceedings{DBLP:conf/webdb/CeriFMP99,
+  author    = {Stefano Ceri and
+               Piero Fraternali and
+               Andrea Maurino and
+               Stefano Paraboschi},
+  title     = {{One-to-One} Personalization of {Data-Intensive} Web Sites},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/webdb/MaierD99,
+  author    = {David Maier and
+               Lois M. L. Delcambre},
+  title     = {Superimposed Information for the Internet},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {1-9},
+}
+
+@inproceedings{DBLP:conf/webdb/FlorescuLSY99,
+  author    = {Daniela Florescu and
+               Alon Y. Levy and
+               Dan Suciu and
+               Khaled Yagoub},
+  title     = {{Run-Time} Management of Data Intensive Web Sites},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/webdb/MeccaMAC99,
+  author    = {Giansalvatore Mecca and
+               Paolo Merialdo and
+               Paolo Atzeni and
+               Valter Crescenzi},
+  title     = {The (Short) Araneus Guide to {Web-Site} Development},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/webdb/AndersonLW99,
+  author    = {Corin R. Anderson and
+               Alon Y. Levy and
+               Daniel S. Weld},
+  title     = {Declarative Web Site Management with Tiramisu},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/webdb/GoldmanMW99,
+  author    = {Roy Goldman and
+               Jason McHugh and
+               Jennifer Widom},
+  title     = {From Semistructured Data to XML: Migrating the Lore Data Model and Query Language},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/webdb/SahuguetA99,
+  author    = {Arnaud Sahuguet and
+               Fabien Azavant},
+  title     = {Web Ecology: Recycling {HTML} Pages as {XML} Documents Using W4F},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/webdb/BeeriT99,
+  author    = {Catriel Beeri and
+               Yariv Tzaban},
+  title     = {SAL: An Algebra for Semistructured Data and {XML}},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/webdb/CohenKKNSS99,
+  author    = {Sara Cohen and
+               Yaron Kanza and
+               Yakov A. Kogan and
+               Werner Nutt and
+               Yehoshua Sagiv and
+               Alexander Serebrenik},
+  title     = {{EquiX} Easy Querying in {XML} Databases},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/webdb/SattlerH99,
+  author    = {Kai-Uwe Sattler and
+               Michael Höding},
+  title     = {Adapter Generation for Extracting and Querying Data from Web},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/webdb/Cohen99,
+  author    = {William W. Cohen},
+  title     = {Some Practical Observations on Integration of Web Information},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/webdb/Liefke99,
+  author    = {Hartmut Liefke},
+  title     = {Horizontal Query Optimization on Ordered Semistructured Data},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {61-66},
+}
+
+@inproceedings{DBLP:conf/webdb/ProllRSS99,
+  author    = {Birgit Pröll and
+               Werner Retschitzegger and
+               Harald Sighart and
+               Heinrich Starck},
+  title     = {Ready for Prime Time - {Pre-Generation} of Web Pages in {TIScover}},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {67-72},
+}
+
+@inproceedings{DBLP:conf/webdb/CalvaneseGLV99,
+  author    = {Diego Calvanese and
+               Giuseppe De Giacomo and
+               Maurizio Lenzerini and
+               Moshe Y. Vardi},
+  title     = {Query Answering Using Views for Data Integration over the Web},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {73-78},
+}
+
+@inproceedings{DBLP:conf/webdb/LabrinidisR99,
+  author    = {Alexandros Labrinidis and
+               Nick Roussopoulos},
+  title     = {On the Materialization of {WebViews}},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {79-84},
+}
+
+@inproceedings{DBLP:conf/webdb/LudascherPV99,
+  author    = {Bertram Ludäscher and
+               Yannis Papakonstantinou and
+               Pavel Velikhov},
+  title     = {A Framework for {Navigation-Driven} Lazy Mediators},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {85-90},
+}
+
+@inproceedings{DBLP:conf/webdb/BuyukkoktenCGGS99,
+  author    = {Orkut Buyukkokten and
+               Junghoo Cho and
+               Hector Garcia-Molina and
+               Luis Gravano and
+               Narayanan Shivakumar},
+  title     = {Exploiting Geographical Location Information of Web Pages},
+  booktitle = webdb,
+  year      = 1999,
+  pages     = {91-96},
+}
+
 @inproceedings{DBLP:conf/webdb/ShimSV98,
   author    = {Junho Shim and
                Peter Scheuermann and
@@ -1722,7 +2379,7 @@
 }
 
 @inproceedings{DBLP:conf/webdb/SimeonC98,
-  author    = {J{\'e}r{\^o}me Sim{\'e}on and
+  author    = {Jérôme Siméon and
                Sophie Cluet},
   title     = {Using {YAT} to Build a Web Server},
   booktitle = webdb,

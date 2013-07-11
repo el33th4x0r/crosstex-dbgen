@@ -1,5 +1,261 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/grid/ChettaouiC12,
+  author    = {Hanene Chettaoui and
+               Faouzi Ben Charrada},
+  title     = {A Decentralized Periodic Replication Strategy Based on Knapsack Problem},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {3-11},
+}
+
+@inproceedings{DBLP:conf/grid/ZhangWHW12,
+  author    = {Jing Zhang and
+               Gong-Qing Wu and
+               Xuegang Hu and
+               Xindong Wu},
+  title     = {A Distributed Cache for Hadoop Distributed File System in {Real-Time} Cloud Services},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {12-21},
+}
+
+@inproceedings{DBLP:conf/grid/DongLXR12,
+  author    = {Bin Dong and
+               Xiuqiao Li and
+               Limin Xiao and
+               Li Ruan},
+  title     = {A New {File-Specific} Stripe Size Selection Method for Highly Concurrent Data Access},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {22-30},
+}
+
+@inproceedings{DBLP:conf/grid/DuanPL12,
+  author    = {Rubing Duan and
+               Radu Prodan and
+               Xiaorong Li},
+  title     = {A Sequential Cooperative Game Theoretic Approach to {Storage-Aware} Scheduling of Multiple {Large-Scale} Workflow Applications in Grids},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {31-39},
+}
+
+@inproceedings{DBLP:conf/grid/CarvalhoB12,
+  author    = {Marcus Carvalho and
+               Francisco Vilar Brasileiro},
+  title     = {A {User-Based} Model of Grid Computing Workloads},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {40-48},
+}
+
+@inproceedings{DBLP:conf/grid/HanO12,
+  author    = {Liangxiu Han and
+               Hwee Yong Ong},
+  title     = {Accelerating Biomedical {Data-Intensive} Applications Using {MapReduce}},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {49-57},
+}
+
+@inproceedings{DBLP:conf/grid/HeCJL12,
+  author    = {Ligang He and
+               Nadeem Chaudhary and
+               Stephen A. Jarvis and
+               Kenli Li},
+  title     = {Allocating Resources for Workflows Running under Authorization Control},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {58-65},
+}
+
+@inproceedings{DBLP:conf/grid/BeranVSL12,
+  author    = {Peter Paul Beran and
+               Elisabeth Vinek and
+               Erich Schikuta and
+               Maria Leitner},
+  title     = {An Adaptive Heuristic Approach to Service Selection Problems in Dynamic Distributed Systems},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {66-75},
+}
+
+@inproceedings{DBLP:conf/grid/LuJSF12,
+  author    = {Lu Lu and
+               Hai Jin and
+               Xuanhua Shi and
+               Gilles Fedak},
+  title     = {Assessing {MapReduce} for Internet Computing: A Comparison of Hadoop and {BitDew-MapReduce}},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {76-84},
+}
+
+@inproceedings{DBLP:conf/grid/RedlBBD12,
+  author    = {Christoph Redl and
+               Ivan Breskovic and
+               Ivona Brandic and
+               Schahram Dustdar},
+  title     = {Automatic {SLA} Matching and Provider Selection in Grid and Cloud Computing Markets},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {85-94},
+}
+
+@inproceedings{DBLP:conf/grid/MoravejiTRRZ12,
+  author    = {Reza Moraveji and
+               Javid Taheri and
+               Mohammad Reza Hoseiny Farahabady and
+               Nikzad Babaii Rizvandi and
+               Albert Y. Zomaya},
+  title     = {{Data-Intensive} Workload Consolidation for the Hadoop Distributed File System},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {95-103},
+}
+
+@inproceedings{DBLP:conf/grid/ZhaoZTXL12,
+  author    = {Yong Zhao and
+               Yanzhe Zhang and
+               Wenhong Tian and
+               Ruini Xue and
+               Cui Lin},
+  title     = {Designing and Deploying a Scientific Computing Cloud Platform},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {104-113},
+}
+
+@inproceedings{DBLP:conf/grid/ZhangWY12,
+  author    = {Yang Zhang and
+               Yongwei Wu and
+               Guangwen Yang},
+  title     = {Droplet: A Distributed Solution of Data Deduplication},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {114-121},
+}
+
+@inproceedings{DBLP:conf/grid/MeiL12,
+  author    = {Jing Mei and
+               Kenli Li},
+  title     = {{Energy-Aware} Scheduling Algorithm with Duplication on Heterogeneous Computing Systems},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {122-129},
+}
+
+@inproceedings{DBLP:conf/grid/HwangK12,
+  author    = {Eunji Hwang and
+               Kyong Hoon Kim},
+  title     = {Minimizing Cost of Virtual Machines for {Deadline-Constrained} {MapReduce} Applications in the Cloud},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {130-138},
+}
+
+@inproceedings{DBLP:conf/grid/GaoHLLJ12,
+  author    = {Bo Gao and
+               Ligang He and
+               Limin Liu and
+               Kenli Li and
+               Stephen A. Jarvis},
+  title     = {From Mobiles to Clouds: Developing {Energy-Aware} Offloading Strategies for Workflows},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {139-146},
+}
+
+@inproceedings{DBLP:conf/grid/ReigG12,
+  author    = {Gemma Reig and
+               Jordi Guitart},
+  title     = {On the Anticipation of Resource Demands to Fulfill the {QoS} of {SaaS} Web Applications},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {147-154},
+}
+
+@inproceedings{DBLP:conf/grid/CostaBVBSF12,
+  author    = {Rostand Costa and
+               Diogo Henrique Duarte Bezerra and
+               Diénert A. Vieira and
+               Francisco Vilar Brasileiro and
+               Dênio Mariz Sousa and
+               Guido Lemos de Souza Filho},
+  title     = {OddCI-Ginga: A Platform for High Throughput Computing Using Digital {TV} Receivers},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {155-163},
+}
+
+@inproceedings{DBLP:conf/grid/LiOZC12,
+  author    = {Zheng Li and
+               Liam O'Brien and
+               He Zhang and
+               Rainbow Cai},
+  title     = {On a Catalogue of Metrics for Evaluating Commercial Cloud Services},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {164-173},
+}
+
+@inproceedings{DBLP:conf/grid/WangGVX12,
+  author    = {Jianzong Wang and
+               Weijiao Gong and
+               Peter J. Varman and
+               Changsheng Xie},
+  title     = {Reducing Storage Overhead with Small Write Bottleneck Avoiding in Cloud {RAID} System},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {174-183},
+}
+
+@inproceedings{DBLP:conf/grid/DhingraLN12,
+  author    = {Mohit Dhingra and
+               J. Lakshmi and
+               S. K. Nandy},
+  title     = {Resource Usage Monitoring in Clouds},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {184-191},
+}
+
+@inproceedings{DBLP:conf/grid/FengGBL12,
+  author    = {Guofu Feng and
+               Saurabh Kumar Garg and
+               Rajkumar Buyya and
+               Wenzhong Li},
+  title     = {Revenue Maximization Using Adaptive Resource Provisioning in Cloud Computing Environments},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {192-200},
+}
+
+@inproceedings{DBLP:conf/grid/MuCGYWZ12,
+  author    = {Shuai Mu and
+               Kang Chen and
+               Pin Gao and
+               Feng Ye and
+               Yongwei Wu and
+               Weimin Zheng},
+  title     = {µLibCloud: Providing High Available and Uniform Accessing to Multiple Cloud Storages},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {201-208},
+}
+
+@inproceedings{DBLP:conf/grid/YeJMY12,
+  author    = {Kejiang Ye and
+               Xiaohong Jiang and
+               Ran Ma and
+               Fengxi Yan},
+  title     = {VC-Migration: Live Migration of Virtual Clusters in the Cloud},
+  booktitle = grid,
+  year      = 2012,
+  pages     = {209-218},
+}
+
 @inproceedings{DBLP:conf/grid/AndradeM11,
   author    = {Alisson Andrade and
                Alba Cristina Magalhaes Alves de Melo},
@@ -10,7 +266,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/OstbergE11,
-  author    = {Per-Olov {\"O}stberg and
+  author    = {Per-Olov Östberg and
                Erik Elmroth},
   title     = {Mediation of Service Overhead in {Service-Oriented} Grid Architectures},
   booktitle = grid,
@@ -64,10 +320,10 @@
 }
 
 @inproceedings{DBLP:conf/grid/TomasCCC11,
-  author    = {Luis Tom{\'a}s and
-               Agust{\'\i}n C. Caminero and
+  author    = {Luis Tomás and
+               Agustín C. Caminero and
                Blanca Caminero and
-               Carmen Carri{\'o}n},
+               Carmen Carrión},
   title     = {A Strategy to Improve Resource Utilization in Grids Based on {Network-Aware} Meta-scheduling in Advance},
   booktitle = grid,
   year      = 2011,
@@ -85,7 +341,7 @@
 
 @inproceedings{DBLP:conf/grid/BerralGT11,
   author    = {Josep Lluis Berral and
-               Ricard Gavald{\`a} and
+               Ricard Gavaldà and
                Jordi Torres},
   title     = {Adaptive Scheduling on {Power-Aware} Managed {Data-Centers} Using Machine Learning},
   booktitle = grid,
@@ -204,10 +460,10 @@
 }
 
 @inproceedings{DBLP:conf/grid/NiehorsterKSB11,
-  author    = {Oliver Nieh{\"o}rster and
+  author    = {Oliver Niehörster and
                Alexander Krieger and
                Jens Simon and
-               Andr{\'e} Brinkmann},
+               André Brinkmann},
   title     = {Autonomic Resource Management with Support Vector Machines},
   booktitle = grid,
   year      = 2011,
@@ -291,10 +547,10 @@
 }
 
 @inproceedings{DBLP:conf/grid/TomasOCCE11,
-  author    = {Luis Tom{\'a}s and
-               Per-Olov {\"O}stberg and
+  author    = {Luis Tomás and
+               Per-Olov Östberg and
                Blanca Caminero and
-               Carmen Carri{\'o}n and
+               Carmen Carrión and
                Erik Elmroth},
   title     = {An Adaptable In-advance and Fairshare Meta-scheduling Architecture to Improve Grid {QoS}},
   booktitle = grid,
@@ -345,7 +601,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/Lefevre10,
-  author    = {Laurent Lef{\`e}vre},
+  author    = {Laurent Lefèvre},
   title     = {Programme chair's welcome message},
   booktitle = grid,
   year      = 2010,
@@ -356,11 +612,11 @@
   author    = {Ramon Bertran and
                Yolanda Becerra and
                David Carrera and
-               Vicen{\c{c}} Beltran and
-               Marc Gonz{\'a}lez and
+               Vicenç Beltran and
+               Marc González and
                Xavier Martorell and
                Jordi Torres and
-               Eduard Ayguad{\'e}},
+               Eduard Ayguadé},
   title     = {Accurate energy accounting for shared virtualized environments using {PMC-based} power modeling techniques},
   booktitle = grid,
   year      = 2010,
@@ -387,9 +643,9 @@
 }
 
 @inproceedings{DBLP:conf/grid/GoiriFJNBGT10,
-  author    = {I{\~n}igo Goiri and
-               Josep Oriol Fit{\'o} and
-               Ferran Juli{\`a} and
+  author    = {Iñigo Goiri and
+               Josep Oriol Fitó and
+               Ferran Julià and
                Ramon Nou and
                Josep Lluis Berral and
                Jordi Guitart and
@@ -423,10 +679,10 @@
 @inproceedings{DBLP:conf/grid/NouGCTFPC10,
   author    = {Ramon Nou and
                Jacobo Giralt and
-               Julita Corbal{\'a}n and
+               Julita Corbalán and
                Enric Tejedor and
-               Josep Oriol Fit{\'o} and
-               Josep M. P{\'e}rez and
+               Josep Oriol Fitó and
+               Josep M. Pérez and
                Toni Cortes},
   title     = {{XtreemOS} Application Execution Management: A scalable approach},
   booktitle = grid,
@@ -436,7 +692,7 @@
 
 @inproceedings{DBLP:conf/grid/AbbesCJS10,
   author    = {Heithem Abbes and
-               Christophe C{\'e}rin and
+               Christophe Cérin and
                Mohamed Jemni and
                Walid Saad},
   title     = {Fault tolerance based on the publish-subscribe paradigm for the {BonjourGrid} middleware},
@@ -570,7 +826,7 @@
 @inproceedings{DBLP:conf/grid/KleinjungNT10,
   author    = {Thorsten Kleinjung and
                Lucas Nussbaum and
-               Emmanuel Thom{\'e}},
+               Emmanuel Thomé},
   title     = {Using a grid platform for solving large sparse linear systems over GF(2)},
   booktitle = grid,
   year      = 2010,
@@ -645,7 +901,7 @@
   author    = {Keven T. Kearney and
                Francesco Torelli and
                Constantinos Kotsokalis},
-  title     = {SLA: An abstract syntax for Service Level Agreements},
+  title     = {SLA★: An abstract syntax for Service Level Agreements},
   booktitle = grid,
   year      = 2010,
   pages     = {217-224},
@@ -661,12 +917,12 @@
 }
 
 @inproceedings{DBLP:conf/grid/BattreBCOPWWZ10,
-  author    = {Dominic Battr{\'e} and
+  author    = {Dominic Battré and
                Frances M. T. Brazier and
                Kassidy P. Clark and
                Michel A. Oey and
                Alexander Papaspyrou and
-               Oliver W{\"a}ldrich and
+               Oliver Wäldrich and
                Philipp Wieder and
                Wolfgang Ziegler},
   title     = {A proposal for {WS-Agreement} Negotiation},
@@ -805,7 +1061,7 @@
 
 @inproceedings{DBLP:conf/grid/JuniorC10,
   author    = {Francisco Heron de Carvalho Junior and
-               Ricardo Cordeiro Corr{\^e}a},
+               Ricardo Cordeiro Corrêa},
   title     = {The design of a {CCA} framework with distribution, parallelism, and recursive composition},
   booktitle = grid,
   year      = 2010,
@@ -828,7 +1084,7 @@
 @inproceedings{DBLP:conf/grid/AllenGLRSS10,
   author    = {Gabrielle Allen and
                Tom Goodale and
-               Frank L{\"o}ffler and
+               Frank Löffler and
                David Rideout and
                Erik Schnetter and
                Eric L. Seidel},
@@ -857,8 +1113,8 @@
 }
 
 @inproceedings{DBLP:conf/grid/RibesPP10,
-  author    = {Andr{\'e} Ribes and
-               Christian P{\'e}rez and
+  author    = {André Ribes and
+               Christian Pérez and
                Vincent Pichon},
   title     = {On the design of Adaptive Mesh Refinement applications based on software components},
   booktitle = grid,
@@ -868,8 +1124,8 @@
 
 @inproceedings{DBLP:conf/grid/ZhangGS10,
   author    = {Xiangliang Zhang and
-               C{\'e}cile Germain and
-               Mich{\`e}le Sebag},
+               Cécile Germain and
+               Michèle Sebag},
   title     = {Adaptively detecting changes in Autonomic Grid Computing},
   booktitle = grid,
   year      = 2010,
@@ -1011,7 +1267,7 @@
 @inproceedings{DBLP:conf/grid/MaierSK09,
   author    = {Gerhild Maier and
                Daniel van der Ster and
-               Dieter Kranzlm{\"u}ller},
+               Dieter Kranzlmüller},
   title     = {Finding associations in Grid monitoring data},
   booktitle = grid,
   year      = 2009,
@@ -1057,7 +1313,7 @@
                Heiko Schuldt and
                Fuat Akal and
                Yuri Breitbart and
-               Hans-J{\"o}rg Schek},
+               Hans-Jörg Schek},
   title     = {Re: {GRIDiT} - Coordinating distributed update transactions on replicated data in the Grid},
   booktitle = grid,
   year      = 2009,
@@ -1125,8 +1381,8 @@
 }
 
 @inproceedings{DBLP:conf/grid/MicsikFKK09,
-  author    = {Andr{\'a}s Micsik and
-               Henar Mu{\~n}oz Frutos and
+  author    = {András Micsik and
+               Henar Muñoz Frutos and
                Ioannis Kotsiopoulos and
                Bastian Koller},
   title     = {Semantically supported {SLA} negotiation},
@@ -1138,8 +1394,8 @@
 @inproceedings{DBLP:conf/grid/ZerolaSLB09,
   author    = {Michal Zerola and
                Michal Sumbera and
-               J{\'e}r{\^o}me Lauret and
-               Roman Bart{\'a}k},
+               Jérôme Lauret and
+               Roman Barták},
   title     = {Efficient multi-site data movement in distributed environment},
   booktitle = grid,
   year      = 2009,
@@ -1329,9 +1585,9 @@
 }
 
 @inproceedings{DBLP:conf/grid/GjermundrodDSWK08,
-  author    = {K. Harald Gjermundr{\o}d and
+  author    = {K. Harald Gjermundrød and
                Marios D. Dikaiakos and
-               Mathias St{\"u}mpert and
+               Mathias Stümpert and
                Pawel Wolniewicz and
                Harald Kornmayer},
   title     = {{g-Eclipse} - an integrated framework to access and maintain Grid resources},
@@ -1343,7 +1599,7 @@
 @inproceedings{DBLP:conf/grid/AmarMS08,
   author    = {Lior Amar and
                Ahuva Mu'alem and
-               Jochen St{\"o}{\ss}er},
+               Jochen Stößer},
   title     = {On the importance of migration for fairness in online grid markets},
   booktitle = grid,
   year      = 2008,
@@ -1361,7 +1617,7 @@
 
 @inproceedings{DBLP:conf/grid/AmarSLSBN08,
   author    = {Lior Amar and
-               Jochen St{\"o}{\ss}er and
+               Jochen Stößer and
                Ely Levy and
                Amnon Shiloh and
                Amnon Barak and
@@ -1412,7 +1668,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/BertinLT08,
-  author    = {R{\'e}mi Bertin and
+  author    = {Rémi Bertin and
                Arnaud Legrand and
                Corinne Touati},
   title     = {Toward a fully decentralized algorithm for multiple bag-of-tasks application scheduling on grids},
@@ -1440,7 +1696,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/NettoB08,
-  author    = {Marco Aur{\'e}lio Stelmar Netto and
+  author    = {Marco Aurélio Stelmar Netto and
                Rajkumar Buyya},
   title     = {Rescheduling co-allocation requests based on flexible advance reservations and processor remapping},
   booktitle = grid,
@@ -1478,7 +1734,7 @@
 
 @inproceedings{DBLP:conf/grid/CargnelliAC08,
   author    = {Matthieu Cargnelli and
-               Guillaume All{\'e}on and
+               Guillaume Alléon and
                Franck Cappello},
   title     = {OpenWP: Combining annotation language and workflow environments for porting existing applications on grids},
   booktitle = grid,
@@ -1538,7 +1794,7 @@
 
 @inproceedings{DBLP:conf/grid/EichenhardtMNW08,
   author    = {Henrik Eichenhardt and
-               Ralph M{\"u}ller-Pfefferkorn and
+               Ralph Müller-Pfefferkorn and
                Reinhard Neumann and
                Thomas William},
   title     = {User- and job-centric monitoring: Analysing and presenting large amounts of monitoring data},
@@ -1632,11 +1888,11 @@
 }
 
 @inproceedings{DBLP:conf/grid/DiazFMGT08,
-  author    = {Iv{\'a}n D{\'\i}az and
+  author    = {Iván Díaz and
                G. Fernandez and
-               Mar{\'\i}a J. Mart{\'\i}n and
-               Patricia Gonz{\'a}lez and
-               Juan Touri{\~n}o},
+               María J. Martín and
+               Patricia González and
+               Juan Touriño},
   title     = {Integrating the common information model with MDS4},
   booktitle = grid,
   year      = 2008,
@@ -1776,7 +2032,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/Suter07,
-  author    = {Fr{\'e}d{\'e}ric Suter},
+  author    = {Frédéric Suter},
   title     = {Scheduling {Delta-Critical} Tasks in mixed-parallel applications on a national grid},
   booktitle = grid,
   year      = 2007,
@@ -1815,7 +2071,7 @@
 
 @inproceedings{DBLP:conf/grid/AlonsoSAST07,
   author    = {Javier Alonso and
-               Lu{\'\i}s Moura Silva and
+               Luís Moura Silva and
                Artur Andrzejak and
                Paulo Silva and
                Jordi Torres},
@@ -1844,8 +2100,8 @@
 }
 
 @inproceedings{DBLP:conf/grid/BuissonAP07,
-  author    = {J{\'e}r{\'e}my Buisson and
-               Fran{\c{c}}oise Andr{\'e} and
+  author    = {Jérémy Buisson and
+               Françoise André and
                Jean-Louis Pazat},
   title     = {Supporting adaptable applications in grid resource management systems},
   booktitle = grid,
@@ -1875,7 +2131,7 @@
 
 @inproceedings{DBLP:conf/grid/XingCGD07,
   author    = {Wei Xing and
-               {\'O}scar Corcho and
+               Óscar Corcho and
                Carole A. Goble and
                Marios D. Dikaiakos},
   title     = {An {ActOn-based} semantic information service for {EGEE}},
@@ -1885,10 +2141,10 @@
 }
 
 @inproceedings{DBLP:conf/grid/GutierrezGCG07,
-  author    = {Miguel Esteban Guti{\'e}rrez and
-               Asunci{\'o}n G{\'o}mez-P{\'e}rez and
-               {\'O}scar Corcho and
-               {\'O}scar Mu{\~n}oz-Garc{\'\i}a},
+  author    = {Miguel Esteban Gutiérrez and
+               Asunción Gómez-Pérez and
+               Óscar Corcho and
+               Óscar Muñoz-García},
   title     = {WS-DAIOnt-RDF(S): Ontology access provision in grids},
   booktitle = grid,
   year      = 2007,
@@ -1896,7 +2152,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/CorchoAMBG07,
-  author    = {{\'O}scar Corcho and
+  author    = {Óscar Corcho and
                Pinar Alper and
                Paolo Missier and
                Sean Bechhofer and
@@ -1922,7 +2178,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/Sobral07,
-  author    = {Jo{\~a}o Lu{\'\i}s Sobral},
+  author    = {João Luís Sobral},
   title     = {Pluggable grid services},
   booktitle = grid,
   year      = 2007,
@@ -1932,7 +2188,7 @@
 @inproceedings{DBLP:conf/grid/AidelCCLMPR07,
   author    = {Osman Aidel and
                Alessandro Cavalli and
-               H{\'e}l{\`e}ne Cordier and
+               Hélène Cordier and
                Cyril L'Orphelin and
                Gilles Mathieu and
                Alfredo Pagano and
@@ -2006,7 +2262,7 @@
                Wolfgang Frings and
                Sonja Dominiczak and
                Daniel Mallmann and
-               Thomas D{\"u}ssel and
+               Thomas Düssel and
                Achim Streit and
                Paul Gibbon and
                Felix Wolf and
@@ -2133,8 +2389,8 @@
 
 @inproceedings{DBLP:conf/grid/WengCKAS07,
   author    = {Li Weng and
-               {\"U}mit V. {\c{C}}ataly{\"u}rek and
-               Tahsin M. Kur{\c{c}} and
+               Ümit V. Çatalyürek and
+               Tahsin M. Kurç and
                Gagan Agrawal and
                Joel H. Saltz},
   title     = {Optimizing multiple queries on scientific datasets with partial replicas},
@@ -2348,9 +2604,9 @@
 
 @inproceedings{DBLP:conf/grid/BlanchetMTD06,
   author    = {Christophe Blanchet and
-               R{\'e}mi Mollon and
+               Rémi Mollon and
                Douglas Thain and
-               Gilbert Del{\'e}age},
+               Gilbert Deléage},
   title     = {Grid Deployment of Legacy Bioinformatics Applications with Transparent Data Access},
   booktitle = grid,
   year      = 2006,
@@ -2519,9 +2775,9 @@
 
 @inproceedings{DBLP:conf/grid/HerreroBSP06,
   author    = {Pilar Herrero and
-               Jos{\'e} Luis Bosque and
+               José Luis Bosque and
                Manuel Salvadores and
-               Mar{\'\i}a S. P{\'e}rez},
+               María S. Pérez},
   title     = {AMBLE: An Awareness Model for Balancing the Load in collaborative grid Environments},
   booktitle = grid,
   year      = 2006,
@@ -2604,7 +2860,7 @@
 @inproceedings{DBLP:conf/grid/KourilMP06,
   author    = {Daniel Kouril and
                Ludek Matyska and
-               Michal Proch{\'a}zka},
+               Michal Procházka},
   title     = {Improving Security in Grids Using the Smart Card Technology},
   booktitle = grid,
   year      = 2006,
@@ -2612,7 +2868,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/HoferF06,
-  author    = {J{\"u}rgen Hofer and
+  author    = {Jürgen Hofer and
                Thomas Fahringer},
   title     = {Specification-based Synthesis of Tailor-made Grid Service Wrappers for Scientific Legacy Codes},
   booktitle = grid,
@@ -2638,11 +2894,11 @@
 
 @inproceedings{DBLP:conf/grid/NouJCHCLT06,
   author    = {Ramon Nou and
-               Ferran Juli{\`a} and
+               Ferran Julià and
                David Carrera and
                Kevin Hogan and
                Jordi Caubet and
-               Jes{\'u}s Labarta and
+               Jesús Labarta and
                Jordi Torres},
   title     = {Monitoring and analysing a Grid Middleware Node},
   booktitle = grid,
@@ -2710,11 +2966,11 @@
 }
 
 @inproceedings{DBLP:conf/grid/TerstyanszkyKDWKK06,
-  author    = {G{\'a}bor Tersty{\'a}nszky and
-               Tam{\'a}s Kiss and
+  author    = {Gábor Terstyánszky and
+               Tamás Kiss and
                Thierry Delaitre and
                Stephen C. Winter and
-               P{\'e}ter Kacsuk and
+               Péter Kacsuk and
                Gabor Kecskemeti},
   title     = {{Service-Oriented} Production Grids and User Support},
   booktitle = grid,
@@ -2732,12 +2988,12 @@
 }
 
 @inproceedings{DBLP:conf/grid/Sanchez-GestidoBPGGC06,
-  author    = {Manuel S{\'a}nchez-Gestido and
-               L. Blanco-Abru{\~n}a and
-               Mar{\'\i}a S. P{\'e}rez and
-               Rafael Gonz{\'a}lez-Cabero and
-               Asunci{\'o}n G{\'o}mez-P{\'e}rez and
-               {\'O}scar Corcho},
+  author    = {Manuel Sánchez-Gestido and
+               L. Blanco-Abruña and
+               María S. Pérez and
+               Rafael González-Cabero and
+               Asunción Gómez-Pérez and
+               Óscar Corcho},
   title     = {Semantic Grid Applications to Complex Satellite Mission Systems},
   booktitle = grid,
   year      = 2006,
@@ -2748,8 +3004,8 @@
   author    = {Francesc Guim and
                Ivan Rodero and
                M. Tomas and
-               Julita Corbal{\'a}n and
-               Jes{\'u}s Labarta},
+               Julita Corbalán and
+               Jesús Labarta},
   title     = {The Palantir Grid {Meta-Information} System},
   booktitle = grid,
   year      = 2006,
@@ -2798,7 +3054,7 @@
   author    = {Shrideep Pallickara and
                Geoffrey Fox and
                Harshawardhan Gadgil},
-  title     = {On the creation {\&} discovery of topics in distributed publish/subscribe systems},
+  title     = {On the creation & discovery of topics in distributed publish/subscribe systems},
   booktitle = grid,
   year      = 2005,
   pages     = {25-32},
@@ -2891,8 +3147,8 @@
 
 @inproceedings{DBLP:conf/grid/AristeguiLV05,
   author    = {David J. Garcia Aristegui and
-               Patricia M{\'e}ndez Lorenzo and
-               Jos{\'e} R. Valverde},
+               Patricia Méndez Lorenzo and
+               José R. Valverde},
   title     = {GROCK: high-throughput docking using {LCG} grid tools},
   booktitle = grid,
   year      = 2005,
@@ -2911,17 +3167,17 @@
 @inproceedings{DBLP:conf/grid/CappelloCDDJPJLLMMNQR05,
   author    = {Franck Cappello and
                Eddy Caron and
-               Michel J. Dayd{\'e} and
-               Fr{\'e}d{\'e}ric Desprez and
-               Yvon J{\'e}gou and
+               Michel J. Daydé and
+               Frédéric Desprez and
+               Yvon Jégou and
                Pascale Vicat-Blanc Primet and
                Emmanuel Jeannot and
-               St{\'e}phane Lanteri and
+               Stéphane Lanteri and
                Julien Leduc and
                Nouredine Melab and
                Guillaume Mornet and
                Raymond Namyst and
-               Benjamin Qu{\'e}tier and
+               Benjamin Quétier and
                Olivier Richard},
   title     = {Grid'5000: a large scale and highly reconfigurable grid experimental testbed},
   booktitle = grid,
@@ -2933,7 +3189,7 @@
   author    = {Juliano F. da Silva and
                Luciano Paschoal Gaspary and
                Marinho P. Barcellos and
-               Andr{\'e} Detsch},
+               André Detsch},
   title     = {Policy-based access control in peer-to-peer grid systems},
   booktitle = grid,
   year      = 2005,
@@ -2957,7 +3213,7 @@
                Jun Qin and
                Mumtaz Siddiqui and
                Hong Linh Truong and
-               Alex Villaz{\'o}n and
+               Alex Villazón and
                Marek Wieczorek},
   title     = {ASKALON: a Grid application development and computing environment},
   booktitle = grid,
@@ -3050,7 +3306,7 @@
 
 @inproceedings{DBLP:conf/grid/HoarauT05,
   author    = {William Hoarau and
-               S{\'e}bastien Tixeuil},
+               Sébastien Tixeuil},
   title     = {A language-driven tool for fault injection in distributed systems},
   booktitle = grid,
   year      = 2005,
@@ -3188,13 +3444,13 @@
 }
 
 @inproceedings{DBLP:conf/grid/KissTKIDWKS05,
-  author    = {Tam{\'a}s Kiss and
-               G{\'a}bor Tersty{\'a}nszky and
+  author    = {Tamás Kiss and
+               Gábor Terstyánszky and
                Gabor Kecskemeti and
                S. Illes and
                T. Delaittre and
                Stephen C. Winter and
-               P{\'e}ter Kacsuk and
+               Péter Kacsuk and
                Gergely Sipos},
   title     = {Legacy code support for production grids},
   booktitle = grid,
@@ -3203,8 +3459,8 @@
 }
 
 @inproceedings{DBLP:conf/grid/LacourPP05,
-  author    = {S{\'e}bastien Lacour and
-               Christian P{\'e}rez and
+  author    = {Sébastien Lacour and
+               Christian Pérez and
                Thierry Priol},
   title     = {Generic application description model: toward automatic deployment of applications on computational grids},
   booktitle = grid,
@@ -3222,8 +3478,8 @@
 }
 
 @inproceedings{DBLP:conf/grid/MolnarS05,
-  author    = {Zsolt Moln{\'a}r and
-               Imre Szeber{\'e}nyi},
+  author    = {Zsolt Molnár and
+               Imre Szeberényi},
   title     = {Saleve: simple Web-services based environment for parameter study applications},
   booktitle = grid,
   year      = 2005,
@@ -3402,8 +3658,8 @@
 }
 
 @inproceedings{DBLP:conf/grid/LacourPP04,
-  author    = {S{\'e}bastien Lacour and
-               Christian P{\'e}rez and
+  author    = {Sébastien Lacour and
+               Christian Pérez and
                Thierry Priol},
   title     = {A Network Topology Description Model for Grid Application Deployment},
   booktitle = grid,
@@ -3484,7 +3740,7 @@
 @inproceedings{DBLP:conf/grid/BouteillerBHLC04,
   author    = {Aurelien Bouteiller and
                Hinde-Lilia Bouziane and
-               Thomas H{\'e}rault and
+               Thomas Hérault and
                Pierre Lemarinier and
                Franck Cappello},
   title     = {Hybrid Preemptive Scheduling of {MPI} Applications on the Grids},
@@ -3603,8 +3859,8 @@
 @inproceedings{DBLP:conf/grid/VydyanathanKKCWSS04,
   author    = {Nagavijayalakshmi Vydyanathan and
                Gaurav Khanna and
-               Tahsin M. Kur{\c{c}} and
-               {\"U}mit V. {\c{C}}ataly{\"u}rek and
+               Tahsin M. Kurç and
+               Ümit V. Çatalyürek and
                Pete Wyckoff and
                Joel H. Saltz and
                P. Sadayappan},
@@ -3649,7 +3905,7 @@
 
 @inproceedings{DBLP:conf/grid/RosmanithK04,
   author    = {Herbert Rosmanith and
-               Dieter Kranzlm{\"u}ller},
+               Dieter Kranzlmüller},
   title     = {glogin - A Multifunctional, Interactive Tunnel into the Grid},
   booktitle = grid,
   year      = 2004,
@@ -3730,10 +3986,10 @@
                Richard Repasky and
                Matthias Hess and
                David Hart and
-               Matthias S. M{\"u}ller and
+               Matthias S. Müller and
                Ray Sheppard and
-               Uwe W{\"o}ssner and
-               Martin Aum{\"u}ller and
+               Uwe Wössner and
+               Martin Aumüller and
                Huian Li and
                Donald K. Berry and
                John Colbourne},
@@ -3886,10 +4142,10 @@
 }
 
 @inproceedings{DBLP:conf/grid/KacsukGDKFB04,
-  author    = {P{\'e}ter Kacsuk and
+  author    = {Péter Kacsuk and
                Ariel Goyeneche and
                Thierry Delaitre and
-               Tam{\'a}s Kiss and
+               Tamás Kiss and
                Zoltan Farkas and
                T. Boczko},
   title     = {{High-Level} Grid Application Environment to Use Legacy Codes as {OGSA} Grid Services},
@@ -3908,7 +4164,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/WeishauplS04,
-  author    = {Thomas Weish{\"a}upl and
+  author    = {Thomas Weishäupl and
                Erich Schikuta},
   title     = {Dynamic Service Evolution for Open Languages in the Grid and Service Oriented Architecture},
   booktitle = grid,
@@ -3970,7 +4226,7 @@
   author    = {Raissa Medeiros and
                Walfredo Cirne and
                Francisco Vilar Brasileiro and
-               Jacques Philippe Sauv{\'e}},
+               Jacques Philippe Sauvé},
   title     = {Faults in Grids: Why are they so bad and What can be done about it?},
   booktitle = grid,
   year      = 2003,
@@ -4007,7 +4263,7 @@
 
 @inproceedings{DBLP:conf/grid/CameronCMNSZ03,
   author    = {David G. Cameron and
-               Rub{\'e}n Carvajal-Schiaffino and
+               Rubén Carvajal-Schiaffino and
                A. Paul Millar and
                Caitriana Nicholson and
                Kurt Stockinger and
@@ -4123,8 +4379,8 @@
 
 @inproceedings{DBLP:conf/grid/NarayananCKZS03,
   author    = {Sivaramakrishnan Narayanan and
-               {\"U}mit V. {\c{C}}ataly{\"u}rek and
-               Tahsin M. Kur{\c{c}} and
+               Ümit V. Çatalyürek and
+               Tahsin M. Kurç and
                Xi Zhang and
                Joel H. Saltz},
   title     = {Applying Database Support for Large Scale Data Driven Science in Distributed Environments},
@@ -4148,13 +4404,13 @@
 
 @inproceedings{DBLP:conf/grid/EerolaKSEEHNWKHTMOV03,
   author    = {Paula Eerola and
-               Bal{\'a}zs K{\'o}nya and
+               Balázs Kónya and
                Oxana Smirnova and
-               Tord Ekel{\"o}f and
+               Tord Ekelöf and
                Mattias Ellert and
                John Renner Hansen and
                Jakob Langgaard Nielsen and
-               Anders W{\"a}{\"a}n{\"a}nen and
+               Anders Wäänänen and
                Aleksandr Konstantinov and
                Juha Herrala and
                Miika Tuisku and
@@ -4221,13 +4477,13 @@
 }
 
 @inproceedings{DBLP:conf/grid/RealYSFABG03,
-  author    = {Rodrigo Ara{\'u}jo Real and
+  author    = {Rodrigo Araújo Real and
                Adenauer C. Yamin and
                Luciano Cavalheiro da Silva and
                Gustavo Frainer and
                Iara Augustin and
                Jorge L. V. Barbosa and
-               Cl{\'a}udio F. R. Geyer},
+               Cláudio F. R. Geyer},
   title     = {Resource scheduling on grid: handling uncertainty},
   booktitle = grid,
   year      = 2003,
@@ -4288,7 +4544,7 @@
                Dave Angulo and
                Tom Goodale and
                Thilo Kielmann and
-               Andr{\'e} Merzky and
+               André Merzky and
                Jarek Nabrzyski and
                Juliusz Pukacki and
                Michael Russell and
@@ -4317,7 +4573,7 @@
 
 @inproceedings{DBLP:conf/grid/DoganO02,
   author    = {Atakan Dogan and
-               F{\"u}sun {\"O}zg{\"u}ner},
+               Füsun Özgüner},
   title     = {Scheduling Independent Tasks with {QoS} Requirements in Grid Computing with {Time-Varying} Resource Prices},
   booktitle = grid,
   year      = 2002,
@@ -4335,7 +4591,7 @@
 
 @inproceedings{DBLP:conf/grid/DavidGGSV02,
   author    = {Romaric David and
-               St{\'e}phane Genaud and
+               Stéphane Genaud and
                Arnaud Giersch and
                Benjamin Schwarz and
                Eric Violard},
@@ -4346,9 +4602,9 @@
 }
 
 @inproceedings{DBLP:conf/grid/PerezPR02,
-  author    = {Christian P{\'e}rez and
+  author    = {Christian Pérez and
                Thierry Priol and
-               Andr{\'e} Ribes},
+               André Ribes},
   title     = {A Parallel {CORBA} Component Model for Numerical Code Coupling},
   booktitle = grid,
   year      = 2002,
@@ -4555,7 +4811,7 @@
 
 @inproceedings{DBLP:conf/grid/NallipoguOL02,
   author    = {Elsie Nallipogu and
-               F{\"u}sun {\"O}zg{\"u}ner and
+               Füsun Özgüner and
                Mario Lauria},
   title     = {Improving the Throughput of Remote Storage Access through Pipelining},
   booktitle = grid,
@@ -4584,7 +4840,7 @@
 
 @inproceedings{DBLP:conf/grid/DenisPP01,
   author    = {Alexandre Denis and
-               Christian P{\'e}rez and
+               Christian Pérez and
                Thierry Priol},
   title     = {Towards High Performance {CORBA} and {MPI} Middlewares for Grid Computing},
   booktitle = grid,
@@ -4807,7 +5063,7 @@
 
 @inproceedings{DBLP:conf/grid/HoschekJSSS00,
   author    = {Wolfgang Hoschek and
-               Francisco Javier Ja{\'e}n-Mart{\'\i}nez and
+               Francisco Javier Jaén-Martínez and
                Asad Samar and
                Heinz Stockinger and
                Kurt Stockinger},
@@ -4818,8 +5074,8 @@
 }
 
 @inproceedings{DBLP:conf/grid/GermainNFC00,
-  author    = {C{\'e}cile Germain and
-               Vincent N{\'e}ri and
+  author    = {Cécile Germain and
+               Vincent Néri and
                Gilles Fedak and
                Franck Cappello},
   title     = {XtremWeb: Building an Experimental Platform for Global Computing},
@@ -4840,7 +5096,7 @@
 @inproceedings{DBLP:conf/grid/BaragliaLL00,
   author    = {Ranieri Baraglia and
                Domenico Laforenza and
-               Antonio Lagan{\`a}},
+               Antonio Laganà},
   title     = {A {Web-Based} Metacomputing {Problem-Solving} Environment for Complex Applications},
   booktitle = grid,
   year      = 2000,
@@ -4848,7 +5104,7 @@
 }
 
 @inproceedings{DBLP:conf/grid/ApolloniaGG00,
-  author    = {Ga{\"e}tan Scotto di Apollonia and
+  author    = {Gaëtan Scotto di Apollonia and
                Christophe Gransart and
                Jean-Marc Geib},
   title     = {FOCALE: Towards a Grid View of Large Scale Computation Components},
@@ -4927,7 +5183,7 @@
                G. Dick van Albada and
                Benno J. Overeinder and
                Peter M. A. Sloot and
-               J{\"o}rn Gehring},
+               Jörn Gehring},
   title     = {Experiments with Migration of {Message-Passing} Tasks},
   booktitle = grid,
   year      = 2000,

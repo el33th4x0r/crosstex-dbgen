@@ -1,5 +1,270 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotnets/RetvariCKTCEP12,
+  author    = {Gábor Rétvári and
+               Zoltán Csernátony and
+               Attila Korösi and
+               János Tapolcai and
+               András Császár and
+               Gábor Enyedi and
+               Gergely Pongrácz},
+  title     = {Compressing {IP} forwarding tables for fun and profit},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/hotnets/GemberPGA12,
+  author    = {Aaron Gember and
+               Prathmesh Prabhu and
+               Zainab Ghadiyali and
+               Aditya Akella},
+  title     = {Toward software-defined middlebox networking},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/hotnets/VulimiriMGS12,
+  author    = {Ashish Vulimiri and
+               Oliver Michel and
+               Brighten Godfrey and
+               Scott Shenker},
+  title     = {More is less: reducing latency via redundancy},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/hotnets/GvozdievKH12,
+  author    = {Nikola Gvozdiev and
+               Brad Karp and
+               Mark Handley},
+  title     = {LOUP: who's afraid of the big bad loop?},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/hotnets/HarrisonJ12,
+  author    = {Calum Harrison and
+               Kyle Jamieson},
+  title     = {Power-aware rateless codes in mobile wireless communication},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/hotnets/ChowdhuryS12,
+  author    = {Mosharaf Chowdhury and
+               Ion Stoica},
+  title     = {Coflow: a networking abstraction for cluster applications},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/hotnets/GuptaSPSSFRS12,
+  author    = {Debayan Gupta and
+               Aaron Segal and
+               Aurojit Panda and
+               Gil Segev and
+               Michael Schapira and
+               Joan Feigenbaum and
+               Jennifer Rexford and
+               Scott Shenker},
+  title     = {A new approach to interdomain routing based on secure multi-party computation},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/hotnets/RaghavanCKRGS12,
+  author    = {Barath Raghavan and
+               Martin Casado and
+               Teemu Koponen and
+               Sylvia Ratnasamy and
+               Ali Ghodsi and
+               Scott Shenker},
+  title     = {Software-defined internet architecture: decoupling architecture from infrastructure},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/hotnets/StanojevicEP12,
+  author    = {Rade Stanojevic and
+               Vijay Erramilli and
+               Konstantina Papagiannaki},
+  title     = {Cognitive bias in network services},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/hotnets/KotronisDA12,
+  author    = {Vasileios Kotronis and
+               Xenofontas Dimitropoulos and
+               Bernhard Ager},
+  title     = {Outsourcing the routing control logic: better internet routing based on {SDN} principles},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/hotnets/GhobadiYG12,
+  author    = {Monia Ghobadi and
+               Soheil Hassas Yeganeh and
+               Yashar Ganjali},
+  title     = {Rethinking end-to-end congestion control in software-defined networks},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {61-66},
+}
+
+@inproceedings{DBLP:conf/hotnets/SinghSKRK12,
+  author    = {Shailendra Singh and
+               Karthikeyan Sundaresan and
+               Amir Khojastepour and
+               Sampath Rangarajan and
+               Srikanth V. Krishnamurthy},
+  title     = {One strategy does not serve all: tailoring wireless transmission strategies to user profiles},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {67-72},
+}
+
+@inproceedings{DBLP:conf/hotnets/SafakaFAD12,
+  author    = {Iris Safaka and
+               Christina Fragouli and
+               Katerina J. Argyraki and
+               Suhas N. Diggavi},
+  title     = {Creating shared secrets out of thin air},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {73-78},
+}
+
+@inproceedings{DBLP:conf/hotnets/MikiansGEL12,
+  author    = {Jakub Mikians and
+               László Gyarmati and
+               Vijay Erramilli and
+               Nikolaos Laoutaris},
+  title     = {Detecting price and search discrimination on the internet},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {79-84},
+}
+
+@inproceedings{DBLP:conf/hotnets/Vallina-RodriguezEGGLSP12,
+  author    = {Narseo Vallina-Rodriguez and
+               Vijay Erramilli and
+               Yan Grunenberger and
+               László Gyarmati and
+               Nikolaos Laoutaris and
+               Rade Stanojevic and
+               Konstantina Papagiannaki},
+  title     = {When David helps Goliath: the case for 3G onloading},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {85-90},
+}
+
+@inproceedings{DBLP:conf/hotnets/0004HCGG12,
+  author    = {Bin Liu and
+               Hsunwei Hsiung and
+               Da Cheng and
+               Ramesh Govindan and
+               Sandeep K. Gupta},
+  title     = {Towards systematic roadmaps for networked systems},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {91-96},
+}
+
+@inproceedings{DBLP:conf/hotnets/BalachandranSASSZ12,
+  author    = {Athula Balachandran and
+               Vyas Sekar and
+               Aditya Akella and
+               Srinivasan Seshan and
+               Ion Stoica and
+               Hui Zhang},
+  title     = {A quest for an Internet video quality-of-experience metric},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {97-102},
+}
+
+@inproceedings{DBLP:conf/hotnets/GuhaK12,
+  author    = {Saikat Guha and
+               Srikanth Kandula},
+  title     = {Act for affordable data care},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {103-108},
+}
+
+@inproceedings{DBLP:conf/hotnets/KellerGCR12,
+  author    = {Eric Keller and
+               Soudeh Ghorbani and
+               Matthew Caesar and
+               Jennifer Rexford},
+  title     = {Live migration of an entire network (and its hosts)},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {109-114},
+}
+
+@inproceedings{DBLP:conf/hotnets/FarringtonPFPV12,
+  author    = {Nathan Farrington and
+               George Porter and
+               Yeshaiahu Fainman and
+               George Papen and
+               Amin Vahdat},
+  title     = {Hunting mice with microsecond circuit switches},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {115-120},
+}
+
+@inproceedings{DBLP:conf/hotnets/ChengSKA12,
+  author    = {Raymond Cheng and
+               Will Scott and
+               Arvind Krishnamurthy and
+               Thomas E. Anderson},
+  title     = {FreeDOM: a new baseline for the web},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {121-126},
+}
+
+@inproceedings{DBLP:conf/hotnets/WeinsbergLTBSIS12,
+  author    = {Udi Weinsberg and
+               Qingxi Li and
+               Nina Taft and
+               Athula Balachandran and
+               Vyas Sekar and
+               Gianluca Iannaccone and
+               Srinivasan Seshan},
+  title     = {CARE: content aware redundancy elimination for challenged networks},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {127-132},
+}
+
+@inproceedings{DBLP:conf/hotnets/AlizadehYKMPS12,
+  author    = {Mohammad Alizadeh and
+               Shuang Yang and
+               Sachin Katti and
+               Nick McKeown and
+               Balaji Prabhakar and
+               Scott Shenker},
+  title     = {Deconstructing datacenter packet transport},
+  booktitle = hotnets,
+  year      = 2012,
+  pages     = {133-138},
+}
+
 @inproceedings{DBLP:conf/hotnets/GhodsiSKSRW11,
   author    = {Ali Ghodsi and
                Scott Shenker and
@@ -124,7 +389,7 @@
 @inproceedings{DBLP:conf/hotnets/Katz-BassettCCSAK11,
   author    = {Ethan Katz-Bassett and
                David R. Choffnes and
-               {\'I}talo Cunha and
+               Ítalo Cunha and
                Colin Scott and
                Thomas E. Anderson and
                Arvind Krishnamurthy},
@@ -384,7 +649,7 @@
 @inproceedings{DBLP:conf/hotnets/RaiciuPBGWH10,
   author    = {Costin Raiciu and
                Christopher Pluntke and
-               S{\'e}bastien Barr{\'e} and
+               Sébastien Barré and
                Adam Greenhalgh and
                Damon Wischik and
                Mark Handley},
@@ -418,7 +683,7 @@
   author    = {Andreas Pitsillidis and
                Yinglian Xie and
                Fang Yu and
-               Mart{\'\i}n Abadi and
+               Martín Abadi and
                Geoffrey M. Voelker and
                Stefan Savage},
   title     = {How to tell an airport from a home: techniques and applications},
@@ -496,9 +761,9 @@
 @inproceedings{DBLP:conf/hotnets/DuttaKLSV10,
   author    = {Prabal Dutta and
                Ye-Sheng Kuo and
-               {\'A}kos L{\'e}deczi and
+               Ákos Lédeczi and
                Thomas Schmid and
-               P{\'e}ter V{\"o}lgyesi},
+               Péter Völgyesi},
   title     = {Putting the software radio on a low-calorie diet},
   booktitle = hotnets,
   year      = 2010,
@@ -508,7 +773,7 @@
 @inproceedings{DBLP:conf/hotnets/ShiehKS10,
   author    = {Alan Shieh and
                Srikanth Kandula and
-               Emin G{\"u}n Sirer},
+               Emin Gün Sirer},
   title     = {SideCar: building programmable datacenter networks without programmable switches},
   booktitle = hotnets,
   year      = 2010,
@@ -524,4 +789,218 @@
   booktitle = hotnets,
   year      = 2010,
   pages     = {22},
+}
+
+@inproceedings{DBLP:conf/hotnets/0002SR09,
+  author    = {Lucian Popa and
+               Ion Stoica and
+               Sylvia Ratnasamy},
+  title     = {Rule-based Forwarding (RBF): Improving Internet's flexibility and security},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/BadenSB09,
+  author    = {Randy Baden and
+               Neil Spring and
+               Bobby Bhattacharjee},
+  title     = {Identifying Close Friends on the Internet},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/FallGIR09,
+  author    = {Kevin R. Fall and
+               Brighten Godfrey and
+               Gianluca Iannaccone and
+               Sylvia Ratnasamy},
+  title     = {Routing Tables: Is Smaller Really Much Better?},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/FordI09,
+  author    = {Bryan Ford and
+               Janardhan R. Iyengar},
+  title     = {Efficient {Cross-Layer} Negotiation},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/GilbertRST09,
+  author    = {Peter Gilbert and
+               Venugopalan Ramasubramanian and
+               Patrick Stuedi and
+               Douglas B. Terry},
+  title     = {The Duality between Message Routing and Epidemic Data Replication},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/GuhaRTHF09,
+  author    = {Saikat Guha and
+               Alexey Reznichenko and
+               Kevin Tang and
+               Hamed Haddadi and
+               Paul Francis},
+  title     = {Serving Ads from localhost for Performance, Privacy, and Profit},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/JakubczakRK09,
+  author    = {Szymon Jakubczak and
+               Hariharan Rahul and
+               Dina Katabi},
+  title     = {{One-Size-Fits-All} Wireless Video},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/KandulaPB09,
+  author    = {Srikanth Kandula and
+               Jitendra Padhye and
+               Paramvir Bahl},
+  title     = {Flyways To {De-Congest} Data Center Networks},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/KushmanBBKBR09,
+  author    = {Nate Kushman and
+               Micah Z. Brodsky and
+               S. R. K. Branavan and
+               Dina Katabi and
+               Regina Barzilay and
+               Martin Rinard},
+  title     = {{WikiDo}},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/LiLTVY09,
+  author    = {Li Erran Li and
+               Junliang Liu and
+               Kun Tan and
+               Harish Viswanathan and
+               Rich Yang},
+  title     = {Retransmission =/= Repeat: Simple Retransmission Permutation Can Resolve Overlapping Channel Collisions},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/LinCM09,
+  author    = {Chia-Chi Lin and
+               Matthew Caesar and
+               Kobus van der Merwe},
+  title     = {Toward Interactive Debugging for {ISP} Networks},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/MeyerT09,
+  author    = {Thomas Meyer and
+               Christian F. Tschudin},
+  title     = {Chemical Networking Protocols},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/MittalPSW09,
+  author    = {Prateek Mittal and
+               Vern Paxson and
+               Robin Sommer and
+               Mark Winterrowd},
+  title     = {Securing Mediated Trace Access Using Black-box Permutation Analysis},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/PfaffPACKS09,
+  author    = {Ben Pfaff and
+               Justin Pettit and
+               Keith Amidon and
+               Martin Casado and
+               Teemu Koponen and
+               Scott Shenker},
+  title     = {Extending Networking into the Virtualization Layer},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/PiatekMJKA09,
+  author    = {Michael Piatek and
+               Harsha V. Madhyastha and
+               John P. John and
+               Arvind Krishnamurthy and
+               Thomas E. Anderson},
+  title     = {Pitfalls for {ISP-friendly} P2P design},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/SeehraNWMNS09,
+  author    = {Arun Seehra and
+               Jad Naous and
+               Michael Walfish and
+               David Mazières and
+               Antonio Nicolosi and
+               Scott Shenker},
+  title     = {A Policy Framework for the Future Internet},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/SenSCN09,
+  author    = {Souvik Sen and
+               Naveen Santhapuri and
+               Romit Roy Choudhury and
+               Srihari Nelakuditi},
+  title     = {Moving Away from Collision Avoidance: Aborting Collisions in Wireless Networks},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/TavakoliCKS09,
+  author    = {Arsalan Tavakoli and
+               Martin Casado and
+               Teemu Koponen and
+               Scott Shenker},
+  title     = {Applying {NOX} to the Datacenter},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/WangAKKNPGM09,
+  author    = {Guohui Wang and
+               David G. Andersen and
+               Michael Kaminsky and
+               Michael Kozuch and
+               T. S. Eugene Ng and
+               Konstantina Papagiannaki and
+               Madeleine Glick and
+               Lily B. Mummert},
+  title     = {Your Data Center Is a Router: The Case for Reconfigurable Optical Circuit Switched Paths},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/WangJLLSB09,
+  author    = {Anduo Wang and
+               Limin Jia and
+               Changbin Liu and
+               Boon Thau Loo and
+               Oleg Sokolsky and
+               Prithwish Basu},
+  title     = {Formally Verifiable Networking},
+  booktitle = hotnets,
+  year      = 2009,
+}
+
+@inproceedings{DBLP:conf/hotnets/YangL09,
+  author    = {Xiaowei Yang and
+               Xin Liu},
+  title     = {Internet Protocol Made Accountable},
+  booktitle = hotnets,
+  year      = 2009,
 }
