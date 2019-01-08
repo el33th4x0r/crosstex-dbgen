@@ -1,5 +1,1833 @@
 @include journals-cs
 
+@article{DBLP:journals/queue/Chisnall18,
+  author    = {David Chisnall},
+  title     = {C Is Not a Low-level Language},
+  journal   = queue,
+  volume    = {16},
+  number    = {2},
+  year      = 2018,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/EsparrachiariRR18,
+  author    = {Silvia Esparrachiari and
+               Tanya Reilly and
+               Ashleigh Rentz},
+  title     = {Tracking and Controlling Microservice Dependencies},
+  journal   = queue,
+  volume    = {16},
+  number    = {4},
+  year      = 2018,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Helland18a,
+  author    = {Pat Helland},
+  title     = {Mind Your State for Your State of Mind},
+  journal   = queue,
+  volume    = {16},
+  number    = {3},
+  year      = 2018,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Limoncelli18,
+  author    = {Thomas A. Limoncelli},
+  title     = {GitOps: A Path to More Self-service {IT}},
+  journal   = queue,
+  volume    = {16},
+  number    = {3},
+  year      = 2018,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Matsudaira18a,
+  author    = {Kate Matsudaira},
+  title     = {How to Get Things Done When You Don't Feel Like It},
+  journal   = queue,
+  volume    = {16},
+  number    = {4},
+  year      = 2018,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil18,
+  author    = {George Neville-Neil},
+  title     = {Every Silver Lining Has a Cloud},
+  journal   = queue,
+  volume    = {16},
+  number    = {2},
+  year      = 2018,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/BennettCJLMO18,
+  author    = {Rich Bennett and
+               Craig Callahan and
+               Stacy Jones and
+               Matt Levine and
+               Merrill Miller and
+               Andy Ozment},
+  title     = {How to Live in a {Post-Meltdown} and -Spectre World},
+  journal   = queue,
+  volume    = {16},
+  number    = {4},
+  year      = 2018,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Lipton18,
+  author    = {Zachary C. Lipton},
+  title     = {The Mythos of Model Interpretability},
+  journal   = queue,
+  volume    = {16},
+  number    = {3},
+  year      = 2018,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Petrov18,
+  author    = {Alex Petrov},
+  title     = {Algorithms Behind Modern Storage Systems},
+  journal   = queue,
+  volume    = {16},
+  number    = {2},
+  year      = 2018,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Helland18,
+  author    = {Pat Helland},
+  title     = {Consistently Eventual},
+  journal   = queue,
+  volume    = {16},
+  number    = {2},
+  year      = 2018,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Matsudaira18,
+  author    = {Kate Matsudaira},
+  title     = {The Secret Formula for Choosing the Right Next Role},
+  journal   = queue,
+  volume    = {16},
+  number    = {3},
+  year      = 2018,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/NukalaR18,
+  author    = {Shylaja Nukala and
+               Vivek Rau},
+  title     = {Why {SRE} Documents Matter},
+  journal   = queue,
+  volume    = {16},
+  number    = {4},
+  year      = 2018,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Mubeen18,
+  author    = {Noor Mubeen},
+  title     = {Workload Frequency Scaling Law - Derivation and Verification},
+  journal   = queue,
+  volume    = {16},
+  number    = {2},
+  year      = 2018,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Neville-Neil18b,
+  author    = {George Neville-Neil},
+  title     = {A Chance Gardener},
+  journal   = queue,
+  volume    = {16},
+  number    = {4},
+  year      = 2018,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/RatnerR18,
+  author    = {Alexander Ratner and
+               Christopher Ré},
+  title     = {Knowledge Base Construction in the Machine-learning Era},
+  journal   = queue,
+  volume    = {16},
+  number    = {3},
+  year      = 2018,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Alonso18,
+  author    = {Gustavo Alonso},
+  title     = {{FPGAs} in Data Centers},
+  journal   = queue,
+  volume    = {16},
+  number    = {2},
+  year      = 2018,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/FataAHB18,
+  author    = {Matt Fata and
+               Philippe-Joseph Arida and
+               Patrick Hahn and
+               Betsy Beyer},
+  title     = {Corp to Cloud: Google's Virtual Desktops},
+  journal   = queue,
+  volume    = {16},
+  number    = {3},
+  year      = 2018,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Lam18,
+  author    = {Alpha Lam},
+  title     = {Using Remote Cache Service for Bazel},
+  journal   = queue,
+  volume    = {16},
+  number    = {4},
+  year      = 2018,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Neville-Neil18a,
+  author    = {George Neville-Neil},
+  title     = {The Obscene Coupling Known as Spaghetti Code},
+  journal   = queue,
+  volume    = {16},
+  number    = {3},
+  year      = 2018,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/AlvaroT17,
+  author    = {Peter Alvaro and
+               Severine Tymon},
+  title     = {Abstracting the Geniuses Away from Failure Testing},
+  journal   = queue,
+  volume    = {15},
+  number    = {5},
+  year      = 2017,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Meijer17,
+  author    = {Erik Meijer},
+  title     = {Making Money Using Math},
+  journal   = queue,
+  volume    = {15},
+  number    = {1},
+  year      = 2017,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil17a,
+  author    = {George Neville-Neil},
+  title     = {The Observer Effect},
+  journal   = queue,
+  volume    = {15},
+  number    = {2},
+  year      = 2017,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil17b,
+  author    = {George Neville-Neil},
+  title     = {IoT: The Internet of Terror},
+  journal   = queue,
+  volume    = {15},
+  number    = {3},
+  year      = 2017,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil17c,
+  author    = {George Neville-Neil},
+  title     = {Cold, Hard Cache},
+  journal   = queue,
+  volume    = {15},
+  number    = {4},
+  year      = 2017,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Schlossnagle17,
+  author    = {Theo Schlossnagle},
+  title     = {Monitoring in a {DevOps} World},
+  journal   = queue,
+  volume    = {15},
+  number    = {6},
+  year      = 2017,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/JacobsonSN17,
+  author    = {Ivar Jacobson and
+               Ian Spence and
+               Pan Wei Ng},
+  title     = {Is There a Single Method for the Internet of Things?},
+  journal   = queue,
+  volume    = {15},
+  number    = {3},
+  year      = 2017,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Matsudaira17,
+  author    = {Kate Matsudaira},
+  title     = {Does Anybody Listen to You?},
+  journal   = queue,
+  volume    = {15},
+  number    = {1},
+  year      = 2017,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Matsudaira17d,
+  author    = {Kate Matsudaira},
+  title     = {Views from the Top},
+  journal   = queue,
+  volume    = {15},
+  number    = {5},
+  year      = 2017,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/NarayananC17,
+  author    = {Arvind Narayanan and
+               Jeremy Clark},
+  title     = {Bitcoin's Academic Pedigree},
+  journal   = queue,
+  volume    = {15},
+  number    = {4},
+  year      = 2017,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil17e,
+  author    = {George Neville-Neil},
+  title     = {Popping Kernels},
+  journal   = queue,
+  volume    = {15},
+  number    = {6},
+  year      = 2017,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Overton17,
+  author    = {Mark A. Overton},
+  title     = {The {IDAR} Graph},
+  journal   = queue,
+  volume    = {15},
+  number    = {2},
+  year      = 2017,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/ForsgrenK17,
+  author    = {Nicole Forsgren and
+               Mik Kersten},
+  title     = {{DevOps} Metrics},
+  journal   = queue,
+  volume    = {15},
+  number    = {6},
+  year      = 2017,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Guo17,
+  author    = {Robert Guo},
+  title     = {{MongoDB's} {JavaScript} Fuzzer},
+  journal   = queue,
+  volume    = {15},
+  number    = {1},
+  year      = 2017,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/LeungSB17,
+  author    = {Andrew Leung and
+               Andrew Spyker and
+               Tim Bozarth},
+  title     = {Titus: Introducing Containers to the Netflix Cloud},
+  journal   = queue,
+  volume    = {15},
+  number    = {5},
+  year      = 2017,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Loveless17,
+  author    = {Jacob Loveless},
+  title     = {Cache Me If You Can},
+  journal   = queue,
+  volume    = {15},
+  number    = {4},
+  year      = 2017,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Matsudaira17a,
+  author    = {Kate Matsudaira},
+  title     = {Conversations with Technology Leaders: Erik Meijer},
+  journal   = queue,
+  volume    = {15},
+  number    = {2},
+  year      = 2017,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Matsudaira17b,
+  author    = {Kate Matsudaira},
+  title     = {10 Ways to Be a Better Interviewer},
+  journal   = queue,
+  volume    = {15},
+  number    = {3},
+  year      = 2017,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Matsudaira17c,
+  author    = {Kate Matsudaira},
+  title     = {Breadth and Depth},
+  journal   = queue,
+  volume    = {15},
+  number    = {4},
+  year      = 2017,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Matsudaira17e,
+  author    = {Kate Matsudaira},
+  title     = {How Is Your Week Going So Far?},
+  journal   = queue,
+  volume    = {15},
+  number    = {6},
+  year      = 2017,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Neville-Neil17,
+  author    = {George Neville-Neil},
+  title     = {Forced {Exception-Handling}},
+  journal   = queue,
+  volume    = {15},
+  number    = {1},
+  year      = 2017,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Neville-Neil17d,
+  author    = {George Neville-Neil},
+  title     = {Reducing the Attack Surface},
+  journal   = queue,
+  volume    = {15},
+  number    = {5},
+  year      = 2017,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/SlossDRB17,
+  author    = {Benjamin Treynor Sloss and
+               Mike Dahlin and
+               Vivek Rau and
+               Betsy Beyer},
+  title     = {The Calculus of Service Availability},
+  journal   = queue,
+  volume    = {15},
+  number    = {2},
+  year      = 2017,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Videla17,
+  author    = {Alvaro Videla},
+  title     = {Metaphors We Compute By},
+  journal   = queue,
+  volume    = {15},
+  number    = {3},
+  year      = 2017,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Helland17,
+  author    = {Pat Helland},
+  title     = {Side Effects, Front and Center!},
+  journal   = queue,
+  volume    = {15},
+  number    = {2},
+  year      = 2017,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Helland17a,
+  author    = {Pat Helland},
+  title     = {{XML} and {JSON} Are Like Cardboard},
+  journal   = queue,
+  volume    = {15},
+  number    = {4},
+  year      = 2017,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Kromhout17,
+  author    = {Bridget Kromhout},
+  title     = {Containers Will Not Fix Your Broken Culture (and Other Hard Truths)},
+  journal   = queue,
+  volume    = {15},
+  number    = {6},
+  year      = 2017,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Limoncelli17,
+  author    = {Thomas A. Limoncelli},
+  title     = {Four Ways to Make {CS} & {IT} Curricula More Immersive},
+  journal   = queue,
+  volume    = {15},
+  number    = {3},
+  year      = 2017,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/ODell17,
+  author    = {Devon H. O'Dell},
+  title     = {The Debugging Mindset},
+  journal   = queue,
+  volume    = {15},
+  number    = {1},
+  year      = 2017,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/SompolinskyZ17,
+  author    = {Yonatan Sompolinsky and
+               Aviv Zohar},
+  title     = {Bitcoin's Underlying Incentives},
+  journal   = queue,
+  volume    = {15},
+  number    = {5},
+  year      = 2017,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Alappatt17,
+  author    = {Antony Alappatt},
+  title     = {Network Applications Are Interactive},
+  journal   = queue,
+  volume    = {15},
+  number    = {4},
+  year      = 2017,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/AlvaroGB17,
+  author    = {Peter Alvaro and
+               Sumit Gulwani and
+               Peter Bailis},
+  title     = {Research for Practice: Tracing and Debugging Distributed Systems; Programming by Examples},
+  journal   = queue,
+  volume    = {15},
+  number    = {1},
+  year      = 2017,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Cormode17,
+  author    = {Graham Cormode},
+  title     = {Data Sketching},
+  journal   = queue,
+  volume    = {15},
+  number    = {2},
+  year      = 2017,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Limoncelli17a,
+  author    = {Thomas A. Limoncelli},
+  title     = {Operational Excellence in April Fools' Pranks},
+  journal   = queue,
+  volume    = {15},
+  number    = {5},
+  year      = 2017,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/SteelBBBC17,
+  author    = {Edward Steel and
+               Yanik Berube and
+               Jonas Bonér and
+               Ken Britton and
+               Terry Coatta},
+  title     = {Hootsuite: In Pursuit of Reactive Systems},
+  journal   = queue,
+  volume    = {15},
+  number    = {3},
+  year      = 2017,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Vasisht17,
+  author    = {Deepak Vasisht},
+  title     = {Toward a Network of Connected Things},
+  journal   = queue,
+  volume    = {15},
+  number    = {6},
+  year      = 2017,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/DillahuntMBB17,
+  author    = {Tawanna Dillahunt and
+               Stefanie Mueller and
+               Patrick Baudisch and
+               Peter Bailis},
+  title     = {Research for Practice: Technology for UnderservedCommunities; Personal Fabrication},
+  journal   = queue,
+  volume    = {15},
+  number    = {2},
+  year      = 2017,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/HellandWH17,
+  author    = {Pat Helland and
+               Simon Weaver and
+               Ed Harris},
+  title     = {Too Big {NOT} to Fail},
+  journal   = queue,
+  volume    = {15},
+  number    = {1},
+  year      = 2017,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/Humble17,
+  author    = {Jez Humble},
+  title     = {Continuous Delivery Sounds Great, but Will It Work Here?},
+  journal   = queue,
+  volume    = {15},
+  number    = {6},
+  year      = 2017,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/KwonW17,
+  author    = {Albert Kwon and
+               James Wilcox},
+  title     = {Private Online Communication; Highlights in Systems Verification},
+  journal   = queue,
+  volume    = {15},
+  number    = {4},
+  year      = 2017,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/Regehr17,
+  author    = {John Regehr},
+  title     = {Vigorous Public Debates in Academic Computer Science},
+  journal   = queue,
+  volume    = {15},
+  number    = {3},
+  year      = 2017,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/Schwarzkopf17,
+  author    = {Malte Schwarzkopf},
+  title     = {Cluster Scheduling for Data Centers},
+  journal   = queue,
+  volume    = {15},
+  number    = {5},
+  year      = 2017,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/YuD16,
+  author    = {Meng-Day (Mandel) Yu and
+               Srinivas Devadas},
+  title     = {Pervasive, Dynamic Authentication of Physical Items},
+  journal   = queue,
+  volume    = {14},
+  number    = {6},
+  year      = 2016,
+  pages     = {1-28},
+}
+
+@article{DBLP:journals/queue/Matsudaira16d,
+  author    = {Kate Matsudaira},
+  title     = {Resolving Conflict},
+  journal   = queue,
+  volume    = {14},
+  number    = {5},
+  year      = 2016,
+  pages     = {5-11},
+}
+
+@article{DBLP:journals/queue/Limoncelli16b,
+  author    = {Thomas A. Limoncelli},
+  title     = {Are You Load Balancing Wrong?},
+  journal   = queue,
+  volume    = {14},
+  number    = {6},
+  year      = 2016,
+  pages     = {5-13},
+}
+
+@article{DBLP:journals/queue/BurnsGOBW16,
+  author    = {Brendan Burns and
+               Brian Grant and
+               David Oppenheimer and
+               Eric Brewer and
+               John Wilkes},
+  title     = {Borg, Omega, and Kubernetes},
+  journal   = queue,
+  volume    = {14},
+  number    = {1},
+  year      = 2016,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Gregg16,
+  author    = {Brendan Gregg},
+  title     = {The Flame Graph},
+  journal   = queue,
+  volume    = {14},
+  number    = {2},
+  year      = 2016,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Killalea16,
+  author    = {Tom Killalea},
+  title     = {The Hidden Dividends of Microservices},
+  journal   = queue,
+  volume    = {14},
+  number    = {3},
+  year      = 2016,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Limoncelli16a,
+  author    = {Thomas A. Limoncelli},
+  title     = {10 Optimizations on Linear Search},
+  journal   = queue,
+  volume    = {14},
+  number    = {4},
+  year      = 2016,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil16d,
+  author    = {George Neville-Neil},
+  title     = {The Unholy Trinity of Software Development},
+  journal   = queue,
+  volume    = {14},
+  number    = {5},
+  year      = 2016,
+  pages     = {12-19},
+}
+
+@article{DBLP:journals/queue/Neville-Neil16e,
+  author    = {George Neville-Neil},
+  title     = {The Chess Player who Couldn't Pass the Salt},
+  journal   = queue,
+  volume    = {14},
+  number    = {6},
+  year      = 2016,
+  pages     = {14-18},
+}
+
+@article{DBLP:journals/queue/Schlossnagle16,
+  author    = {Theo Schlossnagle},
+  title     = {Time, but Faster},
+  journal   = queue,
+  volume    = {14},
+  number    = {6},
+  year      = 2016,
+  pages     = {19-30},
+}
+
+@article{DBLP:journals/queue/Hartmann16,
+  author    = {Heinrich Hartmann},
+  title     = {Statistics for Engineers},
+  journal   = queue,
+  volume    = {14},
+  number    = {1},
+  year      = 2016,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Morrison16,
+  author    = {Adam Morrison},
+  title     = {Scaling Synchronization in Multicore Programs},
+  journal   = queue,
+  volume    = {14},
+  number    = {4},
+  year      = 2016,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil16a,
+  author    = {George Neville-Neil},
+  title     = {What Are You Trying to Pull?},
+  journal   = queue,
+  volume    = {14},
+  number    = {2},
+  year      = 2016,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil16b,
+  author    = {George Neville-Neil},
+  title     = {Chilling the Messenger},
+  journal   = queue,
+  volume    = {14},
+  number    = {3},
+  year      = 2016,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/CardwellCGYJ16,
+  author    = {Neal Cardwell and
+               Yuchung Cheng and
+               C. Stephen Gunn and
+               Soheil Hassas Yeganeh and
+               Van Jacobson},
+  title     = {BBR: {Congestion-Based} Congestion Control},
+  journal   = queue,
+  volume    = {14},
+  number    = {5},
+  year      = 2016,
+  pages     = {20-53},
+}
+
+@article{DBLP:journals/queue/Date16,
+  author    = {Sachin Date},
+  title     = {Should You Upload or Ship Big Data to the Cloud?},
+  journal   = queue,
+  volume    = {14},
+  number    = {2},
+  year      = 2016,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Kamp16,
+  author    = {Poul-Henning Kamp},
+  title     = {More Encryption Means Less Privacy},
+  journal   = queue,
+  volume    = {14},
+  number    = {1},
+  year      = 2016,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Neville-Neil16c,
+  author    = {George Neville-Neil},
+  title     = {Cloud Calipers},
+  journal   = queue,
+  volume    = {14},
+  number    = {4},
+  year      = 2016,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Singh16,
+  author    = {Satnam Singh},
+  title     = {Cluster-level Logging of Containers with Containers},
+  journal   = queue,
+  volume    = {14},
+  number    = {3},
+  year      = 2016,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Zahran16,
+  author    = {Mohamed Zahran},
+  title     = {Heterogeneous Computing: Here to Stay},
+  journal   = queue,
+  volume    = {14},
+  number    = {6},
+  year      = 2016,
+  pages     = {31-42},
+}
+
+@article{DBLP:journals/queue/BailisFAP16,
+  author    = {Peter Bailis and
+               Camille Fournier and
+               Joy Arulraj and
+               Andy Pavlo},
+  title     = {Research for Practice: Distributed Consensus and Implications of {NVM} on Database Management Systems},
+  journal   = queue,
+  volume    = {14},
+  number    = {3},
+  year      = 2016,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/HuntOSC16,
+  author    = {Pete Hunt and
+               Paul O'Shannessy and
+               Dave Smith and
+               Terry Coatta},
+  title     = {React: Facebook's Functional Turn on Writing {JavaScript}},
+  journal   = queue,
+  volume    = {14},
+  number    = {4},
+  year      = 2016,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Matsudaira16a,
+  author    = {Kate Matsudaira},
+  title     = {Nine Things I Didn't Know I Would Learn Being an Engineer Manager},
+  journal   = queue,
+  volume    = {14},
+  number    = {2},
+  year      = 2016,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Neville-Neil16,
+  author    = {George Neville-Neil},
+  title     = {{GNL} is Not Linux},
+  journal   = queue,
+  volume    = {14},
+  number    = {1},
+  year      = 2016,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/BailisNMH16,
+  author    = {Peter Bailis and
+               Arvind Narayanan and
+               Andrew Miller and
+               Song Han},
+  title     = {Research for Practice: Cryptocurrencies, Blockchains, and Smart Contracts; Hardware for Deep Learning},
+  journal   = queue,
+  volume    = {14},
+  number    = {6},
+  year      = 2016,
+  pages     = {43-55},
+}
+
+@article{DBLP:journals/queue/BeschastnikhWBE16,
+  author    = {Ivan Beschastnikh and
+               Patty Wang and
+               Yuriy Brun and
+               Michael D. Ernst},
+  title     = {Debugging Distributed Systems},
+  journal   = queue,
+  volume    = {14},
+  number    = {2},
+  year      = 2016,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/JacobsonSK16,
+  author    = {Ivar Jacobson and
+               Ian Spence and
+               Brian Kerr},
+  title     = {{Use-Case} 2.0},
+  journal   = queue,
+  volume    = {14},
+  number    = {1},
+  year      = 2016,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Matsudaira16c,
+  author    = {Kate Matsudaira},
+  title     = {Fresh Starts},
+  journal   = queue,
+  volume    = {14},
+  number    = {4},
+  year      = 2016,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Medeiros16,
+  author    = {André Medeiros},
+  title     = {Dynamics of Change: Why Reactivity Matters},
+  journal   = queue,
+  volume    = {14},
+  number    = {3},
+  year      = 2016,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/BaileyS16,
+  author    = {Josh Bailey and
+               Stephen Stuart},
+  title     = {Faucet: Deploying {SDN} in the Enterprise},
+  journal   = queue,
+  volume    = {14},
+  number    = {5},
+  year      = 2016,
+  pages     = {54-68},
+}
+
+@article{DBLP:journals/queue/Seacord16,
+  author    = {Robert C. Seacord},
+  title     = {Uninitialized Reads},
+  journal   = queue,
+  volume    = {14},
+  number    = {6},
+  year      = 2016,
+  pages     = {56-72},
+}
+
+@article{DBLP:journals/queue/BaqueroP16,
+  author    = {Carlos Baquero and
+               Nuno M. Preguiça},
+  title     = {Why Logical Clocks are Easy},
+  journal   = queue,
+  volume    = {14},
+  number    = {1},
+  year      = 2016,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Eriksen16,
+  author    = {Marius Eriksen},
+  title     = {Functional at Scale},
+  journal   = queue,
+  volume    = {14},
+  number    = {4},
+  year      = 2016,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Limoncelli16,
+  author    = {Thomas A. Limoncelli},
+  title     = {The Small Batches Principle},
+  journal   = queue,
+  volume    = {14},
+  number    = {2},
+  year      = 2016,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Matsudaira16b,
+  author    = {Kate Matsudaira},
+  title     = {Bad Software Architecture is a People Problem},
+  journal   = queue,
+  volume    = {14},
+  number    = {3},
+  year      = 2016,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Helland16c,
+  author    = {Pat Helland},
+  title     = {Life Beyond Distributed Transactions},
+  journal   = queue,
+  volume    = {14},
+  number    = {5},
+  year      = 2016,
+  pages     = {69-98},
+}
+
+@article{DBLP:journals/queue/BailisSP16,
+  author    = {Peter Bailis and
+               Justine Sherry and
+               Simon Peter},
+  title     = {Introducing Research for Practice},
+  journal   = queue,
+  volume    = {14},
+  number    = {2},
+  year      = 2016,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/DegenbaevEEMP16,
+  author    = {Ulan Degenbaev and
+               Jochen Eisinger and
+               Manfred Ernst and
+               Ross McIlroy and
+               Hannes Payer},
+  title     = {{Idle-Time} {Garbage-Collection} Scheduling},
+  journal   = queue,
+  volume    = {14},
+  number    = {3},
+  year      = 2016,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/Helland16b,
+  author    = {Pat Helland},
+  title     = {The Power of Babble},
+  journal   = queue,
+  volume    = {14},
+  number    = {4},
+  year      = 2016,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/Matsudaira16,
+  author    = {Kate Matsudaira},
+  title     = {Delegation as Art},
+  journal   = queue,
+  volume    = {14},
+  number    = {1},
+  year      = 2016,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/Helland16,
+  author    = {Pat Helland},
+  title     = {Standing on Distributed Shoulders of Giants},
+  journal   = queue,
+  volume    = {14},
+  number    = {2},
+  year      = 2016,
+  pages     = {80},
+}
+
+@article{DBLP:journals/queue/Helland16a,
+  author    = {Pat Helland},
+  title     = {The Singular Success of {SQL}},
+  journal   = queue,
+  volume    = {14},
+  number    = {3},
+  year      = 2016,
+  pages     = {80},
+}
+
+@article{DBLP:journals/queue/YangRZB16,
+  author    = {Jean Yang and
+               Vijay Janapa Reddi and
+               Yuhao Zhu and
+               Peter Bailis},
+  title     = {Research for Practice: Web Security and Mobile Web Computing},
+  journal   = queue,
+  volume    = {14},
+  number    = {4},
+  year      = 2016,
+  pages     = {80},
+}
+
+@article{DBLP:journals/queue/JacobsonSS16,
+  author    = {Ivar Jacobson and
+               Ian Spence and
+               Ed Seidewitz},
+  title     = {Industrial Scale Agile - from Craft to Engineering},
+  journal   = queue,
+  volume    = {14},
+  number    = {5},
+  year      = 2016,
+  pages     = {99-130},
+}
+
+@article{DBLP:journals/queue/BailisZA16,
+  author    = {Peter Bailis and
+               Irene Zhang and
+               Fadel Adib},
+  title     = {Research for Practice: Distributed Transactions and Networks as Physical Sensors},
+  journal   = queue,
+  volume    = {14},
+  number    = {5},
+  year      = 2016,
+  pages     = {130-141},
+}
+
+@article{DBLP:journals/queue/GuhaBM15,
+  author    = {Ramanathan V. Guha and
+               Dan Brickley and
+               Steve Macbeth},
+  title     = {Schema.org: Evolution of Structured Data on the Web},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Maddox15,
+  author    = {Philip Maddox},
+  title     = {Testing a Distributed System},
+  journal   = queue,
+  volume    = {13},
+  number    = {7},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil15a,
+  author    = {George Neville-Neil},
+  title     = {Lazarus Code},
+  journal   = queue,
+  volume    = {13},
+  number    = {5},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil15b,
+  author    = {George Neville-Neil},
+  title     = {Hickory Dickory Doc},
+  journal   = queue,
+  volume    = {13},
+  number    = {6},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-NeilB15,
+  author    = {George Neville-Neil and
+               Steve Bourne},
+  title     = {Still Finding the Right Questions},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Rathbun15,
+  author    = {Spencer Rathbun},
+  title     = {Parallel Processing with Promises},
+  journal   = queue,
+  volume    = {13},
+  number    = {3},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Wang15,
+  author    = {Daniel C. Wang},
+  title     = {From the {EDVAC} to {WEBVACs}},
+  journal   = queue,
+  volume    = {13},
+  number    = {4},
+  year      = 2015,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Kamp15,
+  author    = {Poul-Henning Kamp},
+  title     = {HTTP/2.0 - The {IETF} is Phoning It In},
+  journal   = queue,
+  volume    = {13},
+  number    = {2},
+  year      = 2015,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/queue/McMullen15,
+  author    = {Tyler McMullen},
+  title     = {It Probably Works},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {15},
+}
+
+@article{DBLP:journals/queue/AngiuliBW15,
+  author    = {Olivia Angiuli and
+               Joe Blitzstein and
+               Jim Waldo},
+  title     = {How to De-identify Your Data},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Deursen15,
+  author    = {Arie van Deursen},
+  title     = {Beyond Page Objects: Testing Web Applications with State Objects},
+  journal   = queue,
+  volume    = {13},
+  number    = {6},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/DowlingM15,
+  author    = {Phelim Dowling and
+               Kevin McGrath},
+  title     = {Using Free and Open Source Tools to Manage Software Quality},
+  journal   = queue,
+  volume    = {13},
+  number    = {4},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/GuntherPT15,
+  author    = {Neil J. Gunther and
+               Paul Puglia and
+               Kristofer Tomasette},
+  title     = {Hadoop Superlinear Scalability},
+  journal   = queue,
+  volume    = {13},
+  number    = {5},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/NanavatiSWW15,
+  author    = {Mihir Nanavati and
+               Malte Schwarzkopf and
+               Jake Wires and
+               Andrew Warfield},
+  title     = {Non-volatile Storage},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/PillaiCAAAA15,
+  author    = {Thanumalayan Sankaranarayana Pillai and
+               Vijay Chidambaram and
+               Ramnatthan Alagappan and
+               Samer Al-Kiswany and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Crash Consistency},
+  journal   = queue,
+  volume    = {13},
+  number    = {7},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Sheehy15,
+  author    = {Justin Sheehy},
+  title     = {There is No Now},
+  journal   = queue,
+  volume    = {13},
+  number    = {3},
+  year      = 2015,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil15,
+  author    = {George Neville-Neil},
+  title     = {Raw Networking},
+  journal   = queue,
+  volume    = {13},
+  number    = {2},
+  year      = 2015,
+  pages     = {20-22},
+}
+
+@article{DBLP:journals/queue/DavidoviG15,
+  author    = {Stepán Davidovic and
+               Kavita Guliani},
+  title     = {Reliable Cron across the Planet},
+  journal   = queue,
+  volume    = {13},
+  number    = {3},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/GreenHM15,
+  author    = {Spence Green and
+               Jeffrey Heer and
+               Christopher D. Manning},
+  title     = {Natural Language Translation at the Intersection of {AI} and {HCI}},
+  journal   = queue,
+  volume    = {13},
+  number    = {6},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Harris15,
+  author    = {Rich Harris},
+  title     = {Dismantling the Barriers to Entry},
+  journal   = queue,
+  volume    = {13},
+  number    = {5},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Matsudaira15,
+  author    = {Kate Matsudaira},
+  title     = {The Science of Managing Data Science},
+  journal   = queue,
+  volume    = {13},
+  number    = {4},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Maurer15,
+  author    = {Ben Maurer},
+  title     = {Fail at Scale},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Neville-Neil15d,
+  author    = {George Neville-Neil},
+  title     = {Time is an Illusion},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Vixie15,
+  author    = {Paul Vixie},
+  title     = {Go Static or Go Home},
+  journal   = queue,
+  volume    = {13},
+  number    = {2},
+  year      = 2015,
+  pages     = {30-33},
+}
+
+@article{DBLP:journals/queue/Brook15,
+  author    = {Andrew Brook},
+  title     = {Evolution and Practice: Low-latency Distributed Applications in Finance},
+  journal   = queue,
+  volume    = {13},
+  number    = {4},
+  year      = 2015,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Helland15,
+  author    = {Pat Helland},
+  title     = {Immutability Changes Everything},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Matsudaira15a,
+  author    = {Kate Matsudaira},
+  title     = {Lean Software Development - Building and Shipping Two Versions},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/MeijerMB15,
+  author    = {Erik Meijer and
+               Kevin Millikin and
+               Gilad Bracha},
+  title     = {Spicing Up Dart with Side Effects},
+  journal   = queue,
+  volume    = {13},
+  number    = {3},
+  year      = 2015,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Diakopoulos15,
+  author    = {Nicholas Diakopoulos},
+  title     = {Accountability in Algorithmic Decision-making},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/Limoncelli15,
+  author    = {Thomas A. Limoncelli},
+  title     = {Automation Should Be Like Iron Man, Not Ultron},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {50},
+}
+
+@article{DBLP:journals/queue/McCaffrey15,
+  author    = {Caitie McCaffrey},
+  title     = {The Verification of a Distributed System},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/Savage15,
+  author    = {Taylor Savage},
+  title     = {Componentizing the Web},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {60},
+}
+
+@article{DBLP:journals/queue/GaudLFDFQLR15,
+  author    = {Fabien Gaud and
+               Baptiste Lepers and
+               Justin R. Funston and
+               Mohammad Dashti and
+               Alexandra Fedorova and
+               Vivien Quéma and
+               Renaud Lachaize and
+               Mark Roth},
+  title     = {Challenges of Memory Management on Modern {NUMA} System},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/Limoncelli15a,
+  author    = {Thomas A. Limoncelli},
+  title     = {How Sysadmins Devalue Themselves},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {70},
+}
+
+@article{DBLP:journals/queue/Matsudaira15b,
+  author    = {Kate Matsudaira},
+  title     = {The Paradox of Autonomy and Recognition},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {80},
+}
+
+@article{DBLP:journals/queue/Neville-Neil15c,
+  author    = {George Neville-Neil},
+  title     = {Pickled Patches},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {90},
+}
+
+@article{DBLP:journals/queue/Neville-Neil15e,
+  author    = {George Neville-Neil},
+  title     = {Code Hoarding},
+  journal   = queue,
+  volume    = {13},
+  number    = {9},
+  year      = 2015,
+  pages     = {90},
+}
+
+@article{DBLP:journals/queue/VahdatCR15,
+  author    = {Amin Vahdat and
+               David Clark and
+               Jennifer Rexford},
+  title     = {A Purpose-built Global Network: Google's Move to {SDN}},
+  journal   = queue,
+  volume    = {13},
+  number    = {8},
+  year      = 2015,
+  pages     = {100},
+}
+
+@article{DBLP:journals/queue/Cerf14,
+  author    = {Vinton G. Cerf},
+  title     = {{ACM} and the Professional Programmer},
+  journal   = queue,
+  volume    = {12},
+  number    = {7},
+  year      = 2014,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Kamp14a,
+  author    = {Poul-Henning Kamp},
+  title     = {Quality Software Costs Money - Heartbleed Was Free},
+  journal   = queue,
+  volume    = {12},
+  number    = {6},
+  year      = 2014,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/SproullW14,
+  author    = {Robert F. Sproull and
+               Jim Waldo},
+  title     = {The {API} Performance Contract},
+  journal   = queue,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Vixie14,
+  author    = {Paul Vixie},
+  title     = {Rate-limiting State},
+  journal   = queue,
+  volume    = {12},
+  number    = {2},
+  year      = 2014,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil14,
+  author    = {George Neville-Neil},
+  title     = {Forked Over},
+  journal   = queue,
+  volume    = {12},
+  number    = {4},
+  year      = 2014,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/queue/Neville-Neil14b,
+  author    = {George Neville-Neil},
+  title     = {Port Squatting},
+  journal   = queue,
+  volume    = {12},
+  number    = {9},
+  year      = 2014,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/queue/Neville-Neil14c,
+  author    = {George Neville-Neil},
+  title     = {Too Big to Fail},
+  journal   = queue,
+  volume    = {12},
+  number    = {11},
+  year      = 2014,
+  pages     = {10-12},
+}
+
+@article{DBLP:journals/queue/MeijerK14,
+  author    = {Erik Meijer and
+               Vikram Kapoor},
+  title     = {The Responsive Enterprise: Embracing the Hacker Way},
+  journal   = queue,
+  volume    = {12},
+  number    = {10},
+  year      = 2014,
+  pages     = {10-18},
+}
+
+@article{DBLP:journals/queue/Laurie14,
+  author    = {Ben Laurie},
+  title     = {Certificate Transparency},
+  journal   = queue,
+  volume    = {12},
+  number    = {8},
+  year      = 2014,
+  pages     = {10-19},
+}
+
+@article{DBLP:journals/queue/Bland14,
+  author    = {Mike Bland},
+  title     = {Finding More Than One Worm in the Apple},
+  journal   = queue,
+  volume    = {12},
+  number    = {5},
+  year      = 2014,
+  pages     = {10-21},
+}
+
+@article{DBLP:journals/queue/CarataABBSSH14,
+  author    = {Lucian Carata and
+               Sherif Akoush and
+               Nikilesh Balakrishnan and
+               Thomas Bytheway and
+               Ripduman Sohan and
+               Margo Seltzer and
+               Andy Hopper},
+  title     = {A Primer on Provenance},
+  journal   = queue,
+  volume    = {12},
+  number    = {3},
+  year      = 2014,
+  pages     = {10-23},
+}
+
+@article{DBLP:journals/queue/CoattaDH14,
+  author    = {Terry Coatta and
+               Michael Donat and
+               Jafar Husain},
+  title     = {Automated {QA} Testing at EA: Driven by Events},
+  journal   = queue,
+  volume    = {12},
+  number    = {5},
+  year      = 2014,
+  pages     = {20-10},
+}
+
+@article{DBLP:journals/queue/Kleen14,
+  author    = {Andi Kleen},
+  title     = {Scaling Existing Lock-based Applications with Lock Elision},
+  journal   = queue,
+  volume    = {12},
+  number    = {1},
+  year      = 2014,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Neville-Neil14a,
+  author    = {George Neville-Neil},
+  title     = {Outsourcing Responsibility},
+  journal   = queue,
+  volume    = {12},
+  number    = {6},
+  year      = 2014,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Kamp14,
+  author    = {Poul-Henning Kamp},
+  title     = {Please Put {OpenSSL} Out of Its Misery},
+  journal   = queue,
+  volume    = {12},
+  number    = {3},
+  year      = 2014,
+  pages     = {20-23},
+}
+
+@article{DBLP:journals/queue/Chisnall14,
+  author    = {David Chisnall},
+  title     = {There's No Such Thing as a General-purpose Processor},
+  journal   = queue,
+  volume    = {12},
+  number    = {10},
+  year      = 2014,
+  pages     = {20-25},
+}
+
+@article{DBLP:journals/queue/Stenn14,
+  author    = {Harlan Stenn},
+  title     = {Securing the Network Time Protocol},
+  journal   = queue,
+  volume    = {13},
+  number    = {1},
+  year      = 2014,
+  pages     = {20-25},
+}
+
+@article{DBLP:journals/queue/Meijer14,
+  author    = {Erik Meijer},
+  title     = {The Curse of the Excluded Middle},
+  journal   = queue,
+  volume    = {12},
+  number    = {4},
+  year      = 2014,
+  pages     = {20-29},
+}
+
+@article{DBLP:journals/queue/Richardson14,
+  author    = {Rick Richardson},
+  title     = {Disambiguating Databases},
+  journal   = queue,
+  volume    = {12},
+  number    = {11},
+  year      = 2014,
+  pages     = {20-31},
+}
+
+@article{DBLP:journals/queue/Sampemane14,
+  author    = {Geetanjali Sampemane},
+  title     = {Internal Access Controls},
+  journal   = queue,
+  volume    = {12},
+  number    = {11},
+  year      = 2014,
+  pages     = {30-34},
+}
+
+@article{DBLP:journals/queue/JacobsonS14,
+  author    = {Ivar Jacobson and
+               Ed Seidewitz},
+  title     = {A New Software Engineering},
+  journal   = queue,
+  volume    = {12},
+  number    = {10},
+  year      = 2014,
+  pages     = {30-38},
+}
+
+@article{DBLP:journals/queue/Gill14,
+  author    = {Andy Gill},
+  title     = {Domain-specific Languages and Code Synthesis Using Haskell},
+  journal   = queue,
+  volume    = {12},
+  number    = {4},
+  year      = 2014,
+  pages     = {30-43},
+}
+
+@article{DBLP:journals/queue/Wadlow14,
+  author    = {Thomas Wadlow},
+  title     = {Who Must You Trust?},
+  journal   = queue,
+  volume    = {12},
+  number    = {5},
+  year      = 2014,
+  pages     = {30-43},
+}
+
+@article{DBLP:journals/queue/BinderLK14,
+  author    = {Robert V. Binder and
+               Bruno Legeard and
+               Anne Kramer},
+  title     = {Model-based Testing: Where Does It Stand?},
+  journal   = queue,
+  volume    = {13},
+  number    = {1},
+  year      = 2014,
+  pages     = {40-48},
+}
+
+@article{DBLP:journals/queue/SvenssonSN14,
+  author    = {Bo Joel Svensson and
+               Mary Sheeran and
+               Ryan R. Newton},
+  title     = {Design Exploration through Code-generating {DSLs}},
+  journal   = queue,
+  volume    = {12},
+  number    = {4},
+  year      = 2014,
+  pages     = {40-52},
+}
+
+@article{DBLP:journals/queue/Bueso14,
+  author    = {Davidlohr Bueso},
+  title     = {Scalability Techniques for Practical Synchronization Primitives},
+  journal   = queue,
+  volume    = {12},
+  number    = {11},
+  year      = 2014,
+  pages     = {40-53},
+}
+
+@article{DBLP:journals/queue/Long14,
+  author    = {Dave Long},
+  title     = {{META} II: Digital Vellum in the Digital Scriptorium},
+  journal   = queue,
+  volume    = {13},
+  number    = {1},
+  year      = 2014,
+  pages     = {50-60},
+}
+
 @article{DBLP:journals/queue/BeckmanM13,
   author    = {Brian Beckman and
                Erik Meijer},
@@ -7,6 +1835,36 @@
   journal   = queue,
   volume    = {11},
   number    = {2},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Bell13,
+  author    = {Alex E. Bell},
+  title     = {The Software Inferno},
+  journal   = queue,
+  volume    = {11},
+  number    = {11},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Kamp13,
+  author    = {Poul-Henning Kamp},
+  title     = {More Encryption Is Not the Solution},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Kamp13a,
+  author    = {Poul-Henning Kamp},
+  title     = {Center Wheel for Success},
+  journal   = queue,
+  volume    = {11},
+  number    = {12},
   year      = 2013,
   pages     = {10},
 }
@@ -21,6 +1879,46 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/Neville-Neil13b,
+  author    = {George Neville-Neil},
+  title     = {Cherry-picking and the Scientific Method},
+  journal   = queue,
+  volume    = {11},
+  number    = {4},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil13c,
+  author    = {George Neville-Neil},
+  title     = {The Naming of Hosts is a Difficult Matter},
+  journal   = queue,
+  volume    = {11},
+  number    = {6},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil13d,
+  author    = {George Neville-Neil},
+  title     = {A Lesson in Resource Management},
+  journal   = queue,
+  volume    = {11},
+  number    = {8},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Neville-Neil13e,
+  author    = {George Neville-Neil},
+  title     = {Bugs and Bragging Rights},
+  journal   = queue,
+  volume    = {11},
+  number    = {10},
+  year      = 2013,
+  pages     = {10},
+}
+
 @article{DBLP:journals/queue/Sweeney13,
   author    = {Latanya Sweeney},
   title     = {Discrimination in Online Ad Delivery},
@@ -31,12 +1929,82 @@
   pages     = {10},
 }
 
+@article{DBLP:journals/queue/X13a,
+  author    = {},
+  title     = {Queue Portrait: Kate Matsudaira},
+  journal   = queue,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/X13c,
+  author    = {},
+  title     = {Leaking Space},
+  journal   = queue,
+  volume    = {11},
+  number    = {9},
+  year      = 2013,
+  pages     = {10},
+}
+
+@article{DBLP:journals/queue/Chisnall13,
+  author    = {David Chisnall},
+  title     = {The Challenge of Cross-language Interoperability},
+  journal   = queue,
+  volume    = {11},
+  number    = {10},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Geer13,
+  author    = {Dan Geer},
+  title     = {Resolved: the Internet Is No Place for Critical Infrastructure},
+  journal   = queue,
+  volume    = {11},
+  number    = {4},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Hull13,
+  author    = {Sean Hull},
+  title     = {20 Obstacles to Scalability},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/McKenney13,
+  author    = {Paul E. McKenney},
+  title     = {Structured Deferral: Synchronization via Procrastination},
+  journal   = queue,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {20},
+}
+
 @article{DBLP:journals/queue/Neville-Neil13a,
   author    = {George Neville-Neil},
   title     = {Swamped by Automation},
   journal   = queue,
   volume    = {11},
   number    = {2},
+  year      = 2013,
+  pages     = {20},
+}
+
+@article{DBLP:journals/queue/Tseitlin13,
+  author    = {Ariel Tseitlin},
+  title     = {The Antifragile Organization},
+  journal   = queue,
+  volume    = {11},
+  number    = {6},
   year      = 2013,
   pages     = {20},
 }
@@ -51,6 +2019,36 @@
   pages     = {20},
 }
 
+@article{DBLP:journals/queue/Cavage13,
+  author    = {Mark Cavage},
+  title     = {There's Just No Getting around It: You're Building a Distributed System},
+  journal   = queue,
+  volume    = {11},
+  number    = {4},
+  year      = 2013,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Chow13,
+  author    = {Fred Chow},
+  title     = {Intermediate C. Representation},
+  journal   = queue,
+  volume    = {11},
+  number    = {10},
+  year      = 2013,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/Desnoyers13,
+  author    = {Mathieu Desnoyers},
+  title     = {Proving the Correctness of Nonblocking Data Structures},
+  journal   = queue,
+  volume    = {11},
+  number    = {5},
+  year      = 2013,
+  pages     = {30},
+}
+
 @article{DBLP:journals/queue/KumarNR13,
   author    = {Arun Kumar and
                Feng Niu and
@@ -59,6 +2057,16 @@
   journal   = queue,
   volume    = {11},
   number    = {1},
+  year      = 2013,
+  pages     = {30},
+}
+
+@article{DBLP:journals/queue/X13b,
+  author    = {},
+  title     = {Queue Portrait: Nicholas Zakas},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
   year      = 2013,
   pages     = {30},
 }
@@ -85,6 +2093,27 @@
   pages     = {40},
 }
 
+@article{DBLP:journals/queue/HsuS13,
+  author    = {Bill Hsu and
+               Marc Sosnick-Pérez},
+  title     = {Realtime {GPU} Audio},
+  journal   = queue,
+  volume    = {11},
+  number    = {4},
+  year      = 2013,
+  pages     = {40},
+}
+
+@article{DBLP:journals/queue/Lameter13,
+  author    = {Christoph Lameter},
+  title     = {{NUMA} ({Non-Uniform} Memory Access): An Overview},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
+  year      = 2013,
+  pages     = {40},
+}
+
 @article{DBLP:journals/queue/Matsudaira13,
   author    = {Kate Matsudaira},
   title     = {Making the Mobile Web Faster},
@@ -93,6 +2122,16 @@
   number    = {1},
   year      = 2013,
   pages     = {40},
+}
+
+@article{DBLP:journals/queue/Michael13,
+  author    = {Maged M. Michael},
+  title     = {The Balancing Act of Choosing Nonblocking Features},
+  journal   = queue,
+  volume    = {11},
+  number    = {7},
+  year      = 2013,
+  pages     = {50},
 }
 
 @article{DBLP:journals/queue/X13,
@@ -528,7 +2567,7 @@
 }
 
 @article{DBLP:journals/queue/GreenL11,
-  author    = {Robert Green and
+  author    = {Robert C. Green II and
                Henry Ledgard},
   title     = {Coding Guidelines: Finding the Art in the Science},
   journal   = queue,
@@ -1033,17 +3072,6 @@
   pages     = {21},
 }
 
-@article{DBLP:journals/queue/BrownR10,
-  author    = {David J. Brown and
-               Charles Reams},
-  title     = {Toward {Energy-Efficient} Computing},
-  journal   = queue,
-  volume    = {8},
-  number    = {2},
-  year      = 2010,
-  pages     = {30},
-}
-
 @article{DBLP:journals/queue/Gregg10,
   author    = {Brendan Gregg},
   title     = {Visualizing System Latency},
@@ -1114,14 +3142,15 @@
   pages     = {30},
 }
 
-@article{DBLP:journals/queue/Creeger10,
-  author    = {Mache Creeger},
-  title     = {{CTO} Roundtable: Malware Defense},
+@article{DBLP:journals/queue/BrownR10,
+  author    = {David J. Brown and
+               Charles Reams},
+  title     = {Toward {Energy-Efficient} Computing},
   journal   = queue,
   volume    = {8},
   number    = {2},
   year      = 2010,
-  pages     = {40},
+  pages     = {30-43},
 }
 
 @article{DBLP:journals/queue/Creeger10b,
@@ -1162,6 +3191,16 @@
   number    = {3},
   year      = 2010,
   pages     = {40},
+}
+
+@article{DBLP:journals/queue/Creeger10,
+  author    = {Mache Creeger},
+  title     = {{CTO} Roundtable: Malware Defense},
+  journal   = queue,
+  volume    = {8},
+  number    = {2},
+  year      = 2010,
+  pages     = {40-51},
 }
 
 @article{DBLP:journals/queue/BeelerP09,
@@ -1611,7 +3650,7 @@
 }
 
 @article{DBLP:journals/queue/StachourC09,
-  author    = {Paul Stachour and
+  author    = {Paul D. Stachour and
                David Collier-Brown},
   title     = {You Don't Know Jack About Software Maintenance},
   journal   = queue,
@@ -3752,7 +5791,7 @@
 }
 
 @article{DBLP:journals/queue/Canny06,
-  author    = {John Canny},
+  author    = {John F. Canny},
   title     = {The future of human-computer interaction},
   journal   = queue,
   volume    = {4},
@@ -4039,7 +6078,7 @@
 }
 
 @article{DBLP:journals/queue/Jovanovic06,
-  author    = {Vladan Jovanovic},
+  author    = {Vladan M. Jovanovic},
   title     = {Review of "Refactoring Databases: Evolutionary Database Design by Scott Ambler and Pramodkumar Sadalage, " {Addison-Wesley} Professional, 2006, ISBN: 0321293533},
   journal   = queue,
   volume    = {4},
@@ -5453,7 +7492,7 @@
 }
 
 @article{DBLP:journals/queue/Edwards05,
-  author    = {J. S. Edwards},
+  author    = {John S. Edwards},
   title     = {Review of "Slamming Spam: A Guide for System Adminstrators by Robert Haskins and Dale Nielsen"},
   journal   = queue,
   volume    = {3},
@@ -6986,7 +9025,7 @@
 }
 
 @article{DBLP:journals/queue/Joy04,
-  author    = {M. S. Joy},
+  author    = {Mike S. Joy},
   title     = {Review of "Eclipse by Steve Holzner". O'Reilly & Associates, 2004, Isbn 0-596-00641-1},
   journal   = queue,
   volume    = {2},
@@ -7275,71 +9314,6 @@
   year      = 2003,
 }
 
-@article{DBLP:journals/queue/Burner03,
-  author    = {Mike Burner},
-  title     = {The Deliberate Revolution: Transforming Integration With {XML} Web Services},
-  journal   = queue,
-  volume    = {1},
-  number    = {1},
-  year      = 2003,
-}
-
-@article{DBLP:journals/queue/Coatta03,
-  author    = {Terry Coatta},
-  title     = {Would You Like Some Data With That?},
-  journal   = queue,
-  volume    = {1},
-  number    = {3},
-  year      = 2003,
-}
-
-@article{DBLP:journals/queue/LymanV03,
-  author    = {Peter Lyman and
-               Hal R. Varian},
-  title     = {How Much Storage is Enough?},
-  journal   = queue,
-  volume    = {1},
-  number    = {4},
-  year      = 2003,
-}
-
-@article{DBLP:journals/queue/VarianV03,
-  author    = {Hal R. Varian and
-               Christopher M. Varian},
-  title     = {MOXIE: Microsoft {Office-Linux} Interoperability Experiment},
-  journal   = queue,
-  volume    = {1},
-  number    = {5},
-  year      = 2003,
-}
-
-@article{DBLP:journals/queue/WeathersbyW03,
-  author    = {John M. Weathersby Jr.},
-  title     = {A Foot in the Door},
-  journal   = queue,
-  volume    = {1},
-  number    = {5},
-  year      = 2003,
-}
-
-@article{DBLP:journals/queue/X03,
-  author    = {},
-  title     = {A Conversation with Adam Bosworth},
-  journal   = queue,
-  volume    = {1},
-  number    = {1},
-  year      = 2003,
-}
-
-@article{DBLP:journals/queue/X03a,
-  author    = {},
-  title     = {A Conversation with Jim Ready},
-  journal   = queue,
-  volume    = {1},
-  number    = {2},
-  year      = 2003,
-}
-
 @article{DBLP:journals/queue/Bourne03,
   author    = {Stephen R. Bourne},
   title     = {Finding the Right Questions},
@@ -7368,6 +9342,16 @@
   number    = {2},
   year      = 2003,
   pages     = {4},
+}
+
+@article{DBLP:journals/queue/Coatta03,
+  author    = {Terry Coatta},
+  title     = {Would You Like Some Data With That?},
+  journal   = queue,
+  volume    = {1},
+  number    = {3},
+  year      = 2003,
+  pages     = {4-6},
 }
 
 @article{DBLP:journals/queue/Harr03,
@@ -7481,14 +9465,14 @@
   pages     = {6-7},
 }
 
-@article{DBLP:journals/queue/Vincent03,
-  author    = {Christopher Vincent},
-  title     = {Scripting Web Service Prototypes},
+@article{DBLP:journals/queue/X03a,
+  author    = {},
+  title     = {A Conversation with Jim Ready},
   journal   = queue,
   volume    = {1},
-  number    = {1},
+  number    = {2},
   year      = 2003,
-  pages     = {7},
+  pages     = {6-15},
 }
 
 @article{DBLP:journals/queue/Laplante03,
@@ -7611,6 +9595,16 @@
   pages     = {12-20},
 }
 
+@article{DBLP:journals/queue/X03,
+  author    = {},
+  title     = {A Conversation with Adam Bosworth},
+  journal   = queue,
+  volume    = {1},
+  number    = {1},
+  year      = 2003,
+  pages     = {12-21},
+}
+
 @article{DBLP:journals/queue/Wolfe03a,
   author    = {Alexander Wolfe},
   title     = {Toolkit: Eclipse: A Platform Becomes an {Open-Source} Woodstock},
@@ -7701,6 +9695,16 @@
   pages     = {20-30},
 }
 
+@article{DBLP:journals/queue/Vincent03,
+  author    = {Christopher Vincent},
+  title     = {Scripting Web Service Prototypes},
+  journal   = queue,
+  volume    = {1},
+  number    = {1},
+  year      = 2003,
+  pages     = {22-27},
+}
+
 @article{DBLP:journals/queue/Donat03,
   author    = {Michael R. Donat},
   title     = {Debugging in an Asynchronous World},
@@ -7740,6 +9744,27 @@
   number    = {7},
   year      = 2003,
   pages     = {26-33},
+}
+
+@article{DBLP:journals/queue/LymanV03,
+  author    = {Peter Lyman and
+               Hal R. Varian},
+  title     = {How Much Storage is Enough?},
+  journal   = queue,
+  volume    = {1},
+  number    = {4},
+  year      = 2003,
+  pages     = {28-29},
+}
+
+@article{DBLP:journals/queue/Burner03,
+  author    = {Mike Burner},
+  title     = {The Deliberate Revolution: Transforming Integration With {XML} Web Services},
+  journal   = queue,
+  volume    = {1},
+  number    = {1},
+  year      = 2003,
+  pages     = {28-37},
 }
 
 @article{DBLP:journals/queue/TangB03,
@@ -7854,6 +9879,17 @@
   number    = {5},
   year      = 2003,
   pages     = {40},
+}
+
+@article{DBLP:journals/queue/VarianV03,
+  author    = {Hal R. Varian and
+               Christopher M. Varian},
+  title     = {MOXIE: Microsoft {Office-Linux} Interoperability Experiment},
+  journal   = queue,
+  volume    = {1},
+  number    = {5},
+  year      = 2003,
+  pages     = {40-41},
 }
 
 @article{DBLP:journals/queue/BartramB03,
@@ -7975,6 +10011,16 @@
   number    = {6},
   year      = 2003,
   pages     = {50-57},
+}
+
+@article{DBLP:journals/queue/WeathersbyW03,
+  author    = {John M. Weathersby Jr.},
+  title     = {A Foot in the Door: Can Open Source Find Traction in Government?},
+  journal   = queue,
+  volume    = {1},
+  number    = {5},
+  year      = 2003,
+  pages     = {52-53},
 }
 
 @article{DBLP:journals/queue/OlsonO03,
@@ -8114,7 +10160,7 @@
   title     = {Caching {XML} Web Services for Mobility},
   journal   = queue,
   volume    = {1},
-  number    = {1},
+  number    = {3},
   year      = 2003,
   pages     = {70-78},
 }

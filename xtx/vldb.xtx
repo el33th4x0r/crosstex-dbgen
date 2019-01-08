@@ -1,5 +1,2710 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/vldb/AlmeidaMM18,
+  author    = {Antonio M. R. Almeida and
+               José A. F. de Macêdo and
+               Javam C. Machado},
+  title     = {Optimization of Urban Semaphore Times Turning into {JSSP}},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/AquinoFP18,
+  author    = {Gabriel Rodrigues Caldas de Aquino and
+               Claudio Miceli de Farias and
+               Luci Pirmez},
+  title     = {Data Quality Assessment and Enhancement on Social and Sensor Data},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Boissier18,
+  author    = {Martin Boissier},
+  title     = {Reducing the Footprint of Main Memory {HTAP} Systems: Removing, Compressing, Tiering, and Ignoring Data},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Campos18,
+  author    = {Guilherme Campos},
+  title     = {Unsupervised Ensembles for Outlier Detection},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/CamposSO18,
+  author    = {Rodrigo Campos and
+               Rodrigo Pereira dos Santos and
+               Jonice Oliveira},
+  title     = {Using Multilayer Social Networks in an Analysis of Higher Education for Professional Demand},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Carniel18,
+  author    = {Anderson Chaves Carniel},
+  title     = {Spatial Indexing on {Flash-Based} Solid State Drives},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/CordeiroO18,
+  author    = {Anderson Cordeiro and
+               Jonice Oliveira},
+  title     = {Checking Fake News on Web Browsers: An Approach Using Collaborative Datasets},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/CostaAFF18,
+  author    = {Gabriel Martins de Oliveira Costa and
+               Marcos Araujo and
+               Tiago Cruz de França and
+               Claudio Miceli de Farias},
+  title     = {Heimdall - Internet of Things (IoT) Platform for Data Retrieval},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Dominico18,
+  author    = {Simone Dominico},
+  title     = {{Multi-Core} Allocation Model for Database Systems},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Holanda18,
+  author    = {Pedro Holanda},
+  title     = {Progressive Indices: Indexing Without Prejudice},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/JorgeFSP18,
+  author    = {Emanuele Nunes de Lima Figueiredo Jorge and
+               Claudio Miceli de Farias and
+               Igor Leão dos Santos and
+               Mario Sergio de Souza Pereira},
+  title     = {An Analysis of the Network of Rural Producers in the State of Rio de Janeiro},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Kepe18,
+  author    = {Tiago Rodrigo Kepe},
+  title     = {Dynamic Database Operator Scheduling for {Processing-in-Memory}},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Kossmann18,
+  author    = {Jan Kossmann},
+  title     = {Self-Driving: From General Purpose to Specialized {DBMSs}},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/LautertLKG18,
+  author    = {Filipe Lautert and
+               Tatiane Lautert and
+               Nádia P. Kozievitch and
+               Luiz Gomes Jr.},
+  title     = {Is the Location of Public Health Units in Curitiba Meeting the Citizen's Needs?},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/LimaPBCSRHXBG18,
+  author    = {Yuri Lima and
+               Wallace Anacleto Pinheiro and
+               Carlos Eduardo Barbosa and
+               Miriam Chaves and
+               Jano Moreira de Souza and
+               Sérgio Rodrigues and
+               Jacson Hwang and
+               Geraldo Xexéo and
+               Pedro Henrique Bruno and
+               Eduardo Cesar Gomes},
+  title     = {Multi-criteria Analysis Applied to the Inspection of Aedes Aegypti Mosquito Breeding Places},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/MamedeEO18,
+  author    = {Kesia Olimpio Braga Mamede and
+               Rafael Elias de Lima Escalfoni and
+               Jonice Oliveira},
+  title     = {Identifing Social and Technical Aspects in the Startup Ecosystem in Rio de Janeiro State},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/NolascoO18,
+  author    = {Diogo Nolasco and
+               Jonice Oliveira},
+  title     = {Publish or Post: Identification of Influences between Science and Society through Intelligent Systems},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Pena18,
+  author    = {Eduardo Peña},
+  title     = {{Workload-Aware} Discovery of Integrity Constraints for Data Cleaning},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/PinheiroXSPG18,
+  author    = {Wallace A. Pinheiro and
+               Geraldo Xexéo and
+               Jono Souza and
+               Ana Bárbara Pinheiro and
+               Ciro Gomes},
+  title     = {Strategy for Generation of Knowledge through Automatic Correlation of Dimensional Data in Star Schema: Application in the Context of Leishmaniasis},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Raasveldt18,
+  author    = {Mark Raasveldt},
+  title     = {Integrating Analytics with Relational Databases},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/RubackO18,
+  author    = {Lívia Ruback and
+               Jonice Oliveira},
+  title     = {Analyzing Polarization in Twitter: The Murder of Brazilian Councilwoman and Activist Marielle Franco},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/SandimASM18,
+  author    = {Hercules Sandim and
+               Danilo Azevedo and
+               Ana Paula Couto da Silva and
+               Mirella M. Moro},
+  title     = {The Role of Social Capital in Information Diffusion over Twitter: A Study Case over Brazilian Posts},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Saraiva18,
+  author    = {Márcio Saraiva},
+  title     = {Relating Educational Materials via Extraction of their Topics},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Saxena18,
+  author    = {Rakhi Saxena},
+  title     = {Capitalizing on Hierarchical Graph Decomposition for Scalable Network Analysis},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/SerraCV18,
+  author    = {Sergio Serra and
+               Pedro Vieira Cruz and
+               Claudia Macedo Vieira},
+  title     = {Vision Paper: Challenges and Opportunities of Social Computing in Urban Agriculture in Global North and South Countries},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Souza18,
+  author    = {Roberto Souza},
+  title     = {Detecting Spatial Clusters of Infection Risk with {Geo-Located} Social Media Data},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/SpadonJ18,
+  author    = {Gabriel Spadon and
+               José Fernandes Rodrigues Jr},
+  title     = {Computer-assisted City Touring for Explorers},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/StoyanovichGM18,
+  author    = {Julia Stoyanovich and
+               Matthew Gilbride and
+               Vera Zaychik Moffitt},
+  title     = {Zooming in on {NYC} Taxi Data with Portal},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Wagner18,
+  author    = {James Wagner},
+  title     = {Auditing {DBMSes} through Forensic Analysis},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Wang18,
+  author    = {Yiwen Wang},
+  title     = {Vecstra: An Efficient and Scalable Geospatial {In-Memory} Cache},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/Zhang18,
+  author    = {Chao Zhang},
+  title     = {Parameter Curation and Data Generation for Benchmarking Multi-model Queries},
+  booktitle = vldb,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/vldb/ValduriezMABCCG18,
+  author    = {Patrick Valduriez and
+               Marta Mattoso and
+               Reza Akbarinia and
+               Heraldo Borges and
+               Jose J. Camata and
+               Alvaro L. G. A. Coutinho and
+               Daniel Gaspar and
+               Noel Moreno Lemus and
+               Ji Liu and
+               Hermano Lustosa and
+               Florent Masseglia and
+               Fabrício Nogueira da Silva and
+               Vítor Silva Sousa and
+               Renan Souza and
+               Kary A. C. S. Ocaña and
+               Eduardo S. Ogasawara and
+               Daniel de Oliveira and
+               Esther Pacitti and
+               Fábio Porto and
+               Dennis E. Shasha},
+  title     = {Scientific Data Analysis Using {Data-Intensive} Scalable Computing: The {SciDISC} Project},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/vldb/TomeGRRB18,
+  author    = {Diego G. Tome and
+               Tim Gubner and
+               Mark Raasveldt and
+               Eyal Rozenberg and
+               Peter A. Boncz},
+  title     = {Optimizing {Group-By} and Aggregation using {GPU-CPU} {Co-Processing}},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/vldb/InacioD18,
+  author    = {Eduardo Camilo Inacio and
+               Mario Antonio Ribeiro Dantas},
+  title     = {An I/O Performance Evaluation Tool for Distributed {Data-Intensive} Scientific Applications},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {9-16},
+}
+
+@inproceedings{DBLP:conf/vldb/RealS18,
+  author    = {Lucas Villa Real and
+               Bruno Silva},
+  title     = {Full Speed Ahead: 3D Spatial Database Acceleration with {GPUs}},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {11-15},
+}
+
+@inproceedings{DBLP:conf/vldb/ArefyevaDPBS18,
+  author    = {Iya Arefyeva and
+               Gabriel Campero Durand and
+               Marcus Pinnecke and
+               David Broneske and
+               Gunter Saake},
+  title     = {{Low-Latency} Transaction Execution on Graphics Processors: Dream or Reality?},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {16-21},
+}
+
+@inproceedings{DBLP:conf/vldb/InoubliAMMN18,
+  author    = {Wissem Inoubli and
+               Sabeur Aridhi and
+               Haithem Mezni and
+               Mondher Maddouri and
+               Engelbert Mephu Nguifo},
+  title     = {A Comparative Study on Streaming Frameworks for Big Data},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {17-24},
+}
+
+@inproceedings{DBLP:conf/vldb/LisaUHLN018,
+  author    = {Nusrat Jahan Lisa and
+               Annett Ungethüm and
+               Dirk Habich and
+               Wolfgang Lehner and
+               Tuan D. A. Nguyen and
+               Akash Kumar},
+  title     = {Column Scan Acceleration in Hybrid {CPU-FPGA} Systems},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {22-33},
+}
+
+@inproceedings{DBLP:conf/vldb/SilvaMBMARN18,
+  author    = {Ticiana L. Coelho da Silva and
+               Regis Pires Magalhães and
+               Igo Ramalho Brilhante and
+               José A. F. de Macêdo and
+               David Araújo and
+               Paulo Rego and
+               Aloisio Vieira Lira Neto},
+  title     = {Big Data Analytics Technologies and Platforms: A Brief Review},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {25-32},
+}
+
+@inproceedings{DBLP:conf/vldb/AlvesHKU18,
+  author    = {Mirian Halfeld Ferrari Alves and
+               Carmem S. Hara and
+               Nádia P. Kozievitch and
+               Flavio R. Uber},
+  title     = {Urban Data Consistency in RDF: A Case Study of Curitiba Transportation System},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {33-40},
+}
+
+@inproceedings{DBLP:conf/vldb/TheodorakisKPP18,
+  author    = {Georgios Theodorakis and
+               Alexandros Koliousis and
+               Peter R. Pietzuch and
+               Holger Pirk},
+  title     = {Hammer Slide: Work- and {CPU-efficient} Streaming Window Aggregation},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {34-41},
+}
+
+@inproceedings{DBLP:conf/vldb/BichibichiKSZ18,
+  author    = {Yuri Bichibichi and
+               Nádia P. Kozievitch and
+               Ricardo Dutra da Silva and
+               Artur Ziviani},
+  title     = {Business Activity Clustering: A Use Case in Curitiba},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {41-48},
+}
+
+@inproceedings{DBLP:conf/vldb/TomeKAA18,
+  author    = {Diego G. Tome and
+               Tiago Rodrigo Kepe and
+               Marco Antonio Zanata Alves and
+               Eduardo Cunha de Almeida},
+  title     = {{Near-Data} Filters: Taking Another Brick from the Memory Wall},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {42-50},
+}
+
+@inproceedings{DBLP:conf/vldb/PandoLFR18,
+  author    = {Luciano Urgal Pando and
+               Ricardo Lüders and
+               Keiko Verônica Ono Fonseca and
+               Marcelo de Oliveira Rosa},
+  title     = {Influence of Virtual Road Traffic Sensors of Oporto for {Origin-Destination} Matrix Estimation},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {49-56},
+}
+
+@inproceedings{DBLP:conf/vldb/AvniA18,
+  author    = {Hillel Avni and
+               Aharon Avitzur},
+  title     = {Hassium: Hardware Assisted Database Synchronization},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {51-62},
+}
+
+@inproceedings{DBLP:conf/vldb/AzimNA18,
+  author    = {Tahir Azim and
+               Azqa Nadeem and
+               Anastasia Ailamaki},
+  title     = {Adaptive Cache Mode Selection for Queries over Raw Data},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {51-65},
+}
+
+@inproceedings{DBLP:conf/vldb/WehmuthCBZ18,
+  author    = {Klaus Wehmuth and
+               Bernardo Costa and
+               João Victor Bechara and
+               Artur Ziviani},
+  title     = {A Multilayer and {Time-Varying} Structural Analysis of the Brazilian Air Transportation Network},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {57-64},
+}
+
+@inproceedings{DBLP:conf/vldb/PitaMB18,
+  author    = {Robespierre Pita and
+               Luan Menezes and
+               Marcos Barreto},
+  title     = {Applying Term {Frequency-Based} Indexing to Improve Scalability and Accuracy of Probabilistic Data Linkage},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {65-72},
+}
+
+@inproceedings{DBLP:conf/vldb/OkunoCGO18,
+  author    = {Helder Yukio Okuno and
+               Flavio Carvalho and
+               Gustavo Paiva Guedes and
+               Marcelle Torres Alves Okuno},
+  title     = {{ATAnalysis} - Toward a Psycholinguistic Method to Analyze Video Textual Information},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {73-79},
+}
+
+@inproceedings{DBLP:conf/vldb/0003LPPV18,
+  author    = {Ji Liu and
+               Noel Moreno Lemus and
+               Esther Pacitti and
+               Fábio Porto and
+               Patrick Valduriez},
+  title     = {Computation of {PDFs} on Big Spatial Data: Problem & Architecture},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {80-83},
+}
+
+@inproceedings{DBLP:conf/vldb/SouzaNALTCM18,
+  author    = {Renan Souza and
+               Liliane Neves and
+               Leonardo Azeredo and
+               Ricardo Luiz and
+               Elaine Tady and
+               Paulo R. Cavalin and
+               Marta Mattoso},
+  title     = {Towards a {Human-in-the-Loop} Library for Tracking Hyperparameter Tuning in Deep Learning Development},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {84-87},
+}
+
+@inproceedings{DBLP:conf/vldb/PapinAd18,
+  author    = {Johyn Papin and
+               Frédéric Andrès and
+               Laurent d'Orazio},
+  title     = {A Method to Build a Geolocalized Food Price Time Series Knowledge Base Analyzable by Everyone},
+  booktitle = vldb,
+  year      = 2018,
+  pages     = {88-91},
+}
+
+@inproceedings{DBLP:conf/vldb/Basik17,
+  author    = {Fuat Basik},
+  title     = {Scalable Linkage across Location Enhanced Services},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Brandt17,
+  author    = {Tobias L. Brandt},
+  title     = {Processing Moving Object Data Streams with Data Stream Management Systems},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Damme17,
+  author    = {Patrick Damme},
+  title     = {Query Processing Based on Compressed Intermediates},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Fier17,
+  author    = {Fabian Fier},
+  title     = {Distributed Similarity Joins on Big Textual Data: Toward a Robust {Cost-Based} Framework},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Li17,
+  author    = {Yuliang Li},
+  title     = {Practical Verification of Hierarchical Artifact Systems},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Monte17,
+  author    = {Bonaventura Del Monte},
+  title     = {Efficient Migration of Very Large Distributed State for Scalable Stream Processing},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Petermann17,
+  author    = {André Petermann},
+  title     = {Graph Pattern Mining for Business Decision Support},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Petrova17,
+  author    = {Alina Petrova},
+  title     = {Comparing Entities in {RDF} Graphs},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Pohl17,
+  author    = {Constantin Pohl},
+  title     = {A {Hardware-Oblivious} Optimizer for Data Stream Processing},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/PohlGS17,
+  author    = {Constantin Pohl and
+               Philipp Götze and
+               Kai-Uwe Sattler},
+  title     = {A Cost Model for Data Stream Processing on Modern Hardware},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Primpeli17,
+  author    = {Anna Primpeli},
+  title     = {Generalizing Matching Knowledge using Active Learning},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Pugh17,
+  author    = {Matthew A. Pugh},
+  title     = {{Spatio-Temporal} Locality in Hash Tables},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Strnadova-Neeley17,
+  author    = {Veronika Strnadová-Neeley},
+  title     = {Efficient Clustering for Large-Scale, Sparse, Discrete Data with Low Fundamental Resolution},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Zhang17,
+  author    = {Chao Zhang},
+  title     = {Symmetric and Asymmetric Aggregate Function in Massively Parallel Computing},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/Zolaktaf17,
+  author    = {Zainab Zolaktaf},
+  title     = {Facilitating User Interaction With Data},
+  booktitle = vldb,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/vldb/AppuswamyBGA17,
+  author    = {Raja Appuswamy and
+               Renata Borovica-Gajic and
+               Goetz Graefe and
+               Anastasia Ailamaki},
+  title     = {The Five-minute Rule Thirty Years Later and its Impact on the Storage Hierarchy},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/vldb/FangC17,
+  author    = {Yixiang Fang and
+               Reynold Cheng},
+  title     = {On Attributed Community Search},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {1-21},
+}
+
+@inproceedings{DBLP:conf/vldb/DubovitskayaXRS17,
+  author    = {Alevtina Dubovitskaya and
+               Zhigang Xu and
+               Samuel Ryu and
+               Michael Schumacher and
+               Fusheng Wang},
+  title     = {How Blockchain Could Empower eHealth: An Application for Radiation Oncology -},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {3-6},
+}
+
+@inproceedings{DBLP:conf/vldb/GubnerB17,
+  author    = {Tim Gubner and
+               Peter A. Boncz},
+  title     = {Exploring Query Compilation Strategies for JIT, Vectorization and {SIMD}},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {9-17},
+}
+
+@inproceedings{DBLP:conf/vldb/KathiraveluCSGR17,
+  author    = {Pradeeban Kathiravelu and
+               Yiru Chen and
+               Ashish Sharma and
+               Helena Galhardas and
+               Peter Van Roy and
+               Luís Veiga},
+  title     = {{On-Demand} {Service-Based} Big Data Integration: Optimized for Research Collaboration},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {9-28},
+}
+
+@inproceedings{DBLP:conf/vldb/FangLHH17,
+  author    = {Jian Fang and
+               Jinho Lee and
+               Peter Hofstee and
+               Jan Hidders},
+  title     = {Analyzing {In-Memory} Hash Join: Granularity Matters},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {18-25},
+}
+
+@inproceedings{DBLP:conf/vldb/Batty17,
+  author    = {Ernest Batty},
+  title     = {Data Analytics Enables Advanced {AIS} Applications},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {22-35},
+}
+
+@inproceedings{DBLP:conf/vldb/HaasF17,
+  author    = {Sebastian Haas and
+               Gerhard P. Fettweis},
+  title     = {{Energy-Efficient} Hash Join Implementations in {Hardware-Accelerated} {MPSoCs}},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {26-33},
+}
+
+@inproceedings{DBLP:conf/vldb/PienaarTBRHGK17,
+  author    = {Rudolph Pienaar and
+               Ata Turk and
+               Jorge L. Bernal-Rusiel and
+               Nicolas Rannou and
+               Daniel Haehn and
+               P. Ellen Grant and
+               Orran Krieger},
+  title     = {{CHIPS} - A Service for Collecting, Organizing, Processing, and Sharing Medical Image Data in the Cloud},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {29-35},
+}
+
+@inproceedings{DBLP:conf/vldb/DreselerKDLUHPL17,
+  author    = {Markus Dreseler and
+               Thomas Kissinger and
+               Timo Djürken and
+               Eric Lübke and
+               Matthias Uflacker and
+               Dirk Habich and
+               Hasso Plattner and
+               Wolfgang Lehner},
+  title     = {{Hardware-Accelerated} Memory Operations on {Large-Scale} {NUMA} Systems},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {34-41},
+}
+
+@inproceedings{DBLP:conf/vldb/SunWQ17,
+  author    = {Xiaobo Sun and
+               Fusheng Wang and
+               Zhaohui S. Qin},
+  title     = {High Performance Merging of Massive Data from {Genome-Wide} Association Studies},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {36-40},
+}
+
+@inproceedings{DBLP:conf/vldb/Paraskevopoulos17,
+  author    = {Pavlos Paraskevopoulos and
+               Themis Palpanas},
+  title     = {What do Geotagged Tweets Reveal About Mobility Behavior?},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {36-53},
+}
+
+@inproceedings{DBLP:conf/vldb/BegoliCGP17,
+  author    = {Edmon Begoli and
+               J. Blair Christian and
+               Vijay Gadepally and
+               Stavros Papadopoulos},
+  title     = {An Emerging Role for Polystores in Precision Medicine},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {41-52},
+}
+
+@inproceedings{DBLP:conf/vldb/OukidNBLBW17,
+  author    = {Ismail Oukid and
+               Anisoara Nica and
+               Daniel Dos Santos Bossle and
+               Wolfgang Lehner and
+               Peter Bumbulis and
+               Thomas Willhalm},
+  title     = {Adaptive Recovery for {SCM-Enabled} Databases},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {42-49},
+}
+
+@inproceedings{DBLP:conf/vldb/GottsteinPHB17,
+  author    = {Robert Gottstein and
+               Ilia Petrov and
+               Sergey Hardock and
+               Alejandro P. Buchmann},
+  title     = {SIAS-Chains: Snapshot Isolation Append Storage Chains},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {50-57},
+}
+
+@inproceedings{DBLP:conf/vldb/LiZWZY17,
+  author    = {Suxue Li and
+               Haixia Zhang and
+               Dalei Wu and
+               Chuanting Zhang and
+               Dongfeng Yuan},
+  title     = {Edge Representation Learning for Community Detection in Large Scale Information Networks},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {54-72},
+}
+
+@inproceedings{DBLP:conf/vldb/ToulisG17,
+  author    = {Andrew Toulis and
+               Lukasz Golab},
+  title     = {Social Media Mining to Understand Public Mental Health},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {55-70},
+}
+
+@inproceedings{DBLP:conf/vldb/SolonetsDRL17,
+  author    = {Sergei Solonets and
+               Victor Drobny and
+               Victor Rivera and
+               JooYoung Lee},
+  title     = {Introducing ADegree: Anonymisation of Social Networks Through Constraint Programming},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {73-86},
+}
+
+@inproceedings{DBLP:conf/vldb/MahajanKA17,
+  author    = {Ruhi Mahajan and
+               Rishikesan Kamaleswaran and
+               Oguz Akbilgic},
+  title     = {Effects of Varying Sampling Frequency on the Analysis of Continuous {ECG} Data Streams},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {73-87},
+}
+
+@inproceedings{DBLP:conf/vldb/ZhangWQH17,
+  author    = {Jiaming Zhang and
+               Shuhui Wang and
+               Qiang Qu and
+               Qingming Huang},
+  title     = {JEREMIE: Joint Semantic Feature Learning via Multi-relational Matrix Completion},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {87-108},
+}
+
+@inproceedings{DBLP:conf/vldb/HondaKYAY17,
+  author    = {Yuichi Honda and
+               Muneo Kushima and
+               Tomoyoshi Yamazaki and
+               Kenji Araki and
+               Haruo Yokota},
+  title     = {Detection and Visualization of Variants in Typical Medical Treatment Sequences},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {88-101},
+}
+
+@inproceedings{DBLP:conf/vldb/LagesCFPGF17,
+  author    = {Nuno F. Lages and
+               Bernardo Caetano and
+               Manuel J. Fonseca and
+               João D. Pereira and
+               Helena Galhardas and
+               Rui Farinha},
+  title     = {Umedicine: A System for Clinical Practice Support and Data Analysis},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {102-120},
+}
+
+@inproceedings{DBLP:conf/vldb/SpiliopoulosZC17,
+  author    = {Giannis Spiliopoulos and
+               Dimitrios Zissis and
+               Konstantinos Chatzikokolakis},
+  title     = {A Big Data Driven Approach to Extracting Global Trade Patterns},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {109-121},
+}
+
+@inproceedings{DBLP:conf/vldb/WangW17,
+  author    = {Yu Wang and
+               Fusheng Wang},
+  title     = {Association Rule Learning and Frequent Sequence Mining of Cancer Diagnoses in New York State},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {121-135},
+}
+
+@inproceedings{DBLP:conf/vldb/HelmiK17,
+  author    = {Shahab Helmi and
+               Farnoush Banaei Kashani},
+  title     = {Efficient Processing of Spatiotemporal Pattern Queries on Historical Frequent {Co-Movement} Pattern Datasets},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {122-137},
+}
+
+@inproceedings{DBLP:conf/vldb/JainBJSBB17,
+  author    = {Prateek Jain and
+               Sagar Bhargava and
+               Naman Jain and
+               Shelly Sachdeva and
+               Shivani Batra and
+               Subhash Bhalla},
+  title     = {Healthsurance - Mobile App for Standardized Electronic Health Records Database},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {136-153},
+}
+
+@inproceedings{DBLP:conf/vldb/FrancalanciPS17,
+  author    = {Chiara Francalanci and
+               Barbara Pernici and
+               Gabriele Scalia},
+  title     = {Exploratory {Spatio-Temporal} Queries in Evolving Information},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {138-156},
+}
+
+@inproceedings{DBLP:conf/vldb/HeWQZH17,
+  author    = {Jianfeng He and
+               Shuhui Wang and
+               Qiang Qu and
+               Weigang Zhang and
+               Qingming Huang},
+  title     = {Efficient {Cross-Modal} Retrieval Using Social Tag Information Towards Mobile Applications},
+  booktitle = vldb,
+  year      = 2017,
+  pages     = {157-176},
+}
+
+@inproceedings{DBLP:conf/vldb/Cao16,
+  author    = {Yang Cao},
+  title     = {Rigorous and Flexible Privacy Models for Utilizing Personal Spatiotemporal Data},
+  booktitle = vldb,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/vldb/Chowdhury16,
+  author    = {Sreyasi Nag Chowdhury},
+  title     = {Commonsense for Making Sense of Data},
+  booktitle = vldb,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/vldb/Dudoladov16,
+  author    = {Sergey Dudoladov},
+  title     = {Efficient Fault Tolerance for Massively Parallel Dataflow Systems},
+  booktitle = vldb,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/vldb/Karnagel16,
+  author    = {Tomas Karnagel},
+  title     = {{Heterogeneity-Aware} Query Optimization},
+  booktitle = vldb,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/vldb/Le16,
+  author    = {Hong Van Le},
+  title     = {Distributed Moving Objects Database Based on {Key-Value} Stores},
+  booktitle = vldb,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/vldb/Mitra16,
+  author    = {Shubhadip Mitra},
+  title     = {Identifying {Top-K} Optimal Locations for Placement of {Large-Scale} {Trajectory-Aware} Services},
+  booktitle = vldb,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/vldb/Muller16,
+  author    = {Tobias Müller},
+  title     = {Have Your Cake and Eat it, Too: Data Provenance for {Turing-Complete} {SQL} Queries},
+  booktitle = vldb,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/vldb/Noghabi16,
+  author    = {Shadi A. Noghabi},
+  title     = {Building a Scalable Distributed Online Media Processing Environment},
+  booktitle = vldb,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/vldb/SprengerZL16,
+  author    = {Stefan Sprenger and
+               Steffen Zeuch and
+               Ulf Leser},
+  title     = {{Cache-Sensitive} Skip List: Efficient Range Queries on Modern {CPUs}},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/vldb/OverbyRL16,
+  author    = {Casey Lynnette Overby and
+               Louiqa Raschid and
+               Hongfang Liu},
+  title     = {Exploiting {HPO} to Predict a Ranked List of Phenotype Categories for {LiverTox} Case Reports},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {3-9},
+}
+
+@inproceedings{DBLP:conf/vldb/DengD16,
+  author    = {Yihan Deng and
+               Kerstin Denecke},
+  title     = {Patient Records Retrieval System for Integrated Care in Treatment of Cervical Spine Defect},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {10-25},
+}
+
+@inproceedings{DBLP:conf/vldb/TangYLU16,
+  author    = {Bo Tang and
+               Man Lung Yiu and
+               Yuhong Li and
+               Leong Hou U},
+  title     = {Exploit Every Cycle: Vectorized Time Series Algorithms on Modern Commodity {CPUs}},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {18-39},
+}
+
+@inproceedings{DBLP:conf/vldb/XieZKXMW16,
+  author    = {Cong Xie and
+               Wen Zhong and
+               Jun Kong and
+               Wei Xu and
+               Klaus Mueller and
+               Fusheng Wang},
+  title     = {IEVQ: An Iterative {Example-Based} Visual Query for Pathology Database},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {29-42},
+}
+
+@inproceedings{DBLP:conf/vldb/HildebrandtHDL16,
+  author    = {Juliana Hildebrandt and
+               Dirk Habich and
+               Patrick Damme and
+               Wolfgang Lehner},
+  title     = {{Compression-Aware} {In-Memory} Query Processing: Vision, System Design and Beyond},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {40-56},
+}
+
+@inproceedings{DBLP:conf/vldb/Nguyen-CongdTH16,
+  author    = {Danh Nguyen-Cong and
+               Laurent d'Orazio and
+               Nga Tran and
+               Mohand-Said Hacid},
+  title     = {Storing and Querying {DICOM} Data with {HYTORMO}},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {43-61},
+}
+
+@inproceedings{DBLP:conf/vldb/AgbariaMPRR16,
+  author    = {Adnan Agbaria and
+               David Minor and
+               Natan Peterfreund and
+               Eyal Rozenberg and
+               Ofer Rosenberg},
+  title     = {Overtaking {CPU} {DBMSes} with a {GPU} in {Whole-Query} Analytic Processing with {Parallelism-Friendly} Execution Plan Optimization},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {57-78},
+}
+
+@inproceedings{DBLP:conf/vldb/VoKTLATW16,
+  author    = {Hoang Vo and
+               Jun Kong and
+               Dejun Teng and
+               Yanhui Liang and
+               Ablimit Aji and
+               George Teodoro and
+               Fusheng Wang},
+  title     = {{Cloud-Based} Whole Slide Image Analysis Using {MapReduce}},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {62-77},
+}
+
+@inproceedings{DBLP:conf/vldb/KesavanRS16,
+  author    = {Aniraj Kesavan and
+               Robert Ricci and
+               Ryan Stutsman},
+  title     = {To Copy or Not to Copy: Making {In-Memory} Databases Fast on Modern {NICs}},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {79-94},
+}
+
+@inproceedings{DBLP:conf/vldb/JhaMKMRS16,
+  author    = {Alokkumar Jha and
+               Muntazir Mehdi and
+               Yasar Khan and
+               Qaiser Mehmood and
+               Dietrich Rebholz-Schuhmann and
+               Ratnesh Sahay},
+  title     = {Drug Dosage Balancing Using Large Scale Multi-omics Datasets},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {81-100},
+}
+
+@inproceedings{DBLP:conf/vldb/DziedzicKAAA16,
+  author    = {Adam Dziedzic and
+               Manos Karpathiotakis and
+               Ioannis Alagiannis and
+               Raja Appuswamy and
+               Anastasia Ailamaki},
+  title     = {{DBMS} Data Loading: An Analysis on Modern Hardware},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {95-117},
+}
+
+@inproceedings{DBLP:conf/vldb/KathiraveluS16,
+  author    = {Pradeeban Kathiravelu and
+               Ashish Sharma},
+  title     = {A Dynamic Data Warehousing Platform for Creating and Accessing Biomedical Data Lakes},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {101-120},
+}
+
+@inproceedings{DBLP:conf/vldb/ShanbhagPM16,
+  author    = {Anil Shanbhag and
+               Holger Pirk and
+               Sam Madden},
+  title     = {{Locality-Adaptive} Parallel Hash Joins Using Hardware Transactional Memory},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {118-133},
+}
+
+@inproceedings{DBLP:conf/vldb/HongLKRGWJ16,
+  author    = {Na Hong and
+               Zheng Li and
+               Richard C. Kiefer and
+               Melissa S. Robertson and
+               Ellen L. Goode and
+               Chen Wang and
+               Guoqian Jiang},
+  title     = {Building an i2b2-Based Integrated Data Repository for Cancer Research: A Case Study of Ovarian Cancer Registry},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {121-135},
+}
+
+@inproceedings{DBLP:conf/vldb/MengZCW16,
+  author    = {Qingzhong Meng and
+               Xuan Zhou and
+               Shiping Chen and
+               Shan Wang},
+  title     = {SwingDB: An Embedded In-memory {DBMS} Enabling Instant Snapshot Sharing},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {134-149},
+}
+
+@inproceedings{DBLP:conf/vldb/BharajSB16,
+  author    = {Tanveen Singh Bharaj and
+               Shelly Sachdeva and
+               Subhash Bhalla},
+  title     = {AsthmaCheck: {Multi-Level} Modeling Based Health Information System},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {139-154},
+}
+
+@inproceedings{DBLP:conf/vldb/PalatinusD16,
+  author    = {Endre Palatinus and
+               Jens Dittrich},
+  title     = {Runtime Fragility in Main Memory},
+  booktitle = vldb,
+  year      = 2016,
+  pages     = {150-165},
+}
+
+@inproceedings{DBLP:conf/vldb/KimSD15,
+  author    = {Jaemyung Kim and
+               Kenneth Salem and
+               Khuzaima Daudjee},
+  title     = {Write Amplification: An Analysis of {In-Memory} Database Durability Techniques},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/vldb/RosenfeldHVM15,
+  author    = {Viktor Rosenfeld and
+               Max Heimel and
+               Christoph Viebig and
+               Volker Markl},
+  title     = {The Operator Variant Selection Problem on Heterogeneous Hardware},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/vldb/FaustFSP15,
+  author    = {Martin Faust and
+               Pedro Flemming and
+               David Schwalb and
+               Hasso Plattner},
+  title     = {Partitioned {Bit-Packed} Vectors for {In-Memory-Column-Stores}},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/vldb/MaasHTBCH15,
+  author    = {Ryan Maas and
+               Jeremy Hyrkas and
+               Olivia Grace Telford and
+               Magdalena Balazinska and
+               Andrew J. Connolly and
+               Bill Howe},
+  title     = {Gaussian Mixture Models Use-Case: {In-Memory} Analysis with Myria},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/vldb/SyedD15,
+  author    = {Haider Syed and
+               Amar K. Das},
+  title     = {Vector Space Models for Encoding and Retrieving Longitudinal Medical Record Data},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {3-15},
+}
+
+@inproceedings{DBLP:conf/vldb/SchwalbDUP15,
+  author    = {David Schwalb and
+               Markus Dreseler and
+               Matthias Uflacker and
+               Hasso Plattner},
+  title     = {NVC-Hashmap: A Persistent and Concurrent Hashmap For {Non-Volatile} Memories},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/vldb/ZeuchF15,
+  author    = {Steffen Zeuch and
+               Johann-Christoph Freytag},
+  title     = {Selection on Modern {CPUs}},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/vldb/CarraM15,
+  author    = {Damiano Carra and
+               Pietro Michiardi},
+  title     = {Cost-based Memory Partitioning and Management in Memcached},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/vldb/SchwalbKFKUP15,
+  author    = {David Schwalb and
+               Jan Kossmann and
+               Martin Faust and
+               Stefan Klauck and
+               Matthias Uflacker and
+               Hasso Plattner},
+  title     = {Hyrise-R: Scale-out and {Hot-Standby} through Lazy Master Replication for Enterprise Applications},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/vldb/SenCJ15,
+  author    = {Rajkumar Sen and
+               Jack Chen and
+               Nika Jimsheleishvilli},
+  title     = {Query Optimization Time: The New Bottleneck in Real-time Analytics},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/vldb/KarnagelML15,
+  author    = {Tomas Karnagel and
+               René Müller and
+               Guy M. Lohman},
+  title     = {Optimizing {GPU-accelerated} {Group-By} and Aggregation},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/vldb/WangLCHZCS15,
+  author    = {Miao Wang and
+               Jiayun Li and
+               Li Chen and
+               Yanjun Huang and
+               Qiang Zhou and
+               Lijuan Che and
+               Huiliang Shang},
+  title     = {The Study of the Compatibility Rules of Traditional Chinese Medicine Based on Apriori and {HMETIS} Hypergraph Partitioning Algorithm},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {16-31},
+}
+
+@inproceedings{DBLP:conf/vldb/KorkmazKKS15,
+  author    = {Mustafa Korkmaz and
+               Alexey Karyakin and
+               Martin Karsten and
+               Kenneth Salem},
+  title     = {Towards Dynamic {Green-Sizing} for Database Servers},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {25-36},
+}
+
+@inproceedings{DBLP:conf/vldb/SchlegelBE15,
+  author    = {Daniel R. Schlegel and
+               Jonathan P. Bona and
+               Peter L. Elkin},
+  title     = {Comparing Small Graph Retrieval Performance for Ontology Concepts in Medical Texts},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {32-44},
+}
+
+@inproceedings{DBLP:conf/vldb/MeyerBMVTSUR15,
+  author    = {Carsten Alexander Meyer and
+               Martin Boissier and
+               Adrian Michaud and
+               Jan Ole Vollmer and
+               Ken Taylor and
+               David Schwalb and
+               Matthias Uflacker and
+               Kurt Roedszus},
+  title     = {Dynamic and Transparent Data Tiering for {In-Memory} Databases in Mixed Workload Environments},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {37-48},
+}
+
+@inproceedings{DBLP:conf/vldb/ZhouSM15,
+  author    = {Naiyun Zhou and
+               Joel H. Saltz and
+               Klaus Mueller},
+  title     = {Maps of Human Disease: A {Web-Based} Framework for the Visualization of Human Disease Comorbidity and Clinical Profile Overlay},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {47-60},
+}
+
+@inproceedings{DBLP:conf/vldb/GuoK15,
+  author    = {Cong Guo and
+               Martin Karsten},
+  title     = {Towards Adaptive Resource Allocation for Database Workloads},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {49-60},
+}
+
+@inproceedings{DBLP:conf/vldb/LiuX15,
+  author    = {Jinfei Liu and
+               Li Xiong},
+  title     = {Secure Similarity Queries: Enabling Precision Medicine with Privacy},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {61-70},
+}
+
+@inproceedings{DBLP:conf/vldb/SchwalbBFDP15,
+  author    = {David Schwalb and
+               Tim Berning and
+               Martin Faust and
+               Markus Dreseler and
+               Hasso Plattner},
+  title     = {nvm malloc: Memory Allocation for {NVRAM}},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {61-72},
+}
+
+@inproceedings{DBLP:conf/vldb/PerrinMHGd15,
+  author    = {Mikael Perrin and
+               Jonathan Mullen and
+               Florian Helff and
+               Le Gruenwald and
+               Laurent d'Orazio},
+  title     = {Time-, Energy-, and Monetary {Cost-Aware} Cache Design for a {Mobile-Cloud} Database System},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {71-85},
+}
+
+@inproceedings{DBLP:conf/vldb/BessaniBBCDDGHH15,
+  author    = {Alysson Bessani and
+               Jörgen Brandt and
+               Marc Bux and
+               Vinicius V. Cogo and
+               Lora Dimitrova and
+               Jim Dowling and
+               Ali Gholami and
+               Kamal Hakimzadeh and
+               Micheal Hummel and
+               Mahmoud Ismail and
+               Erwin Laure and
+               Ulf Leser and
+               Jan-Eric Litton and
+               Roxanna Martinez and
+               Salman Niazi and
+               Jane Reichel and
+               Karin Zimmermann},
+  title     = {BiobankCloud: A Platform for the Secure Storage, Sharing, and Processing of Large Biomedical Data Sets},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {89-105},
+}
+
+@inproceedings{DBLP:conf/vldb/LiangKZW15,
+  author    = {Yanhui Liang and
+               Jun Kong and
+               Yangyang Zhu and
+               Fusheng Wang},
+  title     = {{Three-Dimensional} Data Analytics for Pathology Imaging},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {109-125},
+}
+
+@inproceedings{DBLP:conf/vldb/WilliamsBD15,
+  author    = {C. David Williams and
+               Magdalena Balazinska and
+               Thomas L. Daniel},
+  title     = {Automated Analysis of Muscle X-ray Diffraction Imaging with {MCMC}},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {126-133},
+}
+
+@inproceedings{DBLP:conf/vldb/BaigMVWSK15,
+  author    = {Furqan Baig and
+               Mudit Mehrotra and
+               Hoang Vo and
+               Fusheng Wang and
+               Joel H. Saltz and
+               Tahsin M. Kurç},
+  title     = {SparkGIS: Efficient Comparison and Evaluation of Algorithm Results in Tissue Image Analysis Studies},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {134-146},
+}
+
+@inproceedings{DBLP:conf/vldb/Lakshmanan15,
+  author    = {Laks V. S. Lakshmanan},
+  title     = {Social Network Analytics: Beyond the Obvious},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {149-154},
+}
+
+@inproceedings{DBLP:conf/vldb/SchatzlePBL15,
+  author    = {Alexander Schätzle and
+               Martin Przyjaciel-Zablocki and
+               Thorsten Berberich and
+               Georg Lausen},
+  title     = {S2X: {Graph-Parallel} Querying of {RDF} with {GraphX}},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {155-168},
+}
+
+@inproceedings{DBLP:conf/vldb/Wildemann0P15,
+  author    = {Max Wildemann and
+               Michael Rudolf and
+               Marcus Paradies},
+  title     = {The Time Has Come: Traversal and Reachability in {Time-Varying} Graphs},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {169-183},
+}
+
+@inproceedings{DBLP:conf/vldb/ParadiesVML15,
+  author    = {Marcus Paradies and
+               Elena Vasilyeva and
+               Adrian Mocan and
+               Wolfgang Lehner},
+  title     = {Robust Cardinality Estimation for Subgraph Isomorphism Queries on Property Graphs},
+  booktitle = vldb,
+  year      = 2015,
+  pages     = {184-198},
+}
+
+@inproceedings{DBLP:conf/vldb/Cha14,
+  author    = {Sang Kyun Cha},
+  title     = {Enterprise {In-Memory} Database: A Revolution Beyond Crossing The Chasm},
+  booktitle = vldb,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/vldb/Shamgunov14,
+  author    = {Nikita Shamgunov},
+  title     = {The {MemSQL} {In-Memory} Database System},
+  booktitle = vldb,
+  year      = 2014,
+}
+
+@inproceedings{DBLP:conf/vldb/TianALAMV14,
+  author    = {Yongchao Tian and
+               Ioannis Alagiannis and
+               Erietta Liarou and
+               Anastasia Ailamaki and
+               Pietro Michiardi and
+               Marko Vukolic},
+  title     = {DiNoDB: Efficient {Large-Scale} Raw Data Analytics},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/vldb/WuZAY14,
+  author    = {Haicheng Wu and
+               Daniel Zinn and
+               Molham Aref and
+               Sudhakar Yalamanchili},
+  title     = {Multipredicate Join Algorithms for Accelerating Relational Graph Processing on {GPUs}},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/vldb/BroneskeBS14,
+  author    = {David Broneske and
+               Sebastian Breß and
+               Gunter Saake},
+  title     = {Database Scan Variants on Modern CPUs: A Performance Study},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/vldb/HanLX14,
+  author    = {Rui Han and
+               Xiaoyi Lu and
+               Jiangtao Xu},
+  title     = {On Big Data Benchmarking},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {3-18},
+}
+
+@inproceedings{DBLP:conf/vldb/BonifatiCLS14,
+  author    = {Angela Bonifati and
+               Radu Ciucanu and
+               Aurélien Lemay and
+               Slawek Staworko},
+  title     = {A Paradigm for Learning Queries on Big Data},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/vldb/BrucatoAM14,
+  author    = {Matteo Brucato and
+               Azza Abouzied and
+               Alexandra Meliou},
+  title     = {Improving package recommendations through query relaxation},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {13},
+}
+
+@inproceedings{DBLP:conf/vldb/ZhangYG14,
+  author    = {Jianting Zhang and
+               Simin You and
+               Le Gruenwald},
+  title     = {Data Parallel Quadtree Indexing and Spatial Query Processing of Complex Polygon Data on {GPUs}},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/vldb/SchwalbFWGP14,
+  author    = {David Schwalb and
+               Martin Faust and
+               Johannes Wust and
+               Martin Grund and
+               Hasso Plattner},
+  title     = {Efficient Transaction Processing for Hyrise in Mixed Workload Environments},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {16-29},
+}
+
+@inproceedings{DBLP:conf/vldb/UpadhyayaUBSH14,
+  author    = {Prasang Upadhyaya and
+               Martina Unutzer and
+               Magdalena Balazinska and
+               Dan Suciu and
+               Hakan Hacigümüs},
+  title     = {Affordable Analytics on Expensive Data},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {19},
+}
+
+@inproceedings{DBLP:conf/vldb/ShankarLWIP14,
+  author    = {Dipti Shankar and
+               Xiaoyi Lu and
+               Md. Wasi-ur-Rahman and
+               Nusrat S. Islam and
+               Dhabaleswar K. Panda},
+  title     = {A Micro-benchmark Suite for Evaluating Hadoop {MapReduce} on {High-Performance} Networks},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {19-33},
+}
+
+@inproceedings{DBLP:conf/vldb/NeamtuASHBGMPRW14,
+  author    = {Rodica Neamtu and
+               Ramoza Ahsan and
+               Jeff Stokes and
+               Armend Hoxha and
+               Jialiang Bao and
+               Stefan Gvozdenovic and
+               Ted Meyer and
+               Nilesh Patel and
+               Raghu Rangan and
+               Yumou Wang and
+               Dongyun Zhang and
+               Elke A. Rundensteiner},
+  title     = {Taming Big Data: Integrating diverse public data sources for economic competitiveness analytics},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {25},
+}
+
+@inproceedings{DBLP:conf/vldb/ArnoldHFSKKL14,
+  author    = {Oliver Arnold and
+               Sebastian Haas and
+               Gerhard P. Fettweis and
+               Benjamin Schlegel and
+               Thomas Kissinger and
+               Tomas Karnagel and
+               Wolfgang Lehner},
+  title     = {HASHI: An Application Specific Instruction Set Extension for Hashing},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {25-33},
+}
+
+@inproceedings{DBLP:conf/vldb/TianSM14,
+  author    = {Hao Tian and
+               Md. Anisuzzaman Siddique and
+               Yasuhiko Morimoto},
+  title     = {An Efficient Processing of {k-Dominant} Skyline Query in {MapReduce}},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {29},
+}
+
+@inproceedings{DBLP:conf/vldb/BinnaPMS14,
+  author    = {Robert Binna and
+               Dominic Pacher and
+               Thomas Meindl and
+               Günther Specht},
+  title     = {The DCB-Tree: A {Space-Efficient} Delta Coded Cache Conscious {B-Tree}},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {30-41},
+}
+
+@inproceedings{DBLP:conf/vldb/ZeuchF14,
+  author    = {Steffen Zeuch and
+               Johann-Christoph Freytag},
+  title     = {QTM: Modelling Query Execution with Tasks},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {34-45},
+}
+
+@inproceedings{DBLP:conf/vldb/KangJZZ14,
+  author    = {Qiangqiang Kang and
+               Cheqing Jin and
+               Zhao Zhang and
+               Aoying Zhou},
+  title     = {MemTest: A Novel Benchmark for In-memory Database},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {34-46},
+}
+
+@inproceedings{DBLP:conf/vldb/FaustSP14,
+  author    = {Martin Faust and
+               David Schwalb and
+               Hasso Plattner},
+  title     = {Composite Group-Keys: Space-efficient Indexing of Multiple Columns for Compressed {In-Memory} Column Stores},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {42-54},
+}
+
+@inproceedings{DBLP:conf/vldb/KimKISMDC14,
+  author    = {Hyojun Kim and
+               Ioannis Koltsidas and
+               Nikolas Ioannou and
+               Sangeetha Seshadri and
+               Paul Muench and
+               Clement L. Dickey and
+               Lawrence Chiu},
+  title     = {{Flash-Conscious} Cache Population for Enterprise Database Workloads},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {45-56},
+}
+
+@inproceedings{DBLP:conf/vldb/WangPEJGOG14,
+  author    = {Shicai Wang and
+               Ioannis Pandis and
+               Ibrahim Emam and
+               David Johnson and
+               Florian Guitton and
+               Axel Oehmichen and
+               Yike Guo},
+  title     = {DSIMBench: A Benchmark for Microarray Data Using R},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {47-56},
+}
+
+@inproceedings{DBLP:conf/vldb/BittorfKRZ14,
+  author    = {Victor Bittorf and
+               Marcel Kornacker and
+               Christopher Ré and
+               Ce Zhang},
+  title     = {Tradeoffs in {Main-Memory} Statistical Analytics from Impala to {DimmWitted}},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {55-56},
+}
+
+@inproceedings{DBLP:conf/vldb/JohnsonKWP14,
+  author    = {Ryan Johnson and
+               Kangnyeon Kim and
+               Tianzheng Wang and
+               Ippokratis Pandis},
+  title     = {Robust concurrency control in main-memory DBMS: What main memory giveth, the application taketh away},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {57-59},
+}
+
+@inproceedings{DBLP:conf/vldb/DeBrabantAPSZD14,
+  author    = {Justin DeBrabant and
+               Joy Arulraj and
+               Andrew Pavlo and
+               Michael Stonebraker and
+               Stanley B. Zdonik and
+               Subramanya Dulloor},
+  title     = {A Prolegomenon on {OLTP} Database Systems for {Non-Volatile} Memory},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {57-63},
+}
+
+@inproceedings{DBLP:conf/vldb/AkdoganTKS14,
+  author    = {Afsin Akdogan and
+               Hien To and
+               Seon Ho Kim and
+               Cyrus Shahabi},
+  title     = {A Benchmark to Evaluate Mobile Video Upload to Cloud Infrastructures},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {57-70},
+}
+
+@inproceedings{DBLP:conf/vldb/HoppnerWR14,
+  author    = {Bernhard Höppner and
+               Ahmadshah Waizy and
+               Hannes Rauhe},
+  title     = {An Approach for {Hybrid-Memory} Scaling Columnar {In-Memory} Databases},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {64-73},
+}
+
+@inproceedings{DBLP:conf/vldb/WangLZZ14,
+  author    = {Huajin Wang and
+               Jianhui Li and
+               Haiming Zhang and
+               Yuanchun Zhou},
+  title     = {Benchmarking Replication and Consistency Strategies in Cloud Serving Databases: {HBase} and Cassandra},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {71-82},
+}
+
+@inproceedings{DBLP:conf/vldb/KissingerKSHML14,
+  author    = {Thomas Kissinger and
+               Tim Kiefer and
+               Benjamin Schlegel and
+               Dirk Habich and
+               Daniel Molka and
+               Wolfgang Lehner},
+  title     = {ERIS: A {NUMA-Aware} {In-Memory} Storage Engine for Analytical Workload},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {74-85},
+}
+
+@inproceedings{DBLP:conf/vldb/PanYXH14,
+  author    = {Fengfeng Pan and
+               Yinliang Yue and
+               Jin Xiong and
+               Daxiang Hao},
+  title     = {I/O Characterization of Big Data Workloads in Data Centers},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {85-97},
+}
+
+@inproceedings{DBLP:conf/vldb/BroneskeBS14a,
+  author    = {David Broneske and
+               Sebastian Breß and
+               Gunter Saake},
+  title     = {Database Scan Variants on Modern CPUs: A Performance Study},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {97-111},
+}
+
+@inproceedings{DBLP:conf/vldb/WangHFK14,
+  author    = {Xiajun Wang and
+               Song Huang and
+               Song Fu and
+               Krishna Kavi},
+  title     = {Characterizing Workload of Web Applications on Virtualized Servers},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {98-108},
+}
+
+@inproceedings{DBLP:conf/vldb/LiangFLX14,
+  author    = {Fan Liang and
+               Chen Feng and
+               Xiaoyi Lu and
+               Zhiwei Xu},
+  title     = {Performance Benefits of DataMPI: A Case Study with {BigDataBench}},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {111-123},
+}
+
+@inproceedings{DBLP:conf/vldb/SchwalbFWGP14a,
+  author    = {David Schwalb and
+               Martin Faust and
+               Johannes Wust and
+               Martin Grund and
+               Hasso Plattner},
+  title     = {Efficient Transaction Processing for Hyrise in Mixed Workload Environments},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {112-125},
+}
+
+@inproceedings{DBLP:conf/vldb/ChenQHS14,
+  author    = {Pengfei Chen and
+               Yong Qi and
+               Di Hou and
+               Huachong Sun},
+  title     = {InvarNet-X: A Comprehensive Invariant Based Approach for Performance Diagnosis in Big Data Platform},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {124-140},
+}
+
+@inproceedings{DBLP:conf/vldb/BinnaPMS14a,
+  author    = {Robert Binna and
+               Dominic Pacher and
+               Thomas Meindl and
+               Günther Specht},
+  title     = {The DCB-Tree: A {Space-Efficient} Delta Coded Cache Conscious {B-Tree}},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {126-138},
+}
+
+@inproceedings{DBLP:conf/vldb/FaustSP14a,
+  author    = {Martin Faust and
+               David Schwalb and
+               Hasso Plattner},
+  title     = {Composite {Group-Keys} - {Space-Efficient} Indexing of Multiple Columns for Compressed {In-Memory} Column Stores},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {139-150},
+}
+
+@inproceedings{DBLP:conf/vldb/KcF14,
+  author    = {Kamal Kc and
+               Vincent W. Freeh},
+  title     = {Tuning Hadoop Map Slot Value Using {CPU} Metric},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {141-153},
+}
+
+@inproceedings{DBLP:conf/vldb/ChenQBCDDGLLZ14,
+  author    = {Yueguo Chen and
+               Xiongpai Qin and
+               Haoqiong Bian and
+               Jun Chen and
+               Zhaoan Dong and
+               Xiaoyong Du and
+               Yanjie Gao and
+               Dehai Liu and
+               Jiaheng Lu and
+               Huijie Zhang},
+  title     = {A Study of {SQL-on-Hadoop} Systems},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {154-166},
+}
+
+@inproceedings{DBLP:conf/vldb/LiangWFZZ14,
+  author    = {Yi Liang and
+               Yufeng Wang and
+               Minglu Fan and
+               Chen Zhang and
+               Yuqing Zhu},
+  title     = {Predoop: Preempting Reduce Task for Job Execution Accelerations},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {167-180},
+}
+
+@inproceedings{DBLP:conf/vldb/SuzukiVAFS14,
+  author    = {Jun Suzuki and
+               Shivaram Venkataraman and
+               Sameer Agarwal and
+               Michael J. Franklin and
+               Ion Stoica},
+  title     = {Record Placement Based on Data Skew Using Solid State Drives},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {181-193},
+}
+
+@inproceedings{DBLP:conf/vldb/DevresseF14,
+  author    = {Adrien Devresse and
+               Fabrizio Furano},
+  title     = {Efficient {HTTP} Based I/O on Very Large Datasets for High Performance Computing with the Libdavix Library},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {194-205},
+}
+
+@inproceedings{DBLP:conf/vldb/WeiJXC14,
+  author    = {Wei Wei and
+               Dejun Jiang and
+               Jin Xiong and
+               Mingyu Chen},
+  title     = {Exploring Opportunities for Non-volatile Memories in Big Data Applications},
+  booktitle = vldb,
+  year      = 2014,
+  pages     = {209-220},
+}
+
+@inproceedings{DBLP:conf/vldb/Ailamaki13,
+  author    = {Anastasia Ailamaki},
+  title     = {Composing Scalability for Transactions on Multicore Platforms},
+  booktitle = vldb,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/vldb/Larson13,
+  author    = {Per-Åke Larson},
+  title     = {Evolving the Architecture of {SQL} Server for Modern Hardware},
+  booktitle = vldb,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/vldb/ChenC13,
+  author    = {Zhe Chen and
+               Michael J. Cafarella},
+  title     = {Automatic web spreadsheet data extraction},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/vldb/Jensen13,
+  author    = {Christian S. Jensen},
+  title     = {Spatial keyword querying of geo-tagged web content},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/vldb/LangLANK13,
+  author    = {Harald Lang and
+               Viktor Leis and
+               Martina-Cezara Albutiu and
+               Thomas Neumann and
+               Alfons Kemper},
+  title     = {Massively Parallel {NUMA-aware} Hash Joins},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/vldb/WillhalmO0F13,
+  author    = {Thomas Willhalm and
+               Ismail Oukid and
+               Ingo Müller and
+               Franz Faerber},
+  title     = {Vectorizing Database Column Scans with Complex Predicates},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/vldb/MousaviGZ13,
+  author    = {Hamid Mousavi and
+               Shi Gao and
+               Carlo Zaniolo},
+  title     = {Discovering attribute and entity synonyms for knowledge integration and semantic web search},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/vldb/Paparizos13,
+  author    = {Stelios Paparizos},
+  title     = {Entwining structure into web search},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/vldb/AlvanakiM13,
+  author    = {Foteini Alvanaki and
+               Sebastian Michel},
+  title     = {A thin monitoring layer for top-k aggregation queries over a database},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/vldb/BianchiniAM13,
+  author    = {Devis Bianchini and
+               Valeria De Antonellis and
+               Michele Melchiori},
+  title     = {A framework for guided search of mashup components},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/vldb/LangLA0K13,
+  author    = {Harald Lang and
+               Viktor Leis and
+               Martina-Cezara Albutiu and
+               Thomas Neumann and
+               Alfons Kemper},
+  title     = {Massively Parallel {NUMA-Aware} Hash Joins},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {3-14},
+}
+
+@inproceedings{DBLP:conf/vldb/CaliCDF13,
+  author    = {Andrea Calì and
+               Stefano Capuzzi and
+               Mirko Michele Dimartino and
+               Riccardo Frosini},
+  title     = {Recommendation of text tags using linked data},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/vldb/RoellekeBM13,
+  author    = {Thomas Roelleke and
+               Marco Bonzanini and
+               Miguel Martinez-Alvarez},
+  title     = {On the modelling of ranking algorithms in probabilistic datalog},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/vldb/DessiMAZ13,
+  author    = {Andrea Dessi and
+               Andrea Maxia and
+               Maurizio Atzori and
+               Carlo Zaniolo},
+  title     = {Supporting semantic web search and structured queries on mobile devices},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/vldb/Levandoski13,
+  author    = {Justin J. Levandoski},
+  title     = {Ranking and new database architectures},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/vldb/Bianchini13,
+  author    = {Devis Bianchini},
+  title     = {Towards a folksonomy of web {APIs}},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/vldb/LoyerSZ13,
+  author    = {Yann Loyer and
+               Isma Sadoun and
+               Karine Zeitouni},
+  title     = {Progressive ranking based on a dominance list},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/vldb/CataniaGBMMP13,
+  author    = {Barbara Catania and
+               Giovanna Guerrini and
+               Alberto Belussi and
+               Federica Mandreoli and
+               Riccardo Martoglia and
+               Wilma Penzo},
+  title     = {Wearable queries: adapting common retrieval needs to data and users},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/vldb/CuzzocreaSFP13,
+  author    = {Alfredo Cuzzocrea and
+               Marcello Di Stefano and
+               Paolo Fosci and
+               Giuseppe Psaila},
+  title     = {Effectively and efficiently supporting crowd-enabled databases via {NoSQL} paradigms},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/vldb/KerenSABSS13,
+  author    = {Daniel Keren and
+               Guy Sagy and
+               Amir Abboud and
+               David Ben-David and
+               Izchak Sharfman and
+               Assaf Schuster},
+  title     = {{Safe-Zones} for Monitoring Distributed Streams},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/vldb/BergamaschiFGS13,
+  author    = {Sonia Bergamaschi and
+               Nicola Ferro and
+               Francesco Guerra and
+               Gianmaria Silvello},
+  title     = {Keyword search and evaluation over relational databases: an outlook to the future},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/vldb/BoleyKKSS13,
+  author    = {Mario Boley and
+               Michael Kamp and
+               Daniel Keren and
+               Assaf Schuster and
+               Izchak Sharfman},
+  title     = {{Communication-Efficient} Distributed Online Prediction using Dynamic Model Synchronizations},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/vldb/AbsalyamovMTN13,
+  author    = {Ildar Absalyamov and
+               Roger Moussalli and
+               Vassilis J. Tsotras and
+               Walid A. Najjar},
+  title     = {{High-Performance} {XML} Twig Filtering using {GPUs}},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/vldb/FaustSK13,
+  author    = {Martin Faust and
+               David Schwalb and
+               Jens Krüger},
+  title     = {Fast Column Scans: Paged Indices for {In-Memory} Column Stores},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {13-24},
+}
+
+@inproceedings{DBLP:conf/vldb/FaustSK13a,
+  author    = {Martin Faust and
+               David Schwalb and
+               Jens Krüger},
+  title     = {Fast Column Scans: Paged Indices for {In-Memory} Column Stores},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {15-27},
+}
+
+@inproceedings{DBLP:conf/vldb/GabelKS13,
+  author    = {Moshe Gabel and
+               Daniel Keren and
+               Assaf Schuster},
+  title     = {Communication-efficient Outlier Detection for Scale-out Systems},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/vldb/HeinzeJPGJF13,
+  author    = {Thomas Heinze and
+               Yuanzhen Ji and
+               Yinying Pan and
+               Franz Josef Grüneberger and
+               Zbigniew Jerzak and
+               Christof Fetzer},
+  title     = {Elastic Complex Event Processing under Varying Query Load},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/vldb/KoutsoumpakisKG13,
+  author    = {Georgios Koutsoumpakis and
+               Iakovos Koutsoumpakis and
+               Anastasios Gounaris},
+  title     = {Skew Handling in Aggregate Streaming Queries on {GPUs}},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {25-35},
+}
+
+@inproceedings{DBLP:conf/vldb/MyersHHH13,
+  author    = {Brandon Myers and
+               Jeremy Hyrkas and
+               Daniel Halperin and
+               Bill Howe},
+  title     = {Compiled Plans for {In-Memory} {Path-Counting} Queries},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {25-37},
+}
+
+@inproceedings{DBLP:conf/vldb/MyersHHH13a,
+  author    = {Brandon Myers and
+               Jeremy Hyrkas and
+               Daniel Halperin and
+               Bill Howe},
+  title     = {Compiled Plans for {In-Memory} {Path-Counting} Queries},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {28-43},
+}
+
+@inproceedings{DBLP:conf/vldb/GrunbergerHF13,
+  author    = {Franz Josef Grüneberger and
+               Thomas Heinze and
+               Pascal Felber},
+  title     = {Adaptive Selective Replication for Complex Event Processing Systems},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/vldb/PsaroudakisSMA13,
+  author    = {Iraklis Psaroudakis and
+               Tobias Scheuer and
+               Norman May and
+               Anastasia Ailamaki},
+  title     = {Task Scheduling for Highly Concurrent Analytical and Transactional {Main-Memory} Workloads},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {36-45},
+}
+
+@inproceedings{DBLP:conf/vldb/SpyropoulosK13,
+  author    = {Vasilis Spyropoulos and
+               Yannis Kotidis},
+  title     = {Dynamic Partitioning of Big Hierarchical Graphs},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/vldb/KernertKL13,
+  author    = {David Kernert and
+               Frank Köhler and
+               Wolfgang Lehner},
+  title     = {Bringing Linear Algebra Objects to Life in a {Column-Oriented} {In-Memory} Database},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {37-49},
+}
+
+@inproceedings{DBLP:conf/vldb/LabouseurOH13,
+  author    = {Alan G. Labouseur and
+               Paul W. Olsen and
+               Jeong-Hyon Hwang},
+  title     = {Scalable and Robust Management of Dynamic Graph Data},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/vldb/KernertKL13a,
+  author    = {David Kernert and
+               Frank Köhler and
+               Wolfgang Lehner},
+  title     = {Bringing Linear Algebra Objects to Life in a {Column-Oriented} {In-Memory} Database},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {44-55},
+}
+
+@inproceedings{DBLP:conf/vldb/SasakiA13,
+  author    = {Shigero Sasaki and
+               Takuya Araki},
+  title     = {Modularizing B+-trees: {Three-Level} B+-trees Work Fine},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {46-57},
+}
+
+@inproceedings{DBLP:conf/vldb/SattlerB13,
+  author    = {Kai-Uwe Sattler and
+               Felix Beier},
+  title     = {Towards Elastic Stream Processing: Patterns and Infrastructure},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {49-54},
+}
+
+@inproceedings{DBLP:conf/vldb/WustGP13,
+  author    = {Johannes Wust and
+               Martin Grund and
+               Hasso Plattner},
+  title     = {Dynamic Query Prioritization for {In-Memory} Databases},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {50-61},
+}
+
+@inproceedings{DBLP:conf/vldb/Akioka13,
+  author    = {Sayaka Akioka},
+  title     = {Task Graphs of Stream Mining Algorithms},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {55-60},
+}
+
+@inproceedings{DBLP:conf/vldb/WustGP13a,
+  author    = {Johannes Wust and
+               Martin Grund and
+               Hasso Plattner},
+  title     = {Dynamic Query Prioritization for {In-Memory} Databases},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {56-68},
+}
+
+@inproceedings{DBLP:conf/vldb/DubsPGB13,
+  author    = {Paul Dubs and
+               Ilia Petrov and
+               Robert Gottstein and
+               Alejandro P. Buchmann},
+  title     = {FBARC: I/O Asymmetry Aware Buffer Replacement Strategy},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {58-69},
+}
+
+@inproceedings{DBLP:conf/vldb/KoppMPM13,
+  author    = {Christine Kopp and
+               Michael Mock and
+               Odysseas Papapetrou and
+               Michael May},
+  title     = {Large-scale Online Mobility Monitoring with Exponential Histograms},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {61-66},
+}
+
+@inproceedings{DBLP:conf/vldb/MullerP13,
+  author    = {Stephan Müller and
+               Hasso Plattner},
+  title     = {Aggregates Caching in Columnar {In-Memory} Databases},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {62-73},
+}
+
+@inproceedings{DBLP:conf/vldb/SongGHZZ13,
+  author    = {Leyi Song and
+               Xueqing Gong and
+               Xiaofeng He and
+               Rong Zhang and
+               Aoying Zhou},
+  title     = {{Multi-Stage} Malicious Click Detection on Large Scale Web Advertising Data},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {67-72},
+}
+
+@inproceedings{DBLP:conf/vldb/MullerP13a,
+  author    = {Stephan Müller and
+               Hasso Plattner},
+  title     = {Aggregates Caching in Columnar {In-Memory} Databases},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {69-81},
+}
+
+@inproceedings{DBLP:conf/vldb/MuheWK013,
+  author    = {Henrik Mühe and
+               Stephan Wolf and
+               Alfons Kemper and
+               Thomas Neumann},
+  title     = {An Evaluation of Strict Timestamp Ordering Concurrency Control for {Main-Memory} Database Systems},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {74-85},
+}
+
+@inproceedings{DBLP:conf/vldb/WolfMK013,
+  author    = {Stephan Wolf and
+               Henrik Mühe and
+               Alfons Kemper and
+               Thomas Neumann},
+  title     = {An Evaluation of Strict Timestamp Ordering Concurrency Control for {Main-Memory} Database Systems},
+  booktitle = vldb,
+  year      = 2013,
+  pages     = {82-93},
+}
+
+@inproceedings{DBLP:conf/vldb/MetzgerHS12,
+  author    = {Steffen Metzger and
+               Katja Hose and
+               Ralf Schenkel},
+  title     = {Colledge: a vision of collaborative knowledge networks},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/vldb/KimuraGK12,
+  author    = {Hideaki Kimura and
+               Goetz Graefe and
+               Harumi A. Kuno},
+  title     = {Efficient Locking Techniques for Databases on Modern Hardware},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {1-12},
+}
+
+@inproceedings{DBLP:conf/vldb/ArbabSBP12,
+  author    = {Farhad Arbab and
+               Francesco Santini and
+               Stefano Bistarelli and
+               Daniele Pirolandi},
+  title     = {Towards a similarity-based web service discovery through soft constraint satisfaction problems},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/vldb/Brambilla12,
+  author    = {Marco Brambilla},
+  title     = {Exploratory search upon semantically described web data sources},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/vldb/Bianchini12,
+  author    = {Devis Bianchini},
+  title     = {A classification of web {API} selection solutions over the linked web},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/vldb/ChunTG12,
+  author    = {Soon Ae Chun and
+               Tian Tian and
+               James Geller},
+  title     = {Enhancing the famous people ontology by mining a social network},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/vldb/CuzzocreaS12,
+  author    = {Alfredo Cuzzocrea and
+               Alkis Simitsis},
+  title     = {Searching semantic data warehouses: models, issues, architectures},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/vldb/FaustSKP12,
+  author    = {Martin Faust and
+               David Schwalb and
+               Jens Krüger and
+               Hasso Plattner},
+  title     = {Fast Lookups for {In-Memory} Column Stores: {Group-Key} Indices, Lookup and Maintenance},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {13-22},
+}
+
+@inproceedings{DBLP:conf/vldb/AthanassoulisBCR12,
+  author    = {Manos Athanassoulis and
+               Bishwaranjan Bhattacharjee and
+               Mustafa Canim and
+               Kenneth A. Ross},
+  title     = {Path processing using Solid State Storage},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {23-32},
+}
+
+@inproceedings{DBLP:conf/vldb/HeimelM12,
+  author    = {Max Heimel and
+               Volker Markl},
+  title     = {A First Step Towards {GPU-assisted} Query Optimization},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {33-44},
+}
+
+@inproceedings{DBLP:conf/vldb/ShnaidermanS12,
+  author    = {Lila Shnaiderman and
+               Oded Shmueli},
+  title     = {A Parallel Twig Join Algorithm for {XML} Processing using a {GPGPU}},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {45-56},
+}
+
+@inproceedings{DBLP:conf/vldb/BadiozamanyR12,
+  author    = {Sobhan Badiozamany and
+               Tore Risch},
+  title     = {Scalable ordered indexing of streaming data},
+  booktitle = vldb,
+  year      = 2012,
+  pages     = {57-67},
+}
+
+@inproceedings{DBLP:conf/vldb/SchlegelWL11,
+  author    = {Benjamin Schlegel and
+               Thomas Willhalm and
+               Wolfgang Lehner},
+  title     = {Fast {Sorted-Set} Intersection using {SIMD} Instructions},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/vldb/MoussalliHSNT11,
+  author    = {Roger Moussalli and
+               Robert J. Halstead and
+               Mariam Salloum and
+               Walid A. Najjar and
+               Vassilis J. Tsotras},
+  title     = {Efficient {XML} Path Filtering Using {GPUs}},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {9-18},
+}
+
+@inproceedings{DBLP:conf/vldb/KruegerGJZP11,
+  author    = {Jens Krüger and
+               Martin Grund and
+               Ingo Jaeckel and
+               Alexander Zeier and
+               Hasso Plattner},
+  title     = {Applicability of {GPU} Computing for Efficient Merge in {In-Memory} Databases},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {19-26},
+}
+
+@inproceedings{DBLP:conf/vldb/PirkMK11,
+  author    = {Holger Pirk and
+               Stefan Manegold and
+               Martin L. Kersten},
+  title     = {Accelerating {Foreign-Key} Joins using Asymmetric Memory Channels},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {27-35},
+}
+
+@inproceedings{DBLP:conf/vldb/KimOPCL11,
+  author    = {Sungchan Kim and
+               Hyunok Oh and
+               Chanik Park and
+               Sangyeun Cho and
+               Sang-Won Lee},
+  title     = {Fast, Energy Efficient Scan inside Flash Memory},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {36-43},
+}
+
+@inproceedings{DBLP:conf/vldb/PelleyLW11,
+  author    = {Steven Pelley and
+               Kristen LeFevre and
+               Thomas F. Wenisch},
+  title     = {Do Query Optimizers Need to be SSD-aware?},
+  booktitle = vldb,
+  year      = 2011,
+  pages     = {44-51},
+}
+
+@inproceedings{DBLP:conf/vldb/CanimMBLR10,
+  author    = {Mustafa Canim and
+               George A. Mihaila and
+               Bishwaranjan Bhattacharjee and
+               Christian A. Lang and
+               Kenneth A. Ross},
+  title     = {Buffered Bloom Filters on Solid State Storage},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/vldb/Cayton10,
+  author    = {Lawrence Cayton},
+  title     = {A Nearest Neighbor Data Structure for Graphics Hardware},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {9-14},
+}
+
+@inproceedings{DBLP:conf/vldb/FoongVH10,
+  author    = {Annie P. Foong and
+               Bryan Veal and
+               Frank T. Hady},
+  title     = {Towards {SSD-Ready} Enterprise Platforms},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {15-21},
+}
+
+@inproceedings{DBLP:conf/vldb/KrikellasVC10,
+  author    = {Konstantinos Krikellas and
+               Stratis Viglas and
+               Marcelo Cintra},
+  title     = {Modeling Multithreaded Query Execution on Chip Multiprocessors},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {22-33},
+}
+
+@inproceedings{DBLP:conf/vldb/PetrovABG10,
+  author    = {Ilia Petrov and
+               Guillermo G. Almeida and
+               Alejandro P. Buchmann and
+               Ulrich Gräf},
+  title     = {Building Large Storage Based On Flash Disks},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {34-42},
+}
+
+@inproceedings{DBLP:conf/vldb/TranBN10,
+  author    = {Khai Q. Tran and
+               Spyros Blanas and
+               Jeffrey F. Naughton},
+  title     = {On Transactional Memory, Spinlocks, and Database Transactions},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {43-50},
+}
+
+@inproceedings{DBLP:conf/vldb/VolkHL10,
+  author    = {Peter Benjamin Volk and
+               Dirk Habich and
+               Wolfgang Lehner},
+  title     = {{GPU-Based} Speculative Query Processing for Database Operations},
+  booktitle = vldb,
+  year      = 2010,
+  pages     = {51-60},
+}
+
 @inproceedings{DBLP:conf/vldb/AlbrechtN09,
   author    = {Alexander Albrecht and
                Felix Naumann},
@@ -223,7 +2928,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/ReS07,
-  author    = {Christopher Re and
+  author    = {Christopher Ré and
                Dan Suciu},
   title     = {Materialized Views in Probabilistic Databases for Information Exchange and Query Optimization},
   booktitle = vldb,
@@ -954,7 +3659,7 @@
 
 @inproceedings{DBLP:conf/vldb/ChandramouliPY07,
   author    = {Badrish Chandramouli and
-               Jeff Phillips and
+               Jeff M. Phillips and
                Jun Yang},
   title     = {{Value-Based} Notification Conditions in {Large-Scale} Publish/Subscribe Systems},
   booktitle = vldb,
@@ -1139,7 +3844,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/DDH07,
-  author    = {Harish D. and
+  author    = {Harish Doraiswamy and
                Pooja N. Darera and
                Jayant R. Haritsa},
   title     = {On the Production of Anorexic Plan Diagrams},
@@ -1483,7 +4188,7 @@
                Mehdi Benzine and
                Luc Bouganim and
                Philippe Pucheral and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {GhostDB: Hiding Data from Prying Eyes},
   booktitle = vldb,
   year      = 2007,
@@ -2219,7 +4924,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/BastMSTW06,
-  author    = {Holger Bast and
+  author    = {H. Bast and
                Debapriyo Majumdar and
                Ralf Schenkel and
                Martin Theobald and
@@ -4137,7 +6842,7 @@
                Bedoor K. AlShebli and
                Quoc Le and
                Hoa Nguyen and
-               Long Vu and
+               Long H. Vu and
                AnHai Doan},
   title     = {Mapping Maintenance for Data Integration Systems},
   booktitle = vldb,
@@ -5482,7 +8187,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/IwerksSS04,
-  author    = {Glenn S. Iwerks and
+  author    = {Glenn Simmons Iwerks and
                Hanan Samet and
                Kenneth P. Smith},
   title     = {Maintenance of Spatial Semijoin Queries on Moving Points},
@@ -5793,7 +8498,7 @@
 @inproceedings{DBLP:conf/vldb/LightstoneB04,
   author    = {Sam Lightstone and
                Bishwaranjan Bhattacharjee},
-  title     = {Automating the design of multi-dimensional clustering tables in relational databases},
+  title     = {Automated design of multidimensional clustering tables for relational databases},
   booktitle = vldb,
   year      = 2004,
   pages     = {1170-1181},
@@ -5815,7 +8520,7 @@
                Venkat Krishnamurthy and
                Sridhar Ramachandran and
                Sanjay E. Sarma},
-  title     = {Managing {RDFI} Data},
+  title     = {Managing {RFID} Data},
   booktitle = vldb,
   year      = 2004,
   pages     = {1189-1195},
@@ -6763,7 +9468,7 @@
 
 @inproceedings{DBLP:conf/vldb/LernerS03,
   author    = {Alberto Lerner and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {AQuery: Query Language for Ordered Data, Optimization Techniques, and Experiments},
   booktitle = vldb,
   year      = 2003,
@@ -6899,7 +9604,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/IwerksSS03,
-  author    = {Glenn S. Iwerks and
+  author    = {Glenn Simmons Iwerks and
                Hanan Samet and
                Kenneth P. Smith},
   title     = {Continuous {K-Nearest} Neighbor Queries for Continuously Moving Points with Updates},
@@ -7784,7 +10489,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/ShashaB02,
-  author    = {Dennis Shasha and
+  author    = {Dennis E. Shasha and
                Philippe Bonnet},
   title     = {Database Tuning: Principles, Experiments, and Troubleshooting Techniques},
   booktitle = vldb,
@@ -8095,7 +10800,7 @@
 
 @inproceedings{DBLP:conf/vldb/ZhuS02,
   author    = {Yunyue Zhu and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time},
   booktitle = vldb,
   year      = 2002,
@@ -8579,7 +11284,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/AlexandrovABBBCDFHJKKKLLMMMPNPPRRSSW02,
-  author    = {I. Alexandrov and
+  author    = {Igor Alexandrov and
                Antonio Amorim and
                E. Badescu and
                M. Barczyk and
@@ -8595,7 +11300,7 @@
                Dietrich Liko and
                Levi Lucio and
                L. Mapelli and
-               M. Mineev and
+               Mikhail Mineev and
                L. Moneta and
                I. Papadopoulos and
                M. Nassiakou and
@@ -9382,7 +12087,7 @@
 @inproceedings{DBLP:conf/vldb/GalhardasFSSS01,
   author    = {Helena Galhardas and
                Daniela Florescu and
-               Dennis Shasha and
+               Dennis E. Shasha and
                Eric Simon and
                Cristian-Augustin Saita},
   title     = {Declarative Data Cleaning: Language, Model, and Algorithms},
@@ -10024,11 +12729,11 @@
 }
 
 @inproceedings{DBLP:conf/vldb/PereiraFJLS01,
-  author    = {João Pereira and
+  author    = {João L. M. Pereira and
                Françoise Fabret and
                Hans-Arno Jacobsen and
                François Llirbat and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {WebFilter: A High-throughput {XML-based} Publish and Subscribe System},
   booktitle = vldb,
   year      = 2001,
@@ -10426,7 +13131,7 @@
   author    = {Dieter Pfoser and
                Christian S. Jensen and
                Yannis Theodoridis},
-  title     = {Novel Approaches in Query Processing for Moving Object Trajectories},
+  title     = {Novel Approaches to the Indexing of Moving Object Trajectories},
   booktitle = vldb,
   year      = 2000,
   pages     = {395-406},
@@ -10701,12 +13406,12 @@
 }
 
 @inproceedings{DBLP:conf/vldb/PereiraFLS00,
-  author    = {João Pereira and
+  author    = {João L. M. Pereira and
                Françoise Fabret and
                François Llirbat and
                Radu Preotiuc-Pietro and
                Kenneth A. Ross and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {Publish/Subscribe on the Web at Extreme Speed},
   booktitle = vldb,
   year      = 2000,
@@ -11552,7 +14257,7 @@
 @inproceedings{DBLP:conf/vldb/CarinoOBS99,
   author    = {Felipe Cariño and
                William O'Connell and
-               John Burgess and
+               John G. Burgess and
                Joel H. Saltz},
   title     = {Active Storage Hierarchy, Database Systems and Applications - Socratic Exegesis},
   booktitle = vldb,
@@ -12064,7 +14769,7 @@
 
 @inproceedings{DBLP:conf/vldb/GarciaLL98,
   author    = {Yván J. García and
-               Mario A. Lopez and
+               Mario A. López and
                Scott T. Leutenegger},
   title     = {On Optimal Node Splitting for R-trees},
   booktitle = vldb,
@@ -13524,7 +16229,7 @@
   author    = {Christos Faloutsos and
                Yossi Matias and
                Abraham Silberschatz},
-  title     = {Modeling Skewed Distribution Using Multifractals and the `80-20' Law},
+  title     = {Modeling Skewed Distribution Using Multifractals and the '80-20' Law},
   booktitle = vldb,
   year      = 1996,
   pages     = {307-317},
@@ -13730,7 +16435,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/RamakrishnanR96,
-  author    = {R. Ramakrishnan and
+  author    = {Ramakrishnan Raman and
                D. Janaki Ram},
   title     = {Modeling Design Versions},
   booktitle = vldb,
@@ -13742,7 +16447,7 @@
   author    = {Roberta Cochrane and
                Hamid Pirahesh and
                Nelson Mendonça Mattos},
-  title     = {Integrating Triggers and Declarative Constraints in {SQL} Database Sytems},
+  title     = {Integrating Triggers and Declarative Constraints in {SQL} Database Systems},
   booktitle = vldb,
   year      = 1996,
   pages     = {567-578},
@@ -13885,7 +16590,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/Raghavan96,
-  author    = {Vijay V. Raghavan},
+  author    = {Vijay Raghavan},
   title     = {Loading the Data Warehouse Across Various Parallel Architectures},
   booktitle = vldb,
   year      = 1996,
@@ -14184,7 +16889,7 @@
 @inproceedings{DBLP:conf/vldb/BelussiF95,
   author    = {Alberto Belussi and
                Christos Faloutsos},
-  title     = {Estimating the Selectivity of Spatial Queries Using the `Correlation' Fractal Dimension},
+  title     = {Estimating the Selectivity of Spatial Queries Using the 'Correlation' Fractal Dimension},
   booktitle = vldb,
   year      = 1995,
   pages     = {299-310},
@@ -14969,7 +17674,7 @@
 
 @inproceedings{DBLP:conf/vldb/JohnsonS94,
   author    = {Theodore Johnson and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm},
   booktitle = vldb,
   year      = 1994,
@@ -15359,7 +18064,7 @@
                Allen Luniewski and
                Peter M. Schwarz and
                James W. Stamos and
-               Joachim Thomas II},
+               Joachim Thomas},
   title     = {The Rufus System: Information Organization for {Semi-Structured} Data},
   booktitle = vldb,
   year      = 1993,
@@ -15947,7 +18652,7 @@
 
 @inproceedings{DBLP:conf/vldb/AnsariNRS92,
   author    = {Mansoor Ansari and
-               Linda Ness and
+               Linda A. Ness and
                Marek Rusinkiewicz and
                Amit P. Sheth},
   title     = {Using Flexible Transactions to Support {Multi-System} Telecommunication Applications},
@@ -16161,7 +18866,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/ShashaR92,
-  author    = {Dennis Shasha and
+  author    = {Dennis E. Shasha and
                Steve Rozen},
   title     = {Database Tuning},
   booktitle = vldb,
@@ -16494,7 +19199,7 @@
 
 @inproceedings{DBLP:conf/vldb/Elmasri91,
   author    = {Ramez Elmasri},
-  title     = {Conecptual Modeling Using and Extended {E-R} Model},
+  title     = {Conceptual Modeling Using and Extended {E-R} Model},
   booktitle = vldb,
   year      = 1991,
   pages     = {67},
@@ -16503,7 +19208,7 @@
 @inproceedings{DBLP:conf/vldb/GuptaWJ91,
   author    = {Amarnath Gupta and
                Terry E. Weymouth and
-               Ramesh Jain},
+               Ramesh C. Jain},
   title     = {Semantic Queries with Pictures: The {VIMSYS} Model},
   booktitle = vldb,
   year      = 1991,
@@ -16550,7 +19255,7 @@
 
 @inproceedings{DBLP:conf/vldb/Markowitz91,
   author    = {Victor M. Markowitz},
-  title     = {Safe Referential Structures in Relational Databases},
+  title     = {Safe Referential Integrity Structures in Relational Databases},
   booktitle = vldb,
   year      = 1991,
   pages     = {123-132},
@@ -16821,7 +19526,7 @@
 
 @inproceedings{DBLP:conf/vldb/RozenS91,
   author    = {Steve Rozen and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {A Framework for Automating Physical Database Design},
   booktitle = vldb,
   year      = 1991,
@@ -17475,7 +20180,7 @@
 
 @inproceedings{DBLP:conf/vldb/WangS90,
   author    = {Jason Tsong-Li Wang and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {Query Processing for Distance Metrics},
   booktitle = vldb,
   year      = 1990,
@@ -17528,7 +20233,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/SeverancePW90,
-  author    = {Charles Severance and
+  author    = {Charles R. Severance and
                Sakti Pramanik and
                P. Wolberg},
   title     = {Distributed Linear Hashing and Parallel Projection in Main Memory Databases},
@@ -17882,7 +20587,7 @@
   author    = {Gunter Saake and
                Volker Linnemann and
                Peter Pistor and
-               Lutz Michael Wegner},
+               Lutz M. Wegner},
   title     = {Sorting, Grouping and Duplicate Elimination in the Advanced Information Management Prototype},
   booktitle = vldb,
   year      = 1989,
@@ -17994,7 +20699,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/AlashqurSL89,
-  author    = {A. M. Alashqur and
+  author    = {Abdallah M. Alashqur and
                Stanley Y. W. Su and
                Herman Lam},
   title     = {OQL: A Query Language for Manipulating Object-oriented Databases},
@@ -19788,7 +22493,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/Shasha85,
-  author    = {Dennis Shasha},
+  author    = {Dennis E. Shasha},
   title     = {{NetBook} - a Data Model to Support Knowledge Exploration},
   booktitle = vldb,
   year      = 1985,
@@ -20079,7 +22784,7 @@
                T. Li and
                S. Wan and
                Y. Wang and
-               M. Papa and
+               Maria Pia Papa and
                Elisa Bertino},
   title     = {Development of a Multimedia Information System for an Office Environment},
   booktitle = vldb,
@@ -21646,7 +24351,7 @@
 
 @inproceedings{DBLP:conf/vldb/Bubenko79,
   author    = {Janis A. Bubenko Jr.},
-  title     = {On the Role of `Understanding Models' in Conceptual Schema Design},
+  title     = {On the Role of 'Understanding Models' in Conceptual Schema Design},
   booktitle = vldb,
   year      = 1979,
   pages     = {129-139},
@@ -21997,7 +24702,7 @@
 }
 
 @inproceedings{DBLP:conf/vldb/Theys78,
-  author    = {M. Theys},
+  author    = {Michel Theys},
   title     = {Comments on the Paper "Data Base Design in Theory and Practice"},
   booktitle = vldb,
   year      = 1978,
@@ -22649,9 +25354,9 @@
 }
 
 @inproceedings{DBLP:conf/vldb/KamenyWCBGB78,
-  author    = {I. Kameny and
+  author    = {Iris Kameny and
                J. Weiner and
-               M. Crilley and
+               Marilyn Crilley and
                J. Burger and
                R. Gates and
                David Brill},
@@ -23361,7 +26066,7 @@
 @inproceedings{DBLP:conf/vldb/HouselM77,
   author    = {Barron C. Housel and
                Alan G. Merten},
-  title     = {A Note on the Survey: ``Future of Database Technology''},
+  title     = {A Note on the Survey: "Future of Database Technology"},
   booktitle = vldb,
   year      = 1977,
   pages     = {568-570},
@@ -23764,8 +26469,8 @@
 }
 
 @inproceedings{DBLP:conf/vldb/DatheDH75,
-  author    = {G. Dathe and
-               K.-H. Dreckmann and
+  author    = {Gert Dathe and
+               Karl-Heinz Dreckmann and
                G. Henselmann},
   title     = {Design Principles of a Data Base System for Unlimited Quantities of Data with Highly Complex Structures},
   booktitle = vldb,

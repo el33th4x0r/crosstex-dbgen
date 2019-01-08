@@ -1,5 +1,1234 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/hotos/OusterhoutCWRS17,
+  author    = {Kay Ousterhout and
+               Christopher Canel and
+               Max Wolffe and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Performance clarity as a first-class design principle},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/hotos/Swift17,
+  author    = {Michael M. Swift},
+  title     = {Towards O(1) Memory},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {7-11},
+}
+
+@inproceedings{DBLP:conf/hotos/MogulIW17,
+  author    = {Jeffrey C. Mogul and
+               Rebecca Isaacs and
+               Brent Welch},
+  title     = {Thinking about Availability in Large Service Infrastructures},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {12-17},
+}
+
+@inproceedings{DBLP:conf/hotos/LepersZLPGSLM17,
+  author    = {Baptiste Lepers and
+               Willy Zwaenepoel and
+               Jean-Pierre Lozi and
+               Nicolas Palix and
+               Redha Gouicem and
+               Julien Sopena and
+               Julia Lawall and
+               Gilles Muller},
+  title     = {Towards Proving Optimistic Multicore Schedulers},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {18-23},
+}
+
+@inproceedings{DBLP:conf/hotos/Leesatapornwongsa17,
+  author    = {Tanakorn Leesatapornwongsa and
+               Cesar A. Stuardo and
+               Riza O. Suminto and
+               Huan Ke and
+               Jeffrey F. Lukman and
+               Haryadi S. Gunawi},
+  title     = {Scalability Bugs: When 100-Node Testing is Not Enough},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {24-29},
+}
+
+@inproceedings{DBLP:conf/hotos/PandaSS17,
+  author    = {Aurojit Panda and
+               Mooly Sagiv and
+               Scott Shenker},
+  title     = {Verification in the Age of Microservices},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {30-36},
+}
+
+@inproceedings{DBLP:conf/hotos/AmitWT17,
+  author    = {Nadav Amit and
+               Michael Wei and
+               Cheng-Chun Tu},
+  title     = {Hypercallbacks: Decoupling Policy Decisions and Execution},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {37-41},
+}
+
+@inproceedings{DBLP:conf/hotos/ZhangZPT17,
+  author    = {Tao Zhang and
+               Aviad Zuck and
+               Donald E. Porter and
+               Dan Tsafrir},
+  title     = {Flash Drive Lifespan *is* a Problem},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {42-49},
+}
+
+@inproceedings{DBLP:conf/hotos/ZuckSPT17,
+  author    = {Aviad Zuck and
+               Udi Shriki and
+               Donald E. Porter and
+               Dan Tsafrir},
+  title     = {Preserving Hidden Data with an {Ever-Changing} Disk},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {50-55},
+}
+
+@inproceedings{DBLP:conf/hotos/BarbalaceIRB17,
+  author    = {Antonio Barbalace and
+               Anthony Iliopoulos and
+               Holm Rauchfuss and
+               Goetz Brasche},
+  title     = {It's Time to Think About an Operating System for Near Data Processing Architectures},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {56-61},
+}
+
+@inproceedings{DBLP:conf/hotos/JainTP17,
+  author    = {Bhushan Jain and
+               Chia-che Tsai and
+               Donald E. Porter},
+  title     = {A Clairvoyant Approach to Evaluating Software (In)Security},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {62-68},
+}
+
+@inproceedings{DBLP:conf/hotos/Silberstein17,
+  author    = {Mark Silberstein},
+  title     = {OmniX: an accelerator-centric {OS} for omni-programmable systems},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {69-75},
+}
+
+@inproceedings{DBLP:conf/hotos/Corrigan-GibbsW17,
+  author    = {Henry Corrigan-Gibbs and
+               David J. Wu and
+               Dan Boneh},
+  title     = {Quantum Operating Systems},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {76-81},
+}
+
+@inproceedings{DBLP:conf/hotos/KimOL17,
+  author    = {Beom Heyn Kim and
+               Sukwon Oh and
+               David Lie},
+  title     = {Consistency Oracles: Towards an Interactive and Flexible Consistency Model Specification},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {82-87},
+}
+
+@inproceedings{DBLP:conf/hotos/NguyenYC17,
+  author    = {Linh Nguyen and
+               Peifeng Yu and
+               Mosharaf Chowdhury},
+  title     = {No!: Not Another Deep Learning Framework},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {88-93},
+}
+
+@inproceedings{DBLP:conf/hotos/LieM17,
+  author    = {David Lie and
+               Petros Maniatis},
+  title     = {Glimmers: Resolving the Privacy/Trust Quagmire},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {94-99},
+}
+
+@inproceedings{DBLP:conf/hotos/HuKCW17,
+  author    = {Yige Hu and
+               Youngjin Kwon and
+               Vijay Chidambaram and
+               Emmett Witchel},
+  title     = {From Crash Consistency to Transactions},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {100-105},
+}
+
+@inproceedings{DBLP:conf/hotos/NishiharaMWTPSL17,
+  author    = {Robert Nishihara and
+               Philipp Moritz and
+               Stephanie Wang and
+               Alexey Tumanov and
+               William Paul and
+               Johann Schleier-Smith and
+               Richard Liaw and
+               Mehrdad Niknami and
+               Michael I. Jordan and
+               Ion Stoica},
+  title     = {{Real-Time} Machine Learning: The Missing Pieces},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {106-110},
+}
+
+@inproceedings{DBLP:conf/hotos/LeuschnerKSBHK17,
+  author    = {Linda Leuschner and
+               Martin Küttler and
+               Tobias Stumpf and
+               Christel Baier and
+               Hermann Härtig and
+               Sascha Klüppelholz},
+  title     = {Towards Automated Configuration of Systems with {Non-Functional} Constraints},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {111-117},
+}
+
+@inproceedings{DBLP:conf/hotos/AchermannDFHMNR17,
+  author    = {Reto Achermann and
+               Chris I. Dalton and
+               Paolo Faraboschi and
+               Moritz Hoffmann and
+               Dejan S. Milojicic and
+               Geoffrey Ndu and
+               Alex Richardson and
+               Timothy Roscoe and
+               Adrian L. Shaw and
+               Robert N. M. Watson},
+  title     = {Separating Translation from Protection in Address Spaces with Dynamic Remapping},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {118-124},
+}
+
+@inproceedings{DBLP:conf/hotos/ZhaoRLSYZ17,
+  author    = {Xu Zhao and
+               Kirk Rodrigues and
+               Yu Luo and
+               Michael Stumm and
+               Ding Yuan and
+               Yuanyuan Zhou},
+  title     = {The Game of Twenty Questions: Do You Know Where to Log?},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {125-131},
+}
+
+@inproceedings{DBLP:conf/hotos/Baumann17,
+  author    = {Andrew Baumann},
+  title     = {Hardware is the new Software},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {132-137},
+}
+
+@inproceedings{DBLP:conf/hotos/MaasAK17,
+  author    = {Martin Maas and
+               Krste Asanovic and
+               John Kubiatowicz},
+  title     = {Return of the Runtimes: Rethinking the Language Runtime System for the Cloud 3.0 Era},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {138-143},
+}
+
+@inproceedings{DBLP:conf/hotos/TotoniDR17,
+  author    = {Ehsan Totoni and
+               Subramanya R. Dulloor and
+               Amitabha Roy},
+  title     = {A Case Against Tiny Tasks in Iterative Analytics},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {144-149},
+}
+
+@inproceedings{DBLP:conf/hotos/HuangGZLDCY17,
+  author    = {Peng Huang and
+               Chuanxiong Guo and
+               Lidong Zhou and
+               Jacob R. Lorch and
+               Yingnong Dang and
+               Murali Chintalapati and
+               Randolph Yao},
+  title     = {Gray Failure: The Achilles' Heel of {Cloud-Scale} Systems},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {150-155},
+}
+
+@inproceedings{DBLP:conf/hotos/Balasubramanian17,
+  author    = {Abhiram Balasubramanian and
+               Marek S. Baranowski and
+               Anton Burtsev and
+               Aurojit Panda and
+               Zvonimir Rakamaric and
+               Leonid Ryzhyk},
+  title     = {System Programming in Rust: Beyond Safety},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {156-161},
+}
+
+@inproceedings{DBLP:conf/hotos/GrubbsRS17,
+  author    = {Paul Grubbs and
+               Thomas Ristenpart and
+               Vitaly Shmatikov},
+  title     = {Why Your Encrypted Database Is Not Secure},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {162-168},
+}
+
+@inproceedings{DBLP:conf/hotos/KollerW17,
+  author    = {Ricardo Koller and
+               Dan Williams},
+  title     = {Will Serverless End the Dominance of Linux in the Cloud?},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {169-173},
+}
+
+@inproceedings{DBLP:conf/hotos/OlivierKR17,
+  author    = {Pierre Olivier and
+               Sang-Hoon Kim and
+               Binoy Ravindran},
+  title     = {{OS} Support for Thread Migration and Distribution in the Fully Heterogeneous Datacenter},
+  booktitle = hotos,
+  year      = 2017,
+  pages     = {174-179},
+}
+
+@inproceedings{DBLP:conf/hotos/0001DCF15,
+  author    = {Nuno Santos and
+               Nuno O. Duarte and
+               Miguel B. Costa and
+               Paulo Ferreira},
+  title     = {A Case for Enforcing {App-Specific} Constraints to Mobile Devices by Using Trust Leases},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/AjouxBKLV15,
+  author    = {Phillipe Ajoux and
+               Nathan Bronson and
+               Sanjeev Kumar and
+               Wyatt Lloyd and
+               Kaushik Veeraraghavan},
+  title     = {Challenges to Adopting Stronger Consistency at Scale},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/AlagappanCPAA15,
+  author    = {Ramnatthan Alagappan and
+               Vijay Chidambaram and
+               Thanumalayan Sankaranarayana Pillai and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Beyond Storage APIs: Provable Semantics for Storage Stacks},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/CastroPRSG15,
+  author    = {Ignacio Castro and
+               Aurojit Panda and
+               Barath Raghavan and
+               Scott Shenker and
+               Sergey Gorinsky},
+  title     = {Route Bazaar: Automatic Interdomain Contract Negotiation},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/ChajedGHKMMZ15,
+  author    = {Tej Chajed and
+               Jon Gjengset and
+               Jelle van den Hooff and
+               M. Frans Kaashoek and
+               James Mickens and
+               Robert Tappan Morris and
+               Nickolai Zeldovich},
+  title     = {Amber: Decoupling User Data from Web Applications},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/ChenHADMS15,
+  author    = {Kevin Zhijie Chen and
+               Warren He and
+               Devdatta Akhawe and
+               Vijay D'Silva and
+               Prateek Mittal and
+               Dawn Song},
+  title     = {ASPIRE: Iterative Specification Synthesis for Security},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/ChenXHP15,
+  author    = {Ang Chen and
+               Hanjun Xiao and
+               Andreas Haeberlen and
+               Linh Thi Xuan Phan},
+  title     = {Fault Tolerance and the {Five-Second} Rule},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/ChenZCKKZ15,
+  author    = {Haogang Chen and
+               Daniel Ziegler and
+               Adam Chlipala and
+               M. Frans Kaashoek and
+               Eddie Kohler and
+               Nickolai Zeldovich},
+  title     = {Specifying Crash Safety for Storage Systems},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/Corrigan-GibbsJ15,
+  author    = {Henry Corrigan-Gibbs and
+               Suman Jana},
+  title     = {Recommendations for Randomness in the Operating System, or How to Keep Evil Children out of Your Pool and Other Random Facts},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/DwyerF15,
+  author    = {Tyler Dwyer and
+               Alexandra Fedorova},
+  title     = {On Instruction Organization},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/FaraboschiKMM15,
+  author    = {Paolo Faraboschi and
+               Kimberly Keeton and
+               Tim Marsland and
+               Dejan S. Milojicic},
+  title     = {Beyond Processor-centric Operating Systems},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/FernandesRN15,
+  author    = {Earlence Fernandes and
+               Oriana Riva and
+               Suman Nath},
+  title     = {My {OS} Ought to Know Me Better: In-app Behavioural Analytics as an {OS} Service},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/GerberZAKRM15,
+  author    = {Simon Gerber and
+               Gerd Zellweger and
+               Reto Achermann and
+               Kornilios Kourtis and
+               Timothy Roscoe and
+               Dejan S. Milojicic},
+  title     = {Not Your Parents' Physical Address Space},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/GogGSVVRCMHI15,
+  author    = {Ionel Gog and
+               Jana Giceva and
+               Malte Schwarzkopf and
+               Kapil Vaswani and
+               Dimitrios Vytiniotis and
+               Ganesan Ramalingam and
+               Manuel Costa and
+               Derek Gordon Murray and
+               Steven Hand and
+               Michael Isard},
+  title     = {Broom: Sweeping Out Garbage Collection from Big Data Systems},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/HeuleRRS15,
+  author    = {Stefan Heule and
+               Devon Rifkin and
+               Alejandro Russo and
+               Deian Stefan},
+  title     = {The Most Dangerous Code in the Browser},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/HoeflerRR15,
+  author    = {Torsten Hoefler and
+               Robert B. Ross and
+               Timothy Roscoe},
+  title     = {Distributing the Data Plane for Remote Storage Access},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/JeongLLYCC15,
+  author    = {Joo Seong Jeong and
+               Woo-Yeon Lee and
+               Yunseong Lee and
+               Youngseok Yang and
+               Brian Cho and
+               Byung-Gon Chun},
+  title     = {Elastic Memory: Bring Elasticity Back to {In-Memory} Big Data Analytics},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/KasikciPPSMC15,
+  author    = {Baris Kasikci and
+               Cristiano Pereira and
+               Gilles Pokam and
+               Benjamin Schubert and
+               Madanlal Musuvathi and
+               George Candea},
+  title     = {Failure Sketches: A Better Way to Debug},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/KaufmannPAK15,
+  author    = {Antoine Kaufmann and
+               Simon Peter and
+               Thomas E. Anderson and
+               Arvind Krishnamurthy},
+  title     = {FlexNIC: Rethinking Network {DMA}},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/Maas0AK15,
+  author    = {Martin Maas and
+               Tim Harris and
+               Krste Asanovic and
+               John Kubiatowicz},
+  title     = {Trash Day: Coordinating Garbage Collection in Distributed Systems},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/McSherryIM15,
+  author    = {Frank McSherry and
+               Michael Isard and
+               Derek Gordon Murray},
+  title     = {Scalability! But at what COST?},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/MogulK15,
+  author    = {Jeffrey C. Mogul and
+               Ramana Rao Kompella},
+  title     = {Inferring the Network Latency Requirements of Cloud Tenants},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/PauporeFPRO15,
+  author    = {Justin Paupore and
+               Earlence Fernandes and
+               Atul Prakash and
+               Sankardas Roy and
+               Xinming Ou},
+  title     = {Practical Always-on Taint Tracking on Mobile Devices},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/SinghSPKM15,
+  author    = {Rayman Preet Singh and
+               Chenguang Shen and
+               Amar Phanishayee and
+               Aman Kansal and
+               Ratul Mahajan},
+  title     = {A Case for Ending Monolithic Apps for Connected Devices},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/Stanley-Marbell15,
+  author    = {Phillip Stanley-Marbell and
+               Martin Rinard},
+  title     = {Lax: Driver Interfaces for Approximate Sensor Device Access},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/SunPOB15,
+  author    = {Ruimin Sun and
+               Donald E. Porter and
+               Daniela A. S. de Oliveira and
+               Matt Bishop},
+  title     = {The Case for Less Predictable Operating System Behavior},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/VasilakisKS15,
+  author    = {Nikos Vasilakis and
+               Ben Karel and
+               Jonathan M. Smith},
+  title     = {From Lone Dwarfs to Giant Superclusters: Rethinking Operating System Abstractions for the Cloud},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/WangMGIBKMCTTCD15,
+  author    = {Helen J. Wang and
+               Alexander Moshchuk and
+               Michael Gamon and
+               Shamsi T. Iqbal and
+               Eli T. Brown and
+               Ashish Kapoor and
+               Christopher Meek and
+               Eric Y. Chen and
+               Yuan Tian and
+               Jaime Teevan and
+               Mary Czerwinski and
+               Susan T. Dumais},
+  title     = {The Activity Platform},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/ZhuZWSSW15,
+  author    = {Qi Zhu and
+               Meng Zhu and
+               Bo Wu and
+               Xipeng Shen and
+               Kai Shen and
+               Zhiying Wang},
+  title     = {Software Engagement with Sleeping {CPUs}},
+  booktitle = hotos,
+  year      = 2015,
+}
+
+@inproceedings{DBLP:conf/hotos/AbadiBMWX13,
+  author    = {Martín Abadi and
+               Andrew Birrell and
+               Ilya Mironov and
+               Ted Wobber and
+               Yinglian Xie},
+  title     = {Global Authentication in an Untrustworthy World},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/BailisFGHS13,
+  author    = {Peter Bailis and
+               Alan Fekete and
+               Ali Ghodsi and
+               Joseph M. Hellerstein and
+               Ion Stoica},
+  title     = {HAT, Not CAP: Towards Highly Available Transactions},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/BhatiaBP13,
+  author    = {Sapan Bhatia and
+               Andy C. Bavier and
+               Larry L. Peterson},
+  title     = {Wanted: Systems Abstractions for {SDN}},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/BudzynowskiH13,
+  author    = {Aleksander Budzynowski and
+               Gernot Heiser},
+  title     = {The von Neumann Architecture Is Due for Retirement},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/BugnionCC13,
+  author    = {Edouard Bugnion and
+               Vitaly Chipounov and
+               George Candea},
+  title     = {Lightweight Snapshots and System-level Backtracking},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/ChanLC13,
+  author    = {Michael Chan and
+               Heiner Litz and
+               David R. Cheriton},
+  title     = {Rethinking Network Stack Design with Memory Snapshots},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/CiparHKLGGKX13,
+  author    = {James Cipar and
+               Qirong Ho and
+               Jin Kyu Kim and
+               Seunghak Lee and
+               Gregory R. Ganger and
+               Garth Gibson and
+               Kimberly Keeton and
+               Eric P. Xing},
+  title     = {Solving the Straggler Problem with Bounded Staleness},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/DAntoniDJKLMMORSVW13,
+  author    = {Loris D'Antoni and
+               Alan M. Dunn and
+               Suman Jana and
+               Tadayoshi Kohno and
+               Benjamin Livshits and
+               David Molnar and
+               Alexander Moshchuk and
+               Eyal Ofek and
+               Franziska Roesner and
+               T. Scott Saponas and
+               Margus Veanes and
+               Helen J. Wang},
+  title     = {Operating System Support for Augmented Reality Applications},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/FanZLKA13,
+  author    = {Bin Fan and
+               Dong Zhou and
+               Hyeontaek Lim and
+               Michael Kaminsky and
+               David G. Andersen},
+  title     = {When Cycles Are Cheap, Some Tables Can Be Huge},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/GuoMYZZLBMZZ13,
+  author    = {Zhenyu Guo and
+               Sean McDirmid and
+               Mao Yang and
+               Li Zhuang and
+               Pu Zhang and
+               Yingwei Luo and
+               Tom Bergan and
+               Madan Musuvathi and
+               Zheng Zhang and
+               Lidong Zhou},
+  title     = {Failure Recovery: When the Cure Is Worse Than the Disease},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/GuptaAHK13,
+  author    = {Amit Gupta and
+               Ehab Ababneh and
+               Richard Han and
+               Eric Keller},
+  title     = {Towards Elastic Operating Systems},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/HanP13,
+  author    = {Seungyeop Han and
+               Matthai Philipose},
+  title     = {The Case for Onloading Continuous {High-Datarate} Perception to the Phone},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/HanR13,
+  author    = {Sangjin Han and
+               Sylvia Ratnasamy},
+  title     = {{Large-Scale} Computation Not at the Cost of Expressiveness},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/JannenTP13,
+  author    = {William Jannen and
+               Chia-che Tsai and
+               Donald E. Porter},
+  title     = {Virtualize Storage, Not Disks},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/KansalUG13,
+  author    = {Aman Kansal and
+               Bhuvan Urgaonkar and
+               Sriram Govindan},
+  title     = {Using Dark Fiber to Displace Diesel Generators},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/MogulMST13,
+  author    = {Jeffrey C. Mogul and
+               Jayaram Mudigonda and
+               Jose Renato Santos and
+               Yoshio Turner},
+  title     = {The {NIC} Is the Hypervisor: {Bare-Metal} Guests in {IaaS} Clouds},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/OusterhoutPRVXRSS13,
+  author    = {Kay Ousterhout and
+               Aurojit Panda and
+               Josh Rosen and
+               Shivaram Venkataraman and
+               Reynold Xin and
+               Sylvia Ratnasamy and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {The Case for Tiny Tasks in Compute Clusters},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/PeterA13,
+  author    = {Simon Peter and
+               Thomas E. Anderson},
+  title     = {Arrakis: A Case for the End of the Empire},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/RabkinASPF13,
+  author    = {Ariel Rabkin and
+               Matvey Arye and
+               Siddhartha Sen and
+               Vivek S. Pai and
+               Michael J. Freedman},
+  title     = {Making Every Bit Count in {Wide-Area} Analytics},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/RajagopalanWJW13,
+  author    = {Shriram Rajagopalan and
+               Dan Williams and
+               Hani Jamjoom and
+               Andrew Warfield},
+  title     = {Escape Capsule: Explicit State Is Robust and Scalable},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/ShindeKRK13,
+  author    = {Pravin Shinde and
+               Antoine Kaufmann and
+               Timothy Roscoe and
+               Stefan Kaestle},
+  title     = {We Need to Talk About {NICs}},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/StutsmanO13,
+  author    = {Ryan Stutsman and
+               John K. Ousterhout},
+  title     = {Toward Common Patterns for Distributed, Concurrent, {Fault-Tolerant} Code},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/TrivediSMPFG13,
+  author    = {Animesh Trivedi and
+               Patrick Stuedi and
+               Bernard Metzler and
+               Roman Pletka and
+               Blake G. Fitch and
+               Thomas R. Gross},
+  title     = {Unified {High-Performance} I/O: One Stack to Rule Them All},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/WagnerKC13,
+  author    = {Jonas Wagner and
+               Volodymyr Kuznetsov and
+               George Candea},
+  title     = {-OVERIFY: Optimizing Programs for Fast Verification},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/YangSMMMK13,
+  author    = {Edward Z. Yang and
+               Deian Stefan and
+               John C. Mitchell and
+               David Mazières and
+               Petr Marchenko and
+               Brad Karp},
+  title     = {Toward Principled Browser Security},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/ZamfirKKBC13,
+  author    = {Cristian Zamfir and
+               Baris Kasikci and
+               Johannes Kinder and
+               Edouard Bugnion and
+               George Candea},
+  title     = {Automated Debugging for Arbitrarily Long Executions},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/ZhangGL13,
+  author    = {Pengyu Zhang and
+               Deepak Ganesan and
+               Boyan Lu},
+  title     = {QuarkOS: Pushing the Operating Limits of {Micro-Powered} Sensors},
+  booktitle = hotos,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/hotos/AckleyC11,
+  author    = {David H. Ackley and
+               Daniel C. Cannon},
+  title     = {Pursue Robust Indefinite Scalability},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/AkoushSRMH11,
+  author    = {Sherif Akoush and
+               Ripduman Sohan and
+               Andrew C. Rice and
+               Andrew W. Moore and
+               Andy Hopper},
+  title     = {Free Lunch: Exploiting Renewable Energy for Computing},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/AnanthanarayananGSS11,
+  author    = {Ganesh Ananthanarayanan and
+               Ali Ghodsi and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {{Disk-Locality} in Datacenter Computing Considered Irrelevant},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/BaileyCGL11,
+  author    = {Katelin Bailey and
+               Luis Ceze and
+               Steven D. Gribble and
+               Henry M. Levy},
+  title     = {Operating System Implications of Fast, Cheap, {Non-Volatile} Memory},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/BhattacharyaG11,
+  author    = {Suparna Bhattacharya and
+               Kanchi Gopinath},
+  title     = {Virtually Cool Ternary Content Addressable Memory},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/Blumberg11,
+  author    = {Andrew J. Blumberg},
+  title     = {Toward Practical and Unconditional Verification of Remote Computations},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/BridgesSL11,
+  author    = {Patrick G. Bridges and
+               Donour Sizemore and
+               Scott Levy},
+  title     = {Exploiting {MISD} Performance Opportunities in Multi-core Systems},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/ChallenH11,
+  author    = {Geoffrey Challen and
+               Mark Hempstead},
+  title     = {The Case for {Power-Agile} Computing},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/ChuKLZ11,
+  author    = {David Chu and
+               Aman Kansal and
+               Jie Liu and
+               Feng Zhao},
+  title     = {Mobile Apps: It's Time to Move Up to {CondOS}},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/CozzieFK11,
+  author    = {Anthony Cozzie and
+               Murph Finnicum and
+               Samuel T. King},
+  title     = {Macho: Programming with Man Pages},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/DietzP11,
+  author    = {Michael Dietz and
+               Charalampos Papamanthou},
+  title     = {{MOMMIE} Knows Best: Systematic Optimizations for Verifiable Distributed Algorithms},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/GoldszmidtI11,
+  author    = {Moisés Goldszmidt and
+               Rebecca Isaacs},
+  title     = {More Intervention Now!},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/HeiserRTB11,
+  author    = {Gernot Heiser and
+               Leonid Ryzhyk and
+               Michael von Tessin and
+               Aleksander Budzynowski},
+  title     = {What If You Could Actually Trust Your Kernel?},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/HollandS11,
+  author    = {David A. Holland and
+               Margo I. Seltzer},
+  title     = {Multicore OSes: Looking Forward from 1991, er, 2011},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/IngramPSW11,
+  author    = {Lon Ingram and
+               Ivaylo Popov and
+               Srinath T. V. Setty and
+               Michael Walfish},
+  title     = {Repair from a Chair: Computer Repair as an Untrusted Cloud Service},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/KannanC11,
+  author    = {Jayanthkumar Kannan and
+               Byung-Gon Chun},
+  title     = {Making Programs Forget: Enforcing Lifetime for Sensitive Data},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/KePXYWY11,
+  author    = {Qifa Ke and
+               Vijayan Prabhakaran and
+               Yinglian Xie and
+               Yuan Yu and
+               Jingyue Wu and
+               Junfeng Yang},
+  title     = {Optimizing Data Partitioning for {Data-Parallel} Computing},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/KleinMGSW11,
+  author    = {Gerwin Klein and
+               Toby C. Murray and
+               Peter Gammie and
+               Thomas Sewell and
+               Simon Winwood},
+  title     = {Provable Security: How Feasible Is It?},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/KooburatS11,
+  author    = {Thawan Kooburat and
+               Michael M. Swift},
+  title     = {The Best of Both Worlds with {On-Demand} Virtualization},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/KrevatTG11,
+  author    = {Elie Krevat and
+               Joseph Tucek and
+               Gregory R. Ganger},
+  title     = {Disks Are Like Snowflakes: No Two Are Alike},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/KuzAS11,
+  author    = {Ihor Kuz and
+               Zachary R. Anderson and
+               Pravin Shinde},
+  title     = {Multicore {OS} Benchmarks: We Can Do Better},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/LaadanTVBDN11,
+  author    = {Oren Laadan and
+               Chia-che Tsai and
+               Nicolas Viennot and
+               Chris Blinn and
+               Peter Senyao Du and
+               Jason Nieh},
+  title     = {Finding Concurrency Errors in Sequential Code - OS-level, In-vivo Model Checking of Process Races},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/ManiatisAFSS11,
+  author    = {Petros Maniatis and
+               Devdatta Akhawe and
+               Kevin R. Fall and
+               Elaine Shi and
+               Dawn Song},
+  title     = {Do You Know Where Your Data Are? Secure Data Capsules for Deployable Data Protection},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/MogulBRS11,
+  author    = {Jeffrey C. Mogul and
+               Andrew Baumann and
+               Timothy Roscoe and
+               Livio Soares},
+  title     = {Mind the Gap: Reconnecting Architecture and {OS} Research},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/MurrayH11,
+  author    = {Derek Gordon Murray and
+               Steven Hand},
+  title     = {{Non-Deterministic} Parallelism Considered Useful},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/PaluskaPW11,
+  author    = {Justin Mazzola Paluska and
+               Hubert Pham and
+               Steve Ward},
+  title     = {Structuring the Unstructured Middle with Chunk Computing},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/RossbachCW11,
+  author    = {Christopher J. Rossbach and
+               Jon Currey and
+               Emmett Witchel},
+  title     = {Operating Systems Must Support {GPU} Abstractions},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/RumbleOSRO11,
+  author    = {Stephen M. Rumble and
+               Diego Ongaro and
+               Ryan Stutsman and
+               Mendel Rosenblum and
+               John K. Ousterhout},
+  title     = {It's Time for Low Latency},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/Smowton11,
+  author    = {Christopher Smowton},
+  title     = {make world},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/TarasovBZS11,
+  author    = {Vasily Tarasov and
+               Saumitra Bhanage and
+               Erez Zadok and
+               Margo Seltzer},
+  title     = {Benchmarking File System Benchmarking: It *IS* Rocket Science},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/VasudevanAK11,
+  author    = {Vijay Vasudevan and
+               David G. Andersen and
+               Michael Kaminsky},
+  title     = {The Case for VOS: The Vector Operating System},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/WetherallCGHHJSW11,
+  author    = {David Wetherall and
+               David R. Choffnes and
+               Ben Greenstein and
+               Seungyeop Han and
+               Peter Hornyack and
+               Jaeyeon Jung and
+               Stuart E. Schechter and
+               Xiao Sophia Wang},
+  title     = {Privacy Revelations for Web and Mobile Apps},
+  booktitle = hotos,
+  year      = 2011,
+}
+
+@inproceedings{DBLP:conf/hotos/ZamfirAC11,
+  author    = {Cristian Zamfir and
+               Gautam Altekar and
+               George Candea},
+  title     = {Debug Determinism: The Sweet Spot for {Replay-Based} Debugging},
+  booktitle = hotos,
+  year      = 2011,
+}
+
 @inproceedings{DBLP:conf/hotos/AguileraW09,
   author    = {Marcos Kawazoe Aguilera and
                Michael Walfish},
@@ -47,7 +1276,7 @@
 
 @inproceedings{DBLP:conf/hotos/Boyd-WickizerMK09,
   author    = {Silas Boyd-Wickizer and
-               Robert Morris and
+               Robert Tappan Morris and
                M. Frans Kaashoek},
   title     = {Reinventing Scheduling for Multicore Systems},
   booktitle = hotos,
@@ -605,7 +1834,7 @@
                M. Frans Kaashoek and
                Eddie Kohler and
                David Mazières and
-               Robert Morris and
+               Robert Tappan Morris and
                Michelle Osborne and
                Steve Vandebogart and
                David Ziegler},
@@ -824,7 +2053,7 @@
 @inproceedings{DBLP:conf/hotos/ChenKAFB03,
   author    = {Mike Y. Chen and
                Emre Kiciman and
-               Anthony Accardi and
+               Anthony J. Accardi and
                Armando Fox and
                Eric A. Brewer},
   title     = {Using Runtime Paths for Macroanalysis},
@@ -917,7 +2146,7 @@
 
 @inproceedings{DBLP:conf/hotos/ChenM03,
   author    = {Benjie Chen and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Certifying Program Execution with Secure Processors},
   booktitle = hotos,
   year      = 2003,
@@ -1137,7 +2366,7 @@
                Emma Brunskill and
                M. Frans Kaashoek and
                David R. Karger and
-               Robert Morris and
+               Robert Tappan Morris and
                Ion Stoica and
                Hari Balakrishnan},
   title     = {Building peer-to-peer systems with Chord, a distributed lookup service},
@@ -1190,7 +2419,7 @@
 
 @inproceedings{DBLP:conf/hotos/MazieresS01,
   author    = {David Mazières and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {Don't Trust your File Server},
   booktitle = hotos,
   year      = 2001,
@@ -1255,7 +2484,7 @@
   author    = {David G. Andersen and
                Hari Balakrishnan and
                M. Frans Kaashoek and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {The Case for Resilient Overlay Networks},
   booktitle = hotos,
   year      = 2001,
@@ -1285,7 +2514,7 @@
 @inproceedings{DBLP:conf/hotos/BustamanteEWSP01,
   author    = {Fabián E. Bustamante and
                Greg Eisenhauer and
-               Patrick Widener and
+               Patrick M. Widener and
                Karsten Schwan and
                Calton Pu},
   title     = {Active {Streams-An} Approach to Adaptive Distributed Systems},
@@ -1618,7 +2847,7 @@
   title     = {The Box: A Replacement for Files},
   booktitle = hotos,
   year      = 1999,
-  pages     = {24},
+  pages     = {24-31},
 }
 
 @inproceedings{DBLP:conf/hotos/BrownOKTKP99,
@@ -1651,7 +2880,7 @@
   title     = {Conductor: A Framework for Distributed Adaptation},
   booktitle = hotos,
   year      = 1999,
-  pages     = {44},
+  pages     = {44-51},
 }
 
 @inproceedings{DBLP:conf/hotos/RahulBS99,
@@ -1710,7 +2939,7 @@
   title     = {A Case for Buffer Servers},
   booktitle = hotos,
   year      = 1999,
-  pages     = {82},
+  pages     = {82-89},
 }
 
 @inproceedings{DBLP:conf/hotos/Mogul99,
@@ -1738,7 +2967,7 @@
   title     = {The Case for {Application-Specific} Benchmarking},
   booktitle = hotos,
   year      = 1999,
-  pages     = {102},
+  pages     = {102-109},
 }
 
 @inproceedings{DBLP:conf/hotos/ChiuehVP99,
@@ -1766,7 +2995,7 @@
   title     = {Hey, You Got Your Compiler in My Operating System!},
   booktitle = hotos,
   year      = 1999,
-  pages     = {122},
+  pages     = {122-129},
 }
 
 @inproceedings{DBLP:conf/hotos/Ingram99,
@@ -1817,7 +3046,7 @@
   title     = {How To Schedule Unlimited Memory Pinning of Untrusted Processes Or Provisional Ideas about {Service-Neutrality}},
   booktitle = hotos,
   year      = 1999,
-  pages     = {153},
+  pages     = {153-161},
 }
 
 @inproceedings{DBLP:conf/hotos/Ellis99,
@@ -1874,7 +3103,7 @@
   title     = {Flexible Access Control using {IPC} Redirection},
   booktitle = hotos,
   year      = 1999,
-  pages     = {191},
+  pages     = {191-196},
 }
 
 @inproceedings{DBLP:conf/hotos/Rawson97,
@@ -2100,4 +3329,576 @@
   booktitle = hotos,
   year      = 1997,
   pages     = {135-139},
+}
+
+@inproceedings{DBLP:conf/hotos/Nilsen95,
+  author    = {Kelvin D. Nilsen},
+  title     = {Real-time is no longer a small specialized niche},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {2-7},
+}
+
+@inproceedings{DBLP:conf/hotos/Stankovic95,
+  author    = {John A. Stankovic},
+  title     = {Continuous and multimedia {OS} support in real-time control applications},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {8-11},
+}
+
+@inproceedings{DBLP:conf/hotos/JonesLDB95,
+  author    = {Michael B. Jones and
+               Paul J. Leach and
+               Richard Draves and
+               Joseph S. Barrera III},
+  title     = {Modular real-time resource management in the Rialto operating system},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {12-17},
+}
+
+@inproceedings{DBLP:conf/hotos/KatcherKS95,
+  author    = {Daniel I. Katcher and
+               Kevin A. Kettler and
+               Jay K. Strosnider},
+  title     = {Real-time operating systems for multimedia processing},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {18-23},
+}
+
+@inproceedings{DBLP:conf/hotos/Watson95,
+  author    = {Terri Watson},
+  title     = {Effective wireless communication through application partitioning},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {24-27},
+}
+
+@inproceedings{DBLP:conf/hotos/ZenelD95,
+  author    = {Bruce Zenel and
+               Dan Duchamp},
+  title     = {Intelligent communication filtering for limited bandwidth environments},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {28-34},
+}
+
+@inproceedings{DBLP:conf/hotos/AmirBSK95,
+  author    = {Elan Amir and
+               Hari Balakrishnan and
+               Srinivasan Seshan and
+               Randy H. Katz},
+  title     = {Efficient {TCP} over networks with wireless links},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {35-41},
+}
+
+@inproceedings{DBLP:conf/hotos/JohansenRS95,
+  author    = {Dag Johansen and
+               Robbert van Renesse and
+               Fred B. Schneider},
+  title     = {Operating system support for mobile agents},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {42-45},
+}
+
+@inproceedings{DBLP:conf/hotos/DevarakondaMK95,
+  author    = {Murthy V. Devarakonda and
+               Arup Mukherjee and
+               Bill Kish},
+  title     = {Meta-scripts as a mechanism for complex web services},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {46-50},
+}
+
+@inproceedings{DBLP:conf/hotos/GwertzmanS95,
+  author    = {James Gwertzman and
+               Margo Seltzer},
+  title     = {The case for geographical push-caching},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {51-57},
+}
+
+@inproceedings{DBLP:conf/hotos/MontzMOPP95,
+  author    = {Allen Brady Montz and
+               David Mosberger and
+               Sean W. O'Malley and
+               Larry L. Peterson and
+               Todd A. Proebsting},
+  title     = {Scout: a communications-oriented operating system},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {58-61},
+}
+
+@inproceedings{DBLP:conf/hotos/BershadSPBFS95,
+  author    = {Brian N. Bershad and
+               Stefan Savage and
+               Przemyslaw Pardyak and
+               David Becker and
+               Marc E. Fiuczynski and
+               Emin Gün Sirer},
+  title     = {Protection is a software issue},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {62-65},
+}
+
+@inproceedings{DBLP:conf/hotos/LindstromRD95,
+  author    = {Anders Lindström and
+               John Rosenberg and
+               Alan Dearle},
+  title     = {The grand unified theory of address spaces},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {66-71},
+}
+
+@inproceedings{DBLP:conf/hotos/EnglerGK95,
+  author    = {Dawson R. Engler and
+               Sandeep K. Gupta and
+               M. Frans Kaashoek},
+  title     = {AVM: application-level virtual memory},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {72-77},
+}
+
+@inproceedings{DBLP:conf/hotos/EnglerK95,
+  author    = {Dawson R. Engler and
+               M. Frans Kaashoek},
+  title     = {Exterminate all operating system abstractions},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {78-85},
+}
+
+@inproceedings{DBLP:conf/hotos/DoornHT95,
+  author    = {Leendert van Doorn and
+               Philip Homburg and
+               Andrew S. Tanenbaum},
+  title     = {Paramecium: an extensible object-based kernel},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {86-89},
+}
+
+@inproceedings{DBLP:conf/hotos/CampbellT95,
+  author    = {Roy H. Campbell and
+               See-Mong Tan},
+  title     = {/spl mu/Choices: an object-oriented multimedia operating system},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {90-94},
+}
+
+@inproceedings{DBLP:conf/hotos/LeaYI95,
+  author    = {Rodger Lea and
+               Yasuhiko Yokote and
+               Jun-ichiro Itoh},
+  title     = {Adaptive operating system design using reflection},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {95-100},
+}
+
+@inproceedings{DBLP:conf/hotos/Orr95,
+  author    = {Douglas B. Orr},
+  title     = {Application of meta-protocols to improve {OS} services},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {101-107},
+}
+
+@inproceedings{DBLP:conf/hotos/JuulF95,
+  author    = {Niels Christian Juul and
+               Brett D. Fleisch},
+  title     = {A memory approach to consistent, reliable distributed shared memory},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {108-112},
+}
+
+@inproceedings{DBLP:conf/hotos/CortesDH95,
+  author    = {Elizabeth Pérez Cortés and
+               Pascal Dechamboux and
+               Jay Han},
+  title     = {Generic support for synchronization and consistency in Arias},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {113-118},
+}
+
+@inproceedings{DBLP:conf/hotos/CarterKK95,
+  author    = {John B. Carter and
+               Dilip Khandekar and
+               Linus Kamb},
+  title     = {Distributed shared memory: where we are and where we should be headed},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {119-123},
+}
+
+@inproceedings{DBLP:conf/hotos/LuS95,
+  author    = {Qi Lu and
+               M. Satyanarayanan},
+  title     = {Improving data consistency in mobile computing using isolation-only transactions},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {124-128},
+}
+
+@inproceedings{DBLP:conf/hotos/OTooleS95,
+  author    = {James O'Toole and
+               Liuba Shrira},
+  title     = {Shared data management needs adaptive methods},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {129-135},
+}
+
+@inproceedings{DBLP:conf/hotos/SteereS95,
+  author    = {David C. Steere and
+               M. Satyanarayanan},
+  title     = {Using dynamic sets to overcome high I/O latencies during search},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {136-141},
+}
+
+@inproceedings{DBLP:conf/hotos/Hamilton95,
+  author    = {Deborah Hamilton},
+  title     = {Are we answering the right research questions for commercial operating systems?},
+  booktitle = hotos,
+  year      = 1995,
+  pages     = {142-144},
+}
+
+@inproceedings{DBLP:conf/hotos/TheimerDW93,
+  author    = {Marvin Theimer and
+               Alan J. Demers and
+               Brent B. Welch},
+  title     = {Operating System Issues for {PDAs}},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {2-8},
+}
+
+@inproceedings{DBLP:conf/hotos/LoucksMR93,
+  author    = {Larry K. Loucks and
+               Ravi Manikundalam and
+               Freeman L. Rawson III},
+  title     = {A {Microkernel-Based} Operating System for Personal Digital Assistants},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {9-13},
+}
+
+@inproceedings{DBLP:conf/hotos/BanerjiCK93,
+  author    = {Arindam Banerji and
+               David L. Cohn and
+               Dinesh C. Kulkarni},
+  title     = {Mobile Computing Personae},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {14-20},
+}
+
+@inproceedings{DBLP:conf/hotos/CaceresDLM93,
+  author    = {Ramón Cáceres and
+               Fred Douglis and
+               Kai Li and
+               Brian Marsh},
+  title     = {Operating System Implications of {Solid-State} Mobile Computers},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {21-27},
+}
+
+@inproceedings{DBLP:conf/hotos/GoldbergT93,
+  author    = {David Goldberg and
+               Michael M. Tso},
+  title     = {How to Program Networked Portable Computers},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {30-33},
+}
+
+@inproceedings{DBLP:conf/hotos/SchilitAGTW93,
+  author    = {Bill N. Schilit and
+               Norman Adams and
+               Rich Gold and
+               Michael M. Tso and
+               Roy Want},
+  title     = {The {PARCTAB} Mobile Computing System},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {34-39},
+}
+
+@inproceedings{DBLP:conf/hotos/LandayK93,
+  author    = {James A. Landay and
+               Todd R. Kaufmann},
+  title     = {User Interface Issues in Mobile Computing},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {40-47},
+}
+
+@inproceedings{DBLP:conf/hotos/MahSKKF93,
+  author    = {Bruce A. Mah and
+               Srinivasan Seshan and
+               Kimberly Keeton and
+               Randy H. Katz and
+               Domenico Ferrari},
+  title     = {Providing Network Video Service to Mobile Clients},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {48-54},
+}
+
+@inproceedings{DBLP:conf/hotos/Howard93,
+  author    = {John H. Howard},
+  title     = {Using Reconciliation to Share Files Between Occasionally Connected Computers},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {56-60},
+}
+
+@inproceedings{DBLP:conf/hotos/NelsonK93,
+  author    = {Michael N. Nelson and
+               Yousef Y. A. Khalidi},
+  title     = {Generic Support for Caching and Disconnected Operation},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {61-65},
+}
+
+@inproceedings{DBLP:conf/hotos/KumarS93,
+  author    = {Puneet Kumar and
+               Mahadev Satyanarayanan},
+  title     = {Supporting {Application-Specific} Resolution in an Optimistically Replicated File System},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {66-70},
+}
+
+@inproceedings{DBLP:conf/hotos/WangA93,
+  author    = {Randolph Y. Wang and
+               Thomas E. Anderson},
+  title     = {xFS: A Wide Area Mass Storage File System},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {71-78},
+}
+
+@inproceedings{DBLP:conf/hotos/MosbergerP93,
+  author    = {David Mosberger and
+               Larry L. Peterson},
+  title     = {Careful Protocols or How to Use Highly Reliable Networks},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {80-84},
+}
+
+@inproceedings{DBLP:conf/hotos/Johnson93,
+  author    = {David B. Johnson},
+  title     = {Ubiquitous Mobil Host Internetworking},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {85-90},
+}
+
+@inproceedings{DBLP:conf/hotos/BadrinathBIM93,
+  author    = {B. R. Badrinath and
+               Ajay V. Bakre and
+               Tomasz Imielinski and
+               R. Maramtz},
+  title     = {Handling Mobile Clients: A Case for Indirect Interaction},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {91-97},
+}
+
+@inproceedings{DBLP:conf/hotos/Blaze93,
+  author    = {Matt Blaze},
+  title     = {Transparent Mistrust: {OS} Support for {Cryptography-in-the-Large}},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {98-102},
+}
+
+@inproceedings{DBLP:conf/hotos/KhalidiTNW93,
+  author    = {Yousef Y. A. Khalidi and
+               Madhusudhan Talluri and
+               Michael N. Nelson and
+               Dock Williams},
+  title     = {Virtual Memory Support for Multiple Page Sizes},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {104-109},
+}
+
+@inproceedings{DBLP:conf/hotos/Mogul93,
+  author    = {Jeffrey C. Mogul},
+  title     = {Big Memories on the Desktop},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {110-115},
+}
+
+@inproceedings{DBLP:conf/hotos/WuZ93,
+  author    = {Michael Wu and
+               Willy Zwaenepoel},
+  title     = {eNVy: A {NonVolatile} Main Memory Storage System},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {116-118},
+}
+
+@inproceedings{DBLP:conf/hotos/Day93,
+  author    = {Mark Day},
+  title     = {Object Groups May Be Better Than Pages},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {119-122},
+}
+
+@inproceedings{DBLP:conf/hotos/PuF93,
+  author    = {Calton Pu and
+               Robert M. Fuhrer},
+  title     = {{Feedback-Based} Scheduling: a Toolbox Approach},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {124-128},
+}
+
+@inproceedings{DBLP:conf/hotos/MercerST93,
+  author    = {Clifford W. Mercer and
+               Stefan Savage and
+               Hideyuki Tokuda},
+  title     = {Processor Capacity Reserves: An Abstraction for Managing Processor Usage},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {129-134},
+}
+
+@inproceedings{DBLP:conf/hotos/Jones93,
+  author    = {Michael B. Jones},
+  title     = {Adaptive {Real-Time} Resource Management Supporting Composition of Independently Authored {Time-Critical} Services},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {135-139},
+}
+
+@inproceedings{DBLP:conf/hotos/GuedesC93,
+  author    = {Paulo Guedes and
+               Miguel Castro},
+  title     = {Distributed Shared Object Memory},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {142-149},
+}
+
+@inproceedings{DBLP:conf/hotos/ChaseFL93,
+  author    = {Jeffrey S. Chase and
+               Michael J. Feeley and
+               Henry M. Levy},
+  title     = {Some Issues for Single Address Space Systems},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {150-154},
+}
+
+@inproceedings{DBLP:conf/hotos/Myers93,
+  author    = {Andrew C. Myers},
+  title     = {Resolving the Integrity/Performance Conflict},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {156-159},
+}
+
+@inproceedings{DBLP:conf/hotos/Draves93,
+  author    = {Richard Draves},
+  title     = {The Case for {Run-Time} Replaceable Kernel Modules},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {160-164},
+}
+
+@inproceedings{DBLP:conf/hotos/KiczalesLMKM93,
+  author    = {Gregor Kiczales and
+               John Lamping and
+               Chris Maeda and
+               David Keppel and
+               Dylan McNamee},
+  title     = {The Need for Customizable Operating Systems},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {165-169},
+}
+
+@inproceedings{DBLP:conf/hotos/MaedaB93,
+  author    = {Chris Maeda and
+               Brian N. Bershad},
+  title     = {Service without Servers},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {170-176},
+}
+
+@inproceedings{DBLP:conf/hotos/Chen93,
+  author    = {J. Bradley Chen},
+  title     = {Software Methods for System Address Tracing},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {178-185},
+}
+
+@inproceedings{DBLP:conf/hotos/HsiehKW93,
+  author    = {Wilson C. Hsieh and
+               M. Frans Kaashoek and
+               William E. Weihl},
+  title     = {The Persistent Relevance of {IPC} Performance: New Techniques for Reducing the {IPC} Penalty},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {186-190},
+}
+
+@inproceedings{DBLP:conf/hotos/Barrera93a,
+  author    = {Joseph S. Barrera III},
+  title     = {Invocation Chaining: Manipulating Lightweight Objects across Heavyweight Boundaries},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {191-193},
+}
+
+@inproceedings{DBLP:conf/hotos/Barrera93,
+  author    = {Joseph S. Barrera III},
+  title     = {{Self-Tuning} Software},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {194-197},
+}
+
+@inproceedings{DBLP:conf/hotos/CarterFHKLLOSS93,
+  author    = {John B. Carter and
+               Bryan Ford and
+               Mike Hibler and
+               Ravindra Kuramkote and
+               Jeffrey Law and
+               Jay Lepreau and
+               Douglas B. Orr and
+               Leigh Stoller and
+               Mark R. Swanson},
+  title     = {FLEX: A Tool for Building Efficient and Flexible Systems},
+  booktitle = hotos,
+  year      = 1993,
+  pages     = {198-202},
 }

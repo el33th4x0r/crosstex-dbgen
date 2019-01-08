@@ -674,7 +674,7 @@
                Nickolai Zeldovich and
                M. Frans Kaashoek and
                David Mazières and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Event-driven programming for robust software},
   booktitle = esigops,
   year      = 2002,
@@ -704,7 +704,7 @@
 }
 
 @inproceedings{DBLP:conf/sigopsE/StephensH02,
-  author    = {Shane Stephens and
+  author    = {Shane G. Stephens and
                Gernot Heiser},
   title     = {Fault tolerance and avoidance in biomedical systems},
   booktitle = esigops,
@@ -954,7 +954,7 @@
 }
 
 @inproceedings{DBLP:conf/sigopsE/MorrisJKLD00,
-  author    = {Robert Morris and
+  author    = {Robert Tappan Morris and
                John Jannotti and
                M. Frans Kaashoek and
                Jinyang Li and
@@ -1239,7 +1239,7 @@
 
 @inproceedings{DBLP:conf/sigopsE/MirandaR00,
   author    = {Hugo Miranda and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Balancing configurability and efficiency in network support tools},
   booktitle = esigops,
   year      = 2000,
@@ -1284,7 +1284,7 @@
 @inproceedings{DBLP:conf/sigopsE/VeigaGSF00,
   author    = {Luís Veiga and
                João Garcia and
-               João Silva and
+               João Nuno de Oliveira e Silva and
                Paulo Ferreira},
   title     = {Distributed object invocation in {OBIWAN}},
   booktitle = esigops,
@@ -1336,7 +1336,7 @@
 }
 
 @inproceedings{DBLP:conf/sigopsE/ZarrasI98,
-  author    = {Apostolos Zarras and
+  author    = {Apostolos V. Zarras and
                Valérie Issarny},
   title     = {Imposing transactional properties on distributed software atchitectures},
   booktitle = esigops,
@@ -1403,7 +1403,7 @@
 @inproceedings{DBLP:conf/sigopsE/DaviesFWB98,
   author    = {Nigel Davies and
                Adrian Friday and
-               Stephen P. Wade and
+               Stephen Paul Wade and
                Gordon S. Blair},
   title     = {An asynchronous distributed systems platform for heterogeneous environments},
   booktitle = esigops,
@@ -2308,7 +2308,7 @@
 }
 
 @inproceedings{DBLP:conf/sigopsE/RodriguesV94,
-  author    = {Luís Rodrigues and
+  author    = {Luís E. T. Rodrigues and
                Paulo Veríssimo},
   title     = {How to avoid cost of causal communication in large-scale Systems},
   booktitle = esigops,
@@ -2327,7 +2327,7 @@
 
 @inproceedings{DBLP:conf/sigopsE/PinkK94,
   author    = {Stephen Pink and
-               Andres Klemets},
+               Anders Klemets},
   title     = {Low Latency File Access in a High Bandwidth Environments},
   booktitle = esigops,
   year      = 1994,
@@ -2598,7 +2598,7 @@
 }
 
 @inproceedings{DBLP:conf/sigopsE/EversR92,
-  author    = {David Evers and
+  author    = {David Martin Evers and
                Peter Robinson},
   title     = {Modula-3 network objects over ANSA: heterogeneous object-based {RPC} in a modern systems programming language},
   booktitle = esigops,
@@ -2849,7 +2849,7 @@
 
 @inproceedings{DBLP:conf/sigopsE/VerissimoR92,
   author    = {Paulo Veríssimo and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Group orientation: a paradigm for modern distributed systems},
   booktitle = esigops,
   year      = 1992,
@@ -2858,7 +2858,7 @@
 @inproceedings{DBLP:conf/sigopsE/VogelsVR92,
   author    = {Werner Vogels and
                Paulo Veríssimo and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Requirements for high performance group support in distributed systems},
   booktitle = esigops,
   year      = 1992,
@@ -3358,10 +3358,10 @@
                Andrzej Duda and
                André Freyssinet and
                Sacha Krakowiak and
-               M. Meysembourg and
+               Marie Meysembourg and
                Cécile Roisin and
                Xavier Rousset de Pina and
-               R. Scioville and
+               Rodrigo Scioville Garcia and
                G. Vandôme},
   title     = {Object-based distributed computation in the Guide operating system},
   booktitle = esigops,
@@ -3680,7 +3680,7 @@
 
 @inproceedings{DBLP:conf/sigopsE/BacarisseW86,
   author    = {Benjamin Bacarisse and
-               Steve Wilbur},
+               Steve R. Wilbur},
   title     = {Distributed computing research at University College London},
   booktitle = esigops,
   year      = 1986,
@@ -3703,8 +3703,7 @@
 
 @inproceedings{DBLP:conf/sigopsE/BerbersVL86,
   author    = {Yolande Berbers and
-               Pierre Verbaeten and
-               K. U. Leuven},
+               Pierre Verbaeten},
   title     = {Project: the structure of the {HERMIX} distributed operating system},
   booktitle = esigops,
   year      = 1986,

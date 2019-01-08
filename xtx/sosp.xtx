@@ -1,5 +1,2213 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/sosp/ChenTZ17,
+  author    = {Ju Chen and
+               Yuzhe Richard Tang and
+               Hao Zhou},
+  title     = {Strongly Secure and Efficient Data Shuffle on Hardware Enclaves},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sosp/ChenOKKH17,
+  author    = {Zilin Chen and
+               Liam O'Connor and
+               Gabriele Keller and
+               Gerwin Klein and
+               Gernot Heiser},
+  title     = {The Cogent Case for {Property-Based} Testing},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/sosp/PeiCYJ17,
+  author    = {Kexin Pei and
+               Yinzhi Cao and
+               Junfeng Yang and
+               Suman Jana},
+  title     = {DeepXplore: Automated Whitebox Testing of Deep Learning Systems},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {1-18},
+}
+
+@inproceedings{DBLP:conf/sosp/VranckenPS17,
+  author    = {Kobe Vrancken and
+               Frank Piessens and
+               Raoul Strackx},
+  title     = {Hardening Intel {SGX} Applications: Balancing Concerns},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/WangJM17,
+  author    = {Frank Wang and
+               Yuna Joung and
+               James Mickens},
+  title     = {Cobweb: Practical Remote Attestation Using Contextual Graphs},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BulckPS17,
+  author    = {Jo Van Bulck and
+               Frank Piessens and
+               Raoul Strackx},
+  title     = {SGX-Step: A Practical Attack Framework for Precise Enclave Execution Control},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/JangLLK17,
+  author    = {Yeongjin Jang and
+               Jae-Hyuk Lee and
+               Sangho Lee and
+               Taesoo Kim},
+  title     = {SGX-Bomb: Locking Down the Processor via Rowhammer Attack},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/LiZL17,
+  author    = {Yuan Li and
+               Chao Zhang and
+               Xiapu Luo},
+  title     = {vCFI: Visible Control Flow Integrity for Cloud Tenants},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/VolpDLFV17,
+  author    = {Marcus Völp and
+               Jérémie Decouchant and
+               Christoph Lambert and
+               Maria Fernandes and
+               Paulo Jorge Esteves Veríssimo},
+  title     = {{Enclave-Based} {Privacy-Preserving} Alignment of Raw Genomic Information: Information Leakage and Countermeasures},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BeekmanP17,
+  author    = {Jethro G. Beekman and
+               Donald E. Porter},
+  title     = {Challenges For Scaling Applications Across Enclaves},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sosp/HumbelACR17,
+  author    = {Lukas Humbel and
+               Reto Achermann and
+               David Cock and
+               Timothy Roscoe},
+  title     = {Towards {Correct-by-Construction} Interrupt Routing on Real Hardware},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {8-14},
+}
+
+@inproceedings{DBLP:conf/sosp/MastCS17,
+  author    = {Kai Mast and
+               Lequn Chen and
+               Emin Gün Sirer},
+  title     = {Scaling Databases through Trusted Hardware Proxies},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BalisaneBAM17,
+  author    = {Ranjbar A. Balisane and
+               Ravishankar Borgaonkar and
+               Ahmad Atamli-Reineh and
+               Andrew Martin},
+  title     = {Architectures for Enhancing Authentication Privacy and Security using Trusted Computing},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SangRPNAE17,
+  author    = {Bo Sang and
+               Srivatsan Ravi and
+               Gustavo Petri and
+               Mahsa Najafzadeh and
+               Masoud Saeida Ardekani and
+               Patrick Eugster},
+  title     = {Programmable Elasticity for Actor-based Cloud Applications},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {15-21},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhangMRLY17,
+  author    = {Yongle Zhang and
+               Serguei Makarov and
+               Xiang Ren and
+               David Lion and
+               Ding Yuan},
+  title     = {Pensieve: {Non-Intrusive} Failure Reproduction for Distributed Systems using the Event Chaining Approach},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {19-33},
+}
+
+@inproceedings{DBLP:conf/sosp/HarveyS17,
+  author    = {Paul Harvey and
+               Joseph S. Sventek},
+  title     = {Adaptable Actors: Just What The World Needs},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {22-28},
+}
+
+@inproceedings{DBLP:conf/sosp/BoosZ17,
+  author    = {Kevin Boos and
+               Lin Zhong},
+  title     = {Theseus: a State Spill-free Operating System},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {29-35},
+}
+
+@inproceedings{DBLP:conf/sosp/KaldorMBGKOOSSV17,
+  author    = {Jonathan Kaldor and
+               Jonathan Mace and
+               Michal Bejda and
+               Edison Gao and
+               Wiktor Kuropatwa and
+               Joe O'Neill and
+               Kian Win Ong and
+               Bill Schaller and
+               Pingjia Shan and
+               Brendan Viscomi and
+               Vinod Venkataraman and
+               Kaushik Veeraraghavan and
+               Yee Jiun Song},
+  title     = {Canopy: An {End-to-End} Performance Tracing And Analysis System},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {34-50},
+}
+
+@inproceedings{DBLP:conf/sosp/FrieselBS17,
+  author    = {Daniel Friesel and
+               Markus Buschhoff and
+               Olaf Spinczyk},
+  title     = {Annotations in Operating Systems with Custom AspectC++ Attributes},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {36-42},
+}
+
+@inproceedings{DBLP:conf/sosp/VasilakisKRDDS17,
+  author    = {Nikos Vasilakis and
+               Ben Karel and
+               Nick Roessler and
+               Nathan Dautenhahn and
+               André DeHon and
+               Jonathan M. Smith},
+  title     = {Towards Fine-grained, Automated Application Compartmentalization},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {43-50},
+}
+
+@inproceedings{DBLP:conf/sosp/LamowskiWLH17,
+  author    = {Benjamin Lamowski and
+               Carsten Weinhold and
+               Adam Lackorzynski and
+               Hermann Härtig},
+  title     = {Sandcrust: Automatic Sandboxing of Unsafe Components in Rust},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {51-57},
+}
+
+@inproceedings{DBLP:conf/sosp/GiladHMVZ17,
+  author    = {Yossi Gilad and
+               Rotem Hemo and
+               Silvio Micali and
+               Georgios Vlachos and
+               Nickolai Zeldovich},
+  title     = {Algorand: Scaling Byzantine Agreements for Cryptocurrencies},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {51-68},
+}
+
+@inproceedings{DBLP:conf/sosp/BhatECKZ17,
+  author    = {Srivatsa S. Bhat and
+               Rasha Eqbal and
+               Austin T. Clements and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Scaling a file system to many cores using an operation log},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {69-86},
+}
+
+@inproceedings{DBLP:conf/sosp/HuangAKNTYDYBLT17,
+  author    = {Qi Huang and
+               Petchean Ang and
+               Peter Knowles and
+               Tomasz Nykiel and
+               Iaroslav Tverdokhlib and
+               Amit Yajurvedi and
+               Paul Dapolito IV and
+               Xifan Yan and
+               Maxim Bykov and
+               Chuen Liang and
+               Mohit Talwar and
+               Abhishek Mathur and
+               Sachin Kulkarni and
+               Matthew Burke and
+               Wyatt Lloyd},
+  title     = {SVE: Distributed Video Processing at Facebook Scale},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {87-103},
+}
+
+@inproceedings{DBLP:conf/sosp/LiMP17,
+  author    = {Jialin Li and
+               Ellis Michael and
+               Dan R. K. Ports},
+  title     = {Eris: {Coordination-Free} Consistent Transactions Using {In-Network} Concurrency Control},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {104-120},
+}
+
+@inproceedings{DBLP:conf/sosp/JinLZSLFKS17,
+  author    = {Xin Jin and
+               Xiaozhou Li and
+               Haoyu Zhang and
+               Robert Soulé and
+               Jeongkeun Lee and
+               Nate Foster and
+               Changhoon Kim and
+               Ion Stoica},
+  title     = {NetCache: Balancing {Key-Value} Stores with Fast {In-Network} Caching},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {121-136},
+}
+
+@inproceedings{DBLP:conf/sosp/LiRXLXPCZ17,
+  author    = {Bojie Li and
+               Zhenyuan Ruan and
+               Wencong Xiao and
+               Yuanwei Lu and
+               Yongqiang Xiong and
+               Andrew Putnam and
+               Enhong Chen and
+               Lintao Zhang},
+  title     = {KV-Direct: {High-Performance} {In-Memory} {Key-Value} Store with Programmable {NIC}},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {137-152},
+}
+
+@inproceedings{DBLP:conf/sosp/CortezBMRFB17,
+  author    = {Eli Cortez and
+               Anand Bonde and
+               Alexandre Muzio and
+               Mark Russinovich and
+               Marcus Fontoura and
+               Ricardo Bianchini},
+  title     = {Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {153-167},
+}
+
+@inproceedings{DBLP:conf/sosp/HaoLTPSSCG17,
+  author    = {Mingzhe Hao and
+               Huaicheng Li and
+               Michael Hao Tong and
+               Chrisma Pakha and
+               Riza O. Suminto and
+               Cesar A. Stuardo and
+               Andrew A. Chien and
+               Haryadi S. Gunawi},
+  title     = {MittOS: Supporting Millisecond Tail Tolerance with Fast Rejecting {SLO-Aware} {OS} Interface},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {168-183},
+}
+
+@inproceedings{DBLP:conf/sosp/OusterhoutCRS17,
+  author    = {Kay Ousterhout and
+               Christopher Canel and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {184-200},
+}
+
+@inproceedings{DBLP:conf/sosp/LimDLNZ17,
+  author    = {Jin Tack Lim and
+               Christoffer Dall and
+               Shih-Wei Li and
+               Jason Nieh and
+               Marc Zyngier},
+  title     = {NEVE: Nested Virtualization Extensions for {ARM}},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {201-217},
+}
+
+@inproceedings{DBLP:conf/sosp/MancoLSMKSYRH17,
+  author    = {Filipe Manco and
+               Costin Lupu and
+               Florian Schmidt and
+               Jose Mendes and
+               Simon Kuenzer and
+               Sumit Sati and
+               Kenichi Yasukata and
+               Costin Raiciu and
+               Felipe Huici},
+  title     = {My {VM} is Lighter (and Safer) than your Container},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {218-233},
+}
+
+@inproceedings{DBLP:conf/sosp/LevyCGGPDL17,
+  author    = {Amit Levy and
+               Bradford Campbell and
+               Branden Ghena and
+               Daniel B. Giffin and
+               Pat Pannuto and
+               Prabal Dutta and
+               Philip Levis},
+  title     = {Multiprogramming a 64{kB} Computer Safely and Efficiently},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {234-251},
+}
+
+@inproceedings{DBLP:conf/sosp/NelsonSZJBTW17,
+  author    = {Luke Nelson and
+               Helgi Sigurbjarnarson and
+               Kaiyuan Zhang and
+               Dylan Johnson and
+               James Bornholt and
+               Emina Torlak and
+               Xi Wang},
+  title     = {Hyperkernel: {Push-Button} Verification of an {OS} Kernel},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {252-269},
+}
+
+@inproceedings{DBLP:conf/sosp/ChenCKWICKZ17,
+  author    = {Haogang Chen and
+               Tej Chajed and
+               Alex Konradi and
+               Stephanie Wang and
+               Atalay Ileri and
+               Adam Chlipala and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Verifying a high-performance crash-safe file system using a tree specification},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {270-286},
+}
+
+@inproceedings{DBLP:conf/sosp/FerraiuoloBHP17,
+  author    = {Andrew Ferraiuolo and
+               Andrew Baumann and
+               Chris Hawblitzel and
+               Bryan Parno},
+  title     = {Komodo: Using verification to disentangle secure-enclave hardware from software},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {287-305},
+}
+
+@inproceedings{DBLP:conf/sosp/TsaiZ17,
+  author    = {Shin-Yeh Tsai and
+               Yiying Zhang},
+  title     = {{LITE} Kernel {RDMA} Support for Datacenter Applications},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {306-324},
+}
+
+@inproceedings{DBLP:conf/sosp/PrekasKB17,
+  author    = {George Prekas and
+               Marios Kogias and
+               Edouard Bugnion},
+  title     = {ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {325-341},
+}
+
+@inproceedings{DBLP:conf/sosp/RoghanchiEB17,
+  author    = {Sepideh Roghanchi and
+               Jakob Eriksson and
+               Nilanjana Basu},
+  title     = {ffwd: delegation is (much) faster than you think},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {342-358},
+}
+
+@inproceedings{DBLP:conf/sosp/Gember-Jacobson17,
+  author    = {Aaron Gember-Jacobson and
+               Aditya Akella and
+               Ratul Mahajan and
+               Hongqiang Harry Liu},
+  title     = {Automatically Repairing Network Control Planes Using an Abstract Representation},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {359-373},
+}
+
+@inproceedings{DBLP:conf/sosp/VenkataramanPOA17,
+  author    = {Shivaram Venkataraman and
+               Aurojit Panda and
+               Kay Ousterhout and
+               Michael Armbrust and
+               Ali Ghodsi and
+               Michael J. Franklin and
+               Benjamin Recht and
+               Ion Stoica},
+  title     = {Drizzle: Fast and Adaptable Stream Processing at Scale},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {374-389},
+}
+
+@inproceedings{DBLP:conf/sosp/KulkarniKZRS17,
+  author    = {Chinmay Kulkarni and
+               Aniraj Kesavan and
+               Tian Zhang and
+               Robert Ricci and
+               Ryan Stutsman},
+  title     = {Rocksteady: Fast Migration for Low-latency In-memory Storage},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {390-405},
+}
+
+@inproceedings{DBLP:conf/sosp/KwonCDF17,
+  author    = {Albert Kwon and
+               Henry Corrigan-Gibbs and
+               Srinivas Devadas and
+               Bryan Ford},
+  title     = {Atom: Horizontally Scaling Strong Anonymity},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {406-422},
+}
+
+@inproceedings{DBLP:conf/sosp/TyagiGLZZ17,
+  author    = {Nirvan Tyagi and
+               Yossi Gilad and
+               Derek Leung and
+               Matei Zaharia and
+               Nickolai Zeldovich},
+  title     = {Stadium: A Distributed {Metadata-Private} Messaging System},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {423-440},
+}
+
+@inproceedings{DBLP:conf/sosp/BittauEMMRLRKTS17,
+  author    = {Andrea Bittau and
+               Úlfar Erlingsson and
+               Petros Maniatis and
+               Ilya Mironov and
+               Ananth Raghunathan and
+               David Lie and
+               Mitch Rudominer and
+               Ushasree Kode and
+               Julien Tinnés and
+               Bernhard Seefeld},
+  title     = {Prochlo: Strong Privacy for Analytics in the Crowd},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {441-459},
+}
+
+@inproceedings{DBLP:conf/sosp/KwonFHPWA17,
+  author    = {Youngjin Kwon and
+               Henrique Fingler and
+               Tyler Hunt and
+               Simon Peter and
+               Emmett Witchel and
+               Thomas E. Anderson},
+  title     = {Strata: A Cross Media File System},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {460-477},
+}
+
+@inproceedings{DBLP:conf/sosp/XuZMGBSSR17,
+  author    = {Jian Xu and
+               Lu Zhang and
+               Amirsaman Memaripour and
+               Akshatha Gangadharaiah and
+               Amit Borase and
+               Tamires Brito Da Silva and
+               Steven Swanson and
+               Andy Rudoff},
+  title     = {NOVA-Fortis: A {Fault-Tolerant} {Non-Volatile} Main Memory File System},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {478-496},
+}
+
+@inproceedings{DBLP:conf/sosp/RajuKCA17,
+  author    = {Pandian Raju and
+               Rohan Kadekodi and
+               Vijay Chidambaram and
+               Ittai Abraham},
+  title     = {PebblesDB: Building {Key-Value} Stores using Fragmented {Log-Structured} Merge Trees},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {497-514},
+}
+
+@inproceedings{DBLP:conf/sosp/ShalevKWMB17,
+  author    = {Noam Shalev and
+               Idit Keidar and
+               Yaron Weinsberg and
+               Yosef Moatti and
+               Elad Ben-Yehuda},
+  title     = {WatchIT: Who Watches Your {IT} Guy?},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {515-530},
+}
+
+@inproceedings{DBLP:conf/sosp/OliverioRBG17,
+  author    = {Marco Oliverio and
+               Kaveh Razavi and
+               Herbert Bos and
+               Cristiano Giuffrida},
+  title     = {Secure Page Fusion with VUsion: https: //www.vusec.net/projects/{VUsion}},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {531-545},
+}
+
+@inproceedings{DBLP:conf/sosp/TanYLW17,
+  author    = {Cheng Tan and
+               Lingfan Yu and
+               Joshua B. Leners and
+               Michael Walfish},
+  title     = {The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {546-564},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhaoRLSYZ17,
+  author    = {Xu Zhao and
+               Kirk Rodrigues and
+               Yu Luo and
+               Michael Stumm and
+               Ding Yuan and
+               Yuanyuan Zhou},
+  title     = {Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {565-581},
+}
+
+@inproceedings{DBLP:conf/sosp/KasikciCGN17,
+  author    = {Baris Kasikci and
+               Weidong Cui and
+               Xinyang Ge and
+               Ben Niu},
+  title     = {Lazy Diagnosis of {In-Production} Concurrency Bugs},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {582-598},
+}
+
+@inproceedings{DBLP:conf/sosp/LiuZPCTLRLY17,
+  author    = {Hongqiang Harry Liu and
+               Yibo Zhu and
+               Jitu Padhye and
+               Jiaxin Cao and
+               Sri Tallapragada and
+               Nuno P. Lopes and
+               Andrey Rybalchenko and
+               Guohan Lu and
+               Lihua Yuan},
+  title     = {CrystalNet: Faithfully Emulating Large Production Networks},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {599-613},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhangCC17,
+  author    = {Yunhao Zhang and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Sub-millisecond Stateful Stream Querying over Fast-evolving Linked Data},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {614-630},
+}
+
+@inproceedings{DBLP:conf/sosp/SchlaipferRLS17,
+  author    = {Matthias Schlaipfer and
+               Kaushik Rajan and
+               Akash Lal and
+               Malavika Samak},
+  title     = {Optimizing {Big-Data} Queries Using Program Synthesis},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {631-646},
+}
+
+@inproceedings{DBLP:conf/sosp/AgrawalV17,
+  author    = {Nitin Agrawal and
+               Ashish Vulimiri},
+  title     = {{Low-Latency} Analytics on Colossal Data Streams with {SummaryStore}},
+  booktitle = sosp,
+  year      = 2017,
+  pages     = {647-664},
+}
+
+@inproceedings{DBLP:conf/sosp/DebnathHKKU15,
+  author    = {Biplob Debnath and
+               Alireza Haghdoost and
+               Asim Kadav and
+               Mohammed G. Khatib and
+               Cristian Ungureanu},
+  title     = {Revisiting hash table design for phase change memory},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Matthews15,
+  author    = {Jeanna Neefe Matthews},
+  title     = {Overview of the day},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sosp/YooSLLK15,
+  author    = {Seehwan Yoo and
+               YoonSeok Shim and
+               Seunghac Lee and
+               Sang-Ah Lee and
+               Joongheon Kim},
+  title     = {A case for bad big.{LITTLE} switching: how to scale power-performance in {SI-HMP}},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {1-5},
+}
+
+@inproceedings{DBLP:conf/sosp/BorchertS15,
+  author    = {Christoph Borchert and
+               Olaf Spinczyk},
+  title     = {Hardening an L4 microkernel against soft errors by aspect-oriented programming and whole-program analysis},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/sosp/HawblitzelHKLPR15,
+  author    = {Chris Hawblitzel and
+               Jon Howell and
+               Manos Kapritsos and
+               Jacob R. Lorch and
+               Bryan Parno and
+               Michael L. Roberts and
+               Srinath T. V. Setty and
+               Brian Zill},
+  title     = {IronFleet: proving practical distributed systems correct},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/sosp/Dennis15,
+  author    = {Jack B. Dennis},
+  title     = {The founding of the {SOSP} conferences},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/MalicevicDSSJZ15,
+  author    = {Jasmina Malicevic and
+               Subramanya Dulloor and
+               Narayanan Sundaram and
+               Nadathur Satish and
+               Jeff Jackson and
+               Willy Zwaenepoel},
+  title     = {Exploiting {NVM} in large-scale graph analytics},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Denning15,
+  author    = {Peter J. Denning},
+  title     = {Perspectives on {OS} foundations},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/LimLW15,
+  author    = {Eunryoung Lim and
+               Seongjin Lee and
+               Youjip Won},
+  title     = {Androtrace: framework for tracing and analyzing {IOs} on Android},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Lampson15,
+  author    = {Butler W. Lampson},
+  title     = {Perspectives on protection and security},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/WeissSSSTAA15,
+  author    = {Zev Weiss and
+               Sriram Subramanian and
+               Swaminathan Sundararaman and
+               Vinay Sridhar and
+               Nisha Talagala and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Mjölnir: collecting trash in a demanding new world},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Liskov15,
+  author    = {Barbara Liskov},
+  title     = {Perspectives on system languages and abstraction},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SantanaRTH15,
+  author    = {Ricardo Santana and
+               Raju Rangaswami and
+               Vasily Tarasov and
+               Dean Hildebrand},
+  title     = {A fast and slippery slope for file systems},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Satyanarayanan15,
+  author    = {Mahadev Satyanarayanan},
+  title     = {Evolution of file and memory management},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SundararamanTDM15,
+  author    = {Swaminathan Sundararaman and
+               Nisha Talagala and
+               Dhananjoy Das and
+               Amar Mudrankit and
+               Dulcardo Arteaga},
+  title     = {Towards software defined persistent memory: rethinking software support for heterogenous memory architectures},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BhatSRBR15,
+  author    = {Sharath K. Bhat and
+               Ajithchandra Saya and
+               Hemedra K. Rawat and
+               Antonio Barbalace and
+               Binoy Ravindran},
+  title     = {Harnessing energy efficiency of {heterogeneous-ISA} platforms},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {6-10},
+}
+
+@inproceedings{DBLP:conf/sosp/Birman15,
+  author    = {Ken Birman},
+  title     = {Evolution of fault tolerance},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Herbert15,
+  author    = {Andrew Herbert},
+  title     = {Virtualization},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sosp/JacobsenKSBB15,
+  author    = {Charles Jacobsen and
+               Muktesh Khole and
+               Sarah Spall and
+               Scotty Bauer and
+               Anton Burtsev},
+  title     = {Lightweight capability domains: towards decomposing the Linux kernel},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {8-14},
+}
+
+@inproceedings{DBLP:conf/sosp/Patterson15,
+  author    = {David A. Patterson},
+  title     = {Past and future of hardware and architecture},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Kaashoek15,
+  author    = {M. Frans Kaashoek},
+  title     = {Parallel computing and the {OS}},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Clark15,
+  author    = {David Clark},
+  title     = {The network and the {OS}},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/sosp/WangL15,
+  author    = {Qiuyun Wang and
+               Benjamin C. Lee},
+  title     = {Modeling communication costs in blade servers},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {11-15},
+}
+
+@inproceedings{DBLP:conf/sosp/Dean15,
+  author    = {Jeffrey Dean},
+  title     = {The rise of cloud computing systems},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SeltzerMMZ15,
+  author    = {Margo Seltzer and
+               Mark Miller and
+               David Mazières and
+               Yuanyuan Zhou},
+  title     = {Is achieving security a hopeless quest?},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Neumann15,
+  author    = {Peter G. Neumann},
+  title     = {Reminiscences on {SOSP} history day},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/sosp/KoomsinS15,
+  author    = {Ake Koomsin and
+               Yasushi Shinjo},
+  title     = {Running application specific kernel code by a just-in-time compiler},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {15-20},
+}
+
+@inproceedings{DBLP:conf/sosp/ReddyKBK15,
+  author    = {Ramana Reddy and
+               Atish Kathpal and
+               Jayanta Basak and
+               Randy H. Katz},
+  title     = {Data layout for power efficient archival storage systems},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {16-20},
+}
+
+@inproceedings{DBLP:conf/sosp/ChenZCCKZ15,
+  author    = {Haogang Chen and
+               Daniel Ziegler and
+               Tej Chajed and
+               Adam Chlipala and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Using Crash Hoare logic for certifying the {FSCQ} file system},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {18-37},
+}
+
+@inproceedings{DBLP:conf/sosp/YanHLH15,
+  author    = {Yu Yan and
+               Songtao He and
+               Yunxin Liu and
+               Longbo Huang},
+  title     = {Optimizing power consumption of mobile games},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {21-25},
+}
+
+@inproceedings{DBLP:conf/sosp/LevyACCDGLP15,
+  author    = {Amit A. Levy and
+               Michael P. Andersen and
+               Bradford Campbell and
+               David E. Culler and
+               Prabal Dutta and
+               Branden Ghena and
+               Philip Levis and
+               Pat Pannuto},
+  title     = {Ownership is theft: experiences building an embedded {OS} in rust},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {21-26},
+}
+
+@inproceedings{DBLP:conf/sosp/HoqueT15,
+  author    = {Mohammad Ashraful Hoque and
+               Sasu Tarkoma},
+  title     = {Sudden drop in the battery level?: understanding smartphone state of charge anomaly},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {26-30},
+}
+
+@inproceedings{DBLP:conf/sosp/NguyenFXD15,
+  author    = {Khanh Nguyen and
+               Lu Fang and
+               Guoqing (Harry) Xu and
+               Brian Demsky},
+  title     = {Speculative region-based memory management for big data systems},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {27-32},
+}
+
+@inproceedings{DBLP:conf/sosp/Stanley-Marbell15,
+  author    = {Phillip Stanley-Marbell},
+  title     = {How device properties influence energy-delay metrics and the energy-efficiency of parallel computations},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {31-35},
+}
+
+@inproceedings{DBLP:conf/sosp/YanokN15,
+  author    = {Ilya Yanok and
+               Nathaniel Nystrom},
+  title     = {Tapir: a language for verified {OS} kernel probes},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {33-38},
+}
+
+@inproceedings{DBLP:conf/sosp/RidgeSTGMS15,
+  author    = {Tom Ridge and
+               David Sheets and
+               Thomas Tuerk and
+               Andrea Giugliano and
+               Anil Madhavapeddy and
+               Peter Sewell},
+  title     = {SibylFS: formal specification and oracle-based testing for {POSIX} and real-world file systems},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {38-53},
+}
+
+@inproceedings{DBLP:conf/sosp/YuanWYS15,
+  author    = {Xinhao Yuan and
+               David Williams-King and
+               Junfeng Yang and
+               Simha Sethumadhavan},
+  title     = {Making lock-free data structures verifiable with artificial transactions},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {39-45},
+}
+
+@inproceedings{DBLP:conf/sosp/DragojevicNNRSB15,
+  author    = {Aleksandar Dragojevic and
+               Dushyanth Narayanan and
+               Edmund B. Nightingale and
+               Matthew Renzelmann and
+               Alex Shamis and
+               Anirudh Badam and
+               Miguel Castro},
+  title     = {No compromises: distributed transactions with consistency, availability, and performance},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {54-70},
+}
+
+@inproceedings{DBLP:conf/sosp/LeePKMO15,
+  author    = {Collin Lee and
+               Seo Jin Park and
+               Ankita Kejriwal and
+               Satoshi Matsushita and
+               John K. Ousterhout},
+  title     = {Implementing linearizability at large scale and low latency},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {71-86},
+}
+
+@inproceedings{DBLP:conf/sosp/WeiSCCC15,
+  author    = {Xingda Wei and
+               Jiaxin Shi and
+               Yanzhe Chen and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Fast in-memory transaction processing using {RDMA} and {HTM}},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {87-104},
+}
+
+@inproceedings{DBLP:conf/sosp/CuiGLCY15,
+  author    = {Heming Cui and
+               Rui Gu and
+               Cheng Liu and
+               Tianyu Chen and
+               Junfeng Yang},
+  title     = {Paxos made transparent},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {105-120},
+}
+
+@inproceedings{DBLP:conf/sosp/PalkarLHJPRRS15,
+  author    = {Shoumik Palkar and
+               Chang Lan and
+               Sangjin Han and
+               Keon Jang and
+               Aurojit Panda and
+               Sylvia Ratnasamy and
+               Luigi Rizzo and
+               Scott Shenker},
+  title     = {E2: a framework for {NFV} applications},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {121-136},
+}
+
+@inproceedings{DBLP:conf/sosp/HooffLZZ15,
+  author    = {Jelle van den Hooff and
+               David Lazar and
+               Matei Zaharia and
+               Nickolai Zeldovich},
+  title     = {Vuvuzela: scalable private messaging resistant to traffic analysis},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {137-152},
+}
+
+@inproceedings{DBLP:conf/sosp/RaychevMM15,
+  author    = {Veselin Raychev and
+               Madanlal Musuvathi and
+               Todd Mytkowicz},
+  title     = {Parallelizing user-defined aggregations using symbolic execution},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {153-167},
+}
+
+@inproceedings{DBLP:conf/sosp/MatveevSFM15,
+  author    = {Alexander Matveev and
+               Nir Shavit and
+               Pascal Felber and
+               Patrick Marlier},
+  title     = {Read-log-update: a lightweight synchronization mechanism for concurrent programming},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {168-183},
+}
+
+@inproceedings{DBLP:conf/sosp/CurtsingerB15,
+  author    = {Charlie Curtsinger and
+               Emery D. Berger},
+  title     = {Coz: finding code that counts with causal profiling},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {184-197},
+}
+
+@inproceedings{DBLP:conf/sosp/Hoffmann15,
+  author    = {Henry Hoffmann},
+  title     = {JouleGuard: energy guarantees for approximate applications},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {198-214},
+}
+
+@inproceedings{DBLP:conf/sosp/BadamCDFHHMMPS15,
+  author    = {Anirudh Badam and
+               Ranveer Chandra and
+               Jon Dutra and
+               Anthony Ferrese and
+               Steve Hodges and
+               Pan Hu and
+               Julia Meinershagen and
+               Thomas Moscibroda and
+               Bodhi Priyantha and
+               Evangelia D. Skiani},
+  title     = {Software defined batteries},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {215-229},
+}
+
+@inproceedings{DBLP:conf/sosp/LentzLB15,
+  author    = {Matthew Lentz and
+               James Litton and
+               Bobby Bhattacharjee},
+  title     = {Drowsy power management},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {230-244},
+}
+
+@inproceedings{DBLP:conf/sosp/AguileraLW15,
+  author    = {Marcos K. Aguilera and
+               Joshua B. Leners and
+               Michael Walfish},
+  title     = {Yesquel: scalable sql storage for web applications},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {245-262},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhangSSKP15,
+  author    = {Irene Zhang and
+               Naveen Kr. Sharma and
+               Adriana Szekeres and
+               Arvind Krishnamurthy and
+               Dan R. K. Ports},
+  title     = {Building consistent transactions with inconsistent replication},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {263-278},
+}
+
+@inproceedings{DBLP:conf/sosp/XieSLAK015,
+  author    = {Chao Xie and
+               Chunzhi Su and
+               Cody Littley and
+               Lorenzo Alvisi and
+               Manos Kapritsos and
+               Yang Wang},
+  title     = {High-performance {ACID} via modular concurrency control},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {279-294},
+}
+
+@inproceedings{DBLP:conf/sosp/LuVAHSTKL15,
+  author    = {Haonan Lu and
+               Kaushik Veeraraghavan and
+               Philippe Ajoux and
+               Jim Hunt and
+               Yee Jiun Song and
+               Wendy Tobagus and
+               Sanjeev Kumar and
+               Wyatt Lloyd},
+  title     = {Existential consistency: measuring and understanding consistency at Facebook},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {295-310},
+}
+
+@inproceedings{DBLP:conf/sosp/AmitTSAS15,
+  author    = {Nadav Amit and
+               Dan Tsafrir and
+               Assaf Schuster and
+               Ahmad Ayoub and
+               Eran Shlomo},
+  title     = {Virtual {CPU} validation},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {311-327},
+}
+
+@inproceedings{DBLP:conf/sosp/TangKVCWNDK15,
+  author    = {Chunqiang Tang and
+               Thawan Kooburat and
+               Pradeep Venkatachalam and
+               Akshay Chander and
+               Zhe Wen and
+               Aravind Narayanan and
+               Patrick Dowell and
+               Robert Karl},
+  title     = {Holistic configuration management at Facebook},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {328-343},
+}
+
+@inproceedings{DBLP:conf/sosp/KasikciSPPC15,
+  author    = {Baris Kasikci and
+               Benjamin Schubert and
+               Cristiano Pereira and
+               Gilles Pokam and
+               George Candea},
+  title     = {Failure sketching: a technique for automated root cause diagnosis of in-production failures},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {344-360},
+}
+
+@inproceedings{DBLP:conf/sosp/MinKLSK15,
+  author    = {Changwoo Min and
+               Sanidhya Kashyap and
+               Byoungyoung Lee and
+               Chengyu Song and
+               Taesoo Kim},
+  title     = {Cross-checking semantic correctness: the case of finding file system bugs},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {361-377},
+}
+
+@inproceedings{DBLP:conf/sosp/MaceRF15,
+  author    = {Jonathan Mace and
+               Ryan Roelke and
+               Rodrigo Fonseca},
+  title     = {Pivot tracing: dynamic causal monitoring for distributed systems},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {378-393},
+}
+
+@inproceedings{DBLP:conf/sosp/FangNXDL15,
+  author    = {Lu Fang and
+               Khanh Nguyen and
+               Guoqing (Harry) Xu and
+               Brian Demsky and
+               Shan Lu},
+  title     = {Interruptible tasks: treating memory pressure as interrupts for highly scalable data-parallel programs},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {394-409},
+}
+
+@inproceedings{DBLP:conf/sosp/0002BMZ15,
+  author    = {Amitabha Roy and
+               Laurent Bindschaedler and
+               Jasmina Malicevic and
+               Willy Zwaenepoel},
+  title     = {Chaos: scale-out graph processing from secondary storage},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {410-424},
+}
+
+@inproceedings{DBLP:conf/sosp/TeixeiraFSSZA15,
+  author    = {Carlos H. C. Teixeira and
+               Alexandre J. Fonseca and
+               Marco Serafini and
+               Georgos Siganos and
+               Mohammed J. Zaki and
+               Ashraf Aboulnaga},
+  title     = {Arabesque: a system for distributed graph mining},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {425-440},
+}
+
+@inproceedings{DBLP:conf/sosp/TsaiZRJZP15,
+  author    = {Chia-che Tsai and
+               Yang Zhan and
+               Jayashree Reddy and
+               Yizheng Jiao and
+               Tao Zhang and
+               Donald E. Porter},
+  title     = {How to get more value from your file system directory cache},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {441-456},
+}
+
+@inproceedings{DBLP:conf/sosp/AmvrosiadisBG15,
+  author    = {George Amvrosiadis and
+               Angela Demke Brown and
+               Ashvin Goel},
+  title     = {Opportunistic storage maintenance},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {457-473},
+}
+
+@inproceedings{DBLP:conf/sosp/YangHAKKAKAA15,
+  author    = {Suli Yang and
+               Tyler Harter and
+               Nishant Agrawal and
+               Salini Selvaraj Kowsalya and
+               Anand Krishnamurthy and
+               Samer Al-Kiswany and
+               Rini T. Kaushik and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Split-level I/O scheduling},
+  booktitle = sosp,
+  year      = 2015,
+  pages     = {474-489},
+}
+
+@inproceedings{DBLP:conf/sosp/BhaskaranXS13,
+  author    = {Meenakshi Sundaram Bhaskaran and
+               Jian Xu and
+               Steven Swanson},
+  title     = {Bankshot: caching slow storage in fast non-volatile memory},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sosp/JindalPHM13,
+  author    = {Abhilash Jindal and
+               Abhinav Pathak and
+               Y. Charlie Hu and
+               Samuel P. Midkiff},
+  title     = {On death, taxes, and sleep disorder bugs in smartphones},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sosp/KellerMAOCRKH13,
+  author    = {Gabriele Keller and
+               Toby C. Murray and
+               Sidney Amani and
+               Liam O'Connor and
+               Zilin Chen and
+               Leonid Ryzhyk and
+               Gerwin Klein and
+               Gernot Heiser},
+  title     = {File systems deserve verification too!},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sosp/MoraruAKTRB13,
+  author    = {Iulian Moraru and
+               David G. Andersen and
+               Michael Kaminsky and
+               Niraj Tolia and
+               Parthasarathy Ranganathan and
+               Nathan L. Binkert},
+  title     = {Consistent, durable, and safe memory management for byte-addressable non volatile main memory},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/sosp/ClementsKZMK13,
+  author    = {Austin T. Clements and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich and
+               Robert Tappan Morris and
+               Eddie Kohler},
+  title     = {The scalable commutativity rule: designing scalable software for multicore processors},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {1-17},
+}
+
+@inproceedings{DBLP:conf/sosp/FernandezKKA13,
+  author    = {Matthew Fernandez and
+               Ihor Kuz and
+               Gerwin Klein and
+               June Andronick},
+  title     = {Towards a verified component platform},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/KimSDC13,
+  author    = {Hyojun Kim and
+               Sangeetha Seshadri and
+               Clement L. Dickey and
+               Lawrence Chiu},
+  title     = {Phase change memory in enterprise storage systems: silver bullet or snake oil?},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/XiaHLL13,
+  author    = {Mingyuan Xia and
+               Wenbo He and
+               Xue Liu and
+               Jie Liu},
+  title     = {Why application errors drain battery easily?: a study of memory leaks in smartphone apps},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhengWWZCWD13,
+  author    = {Hao Zheng and
+               Endong Wang and
+               Yinfeng Wang and
+               Xingjun Zhang and
+               Baoke Chen and
+               Weiguo Wu and
+               Xiaoshe Dong},
+  title     = {Transparent driver-kernel isolation with {VMM} intervention},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BadamPN13,
+  author    = {Anirudh Badam and
+               Vivek S. Pai and
+               David W. Nellans},
+  title     = {Better flash access via shape-shifting virtual memory pages},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/ChenJH13,
+  author    = {Xiaomeng Chen and
+               Abhilash Jindal and
+               Y. Charlie Hu},
+  title     = {How much energy can we save from prefetching ads?: energy drain analysis of top 100 apps},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/JoseBBMP13,
+  author    = {Jithin Jose and
+               Mohammad Banikazemi and
+               Wendy Belluomini and
+               Chet Murthy and
+               Dhabaleswar K. Panda},
+  title     = {{MetaData} persistence using storage class memory: experiences with flash-backed {DRAM}},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/ShindeKKR13,
+  author    = {Pravin Shinde and
+               Antoine Kaufmann and
+               Kornilios Kourtis and
+               Timothy Roscoe},
+  title     = {Modeling {NICs} with Unicorn},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BaileyHCGL13,
+  author    = {Katelin A. Bailey and
+               Peter Hornyack and
+               Luis Ceze and
+               Steven D. Gribble and
+               Henry M. Levy},
+  title     = {Exploring storage class memory with key value stores},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/EndoKFSHK13,
+  author    = {Hiroshi Endo and
+               Hiroyoshi Kodama and
+               Hiroyuki Fukuda and
+               Toshio Sugimoto and
+               Takashi Horie and
+               Masao Kondo},
+  title     = {Cooperative control architecture of fan-less servers and fresh-air cooling in container servers for low power operation},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SunFBG13,
+  author    = {Kuei Jack Sun and
+               Daniel Fryer and
+               Angela Demke Brown and
+               Ashvin Goel},
+  title     = {Annotation for automation: rapid generation of file system tools},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/TembeyGS13,
+  author    = {Priyanka Tembey and
+               Ada Gavrilovska and
+               Karsten Schwan},
+  title     = {inTune: coordinating multicore islands to achieve global policy objectives},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Eriksen13,
+  author    = {Marius Eriksen},
+  title     = {Your server as a function},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/OhCLN13,
+  author    = {Yongseok Oh and
+               Jongmoo Choi and
+               Donghee Lee and
+               Sam H. Noh},
+  title     = {Improving performance and lifetime of the {SSD} {RAID-based} host cache through a log-structured approach},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/RiekstinJKLP13,
+  author    = {Ana Carolina Riekstin and
+               Sean James and
+               Aman Kansal and
+               Jie Liu and
+               Eric Peterson},
+  title     = {No more electrical infrastructure: towards fuel cell powered data centers},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/WangKLLMP13,
+  author    = {Qingyang Wang and
+               Yasuhiko Kanemasa and
+               Jack Li and
+               Chien-An Lai and
+               Masazumi Matsubara and
+               Calton Pu},
+  title     = {Impact of {DVFS} on n-tier application performance},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BurtsevMER13,
+  author    = {Anton Burtsev and
+               Nikhil Mishrikoti and
+               Eric Eide and
+               Robert Ricci},
+  title     = {Weir: a streaming language for performance analysis},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/KaushikSG13,
+  author    = {Rini T. Kaushik and
+               Prasenjit Sarkar and
+               Abdullah Gharaibeh},
+  title     = {Greening the compute cloud's pricing plans},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/ShakimovC13,
+  author    = {Amre Shakimov and
+               Landon P. Cox},
+  title     = {MUTT: a watchdog for {OSN} applications},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SkourtisAMB13,
+  author    = {Dimitris Skourtis and
+               Dimitris Achlioptas and
+               Carlos Maltzahn and
+               Scott A. Brandt},
+  title     = {High performance & low latency in solid-state drives through redundancy},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/AghayevD13,
+  author    = {Abutalib Aghayev and
+               Peter Desnoyers},
+  title     = {Log-structured cache: trading hit-rate for storage performance (and winning) in mobile devices},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sosp/DzikPRTV13,
+  author    = {Jan Dzik and
+               Nick Palladinos and
+               Konstantinos Rontogiannis and
+               Eirik Tsarpalis and
+               Nikolaos Vathis},
+  title     = {MBrace: cloud computing with monads},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sosp/JiaLWSW13,
+  author    = {Gangyong Jia and
+               Xi Li and
+               Jian Wan and
+               Liang Shi and
+               Chao Wang},
+  title     = {Coordinate page allocation and thread group for improving main memory power efficiency},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sosp/JoshiGBGP13,
+  author    = {Pallavi Joshi and
+               Malay K. Ganai and
+               Gogul Balakrishnan and
+               Aarti Gupta and
+               Nadia Papakonstantinou},
+  title     = {SETSUDŌ: perturbation-based testing framework for scalable distributed systems},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sosp/KannanGSK13,
+  author    = {Sudarsun Kannan and
+               Ada Gavrilovska and
+               Karsten Schwan and
+               Sanjay Kumar},
+  title     = {{NVM} heaps for accelerating browser-based applications},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Kell13,
+  author    = {Stephen Kell},
+  title     = {The operating system: should there be one?},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sosp/KimRT13,
+  author    = {Sangman Kim and
+               Indrajit Roy and
+               Vanish Talwar},
+  title     = {Evaluating integrated graphics processors for data center workloads},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sosp/WebbVYS13,
+  author    = {Kevin C. Webb and
+               Bhanu Chandra Vattikonda and
+               Kenneth Yocum and
+               Alex C. Snoeren},
+  title     = {Scalable coordination of a tightly-coupled service in the wide area},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sosp/AryaDVC13,
+  author    = {Kapil Arya and
+               Tyler Denniston and
+               Ana Maria Visan and
+               Gene Cooperman},
+  title     = {Semi-automated debugging via binary search through a process lifetime},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sosp/HoqueG13,
+  author    = {Imranul Hoque and
+               Indranil Gupta},
+  title     = {LFGraph: simple and fast distributed graph analytics},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sosp/ShenCRCS13,
+  author    = {Chenguang Shen and
+               Supriyo Chakraborty and
+               Kasturi Rangan Raghavan and
+               Haksoo Choi and
+               Mani B. Srivastava},
+  title     = {Exploiting processor heterogeneity for energy efficient context inference on mobile phones},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BirmanS13,
+  author    = {Ken Birman and
+               Heesung Sohn},
+  title     = {Hosting dynamic data in the cloud with Isis2 and the Ida {DHT}},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/sosp/MeiYZC13,
+  author    = {Xinxin Mei and
+               Ling Sing Yung and
+               Kaiyong Zhao and
+               Xiaowen Chu},
+  title     = {A measurement study of {GPU} {DVFS} on energy conservation},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/sosp/TschudinRJLLM13,
+  author    = {Peter Senna Tschudin and
+               Laurent Réveillère and
+               Lingxiao Jiang and
+               David Lo and
+               Julia L. Lawall and
+               Gilles Muller},
+  title     = {Understanding the genetic makeup of Linux device drivers},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhangWLLZZ13,
+  author    = {Yifan Zhang and
+               Xudong Wang and
+               Xuanzhe Liu and
+               Yunxin Liu and
+               Li Zhuang and
+               Feng Zhao},
+  title     = {Towards better {CPU} power management on multicore smartphones},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/sosp/CarrollH13,
+  author    = {Aaron Carroll and
+               Gernot Heiser},
+  title     = {Mobile multicores: use them or waste them},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Hoffmann13,
+  author    = {Henry Hoffmann},
+  title     = {Racing and pacing to idle: an evaluation of heuristics for energy-aware resource allocation},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/sosp/TuZKLM13,
+  author    = {Stephen Tu and
+               Wenting Zheng and
+               Eddie Kohler and
+               Barbara Liskov and
+               Samuel Madden},
+  title     = {Speedy transactions in multicore in-memory databases},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {18-32},
+}
+
+@inproceedings{DBLP:conf/sosp/DavidGT13,
+  author    = {Tudor David and
+               Rachid Guerraoui and
+               Vasileios Trigonakis},
+  title     = {Everything you always wanted to know about synchronization but were afraid to ask},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {33-48},
+}
+
+@inproceedings{DBLP:conf/sosp/RossbachYCMF13,
+  author    = {Christopher J. Rossbach and
+               Yuan Yu and
+               Jon Currey and
+               Jean-Philippe Martin and
+               Dennis Fetterly},
+  title     = {Dandelion: a compiler and runtime for heterogeneous systems},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {49-68},
+}
+
+@inproceedings{DBLP:conf/sosp/OusterhoutWZS13,
+  author    = {Kay Ousterhout and
+               Patrick Wendell and
+               Matei Zaharia and
+               Ion Stoica},
+  title     = {Sparrow: distributed, low latency scheduling},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {69-84},
+}
+
+@inproceedings{DBLP:conf/sosp/RavindranathPMB13,
+  author    = {Lenin Ravindranath and
+               Jitendra Padhye and
+               Ratul Mahajan and
+               Hari Balakrishnan},
+  title     = {Timecard: controlling user-perceived delays in server-based mobile applications},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {85-100},
+}
+
+@inproceedings{DBLP:conf/sosp/KediaB13,
+  author    = {Piyush Kedia and
+               Sorav Bansal},
+  title     = {Fast dynamic binary translation for the kernel},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {101-115},
+}
+
+@inproceedings{DBLP:conf/sosp/NikolaevB13,
+  author    = {Ruslan Nikolaev and
+               Godmar Back},
+  title     = {VirtuOS: an operating system with kernel virtualization},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {116-132},
+}
+
+@inproceedings{DBLP:conf/sosp/ElphinstoneH13,
+  author    = {Kevin Elphinstone and
+               Gernot Heiser},
+  title     = {From L3 to seL4 what have we learnt in 20 years of L4 microkernels?},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {133-150},
+}
+
+@inproceedings{DBLP:conf/sosp/MashtizadehBHM13,
+  author    = {Ali José Mashtizadeh and
+               Andrea Bittau and
+               Yifeng Frank Huang and
+               David Mazières},
+  title     = {Replication, history, and grafting in the Ori file system},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {151-166},
+}
+
+@inproceedings{DBLP:conf/sosp/HuangBRLKL13,
+  author    = {Qi Huang and
+               Ken Birman and
+               Robbert van Renesse and
+               Wyatt Lloyd and
+               Sanjeev Kumar and
+               Harry C. Li},
+  title     = {An analysis of Facebook photo caching},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {167-181},
+}
+
+@inproceedings{DBLP:conf/sosp/ThereskaBOKRTBZ13,
+  author    = {Eno Thereska and
+               Hitesh Ballani and
+               Greg O'Shea and
+               Thomas Karagiannis and
+               Antony I. T. Rowstron and
+               Tom Talpey and
+               Richard Black and
+               Timothy Zhu},
+  title     = {IOFlow: a software-defined storage architecture},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {182-196},
+}
+
+@inproceedings{DBLP:conf/sosp/CoburnBSGS13,
+  author    = {Joel Coburn and
+               Trevor Bunker and
+               Meir Schwarz and
+               Rajesh Gupta and
+               Steven Swanson},
+  title     = {From {ARIES} to MARS: transaction support for next-generation, solid-state drives},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {197-212},
+}
+
+@inproceedings{DBLP:conf/sosp/ChandraKZ13,
+  author    = {Ramesh Chandra and
+               Taesoo Kim and
+               Nickolai Zeldovich},
+  title     = {Asynchronous intrusion recovery for interconnected web services},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {213-227},
+}
+
+@inproceedings{DBLP:conf/sosp/ChidambaramPAA13,
+  author    = {Vijay Chidambaram and
+               Thanumalayan Sankaranarayana Pillai and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Optimistic crash consistency},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {228-243},
+}
+
+@inproceedings{DBLP:conf/sosp/XuZHZSYZP13,
+  author    = {Tianyin Xu and
+               Jiaqi Zhang and
+               Peng Huang and
+               Jing Zheng and
+               Tianwei Sheng and
+               Ding Yuan and
+               Yuanyuan Zhou and
+               Shankar Pasupathy},
+  title     = {Do not blame users for misconfigurations},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {244-259},
+}
+
+@inproceedings{DBLP:conf/sosp/WangZKS13,
+  author    = {Xi Wang and
+               Nickolai Zeldovich and
+               M. Frans Kaashoek and
+               Armando Solar-Lezama},
+  title     = {Towards optimization-safe systems: analyzing the impact of undefined behavior},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {260-275},
+}
+
+@inproceedings{DBLP:conf/sosp/ZhangPZSAL13,
+  author    = {Yang Zhang and
+               Russell Power and
+               Siyuan Zhou and
+               Yair Sovran and
+               Marcos K. Aguilera and
+               Jinyang Li},
+  title     = {Transaction chains: achieving serializability with low latency in geo-distributed storage systems},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {276-291},
+}
+
+@inproceedings{DBLP:conf/sosp/WuBPKM13,
+  author    = {Zhe Wu and
+               Michael Butkiewicz and
+               Dorian Perkins and
+               Ethan Katz-Bassett and
+               Harsha V. Madhyastha},
+  title     = {SPANStore: cost-effective geo-replicated storage spanning multiple cloud services},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {292-308},
+}
+
+@inproceedings{DBLP:conf/sosp/TerryPKBAA13,
+  author    = {Douglas B. Terry and
+               Vijayan Prabhakaran and
+               Ramakrishna Kotla and
+               Mahesh Balakrishnan and
+               Marcos K. Aguilera and
+               Hussam Abu-Libdeh},
+  title     = {Consistency-based service level agreements for cloud storage},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {309-324},
+}
+
+@inproceedings{DBLP:conf/sosp/BalakrishnanMWWPWDRZZ13,
+  author    = {Mahesh Balakrishnan and
+               Dahlia Malkhi and
+               Ted Wobber and
+               Ming Wu and
+               Vijayan Prabhakaran and
+               Michael Wei and
+               John D. Davis and
+               Sriram Rao and
+               Tao Zou and
+               Aviad Zuck},
+  title     = {Tango: distributed data structures over a shared log},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {325-340},
+}
+
+@inproceedings{DBLP:conf/sosp/BraunFRSBW13,
+  author    = {Benjamin Braun and
+               Ariel J. Feldman and
+               Zuocheng Ren and
+               Srinath T. V. Setty and
+               Andrew J. Blumberg and
+               Michael Walfish},
+  title     = {Verifying computations with state},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {341-357},
+}
+
+@inproceedings{DBLP:conf/sosp/MoraruAK13,
+  author    = {Iulian Moraru and
+               David G. Andersen and
+               Michael Kaminsky},
+  title     = {There is more consensus in Egalitarian parliaments},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {358-372},
+}
+
+@inproceedings{DBLP:conf/sosp/WeissHAA13,
+  author    = {Zev Weiss and
+               Tyler Harter and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {ROOT: replaying multithreaded traces with resource-oriented ordering},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {373-387},
+}
+
+@inproceedings{DBLP:conf/sosp/CuiSLLBXYGB13,
+  author    = {Heming Cui and
+               Jirí Simsa and
+               Yi-Hong Lin and
+               Hao Li and
+               Ben Blum and
+               Xinan Xu and
+               Junfeng Yang and
+               Garth A. Gibson and
+               Randal E. Bryant},
+  title     = {Parrot: a practical runtime for deterministic, stable, and reliable threads},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {388-405},
+}
+
+@inproceedings{DBLP:conf/sosp/KasikciZC13,
+  author    = {Baris Kasikci and
+               Cristian Zamfir and
+               George Candea},
+  title     = {RaceMob: crowdsourced data race detection},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {406-422},
+}
+
+@inproceedings{DBLP:conf/sosp/ZahariaDLHSS13,
+  author    = {Matei Zaharia and
+               Tathagata Das and
+               Haoyuan Li and
+               Timothy Hunter and
+               Scott Shenker and
+               Ion Stoica},
+  title     = {Discretized streams: fault-tolerant streaming computation at scale},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {423-438},
+}
+
+@inproceedings{DBLP:conf/sosp/MurrayMIIBA13,
+  author    = {Derek Gordon Murray and
+               Frank McSherry and
+               Rebecca Isaacs and
+               Michael Isard and
+               Paul Barham and
+               Martín Abadi},
+  title     = {Naiad: a timely dataflow system},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {439-455},
+}
+
+@inproceedings{DBLP:conf/sosp/NguyenLP13,
+  author    = {Donald Nguyen and
+               Andrew Lenharth and
+               Keshav Pingali},
+  title     = {A lightweight infrastructure for graph analytics},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {456-471},
+}
+
+@inproceedings{DBLP:conf/sosp/RoyMZ13,
+  author    = {Amitabha Roy and
+               Ivo Mihailovic and
+               Willy Zwaenepoel},
+  title     = {X-Stream: edge-centric graph processing using streaming partitions},
+  booktitle = sosp,
+  year      = 2013,
+  pages     = {472-488},
+}
+
+@inproceedings{DBLP:conf/sosp/SahaLM11,
+  author    = {Suman Saha and
+               Julia Lawall and
+               Gilles Muller},
+  title     = {Finding resource-release omission faults in Linux},
+  booktitle = sosp,
+  year      = 2011,
+  pages     = {1-1},
+}
+
 @inproceedings{DBLP:conf/sosp/LimFAK11,
   author    = {Hyeontaek Lim and
                Bin Fan and
@@ -9,6 +2217,91 @@
   booktitle = sosp,
   year      = 2011,
   pages     = {1-13},
+}
+
+@inproceedings{DBLP:conf/sosp/TartlerL00S11,
+  author    = {Reinhard Tartler and
+               Daniel Lohmann and
+               Christian Dietrich and
+               Christoph Egger and
+               Julio Sincero},
+  title     = {Configuration coverage in the analysis of large-scale system software},
+  booktitle = sosp,
+  year      = 2011,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/WargL11,
+  author    = {Alexander Warg and
+               Adam Lackorzynski},
+  title     = {Rounding pointers: type safe capabilities with C++ meta programming},
+  booktitle = sosp,
+  year      = 2011,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/DeHonKKMMMMPPRS11,
+  author    = {André DeHon and
+               Ben Karel and
+               Thomas F. Knight Jr. and
+               Gregory Malecha and
+               Benoît Montagu and
+               Robin Morisset and
+               Greg Morrisett and
+               Benjamin C. Pierce and
+               Randy Pollack and
+               Sumit Ray and
+               Olin Shivers and
+               Jonathan M. Smith and
+               Gregory Sullivan},
+  title     = {Preliminary design of the {SAFE} platform},
+  booktitle = sosp,
+  year      = 2011,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/GerakiosPSV11,
+  author    = {Prodromos Gerakios and
+               Nikolaos Papaspyrou and
+               Konstantinos Sagonas and
+               Panagiotis Vekris},
+  title     = {Dynamic deadlock avoidance in systems code using statically inferred effects},
+  booktitle = sosp,
+  year      = 2011,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SunFGB11,
+  author    = {Jack Sun and
+               Daniel Fryer and
+               Ashvin Goel and
+               Angela Demke Brown},
+  title     = {Using declarative invariants for protecting file-system integrity},
+  booktitle = sosp,
+  year      = 2011,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Gidra0S011,
+  author    = {Lokesh Gidra and
+               Gaël Thomas and
+               Julien Sopena and
+               Marc Shapiro},
+  title     = {Assessing the scalability of garbage collectors on many cores},
+  booktitle = sosp,
+  year      = 2011,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sosp/VisanACD11,
+  author    = {Ana Maria Visan and
+               Kapil Arya and
+               Gene Cooperman and
+               Tyler Denniston},
+  title     = {URDB: a universal reversible debugger based on decomposing debugging histories},
+  booktitle = sosp,
+  year      = 2011,
+  pages     = {8-1},
 }
 
 @inproceedings{DBLP:conf/sosp/GlendenningBKA11,
@@ -201,7 +2494,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/MickensD11,
-  author    = {James Mickens and
+  author    = {James W. Mickens and
                Mohan Dhawan},
   title     = {Atlantis: robust, extensible execution environments for web applications},
   booktitle = sosp,
@@ -352,6 +2645,15 @@
   pages     = {401-416},
 }
 
+@inproceedings{DBLP:conf/sosp/BarnesR09,
+  author    = {Frederick R. M. Barnes and
+               Carl G. Ritson},
+  title     = {Checking process-oriented operating system behaviour using {CSP} and refinement},
+  booktitle = sosp,
+  year      = 2009,
+  pages     = {1-1},
+}
+
 @inproceedings{DBLP:conf/sosp/AndersenFKPTV09,
   author    = {David G. Andersen and
                Jason Franklin and
@@ -363,6 +2665,65 @@
   booktitle = sosp,
   year      = 2009,
   pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/sosp/ReicheltSB09,
+  author    = {Sebastian Reichelt and
+               Jan Stoess and
+               Frank Bellosa},
+  title     = {A microkernel {API} for fine-grained decomposition},
+  booktitle = sosp,
+  year      = 2009,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/PrincehouseB09,
+  author    = {Lonnie Princehouse and
+               Ken Birman},
+  title     = {{Code-Partitioning} Gossip},
+  booktitle = sosp,
+  year      = 2009,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/KicimanLM09,
+  author    = {Emre Kiciman and
+               Benjamin Livshits and
+               Madanlal Musuvathi},
+  title     = {CatchAndRetry: extending exceptions to handle distributed system failures and recovery},
+  booktitle = sosp,
+  year      = 2009,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/DagandBR09,
+  author    = {Pierre-Évariste Dagand and
+               Andrew Baumann and
+               Timothy Roscoe},
+  title     = {Filet-o-Fish: practical and dependable domain-specific languages for {OS} development},
+  booktitle = sosp,
+  year      = 2009,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SchmidtLP09,
+  author    = {Alexander Schmidt and
+               Martin von Löwis and
+               Andreas Polze},
+  title     = {KStruct: preserving consistency through C annotations},
+  booktitle = sosp,
+  year      = 2009,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/OstrowskiBD09,
+  author    = {Krzysztof Ostrowski and
+               Ken Birman and
+               Danny Dolev},
+  title     = {Distributed data flow language for multi-party protocols},
+  booktitle = sosp,
+  year      = 2009,
+  pages     = {7-1},
 }
 
 @inproceedings{DBLP:conf/sosp/DobrescuEACFIKMR09,
@@ -385,7 +2746,7 @@
   author    = {Andrew Baumann and
                Paul Barham and
                Pierre-Évariste Dagand and
-               Timothy L. Harris and
+               Tim Harris and
                Rebecca Isaacs and
                Simon Peter and
                Timothy Roscoe and
@@ -602,7 +2963,7 @@
                Jon Currey and
                Udi Wieder and
                Kunal Talwar and
-               Andrew Goldberg},
+               Andrew V. Goldberg},
   title     = {Quincy: fair scheduling for distributed computing clusters},
   booktitle = sosp,
   year      = 2009,
@@ -657,6 +3018,18 @@
   pages     = {321-334},
 }
 
+@inproceedings{DBLP:conf/sosp/DiatchkiHJLT07,
+  author    = {Iavor S. Diatchki and
+               Thomas Hallgren and
+               Mark P. Jones and
+               Rebekah Leslie and
+               Andrew Tolmach},
+  title     = {Writing systems software in a functional language: an experience report},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {1-1},
+}
+
 @inproceedings{DBLP:conf/sosp/WangFHJ07,
   author    = {Helen J. Wang and
                Xiaofeng Fan and
@@ -666,6 +3039,96 @@
   booktitle = sosp,
   year      = 2007,
   pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/sosp/StuartHLAPM07,
+  author    = {Henrik Stuart and
+               René Rydhof Hansen and
+               Julia L. Lawall and
+               Jesper Andersen and
+               Yoann Padioleau and
+               Gilles Muller},
+  title     = {Towards easing the diagnosis of bugs in {OS} code},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/sosp/LohmannSHSS07,
+  author    = {Daniel Lohmann and
+               Jochen Streicher and
+               Wanja Hofer and
+               Olaf Spinczyk and
+               Wolfgang Schröder-Preikschat},
+  title     = {Configurable memory protection by aspects},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/sosp/MarquetG07,
+  author    = {Kevin Marquet and
+               Gilles Grimaud},
+  title     = {A {DSL} approach for object memory management of small devices},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/sosp/WaltonE07,
+  author    = {Sean Walton and
+               Eric Eide},
+  title     = {Resource management aspects for sensor network software},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/sosp/McKenneyMW07,
+  author    = {Paul E. McKenney and
+               Maged M. Michael and
+               Jonathan Walpole},
+  title     = {Why the grass may not be greener on the other side: a comparison of locking vs. transactional memory},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/sosp/SondagKR07,
+  author    = {Tyler Sondag and
+               Viswanath Krishnamurthy and
+               Hridesh Rajan},
+  title     = {Predictive thread-to-core assignment on a heterogeneous multi-core processor},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/sosp/Blaser07,
+  author    = {Luc Bläser},
+  title     = {A high-performance operating system for structured concurrent programs},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/sosp/BierhoffH07,
+  author    = {Kevin Bierhoff and
+               Chris Hawblitzel},
+  title     = {Checking the hardware-software interface in spec#},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/sosp/RyzhykKH07,
+  author    = {Leonid Ryzhyk and
+               Ihor Kuz and
+               Gernot Heiser},
+  title     = {Formalising device driver interfaces},
+  booktitle = sosp,
+  year      = 2007,
+  pages     = {10-1},
 }
 
 @inproceedings{DBLP:conf/sosp/KicimanL07,
@@ -926,7 +3389,7 @@
                Natan Cliffer and
                M. Frans Kaashoek and
                Eddie Kohler and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Information flow control for standard {OS} abstractions},
   booktitle = sosp,
   year      = 2007,
@@ -991,7 +3454,7 @@
                Eddie Kohler and
                David Mazières and
                M. Frans Kaashoek and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Labels and event processes in the Asbestos operating system},
   booktitle = sosp,
   year      = 2005,
@@ -1337,7 +3800,7 @@
                Boris Dragovic and
                Keir Fraser and
                Steven Hand and
-               Timothy L. Harris and
+               Tim Harris and
                Alex Ho and
                Rolf Neugebauer and
                Ian Pratt and
@@ -1554,7 +4017,7 @@
   author    = {David G. Andersen and
                Hari Balakrishnan and
                M. Frans Kaashoek and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Resilient Overlay Networks},
   booktitle = sosp,
   year      = 2001,
@@ -1607,7 +4070,7 @@
   author    = {Frank Dabek and
                M. Frans Kaashoek and
                David R. Karger and
-               Robert Morris and
+               Robert Tappan Morris and
                Ion Stoica},
   title     = {{Wide-Area} Cooperative Storage with {CFS}},
   booktitle = sosp,
@@ -1619,7 +4082,7 @@
   author    = {Tammo Spalink and
                Scott Karlin and
                Larry L. Peterson and
-               Yitzchak Gottlieb},
+               Yitzchak M. Gottlieb},
   title     = {Building a Robust {Software-Based} Router Using Network Processors},
   booktitle = sosp,
   year      = 2001,
@@ -1786,7 +4249,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/MorrisKJK99,
-  author    = {Robert Morris and
+  author    = {Robert Tappan Morris and
                Eddie Kohler and
                John Jannotti and
                M. Frans Kaashoek},
@@ -2248,7 +4711,7 @@
 @inproceedings{DBLP:conf/sosp/FeeleyMPKL95,
   author    = {Michael J. Feeley and
                William E. Morgan and
-               Frederic H. Pighin and
+               Frédéric H. Pighin and
                Anna R. Karlin and
                Henry M. Levy and
                Chandramohan A. Thekkath},
@@ -3308,7 +5771,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/Reinhardt85,
-  author    = {Steven K. Reinhardt},
+  author    = {Steven P. Reinhardt},
   title     = {A {Data-Flow} Approach to Multitasking ob {CRAY} {X-MP} Compputers},
   booktitle = sosp,
   year      = 1985,
@@ -3566,7 +6029,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/FridrichO81,
-  author    = {M. Fridrich and
+  author    = {Marek Fridrich and
                William J. Older},
   title     = {The Felix File System},
   booktitle = sosp,
@@ -3725,6 +6188,7 @@
                Bruce J. Walker and
                Johanna M. Chow and
                David A. Edwards and
+               Charles S. Kline and
                Gerard Rudisin and
                Greg Thiel},
   title     = {{LOCUS} - A Network Transparent, High Reliability Distributed System},
@@ -4064,7 +6528,7 @@
 }
 
 @inproceedings{DBLP:conf/sosp/CaseyS77,
-  author    = {L. M. Casey and
+  author    = {Liam M. Casey and
                N. H. Shelness},
   title     = {A Domain Structure for Distributed Computer Systems},
   booktitle = sosp,
@@ -4231,8 +6695,8 @@
 }
 
 @inproceedings{DBLP:conf/sosp/CosellJMSSTW75,
-  author    = {B. S. Cosell and
-               P. R. Johnson and
+  author    = {Bernard P. Cosell and
+               Paul R. Johnson and
                J. H. Malman and
                Richard E. Schantz and
                J. Sussman and
@@ -4537,7 +7001,7 @@
   author    = {K. L. Krause and
                V. Y. Shen and
                Herbert D. Schwetman},
-  title     = {A Task Schedulinh Algorithm for a Multiprogramming Computer System},
+  title     = {A Task Scheduling Algorithm for a Multiprogramming Computer System},
   booktitle = sosp,
   year      = 1973,
   pages     = {112-118},
@@ -4768,4 +7232,221 @@
   booktitle = sosp,
   year      = 1971,
   pages     = {156-163},
+}
+
+@inproceedings{DBLP:conf/sosp/Mealy69,
+  author    = {George H. Mealy},
+  title     = {The system design cycle},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {1-7},
+}
+
+@inproceedings{DBLP:conf/sosp/NeedhamH69,
+  author    = {Roger M. Needham and
+               D. F. Hartley},
+  title     = {Theory and practice in operating system design},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {8-12},
+}
+
+@inproceedings{DBLP:conf/sosp/Neumann69,
+  author    = {Peter G. Neumann},
+  title     = {The role of motherhood in the pop art of system programming},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/sosp/PooleW69,
+  author    = {Peter C. Poole and
+               William M. Waite},
+  title     = {Machine independent software},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/sosp/BatsonJW69,
+  author    = {Alan P. Batson and
+               Shy-Ming Ju and
+               David C. Wood},
+  title     = {Measurements of segment size},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {25-29},
+}
+
+@inproceedings{DBLP:conf/sosp/BensoussanCD69,
+  author    = {A. Bensoussan and
+               C. T. Clingen and
+               Robert C. Daley},
+  title     = {The multics virtual memory},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {30-42},
+}
+
+@inproceedings{DBLP:conf/sosp/Hellerman69,
+  author    = {H. Hellerman},
+  title     = {Complementary replacement: a meta scheduling principle},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {43-46},
+}
+
+@inproceedings{DBLP:conf/sosp/Kernighan69,
+  author    = {Brian W. Kernighan},
+  title     = {Optimal segmentation points for programs},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {47-53},
+}
+
+@inproceedings{DBLP:conf/sosp/VarehaRG69,
+  author    = {Albin L. Vareha and
+               Ronald M. Rutledge and
+               Michael M. Gold},
+  title     = {Strategies for structuring two level memories in a paging environment},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {54-59},
+}
+
+@inproceedings{DBLP:conf/sosp/BernsteinDK69,
+  author    = {Arthur J. Bernstein and
+               G. D. Detlefsen and
+               R. H. Kerr},
+  title     = {Process control and communication},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {60-66},
+}
+
+@inproceedings{DBLP:conf/sosp/BetourneBFKKKM69,
+  author    = {Claude Bétourné and
+               Jacques Boulenger and
+               Jean Ferrié and
+               Claude Kaiser and
+               Jean Kott and
+               Sacha Krakowiak and
+               Jacques Mossière},
+  title     = {Process management and resource sharing in the multiaccess system "ESOPE"},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {67-74},
+}
+
+@inproceedings{DBLP:conf/sosp/EarlB69,
+  author    = {Douglas B. Earl and
+               Faith L. Bugely},
+  title     = {Basic time-sharing: a system of computing principles},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {75-79},
+}
+
+@inproceedings{DBLP:conf/sosp/Johnston69,
+  author    = {John B. Johnston},
+  title     = {Structure of multiple activity algorithms},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {80-82},
+}
+
+@inproceedings{DBLP:conf/sosp/SpierO69,
+  author    = {Michael J. Spier and
+               Elliott I. Organick},
+  title     = {The multics interprocess communication facility},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {83-91},
+}
+
+@inproceedings{DBLP:conf/sosp/AlsbergM69,
+  author    = {Peter Alsberg and
+               Carlton R. Mills},
+  title     = {The structure of the {ILLIAC} {IV} operating system},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {92-96},
+}
+
+@inproceedings{DBLP:conf/sosp/FuchiTMY69,
+  author    = {Kazuhiro Fuchi and
+               Hozumi Tanaka and
+               Yuriko Manago and
+               Toshitsugu Yuba},
+  title     = {A program simulator by partial interpretation},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {97-104},
+}
+
+@inproceedings{DBLP:conf/sosp/Kulsrud69,
+  author    = {Helene E. Kulsrud},
+  title     = {HELPER: an interactive extensible debugging system},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {105-111},
+}
+
+@inproceedings{DBLP:conf/sosp/Mills69,
+  author    = {David L. Mills},
+  title     = {Multiprogramming in a small-systems environment},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {112-119},
+}
+
+@inproceedings{DBLP:conf/sosp/Patel69,
+  author    = {Rajani M. Patel},
+  title     = {Basic I/O handling on burroughs B6500},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {120-129},
+}
+
+@inproceedings{DBLP:conf/sosp/ArdenB69,
+  author    = {Bruce W. Arden and
+               Donald W. Boettner},
+  title     = {Measurement and performance of a multiprogramming system},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {130-146},
+}
+
+@inproceedings{DBLP:conf/sosp/BryanS69,
+  author    = {G. E. Bryan and
+               Jack E. Shemer},
+  title     = {The {UTS} time-sharing system: performance analysis and instrumentation},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {147-158},
+}
+
+@inproceedings{DBLP:conf/sosp/Karush69,
+  author    = {Arnold D. Karush},
+  title     = {Two approaches for measuring the performance of time-sharing systems},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {159-166},
+}
+
+@inproceedings{DBLP:conf/sosp/SaltzerG69,
+  author    = {Jerome H. Saltzer and
+               John Gintell},
+  title     = {The instrumentation of multics},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {167-174},
+}
+
+@inproceedings{DBLP:conf/sosp/Wulf69,
+  author    = {William A. Wulf},
+  title     = {Performance monitors for multi-programming systems},
+  booktitle = sosp,
+  year      = 1969,
+  pages     = {175-181},
 }

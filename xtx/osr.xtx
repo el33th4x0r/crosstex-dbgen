@@ -1,5 +1,1221 @@
 @include journals-cs
 
+@article{DBLP:journals/sigops/AlamZEE18,
+  author    = {Hanna Alam and
+               Tianhao Zhang and
+               Mattan Erez and
+               Yoav Etsion},
+  title     = {{Do-It-Yourself} Virtual Memory Translation},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {1-12},
+}
+
+@article{DBLP:journals/sigops/KannanGGS18,
+  author    = {Sudarsun Kannan and
+               Ada Gavrilovska and
+               Vishal Gupta and
+               Karsten Schwan},
+  title     = {HeteroOS: {OS} Design for Heterogeneous Memory Management in Datacenters},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {13-26},
+}
+
+@article{DBLP:journals/sigops/Ausavarungnirun18,
+  author    = {Rachata Ausavarungnirun and
+               Joshua Landgraf and
+               Vance Miller and
+               Saugata Ghose and
+               Jayneel Gandhi and
+               Christopher J. Rossbach and
+               Onur Mutlu},
+  title     = {Mosaic: Enabling {Application-Transparent} Support for Multiple Page Sizes in Throughput Processors},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {27-44},
+}
+
+@article{DBLP:journals/sigops/DallLLN18,
+  author    = {Christoffer Dall and
+               Shih-Wei Li and
+               Jin Tack Lim and
+               Jason Nieh},
+  title     = {{ARM} Virtualization: Performance and Architectural Implications},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {45-56},
+}
+
+@article{DBLP:journals/sigops/YanVCB18,
+  author    = {Zi Yan and
+               Ján Veselý and
+               Guilherme Cox and
+               Abhishek Bhattacharjee},
+  title     = {Hardware Translation Coherence for Virtualized Systems},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {57-70},
+}
+
+@article{DBLP:journals/sigops/TsengZZGS18,
+  author    = {Hung-Wei Tseng and
+               Qianchen Zhao and
+               Yuxiao Zhou and
+               Mark Gahagan and
+               Steven Swanson},
+  title     = {Morpheus: Exploring the Potential of {Near-Data} Processing for Creating Application Objects in Heterogeneous Computing},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {71-83},
+}
+
+@article{DBLP:journals/sigops/ShaharBS18,
+  author    = {Sagi Shahar and
+               Shai Bergman and
+               Mark Silberstein},
+  title     = {ActivePointers: A Case for Software Address Translation on {GPUs}},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {84-95},
+}
+
+@article{DBLP:journals/sigops/XieDMKVZT18,
+  author    = {Shaolin Xie and
+               Scott Davidson and
+               Ikuo Magaki and
+               Moein Khazraee and
+               Luis Vega and
+               Lu Zhang and
+               Michael Bedford Taylor},
+  title     = {Extreme Datacenter Specialization for {Planet-Scale} Computing: {ASIC} Clouds},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {96-108},
+}
+
+@article{DBLP:journals/sigops/DrumondDMUPFGP18,
+  author    = {Mario Drumond and
+               Alexandros Daglis and
+               Nooshin Mirzadeh and
+               Dmitrii Ustiugov and
+               Javier Picorel and
+               Babak Falsafi and
+               Boris Grot and
+               Dionisios N. Pnevmatikatos},
+  title     = {Algorithm/Architecture {Co-Design} for {Near-Memory} Processing},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {109-122},
+}
+
+@article{DBLP:journals/sigops/PettitPSTBT18,
+  author    = {Justin Pettit and
+               Ben Pfaff and
+               Joe Stringer and
+               Cheng-Chun Tu and
+               Brenden Blanco and
+               Alex Tessmer},
+  title     = {Bringing Platform Harmony to {VMware} {NSX}},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {123-128},
+}
+
+@article{DBLP:journals/sigops/Ott18,
+  author    = {David E. Ott},
+  title     = {Software Defined Infrastructure: Rethinking Cybersecurity with a More Capable Toolset},
+  journal   = osr,
+  volume    = {52},
+  number    = {1},
+  year      = 2018,
+  pages     = {129-133},
+}
+
+@article{DBLP:journals/sigops/Tennenhouse17,
+  author    = {David Tennenhouse},
+  title     = {Research at {VMware}},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {1-4},
+}
+
+@article{DBLP:journals/sigops/BudiuD17,
+  author    = {Mihai Budiu and
+               Chris Dodd},
+  title     = {The P416 Programming Language},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {5-14},
+}
+
+@article{DBLP:journals/sigops/XuD17,
+  author    = {Xin Xu and
+               Bhavesh Davda},
+  title     = {A Hypervisor Approach to Enable Live Migration with Passthrough {SR-IOV} Network Devices},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {15-23},
+}
+
+@article{DBLP:journals/sigops/CalciuSBA17,
+  author    = {Irina Calciu and
+               Siddhartha Sen and
+               Mahesh Balakrishnan and
+               Marcos K. Aguilera},
+  title     = {How to implement any concurrent data structure for modern servers},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {24-32},
+}
+
+@article{DBLP:journals/sigops/FinkKZ17,
+  author    = {Bryan Fink and
+               Eric Knauft and
+               Gene Zhang},
+  title     = {vSAN: Modern Distributed Storage},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {33-37},
+}
+
+@article{DBLP:journals/sigops/MerrifieldT17,
+  author    = {Timothy Merrifield and
+               H. Reza Taheri},
+  title     = {Performance Implications of Extended Page Tables on Virtualized x86 Processors},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {38-47},
+}
+
+@article{DBLP:journals/sigops/GuptaSWAFK17,
+  author    = {Abhishek Gupta and
+               Rick Spillane and
+               Wenguang Wang and
+               Maxime Austruy and
+               Vahid Fereydouny and
+               Christos T. Karamanolis},
+  title     = {Hybrid Cloud Storage: Bridging the Gap between Compute Clusters and Cloud Storage},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {48-53},
+}
+
+@article{DBLP:journals/sigops/AmitWT17,
+  author    = {Nadav Amit and
+               Michael Wei and
+               Cheng-Chun Tu},
+  title     = {Hypercallbacks},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {54-59},
+}
+
+@article{DBLP:journals/sigops/SoundararajanS17,
+  author    = {Vijayaraghavan Soundararajan and
+               Joshua Schnee},
+  title     = {Sustainability as a first-class metric for developers and end-users},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {60-66},
+}
+
+@article{DBLP:journals/sigops/HowardMS17,
+  author    = {Heidi Howard and
+               Dahlia Malkhi and
+               Alexander Spiegelman},
+  title     = {Revisiting the Paxos Foundations: A Look at Summer Internship Work at {VMware} Research},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {67-71},
+}
+
+@article{DBLP:journals/sigops/TuSP17,
+  author    = {Cheng-Chun Tu and
+               Joe Stringer and
+               Justin Pettit},
+  title     = {Building an Extensible Open {vSwitch} Datapath},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {72-77},
+}
+
+@article{DBLP:journals/sigops/DhawanJSBCGJLMM17,
+  author    = {Medhavi Dhawan and
+               Gurprit Johal and
+               Jim Stabile and
+               Vjekoslav Brajkovic and
+               James Chang and
+               Kapil Goyal and
+               Kevin James and
+               Zeeshan Lokhandwala and
+               Anny Martínez Manzanilla and
+               Roger Michoud and
+               Maithem Munshed and
+               Srinivas Neginhal and
+               Konstantin Spirov and
+               Michael Wei and
+               Scott Fritchie and
+               Christopher J. Rossbach and
+               Ittai Abraham and
+               Dahlia Malkhi},
+  title     = {Consistent Clustered Applications with Corfu},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {78-82},
+}
+
+@article{DBLP:journals/sigops/KwonYPRW17,
+  author    = {Youngjin Kwon and
+               Hangchen Yu and
+               Simon Peter and
+               Christopher J. Rossbach and
+               Emmett Witchel},
+  title     = {Ingens: Huge Page Support for the {OS} and Hypervisor},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {83-93},
+}
+
+@article{DBLP:journals/sigops/Balasubramanian17,
+  author    = {Abhiram Balasubramanian and
+               Marek S. Baranowski and
+               Anton Burtsev and
+               Aurojit Panda and
+               Zvonimir Rakamaric and
+               Leonid Ryzhyk},
+  title     = {System Programming in Rust: Beyond Safety},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {94-99},
+}
+
+@article{DBLP:journals/sigops/BritoMB17,
+  author    = {Alisson Brito and
+               Rivalino Matias Jr. and
+               Leandro Buss Becker},
+  title     = {6th Brazilian Symposium on Computing System Engineering},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {100},
+}
+
+@article{DBLP:journals/sigops/ReisF17,
+  author    = {Joao Gabriel Reis and
+               Antônio Augusto Fröhlich},
+  title     = {{OS} Support for Adaptive Components in Self-aware Systems},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {101-112},
+}
+
+@article{DBLP:journals/sigops/LiPM17,
+  author    = {Cha V. Li and
+               Vinicius Petrucci and
+               Daniel Mossé},
+  title     = {Exploring Machine Learning for Thread Characterization on Heterogeneous Multiprocessors},
+  journal   = osr,
+  volume    = {51},
+  number    = {1},
+  year      = 2017,
+  pages     = {113-123},
+}
+
+@article{DBLP:journals/sigops/HeiserKPR16,
+  author    = {Gernot Heiser and
+               Kenji Kono and
+               KyoungSoo Park and
+               Robbert van Renesse},
+  title     = {Report on the {Asia-Pacific} Systems Workshop 2015 (APSys'15)},
+  journal   = osr,
+  volume    = {50},
+  number    = {1},
+  year      = 2016,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/sigops/Acquaviva16,
+  author    = {Jean-Thomas Acquaviva},
+  title     = {Performance and Scalability of Storage Systems, a view from the {WOPSSS} Workshop},
+  journal   = osr,
+  volume    = {50},
+  number    = {3},
+  year      = 2016,
+  pages     = {2},
+}
+
+@article{DBLP:journals/sigops/ChickCSBS16,
+  author    = {Oliver R. A. Chick and
+               Lucian Carata and
+               James Snee and
+               Nikilesh Balakrishnan and
+               Ripduman Sohan},
+  title     = {Shadow Kernels: A General Mechanism For Kernel Specialization in Existing Operating Systems},
+  journal   = osr,
+  volume    = {50},
+  number    = {1},
+  year      = 2016,
+  pages     = {3-8},
+}
+
+@article{DBLP:journals/sigops/PapagiannisSMB16,
+  author    = {Anastasios Papagiannis and
+               Giorgos Saloustros and
+               Manolis Marazakis and
+               Angelos Bilas},
+  title     = {Iris: An optimized I/O stack for low-latency storage devices},
+  journal   = osr,
+  volume    = {50},
+  number    = {3},
+  year      = 2016,
+  pages     = {3-11},
+}
+
+@article{DBLP:journals/sigops/KashyapMK16,
+  author    = {Sanidhya Kashyap and
+               Changwoo Min and
+               Taesoo Kim},
+  title     = {Opportunistic Spinlocks: Achieving Virtual Machine Scalability in the Clouds},
+  journal   = osr,
+  volume    = {50},
+  number    = {1},
+  year      = 2016,
+  pages     = {9-16},
+}
+
+@article{DBLP:journals/sigops/SchenckSFHP16,
+  author    = {Wolfram Schenck and
+               Salem El Sayed and
+               Maciej Foszczynski and
+               Wilhelm Homberg and
+               Dirk Pleiter},
+  title     = {Evaluation and Performance Modeling of a Burst Buffer Solution},
+  journal   = osr,
+  volume    = {50},
+  number    = {3},
+  year      = 2016,
+  pages     = {12-26},
+}
+
+@article{DBLP:journals/sigops/OyamadaFB16,
+  author    = {Márcio Oyamada and
+               Antônio Augusto Fröhlich and
+               Leandro Buss Becker},
+  title     = {5th Brazilian Symposium on Computing System Engineering},
+  journal   = osr,
+  volume    = {50},
+  number    = {1},
+  year      = 2016,
+  pages     = {17},
+}
+
+@article{DBLP:journals/sigops/SantosM16,
+  author    = {Caio Augusto R. Dos Santos and
+               Rivalino Matias Jr.},
+  title     = {Exploratory Analysis on Failure Causes in a {Mass-Market} Operating System},
+  journal   = osr,
+  volume    = {50},
+  number    = {1},
+  year      = 2016,
+  pages     = {18-30},
+}
+
+@article{DBLP:journals/sigops/OuarnoughiBSR16,
+  author    = {Hamza Ouarnoughi and
+               Jalil Boukhobza and
+               Frank Singhoff and
+               Stéphane Rubini},
+  title     = {Integrating I/Os in Cloudsim for Performance and Energy Estimation},
+  journal   = osr,
+  volume    = {50},
+  number    = {3},
+  year      = 2016,
+  pages     = {27-36},
+}
+
+@article{DBLP:journals/sigops/DelabridaDOL16,
+  author    = {Saul Emanuel Delabrida and
+               Thiago D'Angelo and
+               Ricardo Augusto Rabelo Oliveira and
+               Antonio A. F. Loureiro},
+  title     = {Building Wearables for Geology: An Operating System Approach},
+  journal   = osr,
+  volume    = {50},
+  number    = {1},
+  year      = 2016,
+  pages     = {31-45},
+}
+
+@article{DBLP:journals/sigops/SayedBP16,
+  author    = {Salem El Sayed and
+               Matthias Bolten and
+               Dirk Pleiter},
+  title     = {Using file system counters in modelling parallel I/O architectures},
+  journal   = osr,
+  volume    = {50},
+  number    = {3},
+  year      = 2016,
+  pages     = {37-46},
+}
+
+@article{DBLP:journals/sigops/BarretoOB15,
+  author    = {Raimundo S. Barreto and
+               Rafael R. Obelheiro and
+               Leandro Buss Becker},
+  title     = {Brazilian Symposium on Computing System Engineering},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/sigops/Eide15,
+  author    = {Eric Eide},
+  title     = {Foreword: Special Issue on Repeatability and Sharing of Experimental Artifacts},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/sigops/GracioliF15,
+  author    = {Giovani Gracioli and
+               Antônio Augusto Fröhlich},
+  title     = {On the Design and Evaluation of a {Real-Time} Operating System for {Cache-Coherent} Multicore Architectures},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {2-16},
+}
+
+@article{DBLP:journals/sigops/Feitelson15,
+  author    = {Dror G. Feitelson},
+  title     = {From Repeatability to Reproducibility and Corroboration},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {3-11},
+}
+
+@article{DBLP:journals/sigops/HowardSMC15,
+  author    = {Heidi Howard and
+               Malte Schwarzkopf and
+               Anil Madhavapeddy and
+               Jon Crowcroft},
+  title     = {Raft Refloated: Do We Have Consensus?},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {12-21},
+}
+
+@article{DBLP:journals/sigops/DesnoyersK15,
+  author    = {Peter Desnoyers and
+               Gokul Kandiraju},
+  title     = {{INFLOW} 2015: The Third Workshop on Interactions of NVM/{FLash} with Operating systems and Workloa: {INFLOW} '15 Message from the Chairs},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {17},
+}
+
+@article{DBLP:journals/sigops/DebnathHKKU15,
+  author    = {Biplob Debnath and
+               Alireza Haghdoost and
+               Asim Kadav and
+               Mohammed G. Khatib and
+               Cristian Ungureanu},
+  title     = {Revisiting Hash Table Design for Phase Change Memory},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {18-26},
+}
+
+@article{DBLP:journals/sigops/VariaPHHHPRYC15,
+  author    = {Mayank Varia and
+               Benjamin Price and
+               Nicholas Hwang and
+               Ariel Hamlin and
+               Jonathan Herzog and
+               Jill Poland and
+               Michael Reschly and
+               Sophia Yakoubov and
+               Robert K. Cunningham},
+  title     = {Automated Assessment of Secure Search Systems},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {22-30},
+}
+
+@article{DBLP:journals/sigops/SantanaRTH15,
+  author    = {Ricardo Santana and
+               Raju Rangaswami and
+               Vasily Tarasov and
+               Dean Hildebrand},
+  title     = {A Fast and Slippery Slope for File Systems},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {27-34},
+}
+
+@article{DBLP:journals/sigops/AldacoCS15,
+  author    = {Abraham N. Aldaco and
+               Charles J. Colbourn and
+               Violet R. Syrotiuk},
+  title     = {Locating Arrays: A New Experimental Design for Screening Complex Engineered Systems},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {31-40},
+}
+
+@article{DBLP:journals/sigops/BorchertS15,
+  author    = {Christoph Borchert and
+               Olaf Spinczyk},
+  title     = {Hardening an L4 Microkernel Against Soft Errors by {Aspect-Oriented} Programming and {Whole-Program} Analysis},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {37-43},
+}
+
+@article{DBLP:journals/sigops/AbediHB15,
+  author    = {Ali Abedi and
+               Andrew Heard and
+               Tim Brecht},
+  title     = {Conducting Repeatable Experiments and Fair Comparisons using 802.11n {MIMO} Networks},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {41-50},
+}
+
+@article{DBLP:journals/sigops/JacobsenKSBB15,
+  author    = {Charles Jacobsen and
+               Muktesh Khole and
+               Sarah Spall and
+               Scotty Bauer and
+               Anton Burtsev},
+  title     = {Lightweight Capability Domains: Towards Decomposing the Linux Kernel},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {44-50},
+}
+
+@article{DBLP:journals/sigops/YanokN15,
+  author    = {Ilya Yanok and
+               Nathaniel Nystrom},
+  title     = {Tapir: A Language for Verified {OS} Kernel Probes},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {51-56},
+}
+
+@article{DBLP:journals/sigops/DietrichL15,
+  author    = {Christian Dietrich and
+               Daniel Lohmann},
+  title     = {The dataref versuchung: Saving Time through Better Internal Repeatability},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {51-60},
+}
+
+@article{DBLP:journals/sigops/YuanWYS15,
+  author    = {Xinhao Yuan and
+               David Williams-King and
+               Junfeng Yang and
+               Simha Sethumadhavan},
+  title     = {Making Lock-free Data Structures Verifiable with Artificial Transactions},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {57-63},
+}
+
+@article{DBLP:journals/sigops/StanisicLD15,
+  author    = {Luka Stanisic and
+               Arnaud Legrand and
+               Vincent Danjean},
+  title     = {An Effective Git And {Org-Mode} Based Workflow For Reproducible Research},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {61-70},
+}
+
+@article{DBLP:journals/sigops/BhatSRBR15,
+  author    = {Sharath K. Bhat and
+               Ajithchandra Saya and
+               Hemedra K. Rawat and
+               Antonio Barbalace and
+               Binoy Ravindran},
+  title     = {Harnessing Energy Efficiency of {Heterogeneous-ISA} Platforms},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {65-69},
+}
+
+@article{DBLP:journals/sigops/HoqueT15,
+  author    = {Mohammad Ashraful Hoque and
+               Sasu Tarkoma},
+  title     = {Sudden Drop in the Battery Level?: Understanding Smartphone State of Charge Anomaly},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {70-74},
+}
+
+@article{DBLP:journals/sigops/Boettiger15,
+  author    = {Carl Boettiger},
+  title     = {An introduction to Docker for reproducible research},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {71-79},
+}
+
+@article{DBLP:journals/sigops/WangL15,
+  author    = {Qiuyun Wang and
+               Benjamin C. Lee},
+  title     = {Modeling Communication Costs in Blade Servers},
+  journal   = osr,
+  volume    = {49},
+  number    = {2},
+  year      = 2015,
+  pages     = {75-79},
+}
+
+@article{DBLP:journals/sigops/RuizHMR15,
+  author    = {Cristian Ruiz and
+               Salem Harrache and
+               Michael Mercier and
+               Olivier Richard},
+  title     = {Reconstructable Software Appliances with Kameleon},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {80-89},
+}
+
+@article{DBLP:journals/sigops/EdwardsLR15,
+  author    = {Sarah Edwards and
+               Xuan Liu and
+               Niky Riga},
+  title     = {Creating Repeatable Computer Science and Networking Experiments on Shared, Public Testbeds},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {90-99},
+}
+
+@article{DBLP:journals/sigops/RicciWSWDDH15,
+  author    = {Robert Ricci and
+               Gary Wong and
+               Leigh Stoller and
+               Kirk Webb and
+               Jonathon Duerig and
+               Keith Downie and
+               Mike Hibler},
+  title     = {Apt: A Platform for Repeatable Research in Computer Science},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {100-107},
+}
+
+@article{DBLP:journals/sigops/ChildersJM15,
+  author    = {Bruce R. Childers and
+               Alex K. Jones and
+               Daniel Mossé},
+  title     = {A Roadmap and Plan of Action for {Community-Supported} Empirical Evaluation in Computer Architecture},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {108-117},
+}
+
+@article{DBLP:journals/sigops/ChocklerJRV15,
+  author    = {Gregory V. Chockler and
+               Flavio Junqueira and
+               Rodrigo Rodrigues and
+               Ymir Vigfusson},
+  title     = {LADIS'14: 8th Workshop on {Large-Scale} Distributed Systems and Middleware},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {118-120},
+}
+
+@article{DBLP:journals/sigops/BalegasDFRPNS15,
+  author    = {Valter Balegas and
+               Sérgio Duarte and
+               Carla Ferreira and
+               Rodrigo Rodrigues and
+               Nuno M. Preguiça and
+               Mahsa Najafzadeh and
+               Marc Shapiro},
+  title     = {Towards Fast Invariant Preservation in Geo-replicated Systems},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {121-125},
+}
+
+@article{DBLP:journals/sigops/PaivaR15,
+  author    = {João Paiva and
+               Luís E. T. Rodrigues},
+  title     = {On Data Placement in Distributed Systems},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {126-130},
+}
+
+@article{DBLP:journals/sigops/BirmanJKT15,
+  author    = {Ken Birman and
+               Márk Jelasity and
+               Robert Kleinberg and
+               Edward Tremel},
+  title     = {Building a Secure and {Privacy-Preserving} Smart Grid},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {131-136},
+}
+
+@article{DBLP:journals/sigops/JiaSSRW15,
+  author    = {Qin Jia and
+               Zhiming Shen and
+               Weijia Song and
+               Robbert van Renesse and
+               Hakim Weatherspoon},
+  title     = {Supercloud: Opportunities and Challenges},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {137-141},
+}
+
+@article{DBLP:journals/sigops/SvardHWTE15,
+  author    = {Petter Svärd and
+               Benoit Hudzia and
+               Steve Walsh and
+               Johan Tordsson and
+               Erik Elmroth},
+  title     = {Principles and Performance Characteristics of Algorithms for Live {VM} Migration},
+  journal   = osr,
+  volume    = {49},
+  number    = {1},
+  year      = 2015,
+  pages     = {142-155},
+}
+
+@article{DBLP:journals/sigops/LeiteGMF14,
+  author    = {Julius C. B. Leite and
+               Raphael Guerra and
+               Rivalino Matias Jr. and
+               Antônio Augusto Fröhlich},
+  title     = {Brazilian symposium on computer system engineering, November 2013},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {1},
+}
+
+@article{DBLP:journals/sigops/CorreiaM14,
+  author    = {Miguel Correia and
+               Neeraj Mittal},
+  title     = {Cloud Computing Dependability: Report and Extended Papers of the Second International Workshop on Dependability Issues in Cloud Computing},
+  journal   = osr,
+  volume    = {48},
+  number    = {2},
+  year      = 2014,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/sigops/PfitscherPO14,
+  author    = {Ricardo J. Pfitscher and
+               Maurício A. Pillon and
+               Rafael R. Obelheiro},
+  title     = {Customer-oriented diagnosis of memory provisioning for {IaaS} clouds},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {2-10},
+}
+
+@article{DBLP:journals/sigops/NostroCBB14,
+  author    = {Nicola Nostro and
+               Andrea Ceccarelli and
+               Andrea Bondavalli and
+               Francesco Brancati},
+  title     = {Insider Threat Assessment: a {Model-Based} Methodology},
+  journal   = osr,
+  volume    = {48},
+  number    = {2},
+  year      = 2014,
+  pages     = {3-12},
+}
+
+@article{DBLP:journals/sigops/FreitasM14,
+  author    = {Allan Edgard Silva Freitas and
+               Raimundo José de Araújo Macêdo},
+  title     = {A performance evaluation tool for hybrid and dynamic distributed systems},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {11-18},
+}
+
+@article{DBLP:journals/sigops/BessaniCRSS14,
+  author    = {Alysson Bessani and
+               Leucio A. Cutillo and
+               Gianluca Ramunno and
+               Norbert Schirmer and
+               Paolo Smiraglia},
+  title     = {The {TClouds} Platform: From the Concept to the Implementation of Benchmark Scenarios},
+  journal   = osr,
+  volume    = {48},
+  number    = {2},
+  year      = 2014,
+  pages     = {13-22},
+}
+
+@article{DBLP:journals/sigops/CachinR14,
+  author    = {Christian Cachin and
+               Robbert van Renesse},
+  title     = {Workshop Report: {HotDep} 2013 - The 9th workshop on hot topics in dependable systems},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {19-20},
+}
+
+@article{DBLP:journals/sigops/VogtGBT14,
+  author    = {Dirk Vogt and
+               Cristiano Giuffrida and
+               Herbert Bos and
+               Andrew S. Tanenbaum},
+  title     = {Techniques for efficient in-memory checkpointing},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {21-25},
+}
+
+@article{DBLP:journals/sigops/Tetzlaff14,
+  author    = {William H. Tetzlaff},
+  title     = {{SOSP} Professional Travel Scholarship: Reflections by Recipient William Tetzlaff},
+  journal   = osr,
+  volume    = {48},
+  number    = {2},
+  year      = 2014,
+  pages     = {23},
+}
+
+@article{DBLP:journals/sigops/Gray14,
+  author    = {Cary Gray},
+  title     = {{SOSP} Professional Travel Scholarship: Reflections by Recipient Cary Gray},
+  journal   = osr,
+  volume    = {48},
+  number    = {2},
+  year      = 2014,
+  pages     = {24},
+}
+
+@article{DBLP:journals/sigops/Baruchi14,
+  author    = {Artur Baruchi},
+  title     = {{SOSP} Professional Travel Scholarship: Reflections by Recipient Artur Baruchi},
+  journal   = osr,
+  volume    = {48},
+  number    = {2},
+  year      = 2014,
+  pages     = {25},
+}
+
+@article{DBLP:journals/sigops/PillaiCHAA14,
+  author    = {Thanumalayan Sankaranarayana Pillai and
+               Vijay Chidambaram and
+               Joo Young Hwang and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Towards efficient, portable application-level consistency},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {26-31},
+}
+
+@article{DBLP:journals/sigops/Terry14,
+  author    = {Doug Terry},
+  title     = {A Report on the First {TRIOS} Conference},
+  journal   = osr,
+  volume    = {48},
+  number    = {2},
+  year      = 2014,
+  pages     = {26-34},
+}
+
+@article{DBLP:journals/sigops/VaidZ14,
+  author    = {Kushagra Vaid and
+               Lin Zhong},
+  title     = {Fuel, fans, and cores - An introduction to selected papers from {HotPower} 2013},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {32-33},
+}
+
+@article{DBLP:journals/sigops/EndoKFSHK14,
+  author    = {Hiroshi Endo and
+               Hiroyoshi Kodama and
+               Hiroyuki Fukuda and
+               Toshio Sugimoto and
+               Takashi Horie and
+               Masao Kondo},
+  title     = {Cooperative control architecture of fan-less servers and fresh-air cooling in container servers for low power operation},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {34-38},
+}
+
+@article{DBLP:journals/sigops/RiekstinJKLP14,
+  author    = {Ana Carolina Riekstin and
+               Sean James and
+               Aman Kansal and
+               Jie Liu and
+               Eric Peterson},
+  title     = {No more electrical infrastructure: towards fuel cell powered data centers},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {39-43},
+}
+
+@article{DBLP:journals/sigops/CarrollH14,
+  author    = {Aaron Carroll and
+               Gernot Heiser},
+  title     = {Mobile multicores: use them or waste them},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {44-48},
+}
+
+@article{DBLP:journals/sigops/Eriksen14,
+  author    = {Marius Eriksen},
+  title     = {Your server as a function},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {51-57},
+}
+
+@article{DBLP:journals/sigops/KellerMAOCRKH14,
+  author    = {Gabriele Keller and
+               Toby C. Murray and
+               Sidney Amani and
+               Liam O'Connor and
+               Zilin Chen and
+               Leonid Ryzhyk and
+               Gerwin Klein and
+               Gernot Heiser},
+  title     = {File systems deserve verification too!},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {58-64},
+}
+
+@article{DBLP:journals/sigops/BurtsevMER14,
+  author    = {Anton Burtsev and
+               Nikhil Mishrikoti and
+               Eric Eide and
+               Robert Ricci},
+  title     = {Weir: a streaming language for performance analysis},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {65-70},
+}
+
+@article{DBLP:journals/sigops/BhaskaranXS14,
+  author    = {Meenakshi Sundaram Bhaskaran and
+               Jian Xu and
+               Steven Swanson},
+  title     = {Bankshot: caching slow storage in fast non-volatile memory},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {73-81},
+}
+
+@article{DBLP:journals/sigops/KimSDC14,
+  author    = {Hyojun Kim and
+               Sangeetha Seshadri and
+               Clement L. Dickey and
+               Lawrence Chiu},
+  title     = {Phase change memory in enterprise storage systems: silver bullet or snake oil?},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {82-89},
+}
+
+@article{DBLP:journals/sigops/OhCLN14,
+  author    = {Yongseok Oh and
+               Jongmoo Choi and
+               Donghee Lee and
+               Sam H. Noh},
+  title     = {Improving performance and lifetime of the {SSD} {RAID-based} host cache through a log-structured approach},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {90-97},
+}
+
+@article{DBLP:journals/sigops/Renesse14,
+  author    = {Robbert van Renesse},
+  title     = {The story behind the first {SIGOPS} Dennis M. Ritchie doctoral dissertation award},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {98-102},
+}
+
+@article{DBLP:journals/sigops/StewartG14,
+  author    = {Christopher Stewart and
+               Vishakha Gupta},
+  title     = {The workshop on diversity in systems research 2013},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {103-106},
+}
+
+@article{DBLP:journals/sigops/AmaniCDLORZ14,
+  author    = {Sidney Amani and
+               Peter Chubb and
+               Alastair F. Donaldson and
+               Alexander Legg and
+               Keng Chai Ong and
+               Leonid Ryzhyk and
+               Yanjin Zhu},
+  title     = {Automatic verification of active device drivers},
+  journal   = osr,
+  volume    = {48},
+  number    = {1},
+  year      = 2014,
+  pages     = {106-118},
+}
+
 @article{DBLP:journals/sigops/MalkhiR13,
   author    = {Dahlia Malkhi and
                Robbert van Renesse},
@@ -11,6 +1227,18 @@
   pages     = {1-2},
 }
 
+@article{DBLP:journals/sigops/ChihiCG13,
+  author    = {Hanen Chihi and
+               Walid Chainbi and
+               Khaled Ghédira},
+  title     = {An energy-efficient self-provisioning approach for cloud resources management},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {2-9},
+}
+
 @article{DBLP:journals/sigops/Costa13,
   author    = {Paolo Costa},
   title     = {Bridging the gap between applications and networks in data centers},
@@ -19,6 +1247,32 @@
   number    = {1},
   year      = 2013,
   pages     = {3-8},
+}
+
+@article{DBLP:journals/sigops/ShraerK13,
+  author    = {Alexander Shraer and
+               Rüdiger Kapitza},
+  title     = {Dagstuhl seminar report: security and dependability for federated cloud platforms, 2012},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {4-5},
+}
+
+@article{DBLP:journals/sigops/BouchenakCCGSS13,
+  author    = {Sara Bouchenak and
+               Gregory V. Chockler and
+               Hana Chockler and
+               Gabriela Gheorghe and
+               Nuno Santos and
+               Alexander Shraer},
+  title     = {Verifying cloud services: present and future},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {6-19},
 }
 
 @article{DBLP:journals/sigops/JunqueiraKR13,
@@ -33,6 +1287,17 @@
   pages     = {9-15},
 }
 
+@article{DBLP:journals/sigops/GortiS13,
+  author    = {Naga Pavan Kumar Gorti and
+               Arun K. Somani},
+  title     = {Reliability aware dynamic voltage and frequency scaling for improved microprocessor lifetime},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {10-17},
+}
+
 @article{DBLP:journals/sigops/ShueFS13,
   author    = {David Shue and
                Michael J. Freedman and
@@ -43,6 +1308,30 @@
   number    = {1},
   year      = 2013,
   pages     = {16-21},
+}
+
+@article{DBLP:journals/sigops/GueyePRT13,
+  author    = {Soguy Mak Karé Gueye and
+               Noel De Palma and
+               Éric Rutten and
+               Alain Tchana},
+  title     = {Coordinating multiple administration loops using discrete control},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {18-25},
+}
+
+@article{DBLP:journals/sigops/CorreiaM13,
+  author    = {Miguel Correia and
+               Neeraj Mittal},
+  title     = {Dependability issues in cloud computing: extended papers from the 1st international workshop on dependability issues in cloud computing - {DISCCO}},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {20-22},
 }
 
 @article{DBLP:journals/sigops/GhitaAT13,
@@ -57,6 +1346,36 @@
   pages     = {22-26},
 }
 
+@article{DBLP:journals/sigops/JiekakKSSK13,
+  author    = {Steve Jiekak and
+               Anne-Marie Kermarrec and
+               Nicolas Le Scouarnec and
+               Gilles Straub and
+               Alexandre van Kempen},
+  title     = {Regenerating codes: a system perspective},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {23-32},
+}
+
+@article{DBLP:journals/sigops/KoyanoAIYKIO13,
+  author    = {Sou Koyano and
+               Shingo Ata and
+               Hisashi Iwamoto and
+               Yuji Yano and
+               Yasuto Kuroda and
+               Kazunari Inoue and
+               Ikuo Oka},
+  title     = {A study on micro level traffic prediction for energy-aware routers},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {26-33},
+}
+
 @article{DBLP:journals/sigops/LudwichF13,
   author    = {Mateus Krepsky Ludwich and
                Antônio Augusto Fröhlich},
@@ -66,6 +1385,28 @@
   number    = {1},
   year      = 2013,
   pages     = {28-34},
+}
+
+@article{DBLP:journals/sigops/YazdVM13,
+  author    = {Sara Arbab Yazd and
+               Subbarayan Venkatesan and
+               Neeraj Mittal},
+  title     = {Boosting energy efficiency with mirrored data block replication policy and energy scheduler},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {33-40},
+}
+
+@article{DBLP:journals/sigops/Kamga13,
+  author    = {Christine Mayap Kamga},
+  title     = {{CPU} frequency emulation based on {DVFS}},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {34-41},
 }
 
 @article{DBLP:journals/sigops/SaFM13,
@@ -80,6 +1421,28 @@
   pages     = {35-42},
 }
 
+@article{DBLP:journals/sigops/Taifi13,
+  author    = {Moussa Taifi},
+  title     = {Banking on decoupling: budget-driven sustainability for {HPC} applications on auction-based clouds},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {41-50},
+}
+
+@article{DBLP:journals/sigops/NoureddineRS13,
+  author    = {Adel Noureddine and
+               Romain Rouvoy and
+               Lionel Seinturier},
+  title     = {A review of energy measurement approaches},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {42-49},
+}
+
 @article{DBLP:journals/sigops/JivanD13,
   author    = {Naser Ezzati Jivan and
                Michel R. Dagenais},
@@ -91,6 +1454,36 @@
   pages     = {43-54},
 }
 
+@article{DBLP:journals/sigops/WangKTHKKSNG13,
+  author    = {Chengwei Wang and
+               Soila Kavulya and
+               Jiaqi Tan and
+               Liting Hu and
+               Mahendra Kutare and
+               Michael P. Kasick and
+               Karsten Schwan and
+               Priya Narasimhan and
+               Rajeev Gandhi},
+  title     = {Performance troubleshooting in data centers: an annotated bibliography?},
+  journal   = osr,
+  volume    = {47},
+  number    = {3},
+  year      = 2013,
+  pages     = {50-62},
+}
+
+@article{DBLP:journals/sigops/DesnoyersMD13,
+  author    = {Mathieu Desnoyers and
+               Paul E. McKenney and
+               Michel R. Dagenais},
+  title     = {Multi-core systems modeling for formal verification of parallel algorithms},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {51-65},
+}
+
 @article{DBLP:journals/sigops/SaurN13,
   author    = {Karla Saur and
                Iulian Neamtiu},
@@ -100,6 +1493,18 @@
   number    = {1},
   year      = 2013,
   pages     = {55-62},
+}
+
+@article{DBLP:journals/sigops/HarjiBB13,
+  author    = {Ashif S. Harji and
+               Peter A. Buhr and
+               Tim Brecht},
+  title     = {Our troubles with Linux Kernel upgrades and why you should care},
+  journal   = osr,
+  volume    = {47},
+  number    = {2},
+  year      = 2013,
+  pages     = {66-72},
 }
 
 @article{DBLP:journals/sigops/DawkinsVS12,
@@ -118,7 +1523,7 @@
   author    = {Luis Rodrigues and
                Divyakant Agrawal and
                Ymir Vigfusson and
-               Gregory Chockler},
+               Gregory V. Chockler},
   title     = {Summary of the 5th workshop on large-scale distributed systems and middleware ({LADIS} 2011)},
   journal   = osr,
   volume    = {46},
@@ -367,12 +1772,12 @@
 }
 
 @article{DBLP:journals/sigops/FrohlichBLPSB12,
-  author    = {Antonio Augusto Fröhlich and
+  author    = {Antônio Augusto Fröhlich and
                Leandro Buss Becker and
                George Lima and
                Stefan Petters and
-               Dilma M. da Silva and
-               Edna Natividade Silva Barros},
+               Dilma M. Da Silva and
+               Edna Natividade da Silva Barros},
   title     = {Brazilian symposium on computing system engineering},
   journal   = osr,
   volume    = {46},
@@ -825,7 +2230,7 @@
   author    = {Sadagopan Srinivasan and
                Li Zhao and
                Ramesh Illikkal and
-               Ravishankar Iyer},
+               Ravishankar R. Iyer},
   title     = {Efficient interaction between {OS} and architecture in heterogeneous platforms},
   journal   = osr,
   volume    = {45},
@@ -995,7 +2400,7 @@
 }
 
 @article{DBLP:journals/sigops/SilvaBP11,
-  author    = {Dilma da Silva and
+  author    = {Dilma Da Silva and
                Luciano Barreto and
                Paulo César A. Pereira},
   title     = {{VII} Brazilian workshop on operating systems},
@@ -1054,7 +2459,7 @@
 
 @article{DBLP:journals/sigops/RomanoRCC10,
   author    = {Paolo Romano and
-               Luís Rodrigues and
+               Luís E. T. Rodrigues and
                Nuno Carvalho and
                João P. Cachopo},
   title     = {Cloud-TM: harnessing the cloud with distributed transactional memories},
@@ -1095,7 +2500,7 @@
                Chris Lesniewski-Laas and
                Justin Mazzola Paluska and
                Bryan Ford and
-               Robert Morris and
+               Robert Tappan Morris and
                M. Frans Kaashoek},
   title     = {Device transparency: a new model for mobile storage},
   journal   = osr,
@@ -1480,7 +2885,7 @@
 
 @article{DBLP:journals/sigops/BortnikovCRS10,
   author    = {Vita Bortnikov and
-               Gregory Chockler and
+               Gregory V. Chockler and
                Alexey Roytman and
                Mike Spreitzer},
   title     = {Bulletin board: a scalable and robust eventually consistent shared memory over a peer-to-peer overlay},
@@ -1800,7 +3205,7 @@
   author    = {Tudor Dumitras and
                Iulian Neamtiu and
                Eli Tilevich},
-  title     = {Report on the second {ACM} workshop on hot topics in software upgrades (HotSWUp'09): http: //www.hotswup.org/2009/},
+  title     = {Report on the second {ACM} workshop on hot topics in software upgrades (HotSWUp'09): http://www.hotswup.org/2009/},
   journal   = osr,
   volume    = {44},
   number    = {4},
@@ -1837,7 +3242,7 @@
 @article{DBLP:journals/sigops/WeatherspoonTC09,
   author    = {Hakim Weatherspoon and
                Doug Terry and
-               Gregory Chockler},
+               Gregory V. Chockler},
   title     = {Summary of the 3rd {ACM} {SIGOPS} workshop on large-scale distributed systems and middleware ({LADIS} 2009)},
   journal   = osr,
   volume    = {43},
@@ -2425,7 +3830,7 @@
 }
 
 @article{DBLP:journals/sigops/MickensS09,
-  author    = {James Mickens and
+  author    = {James W. Mickens and
                Dilma Da Silva},
   title     = {{SOSP} diversity workshop},
   journal   = osr,
@@ -2496,7 +3901,7 @@
 }
 
 @article{DBLP:journals/sigops/KunalGGK09,
-  author    = {K. Kunal and
+  author    = {Kunal Korgaonkar and
                K. George and
                M. Gautam and
                V. Kamakoti},
@@ -2740,7 +4145,7 @@
 @article{DBLP:journals/sigops/PellegBHSA08,
   author    = {Dan Pelleg and
                Muli Ben-Yehuda and
-               Richard Harper and
+               Rick Harper and
                Lisa Spainhower and
                Tokunbo O. S. Adeshiyan},
   title     = {Vigilant: out-of-band detection of failures in virtual machines},
@@ -2788,7 +4193,7 @@
 
 @article{DBLP:journals/sigops/WongTKW08,
   author    = {Chee Siang Wong and
-               Ian Tan and
+               Ian K. T. Tan and
                Rosalind Deena Kumari and
                Fun Wey},
   title     = {Towards achieving fairness in the Linux scheduler},
@@ -2854,7 +4259,7 @@
 }
 
 @article{DBLP:journals/sigops/AnanthanarayananEHNST08,
-  author    = {R. Ananthanarayanan and
+  author    = {Rajagopal Ananthanarayanan and
                Marc Eshel and
                Roger L. Haskin and
                Manoj Naik and
@@ -3469,7 +4874,7 @@
 
 @article{DBLP:journals/sigops/JamborHTKH07,
   author    = {Martin Jambor and
-               Tomas Hruby and
+               Tomás Hrubý and
                Jan Taus and
                Kuba Krchak and
                Viliam Holub},
@@ -3713,7 +5118,7 @@
 @article{DBLP:journals/sigops/FriedmanGRVV07,
   author    = {Roy Friedman and
                Daniela Gavidia and
-               Luís Rodrigues and
+               Luís E. T. Rodrigues and
                Aline Carneiro Viana and
                Spyros Voulgaris},
   title     = {Gossiping on MANETs: the beauty and the beast},
@@ -3974,7 +5379,7 @@
   author    = {Jean-Charles Tournier and
                Patrick G. Bridges and
                Arthur B. Maccabe and
-               Patrick Widener and
+               Patrick M. Widener and
                Zaid Abudayyeh and
                Ron Brightwell and
                Rolf Riesen and
@@ -4498,7 +5903,7 @@
 @article{DBLP:journals/sigops/WisemanSW05,
   author    = {Yair Wiseman and
                Karsten Schwan and
-               Patrick Widener},
+               Patrick M. Widener},
   title     = {Efficient end to end data exchange using configurable compression},
   journal   = osr,
   volume    = {39},
@@ -4622,7 +6027,7 @@
                Ravi Rajwar and
                Krithi Ramamritham and
                Brian Randell and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {The atomic manifesto: a story in four quarks},
   journal   = osr,
   volume    = {39},
@@ -4632,7 +6037,7 @@
 }
 
 @article{DBLP:journals/sigops/GuangchunLY05,
-  author    = {Luo Guangchun and
+  author    = {Guangchun Luo and
                Xianliang Lu and
                Ting Yang},
   title     = {The research on consistency of space/time of {IDS}},
@@ -5354,10 +6759,10 @@
 }
 
 @article{DBLP:journals/sigops/GuangchunJXJ03a,
-  author    = {Luo Guangchun and
-               Zhang Jun and
+  author    = {Guangchun Luo and
+               Jun Zhang and
                Xianliang Lu and
-               Lu Jun},
+               Jun Lu},
   title     = {Active block layout: a high performance disk layout mechanism},
   journal   = osr,
   volume    = {37},
@@ -5485,10 +6890,10 @@
 }
 
 @article{DBLP:journals/sigops/GuangchunJXJ03,
-  author    = {Luo Guangchun and
-               Zhang Jun and
+  author    = {Guangchun Luo and
+               Jun Zhang and
                Xianliang Lu and
-               Lu Jun},
+               Jun Lu},
   title     = {HCCM: a novel cache consistence mechanism},
   journal   = osr,
   volume    = {37},
@@ -5533,9 +6938,9 @@
 }
 
 @article{DBLP:journals/sigops/TseLL03,
-  author    = {K. W. Tse and
+  author    = {Jim Kai-Wing Tse and
                W. K. Lam and
-               P. K. Lun},
+               Daniel Pak-Kong Lun},
   title     = {Reservation aware operating system for grid economy},
   journal   = osr,
   volume    = {37},
@@ -5594,10 +6999,10 @@
 }
 
 @article{DBLP:journals/sigops/GuangchunXJJ03,
-  author    = {Luo Guangchun and
+  author    = {Guangchun Luo and
                Xianliang Lu and
-               Li Jiong and
-               Zhang Jun},
+               Jiong Li and
+               Jun Zhang},
   title     = {MADIDS: a novel distributed {IDS} based on mobile agent},
   journal   = osr,
   volume    = {37},
@@ -5887,9 +7292,9 @@
 
 @article{DBLP:journals/sigops/OngLLY02,
   author    = {T. M. Ong and
-               T. M. Lim and
-               B. S. Lee and
-               C. K. Yeo},
+               Teck Meng Lim and
+               Bu-Sung Lee and
+               Chai Kiat Yeo},
   title     = {Unicorn: voluntary computing over Internet},
   journal   = osr,
   volume    = {36},
@@ -5911,11 +7316,11 @@
 }
 
 @article{DBLP:journals/sigops/JunXGHX02,
-  author    = {Lu Jun and
+  author    = {Jun Lu and
                Xianliang Lu and
-               Luo Guangchun and
-               Han Hong and
-               Zhou Xu},
+               Guangchun Luo and
+               Hong Han and
+               Xu Zhou},
   title     = {STFS: a novel file system for efficient small writes},
   journal   = osr,
   volume    = {36},
@@ -5950,7 +7355,7 @@
 }
 
 @article{DBLP:journals/sigops/YaoZJ02,
-  author    = {Nian-Min Yao and
+  author    = {Nianmin Yao and
                Ming-Yang Zheng and
                Jiu-bin Ju},
   title     = {Pipeline: a new architecture of high performance servers},
@@ -6085,7 +7490,7 @@
 @article{DBLP:journals/sigops/JiW01,
   author    = {Dongyao Ji and
                Yuming Wang},
-  title     = {Comments on ``An approach to the formal verification of the two-party cryptographic protocols'' by Zhang, Li and Xiao},
+  title     = {Comments on "An approach to the formal verification of the two-party cryptographic protocols" by Zhang, Li and Xiao},
   journal   = osr,
   volume    = {35},
   number    = {1},
@@ -6632,8 +8037,8 @@
 }
 
 @article{DBLP:journals/sigops/SierraS00,
-  author    = {J. M. Sierra and
-               S. J. Shepherd},
+  author    = {José María Sierra and
+               Simon J. Shepherd},
   title     = {New Phase 1 Exchange Mode for {IKE} framework},
   journal   = osr,
   volume    = {34},
@@ -6746,8 +8151,8 @@
 }
 
 @article{DBLP:journals/sigops/SangluL00,
-  author    = {Lu Sanglu and
-               Xie Li},
+  author    = {Sanglu Lu and
+               Li Xie},
   title     = {Scalable Scheduling on a Network of Workstations},
   journal   = osr,
   volume    = {34},
@@ -6756,7 +8161,7 @@
   pages     = {74-83},
 }
 
-@article{DBLP:journals/sigops/BalBHJKMNRRRVVBBKPSTDGSBGAABDHHHIKKLOSSEGJRRSKLSWBLS00,
+@article{DBLP:journals/sigops/BalBH00,
   author    = {Henri E. Bal and
                Raoul Bhoedjang and
                Rutger F. H. Hofman and
@@ -6815,7 +8220,7 @@
 }
 
 @article{DBLP:journals/sigops/XimingX00,
-  author    = {Chen Ximing and
+  author    = {Ximing Chen and
                Xianliang Lu},
   title     = {Runtime Incremental Concentrated Scheduling on NOW(NRICS)},
   journal   = osr,
@@ -6837,7 +8242,7 @@
 
 @article{DBLP:journals/sigops/Kuhnhauser99,
   author    = {Winfried E. Kühnhauser},
-  title     = {A Comment on S. Kang's and H. Lee's paper on ``Analysis and Solution of {Non-Preemptive} Policies for Scheduling Readers and Writers''},
+  title     = {A Comment on S. Kang's and H. Lee's paper on "Analysis and Solution of {Non-Preemptive} Policies for Scheduling Readers and Writers"},
   journal   = osr,
   volume    = {33},
   number    = {2},
@@ -6857,7 +8262,7 @@
 
 @article{DBLP:journals/sigops/Ng99,
   author    = {Siaw-Lynn Ng},
-  title     = {Comments on ``On the Security of {Three-Party} Cryptographic Protocs'' by Xu, Zhang and Zhu},
+  title     = {Comments on "On the Security of {Three-Party} Cryptographic Protocs" by Xu, Zhang and Zhu},
   journal   = osr,
   volume    = {33},
   number    = {3},
@@ -6946,7 +8351,7 @@
 
 @article{DBLP:journals/sigops/PatiyootS99c,
   author    = {Danai Patiyoot and
-               S. J. Shepherd},
+               Simon J. Shepherd},
   title     = {Security Issues in {ATM} Networks},
   journal   = osr,
   volume    = {33},
@@ -6968,7 +8373,7 @@
 
 @article{DBLP:journals/sigops/PatiyootS99b,
   author    = {Danai Patiyoot and
-               S. J. Shepherd},
+               Simon J. Shepherd},
   title     = {Modeling and Evaluation of security induced delays in Wireless {ATM} Networks},
   journal   = osr,
   volume    = {33},
@@ -6979,7 +8384,7 @@
 
 @article{DBLP:journals/sigops/PatiyootS99,
   author    = {Danai Patiyoot and
-               S. J. Shepherd},
+               Simon J. Shepherd},
   title     = {WASS: Wireless {ATM} Security System},
   journal   = osr,
   volume    = {33},
@@ -7012,7 +8417,7 @@
 
 @article{DBLP:journals/sigops/PatiyootS99d,
   author    = {Danai Patiyoot and
-               S. J. Shepherd},
+               Simon J. Shepherd},
   title     = {WASS: A Security Services for Wireless {ATM} Networks},
   journal   = osr,
   volume    = {33},
@@ -7023,7 +8428,7 @@
 
 @article{DBLP:journals/sigops/PatiyootS99a,
   author    = {Danai Patiyoot and
-               S. J. Shepherd},
+               Simon J. Shepherd},
   title     = {Cryptographic Security Techniques for Wireless Networks},
   journal   = osr,
   volume    = {33},
@@ -7270,7 +8675,7 @@
 
 @article{DBLP:journals/sigops/PatiyootS98,
   author    = {Danai Patiyoot and
-               S. J. Shepherd},
+               Simon J. Shepherd},
   title     = {Techniques for Authentication Protocols and Key Distribution on Wireless {ATM} Networks},
   journal   = osr,
   volume    = {32},
@@ -7355,8 +8760,8 @@
 }
 
 @article{DBLP:journals/sigops/Li98,
-  author    = {Lu Sanglu and
-               Xie Li},
+  author    = {Sanglu Lu and
+               Li Xie},
   title     = {A Scalable Load Balancing System for {NOWs}},
   journal   = osr,
   volume    = {32},
@@ -9087,7 +10492,7 @@
 }
 
 @article{DBLP:journals/sigops/YeoAK93,
-  author    = {A. K. Yeo and
+  author    = {Ann-Kian Yeo and
                Akkihebbal L. Ananda and
                E. K. Koh},
   title     = {A Taxonomy of Issues in Name Systems Design and Implementation},
@@ -10105,7 +11510,7 @@
 }
 
 @article{DBLP:journals/sigops/DavariS92,
-  author    = {S. Davari and
+  author    = {Sadegh Davari and
                Lui Sha},
   title     = {Sources of Unbounded Priority Inversions in {Real-Time} Systems and a Comparative Study of Possible Solutions},
   journal   = osr,
@@ -11163,7 +12568,7 @@
 @article{DBLP:journals/sigops/DammRSK89,
   author    = {Andreas Damm and
                Johannes Reisinger and
-               W. Schwabl and
+               Wolfgang Schwabl and
                Hermann Kopetz},
   title     = {The {Real-Time} Operating System of {MARS}},
   journal   = osr,
@@ -11834,7 +13239,7 @@
 
 @article{DBLP:journals/sigops/Hadon85,
   author    = {Bruce K. Hadon},
-  title     = {Book Review: Information Systems Design Methodologies: A Feature Analysis Proceedings of the {IFIP} {WG} 81.1 Working Conference on Feature Analysis of Information Systems Design Methodologies, York, 1983},
+  title     = {Book Review: Information Systems Design Methodologies: A Feature Analysis. Proceedings of the {IFIP} {WG} 8.1 Working Conference on Feature Analysis of Information Systems Design Methodologies, York, UK, 5-7 July 1983},
   journal   = osr,
   volume    = {19},
   number    = {4},
@@ -12224,7 +13629,7 @@
                Greg Lomow and
                Radford M. Neal and
                Murray Peterson and
-               Brian Unger and
+               Brian W. Unger and
                Brian Wyvill},
   title     = {Jade: A Distributed Software Prototyping Environment},
   journal   = osr,
@@ -12577,7 +13982,7 @@
 
 @article{DBLP:journals/sigops/Madsen81a,
   author    = {Johannes Madsen},
-  title     = {A Computer System Supporting Data Abstraction},
+  title     = {A Computer System Supporting Data Abstraction (Part 2)},
   journal   = osr,
   volume    = {15},
   number    = {2},
@@ -12607,7 +14012,7 @@
 
 @article{DBLP:journals/sigops/Madsen81,
   author    = {Johannes Madsen},
-  title     = {A Computer System Supporting Data Abstraction},
+  title     = {A Computer System Supporting Data Abstraction (Part 1)},
   journal   = osr,
   volume    = {15},
   number    = {1},
@@ -12851,7 +14256,7 @@
 
 @article{DBLP:journals/sigops/WettsteinM80,
   author    = {Horst D. Wettstein and
-               G. Merbeth},
+               Günter Merbeth},
   title     = {The Concept of Asynchronization},
   journal   = osr,
   volume    = {14},
@@ -13037,6 +14442,16 @@
   pages     = {12-14},
 }
 
+@article{DBLP:journals/sigops/Parnas78,
+  author    = {David Lorge Parnas},
+  title     = {The non-problem of nested monitor calls},
+  journal   = osr,
+  volume    = {12},
+  number    = {1},
+  year      = 1978,
+  pages     = {12-18},
+}
+
 @article{DBLP:journals/sigops/SchneiderB78,
   author    = {Fred B. Schneider and
                Arthur J. Bernstein},
@@ -13056,6 +14471,16 @@
   number    = {4},
   year      = 1978,
   pages     = {16-33},
+}
+
+@article{DBLP:journals/sigops/Wettstein78,
+  author    = {Horst D. Wettstein},
+  title     = {The problem of nested monitor calls revisited},
+  journal   = osr,
+  volume    = {12},
+  number    = {1},
+  year      = 1978,
+  pages     = {19-23},
 }
 
 @article{DBLP:journals/sigops/GainesS78,
@@ -13098,16 +14523,6 @@
   number    = {2},
   year      = 1978,
   pages     = {26-30},
-}
-
-@article{DBLP:journals/sigops/Rose78,
-  author    = {Gregory G. Rose},
-  title     = {Performance Evaluation under Unix and a Study of PDP-11 Instruction Usage},
-  journal   = osr,
-  volume    = {12},
-  number    = {3},
-  year      = 1978,
-  pages     = {28-45},
 }
 
 @article{DBLP:journals/sigops/BirrellN78a,
@@ -13161,6 +14576,16 @@
   number    = {4},
   year      = 1978,
   pages     = {34-38},
+}
+
+@article{DBLP:journals/sigops/Rose78,
+  author    = {Gregory G. Rose},
+  title     = {Performance Evaluation under Unix and a Study of PDP-11 Instruction Usage},
+  journal   = osr,
+  volume    = {12},
+  number    = {3},
+  year      = 1978,
+  pages     = {38-45},
 }
 
 @article{DBLP:journals/sigops/Smith78,
@@ -13694,4 +15119,201 @@
   number    = {1},
   year      = 1974,
   pages     = {25-35},
+}
+
+@article{DBLP:journals/sigops/Poole73,
+  author    = {Peter C. Poole},
+  title     = {When is a test not a test?},
+  journal   = osr,
+  volume    = {7},
+  number    = {2},
+  year      = 1973,
+  pages     = {4-5},
+}
+
+@article{DBLP:journals/sigops/Schroeder73,
+  author    = {Michael D. Schroeder},
+  title     = {A brief report on the SIGPLAN/{SIGOPS} interface meeting},
+  journal   = osr,
+  volume    = {7},
+  number    = {3},
+  year      = 1973,
+  pages     = {4-9},
+}
+
+@article{DBLP:journals/sigops/Collier73,
+  author    = {William W. Collier},
+  title     = {Asynchronous interactions on shared data},
+  journal   = osr,
+  volume    = {7},
+  number    = {2},
+  year      = 1973,
+  pages     = {6-15},
+}
+
+@article{DBLP:journals/sigops/Wood73,
+  author    = {David C. M. Wood},
+  title     = {An example in synchronization of cooperating processes: theory and practice},
+  journal   = osr,
+  volume    = {7},
+  number    = {3},
+  year      = 1973,
+  pages     = {10-18},
+}
+
+@article{DBLP:journals/sigops/Chambers73,
+  author    = {John M. Chambers},
+  title     = {A user-controlled synchronization method},
+  journal   = osr,
+  volume    = {7},
+  number    = {2},
+  year      = 1973,
+  pages     = {16-25},
+}
+
+@article{DBLP:journals/sigops/AbernathyMPS73a,
+  author    = {David H. Abernathy and
+               John S. Mancino and
+               Charls R. Pearson and
+               Dona C. Swiger},
+  title     = {Survey of design goals for operating systems},
+  journal   = osr,
+  volume    = {7},
+  number    = {3},
+  year      = 1973,
+  pages     = {19-34},
+}
+
+@article{DBLP:journals/sigops/AbernathyMPS73,
+  author    = {David H. Abernathy and
+               John S. Mancino and
+               Charls R. Pearson and
+               Dona C. Swiger},
+  title     = {Survey of design goals for operating systems},
+  journal   = osr,
+  volume    = {7},
+  number    = {2},
+  year      = 1973,
+  pages     = {29-48},
+}
+
+@article{DBLP:journals/sigops/FogelW72,
+  author    = {Marc H. Fogel and
+               Joseph Winograd},
+  title     = {EINSTEIN: an internal driver in a time-sharing environment},
+  journal   = osr,
+  volume    = {6},
+  number    = {3},
+  year      = 1972,
+  pages     = {6-14},
+}
+
+@article{DBLP:journals/sigops/Holt71,
+  author    = {Richard C. Holt},
+  title     = {Models and algorithms for deadlock in computer systems},
+  journal   = osr,
+  volume    = {5},
+  number    = {1},
+  year      = 1971,
+  pages     = {4-8},
+}
+
+@article{DBLP:journals/sigops/SutherlandCDEKL71,
+  author    = {George G. Sutherland and
+               Harriet G. Coverston and
+               Pierre J. DuBois and
+               Donald R. Emery and
+               Douglas A. Kent and
+               Paul E. Lund and
+               George H. Powles and
+               F. David Storch and
+               Lee O. Tennant and
+               Donald L. Von Buskirk},
+  title     = {Livermore time-sharing system for the {CDC} 7600},
+  journal   = osr,
+  volume    = {5},
+  number    = {2-3},
+  year      = 1971,
+  pages     = {6-26},
+}
+
+@article{DBLP:journals/sigops/Swenson71,
+  author    = {J. Richard Swenson},
+  title     = {ACM/{SIGOPS} workshop on system performance evaluation},
+  journal   = osr,
+  volume    = {5},
+  number    = {1},
+  year      = 1971,
+  pages     = {9-15},
+}
+
+@article{DBLP:journals/sigops/Swenson71a,
+  author    = {J. Richard Swenson},
+  title     = {{SIGPLAN} symposium},
+  journal   = osr,
+  volume    = {5},
+  number    = {2-3},
+  year      = 1971,
+  pages     = {27-32},
+}
+
+@article{DBLP:journals/sigops/BoettnerA70,
+  author    = {Donald W. Boettner and
+               Michael T. Alexander},
+  title     = {{MTS} - Michigan Terminal System},
+  journal   = osr,
+  volume    = {4},
+  number    = {4},
+  year      = 1970,
+  pages     = {6-19},
+}
+
+@article{DBLP:journals/sigops/Pomeranz70,
+  author    = {John Pomeranz},
+  title     = {Some comments on Denning's principle of optimality},
+  journal   = osr,
+  volume    = {4},
+  number    = {3},
+  year      = 1970,
+  pages     = {19-20},
+}
+
+@article{DBLP:journals/sigops/Lucido70,
+  author    = {Anthony P. Lucido},
+  title     = {Benchmark, sample & measure},
+  journal   = osr,
+  volume    = {4},
+  number    = {3},
+  year      = 1970,
+  pages     = {21-23},
+}
+
+@article{DBLP:journals/sigops/Sackman69,
+  author    = {Hal Sackman},
+  title     = {Toward a census of computer users},
+  journal   = osr,
+  volume    = {3},
+  number    = {1},
+  year      = 1969,
+  pages     = {15},
+}
+
+@article{DBLP:journals/sigops/Slutz69,
+  author    = {Donald R. Slutz},
+  title     = {A critical comment},
+  journal   = osr,
+  volume    = {3},
+  number    = {1},
+  year      = 1969,
+  pages     = {15-16},
+}
+
+@article{DBLP:journals/sigops/Reiter69,
+  author    = {Allen Reiter},
+  title     = {Controversies and opinion},
+  journal   = osr,
+  volume    = {3},
+  number    = {1},
+  year      = 1969,
+  pages     = {16-18},
 }

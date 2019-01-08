@@ -1,5 +1,5868 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/stoc/Lo18,
+  author    = {Irene Lo},
+  title     = {Dynamic matching in school choice: efficient seat reassignment after late cancellations (invited talk)},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/stoc/Ma18,
+  author    = {Tengyu Ma},
+  title     = {Generalization and equilibrium in generative adversarial nets (GANs) (invited talk)},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/stoc/BubeckCLLM18,
+  author    = {Sébastien Bubeck and
+               Michael B. Cohen and
+               Yin Tat Lee and
+               James R. Lee and
+               Aleksander Madry},
+  title     = {k-server via multiscale entropic regularization},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {3-16},
+}
+
+@inproceedings{DBLP:conf/stoc/0002KTWZZ18,
+  author    = {Zhiyi Huang and
+               Ning Kang and
+               Zhihao Gavin Tang and
+               Xiaowei Wu and
+               Yuhao Zhang and
+               Xue Zhu},
+  title     = {How to match when all vertices arrive online},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {17-29},
+}
+
+@inproceedings{DBLP:conf/stoc/ImKPS18,
+  author    = {Sungjin Im and
+               Nathaniel Kell and
+               Debmalya Panigrahi and
+               Maryam Shadloo},
+  title     = {Online load balancing on related machines},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {30-43},
+}
+
+@inproceedings{DBLP:conf/stoc/DaskalakisTZ18,
+  author    = {Constantinos Daskalakis and
+               Christos Tzamos and
+               Manolis Zampetakis},
+  title     = {A converse to Banach's fixed point theorem and its {CLS-completeness}},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {44-50},
+}
+
+@inproceedings{DBLP:conf/stoc/Filos-RatsikasG18,
+  author    = {Aris Filos-Ratsikas and
+               Paul W. Goldberg},
+  title     = {Consensus halving is {PPA-complete}},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {51-64},
+}
+
+@inproceedings{DBLP:conf/stoc/AbrahamsenAM18,
+  author    = {Mikkel Abrahamsen and
+               Anna Adamaszek and
+               Tillmann Miltzow},
+  title     = {The art gallery problem is ∃ ℝ-complete},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {65-73},
+}
+
+@inproceedings{DBLP:conf/stoc/BunDRS18,
+  author    = {Mark Bun and
+               Cynthia Dwork and
+               Guy N. Rothblum and
+               Thomas Steinke},
+  title     = {Composable and versatile privacy via truncated {CDP}},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {74-86},
+}
+
+@inproceedings{DBLP:conf/stoc/DudekK18,
+  author    = {Bartlomiej Dudek and
+               Adrian Kosowski},
+  title     = {Universal protocols for information dissemination using emergent signals},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {87-99},
+}
+
+@inproceedings{DBLP:conf/stoc/OmidvarF18,
+  author    = {Hamed Omidvar and
+               Massimo Franceschetti},
+  title     = {Shape of diffusion and size of monochromatic region of a two-dimensional spin system},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {100-113},
+}
+
+@inproceedings{DBLP:conf/stoc/LykourisML18,
+  author    = {Thodoris Lykouris and
+               Vahab S. Mirrokni and
+               Renato Paes Leme},
+  title     = {Stochastic bandits robust to adversarial corruptions},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {114-122},
+}
+
+@inproceedings{DBLP:conf/stoc/Gonczarowski18,
+  author    = {Yannai A. Gonczarowski},
+  title     = {Bounding the menu-size of approximately optimal auctions via optimal-transport duality},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {123-131},
+}
+
+@inproceedings{DBLP:conf/stoc/HoyTW18,
+  author    = {Darrell Hoy and
+               Samuel Taggart and
+               Zihe Wang},
+  title     = {A tighter welfare guarantee for first-price auctions},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {132-137},
+}
+
+@inproceedings{DBLP:conf/stoc/NeuenS18,
+  author    = {Daniel Neuen and
+               Pascal Schweitzer},
+  title     = {An exponential lower bound for individualization-refinement algorithms for graph isomorphism},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {138-150},
+}
+
+@inproceedings{DBLP:conf/stoc/BrandDH18,
+  author    = {Cornelius Brand and
+               Holger Dell and
+               Thore Husfeldt},
+  title     = {Extensor-coding},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {151-164},
+}
+
+@inproceedings{DBLP:conf/stoc/OnakS18,
+  author    = {Krzysztof Onak and
+               Xiaorui Sun},
+  title     = {The query complexity of graph isomorphism: bypassing distribution testing lower bounds},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {165-171},
+}
+
+@inproceedings{DBLP:conf/stoc/Allen-ZhuGLOW18,
+  author    = {Zeyuan Allen-Zhu and
+               Ankit Garg and
+               Yuanzhi Li and
+               Rafael Mendes de Oliveira and
+               Avi Wigderson},
+  title     = {Operator scaling via geodesically convex optimization, invariant theory and polynomial identity testing},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {172-181},
+}
+
+@inproceedings{DBLP:conf/stoc/KwokLLR18,
+  author    = {Tsz Chiu Kwok and
+               Lap Chi Lau and
+               Yin Tat Lee and
+               Akshay Ramachandran},
+  title     = {The Paulsen problem, continuous operator scaling, and smoothed analysis},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {182-189},
+}
+
+@inproceedings{DBLP:conf/stoc/Franks18,
+  author    = {Cole Franks},
+  title     = {Operator scaling with specified marginals},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {190-203},
+}
+
+@inproceedings{DBLP:conf/stoc/SvenssonTV18,
+  author    = {Ola Svensson and
+               Jakub Tarnawski and
+               László A. Végh},
+  title     = {A constant-factor approximation algorithm for the asymmetric traveling salesman problem},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {204-213},
+}
+
+@inproceedings{DBLP:conf/stoc/Schild18,
+  author    = {Aaron Schild},
+  title     = {An almost-linear time algorithm for uniform random spanning tree generation},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {214-227},
+}
+
+@inproceedings{DBLP:conf/stoc/AggarwalS18,
+  author    = {Divesh Aggarwal and
+               Noah Stephens-Davidowitz},
+  title     = {(Gap/S){ETH} hardness of {SVP}},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {228-238},
+}
+
+@inproceedings{DBLP:conf/stoc/AgarwalR18,
+  author    = {Udit Agarwal and
+               Vijaya Ramachandran},
+  title     = {Fine-grained complexity for sparse graphs},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {239-252},
+}
+
+@inproceedings{DBLP:conf/stoc/AbboudBDN18,
+  author    = {Amir Abboud and
+               Karl Bringmann and
+               Holger Dell and
+               Jesper Nederlof},
+  title     = {More consequences of falsifying {SETH} and the orthogonal vectors conjecture},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {253-266},
+}
+
+@inproceedings{DBLP:conf/stoc/BackursRSWW18,
+  author    = {Arturs Backurs and
+               Liam Roditty and
+               Gilad Segal and
+               Virginia Vassilevska Williams and
+               Nicole Wein},
+  title     = {Towards tight approximation bounds for graph diameter and eccentricities},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {267-280},
+}
+
+@inproceedings{DBLP:conf/stoc/DellL18,
+  author    = {Holger Dell and
+               John Lapinskas},
+  title     = {Fine-grained reductions from approximate counting to decision},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {281-288},
+}
+
+@inproceedings{DBLP:conf/stoc/ChristandlVZ18,
+  author    = {Matthias Christandl and
+               Péter Vrana and
+               Jeroen Zuiddam},
+  title     = {Universal points in the asymptotic spectrum of tensors},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {289-296},
+}
+
+@inproceedings{DBLP:conf/stoc/BunKT18,
+  author    = {Mark Bun and
+               Robin Kothari and
+               Justin Thaler},
+  title     = {The polynomial method strikes back: tight quantum query bounds via dual polynomials},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {297-310},
+}
+
+@inproceedings{DBLP:conf/stoc/Sherstov18,
+  author    = {Alexander A. Sherstov},
+  title     = {Algorithmic polynomials},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {311-324},
+}
+
+@inproceedings{DBLP:conf/stoc/Aaronson18,
+  author    = {Scott Aaronson},
+  title     = {Shadow tomography of quantum states},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {325-338},
+}
+
+@inproceedings{DBLP:conf/stoc/LeungNSTYY18,
+  author    = {Debbie Leung and
+               Ashwin Nayak and
+               Ala Shayeghi and
+               Dave Touchette and
+               Penghui Yao and
+               Nengkun Yu},
+  title     = {Capacity approaching coding for low noise interactive quantum communication},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {339-352},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanCG18,
+  author    = {Mark Braverman and
+               Gil Cohen and
+               Sumegha Garg},
+  title     = {Hitting sets with near-optimal error for read-once branching programs},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {353-362},
+}
+
+@inproceedings{DBLP:conf/stoc/ChattopadhyayHR18,
+  author    = {Eshan Chattopadhyay and
+               Pooya Hatami and
+               Omer Reingold and
+               Avishay Tal},
+  title     = {Improved pseudorandomness for unordered branching programs through local monotonicity},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {363-375},
+}
+
+@inproceedings{DBLP:conf/stoc/DinurKKMS18,
+  author    = {Irit Dinur and
+               Subhash Khot and
+               Guy Kindler and
+               Dor Minzer and
+               Muli Safra},
+  title     = {Towards a proof of the 2-to-1 games conjecture?},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {376-389},
+}
+
+@inproceedings{DBLP:conf/stoc/DadushH18,
+  author    = {Daniel Dadush and
+               Sophie Huiberts},
+  title     = {A friendly smoothed analysis of the simplex method},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {390-403},
+}
+
+@inproceedings{DBLP:conf/stoc/KyngPSZ18,
+  author    = {Rasmus Kyng and
+               Richard Peng and
+               Robert Schwieterman and
+               Peng Zhang},
+  title     = {Incomplete nested dissection},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {404-417},
+}
+
+@inproceedings{DBLP:conf/stoc/GhaffariKMU18,
+  author    = {Mohsen Ghaffari and
+               Fabian Kuhn and
+               Yannic Maus and
+               Jara Uitto},
+  title     = {Deterministic distributed edge-coloring with fewer colors},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {418-430},
+}
+
+@inproceedings{DBLP:conf/stoc/GhaffariL18,
+  author    = {Mohsen Ghaffari and
+               Jason Li},
+  title     = {Improved distributed algorithms for exact shortest paths},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {431-444},
+}
+
+@inproceedings{DBLP:conf/stoc/ChangLP18,
+  author    = {Yi-Jun Chang and
+               Wenzheng Li and
+               Seth Pettie},
+  title     = {An optimal distributed (Δ+1)-coloring algorithm?},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {445-456},
+}
+
+@inproceedings{DBLP:conf/stoc/Fineman18,
+  author    = {Jeremy T. Fineman},
+  title     = {Nearly work-efficient parallel algorithm for digraph reachability},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {457-470},
+}
+
+@inproceedings{DBLP:conf/stoc/CzumajLMMOS18,
+  author    = {Artur Czumaj and
+               Jakub Lacki and
+               Aleksander Madry and
+               Slobodan Mitrovic and
+               Krzysztof Onak and
+               Piotr Sankowski},
+  title     = {Round compression for parallel matching algorithms},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {471-484},
+}
+
+@inproceedings{DBLP:conf/stoc/BlasiokGNRS18,
+  author    = {Jaroslaw Blasiok and
+               Venkatesan Guruswami and
+               Preetum Nakkiran and
+               Atri Rudra and
+               Madhu Sudan},
+  title     = {General strong polarization},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {485-492},
+}
+
+@inproceedings{DBLP:conf/stoc/Cheraghchi18,
+  author    = {Mahdi Cheraghchi},
+  title     = {Capacity upper bounds for deletion-type channels},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {493-506},
+}
+
+@inproceedings{DBLP:conf/stoc/EfremenkoKS18,
+  author    = {Klim Efremenko and
+               Gillat Kol and
+               Raghuvansh Saxena},
+  title     = {Interactive coding over the noisy broadcast channel},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {507-520},
+}
+
+@inproceedings{DBLP:conf/stoc/FawziGL18,
+  author    = {Omar Fawzi and
+               Antoine Grospellier and
+               Anthony Leverrier},
+  title     = {Efficient decoding of random errors for quantum expander codes},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {521-534},
+}
+
+@inproceedings{DBLP:conf/stoc/CohenHS18,
+  author    = {Gil Cohen and
+               Bernhard Haeupler and
+               Leonard J. Schulman},
+  title     = {Explicit binary tree codes with polylogarithmic size alphabet},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {535-544},
+}
+
+@inproceedings{DBLP:conf/stoc/LoeraHR18,
+  author    = {Jesús A. De Loera and
+               Jamie Haddock and
+               Luis Rademacher},
+  title     = {The minimum euclidean-norm point in a convex polytope: Wolfe's combinatorial algorithm is exponential},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {545-553},
+}
+
+@inproceedings{DBLP:conf/stoc/KaneLM18,
+  author    = {Daniel M. Kane and
+               Shachar Lovett and
+               Shay Moran},
+  title     = {Near-optimal linear decision trees for {k-SUM} and related problems},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {554-563},
+}
+
+@inproceedings{DBLP:conf/stoc/AbrahamsenABCMR18,
+  author    = {Mikkel Abrahamsen and
+               Anna Adamaszek and
+               Karl Bringmann and
+               Vincent Cohen-Addad and
+               Mehran Mehr and
+               Eva Rotenberg and
+               Alan Roytman and
+               Mikkel Thorup},
+  title     = {Fast fencing},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {564-573},
+}
+
+@inproceedings{DBLP:conf/stoc/BergBKMZ18,
+  author    = {Mark de Berg and
+               Hans L. Bodlaender and
+               Sándor Kisfaludi-Bak and
+               Dániel Marx and
+               Tom C. van der Zanden},
+  title     = {A framework for {ETH-tight} algorithms and lower bounds in geometric intersection graphs},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {574-586},
+}
+
+@inproceedings{DBLP:conf/stoc/BansalDGL18,
+  author    = {Nikhil Bansal and
+               Daniel Dadush and
+               Shashwat Garg and
+               Shachar Lovett},
+  title     = {The gram-schmidt walk: a cure for the Banaszczyk blues},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {587-597},
+}
+
+@inproceedings{DBLP:conf/stoc/EmekKLS18,
+  author    = {Yuval Emek and
+               Shay Kutten and
+               Ron Lavi and
+               Yangguang Shi},
+  title     = {Approximating generalized network design under (dis)economies of scale with applications to energy efficiency},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {598-606},
+}
+
+@inproceedings{DBLP:conf/stoc/0001MW018,
+  author    = {Fabrizio Grandoni and
+               Tobias Mömke and
+               Andreas Wiese and
+               Hang Zhou},
+  title     = {A (5/3 + ε)-approximation for unsplittable flow on a path: placing small tasks into boxes},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {607-619},
+}
+
+@inproceedings{DBLP:conf/stoc/ByrkaSS18,
+  author    = {Jaroslaw Byrka and
+               Krzysztof Sornat and
+               Joachim Spoerhase},
+  title     = {Constant-factor approximation for ordered k-median},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {620-631},
+}
+
+@inproceedings{DBLP:conf/stoc/0001KZ18,
+  author    = {Fabrizio Grandoni and
+               Christos Kalaitzis and
+               Rico Zenklusen},
+  title     = {Improved approximation for tree augmentation: saving by rewiring},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {632-645},
+}
+
+@inproceedings{DBLP:conf/stoc/KrishnaswamyLS18,
+  author    = {Ravishankar Krishnaswamy and
+               Shi Li and
+               Sai Sandeep},
+  title     = {Constant approximation for k-median and k-means with outliers via iterative rounding},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {646-659},
+}
+
+@inproceedings{DBLP:conf/stoc/GoyalKW18,
+  author    = {Rishab Goyal and
+               Venkata Koppula and
+               Brent Waters},
+  title     = {Collusion resistant traitor tracing from learning with errors},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {660-670},
+}
+
+@inproceedings{DBLP:conf/stoc/BitanskyKP18,
+  author    = {Nir Bitansky and
+               Yael Tauman Kalai and
+               Omer Paneth},
+  title     = {Multi-collision resistance: a paradigm for keyless hash functions},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {671-684},
+}
+
+@inproceedings{DBLP:conf/stoc/Goyal018,
+  author    = {Vipul Goyal and
+               Ashutosh Kumar},
+  title     = {Non-malleable secret sharing},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {685-698},
+}
+
+@inproceedings{DBLP:conf/stoc/LiuV18,
+  author    = {Tianren Liu and
+               Vinod Vaikuntanathan},
+  title     = {Breaking the circuit-size barrier in secret sharing},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {699-708},
+}
+
+@inproceedings{DBLP:conf/stoc/BadrinarayananK18,
+  author    = {Saikrishna Badrinarayanan and
+               Yael Tauman Kalai and
+               Dakshita Khurana and
+               Amit Sahai and
+               Daniel Wichs},
+  title     = {Succinct delegation for low-space non-deterministic computation},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {709-721},
+}
+
+@inproceedings{DBLP:conf/stoc/EdenRS18,
+  author    = {Talya Eden and
+               Dana Ron and
+               C. Seshadhri},
+  title     = {On approximating the number of k-cliques in sublinear time},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {722-734},
+}
+
+@inproceedings{DBLP:conf/stoc/CanonneDKS18,
+  author    = {Clément L. Canonne and
+               Ilias Diakonikolas and
+               Daniel M. Kane and
+               Alistair Stewart},
+  title     = {Testing conditional independence of discrete distributions},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {735-748},
+}
+
+@inproceedings{DBLP:conf/stoc/LiuCSSX18,
+  author    = {Zhengyang Liu and
+               Xi Chen and
+               Rocco A. Servedio and
+               Ying Sheng and
+               Jinyu Xie},
+  title     = {Distribution-free junta testing},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {749-759},
+}
+
+@inproceedings{DBLP:conf/stoc/GishbolinerS18,
+  author    = {Lior Gishboliner and
+               Asaf Shapira},
+  title     = {A generalized Turán problem and its applications},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {760-772},
+}
+
+@inproceedings{DBLP:conf/stoc/KaufmanO18,
+  author    = {Tali Kaufman and
+               Izhar Oppenheim},
+  title     = {Construction of new local spectral high dimensional expanders},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {773-786},
+}
+
+@inproceedings{DBLP:conf/stoc/AndoniNNRW18,
+  author    = {Alexandr Andoni and
+               Assaf Naor and
+               Aleksandar Nikolov and
+               Ilya P. Razenshteyn and
+               Erik Waingarten},
+  title     = {Data-dependent hashing via nonlinear spectral gaps},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {787-800},
+}
+
+@inproceedings{DBLP:conf/stoc/0002S18,
+  author    = {László Kozma and
+               Thatchaphol Saranurak},
+  title     = {Smooth heaps and a dual view of self-adjusting data structures},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {801-814},
+}
+
+@inproceedings{DBLP:conf/stoc/AssadiOSS18,
+  author    = {Sepehr Assadi and
+               Krzysztof Onak and
+               Baruch Schieber and
+               Shay Solomon},
+  title     = {Fully dynamic maximal independent set with sublinear update time},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {815-826},
+}
+
+@inproceedings{DBLP:conf/stoc/KempaP18,
+  author    = {Dominik Kempa and
+               Nicola Prezza},
+  title     = {At the roots of dictionary compression: string attractors},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {827-840},
+}
+
+@inproceedings{DBLP:conf/stoc/HaeuplerS18,
+  author    = {Bernhard Haeupler and
+               Amirbehshad Shahrasbi},
+  title     = {Synchronization strings: explicit constructions, local decoding, and applications},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {841-854},
+}
+
+@inproceedings{DBLP:conf/stoc/Tell18,
+  author    = {Roei Tell},
+  title     = {Quantified derandomization of linear threshold circuits},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {855-865},
+}
+
+@inproceedings{DBLP:conf/stoc/AtseriasBRLNR18,
+  author    = {Albert Atserias and
+               Ilario Bonacina and
+               Susanna F. de Rezende and
+               Massimo Lauria and
+               Jakob Nordström and
+               Alexander A. Razborov},
+  title     = {Clique is hard on average for regular resolution},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {866-877},
+}
+
+@inproceedings{DBLP:conf/stoc/IkenmeyerKLLMS18,
+  author    = {Christian Ikenmeyer and
+               Balagopal Komarath and
+               Christoph Lenzen and
+               Vladimir Lysikov and
+               Andrey Mokhov and
+               Karteek Sreenivasaiah},
+  title     = {On the complexity of hazard-free circuits},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {878-889},
+}
+
+@inproceedings{DBLP:conf/stoc/MurrayW18,
+  author    = {Cody Murray and
+               R. Ryan Williams},
+  title     = {Circuit lower bounds for nondeterministic quasi-polytime: an easy witness lemma for {NP} and {NQP}},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {890-901},
+}
+
+@inproceedings{DBLP:conf/stoc/GargGKS18,
+  author    = {Ankit Garg and
+               Mika Göös and
+               Pritish Kamath and
+               Dmitry Sokolov},
+  title     = {Monotone circuit lower bounds from resolution},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {902-911},
+}
+
+@inproceedings{DBLP:conf/stoc/MutzeNW18,
+  author    = {Torsten Mütze and
+               Jerri Nummenpalo and
+               Bartosz Walczak},
+  title     = {Sparse Kneser graphs are Hamiltonian},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {912-919},
+}
+
+@inproceedings{DBLP:conf/stoc/KarlinGW18,
+  author    = {Anna R. Karlin and
+               Shayan Oveis Gharan and
+               Robbie Weber},
+  title     = {A simply exponential upper bound on the maximum number of stable matchings},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {920-925},
+}
+
+@inproceedings{DBLP:conf/stoc/0001LLZ18,
+  author    = {Heng Guo and
+               Chao Liao and
+               Pinyan Lu and
+               Chihao Zhang},
+  title     = {Counting hypergraph colourings in the local lemma regime},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {926-939},
+}
+
+@inproceedings{DBLP:conf/stoc/DinurKKMS18a,
+  author    = {Irit Dinur and
+               Subhash Khot and
+               Guy Kindler and
+               Dor Minzer and
+               Muli Safra},
+  title     = {On non-optimally expanding sets in Grassmann graphs},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {940-951},
+}
+
+@inproceedings{DBLP:conf/stoc/AbrahamFGN18,
+  author    = {Ittai Abraham and
+               Arnold Filtser and
+               Anupam Gupta and
+               Ofer Neiman},
+  title     = {Metric embedding via shortest path decompositions},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {952-963},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanK18,
+  author    = {Mark Braverman and
+               Gillat Kol},
+  title     = {Interactive compression to external information},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {964-977},
+}
+
+@inproceedings{DBLP:conf/stoc/LarsenWY18,
+  author    = {Kasper Green Larsen and
+               Omri Weinstein and
+               Huacheng Yu},
+  title     = {Crossing the logarithmic barrier for dynamic Boolean data structure lower bounds},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {978-989},
+}
+
+@inproceedings{DBLP:conf/stoc/GargRT18,
+  author    = {Sumegha Garg and
+               Ran Raz and
+               Avishay Tal},
+  title     = {Extractor-based time-space lower bounds for learning},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {990-1002},
+}
+
+@inproceedings{DBLP:conf/stoc/AlmanWY18,
+  author    = {Josh Alman and
+               Joshua R. Wang and
+               Huacheng Yu},
+  title     = {Cell-probe lower bounds from online communication complexity},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1003-1012},
+}
+
+@inproceedings{DBLP:conf/stoc/ChattopadhyayKL18,
+  author    = {Arkadev Chattopadhyay and
+               Michal Koucký and
+               Bruno Loff and
+               Sagnik Mukhopadhyay},
+  title     = {Simulation beats richness: new data-structure lower bounds},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1013-1020},
+}
+
+@inproceedings{DBLP:conf/stoc/Hopkins018,
+  author    = {Samuel B. Hopkins and
+               Jerry Li},
+  title     = {Mixture models, robustness, and sum of squares proofs},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1021-1034},
+}
+
+@inproceedings{DBLP:conf/stoc/KothariSS18,
+  author    = {Pravesh K. Kothari and
+               Jacob Steinhardt and
+               David Steurer},
+  title     = {Robust moment estimation and improved clustering via sum of squares},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1035-1046},
+}
+
+@inproceedings{DBLP:conf/stoc/DiakonikolasKS18,
+  author    = {Ilias Diakonikolas and
+               Daniel M. Kane and
+               Alistair Stewart},
+  title     = {List-decodable robust mean estimation and learning mixtures of spherical gaussians},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1047-1060},
+}
+
+@inproceedings{DBLP:conf/stoc/DiakonikolasKS18a,
+  author    = {Ilias Diakonikolas and
+               Daniel M. Kane and
+               Alistair Stewart},
+  title     = {Learning geometric concepts with nasty noise},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1061-1073},
+}
+
+@inproceedings{DBLP:conf/stoc/SharanKLV18,
+  author    = {Vatsal Sharan and
+               Sham Kakade and
+               Percy Liang and
+               Gregory Valiant},
+  title     = {Prediction with a short memory},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1074-1087},
+}
+
+@inproceedings{DBLP:conf/stoc/MahabadiMMR18,
+  author    = {Sepideh Mahabadi and
+               Konstantin Makarychev and
+               Yury Makarychev and
+               Ilya P. Razenshteyn},
+  title     = {Nonlinear dimension reduction via outer {Bi-Lipschitz} extensions},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1088-1101},
+}
+
+@inproceedings{DBLP:conf/stoc/GargLSS18,
+  author    = {Ankit Garg and
+               Yin Tat Lee and
+               Zhao Song and
+               Nikhil Srivastava},
+  title     = {A matrix expander Chernoff bound},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1102-1114},
+}
+
+@inproceedings{DBLP:conf/stoc/LeeV18,
+  author    = {Yin Tat Lee and
+               Santosh S. Vempala},
+  title     = {Convergence rate of riemannian Hamiltonian Monte Carlo and faster polytope volume computation},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1115-1121},
+}
+
+@inproceedings{DBLP:conf/stoc/LeeV18a,
+  author    = {Yin Tat Lee and
+               Santosh S. Vempala},
+  title     = {Stochastic localization + Stieltjes barrier = tight bound for {log-Sobolev}},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1122-1129},
+}
+
+@inproceedings{DBLP:conf/stoc/BubeckCLL18,
+  author    = {Sébastien Bubeck and
+               Michael B. Cohen and
+               Yin Tat Lee and
+               Yuanzhi Li},
+  title     = {An homotopy method for lp regression provably beyond self-concordance and in input-sparsity time},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1130-1137},
+}
+
+@inproceedings{DBLP:conf/stoc/BalkanskiS18,
+  author    = {Eric Balkanski and
+               Yaron Singer},
+  title     = {The adaptive complexity of maximizing a submodular function},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1138-1151},
+}
+
+@inproceedings{DBLP:conf/stoc/Dutta0S18,
+  author    = {Pranjal Dutta and
+               Nitin Saxena and
+               Amit Sinhababu},
+  title     = {Discovering the roots: uniform closure results for algebraic classes under factoring},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1152-1165},
+}
+
+@inproceedings{DBLP:conf/stoc/AgrawalG018,
+  author    = {Manindra Agrawal and
+               Sumanta Ghosh and
+               Nitin Saxena},
+  title     = {Bootstrapping variables in algebraic circuits},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1166-1179},
+}
+
+@inproceedings{DBLP:conf/stoc/ForbesS18,
+  author    = {Michael A. Forbes and
+               Amir Shpilka},
+  title     = {A {PSPACE} construction of a hitting set for the closure of small algebraic circuits},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1180-1192},
+}
+
+@inproceedings{DBLP:conf/stoc/BlaserIJL18,
+  author    = {Markus Bläser and
+               Christian Ikenmeyer and
+               Gorav Jindal and
+               Vladimir Lysikov},
+  title     = {Generalized matrix completion and algebraic natural proofs},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1193-1206},
+}
+
+@inproceedings{DBLP:conf/stoc/PitassiR18,
+  author    = {Toniann Pitassi and
+               Robert Robere},
+  title     = {Lifting nullstellensatz to monotone span programs over any field},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1207-1219},
+}
+
+@inproceedings{DBLP:conf/stoc/ChuzhoyKN18,
+  author    = {Julia Chuzhoy and
+               David H. K. Kim and
+               Rachit Nimavat},
+  title     = {Almost polynomial hardness of node-disjoint paths in grids},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1220-1233},
+}
+
+@inproceedings{DBLP:conf/stoc/BezakovaGGS18,
+  author    = {Ivona Bezáková and
+               Andreas Galanis and
+               Leslie Ann Goldberg and
+               Daniel Stefankovic},
+  title     = {Inapproximability of the independent set polynomial in the complex plane},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1234-1240},
+}
+
+@inproceedings{DBLP:conf/stoc/KothariM18,
+  author    = {Pravesh K. Kothari and
+               Ruta Mehta},
+  title     = {Sum-of-squares meets nash: lower bounds for finding any equilibrium},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1241-1248},
+}
+
+@inproceedings{DBLP:conf/stoc/SimchowitzAR18,
+  author    = {Max Simchowitz and
+               Ahmed El Alaoui and
+               Benjamin Recht},
+  title     = {Tight query complexity lower bounds for {PCA} via finite sample deformed wigner law},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1249-1259},
+}
+
+@inproceedings{DBLP:conf/stoc/Rubinstein18,
+  author    = {Aviad Rubinstein},
+  title     = {Hardness of approximate nearest neighbor search},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1260-1268},
+}
+
+@inproceedings{DBLP:conf/stoc/BateniHSS18,
+  author    = {MohammadHossein Bateni and
+               MohammadTaghi Hajiaghayi and
+               Saeed Seddighin and
+               Cliff Stein},
+  title     = {Fast algorithms for knapsack via convolution and prediction},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1269-1282},
+}
+
+@inproceedings{DBLP:conf/stoc/SLM18,
+  author    = {Karthik C. S. and
+               Bundit Laekhanukit and
+               Pasin Manurangsi},
+  title     = {On the parameterized complexity of approximating dominating set},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1283-1296},
+}
+
+@inproceedings{DBLP:conf/stoc/ChakrabortyKL18,
+  author    = {Diptarka Chakraborty and
+               Lior Kamma and
+               Kasper Green Larsen},
+  title     = {Tight cell probe bounds for succinct Boolean matrix-vector multiplication},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1297-1306},
+}
+
+@inproceedings{DBLP:conf/stoc/BalliuHKLOS18,
+  author    = {Alkida Balliu and
+               Juho Hirvonen and
+               Janne H. Korhonen and
+               Tuomo Lempiäinen and
+               Dennis Olivetti and
+               Jukka Suomela},
+  title     = {New classes of distributed time complexity},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1307-1318},
+}
+
+@inproceedings{DBLP:conf/stoc/0001FL18,
+  author    = {Jeff Erickson and
+               Kyle Fox and
+               Luvsandondov Lkhamsuren},
+  title     = {Holiest minimum-cost paths and flows in surface graphs},
+  booktitle = stoc,
+  year      = 2018,
+  pages     = {1319-1332},
+}
+
+@inproceedings{DBLP:conf/stoc/Zohar17,
+  author    = {Aviv Zohar},
+  title     = {Recent trends in decentralized cryptocurrencies (invited talk)},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/stoc/RoughgardenT17,
+  author    = {Tim Roughgarden and
+               Inbal Talgam-Cohen},
+  title     = {Why prices need algorithms (invited talk)},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/stoc/Martens17,
+  author    = {Wim Martens},
+  title     = {Optimizing tree pattern queries: why cutting is not enough (invited talk)},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/stoc/Rudra17,
+  author    = {Atri Rudra},
+  title     = {Answering {FAQs} in CSPs, probabilistic graphical models, databases, logic and matrix operations (invited talk)},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/stoc/Syrgkanis17,
+  author    = {Vasilis Syrgkanis},
+  title     = {Fast convergence of learning in games (invited talk)},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/stoc/Kupferman17,
+  author    = {Orna Kupferman},
+  title     = {Examining classical graph-theory problems from the viewpoint of formal-verification methods (invited talk)},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/stoc/Foster17,
+  author    = {Nate Foster},
+  title     = {The next 700 network programming languages (invited talk)},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/stoc/Nikolaenko17,
+  author    = {Valeria Nikolaenko},
+  title     = {Practical post-quantum key agreement from generic lattices (invited talk)},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {8},
+}
+
+@inproceedings{DBLP:conf/stoc/DaganFGM17,
+  author    = {Yuval Dagan and
+               Yuval Filmus and
+               Ariel Gabizon and
+               Shay Moran},
+  title     = {Twenty (simple) questions},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {9-21},
+}
+
+@inproceedings{DBLP:conf/stoc/Zimand17,
+  author    = {Marius Zimand},
+  title     = {Kolmogorov complexity version of {Slepian-Wolf} coding},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {22-32},
+}
+
+@inproceedings{DBLP:conf/stoc/HaeuplerS17,
+  author    = {Bernhard Haeupler and
+               Amirbehshad Shahrasbi},
+  title     = {Synchronization strings: codes for insertions and deletions approaching the Singleton bound},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {33-46},
+}
+
+@inproceedings{DBLP:conf/stoc/CharikarSV17,
+  author    = {Moses Charikar and
+               Jacob Steinhardt and
+               Gregory Valiant},
+  title     = {Learning from untrusted data},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {47-60},
+}
+
+@inproceedings{DBLP:conf/stoc/AbolhassaniEEHK17,
+  author    = {Melika Abolhassani and
+               Soheil Ehsani and
+               Hossein Esfandiari and
+               MohammadTaghi Hajiaghayi and
+               Robert D. Kleinberg and
+               Brendan Lucier},
+  title     = {Beating 1-1/e for ordered prophets},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {61-71},
+}
+
+@inproceedings{DBLP:conf/stoc/BubeckLE17,
+  author    = {Sébastien Bubeck and
+               Yin Tat Lee and
+               Ronen Eldan},
+  title     = {Kernel-based methods for bandit convex optimization},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {72-85},
+}
+
+@inproceedings{DBLP:conf/stoc/ChuzhoyKN17,
+  author    = {Julia Chuzhoy and
+               David H. K. Kim and
+               Rachit Nimavat},
+  title     = {New hardness results for routing on disjoint paths},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {86-99},
+}
+
+@inproceedings{DBLP:conf/stoc/OlverV17,
+  author    = {Neil Olver and
+               László A. Végh},
+  title     = {A simpler and faster strongly polynomial algorithm for generalized flow maximization},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {100-111},
+}
+
+@inproceedings{DBLP:conf/stoc/DahlgaardKS17,
+  author    = {Søren Dahlgaard and
+               Mathias Bæk Tejs Knudsen and
+               Morten Stöckel},
+  title     = {Finding even cycles faster via capped k-walks},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {112-120},
+}
+
+@inproceedings{DBLP:conf/stoc/RaghavendraRS17,
+  author    = {Prasad Raghavendra and
+               Satish Rao and
+               Tselil Schramm},
+  title     = {Strongly refuting random {CSPs} below the spectral threshold},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {121-131},
+}
+
+@inproceedings{DBLP:conf/stoc/KothariMOW17,
+  author    = {Pravesh K. Kothari and
+               Ryuhei Mori and
+               Ryan O'Donnell and
+               David Witmer},
+  title     = {Sum of squares lower bounds for refuting any {CSP}},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {132-145},
+}
+
+@inproceedings{DBLP:conf/stoc/Coja-OghlanKPZ17,
+  author    = {Amin Coja-Oghlan and
+               Florent Krzakala and
+               Will Perkins and
+               Lenka Zdeborová},
+  title     = {Information-theoretic thresholds from the cavity method},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {146-157},
+}
+
+@inproceedings{DBLP:conf/stoc/DughmiHKN17,
+  author    = {Shaddin Dughmi and
+               Jason D. Hartline and
+               Robert Kleinberg and
+               Rad Niazadeh},
+  title     = {Bernoulli factories and black-box reductions in mechanism design},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {158-169},
+}
+
+@inproceedings{DBLP:conf/stoc/CaiZ17,
+  author    = {Yang Cai and
+               Mingfei Zhao},
+  title     = {Simple mechanisms for subadditive buyers via duality},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {170-183},
+}
+
+@inproceedings{DBLP:conf/stoc/ChawlaDHKMS17,
+  author    = {Shuchi Chawla and
+               Nikhil R. Devanur and
+               Alexander E. Holroyd and
+               Anna R. Karlin and
+               James B. Martin and
+               Balasubramanian Sivan},
+  title     = {Stability of service under time-of-use pricing},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {184-197},
+}
+
+@inproceedings{DBLP:conf/stoc/BansalGNV17,
+  author    = {Nikhil Bansal and
+               Shashwat Garg and
+               Jesper Nederlof and
+               Nikhil Vyas},
+  title     = {Faster space-efficient algorithms for subset sum and k-sum},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {198-209},
+}
+
+@inproceedings{DBLP:conf/stoc/CurticapeanDM17,
+  author    = {Radu Curticapean and
+               Holger Dell and
+               Dániel Marx},
+  title     = {Homomorphisms are a good basis for counting small subgraphs},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {210-223},
+}
+
+@inproceedings{DBLP:conf/stoc/LokshtanovPRS17,
+  author    = {Daniel Lokshtanov and
+               Fahad Panolan and
+               M. S. Ramanujan and
+               Saket Saurabh},
+  title     = {Lossy kernelization},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {224-237},
+}
+
+@inproceedings{DBLP:conf/stoc/Ta-Shma17,
+  author    = {Amnon Ta-Shma},
+  title     = {Explicit, almost optimal, epsilon-balanced codes},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {238-251},
+}
+
+@inproceedings{DBLP:conf/stoc/CaludeJKL017,
+  author    = {Cristian S. Calude and
+               Sanjay Jain and
+               Bakhadyr Khoussainov and
+               Wei Li and
+               Frank Stephan},
+  title     = {Deciding parity games in quasipolynomial time},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {252-263},
+}
+
+@inproceedings{DBLP:conf/stoc/Iwata017,
+  author    = {Satoru Iwata and
+               Yusuke Kobayashi},
+  title     = {A weighted linear matroid parity algorithm},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {264-276},
+}
+
+@inproceedings{DBLP:conf/stoc/AnshuTYY17,
+  author    = {Anurag Anshu and
+               Dave Touchette and
+               Penghui Yao and
+               Nengkun Yu},
+  title     = {Exponential separation of quantum communication and classical information},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {277-288},
+}
+
+@inproceedings{DBLP:conf/stoc/Ji17,
+  author    = {Zhengfeng Ji},
+  title     = {Compression of quantum multi-prover interactive proofs},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {289-302},
+}
+
+@inproceedings{DBLP:conf/stoc/BavarianVY17,
+  author    = {Mohammad Bavarian and
+               Thomas Vidick and
+               Henry Yuen},
+  title     = {Hardness amplification for entangled games via anchoring},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {303-316},
+}
+
+@inproceedings{DBLP:conf/stoc/AaronsonBKM17,
+  author    = {Scott Aaronson and
+               Adam Bouland and
+               Greg Kuperberg and
+               Saeed Mehraban},
+  title     = {The computational complexity of ball permutations},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {317-327},
+}
+
+@inproceedings{DBLP:conf/stoc/MeunierW17,
+  author    = {Pierre-Étienne Meunier and
+               Damien Woods},
+  title     = {The non-cooperative tile assembly model is not intrinsically universal or capable of bounded Turing machine simulation},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {328-341},
+}
+
+@inproceedings{DBLP:conf/stoc/GuoJ017,
+  author    = {Heng Guo and
+               Mark Jerrum and
+               Jingcheng Liu},
+  title     = {Uniform sampling through the Lovasz local lemma},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {342-355},
+}
+
+@inproceedings{DBLP:conf/stoc/Moitra17,
+  author    = {Ankur Moitra},
+  title     = {Approximate counting, the Lovasz local lemma, and inference in graphical models},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {356-369},
+}
+
+@inproceedings{DBLP:conf/stoc/StraszakV17,
+  author    = {Damian Straszak and
+               Nisheeth K. Vishnoi},
+  title     = {Real stable polynomials and matroids: optimization and counting},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {370-383},
+}
+
+@inproceedings{DBLP:conf/stoc/AnariG17,
+  author    = {Nima Anari and
+               Shayan Oveis Gharan},
+  title     = {A generalization of permanent inequalities and applications in counting and optimization},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {384-396},
+}
+
+@inproceedings{DBLP:conf/stoc/GargGOW17,
+  author    = {Ankit Garg and
+               Leonid Gurvits and
+               Rafael Mendes de Oliveira and
+               Avi Wigderson},
+  title     = {Algorithmic and optimization aspects of {Brascamp-Lieb} inequalities, via operator scaling},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {397-409},
+}
+
+@inproceedings{DBLP:conf/stoc/CohenKPPRSV17,
+  author    = {Michael B. Cohen and
+               Jonathan A. Kelner and
+               John Peebles and
+               Richard Peng and
+               Anup B. Rao and
+               Aaron Sidford and
+               Adrian Vladu},
+  title     = {Almost-linear-time algorithms for Markov chains and new spectral primitives for directed graphs},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {410-419},
+}
+
+@inproceedings{DBLP:conf/stoc/GrandoniL17,
+  author    = {Fabrizio Grandoni and
+               Bundit Laekhanukit},
+  title     = {Surviving in directed graphs: a quasi-polynomial-time polylogarithmic approximation for two-connected directed Steiner tree},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {420-428},
+}
+
+@inproceedings{DBLP:conf/stoc/AngelBPW17,
+  author    = {Omer Angel and
+               Sébastien Bubeck and
+               Yuval Peres and
+               Fan Wei},
+  title     = {Local max-cut in smoothed polynomial time},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {429-437},
+}
+
+@inproceedings{DBLP:conf/stoc/AngelidakisMM17,
+  author    = {Haris Angelidakis and
+               Konstantin Makarychev and
+               Yury Makarychev},
+  title     = {Algorithms for stable and perturbation-resilient problems},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {438-451},
+}
+
+@inproceedings{DBLP:conf/stoc/Sherman17,
+  author    = {Jonah Sherman},
+  title     = {Area-convexity, l∞ regularization, and undirected multicommodity flow},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {452-460},
+}
+
+@inproceedings{DBLP:conf/stoc/Peikert0S17,
+  author    = {Chris Peikert and
+               Oded Regev and
+               Noah Stephens-Davidowitz},
+  title     = {Pseudorandomness of {ring-LWE} for any ring and modulus},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {461-473},
+}
+
+@inproceedings{DBLP:conf/stoc/BrakerskiHK17,
+  author    = {Zvika Brakerski and
+               Justin Holmgren and
+               Yael Tauman Kalai},
+  title     = {Non-interactive delegation and batch {NP} verification from standard computational assumptions},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {474-482},
+}
+
+@inproceedings{DBLP:conf/stoc/BallRSV17,
+  author    = {Marshall Ball and
+               Alon Rosen and
+               Manuel Sabin and
+               Prashant Nalini Vasudevan},
+  title     = {Average-case fine-grained hardness},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {483-496},
+}
+
+@inproceedings{DBLP:conf/stoc/CanettiPV17,
+  author    = {Ran Canetti and
+               Oxana Poburinnaya and
+               Muthuramakrishnan Venkitasubramaniam},
+  title     = {Equivocating Yao: constant-round adaptively secure multiparty computation in the plain model},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {497-509},
+}
+
+@inproceedings{DBLP:conf/stoc/GishbolinerS17,
+  author    = {Lior Gishboliner and
+               Asaf Shapira},
+  title     = {Removal lemmas with polynomial bounds},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {510-522},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenWX17,
+  author    = {Xi Chen and
+               Erik Waingarten and
+               Jinyu Xie},
+  title     = {Beyond Talagrand functions: new lower bounds for testing monotonicity and unateness},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {523-536},
+}
+
+@inproceedings{DBLP:conf/stoc/GuptaK0P17,
+  author    = {Anupam Gupta and
+               Ravishankar Krishnaswamy and
+               Amit Kumar and
+               Debmalya Panigrahi},
+  title     = {Online and dynamic algorithms for set cover},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {537-550},
+}
+
+@inproceedings{DBLP:conf/stoc/AzarGGP17,
+  author    = {Yossi Azar and
+               Arun Ganesh and
+               Rong Ge and
+               Debmalya Panigrahi},
+  title     = {Online service with delay},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {551-563},
+}
+
+@inproceedings{DBLP:conf/stoc/NaorY17,
+  author    = {Assaf Naor and
+               Robert Young},
+  title     = {The integrality gap of the {Goemans-Linial} {SDP} relaxation for sparsest cut is at least a constant multiple of √log n},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {564-575},
+}
+
+@inproceedings{DBLP:conf/stoc/KhotMS17,
+  author    = {Subhash Khot and
+               Dor Minzer and
+               Muli Safra},
+  title     = {On independent sets, 2-to-2 games, and Grassmann graphs},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {576-589},
+}
+
+@inproceedings{DBLP:conf/stoc/KothariMR17,
+  author    = {Pravesh K. Kothari and
+               Raghu Meka and
+               Prasad Raghavendra},
+  title     = {Approximating rectangles by juntas and weakly-exponential lower bounds for {LP} relaxations of {CSPs}},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {590-603},
+}
+
+@inproceedings{DBLP:conf/stoc/FanM17,
+  author    = {Zhou Fan and
+               Andrea Montanari},
+  title     = {How well do local algorithms solve semidefinite programs?},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {604-614},
+}
+
+@inproceedings{DBLP:conf/stoc/KabanetsKL17,
+  author    = {Valentine Kabanets and
+               Daniel M. Kane and
+               Zhenjian Lu},
+  title     = {A polynomial restriction lemma with applications},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {615-628},
+}
+
+@inproceedings{DBLP:conf/stoc/HozaU17,
+  author    = {William M. Hoza and
+               Chris Umans},
+  title     = {Targeted pseudorandom generators, simulation advice generators, and derandomizing logspace},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {629-640},
+}
+
+@inproceedings{DBLP:conf/stoc/AlmanW17,
+  author    = {Josh Alman and
+               R. Ryan Williams},
+  title     = {Probabilistic rank and matrix rigidity},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {641-652},
+}
+
+@inproceedings{DBLP:conf/stoc/ForbesSV17,
+  author    = {Michael A. Forbes and
+               Amir Shpilka and
+               Ben Lee Volk},
+  title     = {Succinct hitting sets and barriers to proving algebraic circuits lower bounds},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {653-664},
+}
+
+@inproceedings{DBLP:conf/stoc/OliveiraS17,
+  author    = {Igor Carboni Oliveira and
+               Rahul Santhanam},
+  title     = {Pseudodeterministic constructions in subexponential time},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {665-677},
+}
+
+@inproceedings{DBLP:conf/stoc/Lee017,
+  author    = {Yin Tat Lee and
+               He Sun},
+  title     = {An {SDP-based} algorithm for linear-sized spectral sparsification},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {678-687},
+}
+
+@inproceedings{DBLP:conf/stoc/SongWZ17,
+  author    = {Zhao Song and
+               David P. Woodruff and
+               Peilin Zhong},
+  title     = {Low rank approximation with entrywise l1-norm error},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {688-701},
+}
+
+@inproceedings{DBLP:conf/stoc/CevherKSZ17,
+  author    = {Volkan Cevher and
+               Michael Kapralov and
+               Jonathan Scarlett and
+               Amir Zandieh},
+  title     = {An adaptive sublinear-time block sparse fourier transform},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {702-715},
+}
+
+@inproceedings{DBLP:conf/stoc/BlasiokBCKY17,
+  author    = {Jaroslaw Blasiok and
+               Vladimir Braverman and
+               Stephen R. Chestnut and
+               Robert Krauthgamer and
+               Lin F. Yang},
+  title     = {Streaming symmetric norms via measure concentration},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {716-729},
+}
+
+@inproceedings{DBLP:conf/stoc/DurfeeKPRS17,
+  author    = {David Durfee and
+               Rasmus Kyng and
+               John Peebles and
+               Anup B. Rao and
+               Sushant Sachdeva},
+  title     = {Sampling random spanning trees faster than matrix multiplication},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {730-742},
+}
+
+@inproceedings{DBLP:conf/stoc/Pandurangan0S17,
+  author    = {Gopal Pandurangan and
+               Peter Robinson and
+               Michele Scquizzato},
+  title     = {A time- and message-optimal distributed algorithm for minimum spanning trees},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {743-756},
+}
+
+@inproceedings{DBLP:conf/stoc/Elkin17,
+  author    = {Michael Elkin},
+  title     = {Distributed exact shortest paths in sublinear time},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {757-770},
+}
+
+@inproceedings{DBLP:conf/stoc/ChangKPWZ17,
+  author    = {Yi-Jun Chang and
+               Tsvi Kopelowitz and
+               Seth Pettie and
+               Ruosong Wang and
+               Wei Zhan},
+  title     = {Exponential separations in the energy complexity of leader election},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {771-783},
+}
+
+@inproceedings{DBLP:conf/stoc/GhaffariKM17,
+  author    = {Mohsen Ghaffari and
+               Fabian Kuhn and
+               Yannic Maus},
+  title     = {On the complexity of local distributed graph problems},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {784-797},
+}
+
+@inproceedings{DBLP:conf/stoc/ImMS17,
+  author    = {Sungjin Im and
+               Benjamin Moseley and
+               Xiaorui Sun},
+  title     = {Efficient massively parallel methods for dynamic programming},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {798-811},
+}
+
+@inproceedings{DBLP:conf/stoc/NguyenP17,
+  author    = {Danny Nguyen and
+               Igor Pak},
+  title     = {Complexity of short Presburger arithmetic},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {812-820},
+}
+
+@inproceedings{DBLP:conf/stoc/GurjarT17,
+  author    = {Rohit Gurjar and
+               Thomas Thierauf},
+  title     = {Linear matroid intersection is in {quasi-NC}},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {821-830},
+}
+
+@inproceedings{DBLP:conf/stoc/ArvindJMR17,
+  author    = {Vikraman Arvind and
+               Pushkar S. Joglekar and
+               Partha Mukhopadhyay and
+               S. Raja},
+  title     = {Randomized polynomial time identity testing for noncommutative circuits},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {831-841},
+}
+
+@inproceedings{DBLP:conf/stoc/CaiF17,
+  author    = {Jin-Yi Cai and
+               Zhiguo Fu},
+  title     = {Holographic algorithm with matchgates is universal for planar #{CSP} over boolean domain},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {842-855},
+}
+
+@inproceedings{DBLP:conf/stoc/GonczarowskiN17,
+  author    = {Yannai A. Gonczarowski and
+               Noam Nisan},
+  title     = {Efficient empirical revenue maximization in single-parameter auction environments},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {856-868},
+}
+
+@inproceedings{DBLP:conf/stoc/BabaioffGN17,
+  author    = {Moshe Babaioff and
+               Yannai A. Gonczarowski and
+               Noam Nisan},
+  title     = {The menu-size complexity of revenue approximation},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {869-877},
+}
+
+@inproceedings{DBLP:conf/stoc/BabichenkoR17,
+  author    = {Yakov Babichenko and
+               Aviad Rubinstein},
+  title     = {Communication complexity of approximate Nash equilibria},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {878-889},
+}
+
+@inproceedings{DBLP:conf/stoc/GargMVY17,
+  author    = {Jugal Garg and
+               Ruta Mehta and
+               Vijay V. Vazirani and
+               Sadra Yazdanbod},
+  title     = {Settling the complexity of Leontief and {PLC} exchange markets under exact and approximate equilibria},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {890-901},
+}
+
+@inproceedings{DBLP:conf/stoc/AndoniNNRW17,
+  author    = {Alexandr Andoni and
+               Huy L. Nguyen and
+               Aleksandar Nikolov and
+               Ilya P. Razenshteyn and
+               Erik Waingarten},
+  title     = {Approximate near neighbors for general symmetric norms},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {902-913},
+}
+
+@inproceedings{DBLP:conf/stoc/BansalG17,
+  author    = {Nikhil Bansal and
+               Shashwat Garg},
+  title     = {Algorithmic discrepancy beyond partial coloring},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {914-926},
+}
+
+@inproceedings{DBLP:conf/stoc/LeeV17,
+  author    = {Yin Tat Lee and
+               Santosh Srinivas Vempala},
+  title     = {Geodesic walks in polytopes},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {927-940},
+}
+
+@inproceedings{DBLP:conf/stoc/0001S17,
+  author    = {Oded Regev and
+               Noah Stephens-Davidowitz},
+  title     = {A reverse Minkowski theorem},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {941-953},
+}
+
+@inproceedings{DBLP:conf/stoc/Manurangsi17,
+  author    = {Pasin Manurangsi},
+  title     = {Almost-polynomial ratio {ETH-hardness} of approximating densest k-subgraph},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {954-961},
+}
+
+@inproceedings{DBLP:conf/stoc/ODonnellW17,
+  author    = {Ryan O'Donnell and
+               John Wright},
+  title     = {Efficient quantum tomography {II}},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {962-974},
+}
+
+@inproceedings{DBLP:conf/stoc/BarakKS17,
+  author    = {Boaz Barak and
+               Pravesh K. Kothari and
+               David Steurer},
+  title     = {Quantum entanglement, sum of squares, and the log rank conjecture},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {975-988},
+}
+
+@inproceedings{DBLP:conf/stoc/AmbainisK17,
+  author    = {Andris Ambainis and
+               Martins Kokainis},
+  title     = {Quantum algorithm for tree size estimation, with applications to backtracking and 2-player games},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {989-1002},
+}
+
+@inproceedings{DBLP:conf/stoc/NatarajanV17,
+  author    = {Anand Natarajan and
+               Thomas Vidick},
+  title     = {A quantum linearity test for robustly verifying entanglement},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1003-1015},
+}
+
+@inproceedings{DBLP:conf/stoc/BalkanskiRS17,
+  author    = {Eric Balkanski and
+               Aviad Rubinstein and
+               Yaron Singer},
+  title     = {The limitations of optimization from samples},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1016-1027},
+}
+
+@inproceedings{DBLP:conf/stoc/FeigeFT17,
+  author    = {Uriel Feige and
+               Michal Feldman and
+               Inbal Talgam-Cohen},
+  title     = {Approximate modularity revisited},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1028-1041},
+}
+
+@inproceedings{DBLP:conf/stoc/NazarovP17,
+  author    = {Fedor Nazarov and
+               Yuval Peres},
+  title     = {Trace reconstruction with exp(O(n1/3)) samples},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1042-1046},
+}
+
+@inproceedings{DBLP:conf/stoc/DeOS17,
+  author    = {Anindya De and
+               Ryan O'Donnell and
+               Rocco A. Servedio},
+  title     = {Optimal mean-based algorithms for trace reconstruction},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1047-1056},
+}
+
+@inproceedings{DBLP:conf/stoc/Arora0MR17,
+  author    = {Sanjeev Arora and
+               Rong Ge and
+               Tengyu Ma and
+               Andrej Risteski},
+  title     = {Provable learning of {noisy-OR} networks},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1057-1066},
+}
+
+@inproceedings{DBLP:conf/stoc/KolRT17,
+  author    = {Gillat Kol and
+               Ran Raz and
+               Avishay Tal},
+  title     = {Time-space hardness of learning sparse parities},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1067-1080},
+}
+
+@inproceedings{DBLP:conf/stoc/EenbergLY17,
+  author    = {Kasper Eenberg and
+               Kasper Green Larsen and
+               Huacheng Yu},
+  title     = {{DecreaseKeys} are expensive for external memory priority queues},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1081-1093},
+}
+
+@inproceedings{DBLP:conf/stoc/ChristianiP17,
+  author    = {Tobias Christiani and
+               Rasmus Pagh},
+  title     = {Set similarity search beyond {MinHash}},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1094-1107},
+}
+
+@inproceedings{DBLP:conf/stoc/ItalianoKLS17,
+  author    = {Giuseppe F. Italiano and
+               Adam Karczmarz and
+               Jakub Lacki and
+               Piotr Sankowski},
+  title     = {Decremental single-source reachability in planar digraphs},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1108-1121},
+}
+
+@inproceedings{DBLP:conf/stoc/NanongkaiS17,
+  author    = {Danupon Nanongkai and
+               Thatchaphol Saranurak},
+  title     = {Dynamic spanning forest with worst-case update time: adaptive, Las Vegas, and O(n1/2 - ε)-time},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1122-1129},
+}
+
+@inproceedings{DBLP:conf/stoc/Wulff-Nilsen17,
+  author    = {Christian Wulff-Nilsen},
+  title     = {Fully-dynamic minimum spanning forest with improved worst-case update time},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1130-1143},
+}
+
+@inproceedings{DBLP:conf/stoc/Li17,
+  author    = {Xin Li},
+  title     = {Improved non-malleable extractors, non-malleable codes and independent source extractors},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1144-1156},
+}
+
+@inproceedings{DBLP:conf/stoc/Cohen17,
+  author    = {Gil Cohen},
+  title     = {Towards optimal two-source extractors and Ramsey graphs},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1157-1170},
+}
+
+@inproceedings{DBLP:conf/stoc/Chattopadhyay017,
+  author    = {Eshan Chattopadhyay and
+               Xin Li},
+  title     = {Non-malleable codes and extractors for small-depth circuits, and affine functions},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1171-1184},
+}
+
+@inproceedings{DBLP:conf/stoc/Ben-AroyaDT17,
+  author    = {Avraham Ben-Aroya and
+               Dean Doron and
+               Amnon Ta-Shma},
+  title     = {An efficient reduction from two-source to non-malleable extractors: achieving near-logarithmic min-entropy},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1185-1194},
+}
+
+@inproceedings{DBLP:conf/stoc/AgarwalZBHM17,
+  author    = {Naman Agarwal and
+               Zeyuan Allen Zhu and
+               Brian Bullins and
+               Elad Hazan and
+               Tengyu Ma},
+  title     = {Finding approximate local minima faster than gradient descent},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1195-1199},
+}
+
+@inproceedings{DBLP:conf/stoc/Zhu17,
+  author    = {Zeyuan Allen Zhu},
+  title     = {Katyusha: the first direct acceleration of stochastic gradient methods},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1200-1205},
+}
+
+@inproceedings{DBLP:conf/stoc/ArtmannWZ17,
+  author    = {Stephan Artmann and
+               Robert Weismantel and
+               Rico Zenklusen},
+  title     = {A strongly polynomial algorithm for bimodular integer linear programming},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1206-1219},
+}
+
+@inproceedings{DBLP:conf/stoc/ChakrabartyLSW17,
+  author    = {Deeparnab Chakrabarty and
+               Yin Tat Lee and
+               Aaron Sidford and
+               Sam Chiu-wai Wong},
+  title     = {Subquadratic submodular function minimization},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1220-1231},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenOS17,
+  author    = {Xi Chen and
+               Igor Carboni Oliveira and
+               Rocco A. Servedio},
+  title     = {Addition is exponentially harder than counting for shallow monotone circuits},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1232-1245},
+}
+
+@inproceedings{DBLP:conf/stoc/PitassiR17,
+  author    = {Toniann Pitassi and
+               Robert Robere},
+  title     = {Strongly exponential lower bounds for monotone computation},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1246-1255},
+}
+
+@inproceedings{DBLP:conf/stoc/Tal17,
+  author    = {Avishay Tal},
+  title     = {Formula lower bounds via the quantum method},
+  booktitle = stoc,
+  year      = 2017,
+  pages     = {1256-1268},
+}
+
+@inproceedings{DBLP:conf/stoc/AronovS16,
+  author    = {Boris Aronov and
+               Micha Sharir},
+  title     = {Almost tight bounds for eliminating depth cycles in three dimensions},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1-8},
+}
+
+@inproceedings{DBLP:conf/stoc/CohenLMPS16,
+  author    = {Michael B. Cohen and
+               Yin Tat Lee and
+               Gary L. Miller and
+               Jakub Pachocki and
+               Aaron Sidford},
+  title     = {Geometric median in nearly linear time},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {9-21},
+}
+
+@inproceedings{DBLP:conf/stoc/FriezeP16,
+  author    = {Alan M. Frieze and
+               Wesley Pegden},
+  title     = {Separating subadditive euclidean functionals},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {22-35},
+}
+
+@inproceedings{DBLP:conf/stoc/EvraK16,
+  author    = {Shai Evra and
+               Tali Kaufman},
+  title     = {Bounded degree cosystolic expanders of every dimension},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {36-48},
+}
+
+@inproceedings{DBLP:conf/stoc/ReingoldRR16,
+  author    = {Omer Reingold and
+               Guy N. Rothblum and
+               Ron D. Rothblum},
+  title     = {Constant-round interactive proofs for delegating computation},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {49-62},
+}
+
+@inproceedings{DBLP:conf/stoc/KhotM16,
+  author    = {Subhash Khot and
+               Dana Moshkovitz},
+  title     = {Candidate hard unique game},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {63-76},
+}
+
+@inproceedings{DBLP:conf/stoc/DavidF16,
+  author    = {Roee David and
+               Uriel Feige},
+  title     = {On the effect of randomness on planted 3-coloring models},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {77-90},
+}
+
+@inproceedings{DBLP:conf/stoc/GoldreichT16,
+  author    = {Oded Goldreich and
+               Avishay Tal},
+  title     = {Matrix rigidity of random toeplitz matrices},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {91-104},
+}
+
+@inproceedings{DBLP:conf/stoc/Daniely16,
+  author    = {Amit Daniely},
+  title     = {Complexity theoretic limitations on learning halfspaces},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {105-117},
+}
+
+@inproceedings{DBLP:conf/stoc/Dasgupta16,
+  author    = {Sanjoy Dasgupta},
+  title     = {A cost function for similarity-based hierarchical clustering},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {118-127},
+}
+
+@inproceedings{DBLP:conf/stoc/HazanK16,
+  author    = {Elad Hazan and
+               Tomer Koren},
+  title     = {The computational power of optimization in online learning},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {128-141},
+}
+
+@inproceedings{DBLP:conf/stoc/ValiantV16,
+  author    = {Gregory Valiant and
+               Paul Valiant},
+  title     = {Instance optimal learning of discrete distributions},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {142-155},
+}
+
+@inproceedings{DBLP:conf/stoc/BansalSS16,
+  author    = {Nikhil Bansal and
+               Aravind Srinivasan and
+               Ola Svensson},
+  title     = {Lift-and-round to improve weighted completion time on unrelated machines},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {156-167},
+}
+
+@inproceedings{DBLP:conf/stoc/LeveyR16,
+  author    = {Elaine Levey and
+               Thomas Rothvoss},
+  title     = {A (1+epsilon)-approximation for makespan scheduling with precedence constraints using {LP} hierarchies},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {168-177},
+}
+
+@inproceedings{DBLP:conf/stoc/HopkinsSSS16,
+  author    = {Samuel B. Hopkins and
+               Tselil Schramm and
+               Jonathan Shi and
+               David Steurer},
+  title     = {Fast spectral algorithms from sum-of-squares proofs: tensor decomposition and planted sparse vectors},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {178-191},
+}
+
+@inproceedings{DBLP:conf/stoc/NikolovS16,
+  author    = {Aleksandar Nikolov and
+               Mohit Singh},
+  title     = {Maximizing determinants under partition constraints},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {192-201},
+}
+
+@inproceedings{DBLP:conf/stoc/KoppartyMRS16,
+  author    = {Swastik Kopparty and
+               Or Meir and
+               Noga Ron-Zewi and
+               Shubhangi Saraf},
+  title     = {High-rate locally-correctable and locally-testable codes with sub-polynomial query complexity},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {202-215},
+}
+
+@inproceedings{DBLP:conf/stoc/GuruswamiW16,
+  author    = {Venkatesan Guruswami and
+               Mary Wootters},
+  title     = {Repairing Reed-solomon codes},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {216-226},
+}
+
+@inproceedings{DBLP:conf/stoc/SaptharishiSV16,
+  author    = {Ramprasad Saptharishi and
+               Amir Shpilka and
+               Ben Lee Volk},
+  title     = {Efficiently decoding {Reed-Muller} codes from random errors},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {227-235},
+}
+
+@inproceedings{DBLP:conf/stoc/BoutsidisWZ16,
+  author    = {Christos Boutsidis and
+               David P. Woodruff and
+               Peilin Zhong},
+  title     = {Optimal principal component analysis in distributed and streaming models},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {236-249},
+}
+
+@inproceedings{DBLP:conf/stoc/RazenshteynSW16,
+  author    = {Ilya P. Razenshteyn and
+               Zhao Song and
+               David P. Woodruff},
+  title     = {Weighted low rank approximations with provable guarantees},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {250-263},
+}
+
+@inproceedings{DBLP:conf/stoc/Kapralov16,
+  author    = {Michael Kapralov},
+  title     = {Sparse fourier transform in any constant dimension with nearly-optimal sample complexity in sublinear time},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {264-277},
+}
+
+@inproceedings{DBLP:conf/stoc/Cohen16,
+  author    = {Gil Cohen},
+  title     = {Two-source dispersers for polylogarithmic entropy and improved ramsey graphs},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {278-284},
+}
+
+@inproceedings{DBLP:conf/stoc/ChattopadhyayG016,
+  author    = {Eshan Chattopadhyay and
+               Vipul Goyal and
+               Xin Li},
+  title     = {Non-malleable extractors and codes, with their many tampered extensions},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {285-298},
+}
+
+@inproceedings{DBLP:conf/stoc/ChattopadhyayL16,
+  author    = {Eshan Chattopadhyay and
+               Xin Li},
+  title     = {Extractors for sumset sources},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {299-311},
+}
+
+@inproceedings{DBLP:conf/stoc/FraigniaudKR16,
+  author    = {Pierre Fraigniaud and
+               Amos Korman and
+               Yoav Rodeh},
+  title     = {Parallel exhaustive search without coordination},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {312-323},
+}
+
+@inproceedings{DBLP:conf/stoc/Rubinstein16,
+  author    = {Aviad Rubinstein},
+  title     = {Beyond matroids: secretary problem and prophet inequality with general constraints},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {324-332},
+}
+
+@inproceedings{DBLP:conf/stoc/EmekKW16,
+  author    = {Yuval Emek and
+               Shay Kutten and
+               Roger Wattenhofer},
+  title     = {Online matching: haste makes waste!},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {333-344},
+}
+
+@inproceedings{DBLP:conf/stoc/Zhu16,
+  author    = {Leqi Zhu},
+  title     = {A tight space bound for consensus},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {345-350},
+}
+
+@inproceedings{DBLP:conf/stoc/AbboudB16,
+  author    = {Amir Abboud and
+               Greg Bodwin},
+  title     = {The 4/3 additive spanner exponent is tight},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {351-361},
+}
+
+@inproceedings{DBLP:conf/stoc/Yu16,
+  author    = {Huacheng Yu},
+  title     = {Cell-probe lower bounds for dynamic problems via a new communication model},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {362-374},
+}
+
+@inproceedings{DBLP:conf/stoc/AbboudHWW16,
+  author    = {Amir Abboud and
+               Thomas Dueholm Hansen and
+               Virginia Vassilevska Williams and
+               Ryan Williams},
+  title     = {Simulating branching programs with edit distance and friends: or: a polylog shaved is a lower bound made},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {375-388},
+}
+
+@inproceedings{DBLP:conf/stoc/BernsteinC16,
+  author    = {Aaron Bernstein and
+               Shiri Chechik},
+  title     = {Deterministic decremental single source shortest paths: beyond the o(mn) bound},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {389-397},
+}
+
+@inproceedings{DBLP:conf/stoc/BhattacharyaHN16,
+  author    = {Sayan Bhattacharya and
+               Monika Henzinger and
+               Danupon Nanongkai},
+  title     = {New deterministic approximation algorithms for fully dynamic matching},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {398-411},
+}
+
+@inproceedings{DBLP:conf/stoc/DughmiX16,
+  author    = {Shaddin Dughmi and
+               Haifeng Xu},
+  title     = {Algorithmic Bayesian persuasion},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {412-425},
+}
+
+@inproceedings{DBLP:conf/stoc/Devanur0P16,
+  author    = {Nikhil R. Devanur and
+               Zhiyi Huang and
+               Christos-Alexandros Psomas},
+  title     = {The sample complexity of auctions with side information},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {426-439},
+}
+
+@inproceedings{DBLP:conf/stoc/HsuMRRV16,
+  author    = {Justin Hsu and
+               Jamie Morgenstern and
+               Ryan M. Rogers and
+               Aaron Roth and
+               Rakesh Vohra},
+  title     = {Do prices coordinate markets?},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {440-453},
+}
+
+@inproceedings{DBLP:conf/stoc/AzizM16,
+  author    = {Haris Aziz and
+               Simon Mackenzie},
+  title     = {A discrete and bounded envy-free cake cutting protocol for four agents},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {454-464},
+}
+
+@inproceedings{DBLP:conf/stoc/HarrisSS16,
+  author    = {David G. Harris and
+               Johannes Schneider and
+               Hsin-Hao Su},
+  title     = {Distributed (∆+1)-coloring in sublogarithmic rounds},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {465-478},
+}
+
+@inproceedings{DBLP:conf/stoc/BrandtFHKLRSU16,
+  author    = {Sebastian Brandt and
+               Orr Fischer and
+               Juho Hirvonen and
+               Barbara Keller and
+               Tuomo Lempiäinen and
+               Joel Rybicki and
+               Jukka Suomela and
+               Jara Uitto},
+  title     = {A lower bound for the distributed Lovász local lemma},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {479-488},
+}
+
+@inproceedings{DBLP:conf/stoc/HenzingerKN16,
+  author    = {Monika Henzinger and
+               Sebastian Krinninger and
+               Danupon Nanongkai},
+  title     = {A deterministic almost-tight distributed algorithm for approximating single-source shortest paths},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {489-498},
+}
+
+@inproceedings{DBLP:conf/stoc/BenderKPY16,
+  author    = {Michael A. Bender and
+               Tsvi Kopelowitz and
+               Seth Pettie and
+               Maxwell Young},
+  title     = {Contention resolution with log-logstar channel accesses},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {499-508},
+}
+
+@inproceedings{DBLP:conf/stoc/BaswanaCR16,
+  author    = {Surender Baswana and
+               Keerti Choudhary and
+               Liam Roditty},
+  title     = {Fault tolerant subgraph for single source reachability: generic and optimal},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {509-518},
+}
+
+@inproceedings{DBLP:conf/stoc/Emamjomeh-Zadeh16,
+  author    = {Ehsan Emamjomeh-Zadeh and
+               David Kempe and
+               Vikrant Singhal},
+  title     = {Deterministic and probabilistic binary search in graphs},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {519-532},
+}
+
+@inproceedings{DBLP:conf/stoc/HallPS16,
+  author    = {Chris Hall and
+               Doron Puder and
+               William F. Sawin},
+  title     = {Ramanujan coverings of graphs},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {533-541},
+}
+
+@inproceedings{DBLP:conf/stoc/Karger16,
+  author    = {David R. Karger},
+  title     = {Enumerating parametric global minimum cuts by random interleaving},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {542-555},
+}
+
+@inproceedings{DBLP:conf/stoc/ChuzhoyKL16,
+  author    = {Julia Chuzhoy and
+               David H. K. Kim and
+               Shi Li},
+  title     = {Improved approximation for node-disjoint paths in planar graphs},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {556-569},
+}
+
+@inproceedings{DBLP:conf/stoc/BateniDHM16,
+  author    = {MohammadHossein Bateni and
+               Erik D. Demaine and
+               MohammadTaghi Hajiaghayi and
+               Dániel Marx},
+  title     = {A {PTAS} for planar group Steiner tree via spanner bootstrapping and prize collecting},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {570-583},
+}
+
+@inproceedings{DBLP:conf/stoc/Cohen-AddadVKMM16,
+  author    = {Vincent Cohen-Addad and
+               Éric Colin de Verdière and
+               Philip N. Klein and
+               Claire Mathieu and
+               David Meierfrankenfeld},
+  title     = {Approximating connectivity domination in weighted bounded-genus graphs},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {584-597},
+}
+
+@inproceedings{DBLP:conf/stoc/EneMPS16,
+  author    = {Alina Ene and
+               Gary L. Miller and
+               Jakub Pachocki and
+               Aaron Sidford},
+  title     = {Routing under balance},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {598-611},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenOST16,
+  author    = {Xi Chen and
+               Igor Carboni Oliveira and
+               Rocco A. Servedio and
+               Li-Yang Tan},
+  title     = {Near-optimal small-depth lower bounds for small distance connectivity},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {612-625},
+}
+
+@inproceedings{DBLP:conf/stoc/KayalST16,
+  author    = {Neeraj Kayal and
+               Chandan Saha and
+               Sébastien Tavenas},
+  title     = {On the size of homogeneous and of depth four formulas with low individual degree},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {626-632},
+}
+
+@inproceedings{DBLP:conf/stoc/KaneW16,
+  author    = {Daniel M. Kane and
+               Ryan Williams},
+  title     = {Super-linear gate and super-quadratic wire lower bounds for depth-two and depth-three threshold circuits},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {633-643},
+}
+
+@inproceedings{DBLP:conf/stoc/PitassiRST16,
+  author    = {Toniann Pitassi and
+               Benjamin Rossman and
+               Rocco A. Servedio and
+               Li-Yang Tan},
+  title     = {Poly-logarithmic Frege depth lower bounds via an expander switching lemma},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {644-657},
+}
+
+@inproceedings{DBLP:conf/stoc/KudekarKMPSU16,
+  author    = {Shrinivas Kudekar and
+               Santhosh Kumar and
+               Marco Mondelli and
+               Henry D. Pfister and
+               Eren Sasoglu and
+               Rüdiger L. Urbanke},
+  title     = {{Reed-Muller} codes achieve capacity on erasure channels},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {658-669},
+}
+
+@inproceedings{DBLP:conf/stoc/ChattopadhyayZ16,
+  author    = {Eshan Chattopadhyay and
+               David Zuckerman},
+  title     = {Explicit two-source extractors and resilient functions},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {670-683},
+}
+
+@inproceedings{DBLP:conf/stoc/Babai16,
+  author    = {László Babai},
+  title     = {Graph isomorphism in quasipolynomial time [extended abstract]},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {684-697},
+}
+
+@inproceedings{DBLP:conf/stoc/AssadiKL16,
+  author    = {Sepehr Assadi and
+               Sanjeev Khanna and
+               Yang Li},
+  title     = {Tight bounds for single-pass streaming complexity of the set cover problem},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {698-711},
+}
+
+@inproceedings{DBLP:conf/stoc/ChakrabortyGK16,
+  author    = {Diptarka Chakraborty and
+               Elazar Goldenberg and
+               Michal Koucký},
+  title     = {Streaming algorithms for embedding and computing edit distance in the low distance regime},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {712-725},
+}
+
+@inproceedings{DBLP:conf/stoc/LiW16,
+  author    = {Yi Li and
+               David P. Woodruff},
+  title     = {On approximating functions of the singular values in a stream},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {726-739},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanCIW16,
+  author    = {Vladimir Braverman and
+               Stephen R. Chestnut and
+               Nikita Ivkin and
+               David P. Woodruff},
+  title     = {Beating {CountSketch} for heavy hitters in insertion streams},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {740-753},
+}
+
+@inproceedings{DBLP:conf/stoc/FennerGT16,
+  author    = {Stephen A. Fenner and
+               Rohit Gurjar and
+               Thomas Thierauf},
+  title     = {Bipartite perfect matching is in {quasi-NC}},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {754-763},
+}
+
+@inproceedings{DBLP:conf/stoc/FominGLS16,
+  author    = {Fedor V. Fomin and
+               Serge Gaspers and
+               Daniel Lokshtanov and
+               Saket Saurabh},
+  title     = {Exact algorithms via monotone local search},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {764-775},
+}
+
+@inproceedings{DBLP:conf/stoc/Chen16,
+  author    = {Sitan Chen},
+  title     = {Basis collapse for holographic algorithms over all domain sizes},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {776-789},
+}
+
+@inproceedings{DBLP:conf/stoc/Xia16,
+  author    = {Mingji Xia},
+  title     = {Base collapse of holographic algorithms},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {790-799},
+}
+
+@inproceedings{DBLP:conf/stoc/AmbainisBBLSS16,
+  author    = {Andris Ambainis and
+               Kaspars Balodis and
+               Aleksandrs Belovs and
+               Troy Lee and
+               Miklos Santha and
+               Juris Smotrovs},
+  title     = {Separations in query complexity based on pointer functions},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {800-813},
+}
+
+@inproceedings{DBLP:conf/stoc/MontanariS16,
+  author    = {Andrea Montanari and
+               Subhabrata Sen},
+  title     = {Semidefinite programs on sparse random graphs and their application to community detection},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {814-827},
+}
+
+@inproceedings{DBLP:conf/stoc/MoitraPW16,
+  author    = {Ankur Moitra and
+               William Perry and
+               Alexander S. Wein},
+  title     = {How robust are reconstruction thresholds for community detection?},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {828-841},
+}
+
+@inproceedings{DBLP:conf/stoc/KyngLPSS16,
+  author    = {Rasmus Kyng and
+               Yin Tat Lee and
+               Richard Peng and
+               Sushant Sachdeva and
+               Daniel A. Spielman},
+  title     = {Sparsified Cholesky and multigrid solvers for connection laplacians},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {842-850},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanMW16,
+  author    = {Mark Braverman and
+               Jieming Mao and
+               S. Matthew Weinberg},
+  title     = {Parallel algorithms for select and partition with noisy comparisons},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {851-862},
+}
+
+@inproceedings{DBLP:conf/stoc/AaronsonBK16,
+  author    = {Scott Aaronson and
+               Shalev Ben-David and
+               Robin Kothari},
+  title     = {Separations in query complexity using cheat sheets},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {863-876},
+}
+
+@inproceedings{DBLP:conf/stoc/Gavinsky16,
+  author    = {Dmitry Gavinsky},
+  title     = {Entangled simultaneity versus classical interactivity in communication complexity},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {877-884},
+}
+
+@inproceedings{DBLP:conf/stoc/Ji16,
+  author    = {Zhengfeng Ji},
+  title     = {Classical verification of quantum proofs},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {885-898},
+}
+
+@inproceedings{DBLP:conf/stoc/ODonnellW16,
+  author    = {Ryan O'Donnell and
+               John Wright},
+  title     = {Efficient quantum tomography},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {899-912},
+}
+
+@inproceedings{DBLP:conf/stoc/HaahHJWY16,
+  author    = {Jeongwan Haah and
+               Aram Wettroth Harrow and
+               Zheng-Feng Ji and
+               Xiaodi Wu and
+               Nengkun Yu},
+  title     = {Sample-optimal tomography of quantum states},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {913-925},
+}
+
+@inproceedings{DBLP:conf/stoc/CaiDW16,
+  author    = {Yang Cai and
+               Nikhil R. Devanur and
+               S. Matthew Weinberg},
+  title     = {A duality based unified approach to Bayesian mechanism design},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {926-939},
+}
+
+@inproceedings{DBLP:conf/stoc/Dobzinski16,
+  author    = {Shahar Dobzinski},
+  title     = {Breaking the logarithmic barrier for truthful combinatorial auctions with submodular bidders},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {940-948},
+}
+
+@inproceedings{DBLP:conf/stoc/RothUW16,
+  author    = {Aaron Roth and
+               Jonathan Ullman and
+               Zhiwei Steven Wu},
+  title     = {Watch and learn: optimizing from revealed preferences feedback},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {949-962},
+}
+
+@inproceedings{DBLP:conf/stoc/FeldmanILRS16,
+  author    = {Michal Feldman and
+               Nicole Immorlica and
+               Brendan Lucier and
+               Tim Roughgarden and
+               Vasilis Syrgkanis},
+  title     = {The price of anarchy in large games},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {963-976},
+}
+
+@inproceedings{DBLP:conf/stoc/GanorKR16,
+  author    = {Anat Ganor and
+               Gillat Kol and
+               Ran Raz},
+  title     = {Exponential separation of communication and external information},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {977-986},
+}
+
+@inproceedings{DBLP:conf/stoc/Kol16,
+  author    = {Gillat Kol},
+  title     = {Interactive compression for product distributions},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {987-998},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanEGH16,
+  author    = {Mark Braverman and
+               Klim Efremenko and
+               Ran Gelles and
+               Bernhard Haeupler},
+  title     = {Constant-rate coding for multiparty interactive communication is impossible},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {999-1010},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanGMNW16,
+  author    = {Mark Braverman and
+               Ankit Garg and
+               Tengyu Ma and
+               Huy L. Nguyen and
+               David P. Woodruff},
+  title     = {Communication lower bounds for statistical estimation problems via a distributed data processing inequality},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1011-1020},
+}
+
+@inproceedings{DBLP:conf/stoc/BelovsB16,
+  author    = {Aleksandrs Belovs and
+               Eric Blais},
+  title     = {A polynomial lower bound for testing monotonicity},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1021-1032},
+}
+
+@inproceedings{DBLP:conf/stoc/CzumajPS16,
+  author    = {Artur Czumaj and
+               Pan Peng and
+               Christian Sohler},
+  title     = {Relating two property testing models for bounded degree directed graphs},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1033-1045},
+}
+
+@inproceedings{DBLP:conf/stoc/BassilyNSSSU16,
+  author    = {Raef Bassily and
+               Kobbi Nissim and
+               Adam D. Smith and
+               Thomas Steinke and
+               Uri Stemmer and
+               Jonathan Ullman},
+  title     = {Algorithmic stability for adaptive data analysis},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1046-1059},
+}
+
+@inproceedings{DBLP:conf/stoc/DiakonikolasKS16,
+  author    = {Ilias Diakonikolas and
+               Daniel M. Kane and
+               Alistair Stewart},
+  title     = {The fourier transform of poisson multinomial distributions and its algorithmic applications},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1060-1073},
+}
+
+@inproceedings{DBLP:conf/stoc/DaskalakisDKT16,
+  author    = {Constantinos Daskalakis and
+               Anindya De and
+               Gautam Kamath and
+               Christos Tzamos},
+  title     = {A size-free {CLT} for poisson multinomials and its applications},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1074-1086},
+}
+
+@inproceedings{DBLP:conf/stoc/ApplebaumL16,
+  author    = {Benny Applebaum and
+               Shachar Lovett},
+  title     = {Algebraic attacks against random local functions and their countermeasures},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1087-1100},
+}
+
+@inproceedings{DBLP:conf/stoc/AsharovNSS16,
+  author    = {Gilad Asharov and
+               Moni Naor and
+               Gil Segev and
+               Ido Shahaf},
+  title     = {Searchable symmetric encryption: optimal locality in linear space via two-dimensional balanced allocations},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1101-1114},
+}
+
+@inproceedings{DBLP:conf/stoc/CohenHNVW16,
+  author    = {Aloni Cohen and
+               Justin Holmgren and
+               Ryo Nishimaki and
+               Vinod Vaikuntanathan and
+               Daniel Wichs},
+  title     = {Watermarking cryptographic capabilities},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1115-1127},
+}
+
+@inproceedings{DBLP:conf/stoc/GoyalPR16,
+  author    = {Vipul Goyal and
+               Omkant Pandey and
+               Silas Richelson},
+  title     = {Textbook non-malleable commitments},
+  booktitle = stoc,
+  year      = 2016,
+  pages     = {1128-1141},
+}
+
+@inproceedings{DBLP:conf/stoc/Chechik15,
+  author    = {Shiri Chechik},
+  title     = {Approximate Distance Oracles with Improved Bounds},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/stoc/LackiOPSZ15,
+  author    = {Jakub Lacki and
+               Jakub Ocwieja and
+               Marcin Pilipczuk and
+               Piotr Sankowski and
+               Anna Zych},
+  title     = {The Power of Dynamic Distance Oracles: Efficient Dynamic Algorithms for the Steiner Tree},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/stoc/HenzingerKNS15,
+  author    = {Monika Henzinger and
+               Sebastian Krinninger and
+               Danupon Nanongkai and
+               Thatchaphol Saranurak},
+  title     = {Unifying and Strengthening Hardness for Dynamic Problems via the Online {Matrix-Vector} Multiplication Conjecture},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {21-30},
+}
+
+@inproceedings{DBLP:conf/stoc/ChanL15,
+  author    = {Timothy M. Chan and
+               Moshe Lewenstein},
+  title     = {Clustered Integer 3{SUM} via Additive Combinatorics},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {31-40},
+}
+
+@inproceedings{DBLP:conf/stoc/AbboudWY15,
+  author    = {Amir Abboud and
+               Virginia Vassilevska Williams and
+               Huacheng Yu},
+  title     = {Matching Triangles and Basing Hardness on an Extremely Popular Conjecture},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {41-50},
+}
+
+@inproceedings{DBLP:conf/stoc/BackursI15,
+  author    = {Arturs Backurs and
+               Piotr Indyk},
+  title     = {Edit Distance Cannot Be Computed in Strongly Subquadratic Time (unless {SETH} is false)},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {51-58},
+}
+
+@inproceedings{DBLP:conf/stoc/DingSS15,
+  author    = {Jian Ding and
+               Allan Sly and
+               Nike Sun},
+  title     = {Proof of the Satisfiability Conjecture for Large k},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {59-68},
+}
+
+@inproceedings{DBLP:conf/stoc/MosselNS15,
+  author    = {Elchanan Mossel and
+               Joe Neeman and
+               Allan Sly},
+  title     = {Consistency Thresholds for the Planted Bisection Model},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {69-75},
+}
+
+@inproceedings{DBLP:conf/stoc/FeldmanPV15,
+  author    = {Vitaly Feldman and
+               Will Perkins and
+               Santosh Vempala},
+  title     = {On the Complexity of Random Satisfiability Problems with Planted Solutions},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {77-86},
+}
+
+@inproceedings{DBLP:conf/stoc/MekaPW15,
+  author    = {Raghu Meka and
+               Aaron Potechin and
+               Avi Wigderson},
+  title     = {Sum-of-squares Lower Bounds for Planted Clique},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {87-96},
+}
+
+@inproceedings{DBLP:conf/stoc/BarakCK15,
+  author    = {Boaz Barak and
+               Siu On Chan and
+               Pravesh K. Kothari},
+  title     = {Sum of Squares Lower Bounds from Pairwise Independence},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {97-106},
+}
+
+@inproceedings{DBLP:conf/stoc/BraunPZ15,
+  author    = {Gábor Braun and
+               Sebastian Pokutta and
+               Daniel Zink},
+  title     = {Inapproximability of Combinatorial Problems via Small {LPs} and {SDPs}},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {107-116},
+}
+
+@inproceedings{DBLP:conf/stoc/DworkFHPRR15,
+  author    = {Cynthia Dwork and
+               Vitaly Feldman and
+               Moritz Hardt and
+               Toniann Pitassi and
+               Omer Reingold and
+               Aaron Leon Roth},
+  title     = {Preserving Statistical Validity in Adaptive Data Analysis},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {117-126},
+}
+
+@inproceedings{DBLP:conf/stoc/BassilyS15,
+  author    = {Raef Bassily and
+               Adam D. Smith},
+  title     = {Local, Private, Efficient Protocols for Succinct Histograms},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {127-135},
+}
+
+@inproceedings{DBLP:conf/stoc/LovettZ15,
+  author    = {Shachar Lovett and
+               Jiapeng Zhang},
+  title     = {Improved Noisy Population Recovery, and Reverse {Bonami-Beckner} Inequality for Sparse Functions},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {137-142},
+}
+
+@inproceedings{DBLP:conf/stoc/BarakKS15,
+  author    = {Boaz Barak and
+               Jonathan A. Kelner and
+               David Steurer},
+  title     = {Dictionary Learning and Tensor Decomposition via the {Sum-of-Squares} Method},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {143-151},
+}
+
+@inproceedings{DBLP:conf/stoc/MirrokniZ15,
+  author    = {Vahab S. Mirrokni and
+               Morteza Zadimoghaddam},
+  title     = {Randomized Composable Core-sets for Distributed Submodular Maximization},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {153-162},
+}
+
+@inproceedings{DBLP:conf/stoc/CohenEMMP15,
+  author    = {Michael B. Cohen and
+               Sam Elder and
+               Cameron Musco and
+               Christopher Musco and
+               Madalina Persu},
+  title     = {Dimensionality Reduction for {k-Means} Clustering and Low Rank Approximation},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {163-172},
+}
+
+@inproceedings{DBLP:conf/stoc/BhattacharyaHNT15,
+  author    = {Sayan Bhattacharya and
+               Monika Henzinger and
+               Danupon Nanongkai and
+               Charalampos E. Tsourakakis},
+  title     = {Space- and {Time-Efficient} Algorithm for Maintaining Dense Subgraphs on {One-Pass} Dynamic Streams},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {173-182},
+}
+
+@inproceedings{DBLP:conf/stoc/CohenP15,
+  author    = {Michael B. Cohen and
+               Richard Peng},
+  title     = {Lp Row Sampling by Lewis Weights},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {183-192},
+}
+
+@inproceedings{DBLP:conf/stoc/BansalGG15,
+  author    = {Nikhil Bansal and
+               Anupam Gupta and
+               Guru Guruganesh},
+  title     = {On the Lovász Theta function for Independent Sets in Sparse Graphs},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {193-200},
+}
+
+@inproceedings{DBLP:conf/stoc/FearnleyS15,
+  author    = {John Fearnley and
+               Rahul Savani},
+  title     = {The Complexity of the Simplex Method},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {201-208},
+}
+
+@inproceedings{DBLP:conf/stoc/HansenZ15,
+  author    = {Thomas Dueholm Hansen and
+               Uri Zwick},
+  title     = {An Improved Version of the {Random-Facet} Pivoting Rule for the Simplex Algorithm},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {209-218},
+}
+
+@inproceedings{DBLP:conf/stoc/ChawlaMSY15,
+  author    = {Shuchi Chawla and
+               Konstantin Makarychev and
+               Tselil Schramm and
+               Grigory Yaroslavtsev},
+  title     = {Near Optimal {LP} Rounding Algorithm for {CorrelationClustering} on Complete and Complete k-partite Graphs},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {219-228},
+}
+
+@inproceedings{DBLP:conf/stoc/ZhuO15,
+  author    = {Zeyuan Allen Zhu and
+               Lorenzo Orecchia},
+  title     = {{Nearly-Linear} Time Positive {LP} Solver with Faster Convergence Rate},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {229-236},
+}
+
+@inproceedings{DBLP:conf/stoc/ZhuLO15,
+  author    = {Zeyuan Allen Zhu and
+               Zhenyu Liao and
+               Lorenzo Orecchia},
+  title     = {Spectral Sparsification and Regret Minimization Beyond Matrix Multiplicative Updates},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {237-245},
+}
+
+@inproceedings{DBLP:conf/stoc/KothariM15,
+  author    = {Pravesh K. Kothari and
+               Raghu Meka},
+  title     = {Almost Optimal Pseudorandom Generators for Spherical Caps: Extended Abstract},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {247-256},
+}
+
+@inproceedings{DBLP:conf/stoc/GoosLM0Z15,
+  author    = {Mika Göös and
+               Shachar Lovett and
+               Raghu Meka and
+               Thomas Watson and
+               David Zuckerman},
+  title     = {Rectangles Are Nonnegative Juntas},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {257-266},
+}
+
+@inproceedings{DBLP:conf/stoc/DinurHK15,
+  author    = {Irit Dinur and
+               Prahladh Harsha and
+               Guy Kindler},
+  title     = {Polynomially Low Error {PCPs} with polyloglog n Queries via Modular Composition},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {267-276},
+}
+
+@inproceedings{DBLP:conf/stoc/0001L15,
+  author    = {Abhishek Bhowmick and
+               Shachar Lovett},
+  title     = {The List Decoding Radius of {Reed-Muller} Codes over Small Fields},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {277-285},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenJL15,
+  author    = {Zitan Chen and
+               Sidharth Jaggi and
+               Michael Langberg},
+  title     = {A Characterization of the Capacity of Online (causal) Binary Channels},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {287-296},
+}
+
+@inproceedings{DBLP:conf/stoc/AbbeSW15,
+  author    = {Emmanuel Abbe and
+               Amir Shpilka and
+               Avi Wigderson},
+  title     = {{Reed-Muller} Codes for Random Erasures and Errors},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {297-306},
+}
+
+@inproceedings{DBLP:conf/stoc/AaronsonA15,
+  author    = {Scott Aaronson and
+               Andris Ambainis},
+  title     = {Forrelation: A Problem that Optimally Separates Quantum from Classical Computing},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {307-316},
+}
+
+@inproceedings{DBLP:conf/stoc/Touchette15,
+  author    = {Dave Touchette},
+  title     = {Quantum Information Complexity},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {317-326},
+}
+
+@inproceedings{DBLP:conf/stoc/BaconFHS15,
+  author    = {Dave Bacon and
+               Steven T. Flammia and
+               Aram Wettroth Harrow and
+               Jonathan Shi},
+  title     = {Sparse Quantum Codes from Quantum Circuits},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {327-334},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanG15,
+  author    = {Mark Braverman and
+               Ankit Garg},
+  title     = {Small Value Parallel Repetition for General Games},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {335-340},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanW15,
+  author    = {Mark Braverman and
+               Omri Weinstein},
+  title     = {An Interactive Information Odometer and Applications},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {341-350},
+}
+
+@inproceedings{DBLP:conf/stoc/GowersV15,
+  author    = {Timothy Gowers and
+               Emanuele Viola},
+  title     = {The communication complexity of interleaved group products},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {351-360},
+}
+
+@inproceedings{DBLP:conf/stoc/Barman15,
+  author    = {Siddharth Barman},
+  title     = {Approximating Nash Equilibria and Dense Bipartite Subgraphs via an Approximate Version of Caratheodory's Theorem},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {361-369},
+}
+
+@inproceedings{DBLP:conf/stoc/0001G15,
+  author    = {Richard Cole and
+               Vasilis Gkatzelis},
+  title     = {Approximating the Nash Social Welfare with Indivisible Items},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {371-380},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenDO15,
+  author    = {Xi Chen and
+               David Durfee and
+               Anthi Orfanou},
+  title     = {On the Complexity of Nash Equilibria in Anonymous Games},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {381-390},
+}
+
+@inproceedings{DBLP:conf/stoc/Lee15,
+  author    = {Euiwoong Lee},
+  title     = {Hardness of Graph Pricing Through Generalized {Max-Dicut}},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {391-399},
+}
+
+@inproceedings{DBLP:conf/stoc/DanielySS15,
+  author    = {Amit Daniely and
+               Michael Schapira and
+               Gal Shahaf},
+  title     = {Inapproximability of Truthful Mechanisms via Generalizations of the {VC} Dimension},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {401-408},
+}
+
+@inproceedings{DBLP:conf/stoc/Rubinstein15,
+  author    = {Aviad Rubinstein},
+  title     = {Inapproximability of Nash Equilibrium},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {409-418},
+}
+
+@inproceedings{DBLP:conf/stoc/KoppulaLW15,
+  author    = {Venkata Koppula and
+               Allison Bishop Lewko and
+               Brent Waters},
+  title     = {Indistinguishability Obfuscation for Turing Machines with Unbounded Memory},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {419-428},
+}
+
+@inproceedings{DBLP:conf/stoc/CanettiH0V15,
+  author    = {Ran Canetti and
+               Justin Holmgren and
+               Abhishek Jain and
+               Vinod Vaikuntanathan},
+  title     = {Succinct Garbling and Indistinguishability Obfuscation for {RAM} Programs},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {429-437},
+}
+
+@inproceedings{DBLP:conf/stoc/BitanskyGLPT15,
+  author    = {Nir Bitansky and
+               Sanjam Garg and
+               Huijia Lin and
+               Rafael Pass and
+               Sidharth Telang},
+  title     = {Succinct Randomized Encodings and their Applications},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {439-448},
+}
+
+@inproceedings{DBLP:conf/stoc/GargLOS15,
+  author    = {Sanjam Garg and
+               Steve Lu and
+               Rafail Ostrovsky and
+               Alessandra Scafuro},
+  title     = {Garbled {RAM} From {One-Way} Functions},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {449-458},
+}
+
+@inproceedings{DBLP:conf/stoc/AggarwalDKO15,
+  author    = {Divesh Aggarwal and
+               Yevgeniy Dodis and
+               Tomasz Kazana and
+               Maciej Obremski},
+  title     = {Non-malleable Reductions and Applications},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {459-468},
+}
+
+@inproceedings{DBLP:conf/stoc/GorbunovVW15,
+  author    = {Sergey Gorbunov and
+               Vinod Vaikuntanathan and
+               Daniel Wichs},
+  title     = {Leveled Fully Homomorphic Signatures from Standard Lattices},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {469-477},
+}
+
+@inproceedings{DBLP:conf/stoc/AndoniKR15,
+  author    = {Alexandr Andoni and
+               Robert Krauthgamer and
+               Ilya P. Razenshteyn},
+  title     = {Sketching and Embedding are Equivalent for Norms},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {479-488},
+}
+
+@inproceedings{DBLP:conf/stoc/ElkinFN15,
+  author    = {Michael Elkin and
+               Arnold Filtser and
+               Ofer Neiman},
+  title     = {Prioritized Metric Structures and Embedding},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {489-498},
+}
+
+@inproceedings{DBLP:conf/stoc/BourgainDN15,
+  author    = {Jean Bourgain and
+               Sjoerd Dirksen and
+               Jelani Nelson},
+  title     = {Toward a Unified Theory of Sparse Dimensionality Reduction in Euclidean Space},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {499-508},
+}
+
+@inproceedings{DBLP:conf/stoc/AbdullahV15,
+  author    = {Amirali Abdullah and
+               Suresh Venkatasubramanian},
+  title     = {A Directed Isoperimetric Inequality with application to Bregman Near Neighbor Lower Bounds},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {509-518},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenDST15,
+  author    = {Xi Chen and
+               Anindya De and
+               Rocco A. Servedio and
+               Li-Yang Tan},
+  title     = {Boolean Function Monotonicity Testing Requires (Almost) n1/2 Non-adaptive Queries},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {519-528},
+}
+
+@inproceedings{DBLP:conf/stoc/ODonnellW15,
+  author    = {Ryan O'Donnell and
+               John Wright},
+  title     = {Quantum Spectrum Testing},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {529-538},
+}
+
+@inproceedings{DBLP:conf/stoc/CousinsV15,
+  author    = {Benjamin Cousins and
+               Santosh Vempala},
+  title     = {Bypassing KLS: Gaussian Cooling and an O^*(n3) Volume Algorithm},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {539-548},
+}
+
+@inproceedings{DBLP:conf/stoc/LiuL15,
+  author    = {Jingcheng Liu and
+               Pinyan Lu},
+  title     = {{FPTAS} for #{BIS} with Degree Bounds on One Side},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {549-556},
+}
+
+@inproceedings{DBLP:conf/stoc/GanorKR15,
+  author    = {Anat Ganor and
+               Gillat Kol and
+               Ran Raz},
+  title     = {Exponential Separation of Information and Communication for Boolean Functions},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {557-566},
+}
+
+@inproceedings{DBLP:conf/stoc/LeeRS15,
+  author    = {James R. Lee and
+               Prasad Raghavendra and
+               David Steurer},
+  title     = {Lower Bounds on the Size of Semidefinite Programming Relaxations},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {567-576},
+}
+
+@inproceedings{DBLP:conf/stoc/DvirG15,
+  author    = {Zeev Dvir and
+               Sivakanth Gopi},
+  title     = {2-Server {PIR} with {Sub-Polynomial} Communication},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {577-584},
+}
+
+@inproceedings{DBLP:conf/stoc/AmbainisFG15,
+  author    = {Andris Ambainis and
+               Yuval Filmus and
+               François Le Gall},
+  title     = {Fast Matrix Multiplication: Limitations of the {Coppersmith-Winograd} Method},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {585-593},
+}
+
+@inproceedings{DBLP:conf/stoc/AlwenS15,
+  author    = {Joël Alwen and
+               Vladimir Serbinenko},
+  title     = {High Parallel Complexity Graphs and {Memory-Hard} Functions},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {595-603},
+}
+
+@inproceedings{DBLP:conf/stoc/AbrahamD15,
+  author    = {Ittai Abraham and
+               Danny Dolev},
+  title     = {Byzantine Agreement with Optimal Early Stopping, Optimal Resilience and Polynomial Complexity},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {605-614},
+}
+
+@inproceedings{DBLP:conf/stoc/GiakkoupisHHW15,
+  author    = {George Giakkoupis and
+               Maryam Helmi and
+               Lisa Higham and
+               Philipp Woelfel},
+  title     = {{Test-and-Set} in Optimal Space},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {615-623},
+}
+
+@inproceedings{DBLP:conf/stoc/AlstrupKTZ15,
+  author    = {Stephen Alstrup and
+               Haim Kaplan and
+               Mikkel Thorup and
+               Uri Zwick},
+  title     = {Adjacency Labeling Schemes and {Induced-Universal} Graphs},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {625-634},
+}
+
+@inproceedings{DBLP:conf/stoc/HalldorssonT15,
+  author    = {Magnús M. Halldórsson and
+               Tigran Tonoyan},
+  title     = {How Well Can Graphs Represent Wireless Interference?},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {635-644},
+}
+
+@inproceedings{DBLP:conf/stoc/Chuzhoy15,
+  author    = {Julia Chuzhoy},
+  title     = {Excluded Grid Theorem: Improved and Simplified},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {645-654},
+}
+
+@inproceedings{DBLP:conf/stoc/KawarabayashiK15,
+  author    = {Ken-ichi Kawarabayashi and
+               Stephan Kreutzer},
+  title     = {The Directed Grid Theorem},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {655-664},
+}
+
+@inproceedings{DBLP:conf/stoc/KawarabayashiT15,
+  author    = {Ken-ichi Kawarabayashi and
+               Mikkel Thorup},
+  title     = {Deterministic Global Minimum Cut of a Simple Graph in {Near-Linear} Time},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {665-674},
+}
+
+@inproceedings{DBLP:conf/stoc/KawarabayashiS15,
+  author    = {Ken-ichi Kawarabayashi and
+               Anastasios Sidiropoulos},
+  title     = {Beyond the Euler Characteristic: Approximating the Genus of General Graphs},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {675-682},
+}
+
+@inproceedings{DBLP:conf/stoc/GroheS15,
+  author    = {Martin Grohe and
+               Pascal Schweitzer},
+  title     = {Computing with Tangles},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {683-692},
+}
+
+@inproceedings{DBLP:conf/stoc/SunW15,
+  author    = {Xiaorui Sun and
+               John Wilmes},
+  title     = {Faster Canonical Forms for Primitive Coherent Configurations: Extended Abstract},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {693-702},
+}
+
+@inproceedings{DBLP:conf/stoc/Czumaj15,
+  author    = {Artur Czumaj},
+  title     = {Random Permutations using Switching Networks},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {703-712},
+}
+
+@inproceedings{DBLP:conf/stoc/Louis15,
+  author    = {Anand Louis},
+  title     = {Hypergraph Markov Operators, Eigenvalues and Approximation Algorithms},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {713-722},
+}
+
+@inproceedings{DBLP:conf/stoc/CzumajPS15,
+  author    = {Artur Czumaj and
+               Pan Peng and
+               Christian Sohler},
+  title     = {Testing Cluster Structure of Graphs},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {723-732},
+}
+
+@inproceedings{DBLP:conf/stoc/AggarwalDRS15,
+  author    = {Divesh Aggarwal and
+               Daniel Dadush and
+               Oded Regev and
+               Noah Stephens-Davidowitz},
+  title     = {Solving the Shortest Vector Problem in 2n Time Using Discrete Gaussian Sampling: Extended Abstract},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {733-742},
+}
+
+@inproceedings{DBLP:conf/stoc/LiRSS15,
+  author    = {Jian Li and
+               Yuval Rabani and
+               Leonard J. Schulman and
+               Chaitanya Swamy},
+  title     = {Learning Arbitrary Statistical Mixtures of Discrete Distributions},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {743-752},
+}
+
+@inproceedings{DBLP:conf/stoc/HardtP15,
+  author    = {Moritz Hardt and
+               Eric Price},
+  title     = {Tight Bounds for Learning a Mixture of Two Gaussians},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {753-760},
+}
+
+@inproceedings{DBLP:conf/stoc/GeHK15,
+  author    = {Rong Ge and
+               Qingqing Huang and
+               Sham M. Kakade},
+  title     = {Learning Mixtures of Gaussians in High Dimensions},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {761-770},
+}
+
+@inproceedings{DBLP:conf/stoc/Bresler15,
+  author    = {Guy Bresler},
+  title     = {Efficiently Learning Ising Models on Arbitrary Graphs},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {771-782},
+}
+
+@inproceedings{DBLP:conf/stoc/MulzerNSS15,
+  author    = {Wolfgang Mulzer and
+               Huy L. Nguyên and
+               Paul Seiferth and
+               Yannik Stein},
+  title     = {Approximate k-flat Nearest Neighbor Search},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {783-792},
+}
+
+@inproceedings{DBLP:conf/stoc/AndoniR15,
+  author    = {Alexandr Andoni and
+               Ilya P. Razenshteyn},
+  title     = {Optimal {Data-Dependent} Hashing for Approximate Near Neighbors},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {793-801},
+}
+
+@inproceedings{DBLP:conf/stoc/LarsenNN15,
+  author    = {Kasper Green Larsen and
+               Jelani Nelson and
+               Huy L. Nguyên},
+  title     = {Time Lower Bounds for Nonadaptive Turnstile Streaming Algorithms},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {803-812},
+}
+
+@inproceedings{DBLP:conf/stoc/ChristianiPT15,
+  author    = {Tobias Christiani and
+               Rasmus Pagh and
+               Mikkel Thorup},
+  title     = {From Independence to Expansion and Back Again},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {813-820},
+}
+
+@inproceedings{DBLP:conf/stoc/Moitra15,
+  author    = {Ankur Moitra},
+  title     = {Super-resolution, Extremal Functions and the Condition Number of Vandermonde Matrices},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {821-830},
+}
+
+@inproceedings{DBLP:conf/stoc/SchulmanS15,
+  author    = {Leonard J. Schulman and
+               Alistair Sinclair},
+  title     = {Analysis of a Classical Matrix Preconditioning Algorithm},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {831-840},
+}
+
+@inproceedings{DBLP:conf/stoc/FoxKM15,
+  author    = {Kyle Fox and
+               Philip N. Klein and
+               Shay Mozes},
+  title     = {A Polynomial-time Bicriteria Approximation Scheme for Planar Bisection},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {841-850},
+}
+
+@inproceedings{DBLP:conf/stoc/BansalK15,
+  author    = {Nikhil Bansal and
+               Janardhan Kulkarni},
+  title     = {Minimizing {Flow-Time} on Unrelated Machines},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {851-860},
+}
+
+@inproceedings{DBLP:conf/stoc/Nikolov15,
+  author    = {Aleksandar Nikolov},
+  title     = {Randomized Rounding for the Largest Simplex Problem},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {861-870},
+}
+
+@inproceedings{DBLP:conf/stoc/Gupta015,
+  author    = {Anupam Gupta and
+               Amit Kumar},
+  title     = {Greedy Algorithms for Steiner Forest},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {871-878},
+}
+
+@inproceedings{DBLP:conf/stoc/KesselheimKN15,
+  author    = {Thomas Kesselheim and
+               Robert D. Kleinberg and
+               Rad Niazadeh},
+  title     = {Secretary Problems with {Non-Uniform} Arrival Order},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {879-888},
+}
+
+@inproceedings{DBLP:conf/stoc/KorulaMZ15,
+  author    = {Nitish Korula and
+               Vahab S. Mirrokni and
+               Morteza Zadimoghaddam},
+  title     = {Online Submodular Welfare Maximization: Greedy Beats 1/2 in Random Order},
+  booktitle = stoc,
+  year      = 2015,
+  pages     = {889-898},
+}
+
+@inproceedings{DBLP:conf/stoc/BunUV14,
+  author    = {Mark Bun and
+               Jonathan Ullman and
+               Salil P. Vadhan},
+  title     = {Fingerprinting codes and the price of approximate differential privacy},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/stoc/DworkTT014,
+  author    = {Cynthia Dwork and
+               Kunal Talwar and
+               Abhradeep Thakurta and
+               Li Zhang},
+  title     = {Analyze gauss: optimal bounds for privacy-preserving principal component analysis},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/stoc/HsuHRRW14,
+  author    = {Justin Hsu and
+               Zhiyi Huang and
+               Aaron Roth and
+               Tim Roughgarden and
+               Zhiwei Steven Wu},
+  title     = {Private matchings and allocations},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {21-30},
+}
+
+@inproceedings{DBLP:conf/stoc/BarakKS14,
+  author    = {Boaz Barak and
+               Jonathan A. Kelner and
+               David Steurer},
+  title     = {Rounding sum-of-squares relaxations},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {31-40},
+}
+
+@inproceedings{DBLP:conf/stoc/MakarychevMV14,
+  author    = {Konstantin Makarychev and
+               Yury Makarychev and
+               Aravindan Vijayaraghavan},
+  title     = {Constant factor approximation for balanced cut in the {PIE} model},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {41-49},
+}
+
+@inproceedings{DBLP:conf/stoc/SinghV14,
+  author    = {Mohit Singh and
+               Nisheeth K. Vishnoi},
+  title     = {Entropy, optimization and counting},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {50-59},
+}
+
+@inproceedings{DBLP:conf/stoc/ChekuriC14,
+  author    = {Chandra Chekuri and
+               Julia Chuzhoy},
+  title     = {Polynomial bounds for the grid-minor theorem},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {60-69},
+}
+
+@inproceedings{DBLP:conf/stoc/KawarabayashiKK14,
+  author    = {Ken-ichi Kawarabayashi and
+               Yusuke Kobayashi and
+               Stephan Kreutzer},
+  title     = {An excluded half-integral grid theorem for digraphs and the directed disjoint paths problem},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {70-78},
+}
+
+@inproceedings{DBLP:conf/stoc/AbrahamGGNT14,
+  author    = {Ittai Abraham and
+               Cyril Gavoille and
+               Anupam Gupta and
+               Ofer Neiman and
+               Kunal Talwar},
+  title     = {Cops, robbers, and threatening skeletons: padded decomposition for minor-free graphs},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {79-88},
+}
+
+@inproceedings{DBLP:conf/stoc/GroheKS14,
+  author    = {Martin Grohe and
+               Stephan Kreutzer and
+               Sebastian Siebertz},
+  title     = {Deciding first-order properties of nowhere dense graphs},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {89-98},
+}
+
+@inproceedings{DBLP:conf/stoc/ArtemenkoS14,
+  author    = {Sergei Artemenko and
+               Ronen Shaltiel},
+  title     = {Pseudorandom generators with optimal seed length for non-boolean poly-size circuits},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {99-108},
+}
+
+@inproceedings{DBLP:conf/stoc/GoldreichW14,
+  author    = {Oded Goldreich and
+               Avi Wigderson},
+  title     = {On derandomizing algorithms that err extremely rarely},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {109-118},
+}
+
+@inproceedings{DBLP:conf/stoc/KayalLSS14,
+  author    = {Neeraj Kayal and
+               Nutan Limaye and
+               Chandan Saha and
+               Srikanth Srinivasan},
+  title     = {Super-polynomial lower bounds for depth-4 homogeneous arithmetic formulas},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {119-127},
+}
+
+@inproceedings{DBLP:conf/stoc/FournierLMS14,
+  author    = {Hervé Fournier and
+               Nutan Limaye and
+               Guillaume Malod and
+               Srikanth Srinivasan},
+  title     = {Lower bounds for depth 4 formulas computing iterated matrix multiplication},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {128-135},
+}
+
+@inproceedings{DBLP:conf/stoc/KumarS14,
+  author    = {Mrinal Kumar and
+               Shubhangi Saraf},
+  title     = {The limits of depth reduction for arithmetic formulas: it's all about the top fan-in},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {136-145},
+}
+
+@inproceedings{DBLP:conf/stoc/KayalSS14,
+  author    = {Neeraj Kayal and
+               Chandan Saha and
+               Ramprasad Saptharishi},
+  title     = {A super-polynomial lower bound for regular arithmetic formulas},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {146-153},
+}
+
+@inproceedings{DBLP:conf/stoc/Belazzougui14,
+  author    = {Djamal Belazzougui},
+  title     = {Linear time construction of compressed text indices in compact space},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {148-193},
+}
+
+@inproceedings{DBLP:conf/stoc/Yoshida14,
+  author    = {Yuichi Yoshida},
+  title     = {A characterization of locally testable affine-invariant properties via decomposition theorems},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {154-163},
+}
+
+@inproceedings{DBLP:conf/stoc/BermanRY14,
+  author    = {Piotr Berman and
+               Sofya Raskhodnikova and
+               Grigory Yaroslavtsev},
+  title     = {Lp-testing},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {164-173},
+}
+
+@inproceedings{DBLP:conf/stoc/LiNW14,
+  author    = {Yi Li and
+               Huy L. Nguyen and
+               David P. Woodruff},
+  title     = {Turnstile streaming algorithms might as well be linear sketches},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {174-183},
+}
+
+@inproceedings{DBLP:conf/stoc/Williams14,
+  author    = {Ryan Williams},
+  title     = {New algorithms and lower bounds for circuits with linear threshold gates},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {194-202},
+}
+
+@inproceedings{DBLP:conf/stoc/Rossman14,
+  author    = {Benjamin Rossman},
+  title     = {Formulas vs. circuits for small distance connectivity},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {203-212},
+}
+
+@inproceedings{DBLP:conf/stoc/GavinskyMWW14,
+  author    = {Dmitry Gavinsky and
+               Or Meir and
+               Omri Weinstein and
+               Avi Wigderson},
+  title     = {Toward better formula lower bounds: an information complexity approach to the {KRW} composition conjecture},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {213-222},
+}
+
+@inproceedings{DBLP:conf/stoc/Sherstov14,
+  author    = {Alexander A. Sherstov},
+  title     = {Breaking the minsky-papert barrier for constant-depth circuits},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {223-232},
+}
+
+@inproceedings{DBLP:conf/stoc/DobzinskiNO14,
+  author    = {Shahar Dobzinski and
+               Noam Nisan and
+               Sigal Oren},
+  title     = {Economic efficiency requires interaction},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {233-242},
+}
+
+@inproceedings{DBLP:conf/stoc/ColeR14,
+  author    = {Richard Cole and
+               Tim Roughgarden},
+  title     = {The sample complexity of revenue maximization},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {243-252},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenGL14,
+  author    = {Ning Chen and
+               Nick Gravin and
+               Pinyan Lu},
+  title     = {Optimal competitive auctions},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {253-262},
+}
+
+@inproceedings{DBLP:conf/stoc/Rothvoss14,
+  author    = {Thomas Rothvoß},
+  title     = {The matching polytope has exponential extension complexity},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {263-272},
+}
+
+@inproceedings{DBLP:conf/stoc/BravyiH14,
+  author    = {Sergey Bravyi and
+               Matthew B. Hastings},
+  title     = {Homological product codes},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {273-282},
+}
+
+@inproceedings{DBLP:conf/stoc/BerryCCKS14,
+  author    = {Dominic W. Berry and
+               Andrew M. Childs and
+               Richard Cleve and
+               Robin Kothari and
+               Rolando D. Somma},
+  title     = {Exponential improvement in precision for simulating sparse Hamiltonians},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {283-292},
+}
+
+@inproceedings{DBLP:conf/stoc/EisentragerHK014,
+  author    = {Kirsten Eisenträger and
+               Sean Hallgren and
+               Alexei Y. Kitaev and
+               Fang Song},
+  title     = {A quantum algorithm for computing the unit group of an arbitrary degree number field},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {293-302},
+}
+
+@inproceedings{DBLP:conf/stoc/KesselheimTRV14,
+  author    = {Thomas Kesselheim and
+               Klaus Radke and
+               Andreas Tönnis and
+               Berthold Vöcking},
+  title     = {Primal beats dual on online packing {LPs} in the random-order model},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {303-312},
+}
+
+@inproceedings{DBLP:conf/stoc/ImKM14,
+  author    = {Sungjin Im and
+               Janardhan Kulkarni and
+               Kamesh Munagala},
+  title     = {Competitive algorithms from competitive equilibria: non-clairvoyant scheduling under polyhedral constraints},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {313-322},
+}
+
+@inproceedings{DBLP:conf/stoc/CyganLPPS14,
+  author    = {Marek Cygan and
+               Daniel Lokshtanov and
+               Marcin Pilipczuk and
+               Michal Pilipczuk and
+               Saket Saurabh},
+  title     = {Minimum bisection is fixed parameter tractable},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {323-332},
+}
+
+@inproceedings{DBLP:conf/stoc/PengS14,
+  author    = {Richard Peng and
+               Daniel A. Spielman},
+  title     = {An efficient parallel solver for {SDD} linear systems},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {333-342},
+}
+
+@inproceedings{DBLP:conf/stoc/CohenKMPPRX14,
+  author    = {Michael B. Cohen and
+               Rasmus Kyng and
+               Gary L. Miller and
+               Jakub W. Pachocki and
+               Richard Peng and
+               Anup B. Rao and
+               Shen Chen Xu},
+  title     = {Solving {SDD} linear systems in nearly mlog1/2n time},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {343-352},
+}
+
+@inproceedings{DBLP:conf/stoc/BoutsidisW14,
+  author    = {Christos Boutsidis and
+               David P. Woodruff},
+  title     = {Optimal {CUR} matrix decompositions},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {353-362},
+}
+
+@inproceedings{DBLP:conf/stoc/Solomon14,
+  author    = {Shay Solomon},
+  title     = {From hierarchical partitions to hierarchical covers: optimal fault-tolerant spanners for doubling metrics},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {363-372},
+}
+
+@inproceedings{DBLP:conf/stoc/ChengJ14,
+  author    = {Siu-Wing Cheng and
+               Jiongxin Jin},
+  title     = {Shortest paths on polyhedral surfaces and terrains},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {373-382},
+}
+
+@inproceedings{DBLP:conf/stoc/ElberfeldK14,
+  author    = {Michael Elberfeld and
+               Ken-ichi Kawarabayashi},
+  title     = {Embedding and canonizing graphs of bounded genus in logspace},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {383-392},
+}
+
+@inproceedings{DBLP:conf/stoc/Neeman14,
+  author    = {Joe Neeman},
+  title     = {Testing surface area with arbitrary accuracy},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {393-397},
+}
+
+@inproceedings{DBLP:conf/stoc/BermanHT14,
+  author    = {Itay Berman and
+               Iftach Haitner and
+               Aris Tentes},
+  title     = {Coin flipping of any constant bias implies one-way functions},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {398-407},
+}
+
+@inproceedings{DBLP:conf/stoc/HaitnerT14,
+  author    = {Iftach Haitner and
+               Eliad Tsfadia},
+  title     = {An almost-optimally fair three-party coin-flipping protocol},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {408-416},
+}
+
+@inproceedings{DBLP:conf/stoc/MillerS14,
+  author    = {Carl A. Miller and
+               Yaoyun Shi},
+  title     = {Robust protocols for securely expanding randomness and distributing keys using untrusted quantum devices},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {417-426},
+}
+
+@inproceedings{DBLP:conf/stoc/CoudronY14,
+  author    = {Matthew Coudron and
+               Henry Yuen},
+  title     = {Infinite randomness expansion with a constant number of devices},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {427-436},
+}
+
+@inproceedings{DBLP:conf/stoc/Kane14,
+  author    = {Daniel M. Kane},
+  title     = {The average sensitivity of an intersection of half spaces},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {437-440},
+}
+
+@inproceedings{DBLP:conf/stoc/DanielyLS14,
+  author    = {Amit Daniely and
+               Nati Linial and
+               Shai Shalev-Shwartz},
+  title     = {From average case complexity to improper learning complexity},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {441-448},
+}
+
+@inproceedings{DBLP:conf/stoc/AwasthiBL14,
+  author    = {Pranjal Awasthi and
+               Maria-Florina Balcan and
+               Philip M. Long},
+  title     = {The power of localization for efficiently learning linear separators with noise},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {449-458},
+}
+
+@inproceedings{DBLP:conf/stoc/DekelDKP14,
+  author    = {Ofer Dekel and
+               Jian Ding and
+               Tomer Koren and
+               Yuval Peres},
+  title     = {Bandits with switching costs: T2/3 regret},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {459-467},
+}
+
+@inproceedings{DBLP:conf/stoc/Christiano14,
+  author    = {Paul Christiano},
+  title     = {Online local learning via semidefinite programming},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {468-474},
+}
+
+@inproceedings{DBLP:conf/stoc/SahaiW14,
+  author    = {Amit Sahai and
+               Brent Waters},
+  title     = {How to use indistinguishability obfuscation: deniable encryption, and more},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {475-484},
+}
+
+@inproceedings{DBLP:conf/stoc/KalaiRR14,
+  author    = {Yael Tauman Kalai and
+               Ran Raz and
+               Ron D. Rothblum},
+  title     = {How to delegate computations: the power of no-signaling proofs},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {485-494},
+}
+
+@inproceedings{DBLP:conf/stoc/GenkinIPST14,
+  author    = {Daniel Genkin and
+               Yuval Ishai and
+               Manoj Prabhakaran and
+               Amit Sahai and
+               Eran Tromer},
+  title     = {Circuits resilient to additive attacks with applications to secure computation},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {495-504},
+}
+
+@inproceedings{DBLP:conf/stoc/BitanskyCPR14,
+  author    = {Nir Bitansky and
+               Ran Canetti and
+               Omer Paneth and
+               Alon Rosen},
+  title     = {On the existence of extractable one-way functions},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {505-514},
+}
+
+@inproceedings{DBLP:conf/stoc/GoyalOSV14,
+  author    = {Vipul Goyal and
+               Rafail Ostrovsky and
+               Alessandra Scafuro and
+               Ivan Visconti},
+  title     = {Black-box non-black-box zero knowledge},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {515-524},
+}
+
+@inproceedings{DBLP:conf/stoc/GargMV14,
+  author    = {Jugal Garg and
+               Ruta Mehta and
+               Vijay V. Vazirani},
+  title     = {Dichotomies in equilibrium computation, and complementary pivot algorithms for a new class of non-separable utility functions},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {525-534},
+}
+
+@inproceedings{DBLP:conf/stoc/Babichenko14,
+  author    = {Yakov Babichenko},
+  title     = {Query complexity of approximate nash equilibria},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {535-544},
+}
+
+@inproceedings{DBLP:conf/stoc/Mehta14,
+  author    = {Ruta Mehta},
+  title     = {Constant rank bimatrix games are {PPAD-hard}},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {545-554},
+}
+
+@inproceedings{DBLP:conf/stoc/AgarwalS14,
+  author    = {Pankaj K. Agarwal and
+               R. Sharathkumar},
+  title     = {Approximation algorithms for bipartite matching with metric and geometric costs},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {555-564},
+}
+
+@inproceedings{DBLP:conf/stoc/Nanongkai14,
+  author    = {Danupon Nanongkai},
+  title     = {Distributed approximation algorithms for weighted shortest paths},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {565-573},
+}
+
+@inproceedings{DBLP:conf/stoc/AndoniNOY14,
+  author    = {Alexandr Andoni and
+               Aleksandar Nikolov and
+               Krzysztof Onak and
+               Grigory Yaroslavtsev},
+  title     = {Parallel algorithms for geometric graph problems},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {574-583},
+}
+
+@inproceedings{DBLP:conf/stoc/GoyalVX14,
+  author    = {Navin Goyal and
+               Santosh Vempala and
+               Ying Xiao},
+  title     = {Fourier {PCA} and robust tensor decomposition},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {584-593},
+}
+
+@inproceedings{DBLP:conf/stoc/BhaskaraCMV14,
+  author    = {Aditya Bhaskara and
+               Moses Charikar and
+               Ankur Moitra and
+               Aravindan Vijayaraghavan},
+  title     = {Smoothed analysis of tensor decompositions},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {594-603},
+}
+
+@inproceedings{DBLP:conf/stoc/ChanDSS14,
+  author    = {Siu-on Chan and
+               Ilias Diakonikolas and
+               Rocco A. Servedio and
+               Xiaorui Sun},
+  title     = {Efficient density estimation via piecewise polynomial approximation},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {604-613},
+}
+
+@inproceedings{DBLP:conf/stoc/GuruswamiHHSV14,
+  author    = {Venkatesan Guruswami and
+               Prahladh Harsha and
+               Johan Håstad and
+               Srikanth Srinivasan and
+               Girish Varma},
+  title     = {Super-polylogarithmic hypergraph coloring hardness via low-degree long codes},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {614-623},
+}
+
+@inproceedings{DBLP:conf/stoc/DinurS14,
+  author    = {Irit Dinur and
+               David Steurer},
+  title     = {Analytical approach to parallel repetition},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {624-633},
+}
+
+@inproceedings{DBLP:conf/stoc/KhotTW14,
+  author    = {Subhash Khot and
+               Madhur Tulsiani and
+               Pratik Worah},
+  title     = {A characterization of strong approximation resistance},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {634-643},
+}
+
+@inproceedings{DBLP:conf/stoc/Vegh14,
+  author    = {László A. Végh},
+  title     = {A strongly polynomial algorithm for generalized flow maximization},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {644-653},
+}
+
+@inproceedings{DBLP:conf/stoc/Chechik14,
+  author    = {Shiri Chechik},
+  title     = {Approximate distance oracles with constant query time},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {654-663},
+}
+
+@inproceedings{DBLP:conf/stoc/Williams14a,
+  author    = {Ryan Williams},
+  title     = {Faster all-pairs shortest paths via circuit complexity},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {664-673},
+}
+
+@inproceedings{DBLP:conf/stoc/HenzingerKN14,
+  author    = {Monika Henzinger and
+               Sebastian Krinninger and
+               Danupon Nanongkai},
+  title     = {Sublinear-time decremental algorithms for single-source reachability and shortest paths on directed graphs},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {674-683},
+}
+
+@inproceedings{DBLP:conf/stoc/Goodrich14,
+  author    = {Michael T. Goodrich},
+  title     = {Zig-zag sort: a simple deterministic data-oblivious sorting algorithm running in O(n log n) time},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {684-693},
+}
+
+@inproceedings{DBLP:conf/stoc/Massoulie14,
+  author    = {Laurent Massoulié},
+  title     = {Community detection thresholds and the weak Ramanujan property},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {694-703},
+}
+
+@inproceedings{DBLP:conf/stoc/MendesTH14,
+  author    = {Hammurabi Mendes and
+               Christine Tasson and
+               Maurice Herlihy},
+  title     = {Distributed computability in Byzantine asynchronous systems},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {704-713},
+}
+
+@inproceedings{DBLP:conf/stoc/AlistarhCS14,
+  author    = {Dan Alistarh and
+               Keren Censor-Hillel and
+               Nir Shavit},
+  title     = {Are lock-free concurrent algorithms practically wait-free?},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {714-723},
+}
+
+@inproceedings{DBLP:conf/stoc/SharmaV14,
+  author    = {Ankit Sharma and
+               Jan Vondrák},
+  title     = {Multiway cut, pairwise realizable distributions, and descending thresholds},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {724-733},
+}
+
+@inproceedings{DBLP:conf/stoc/KrishnaswamyNPS14,
+  author    = {Ravishankar Krishnaswamy and
+               Viswanath Nagarajan and
+               Kirk Pruhs and
+               Cliff Stein},
+  title     = {Cluster before you hallucinate: approximating node-capacitated network design and energy efficient routing},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {734-743},
+}
+
+@inproceedings{DBLP:conf/stoc/FriggstadS14,
+  author    = {Zachary Friggstad and
+               Chaitanya Swamy},
+  title     = {Approximation algorithms for regret-bounded vehicle routing and applications to distance-constrained vehicle routing},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {744-753},
+}
+
+@inproceedings{DBLP:conf/stoc/EneV14,
+  author    = {Alina Ene and
+               Ali Vakilian},
+  title     = {Improved approximation algorithms for degree-bounded network design problems with node connectivity requirements},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {754-763},
+}
+
+@inproceedings{DBLP:conf/stoc/RudraW14,
+  author    = {Atri Rudra and
+               Mary Wootters},
+  title     = {Every list-decodable code for high noise has abundant near-optimal rate puncturings},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {764-773},
+}
+
+@inproceedings{DBLP:conf/stoc/AggarwalDL14,
+  author    = {Divesh Aggarwal and
+               Yevgeniy Dodis and
+               Shachar Lovett},
+  title     = {Non-malleable codes from additive combinatorics},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {774-783},
+}
+
+@inproceedings{DBLP:conf/stoc/DvirSW14,
+  author    = {Zeev Dvir and
+               Shubhangi Saraf and
+               Avi Wigderson},
+  title     = {Breaking the quadratic barrier for 3-{LCC's} over the reals},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {784-793},
+}
+
+@inproceedings{DBLP:conf/stoc/GhaffariHS14,
+  author    = {Mohsen Ghaffari and
+               Bernhard Haeupler and
+               Madhu Sudan},
+  title     = {Optimal error rates for interactive coding I: adaptivity and other settings},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {794-803},
+}
+
+@inproceedings{DBLP:conf/stoc/Coja-Oghlan14,
+  author    = {Amin Coja-Oghlan},
+  title     = {The asymptotic {k-SAT} threshold},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {804-813},
+}
+
+@inproceedings{DBLP:conf/stoc/DingSS14,
+  author    = {Jian Ding and
+               Allan Sly and
+               Nike Sun},
+  title     = {Satisfiability threshold for random regular {NAE-SAT}},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {814-822},
+}
+
+@inproceedings{DBLP:conf/stoc/GalanisSV14,
+  author    = {Andreas Galanis and
+               Daniel Stefankovic and
+               Eric Vigoda},
+  title     = {Inapproximability for antiferromagnetic spin systems in the tree non-uniqueness region},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {823-831},
+}
+
+@inproceedings{DBLP:conf/stoc/DeS14,
+  author    = {Anindya De and
+               Rocco A. Servedio},
+  title     = {Efficient deterministic approximate counting for low-degree polynomial threshold functions},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {832-841},
+}
+
+@inproceedings{DBLP:conf/stoc/Lovett14,
+  author    = {Shachar Lovett},
+  title     = {Communication is bounded by root of rank},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {842-846},
+}
+
+@inproceedings{DBLP:conf/stoc/GoosP14,
+  author    = {Mika Göös and
+               Toniann Pitassi},
+  title     = {Communication lower bounds via critical block sensitivity},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {847-856},
+}
+
+@inproceedings{DBLP:conf/stoc/BuhrmanCKLS14,
+  author    = {Harry Buhrman and
+               Richard Cleve and
+               Michal Koucký and
+               Bruno Loff and
+               Florian Speelman},
+  title     = {Computing with a full memory: catalytic space},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {857-866},
+}
+
+@inproceedings{DBLP:conf/stoc/ForbesSS14,
+  author    = {Michael A. Forbes and
+               Ramprasad Saptharishi and
+               Amir Shpilka},
+  title     = {Hitting sets for multilinear read-once algebraic branching programs, in any order},
+  booktitle = stoc,
+  year      = 2014,
+  pages     = {867-875},
+}
+
+@inproceedings{DBLP:conf/stoc/KaneM13,
+  author    = {Daniel M. Kane and
+               Raghu Meka},
+  title     = {A {PRG} for lipschitz functions of polynomials with applications to sparsest cut},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {1-10},
+}
+
+@inproceedings{DBLP:conf/stoc/KwokLLGT13,
+  author    = {Tsz Chiu Kwok and
+               Lap Chi Lau and
+               Yin Tat Lee and
+               Shayan Oveis Gharan and
+               Luca Trevisan},
+  title     = {Improved Cheeger's inequality: analysis of spectral partitioning algorithms through higher order spectral gap},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {11-20},
+}
+
+@inproceedings{DBLP:conf/stoc/Williams13,
+  author    = {Ryan Williams},
+  title     = {Natural proofs versus derandomization},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {21-30},
+}
+
+@inproceedings{DBLP:conf/stoc/BeiCZ13,
+  author    = {Xiaohui Bei and
+               Ning Chen and
+               Shengyu Zhang},
+  title     = {On the complexity of trial and error},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {31-40},
+}
+
+@inproceedings{DBLP:conf/stoc/BhawalkarGM13,
+  author    = {Kshipra Bhawalkar and
+               Sreenivas Gollapudi and
+               Kamesh Munagala},
+  title     = {Coevolutionary opinion formation games},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {41-50},
+}
+
+@inproceedings{DBLP:conf/stoc/ChawlaHMS13,
+  author    = {Shuchi Chawla and
+               Jason D. Hartline and
+               David L. Malec and
+               Balasubramanian Sivan},
+  title     = {Prior-independent mechanisms for scheduling},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {51-60},
+}
+
+@inproceedings{DBLP:conf/stoc/FeldmanGL13,
+  author    = {Michal Feldman and
+               Nick Gravin and
+               Brendan Lucier},
+  title     = {Combinatorial walrasian equilibrium},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {61-70},
+}
+
+@inproceedings{DBLP:conf/stoc/NaorRV13,
+  author    = {Assaf Naor and
+               Oded Regev and
+               Thomas Vidick},
+  title     = {Efficient rounding for the noncommutative grothendieck inequality},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {71-80},
+}
+
+@inproceedings{DBLP:conf/stoc/ClarksonW13,
+  author    = {Kenneth L. Clarkson and
+               David P. Woodruff},
+  title     = {Low rank approximation and regression in input sparsity time},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {81-90},
+}
+
+@inproceedings{DBLP:conf/stoc/MengM13,
+  author    = {Xiangrui Meng and
+               Michael W. Mahoney},
+  title     = {Low-distortion subspace embeddings in input-sparsity time and applications to robust linear regression},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {91-100},
+}
+
+@inproceedings{DBLP:conf/stoc/NelsonN13,
+  author    = {Jelani Nelson and
+               Huy L. Nguyen},
+  title     = {Sparsity lower bounds for dimensionality reducing maps},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {101-110},
+}
+
+@inproceedings{DBLP:conf/stoc/BitanskyCCT13,
+  author    = {Nir Bitansky and
+               Ran Canetti and
+               Alessandro Chiesa and
+               Eran Tromer},
+  title     = {Recursive composition and bootstrapping for {SNARKS} and proof-carrying data},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {111-120},
+}
+
+@inproceedings{DBLP:conf/stoc/HardtW13,
+  author    = {Moritz Hardt and
+               David P. Woodruff},
+  title     = {How robust are linear sketches to adaptive inputs?},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {121-130},
+}
+
+@inproceedings{DBLP:conf/stoc/BohmGJ13,
+  author    = {Stanislav Böhm and
+               Stefan Göller and
+               Petr Jancar},
+  title     = {Equivalence of deterministic one-counter automata is {NL-complete}},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {131-140},
+}
+
+@inproceedings{DBLP:conf/stoc/BurgisserI13,
+  author    = {Peter Bürgisser and
+               Christian Ikenmeyer},
+  title     = {Explicit lower bounds via geometric complexity theory},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {141-150},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanGPW13,
+  author    = {Mark Braverman and
+               Ankit Garg and
+               Denis Pankratov and
+               Omri Weinstein},
+  title     = {From information to exact communication},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {151-160},
+}
+
+@inproceedings{DBLP:conf/stoc/BravermanM13,
+  author    = {Mark Braverman and
+               Ankur Moitra},
+  title     = {An information complexity approach to extended formulations},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {161-170},
+}
+
+@inproceedings{DBLP:conf/stoc/KomargodskiR13,
+  author    = {Ilan Komargodski and
+               Ran Raz},
+  title     = {Average-case lower bounds for formula size},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {171-180},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenPY13,
+  author    = {Xi Chen and
+               Dimitris Paparas and
+               Mihalis Yannakakis},
+  title     = {The complexity of non-monotone markets},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {181-190},
+}
+
+@inproceedings{DBLP:conf/stoc/CheungCD13,
+  author    = {Yun Kuen Cheung and
+               Richard Cole and
+               Nikhil R. Devanur},
+  title     = {Tatonnement beyond gross substitutes?: gradient descent to the rescue},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {191-200},
+}
+
+@inproceedings{DBLP:conf/stoc/FeldmanFGL13,
+  author    = {Michal Feldman and
+               Hu Fu and
+               Nick Gravin and
+               Brendan Lucier},
+  title     = {Simultaneous auctions are (almost) efficient},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {201-210},
+}
+
+@inproceedings{DBLP:conf/stoc/SyrgkanisT13,
+  author    = {Vasilis Syrgkanis and
+               Éva Tardos},
+  title     = {Composable and efficient mechanisms},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {211-220},
+}
+
+@inproceedings{DBLP:conf/stoc/Goyal13,
+  author    = {Vipul Goyal},
+  title     = {Non-black-box simulation in the fully concurrent setting},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {221-230},
+}
+
+@inproceedings{DBLP:conf/stoc/ChungPS13,
+  author    = {Kai-Min Chung and
+               Rafael Pass and
+               Karn Seth},
+  title     = {Non-black-box simulation from one-way functions and applications to resettable security},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {231-240},
+}
+
+@inproceedings{DBLP:conf/stoc/BitanskyP13,
+  author    = {Nir Bitansky and
+               Omer Paneth},
+  title     = {On the impossibility of approximate obfuscation and applications to resettable cryptography},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {241-250},
+}
+
+@inproceedings{DBLP:conf/stoc/MilesV13,
+  author    = {Eric Miles and
+               Emanuele Viola},
+  title     = {Shielding circuits with groups},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {251-260},
+}
+
+@inproceedings{DBLP:conf/stoc/BabaiW13,
+  author    = {László Babai and
+               John Wilmes},
+  title     = {Quasipolynomial-time canonical form for steiner designs},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {261-270},
+}
+
+@inproceedings{DBLP:conf/stoc/ChenST13,
+  author    = {Xi Chen and
+               Xiaorui Sun and
+               Shang-Hua Teng},
+  title     = {Multi-stage design for quasipolynomial-time isomorphism testing of steiner 2-systems},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {271-280},
+}
+
+@inproceedings{DBLP:conf/stoc/GuptaTW13,
+  author    = {Anupam Gupta and
+               Kunal Talwar and
+               David Witmer},
+  title     = {Sparsest cut on bounded treewidth graphs: algorithms and hardness results},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {281-290},
+}
+
+@inproceedings{DBLP:conf/stoc/ChekuriC13,
+  author    = {Chandra Chekuri and
+               Julia Chuzhoy},
+  title     = {Large-treewidth graph decompositions and applications},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {291-300},
+}
+
+@inproceedings{DBLP:conf/stoc/CyganKN13,
+  author    = {Marek Cygan and
+               Stefan Kratsch and
+               Jesper Nederlof},
+  title     = {Fast hamiltonicity checking via bases of perfect matchings},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {301-310},
+}
+
+@inproceedings{DBLP:conf/stoc/KeevashKM13,
+  author    = {Peter Keevash and
+               Fiachra Knox and
+               Richard Mycroft},
+  title     = {Polynomial-time perfect matchings in dense hypergraphs},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {311-320},
+}
+
+@inproceedings{DBLP:conf/stoc/AgrawalSS13,
+  author    = {Manindra Agrawal and
+               Chandan Saha and
+               Nitin Saxena},
+  title     = {Quasi-polynomial hitting-set for set-depth-Δ formulas},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {321-330},
+}
+
+@inproceedings{DBLP:conf/stoc/HardtR13,
+  author    = {Moritz Hardt and
+               Aaron Roth},
+  title     = {Beyond worst-case analysis in private singular vector computation},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {331-340},
+}
+
+@inproceedings{DBLP:conf/stoc/HsuRU13,
+  author    = {Justin Hsu and
+               Aaron Roth and
+               Jonathan Ullman},
+  title     = {Differential privacy for the analyst via private equilibrium computation},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {341-350},
+}
+
+@inproceedings{DBLP:conf/stoc/NikolovTZ13,
+  author    = {Aleksandar Nikolov and
+               Kunal Talwar and
+               Li Zhang},
+  title     = {The geometry of differential privacy: the sparse and approximate cases},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {351-360},
+}
+
+@inproceedings{DBLP:conf/stoc/Ullman13,
+  author    = {Jonathan Ullman},
+  title     = {Answering n{2+o(1)} counting queries with differential privacy is hard},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {361-370},
+}
+
+@inproceedings{DBLP:conf/stoc/Thorup13,
+  author    = {Mikkel Thorup},
+  title     = {Bottom-k and priority sampling, set similarity and subset sums with minimal independence},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {371-380},
+}
+
+@inproceedings{DBLP:conf/stoc/LenzenP13,
+  author    = {Christoph Lenzen and
+               Boaz Patt-Shamir},
+  title     = {Fast routing table construction using small messages: extended abstract},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {381-390},
+}
+
+@inproceedings{DBLP:conf/stoc/MendesH13,
+  author    = {Hammurabi Mendes and
+               Maurice Herlihy},
+  title     = {Multidimensional approximate agreement in Byzantine asynchronous systems},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {391-400},
+}
+
+@inproceedings{DBLP:conf/stoc/KingS13,
+  author    = {Valerie King and
+               Jared Saia},
+  title     = {Byzantine agreement in polynomial expected time: [extended abstract]},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {401-410},
+}
+
+@inproceedings{DBLP:conf/stoc/ChakrabartyS13,
+  author    = {Deeparnab Chakrabarty and
+               C. Seshadhri},
+  title     = {A o(n) monotonicity tester for boolean functions over the hypercube},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {411-418},
+}
+
+@inproceedings{DBLP:conf/stoc/ChakrabartyS13a,
+  author    = {Deeparnab Chakrabarty and
+               C. Seshadhri},
+  title     = {Optimal bounds for monotonicity and lipschitz testing over hypercubes and hypergrids},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {419-428},
+}
+
+@inproceedings{DBLP:conf/stoc/BhattacharyyaFHHL13,
+  author    = {Arnab Bhattacharyya and
+               Eldar Fischer and
+               Hamed Hatami and
+               Pooya Hatami and
+               Shachar Lovett},
+  title     = {Every locally characterized affine-invariant property is testable},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {429-436},
+}
+
+@inproceedings{DBLP:conf/stoc/KawarabayashiY13,
+  author    = {Ken-ichi Kawarabayashi and
+               Yuichi Yoshida},
+  title     = {Testing subdivision-freeness: property testing meets structural graph theory},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {437-446},
+}
+
+@inproceedings{DBLP:conf/stoc/Chan13,
+  author    = {Siu On Chan},
+  title     = {Approximation resistance from pairwise independent subgroups},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {447-456},
+}
+
+@inproceedings{DBLP:conf/stoc/Huang13,
+  author    = {Sangxia Huang},
+  title     = {Approximation resistance on satisfiable instances for predicates with few accepting inputs},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {457-466},
+}
+
+@inproceedings{DBLP:conf/stoc/GargGSW13,
+  author    = {Sanjam Garg and
+               Craig Gentry and
+               Amit Sahai and
+               Brent Waters},
+  title     = {Witness encryption and its applications},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {467-476},
+}
+
+@inproceedings{DBLP:conf/stoc/DeMN13,
+  author    = {Anindya De and
+               Elchanan Mossel and
+               Joe Neeman},
+  title     = {Majority is stablest: discrete and {SoS}},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {477-486},
+}
+
+@inproceedings{DBLP:conf/stoc/BeckI13,
+  author    = {Christopher Beck and
+               Russell Impagliazzo},
+  title     = {Strong {ETH} holds for regular resolution},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {487-494},
+}
+
+@inproceedings{DBLP:conf/stoc/LeeMM13,
+  author    = {James R. Lee and
+               Manor Mendel and
+               Mohammad Moharrami},
+  title     = {A node-capacitated okamura-seymour theorem},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {495-504},
+}
+
+@inproceedings{DBLP:conf/stoc/KleinMS13,
+  author    = {Philip N. Klein and
+               Shay Mozes and
+               Christian Sommer},
+  title     = {Structured recursive separator decompositions for planar graphs in linear time},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {505-514},
+}
+
+@inproceedings{DBLP:conf/stoc/RodittyW13,
+  author    = {Liam Roditty and
+               Virginia Vassilevska Williams},
+  title     = {Fast approximation algorithms for the diameter and radius of sparse graphs},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {515-524},
+}
+
+@inproceedings{DBLP:conf/stoc/GuGK13,
+  author    = {Albert Gu and
+               Anupam Gupta and
+               Amit Kumar},
+  title     = {The power of deferral: maintaining a constant-competitive steiner tree online},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {525-534},
+}
+
+@inproceedings{DBLP:conf/stoc/BuchbinderNS13,
+  author    = {Niv Buchbinder and
+               Joseph Naor and
+               Roy Schwartz},
+  title     = {Simplex partitioning via exponential clocks and the multiway cut problem},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {535-544},
+}
+
+@inproceedings{DBLP:conf/stoc/GorbunovVW13,
+  author    = {Sergey Gorbunov and
+               Vinod Vaikuntanathan and
+               Hoeteck Wee},
+  title     = {Attribute-based encryption for circuits},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {545-554},
+}
+
+@inproceedings{DBLP:conf/stoc/GoldwasserKPVZ13,
+  author    = {Shafi Goldwasser and
+               Yael Tauman Kalai and
+               Raluca A. Popa and
+               Vinod Vaikuntanathan and
+               Nickolai Zeldovich},
+  title     = {Reusable garbled circuits and succinct functional encryption},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {555-564},
+}
+
+@inproceedings{DBLP:conf/stoc/KalaiRR13,
+  author    = {Yael Tauman Kalai and
+               Ran Raz and
+               Ron D. Rothblum},
+  title     = {Delegation for bounded space},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {565-574},
+}
+
+@inproceedings{DBLP:conf/stoc/BrakerskiLPRS13,
+  author    = {Zvika Brakerski and
+               Adeline Langlois and
+               Chris Peikert and
+               Oded Regev and
+               Damien Stehlé},
+  title     = {Classical hardness of learning with errors},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {575-584},
+}
+
+@inproceedings{DBLP:conf/stoc/Ben-SassonCGT13,
+  author    = {Eli Ben-Sasson and
+               Alessandro Chiesa and
+               Daniel Genkin and
+               Eran Tromer},
+  title     = {On the concrete efficiency of probabilistically-checkable proofs},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {585-594},
+}
+
+@inproceedings{DBLP:conf/stoc/CadekKMVW13,
+  author    = {Martin Cadek and
+               Marek Krcál and
+               Jirí Matousek and
+               Lukás Vokrínek and
+               Uli Wagner},
+  title     = {Extending continuous maps: polynomiality and undecidability},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {595-604},
+}
+
+@inproceedings{DBLP:conf/stoc/Har-PeledR13,
+  author    = {Sariel Har-Peled and
+               Benjamin Adam Raichel},
+  title     = {Net and prune: a linear time algorithm for euclidean distance problems},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {605-614},
+}
+
+@inproceedings{DBLP:conf/stoc/CaputoMSS13,
+  author    = {Pietro Caputo and
+               Fabio Martinelli and
+               Alistair Sinclair and
+               Alexandre Stauffer},
+  title     = {Random lattice triangulations: structure and algorithms},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {615-624},
+}
+
+@inproceedings{DBLP:conf/stoc/SinclairS13,
+  author    = {Alistair Sinclair and
+               Piyush Srivastava},
+  title     = {{Lee-Yang} theorems and the complexity of computing averages},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {625-634},
+}
+
+@inproceedings{DBLP:conf/stoc/CaiGW13,
+  author    = {Jin-Yi Cai and
+               Heng Guo and
+               Tyson Williams},
+  title     = {A complete dichotomy rises from the capture of vanishing signatures: extended abstract},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {635-644},
+}
+
+@inproceedings{DBLP:conf/stoc/ElkinS13,
+  author    = {Michael Elkin and
+               Shay Solomon},
+  title     = {Optimal euclidean spanners: really short, thin and lanky},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {645-654},
+}
+
+@inproceedings{DBLP:conf/stoc/FeldmanGRVX13,
+  author    = {Vitaly Feldman and
+               Elena Grigorescu and
+               Lev Reyzin and
+               Santosh Vempala and
+               Ying Xiao},
+  title     = {Statistical algorithms and a lower bound for detecting planted cliques},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {655-664},
+}
+
+@inproceedings{DBLP:conf/stoc/JainNS13,
+  author    = {Prateek Jain and
+               Praneeth Netrapalli and
+               Sujay Sanghavi},
+  title     = {Low-rank matrix completion using alternating minimization},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {665-674},
+}
+
+@inproceedings{DBLP:conf/stoc/AlonLSV13,
+  author    = {Noga Alon and
+               Troy Lee and
+               Adi Shraibman and
+               Santosh Vempala},
+  title     = {The approximate rank of a matrix and its algorithmic applications: approximate rank},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {675-684},
+}
+
+@inproceedings{DBLP:conf/stoc/HarrisS13,
+  author    = {David G. Harris and
+               Aravind Srinivasan},
+  title     = {Constraint satisfaction, packet routing, and the lovasz local lemma},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {685-694},
+}
+
+@inproceedings{DBLP:conf/stoc/ThapperZ13,
+  author    = {Johan Thapper and
+               Stanislav Zivny},
+  title     = {The complexity of finite-valued {CSPs}},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {695-704},
+}
+
+@inproceedings{DBLP:conf/stoc/Coja-OghlanP13,
+  author    = {Amin Coja-Oghlan and
+               Konstantinos Panagiotou},
+  title     = {Going after the {k-SAT} threshold},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {705-714},
+}
+
+@inproceedings{DBLP:conf/stoc/KolR13,
+  author    = {Gillat Kol and
+               Ran Raz},
+  title     = {Interactive channel capacity},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {715-724},
+}
+
+@inproceedings{DBLP:conf/stoc/Bernstein13,
+  author    = {Aaron Bernstein},
+  title     = {Maintaining shortest paths under deletions in weighted directed graphs: [extended abstract]},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {725-734},
+}
+
+@inproceedings{DBLP:conf/stoc/EisenstatK13,
+  author    = {David Eisenstat and
+               Philip N. Klein},
+  title     = {Linear-time algorithms for max flow and multiple-source shortest paths in unit-weight planar graphs},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {735-744},
+}
+
+@inproceedings{DBLP:conf/stoc/NeimanS13,
+  author    = {Ofer Neiman and
+               Shay Solomon},
+  title     = {Simple deterministic algorithms for fully dynamic maximal matching},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {745-754},
+}
+
+@inproceedings{DBLP:conf/stoc/LeeRS13,
+  author    = {Yin Tat Lee and
+               Satish Rao and
+               Nikhil Srivastava},
+  title     = {A new approach to computing maximum flows using electrical flows},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {755-764},
+}
+
+@inproceedings{DBLP:conf/stoc/Orlin13,
+  author    = {James B. Orlin},
+  title     = {Max flows in O(nm) time, or better},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {765-774},
+}
+
+@inproceedings{DBLP:conf/stoc/BringmannL13,
+  author    = {Karl Bringmann and
+               Kasper Green Larsen},
+  title     = {Succinct sampling from discrete distributions},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {775-782},
+}
+
+@inproceedings{DBLP:conf/stoc/Li13,
+  author    = {Xin Li},
+  title     = {New independent source extractors with exponential improvement},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {783-792},
+}
+
+@inproceedings{DBLP:conf/stoc/RothblumVW13,
+  author    = {Guy N. Rothblum and
+               Salil P. Vadhan and
+               Avi Wigderson},
+  title     = {Interactive proofs of proximity: delegating computation in sublinear time},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {793-802},
+}
+
+@inproceedings{DBLP:conf/stoc/Ajtai13,
+  author    = {Miklós Ajtai},
+  title     = {Lower bounds for {RAMs} and quantifier elimination},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {803-812},
+}
+
+@inproceedings{DBLP:conf/stoc/BeckNT13,
+  author    = {Chris Beck and
+               Jakob Nordström and
+               Bangsheng Tang},
+  title     = {Some trade-off results for polynomial calculus: extended abstract},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {813-822},
+}
+
+@inproceedings{DBLP:conf/stoc/BhowmickDL13,
+  author    = {Abhishek Bhowmick and
+               Zeev Dvir and
+               Shachar Lovett},
+  title     = {New bounds for matching vector families},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {823-832},
+}
+
+@inproceedings{DBLP:conf/stoc/Ben-SassonGKKS13,
+  author    = {Eli Ben-Sasson and
+               Ariel Gabizon and
+               Yohay Kaplan and
+               Swastik Kopparty and
+               Shubhangi Saraf},
+  title     = {A new family of locally correctable codes based on degree-lifted algebraic geometry codes},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {833-842},
+}
+
+@inproceedings{DBLP:conf/stoc/GuruswamiX13,
+  author    = {Venkatesan Guruswami and
+               Chaoping Xing},
+  title     = {List decoding reed-solomon, algebraic-geometric, and gabidulin subcodes up to the singleton bound},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {843-852},
+}
+
+@inproceedings{DBLP:conf/stoc/Wootters13,
+  author    = {Mary Wootters},
+  title     = {On the list decodability of random linear codes with large error rates},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {853-860},
+}
+
+@inproceedings{DBLP:conf/stoc/BrandaoH13,
+  author    = {Fernando G. S. L. Brandão and
+               Aram Wettroth Harrow},
+  title     = {Quantum de finetti theorems under local measurements with applications},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {861-870},
+}
+
+@inproceedings{DBLP:conf/stoc/BrandaoH13a,
+  author    = {Fernando G. S. L. Brandão and
+               Aram Wettroth Harrow},
+  title     = {Product-state approximations to quantum ground states},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {871-880},
+}
+
+@inproceedings{DBLP:conf/stoc/Ta-Shma13,
+  author    = {Amnon Ta-Shma},
+  title     = {Inverting well conditioned matrices in quantum logspace},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {881-890},
+}
+
+@inproceedings{DBLP:conf/stoc/Ambainis13,
+  author    = {Andris Ambainis},
+  title     = {Superlinear advantage for exact quantum algorithms},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {891-900},
+}
+
+@inproceedings{DBLP:conf/stoc/LiS13,
+  author    = {Shi Li and
+               Ola Svensson},
+  title     = {Approximating k-median via pseudo-approximation},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {901-910},
+}
+
+@inproceedings{DBLP:conf/stoc/KelnerOSZ13,
+  author    = {Jonathan A. Kelner and
+               Lorenzo Orecchia and
+               Aaron Sidford and
+               Zeyuan Allen Zhu},
+  title     = {A simple, combinatorial algorithm for solving {SDD} systems in nearly-linear time},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {911-920},
+}
+
+@inproceedings{DBLP:conf/stoc/Sherstov13,
+  author    = {Alexander A. Sherstov},
+  title     = {Communication lower bounds using directional derivatives},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {921-930},
+}
+
+@inproceedings{DBLP:conf/stoc/AndoniGMP13,
+  author    = {Alexandr Andoni and
+               Assaf Goldberger and
+               Andrew McGregor and
+               Ely Porat},
+  title     = {Homomorphic fingerprints under misalignments: sketching edit and shift distances},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {931-940},
+}
+
+@inproceedings{DBLP:conf/stoc/ChonevOW13,
+  author    = {Ventsislav Chonev and
+               Joël Ouaknine and
+               James Worrell},
+  title     = {The orbit problem in higher dimensions},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {941-950},
+}
+
+@inproceedings{DBLP:conf/stoc/AzarCG13,
+  author    = {Yossi Azar and
+               Ilan Reuven Cohen and
+               Iftah Gamzu},
+  title     = {The loss of serving in the dark},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {951-960},
+}
+
+@inproceedings{DBLP:conf/stoc/AzarCKS13,
+  author    = {Yossi Azar and
+               Ilan Reuven Cohen and
+               Seny Kamara and
+               F. Bruce Shepherd},
+  title     = {Tight bounds for online vector bin packing},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {961-970},
+}
+
+@inproceedings{DBLP:conf/stoc/LiY13,
+  author    = {Jian Li and
+               Wen Yuan},
+  title     = {Stochastic combinatorial optimization via poisson approximation},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {971-980},
+}
+
+@inproceedings{DBLP:conf/stoc/Miller13,
+  author    = {Gary L. Miller},
+  title     = {Solving large optimization problems using spectral graph theory},
+  booktitle = stoc,
+  year      = 2013,
+  pages     = {981},
+}
+
 @inproceedings{DBLP:conf/stoc/KelnerMP12,
   author    = {Jonathan A. Kelner and
                Gary L. Miller and
@@ -500,7 +6363,7 @@
 
 @inproceedings{DBLP:conf/stoc/GoyalK12,
   author    = {Sanjeev Goyal and
-               Michael Kearns},
+               Michael J. Kearns},
   title     = {Competitive contagion in networks},
   booktitle = stoc,
   year      = 2012,
@@ -676,7 +6539,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/AbernethyFW12,
-  author    = {Jacob Abernethy and
+  author    = {Jacob D. Abernethy and
                Rafael M. Frongillo and
                Andre Wibisono},
   title     = {Minimax option pricing meets black-scholes in the limit},
@@ -787,7 +6650,7 @@
 @inproceedings{DBLP:conf/stoc/BulanekKS12,
   author    = {Jan Bulánek and
                Michal Koucký and
-               Michael Saks},
+               Michael E. Saks},
   title     = {Tight lower bounds for the online labeling problem},
   booktitle = stoc,
   year      = 2012,
@@ -1613,7 +7476,7 @@
 
 @inproceedings{DBLP:conf/stoc/FawziHS11,
   author    = {Omar Fawzi and
-               Patrick Hayden and
+               Patrick M. Hayden and
                Pranab Sen},
   title     = {From low-distortion norm embeddings to explicit uncertainty relations and efficient information locking},
   booktitle = stoc,
@@ -1652,7 +7515,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Smith11,
-  author    = {Adam Smith},
+  author    = {Adam D. Smith},
   title     = {Privacy-preserving statistical estimation with optimal convergence rates},
   booktitle = stoc,
   year      = 2011,
@@ -2169,7 +8032,7 @@
 @inproceedings{DBLP:conf/stoc/DiakonikolasHKMRST10,
   author    = {Ilias Diakonikolas and
                Prahladh Harsha and
-               Adam Klivans and
+               Adam R. Klivans and
                Raghu Meka and
                Prasad Raghavendra and
                Rocco A. Servedio and
@@ -2182,7 +8045,7 @@
 
 @inproceedings{DBLP:conf/stoc/HarshaKM10,
   author    = {Prahladh Harsha and
-               Adam Klivans and
+               Adam R. Klivans and
                Raghu Meka},
   title     = {An invariance principle for polytopes},
   booktitle = stoc,
@@ -2277,7 +8140,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Varadarajan10,
-  author    = {Kasturi Varadarajan},
+  author    = {Kasturi R. Varadarajan},
   title     = {Weighted geometric set cover via quasi-uniform sampling},
   booktitle = stoc,
   year      = 2010,
@@ -2406,7 +8269,7 @@
 @inproceedings{DBLP:conf/stoc/KasiviswanathanRSU10,
   author    = {Shiva Prasad Kasiviswanathan and
                Mark Rudelson and
-               Adam Smith and
+               Adam D. Smith and
                Jonathan Ullman},
   title     = {The price of privately releasing contingency tables and the spectra of random matrices with correlated rows},
   booktitle = stoc,
@@ -2537,7 +8400,7 @@
   author    = {Jean Cardinal and
                Samuel Fiorini and
                Gwenaël Joret and
-               Raphael M. Jungers and
+               Raphaël M. Jungers and
                J. Ian Munro},
   title     = {An efficient algorithm for partial order production},
   booktitle = stoc,
@@ -2674,7 +8537,7 @@
   author    = {Yuichi Yoshida and
                Masaki Yamamoto and
                Hiro Ito},
-  title     = {An improved constant-time approximation algorithm for maximum~matchings},
+  title     = {An improved constant-time approximation algorithm for maximum matchings},
   booktitle = stoc,
   year      = 2009,
   pages     = {225-234},
@@ -4048,7 +9911,7 @@
 @inproceedings{DBLP:conf/stoc/NissimRS07,
   author    = {Kobbi Nissim and
                Sofya Raskhodnikova and
-               Adam Smith},
+               Adam D. Smith},
   title     = {Smooth sensitivity and sampling in private data analysis},
   booktitle = stoc,
   year      = 2007,
@@ -5174,7 +11037,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/DeMarzoKM06,
-  author    = {Peter DeMarzo and
+  author    = {Peter M. DeMarzo and
                Ilan Kremer and
                Yishay Mansour},
   title     = {Online trading algorithms and robust option pricing},
@@ -6137,7 +12000,7 @@
 
 @inproceedings{DBLP:conf/stoc/DodisS05,
   author    = {Yevgeniy Dodis and
-               Adam Smith},
+               Adam D. Smith},
   title     = {Correcting errors without leaking partial information},
   booktitle = stoc,
   year      = 2005,
@@ -7001,7 +12864,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Ya03,
-  author    = {Andrew Chi-Chih Ya},
+  author    = {Andrew Chi-Chih Yao},
   title     = {On the power of quantum fingerprinting},
   booktitle = stoc,
   year      = 2003,
@@ -8360,7 +14223,7 @@
 @inproceedings{DBLP:conf/stoc/CrepeauGS02,
   author    = {Claude Crépeau and
                Daniel Gottesman and
-               Adam Smith},
+               Adam D. Smith},
   title     = {Secure multi-party quantum computation},
   booktitle = stoc,
   year      = 2002,
@@ -8499,7 +14362,7 @@
 
 @inproceedings{DBLP:conf/stoc/JacksonKS02,
   author    = {Jeffrey C. Jackson and
-               Adam Klivans and
+               Adam R. Klivans and
                Rocco A. Servedio},
   title     = {Learnability beyond AC0},
   booktitle = stoc,
@@ -8759,7 +14622,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Shparlinski01,
-  author    = {Igor Shparlinski},
+  author    = {Igor E. Shparlinski},
   title     = {Sparse polynomial approximation in finite fields},
   booktitle = stoc,
   year      = 2001,
@@ -8767,7 +14630,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KlivansS01,
-  author    = {Adam Klivans and
+  author    = {Adam R. Klivans and
                Daniel A. Spielman},
   title     = {Randomness efficient identity testing of multivariate polynomials},
   booktitle = stoc,
@@ -8818,7 +14681,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KlivansS01a,
-  author    = {Adam Klivans and
+  author    = {Adam R. Klivans and
                Rocco A. Servedio},
   title     = {Learning {DNF} in time 2Õ(n1/3)},
   booktitle = stoc,
@@ -9235,7 +15098,7 @@
 
 @inproceedings{DBLP:conf/stoc/WangW01,
   author    = {Li-San Wang and
-               Tandy Warnow},
+               Tandy J. Warnow},
   title     = {Estimating true evolutionary distances between genomes},
   booktitle = stoc,
   year      = 2001,
@@ -9523,7 +15386,7 @@
 
 @inproceedings{DBLP:conf/stoc/Kleinberg00,
   author    = {Jon M. Kleinberg},
-  title     = {The small-world phenomenon: an algorithm perspective},
+  title     = {The small-world phenomenon: an algorithmic perspective},
   booktitle = stoc,
   year      = 2000,
   pages     = {163-170},
@@ -9622,7 +15485,7 @@
   author    = {Giovanni Di Crescenzo and
                Kouichi Sakurai and
                Moti Yung},
-  title     = {On zero-knowledge proofs : ``from membership to decision''},
+  title     = {On zero-knowledge proofs : "from membership to decision"},
   booktitle = stoc,
   year      = 2000,
   pages     = {255-264},
@@ -9877,7 +15740,7 @@
                Ronitt Rubinfeld and
                Madhu Sudan and
                Andrew Tomkins},
-  title     = {Random walks with ``back buttons''},
+  title     = {Random walks with "back buttons"},
   booktitle = stoc,
   year      = 2000,
   pages     = {484-493},
@@ -10009,7 +15872,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KitaevW00,
-  author    = {Alexei Kitaev and
+  author    = {Alexei Y. Kitaev and
                John Watrous},
   title     = {Parallelization, amplification, and exponential time simulation of quantum interactive proof systems},
   booktitle = stoc,
@@ -10850,7 +16713,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/KlivansM99,
-  author    = {Adam Klivans and
+  author    = {Adam R. Klivans and
                Dieter van Melkebeek},
   title     = {Graph Nonisomorphism has Subexponential Size Proofs Unless the {Polynomial-Time} Hierarchy Collapses},
   booktitle = stoc,
@@ -11000,7 +16863,7 @@
 
 @inproceedings{DBLP:conf/stoc/AharonovKN98,
   author    = {Dorit Aharonov and
-               Alexei Kitaev and
+               Alexei Y. Kitaev and
                Noam Nisan},
   title     = {Quantum Circuits with Mixed States},
   booktitle = stoc,
@@ -12428,7 +18291,7 @@
 
 @inproceedings{DBLP:conf/stoc/ChungY97,
   author    = {Fan R. K. Chung and
-               S.-T. Yau},
+               Shing-Tung Yau},
   title     = {Eigenvalues, Flows and Separators of Graphs},
   booktitle = stoc,
   year      = 1997,
@@ -12589,7 +18452,7 @@
   author    = {Nicolò Cesa-Bianchi and
                Eli Dichterman and
                Paul Fischer and
-               Hans-Ulrich Simon},
+               Hans Ulrich Simon},
   title     = {{Noise-Tolerant} Learning Near the {Information-Theoretic} Bound},
   booktitle = stoc,
   year      = 1996,
@@ -12676,7 +18539,7 @@
 @inproceedings{DBLP:conf/stoc/BonetPWY96,
   author    = {Maria Luisa Bonet and
                Cynthia A. Phillips and
-               Tandy Warnow and
+               Tandy J. Warnow and
                Shibu Yooseph},
   title     = {Constructing Evolutionary Trees in the Presence of Polymorphic Characters},
   booktitle = stoc,
@@ -13302,7 +19165,7 @@
 @inproceedings{DBLP:conf/stoc/HellersteinPRW95,
   author    = {Lisa Hellerstein and
                Krishnan Pillaipakkamnatt and
-               Vijay V. Raghavan and
+               Vijay Raghavan and
                Dawn Wilkins},
   title     = {How many queries are needed to learn?},
   booktitle = stoc,
@@ -13876,7 +19739,7 @@
 
 @inproceedings{DBLP:conf/stoc/ChungY94,
   author    = {Fan R. K. Chung and
-               S.-T. Yau},
+               Shing-Tung Yau},
   title     = {A near optimal algorithm for edge separators},
   booktitle = stoc,
   year      = 1994,
@@ -14765,7 +20628,7 @@
 @inproceedings{DBLP:conf/stoc/FarachKW93,
   author    = {Martin Farach and
                Sampath Kannan and
-               Tandy Warnow},
+               Tandy J. Warnow},
   title     = {A robust model for finding optimal evolutionary trees},
   booktitle = stoc,
   year      = 1993,
@@ -15042,7 +20905,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/PhillipsW93,
-  author    = {Steven Phillips and
+  author    = {Steven J. Phillips and
                Jeffery Westbrook},
   title     = {Online load balancing and network flow},
   booktitle = stoc,
@@ -15290,7 +21153,7 @@
 @inproceedings{DBLP:conf/stoc/FeldmannKST93,
   author    = {Anja Feldmann and
                Ming-Yang Kao and
-               Jiri Sgall and
+               Jirí Sgall and
                Shang-Hua Teng},
   title     = {Optimal online scheduling of parallel jobs with dependencies},
   booktitle = stoc,
@@ -15451,7 +21314,7 @@
 @inproceedings{DBLP:conf/stoc/GathenKS93,
   author    = {Joachim von zur Gathen and
                Marek Karpinski and
-               Igor Shparlinski},
+               Igor E. Shparlinski},
   title     = {Counting curves and their projections},
   booktitle = stoc,
   year      = 1993,
@@ -15463,7 +21326,7 @@
                Andrei Z. Broder and
                Anna R. Karlin and
                Nathan Linial and
-               Steven Phillips},
+               Steven J. Phillips},
   title     = {Biased Random Walks},
   booktitle = stoc,
   year      = 1992,
@@ -16066,7 +21929,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BrightwellOW92,
-  author    = {Graham Brightwell and
+  author    = {Graham R. Brightwell and
                Teunis J. Ott and
                Peter Winkler},
   title     = {Target Shooting with Programmed Random Variables},
@@ -16212,7 +22075,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BuchmannS91,
-  author    = {Johannes Buchmann and
+  author    = {Johannes A. Buchmann and
                Victor Shoup},
   title     = {Constructing Nonresidues in Finite Fields and the Extended Riemann Hypothesis},
   booktitle = stoc,
@@ -16309,9 +22172,9 @@
 }
 
 @inproceedings{DBLP:conf/stoc/BrightwellW91,
-  author    = {Graham Brightwell and
+  author    = {Graham R. Brightwell and
                Peter Winkler},
-  title     = {Counting Linear Extensions is \#{P-Complete}},
+  title     = {Counting Linear Extensions is #{P-Complete}},
   booktitle = stoc,
   year      = 1991,
   pages     = {175-181},
@@ -16336,7 +22199,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Shapiro91,
-  author    = {Ehud Y. Shapiro},
+  author    = {Ehud Shapiro},
   title     = {Separating Concurrent Languages with Categories of Language Embeddings},
   booktitle = stoc,
   year      = 1991,
@@ -20086,7 +25949,7 @@
 
 @inproceedings{DBLP:conf/stoc/Levin84,
   author    = {Leonid A. Levin},
-  title     = {Problems, Complete in ``Average'' Instance},
+  title     = {Problems, Complete in "Average" Instance},
   booktitle = stoc,
   year      = 1984,
   pages     = {465},
@@ -20650,7 +26513,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Spinrad83,
-  author    = {Jeremy Spinrad},
+  author    = {Jeremy P. Spinrad},
   title     = {Transitive Orientation in O(n²) Time},
   booktitle = stoc,
   year      = 1983,
@@ -23802,7 +29665,7 @@
 
 @inproceedings{DBLP:conf/stoc/WeinerSB73,
   author    = {Peter Weiner and
-               S. L. Savage and
+               Sam L. Savage and
                A. Bagchi},
   title     = {Neighborhood Search Algorithms for Finding Optimal Traveling Salesman Tours Must Be Inefficient},
   booktitle = stoc,
@@ -24255,7 +30118,7 @@
 }
 
 @inproceedings{DBLP:conf/stoc/Terrine71,
-  author    = {Gérrine Terrine},
+  author    = {Gérard Terrine},
   title     = {An Algorithm Generating the Decision Table of a Deterministic Bottom Up Parser for a Subset of Context Free Grammars},
   booktitle = stoc,
   year      = 1971,

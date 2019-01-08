@@ -1,5 +1,3320 @@
 @include journals-cs
 
+@article{DBLP:journals/ccr/Bonaventure18a,
+  author    = {Olivier Bonaventure},
+  title     = {The April 2018 issue},
+  journal   = ccr,
+  volume    = {48},
+  number    = {2},
+  year      = 2018,
+  pages     = {1},
+}
+
+@article{DBLP:journals/ccr/Bonaventure18,
+  author    = {Olivier Bonaventure},
+  title     = {The January 2018 issue},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {1-2},
+}
+
+@article{DBLP:journals/ccr/BanoRJSDMMP18,
+  author    = {Shehar Bano and
+               Philipp Richter and
+               Mobin Javed and
+               Srikanth Sundaresan and
+               Zakir Durumeric and
+               Steven J. Murdoch and
+               Richard Mortier and
+               Vern Paxson},
+  title     = {Scanning the Internet for Liveness},
+  journal   = ccr,
+  volume    = {48},
+  number    = {2},
+  year      = 2018,
+  pages     = {2-9},
+}
+
+@article{DBLP:journals/ccr/ZhouAYY18,
+  author    = {Yang Zhou and
+               Omid Alipourfard and
+               Minlan Yu and
+               Tong Yang},
+  title     = {Accelerating network measurement in software},
+  journal   = ccr,
+  volume    = {48},
+  number    = {3},
+  year      = 2018,
+  pages     = {2-12},
+}
+
+@article{DBLP:journals/ccr/CasconeBPC18,
+  author    = {Carmelo Cascone and
+               Roberto Bifulco and
+               Salvatore Pontarelli and
+               Antonio Capone},
+  title     = {Relaxing state-access constraints in stateful programmable data planes},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {3-9},
+}
+
+@article{DBLP:journals/ccr/CicaleseR18,
+  author    = {Danilo Cicalese and
+               Dario Rossi},
+  title     = {A longitudinal study of {IP} Anycast},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {10-18},
+}
+
+@article{DBLP:journals/ccr/ScheitleCHGNRHH18,
+  author    = {Quirin Scheitle and
+               Taejoong Chung and
+               Jens Hiller and
+               Oliver Gasser and
+               Johannes Naab and
+               Roland van Rijswijk-Deij and
+               Oliver Hohlfeld and
+               Ralph Holz and
+               David R. Choffnes and
+               Alan Mislove and
+               Georg Carle},
+  title     = {A First Look at Certification Authority Authorization (CAA)},
+  journal   = ccr,
+  volume    = {48},
+  number    = {2},
+  year      = 2018,
+  pages     = {10-23},
+}
+
+@article{DBLP:journals/ccr/BottgerCU18,
+  author    = {Timm Böttger and
+               Félix Cuadrado and
+               Steve Uhlig},
+  title     = {Looking for hypergiants in {peeringDB}},
+  journal   = ccr,
+  volume    = {48},
+  number    = {3},
+  year      = 2018,
+  pages     = {13-19},
+}
+
+@article{DBLP:journals/ccr/ReuterBCKSW18,
+  author    = {Andreas Reuter and
+               Randy Bush and
+               Ítalo S. Cunha and
+               Ethan Katz-Bassett and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {Towards a Rigorous Methodology for Measuring Adoption of {RPKI} Route Validation and Filtering},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {19-27},
+}
+
+@article{DBLP:journals/ccr/Al-DalkyRA18,
+  author    = {Rami Al-Dalky and
+               Michael Rabinovich and
+               Mark Allman},
+  title     = {Practical challenge-response for {DNS}},
+  journal   = ccr,
+  volume    = {48},
+  number    = {3},
+  year      = 2018,
+  pages     = {20-28},
+}
+
+@article{DBLP:journals/ccr/Dogar18,
+  author    = {Fahad R. Dogar},
+  title     = {Towards {Slack-Aware} Networking},
+  journal   = ccr,
+  volume    = {48},
+  number    = {2},
+  year      = 2018,
+  pages     = {24-30},
+}
+
+@article{DBLP:journals/ccr/BottgerCTCU18,
+  author    = {Timm Böttger and
+               Félix Cuadrado and
+               Gareth Tyson and
+               Ignacio Castro and
+               Steve Uhlig},
+  title     = {Open Connect Everywhere: A Glimpse at the Internet Ecosystem through the Lens of the Netflix {CDN}},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {28-34},
+}
+
+@article{DBLP:journals/ccr/NikaeinCA18,
+  author    = {Navid Nikaein and
+               Chia-Yu Chang and
+               Konstantinos Alexandris},
+  title     = {Mosaic5G: agile and flexible service platforms for 5G research},
+  journal   = ccr,
+  volume    = {48},
+  number    = {3},
+  year      = 2018,
+  pages     = {29-34},
+}
+
+@article{DBLP:journals/ccr/CavalcantiSSGC18,
+  author    = {Elmano Ramalho Cavalcanti and
+               Jose Anderson Rodrigues de Souza and
+               Marco Aurélio Spohn and
+               Reinaldo Cezar M. Gomes and
+               Anderson F. B. F. da Costa},
+  title     = {VANETs' research over the past decade: overview, credibility, and trends},
+  journal   = ccr,
+  volume    = {48},
+  number    = {2},
+  year      = 2018,
+  pages     = {31-39},
+}
+
+@article{DBLP:journals/ccr/FoersterPST18,
+  author    = {Klaus-Tycho Foerster and
+               Yvonne Anne Pignolet and
+               Stefan Schmid and
+               Gilles Trédan},
+  title     = {Local Fast Failover Routing With Low Stretch},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {35-41},
+}
+
+@article{DBLP:journals/ccr/ZhangLZAZ18,
+  author    = {Haitao Zhang and
+               Yanbiao Li and
+               Zhiyi Zhang and
+               Alexander Afanasyev and
+               Lixia Zhang},
+  title     = {{NDN} host model},
+  journal   = ccr,
+  volume    = {48},
+  number    = {3},
+  year      = 2018,
+  pages     = {35-41},
+}
+
+@article{DBLP:journals/ccr/BrezaTM18,
+  author    = {Michael J. Breza and
+               Ivana Tomic and
+               Julie A. McCann},
+  title     = {Failures from the Environment, a Report on the First {FAILSAFE} workshop},
+  journal   = ccr,
+  volume    = {48},
+  number    = {2},
+  year      = 2018,
+  pages     = {40-45},
+}
+
+@article{DBLP:journals/ccr/claffyHC18,
+  author    = {kc claffy and
+               Geoff Huston and
+               David D. Clark},
+  title     = {Workshop on internet economics (WIE2017) final report},
+  journal   = ccr,
+  volume    = {48},
+  number    = {3},
+  year      = 2018,
+  pages     = {42-45},
+}
+
+@article{DBLP:journals/ccr/AmiriFJS18,
+  author    = {Saeed Akhoondian Amiri and
+               Klaus-Tycho Foerster and
+               Riko Jacob and
+               Stefan Schmid},
+  title     = {Charting the Algorithmic Complexity of Waypoint Routing},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {42-48},
+}
+
+@article{DBLP:journals/ccr/BaldinW18,
+  author    = {Ilya Baldin and
+               Tilman Wolf},
+  title     = {The Future of {CISE} Distributed Research Infrastructure},
+  journal   = ccr,
+  volume    = {48},
+  number    = {2},
+  year      = 2018,
+  pages     = {46-51},
+}
+
+@article{DBLP:journals/ccr/ArashlooSGLYR18,
+  author    = {Mina Tahmasbi Arashloo and
+               Pavel Shirshov and
+               Rohan Gandhi and
+               Guohan Lu and
+               Lihua Yuan and
+               Jennifer Rexford},
+  title     = {A Scalable {VPN} Gateway for {Multi-Tenant} Cloud Services},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {49-55},
+}
+
+@article{DBLP:journals/ccr/Ammar18,
+  author    = {Mostafa H. Ammar},
+  title     = {ex uno pluria: The {Service-Infrastructure} Cycle, Ossification, and the Fragmentation of the Internet},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {56-63},
+}
+
+@article{DBLP:journals/ccr/SermpezisKDD18,
+  author    = {Pavlos Sermpezis and
+               Vasileios Kotronis and
+               Alberto Dainotti and
+               Xenofontas A. Dimitropoulos},
+  title     = {A Survey among Network Operators on {BGP} Prefix Hijacking},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {64-69},
+}
+
+@article{DBLP:journals/ccr/SaucezI18,
+  author    = {Damien Saucez and
+               Luigi Iannone},
+  title     = {Thoughts and Recommendations from the {ACM} {SIGCOMM} 2017 Reproducibility Workshop},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {70-74},
+}
+
+@article{DBLP:journals/ccr/FlittnerMSWIBA18,
+  author    = {Matthias Flittner and
+               Mohamed Naoufal Mahfoudi and
+               Damien Saucez and
+               Matthias Wählisch and
+               Luigi Iannone and
+               Vaibhav Bajpai and
+               Alexander Afanasyev},
+  title     = {A Survey on Artifacts from CoNEXT, ICN, IMC, and {SIGCOMM} Conferences in 2017},
+  journal   = ccr,
+  volume    = {48},
+  number    = {1},
+  year      = 2018,
+  pages     = {75-80},
+}
+
+@article{DBLP:journals/ccr/Bonaventure17a,
+  author    = {Olivier Bonaventure},
+  title     = {The April 2017 Issue},
+  journal   = ccr,
+  volume    = {47},
+  number    = {2},
+  year      = 2017,
+  pages     = {1},
+}
+
+@article{DBLP:journals/ccr/Bonaventure17b,
+  author    = {Olivier Bonaventure},
+  title     = {The July 2017 issue},
+  journal   = ccr,
+  volume    = {47},
+  number    = {3},
+  year      = 2017,
+  pages     = {1},
+}
+
+@article{DBLP:journals/ccr/Bonaventure17c,
+  author    = {Olivier Bonaventure},
+  title     = {The October 2017 Issue},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {1},
+}
+
+@article{DBLP:journals/ccr/Bonaventure17,
+  author    = {Olivier Bonaventure},
+  title     = {The January 2017 issue},
+  journal   = ccr,
+  volume    = {47},
+  number    = {1},
+  year      = 2017,
+  pages     = {1-3},
+}
+
+@article{DBLP:journals/ccr/MestresRCBASMMB17,
+  author    = {Albert Mestres and
+               Alberto Rodríguez-Natal and
+               Josep Carner and
+               Pere Barlet-Ros and
+               Eduard Alarcón and
+               Marc Solé and
+               Victor Muntés-Mulero and
+               David Meyer and
+               Sharon Barkai and
+               Mike J. Hibbett and
+               Giovani Estrada and
+               Khaldun Maruf and
+               Florin Coras and
+               Vina Ermagan and
+               Hugo Latapie and
+               Chris Cassar and
+               John Evans and
+               Fabio Maino and
+               Jean C. Walrand and
+               Albert Cabellos},
+  title     = {{Knowledge-Defined} Networking},
+  journal   = ccr,
+  volume    = {47},
+  number    = {3},
+  year      = 2017,
+  pages     = {2-10},
+}
+
+@article{DBLP:journals/ccr/BajpaiASO17,
+  author    = {Vaibhav Bajpai and
+               Saba Ahsan and
+               Jürgen Schönwälder and
+               Jörg Ott},
+  title     = {Measuring {YouTube} Content Delivery over IPv6},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {2-11},
+}
+
+@article{DBLP:journals/ccr/AllmanBT17,
+  author    = {Mark Allman and
+               Robert Beverly and
+               Brian Trammell},
+  title     = {Principles for Measurability in Protocol Design},
+  journal   = ccr,
+  volume    = {47},
+  number    = {2},
+  year      = 2017,
+  pages     = {2-12},
+}
+
+@article{DBLP:journals/ccr/PoschRH17,
+  author    = {Daniel Posch and
+               Benjamin Rainer and
+               Hermann Hellwagner},
+  title     = {Towards a {Context-Aware} Forwarding Plane in Named Data Networking supporting {QoS}},
+  journal   = ccr,
+  volume    = {47},
+  number    = {1},
+  year      = 2017,
+  pages     = {4-14},
+}
+
+@article{DBLP:journals/ccr/VoitalovAWK17,
+  author    = {Ivan Voitalov and
+               Rodrigo Aldecoa and
+               Lan Wang and
+               Dmitri V. Krioukov},
+  title     = {Geohyperbolic Routing and Addressing Schemes},
+  journal   = ccr,
+  volume    = {47},
+  number    = {3},
+  year      = 2017,
+  pages     = {11-18},
+}
+
+@article{DBLP:journals/ccr/SenAPFQCG17,
+  author    = {Rijurekha Sen and
+               Sohaib Ahmad and
+               Amreesh Phokeer and
+               Zaid Ahmed Farooq and
+               Ihsan Ayyub Qazi and
+               David R. Choffnes and
+               Krishna P. Gummadi},
+  title     = {Inside the Walled Garden: Deconstructing Facebook's Free Basics Program},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {12-24},
+}
+
+@article{DBLP:journals/ccr/DurairajanB17,
+  author    = {Ramakrishnan Durairajan and
+               Paul Barford},
+  title     = {A {Techno-Economic} Approach for Broadband Deployment in Underserved Areas},
+  journal   = ccr,
+  volume    = {47},
+  number    = {2},
+  year      = 2017,
+  pages     = {13-18},
+}
+
+@article{DBLP:journals/ccr/DavieKPPCGPPDC17,
+  author    = {Bruce Davie and
+               Teemu Koponen and
+               Justin Pettit and
+               Ben Pfaff and
+               Martín Casado and
+               Natasha Gude and
+               Amar Padmanabhan and
+               Tim Petty and
+               Kenneth Duda and
+               Anupam Chanda},
+  title     = {A Database Approach to {SDN} Control Plane Design},
+  journal   = ccr,
+  volume    = {47},
+  number    = {1},
+  year      = 2017,
+  pages     = {15-26},
+}
+
+@article{DBLP:journals/ccr/YanM17,
+  author    = {Lisa Yan and
+               Nick McKeown},
+  title     = {Learning Networking by Reproducing Research Results},
+  journal   = ccr,
+  volume    = {47},
+  number    = {2},
+  year      = 2017,
+  pages     = {19-26},
+}
+
+@article{DBLP:journals/ccr/MastorakisAZ17,
+  author    = {Spyridon Mastorakis and
+               Alexander Afanasyev and
+               Lixia Zhang},
+  title     = {On the Evolution of ndnSIM: an {Open-Source} Simulator for {NDN} Experimentation},
+  journal   = ccr,
+  volume    = {47},
+  number    = {3},
+  year      = 2017,
+  pages     = {19-33},
+}
+
+@article{DBLP:journals/ccr/BajpaiES17,
+  author    = {Vaibhav Bajpai and
+               Steffie Jacob Eravuchira and
+               Jürgen Schönwälder},
+  title     = {Dissecting Last-mile Latency Characteristics},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {25-34},
+}
+
+@article{DBLP:journals/ccr/Choffnes17,
+  author    = {David R. Choffnes},
+  title     = {Summary of the {Works-in-Progress} Session at IMC'16},
+  journal   = ccr,
+  volume    = {47},
+  number    = {2},
+  year      = 2017,
+  pages     = {27-29},
+}
+
+@article{DBLP:journals/ccr/SargentKPA17,
+  author    = {Matthew Sargent and
+               John Kristoff and
+               Vern Paxson and
+               Mark Allman},
+  title     = {On the Potential Abuse of {IGMP}},
+  journal   = ccr,
+  volume    = {47},
+  number    = {1},
+  year      = 2017,
+  pages     = {27-35},
+}
+
+@article{DBLP:journals/ccr/Hossfeld17,
+  author    = {Tobias Hoßfeld},
+  title     = {2016 International Teletraffic Congress ({ITC} 28) Report},
+  journal   = ccr,
+  volume    = {47},
+  number    = {2},
+  year      = 2017,
+  pages     = {30-35},
+}
+
+@article{DBLP:journals/ccr/claffyC17,
+  author    = {kc claffy and
+               David D. Clark},
+  title     = {Workshop on Internet Economics (WIE2016) Final Report},
+  journal   = ccr,
+  volume    = {47},
+  number    = {3},
+  year      = 2017,
+  pages     = {34-39},
+}
+
+@article{DBLP:journals/ccr/claffyC17a,
+  author    = {kc claffy and
+               David D. Clark},
+  title     = {The 9th Workshop on Active Internet Measurements (AIMS-9) Report},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {35-38},
+}
+
+@article{DBLP:journals/ccr/HaoW17,
+  author    = {Shuai Hao and
+               Haining Wang},
+  title     = {Exploring Domain Name Based Features on the Effectiveness of {DNS} Caching},
+  journal   = ccr,
+  volume    = {47},
+  number    = {1},
+  year      = 2017,
+  pages     = {36-42},
+}
+
+@article{DBLP:journals/ccr/BjornerCS17,
+  author    = {Nikolaj Bjørner and
+               Marco Canini and
+               Nik Sultana},
+  title     = {Report on Networking and Programming Languages 2017},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {39-41},
+}
+
+@article{DBLP:journals/ccr/SchonwalderFP17,
+  author    = {Jürgen Schönwälder and
+               Timur Friedman and
+               Aiko Pras},
+  title     = {Using Networks to Teach About Networks (Report on Dagstuhl Seminar #17112)},
+  journal   = ccr,
+  volume    = {47},
+  number    = {3},
+  year      = 2017,
+  pages     = {40-44},
+}
+
+@article{DBLP:journals/ccr/GaoDA17,
+  author    = {Qingzhu Gao and
+               Prasenjit Dey and
+               Parvez Ahammad},
+  title     = {Perceived Performance of Top Retail Webpages In the Wild},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {42-47},
+}
+
+@article{DBLP:journals/ccr/HollickNPPS17,
+  author    = {Matthias Hollick and
+               Cristina Nita-Rotaru and
+               Panagiotis Papadimitratos and
+               Adrian Perrig and
+               Stefan Schmid},
+  title     = {Toward a Taxonomy and Attacker Model for Secure Routing Protocols},
+  journal   = ccr,
+  volume    = {47},
+  number    = {1},
+  year      = 2017,
+  pages     = {43-48},
+}
+
+@article{DBLP:journals/ccr/ShadiND17,
+  author    = {Kamal Shadi and
+               Preethi Natarajan and
+               Constantine Dovrolis},
+  title     = {Hierarchical {IP} flow clustering},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {48-53},
+}
+
+@article{DBLP:journals/ccr/NgaiOTUWW17,
+  author    = {Edith C. H. Ngai and
+               Börje Ohlman and
+               Gene Tsudik and
+               Ersin Uzun and
+               Matthias Wählisch and
+               Christopher A. Wood},
+  title     = {Can We Make a Cake and Eat it Too? A Discussion of {ICN} Security and Privacy},
+  journal   = ccr,
+  volume    = {47},
+  number    = {1},
+  year      = 2017,
+  pages     = {49-54},
+}
+
+@article{DBLP:journals/ccr/SheoranSFS17,
+  author    = {Amit Sheoran and
+               Puneet Sharma and
+               Sonia Fahmy and
+               Vinay Saxena},
+  title     = {Contain-ed: An {NFV} {Micro-Service} System for Containing e2e Latency},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {54-60},
+}
+
+@article{DBLP:journals/ccr/BustamanteCF17,
+  author    = {Fabian E. Bustamante and
+               David Clark and
+               Nick Feamster},
+  title     = {Workshop on Tracking Quality of Experience in the Internet: Summary and Outcomes},
+  journal   = ccr,
+  volume    = {47},
+  number    = {1},
+  year      = 2017,
+  pages     = {55-60},
+}
+
+@article{DBLP:journals/ccr/PrimoracBA17,
+  author    = {Mia Primorac and
+               Edouard Bugnion and
+               Katerina J. Argyraki},
+  title     = {How to Measure the Killer Microsecond},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {61-66},
+}
+
+@article{DBLP:journals/ccr/PanwarTMMM17,
+  author    = {Gaurav Panwar and
+               Reza Tourani and
+               Travis Mick and
+               Abderrahmen Mtibaa and
+               Satyajayant Misra},
+  title     = {DICE: Dynamic {Multi-RAT} Selection in the {ICN-enabled} Wireless Edge},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {67-72},
+}
+
+@article{DBLP:journals/ccr/RamanSSCS17,
+  author    = {Aravindh Raman and
+               Nishanth Sastry and
+               Arjuna Sathiaseelan and
+               Jigna Chandaria and
+               Andrew Secker},
+  title     = {Wi-Stitch: Content Delivery in Converged Edge Networks},
+  journal   = ccr,
+  volume    = {47},
+  number    = {5},
+  year      = 2017,
+  pages     = {73-78},
+}
+
+@article{DBLP:journals/ccr/McCauleyLPKRRS16,
+  author    = {James Murphy McCauley and
+               Zhi Liu and
+               Aurojit Panda and
+               Teemu Koponen and
+               Barath Raghavan and
+               Jennifer Rexford and
+               Scott Shenker},
+  title     = {Recursive {SDN} for Carrier Networks},
+  journal   = ccr,
+  volume    = {46},
+  number    = {4},
+  year      = 2016,
+  pages     = {1-7},
+}
+
+@article{DBLP:journals/ccr/GkounisKLD16,
+  author    = {Dimitrios Gkounis and
+               Vasileios Kotronis and
+               Christos Liaskos and
+               Xenofontas A. Dimitropoulos},
+  title     = {On the Interplay of {Link-Flooding} Attacks and Traffic Engineering},
+  journal   = ccr,
+  volume    = {46},
+  number    = {2},
+  year      = 2016,
+  pages     = {5-11},
+}
+
+@article{DBLP:journals/ccr/PandaMTSKRS16,
+  author    = {Aurojit Panda and
+               James Murphy McCauley and
+               Amin Tootoonchian and
+               Justine Sherry and
+               Teemu Koponen and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Open Network Interfaces for Carrier Networks},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {5-11},
+}
+
+@article{DBLP:journals/ccr/BocchiCR16,
+  author    = {Enrico Bocchi and
+               Luca De Cicco and
+               Dario Rossi},
+  title     = {Measuring the Quality of Experience of Web users},
+  journal   = ccr,
+  volume    = {46},
+  number    = {4},
+  year      = 2016,
+  pages     = {8-13},
+}
+
+@article{DBLP:journals/ccr/MalhotraG16,
+  author    = {Aanchal Malhotra and
+               Sharon Goldberg},
+  title     = {Attacking {NTP's} Authenticated Broadcast Mode},
+  journal   = ccr,
+  volume    = {46},
+  number    = {2},
+  year      = 2016,
+  pages     = {12-17},
+}
+
+@article{DBLP:journals/ccr/LeePL16,
+  author    = {Yeonhee Lee and
+               Heasook Park and
+               Youngseok Lee},
+  title     = {{IP} Geolocation with a Crowd-sourcing Broadband Performance Tool},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {12-20},
+}
+
+@article{DBLP:journals/ccr/MafiolettiLVDMR16,
+  author    = {Diego Rossi Mafioletti and
+               Alextian Bartholomeu Liberato and
+               Rodolfo da Silva Villaça and
+               Cristina Klippel Dominicini and
+               Magnos Martinello and
+               Moisés Renato Nunes Ribeiro},
+  title     = {Latency Measurement as a Virtualized Network Function using Metherxis},
+  journal   = ccr,
+  volume    = {46},
+  number    = {4},
+  year      = 2016,
+  pages     = {14-16},
+}
+
+@article{DBLP:journals/ccr/LauferGPN16,
+  author    = {Rafael P. Laufer and
+               Massimo Gallo and
+               Diego Perino and
+               Anandatirtha Nandugudi},
+  title     = {CliMB: Enabling Network Function Composition with Click Middleboxes},
+  journal   = ccr,
+  volume    = {46},
+  number    = {4},
+  year      = 2016,
+  pages     = {17-22},
+}
+
+@article{DBLP:journals/ccr/DangCPS16,
+  author    = {Huynh Tu Dang and
+               Marco Canini and
+               Fernando Pedone and
+               Robert Soulé},
+  title     = {Paxos Made Switch-y},
+  journal   = ccr,
+  volume    = {46},
+  number    = {2},
+  year      = 2016,
+  pages     = {18-24},
+}
+
+@article{DBLP:journals/ccr/KlotiAKND16,
+  author    = {Rowan Klöti and
+               Bernhard Ager and
+               Vasileios Kotronis and
+               George Nomikos and
+               Xenofontas A. Dimitropoulos},
+  title     = {A Comparative Look into Public {IXP} Datasets},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {21-29},
+}
+
+@article{DBLP:journals/ccr/claffy16a,
+  author    = {kc claffy},
+  title     = {The 8th Workshop on Active Internet Measurements (AIMS-8) Report},
+  journal   = ccr,
+  volume    = {46},
+  number    = {4},
+  year      = 2016,
+  pages     = {23-29},
+}
+
+@article{DBLP:journals/ccr/OrwatB16,
+  author    = {Carsten Orwat and
+               Roland Bless},
+  title     = {Values and Networks: Steps Toward Exploring their Relationships},
+  journal   = ccr,
+  volume    = {46},
+  number    = {2},
+  year      = 2016,
+  pages     = {25-31},
+}
+
+@article{DBLP:journals/ccr/QadirSWC16,
+  author    = {Junaid Qadir and
+               Arjuna Sathiaseelan and
+               Liang Wang and
+               Jon Crowcroft},
+  title     = {"Resource Pooling" for Wireless Networks: Solutions for the Developing World},
+  journal   = ccr,
+  volume    = {46},
+  number    = {4},
+  year      = 2016,
+  pages     = {30-35},
+}
+
+@article{DBLP:journals/ccr/LukovszkiRS16,
+  author    = {Tamás Lukovszki and
+               Matthias Rost and
+               Stefan Schmid},
+  title     = {It's a Match!: {Near-Optimal} and Incremental Middlebox Deployment},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {30-36},
+}
+
+@article{DBLP:journals/ccr/BajpaiBEOS16,
+  author    = {Vaibhav Bajpai and
+               Arthur W. Berger and
+               Philip Eardley and
+               Jörg Ott and
+               Jürgen Schönwälder},
+  title     = {Global Measurements: Practice and Experience (Report on Dagstuhl Seminar #16012)},
+  journal   = ccr,
+  volume    = {46},
+  number    = {2},
+  year      = 2016,
+  pages     = {32-39},
+}
+
+@article{DBLP:journals/ccr/DragoRS16,
+  author    = {Idilio Drago and
+               Fabio Ricciato and
+               Ramin Sadre},
+  title     = {Report from the 6th {PhD} School on Traffic Monitoring and Analysis (TMA)},
+  journal   = ccr,
+  volume    = {46},
+  number    = {4},
+  year      = 2016,
+  pages     = {36-40},
+}
+
+@article{DBLP:journals/ccr/SchiffSK16,
+  author    = {Liron Schiff and
+               Stefan Schmid and
+               Petr Kuznetsov},
+  title     = {{In-Band} Synchronization for Distributed {SDN} Control Planes},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {37-43},
+}
+
+@article{DBLP:journals/ccr/Akella16,
+  author    = {Aditya Akella},
+  title     = {{ACM} {SIGCOMM} Student Mentoring Column: On Testbeds and Datasets},
+  journal   = ccr,
+  volume    = {46},
+  number    = {2},
+  year      = 2016,
+  pages     = {40-42},
+}
+
+@article{DBLP:journals/ccr/TrossenSO16,
+  author    = {Dirk Trossen and
+               Arjuna Sathiaseelan and
+               Jörg Ott},
+  title     = {Towards an Information Centric Network Architecture for Universal Internet Access},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {44-49},
+}
+
+@article{DBLP:journals/ccr/claffy16,
+  author    = {kc claffy},
+  title     = {The 7th Workshop on Active Internet Measurements (AIMS7) Report},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {50-57},
+}
+
+@article{DBLP:journals/ccr/AfanasyevY0BcP16,
+  author    = {Alexander Afanasyev and
+               Yingdi Yu and
+               Lixia Zhang and
+               Jeff Burke and
+               kc claffy and
+               Joshua Polterock},
+  title     = {The Second Named Data Networking Community Meeting ({NDNcomm} 2015)},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {58-63},
+}
+
+@article{DBLP:journals/ccr/GharakheiliVS16,
+  author    = {Hassan Habibi Gharakheili and
+               Arun Vishwanath and
+               Vijay Sivaraman},
+  title     = {Perspectives on Net Neutrality and Internet {Fast-Lanes}},
+  journal   = ccr,
+  volume    = {46},
+  number    = {1},
+  year      = 2016,
+  pages     = {64-69},
+}
+
+@article{DBLP:journals/ccr/KumarJNRKZGACAR15,
+  author    = {Alok Kumar and
+               Sushant Jain and
+               Uday Naik and
+               Anand Raghuraman and
+               Nikhil Kasinadhuni and
+               Enrique Cauich Zermeno and
+               C. Stephen Gunn and
+               Jing Ai and
+               Björn Carlin and
+               Mihai Amarandei-Stavila and
+               Mathieu Robin and
+               Aspi Siganporia and
+               Stephen Stuart and
+               Amin Vahdat},
+  title     = {BwE: Flexible, Hierarchical Bandwidth Allocation for {WAN} Distributed Computing},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {1-14},
+}
+
+@article{DBLP:journals/ccr/YawHMW15,
+  author    = {Sean Yaw and
+               Eben Howard and
+               Brendan Mumey and
+               Mike P. Wittie},
+  title     = {Cooperative group provisioning with latency guarantees in multi-cloud deployments},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {4-11},
+}
+
+@article{DBLP:journals/ccr/KriaraM15,
+  author    = {Lito Kriara and
+               Mahesh K. Marina},
+  title     = {SampleLite: A Hybrid Approach to 802.11n Link Adaptation},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {4-13},
+}
+
+@article{DBLP:journals/ccr/RajiullahHBPW15,
+  author    = {Mohammad Rajiullah and
+               Per Hurtig and
+               Anna Brunström and
+               Andreas Petlund and
+               Michael Welzl},
+  title     = {An Evaluation of Tail Loss Recovery Mechanisms for {TCP}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {1},
+  year      = 2015,
+  pages     = {5-11},
+}
+
+@article{DBLP:journals/ccr/MetwalleyTMMB15,
+  author    = {Hassan Metwalley and
+               Stefano Traverso and
+               Marco Mellia and
+               Stanislav Miskovic and
+               Mario Baldi},
+  title     = {CrowdSurf: Empowering Transparency in the Web},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/ccr/ChatzisSFW15,
+  author    = {Nikolaos Chatzis and
+               Georgios Smaragdakis and
+               Anja Feldmann and
+               Walter Willinger},
+  title     = {Quo vadis Open-IX?},
+  journal   = ccr,
+  volume    = {45},
+  number    = {1},
+  year      = 2015,
+  pages     = {12-18},
+}
+
+@article{DBLP:journals/ccr/RostFS15,
+  author    = {Matthias Rost and
+               Carlo Fuerst and
+               Stefan Schmid},
+  title     = {Beyond the Stars: Revisiting Virtual Cluster Embeddings},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {12-18},
+}
+
+@article{DBLP:journals/ccr/Rijswijk-DeijSP15,
+  author    = {Roland van Rijswijk-Deij and
+               Anna Sperotto and
+               Aiko Pras},
+  title     = {Making the Case for Elliptic Curves in {DNSSEC}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {13-19},
+}
+
+@article{DBLP:journals/ccr/SharmaJ15,
+  author    = {Suraj Sharma and
+               Sanjay Kumar Jena},
+  title     = {Cluster Based Multipath Routing Protocol for Wireless Sensor Networks},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {14-20},
+}
+
+@article{DBLP:journals/ccr/HartertVSBFTF15,
+  author    = {Renaud Hartert and
+               Stefano Vissicchio and
+               Pierre Schaus and
+               Olivier Bonaventure and
+               Clarence Filsfils and
+               Thomas Telkamp and
+               Pierre François},
+  title     = {A Declarative and Expressive Approach to Control Forwarding Paths in {Carrier-Grade} Networks},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {15-28},
+}
+
+@article{DBLP:journals/ccr/Varghese15,
+  author    = {George Varghese},
+  title     = {Life in the Fast Lane: Viewed from the Confluence Lens},
+  journal   = ccr,
+  volume    = {45},
+  number    = {1},
+  year      = 2015,
+  pages     = {19-25},
+}
+
+@article{DBLP:journals/ccr/DingR15,
+  author    = {Hao Ding and
+               Michael Rabinovich},
+  title     = {{TCP} Stretch Acknowledgements and Timestamps: Findings and Implications for Passive {RTT} Measurement},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {20-27},
+}
+
+@article{DBLP:journals/ccr/SarlisPKSK15,
+  author    = {Dimitrios Sarlis and
+               Nikolaos Papailiou and
+               Ioannis Konstantinou and
+               Georgios Smaragdakis and
+               Nectarios Koziris},
+  title     = {Datix: A System for Scalable Network Analytics},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {21-28},
+}
+
+@article{DBLP:journals/ccr/RichterABP15,
+  author    = {Philipp Richter and
+               Mark Allman and
+               Randy Bush and
+               Vern Paxson},
+  title     = {A Primer on IPv4 Scarcity},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {21-31},
+}
+
+@article{DBLP:journals/ccr/Akella15,
+  author    = {Aditya Akella},
+  title     = {{ACM} {SIGCOMM} Student Mentoring Column},
+  journal   = ccr,
+  volume    = {45},
+  number    = {1},
+  year      = 2015,
+  pages     = {26-27},
+}
+
+@article{DBLP:journals/ccr/CalyamS15,
+  author    = {Prasad Calyam and
+               Martin Swany},
+  title     = {Research challenges in future multi-domain network performance measurement and monitoring},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {29-34},
+}
+
+@article{DBLP:journals/ccr/Shirali-Shahreza15,
+  author    = {Sajad Shirali-Shahreza and
+               Yashar Ganjali},
+  title     = {ReWiFlow: Restricted Wildcard {OpenFlow} Rules},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {29-35},
+}
+
+@article{DBLP:journals/ccr/PrakashLTKABCMS15,
+  author    = {Chaithan Prakash and
+               Jeongkeun Lee and
+               Yoshio Turner and
+               Joon-Myung Kang and
+               Aditya Akella and
+               Sujata Banerjee and
+               Charles Clark and
+               Yadi Ma and
+               Puneet Sharma and
+               Ying Zhang},
+  title     = {PGA: Using Graphs to Express and Automatically Reconcile Network Policies},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {29-42},
+}
+
+@article{DBLP:journals/ccr/claffyPAB015,
+  author    = {kc claffy and
+               Josh Polterock and
+               Alexander Afanasyev and
+               Jeff Burke and
+               Lixia Zhang},
+  title     = {The First Named Data Networking Community Meeting: (NDNcomm)},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {32-37},
+}
+
+@article{DBLP:journals/ccr/BajpaiES15,
+  author    = {Vaibhav Bajpai and
+               Steffie Jacob Eravuchira and
+               Jürgen Schönwälder},
+  title     = {Lessons Learned From Using the {RIPE} Atlas Platform for Measurement Research},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {35-42},
+}
+
+@article{DBLP:journals/ccr/LopezMEDHIBFR15,
+  author    = {Pedro García López and
+               Alberto Montresor and
+               Dick H. J. Epema and
+               Anwitaman Datta and
+               Teruo Higashino and
+               Adriana Iamnitchi and
+               Marinho P. Barcellos and
+               Pascal Felber and
+               Etienne Rivière},
+  title     = {Edge-centric Computing: Vision and Challenges},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {37-42},
+}
+
+@article{DBLP:journals/ccr/CoadyHKMS15,
+  author    = {Yvonne Coady and
+               Oliver Hohlfeld and
+               James Kempf and
+               Rick McGeer and
+               Stefan Schmid},
+  title     = {Distributed Cloud Computing: Applications, Status Quo, and Challenges},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {38-43},
+}
+
+@article{DBLP:journals/ccr/Akella15c,
+  author    = {Aditya Akella},
+  title     = {{ACM} {SIGCOMM} Student Mentoring Column: Various Student Questions},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {43-44},
+}
+
+@article{DBLP:journals/ccr/claffyC15,
+  author    = {kc claffy and
+               David D. Clark},
+  title     = {Workshop on Internet economics (WIE2014) Report},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {43-48},
+}
+
+@article{DBLP:journals/ccr/VissicchioTVR15,
+  author    = {Stefano Vissicchio and
+               Olivier Tilmans and
+               Laurent Vanbever and
+               Jennifer Rexford},
+  title     = {Central Control Over Distributed Routing},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {43-56},
+}
+
+@article{DBLP:journals/ccr/Gross-BrownFADL15,
+  author    = {Rafael Gross-Brown and
+               Michal Ficek and
+               Jose Luis Agundez and
+               Patrick Dressler and
+               Nikolaos Laoutaris},
+  title     = {Data Transparency Lab Kick Off Workshop ({DTL} 2014) Report},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {44-48},
+}
+
+@article{DBLP:journals/ccr/DavieDEMPT15b,
+  author    = {Bruce Davie and
+               Christophe Diot and
+               Lars Eggert and
+               Nick McKeown and
+               Venkat N. Padmanabhan and
+               Renata Teixeira},
+  title     = {Examples of Research Affecting the Practice of Networking},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {45},
+}
+
+@article{DBLP:journals/ccr/Varghese15a,
+  author    = {George Varghese},
+  title     = {On Technology Transfer},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {46-47},
+}
+
+@article{DBLP:journals/ccr/DavieDEMPT15,
+  author    = {Bruce Davie and
+               Christophe Diot and
+               Lars Eggert and
+               Nick McKeown and
+               Venkata N. Padmanabhan and
+               Renata Teixeira},
+  title     = {Examples of Research Affecting the Practice of Networking},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {49},
+}
+
+@article{DBLP:journals/ccr/Akella15b,
+  author    = {Aditya Akella},
+  title     = {{ACM} {SIGCOMM} Student Mentoring Column},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {49-50},
+}
+
+@article{DBLP:journals/ccr/Francis15,
+  author    = {Paul Francis},
+  title     = {Network Address Translation (NAT)},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {50},
+}
+
+@article{DBLP:journals/ccr/DavieDEMPT15a,
+  author    = {Bruce Davie and
+               Christophe Diot and
+               Lars Eggert and
+               Nick McKeown and
+               Venkata N. Padmanabhan and
+               Renata Teixeira},
+  title     = {Examples of Research Affecting the Practice of Networking},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {51},
+}
+
+@article{DBLP:journals/ccr/Akella15a,
+  author    = {Aditya Akella},
+  title     = {{ACM} {SIGCOMM} Student Mentoring Column},
+  journal   = ccr,
+  volume    = {45},
+  number    = {2},
+  year      = 2015,
+  pages     = {51-52},
+}
+
+@article{DBLP:journals/ccr/MaggsS15,
+  author    = {Bruce M. Maggs and
+               Ramesh K. Sitaraman},
+  title     = {Algorithmic Nuggets in Content Delivery},
+  journal   = ccr,
+  volume    = {45},
+  number    = {3},
+  year      = 2015,
+  pages     = {52-66},
+}
+
+@article{DBLP:journals/ccr/AsaiO15,
+  author    = {Hirochika Asai and
+               Yasuhiro Ohara},
+  title     = {Poptrie: A Compressed Trie with Population Count for Fast and Scalable Software {IP} Routing Table Lookup},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {57-70},
+}
+
+@article{DBLP:journals/ccr/ZhengJTCW15,
+  author    = {Liang Zheng and
+               Carlee Joe-Wong and
+               Chee Wei Tan and
+               Mung Chiang and
+               Xinyu Wang},
+  title     = {How to Bid the Cloud},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {71-84},
+}
+
+@article{DBLP:journals/ccr/HowardC15,
+  author    = {Heidi Howard and
+               Jon Crowcroft},
+  title     = {Coracle: Evaluating Consensus at the Internet Edge},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {85-86},
+}
+
+@article{DBLP:journals/ccr/FiadinoDSC15,
+  author    = {Pierdomenico Fiadino and
+               Alessandro D'Alconzo and
+               Mirko Schiavone and
+               Pedro Casas},
+  title     = {Challenging Entropy-based Anomaly Detection and Diagnosis in Cellular Networks},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {87-88},
+}
+
+@article{DBLP:journals/ccr/BogdanovQMK15,
+  author    = {Kirill Bogdanov and
+               Miguel Peón Quirós and
+               Gerald Q. Maguire Jr. and
+               Dejan Kostic},
+  title     = {Toward Automated Testing of {Geo-Distributed} Replica Selection Algorithms},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {89-90},
+}
+
+@article{DBLP:journals/ccr/Rijswijk-DeijJS15,
+  author    = {Roland van Rijswijk-Deij and
+               Mattijs Jonker and
+               Anna Sperotto and
+               Aiko Pras},
+  title     = {The Internet of Names: A {DNS} Big Dataset},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {91-92},
+}
+
+@article{DBLP:journals/ccr/YuanXS15,
+  author    = {Zhenlong Yuan and
+               Yibo Xue and
+               Mihaela van der Schaar},
+  title     = {BitMiner: Bits Mining in Internet Traffic Classification},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {93-94},
+}
+
+@article{DBLP:journals/ccr/RifaiPU15,
+  author    = {Myriana Rifai and
+               Dino Lopez Pacheco and
+               Guillaume Urvoy-Keller},
+  title     = {Coarse-grained Scheduling with {Software-Defined} Networking Switches},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {95-96},
+}
+
+@article{DBLP:journals/ccr/BaoDZLWG15,
+  author    = {Jinzhen Bao and
+               Dezun Dong and
+               Baokang Zhao and
+               Zhang Luo and
+               Chunqing Wu and
+               Zhenghu Gong},
+  title     = {FlyCast: {Free-Space} Optics Accelerating Multicast Communications in Physical Layer},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {97-98},
+}
+
+@article{DBLP:journals/ccr/JeongKK15,
+  author    = {Seong Hoon Jeong and
+               Ah Reum Kang and
+               Huy Kang Kim},
+  title     = {Analysis of Game Bot's Behavioral Characteristics in Social Interaction Networks of {MMORPG}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {99-100},
+}
+
+@article{DBLP:journals/ccr/WuLZ15,
+  author    = {Haibo Wu and
+               Jun Li and
+               Jiang Zhi},
+  title     = {Could End System Caching and Cooperation Replace {In-Network} Caching in CCN?},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {101-102},
+}
+
+@article{DBLP:journals/ccr/SidesBR15,
+  author    = {Mor Sides and
+               Anat Bremler-Barr and
+               Elisha J. Rosensweig},
+  title     = {{Yo-Yo} Attack: Vulnerability In Auto-scaling Mechanism},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {103-104},
+}
+
+@article{DBLP:journals/ccr/SzaboNSGF15,
+  author    = {Dávid Szabó and
+               Felicián Németh and
+               Balázs Sonkoly and
+               András Gulyás and
+               Frank H. P. Fitzek},
+  title     = {Towards the 5G Revolution: A Software Defined Network Architecture Exploiting Network Coding as a Service},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {105-106},
+}
+
+@article{DBLP:journals/ccr/0002WS15,
+  author    = {Andreas Reuter and
+               Matthias Wählisch and
+               Thomas C. Schmidt},
+  title     = {{RPKI} MIRO: Monitoring and Inspection of {RPKI} Objects},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {107-108},
+}
+
+@article{DBLP:journals/ccr/YauGHHCKEK15,
+  author    = {Simon Yau and
+               Liang Ge and
+               Ping-Chun Hsieh and
+               I-Hong Hou and
+               Shuguang Cui and
+               P. R. Kumar and
+               Amal Ekbal and
+               Nikhil Kundargi},
+  title     = {WiMAC: Rapid Implementation Platform for User Definable {MAC} Protocols Through Separation},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {109-110},
+}
+
+@article{DBLP:journals/ccr/RazaZPCS15,
+  author    = {Ali Raza and
+               Yasir Zaki and
+               Thomas Pötsch and
+               Jay Chen and
+               Lakshmi Subramanian},
+  title     = {Extreme Web Caching for Faster Web Browsing},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {111-112},
+}
+
+@article{DBLP:journals/ccr/ErnitsTM15,
+  author    = {Margus Ernits and
+               Johannes Tammekänd and
+               Olaf Maennel},
+  title     = {i-tee: A fully automated Cyber Defense Competition for Students},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {113-114},
+}
+
+@article{DBLP:journals/ccr/WahlischS15,
+  author    = {Matthias Wählisch and
+               Thomas C. Schmidt},
+  title     = {See How {ISPs} Care: An {RPKI} Validation Extension for Web Browsers},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {115-116},
+}
+
+@article{DBLP:journals/ccr/Schulz-ZanderMC15,
+  author    = {Julius Schulz-Zander and
+               Carlos Mayer and
+               Bogdan Ciobotaru and
+               Stefan Schmid and
+               Anja Feldmann and
+               Roberto Riggio},
+  title     = {Programming the Home and Enterprise {WiFi} with {OpenSDWN}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {117-118},
+}
+
+@article{DBLP:journals/ccr/HamedRAK15,
+  author    = {Ezzeldin Hamed and
+               Hariharan Rahul and
+               Mohammed A. Abdelghany and
+               Dina Katabi},
+  title     = {A Real-time 802.11 Compatible Distributed {MIMO} System},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {119-120},
+}
+
+@article{DBLP:journals/ccr/VasishtKK15,
+  author    = {Deepak Vasisht and
+               Swarun Kumar and
+               Dina Katabi},
+  title     = {{Sub-Nanosecond} Time of Flight on Commercial {Wi-Fi} Cards},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {121-122},
+}
+
+@article{DBLP:journals/ccr/RoyZBPS15,
+  author    = {Arjun Roy and
+               Hongyi Zeng and
+               Jasmeet Bagga and
+               George Porter and
+               Alex C. Snoeren},
+  title     = {Inside the Social Network's (Datacenter) Network},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {123-137},
+}
+
+@article{DBLP:journals/ccr/GuoYXDHMLWPCLK15,
+  author    = {Chuanxiong Guo and
+               Lihua Yuan and
+               Dong Xiang and
+               Yingnong Dang and
+               Ray Huang and
+               David A. Maltz and
+               Zhaoyi Liu and
+               Vin Wang and
+               Bin Pang and
+               Hua Chen and
+               Zhi-Wei Lin and
+               Varugis Kurien},
+  title     = {Pingmesh: A {Large-Scale} System for Data Center Network Latency Measurement and Analysis},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {139-152},
+}
+
+@article{DBLP:journals/ccr/BiswasBWMBA15,
+  author    = {Sanjit Biswas and
+               John C. Bicket and
+               Edmund Wong and
+               Raluca Musaloiu-E and
+               Apurv Bhartia and
+               Daniel Aguayo},
+  title     = {Large-scale Measurements of Wireless Network Behavior},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {153-165},
+}
+
+@article{DBLP:journals/ccr/ChenST15,
+  author    = {Fangfei Chen and
+               Ramesh K. Sitaraman and
+               Marcelo Torres},
+  title     = {{End-User} Mapping: Next Generation Request Routing for Content Delivery},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {167-181},
+}
+
+@article{DBLP:journals/ccr/SinghOAAABBDFGK15,
+  author    = {Arjun Singh and
+               Joon Ong and
+               Amit Agarwal and
+               Glen Anderson and
+               Ashby Armistead and
+               Roy Bannon and
+               Seb Boving and
+               Gaurav Desai and
+               Bob Felderman and
+               Paulie Germano and
+               Anand Kanagala and
+               Jeff Provost and
+               Jason Simmons and
+               Eiichi Tanda and
+               Jim Wanderer and
+               Urs Hölzle and
+               Stephen Stuart and
+               Amin Vahdat},
+  title     = {Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google's Datacenter Network},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {183-197},
+}
+
+@article{DBLP:journals/ccr/NaylorSVLBLPRS15,
+  author    = {David Naylor and
+               Kyle Schomp and
+               Matteo Varvello and
+               Ilias Leontiadis and
+               Jeremy Blackburn and
+               Diego R. López and
+               Konstantina Papagiannaki and
+               Pablo Rodríguez Rodríguez and
+               Peter Steenkiste},
+  title     = {{Multi-Context} {TLS} (mcTLS): Enabling Secure {In-Network} Functionality in {TLS}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {199-212},
+}
+
+@article{DBLP:journals/ccr/SherryLPR15,
+  author    = {Justine Sherry and
+               Chang Lan and
+               Raluca Ada Popa and
+               Sylvia Ratnasamy},
+  title     = {BlindBox: Deep Packet Inspection over Encrypted Traffic},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {213-226},
+}
+
+@article{DBLP:journals/ccr/SherryGBPKMMMRR15,
+  author    = {Justine Sherry and
+               Peter Xiang Gao and
+               Soumya Basu and
+               Aurojit Panda and
+               Arvind Krishnamurthy and
+               Christian Maciocco and
+               Maziar Manesh and
+               João Martins and
+               Sylvia Ratnasamy and
+               Luigi Rizzo and
+               Scott Shenker},
+  title     = {{Rollback-Recovery} for Middleboxes},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {227-240},
+}
+
+@article{DBLP:journals/ccr/ZhouFLAKMWS15,
+  author    = {Dong Zhou and
+               Bin Fan and
+               Hyeontaek Lim and
+               David G. Andersen and
+               Michael Kaminsky and
+               Michael Mitzenmacher and
+               Ren Wang and
+               Ajaypal Singh},
+  title     = {Scaling Up Clustered Network Appliances with {ScaleBricks}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {241-254},
+}
+
+@article{DBLP:journals/ccr/HuZG15,
+  author    = {Pan Hu and
+               Pengyu Zhang and
+               Deepak Ganesan},
+  title     = {Laissez-Faire: Fully Asymmetric Backscatter Communication},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {255-267},
+}
+
+@article{DBLP:journals/ccr/KotaruJBK15,
+  author    = {Manikanta Kotaru and
+               Kiran Raj Joshi and
+               Dinesh Bharadia and
+               Sachin Katti},
+  title     = {SpotFi: Decimeter Level Localization Using {WiFi}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {269-282},
+}
+
+@article{DBLP:journals/ccr/BharadiaJKK15,
+  author    = {Dinesh Bharadia and
+               Kiran Raj Joshi and
+               Manikanta Kotaru and
+               Sachin Katti},
+  title     = {BackFi: High Throughput {WiFi} Backscatter},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {283-296},
+}
+
+@article{DBLP:journals/ccr/AbariVKC15,
+  author    = {Omid Abari and
+               Deepak Vasisht and
+               Dina Katabi and
+               Anantha Chandrakasan},
+  title     = {Caraoke: An {E-Toll} Transponder Network for Smart Cities},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {297-310},
+}
+
+@article{DBLP:journals/ccr/MukerjeeNJHS015,
+  author    = {Matthew K. Mukerjee and
+               David Naylor and
+               Junchen Jiang and
+               Dongsu Han and
+               Srinivasan Seshan and
+               Hui Zhang},
+  title     = {Practical, Real-time Centralized Control for {CDN-based} Live Video Delivery},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {311-324},
+}
+
+@article{DBLP:journals/ccr/YinJSS15,
+  author    = {Xiaoqi Yin and
+               Abhishek Jindal and
+               Vyas Sekar and
+               Bruno Sinopoli},
+  title     = {A {Control-Theoretic} Approach for Dynamic Adaptive Video Streaming over {HTTP}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {325-338},
+}
+
+@article{DBLP:journals/ccr/LiuWY015,
+  author    = {Zhi Liu and
+               Xiang Wang and
+               Baohua Yang and
+               Jun Li},
+  title     = {BitCuts: Towards Fast Packet Classification for {Order-Independent} Rules},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {339-340},
+}
+
+@article{DBLP:journals/ccr/ChangHHV15,
+  author    = {Michael Alan Chang and
+               Thomas Holterbach and
+               Markus Happe and
+               Laurent Vanbever},
+  title     = {Supercharge me: Boost Router Convergence with {SDN}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {341-342},
+}
+
+@article{DBLP:journals/ccr/BifulcoM15,
+  author    = {Roberto Bifulco and
+               Anton Matsiuk},
+  title     = {Towards Scalable {SDN} Switches: Enabling Faster Flow Table Entries Installation},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {343-344},
+}
+
+@article{DBLP:journals/ccr/AfekBFS15,
+  author    = {Yehuda Afek and
+               Anat Bremler-Barr and
+               Shir Landau Feibish and
+               Liron Schiff},
+  title     = {Sampling and Large Flow Detection in {SDN}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {345-346},
+}
+
+@article{DBLP:journals/ccr/BenchaitaGT15,
+  author    = {Walid Benchaita and
+               Samir Ghamri-Doudane and
+               Sébastien Tixeuil},
+  title     = {On the Optimization of Request Routing for Content Delivery},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {347-348},
+}
+
+@article{DBLP:journals/ccr/KheirkhahWP15,
+  author    = {Morteza Kheirkhah and
+               Ian Wakeman and
+               George Parisis},
+  title     = {Short vs. Long Flows: A Battle That Both Can Win},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {349-350},
+}
+
+@article{DBLP:journals/ccr/BojanZA015,
+  author    = {Neelakandan Manihatty Bojan and
+               Noa Zilberman and
+               Gianni Antichi and
+               Andrew W. Moore},
+  title     = {Extreme Data-rate Scheduling for the Data Center},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {351-352},
+}
+
+@article{DBLP:journals/ccr/DonovanF15,
+  author    = {Sean P. Donovan and
+               Nick Feamster},
+  title     = {Alternative Trust Sources: Reducing {DNSSEC} Signature Verification Operations with {TLS}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {353-354},
+}
+
+@article{DBLP:journals/ccr/JamshedKMHP15,
+  author    = {Muhammad Asim Jamshed and
+               Donghwi Kim and
+               YoungGyoun Moon and
+               Dongsu Han and
+               KyoungSoo Park},
+  title     = {A Case for a Stateful Middlebox Networking Stack},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {355-356},
+}
+
+@article{DBLP:journals/ccr/CaoFP15,
+  author    = {Zhen Cao and
+               Jürgen Fitschen and
+               Panagiotis Papadimitriou},
+  title     = {FreeSurf: {Application-Centric} Wireless Access with {SDN}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {357-358},
+}
+
+@article{DBLP:journals/ccr/LevaiPNG15,
+  author    = {Tamás Lévai and
+               István Pelle and
+               Felicián Németh and
+               András Gulyás},
+  title     = {EPOXIDE: A Modular Prototype for {SDN} Troubleshooting},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {359-360},
+}
+
+@article{DBLP:journals/ccr/BariCAB15,
+  author    = {Md. Faizul Bari and
+               Shihabur Rahman Chowdhury and
+               Reaz Ahmed and
+               Raouf Boutaba},
+  title     = {nf.io: A File System Abstraction for {NFV} Orchestration},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {361-362},
+}
+
+@article{DBLP:journals/ccr/ZilbermanAKBZ015,
+  author    = {Noa Zilberman and
+               Yury Audzevich and
+               Georgina Kalogeridou and
+               Neelakandan Manihatty Bojan and
+               Jingyun Zhang and
+               Andrew W. Moore},
+  title     = {NetFPGA: Rapid Prototyping of Networking Devices in Open Source},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {363-364},
+}
+
+@article{DBLP:journals/ccr/LantzO15,
+  author    = {Bob Lantz and
+               Brian O'Connor},
+  title     = {A Mininet-based Virtual Testbed for Distributed {SDN} Development},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {365-366},
+}
+
+@article{DBLP:journals/ccr/AlistarhBCFBWT15,
+  author    = {Dan Alistarh and
+               Hitesh Ballani and
+               Paolo Costa and
+               Adam Funnell and
+               Joshua Benjamin and
+               Philip M. Watts and
+               Benn Thomsen},
+  title     = {A High-Radix, {Low-Latency} Optical Switch for Data Centers},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {367-368},
+}
+
+@article{DBLP:journals/ccr/AntichiR015,
+  author    = {Gianni Antichi and
+               Charalampos Rotsos and
+               Andrew W. Moore},
+  title     = {Enabling Performance Evaluation Beyond 10 Gbps},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {369-370},
+}
+
+@article{DBLP:journals/ccr/ChangTBV15,
+  author    = {Michael Alan Chang and
+               Brendan Tschaen and
+               Theophilus Benson and
+               Laurent Vanbever},
+  title     = {Chaos Monkey: Increasing {SDN} Reliability through Systematic Network Destruction},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {371-372},
+}
+
+@article{DBLP:journals/ccr/LeeKPTACMSZ15,
+  author    = {Jeongkeun Lee and
+               Joon-Myung Kang and
+               Chaithan Prakash and
+               Yoshio Turner and
+               Aditya Akella and
+               Charles Clark and
+               Yadi Ma and
+               Puneet Sharma and
+               Ying Zhang},
+  title     = {Network Policy Whiteboarding and Composition},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {373-374},
+}
+
+@article{DBLP:journals/ccr/RiggioSB15,
+  author    = {Roberto Riggio and
+               Julius Schulz-Zander and
+               Abbas Bradai},
+  title     = {Virtual Network Function Orchestration with Scylla},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {375-376},
+}
+
+@article{DBLP:journals/ccr/SonkolyCSJESTR15,
+  author    = {Balázs Sonkoly and
+               János Czentye and
+               Róbert Szabó and
+               David Jocha and
+               János Elek and
+               Sahel Sahhaf and
+               Wouter Tavernier and
+               Fulvio Risso},
+  title     = {{Multi-Domain} Service Orchestration Over Networks and Clouds: A Unified Approach},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {377-378},
+}
+
+@article{DBLP:journals/ccr/RenAWY15,
+  author    = {Xiaoqi Ren and
+               Ganesh Ananthanarayanan and
+               Adam Wierman and
+               Minlan Yu},
+  title     = {Hopper: Decentralized Speculation-aware Cluster Scheduling at Scale},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {379-392},
+}
+
+@article{DBLP:journals/ccr/ChowdhuryS15,
+  author    = {Mosharaf Chowdhury and
+               Ion Stoica},
+  title     = {Efficient Coflow Scheduling Without Prior Knowledge},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {393-406},
+}
+
+@article{DBLP:journals/ccr/JalapartiBMRMC15,
+  author    = {Virajith Jalaparti and
+               Peter Bodík and
+               Ishai Menache and
+               Sriram Rao and
+               Konstantin Makarychev and
+               Matthew Caesar},
+  title     = {{Network-Aware} Scheduling for {Data-Parallel} Jobs: Plan When You Can},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {407-420},
+}
+
+@article{DBLP:journals/ccr/PuABKABS15,
+  author    = {Qifan Pu and
+               Ganesh Ananthanarayanan and
+               Peter Bodík and
+               Srikanth Kandula and
+               Aditya Akella and
+               Paramvir Bahl and
+               Ion Stoica},
+  title     = {Low Latency Geo-distributed Data Analytics},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {421-434},
+}
+
+@article{DBLP:journals/ccr/JangSBM15,
+  author    = {Keon Jang and
+               Justine Sherry and
+               Hitesh Ballani and
+               Toby Moncaster},
+  title     = {Silo: Predictable Message Latency in the Cloud},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {435-448},
+}
+
+@article{DBLP:journals/ccr/SchlinkerMSMVYK15,
+  author    = {Brandon Schlinker and
+               Radhika Niranjan Mysore and
+               Sean Smith and
+               Jeffrey C. Mogul and
+               Amin Vahdat and
+               Minlan Yu and
+               Ethan Katz-Bassett and
+               Michael Rubin},
+  title     = {Condor: Better Topologies Through Declarative Design},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {449-463},
+}
+
+@article{DBLP:journals/ccr/HeRAFCA15,
+  author    = {Keqiang He and
+               Eric Rozner and
+               Kanak Agarwal and
+               Wes Felter and
+               John B. Carter and
+               Aditya Akella},
+  title     = {Presto: Edge-based Load Balancing for Fast Datacenter Networks},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {465-478},
+}
+
+@article{DBLP:journals/ccr/ZhuKCGLMMYZZZ15,
+  author    = {Yibo Zhu and
+               Nanxi Kang and
+               Jiaxin Cao and
+               Albert G. Greenberg and
+               Guohan Lu and
+               Ratul Mahajan and
+               David A. Maltz and
+               Lihua Yuan and
+               Ming Zhang and
+               Ben Y. Zhao and
+               Haitao Zheng},
+  title     = {{Packet-Level} Telemetry in Large Datacenter Networks},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {479-491},
+}
+
+@article{DBLP:journals/ccr/BallaniCGGKKO15,
+  author    = {Hitesh Ballani and
+               Paolo Costa and
+               Christos Gkantsidis and
+               Matthew P. Grosvenor and
+               Thomas Karagiannis and
+               Lazaros Koromilas and
+               Greg O'Shea},
+  title     = {Enabling {End-Host} Network Functions},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {493-507},
+}
+
+@article{DBLP:journals/ccr/ZakiPCSG15,
+  author    = {Yasir Zaki and
+               Thomas Pötsch and
+               Jay Chen and
+               Lakshminarayanan Subramanian and
+               Carmelita Görg},
+  title     = {Adaptive Congestion Control for Unpredictable Cellular Networks},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {509-522},
+}
+
+@article{DBLP:journals/ccr/ZhuEFGLLPRYZ15,
+  author    = {Yibo Zhu and
+               Haggai Eran and
+               Daniel Firestone and
+               Chuanxiong Guo and
+               Marina Lipshteyn and
+               Yehonatan Liron and
+               Jitendra Padhye and
+               Shachar Raindel and
+               Mohamad Haj Yahia and
+               Ming Zhang},
+  title     = {Congestion Control for {Large-Scale} {RDMA} Deployments},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {523-536},
+}
+
+@article{DBLP:journals/ccr/MittalLDBWGVWWZ15,
+  author    = {Radhika Mittal and
+               Vinh The Lam and
+               Nandita Dukkipati and
+               Emily R. Blem and
+               Hassan M. G. Wassel and
+               Monia Ghobadi and
+               Amin Vahdat and
+               Yaogong Wang and
+               David Wetherall and
+               David Zats},
+  title     = {TIMELY: {RTT-based} Congestion Control for the Datacenter},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {537-550},
+}
+
+@article{DBLP:journals/ccr/CostaBRK15,
+  author    = {Paolo Costa and
+               Hitesh Ballani and
+               Kaveh Razavi and
+               Ian A. Kash},
+  title     = {R2C2: A Network Stack for Rack-scale Computers},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {551-564},
+}
+
+@article{DBLP:journals/ccr/DurairajanBSW15,
+  author    = {Ramakrishnan Durairajan and
+               Paul Barford and
+               Joel Sommers and
+               Walter Willinger},
+  title     = {InterTubes: A Study of the {US} Long-haul Fiber-optic Infrastructure},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {565-578},
+}
+
+@article{DBLP:journals/ccr/TuneR15,
+  author    = {Paul Tune and
+               Matthew Roughan},
+  title     = {Spatiotemporal Traffic Matrix Synthesis},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {579-592},
+}
+
+@article{DBLP:journals/ccr/ChoiKHKLH15,
+  author    = {Hyunwoo Choi and
+               Jeongmin Kim and
+               Hyunwook Hong and
+               Yongdae Kim and
+               Jonghyup Lee and
+               Dongsu Han},
+  title     = {Extractocol: Autoatic Extraction of Application-level Protocol Behaviors for Android Applications},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {593-594},
+}
+
+@article{DBLP:journals/ccr/PeresiniKK15,
+  author    = {Peter Peresíni and
+               Maciej Kuzniar and
+               Dejan Kostic},
+  title     = {Rule-level Data Plane Monitoring With Monocle},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {595-596},
+}
+
+@article{DBLP:journals/ccr/SchmidtHGW15,
+  author    = {Florian Schmidt and
+               Oliver Hohlfeld and
+               René Glebke and
+               Klaus Wehrle},
+  title     = {Santa: Faster Packet Delivery for Commonly Wished Replies},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {597-598},
+}
+
+@article{DBLP:journals/ccr/JuluriM15,
+  author    = {Parikshit Juluri and
+               Deep Medhi},
+  title     = {Cache'n DASH: Efficient Caching for {DASH}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {599-600},
+}
+
+@article{DBLP:journals/ccr/ChangCFWXLT15,
+  author    = {Liqiong Chang and
+               Xiaojiang Chen and
+               Dingyi Fang and
+               Ju Wang and
+               Tianzhang Xing and
+               Chen Liu and
+               Zhanyong Tang},
+  title     = {FALE: Fine-grained Device Free Localization that can Adaptively work in Different Areas with Little Effort},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {601-602},
+}
+
+@article{DBLP:journals/ccr/MarkmannSW15,
+  author    = {Tobias Markmann and
+               Thomas C. Schmidt and
+               Matthias Wählisch},
+  title     = {Federated {End-to-End} Authentication for the Constrained Internet of Things Using {IBC} and {ECC}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {603-604},
+}
+
+@article{DBLP:journals/ccr/PirzadaMQ15,
+  author    = {Hasnain Ali Pirzada and
+               Muhammad Raza Mahboob and
+               Ihsan Ayyub Qazi},
+  title     = {eSDN: Rethinking Datacenter Transports Using {End-Host} {SDN} Controllers},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {605-606},
+}
+
+@article{DBLP:journals/ccr/RedaSCB15,
+  author    = {Waleed Reda and
+               P. Lalith Suresh and
+               Marco Canini and
+               Sean Braithwaite},
+  title     = {BRB: {BetteR} Batch Scheduling to Reduce Tail Latencies in Cloud Data Stores},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {607-608},
+}
+
+@article{DBLP:journals/ccr/NanQTTGC15,
+  author    = {Guoshun Nan and
+               Xiuquan Qiao and
+               Yukai Tu and
+               Wei Tan and
+               Lei Guo and
+               Junliang Chen},
+  title     = {Design and Implementation: the Native Web Browser and Server for {Content-Centric} Networking},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {609-610},
+}
+
+@article{DBLP:journals/ccr/LevinLVLLLSB15,
+  author    = {Dave Levin and
+               Youndo Lee and
+               Luke Valenta and
+               Zhihao Li and
+               Victoria Lai and
+               Cristian Lumezanu and
+               Neil Spring and
+               Bobby Bhattacharjee},
+  title     = {Alibi Routing},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {611-624},
+}
+
+@article{DBLP:journals/ccr/KontePF15,
+  author    = {Maria Konte and
+               Roberto Perdisci and
+               Nick Feamster},
+  title     = {ASwatch: An {AS} Reputation System to Expose Bulletproof Hosting {ASes}},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {625-638},
+}
+
+@article{DBLP:journals/ccr/BlondCCDM15,
+  author    = {Stevens Le Blond and
+               David R. Choffnes and
+               William Caldwell and
+               Peter Druschel and
+               Nicholas Merritt},
+  title     = {Herd: A Scalable, Traffic Analysis Resistant Anonymity Network for {VoIP} Systems},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {639-652},
+}
+
+@article{DBLP:journals/ccr/BurnettF15,
+  author    = {Sam Burnett and
+               Nick Feamster},
+  title     = {Encore: Lightweight Measurement of Web Censorship with {Cross-Origin} Requests},
+  journal   = ccr,
+  volume    = {45},
+  number    = {5},
+  year      = 2015,
+  pages     = {653-667},
+}
+
+@article{DBLP:journals/ccr/CoullD14,
+  author    = {Scott E. Coull and
+               Kevin P. Dyer},
+  title     = {Traffic Analysis of Encrypted Messaging Services: Apple {iMessage} and Beyond},
+  journal   = ccr,
+  volume    = {44},
+  number    = {5},
+  year      = 2014,
+  pages     = {5-11},
+}
+
+@article{DBLP:journals/ccr/ElmokashfiD14,
+  author    = {Ahmed Elmokashfi and
+               Amogh Dhamdhere},
+  title     = {Revisiting {BGP} churn growth},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/ccr/YaoWYCYP14,
+  author    = {Xin-Wei Yao and
+               Wan-Liang Wang and
+               Shuang-Hua Yang and
+               Yue-Feng Cen and
+               Xiao-min Yao and
+               Tie-Qiang Pan},
+  title     = {Ipb-frame adaptive mapping mechanism for video transmission over {IEEE} 802.11e {WLANs}},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/ccr/HuffakerFc14,
+  author    = {Bradley Huffaker and
+               Marina Fomenkov and
+               kc claffy},
+  title     = {DRoP: {DNS-based} router positioning},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {5-13},
+}
+
+@article{DBLP:journals/ccr/GhaliTU14,
+  author    = {Cesar Ghali and
+               Gene Tsudik and
+               Ersin Uzun},
+  title     = {{Network-Layer} Trust in {Named-Data} Networking},
+  journal   = ccr,
+  volume    = {44},
+  number    = {5},
+  year      = 2014,
+  pages     = {12-19},
+}
+
+@article{DBLP:journals/ccr/GeT14,
+  author    = {Fei Ge and
+               Liansheng Tan},
+  title     = {Network utility maximization in two-way flow scenario},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {13-19},
+}
+
+@article{DBLP:journals/ccr/MishariGNT14,
+  author    = {Mishari Al Mishari and
+               Paolo Gasti and
+               Naveen Nathan and
+               Gene Tsudik},
+  title     = {Optimizing bi-directional low-latency communication in named data networking},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {13-19},
+}
+
+@article{DBLP:journals/ccr/Luckie14,
+  author    = {Matthew J. Luckie},
+  title     = {Spurious routes in public {BGP} data},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {14-21},
+}
+
+@article{DBLP:journals/ccr/HofstedeHSP14,
+  author    = {Rick Hofstede and
+               Luuk Hendriks and
+               Anna Sperotto and
+               Aiko Pras},
+  title     = {{SSH} Compromise Detection using NetFlow/{IPFIX}},
+  journal   = ccr,
+  volume    = {44},
+  number    = {5},
+  year      = 2014,
+  pages     = {20-26},
+}
+
+@article{DBLP:journals/ccr/LodhiLDDc14,
+  author    = {Aemen Lodhi and
+               Natalie Larson and
+               Amogh Dhamdhere and
+               Constantine Dovrolis and
+               kc claffy},
+  title     = {Using {peeringDB} to understand the peering ecosystem},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {20-27},
+}
+
+@article{DBLP:journals/ccr/RahmanNCKDW14,
+  author    = {Mohammad Rezaur Rahman and
+               Pierre-André Noël and
+               Chen-Nee Chuah and
+               Balachander Krishnamurthy and
+               Raissa M. D'Souza and
+               Shyhtsun Felix Wu},
+  title     = {Peeking into the invitation-based adoption process of {OSN-based} applications},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {20-27},
+}
+
+@article{DBLP:journals/ccr/SargentA14,
+  author    = {Matt Sargent and
+               Mark Allman},
+  title     = {Performance within a fiber-to-the-home network},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {22-30},
+}
+
+@article{DBLP:journals/ccr/GonzalezR14,
+  author    = {Luis Miguel Vaquero González and
+               Luis Rodero-Merino},
+  title     = {Finding your Way in the Fog: Towards a Comprehensive Definition of Fog Computing},
+  journal   = ccr,
+  volume    = {44},
+  number    = {5},
+  year      = 2014,
+  pages     = {27-32},
+}
+
+@article{DBLP:journals/ccr/GillSG14,
+  author    = {Phillipa Gill and
+               Michael Schapira and
+               Sharon Goldberg},
+  title     = {A survey of interdomain routing policies},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {28-34},
+}
+
+@article{DBLP:journals/ccr/YuWR14,
+  author    = {Minlan Yu and
+               Andreas Wundsam and
+               Muruganantham Raju},
+  title     = {NOSIX: a lightweight portability layer for the {SDN} {OS}},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {28-35},
+}
+
+@article{DBLP:journals/ccr/KhanAASK14,
+  author    = {Kamran Riaz Khan and
+               Zaafar Ahmed and
+               Shabbir Ahmed and
+               Affan A. Syed and
+               Syed Ali Khayam},
+  title     = {Rapid and scalable isp service delivery through a programmable middlebox},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {31-37},
+}
+
+@article{DBLP:journals/ccr/NikaeinMMDKB14,
+  author    = {Navid Nikaein and
+               Mahesh K. Marina and
+               Saravana Manickam and
+               Alex Dawson and
+               Raymond Knopp and
+               Christian Bonnet},
+  title     = {OpenAirInterface: A Flexible Platform for 5G Research},
+  journal   = ccr,
+  volume    = {44},
+  number    = {5},
+  year      = 2014,
+  pages     = {33-38},
+}
+
+@article{DBLP:journals/ccr/SalvadorCGS14,
+  author    = {Pablo Salvador and
+               Luca Cominardi and
+               Francesco Gringoli and
+               Pablo Serrano},
+  title     = {A first implementation and evaluation of the {IEEE} 802.11aa group addressed transmission service},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {35-41},
+}
+
+@article{DBLP:journals/ccr/SinghBK14,
+  author    = {Rayman Preet Singh and
+               Tim Brecht and
+               Srinivasan Keshav},
+  title     = {{IP} address multiplexing for {VEEs}},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {36-43},
+}
+
+@article{DBLP:journals/ccr/SivaramanWVBGDMB14,
+  author    = {Anirudh Sivaraman and
+               Keith Winstein and
+               Pauline Varley and
+               João Batalha and
+               Ameesh Goyal and
+               Somak Das and
+               Joshua Ma and
+               Hari Balakrishnan},
+  title     = {Protocol design contests},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {38-44},
+}
+
+@article{DBLP:journals/ccr/ClaffyCW14,
+  author    = {Kimberly C. Claffy and
+               David D. Clark and
+               Mike P. Wittie},
+  title     = {The 6th Workshop on Active Internet Measurements (AIMS-6) Report},
+  journal   = ccr,
+  volume    = {44},
+  number    = {5},
+  year      = 2014,
+  pages     = {39-44},
+}
+
+@article{DBLP:journals/ccr/DainottiBKcKGD14,
+  author    = {Alberto Dainotti and
+               Karyn Benson and
+               Alistair King and
+               kc claffy and
+               Michael Kallitsis and
+               Eduard Glatz and
+               Xenofontas A. Dimitropoulos},
+  title     = {Estimating internet address space usage through passive measurements},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {42-49},
+}
+
+@article{DBLP:journals/ccr/BianchiBCC14,
+  author    = {Giuseppe Bianchi and
+               Marco Bonola and
+               Antonio Capone and
+               Carmelo Cascone},
+  title     = {OpenState: programming platform-independent stateful openflow applications inside the switch},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {44-51},
+}
+
+@article{DBLP:journals/ccr/Fisher14,
+  author    = {Darleen Fisher},
+  title     = {A look behind the future internet architectures efforts},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {45-49},
+}
+
+@article{DBLP:journals/ccr/Partridge14,
+  author    = {Craig Partridge},
+  title     = {Helping a future internet architecture mature},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {50-52},
+}
+
+@article{DBLP:journals/ccr/NaylorMAGKMBDHHKLOZLLSBAABDKKPPSSS14,
+  author    = {David Naylor and
+               Matthew K. Mukerjee and
+               Patrick Agyapong and
+               Robert Grandl and
+               Ruogu Kang and
+               Michel Machado and
+               Stephanie Brown and
+               Cody Doucette and
+               Hsu-Chun Hsiao and
+               Dongsu Han and
+               Tiffany Hyun-Jin Kim and
+               Hyeontaek Lim and
+               Carol Ovon and
+               Dong Zhou and
+               Soo Bum Lee and
+               Yue-Hsun Lin and
+               H. Colleen Stuart and
+               Daniel Paul Barrett and
+               Aditya Akella and
+               David G. Andersen and
+               John W. Byers and
+               Laura Dabbish and
+               Michael Kaminsky and
+               Sara B. Kiesler and
+               Jon M. Peha and
+               Adrian Perrig and
+               Srinivasan Seshan and
+               Marvin A. Sirbu and
+               Peter Steenkiste},
+  title     = {XIA: architecting a more trustworthy and evolvable internet},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {50-57},
+}
+
+@article{DBLP:journals/ccr/HondaHRAR14,
+  author    = {Michio Honda and
+               Felipe Huici and
+               Costin Raiciu and
+               João Araújo and
+               Luigi Rizzo},
+  title     = {Rekindling network protocol innovation with user-level stacks},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {52-58},
+}
+
+@article{DBLP:journals/ccr/Mellia14,
+  author    = {Marco Mellia},
+  title     = {Feature interview with Antonio Nucci: chief technology officer of narus, winner of the "{CTO} of the year"},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {53-55},
+}
+
+@article{DBLP:journals/ccr/DingKSKOTC14,
+  author    = {Aaron Yi Ding and
+               Jouni Korhonen and
+               Teemu Savolainen and
+               Markku Kojo and
+               Jörg Ott and
+               Sasu Tarkoma and
+               Jon Crowcroft},
+  title     = {Bridging the gap between internet standardization and networking research},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {56-62},
+}
+
+@article{DBLP:journals/ccr/WolfGCDRBN14,
+  author    = {Tilman Wolf and
+               James Griffioen and
+               Kenneth L. Calvert and
+               Rudra Dutta and
+               George N. Rouskas and
+               Ilya Baldin and
+               Anna Nagurney},
+  title     = {ChoiceNet: toward an economy plane for the internet},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {58-65},
+}
+
+@article{DBLP:journals/ccr/ZhanC14,
+  author    = {Lei Zhan and
+               Dah Ming Chiu},
+  title     = {MCKit: a mobile app for conferences},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {59-64},
+}
+
+@article{DBLP:journals/ccr/McKeown14,
+  author    = {Nick McKeown},
+  title     = {Enlarging the {SIGCOMM} tent},
+  journal   = ccr,
+  volume    = {44},
+  number    = {1},
+  year      = 2014,
+  pages     = {63-65},
+}
+
+@article{DBLP:journals/ccr/Carpenter14,
+  author    = {Brian E. Carpenter},
+  title     = {{IP} addresses considered harmful},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {65-69},
+}
+
+@article{DBLP:journals/ccr/0001ABJcCPWZ14,
+  author    = {Lixia Zhang and
+               Alexander Afanasyev and
+               Jeff Burke and
+               Van Jacobson and
+               kc claffy and
+               Patrick Crowley and
+               Christos Papadopoulos and
+               Lan Wang and
+               Beichuan Zhang},
+  title     = {Named data networking},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {66-73},
+}
+
+@article{DBLP:journals/ccr/VissicchioVB14,
+  author    = {Stefano Vissicchio and
+               Laurent Vanbever and
+               Olivier Bonaventure},
+  title     = {Opportunities and research challenges of hybrid software defined networks},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {70-75},
+}
+
+@article{DBLP:journals/ccr/VenkataramaniKRNMB14,
+  author    = {Arun Venkataramani and
+               James F. Kurose and
+               Dipankar Raychaudhuri and
+               Kiran Nagaraja and
+               Morley Mao and
+               Suman Banerjee},
+  title     = {MobilityFirst: a mobility-centric and trustworthy internet architecture},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {74-80},
+}
+
+@article{DBLP:journals/ccr/KenneallyB14,
+  author    = {Erin Kenneally and
+               Michael Bailey},
+  title     = {Cyber-security research ethics dialogue & strategy workshop},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {76-79},
+}
+
+@article{DBLP:journals/ccr/Ford14,
+  author    = {Mat Ford},
+  title     = {Workshop report: reducing internet latency, 2013},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {80-86},
+}
+
+@article{DBLP:journals/ccr/AndersonBBCCCFHIKLLMNSSRWWY14,
+  author    = {Tom Anderson and
+               Ken Birman and
+               Robert M. Broberg and
+               Matthew Caesar and
+               Douglas Comer and
+               Chase Cotton and
+               Michael J. Freedman and
+               Andreas Haeberlen and
+               Zachary G. Ives and
+               Arvind Krishnamurthy and
+               William Lehr and
+               Boon Thau Loo and
+               David Mazières and
+               Antonio Nicolosi and
+               Jonathan M. Smith and
+               Ion Stoica and
+               Robbert van Renesse and
+               Michael Walfish and
+               Hakim Weatherspoon and
+               Christopher S. Yoo},
+  title     = {A brief overview of the {NEBULA} future internet architecture},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {81-86},
+}
+
+@article{DBLP:journals/ccr/BosshartDGIMRSTVVW14,
+  author    = {Pat Bosshart and
+               Dan Daly and
+               Glen Gibb and
+               Martin Izzard and
+               Nick McKeown and
+               Jennifer Rexford and
+               Cole Schlesinger and
+               Dan Talayco and
+               Amin Vahdat and
+               George Varghese and
+               David Walker},
+  title     = {P4: programming protocol-independent packet processors},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {87-95},
+}
+
+@article{DBLP:journals/ccr/FeamsterRZ14,
+  author    = {Nick Feamster and
+               Jennifer Rexford and
+               Ellen W. Zegura},
+  title     = {The road to SDN: an intellectual history of programmable networks},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {87-98},
+}
+
+@article{DBLP:journals/ccr/KalejaiyeRAPCMMC14,
+  author    = {Gabriel B. T. Kalejaiye and
+               João A. S. R. Rondina and
+               Leonardo V. V. L. Albuquerque and
+               Taís L. Pereira and
+               Luiz F. O. Campos and
+               Raphael A. S. Melo and
+               Daniel S. Mascarenhas and
+               Marcelo M. Carvalho},
+  title     = {Mobile offloading in wireless ad hoc networks: the tightness strategy},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {96-102},
+}
+
+@article{DBLP:journals/ccr/DainottiBKcKGD14a,
+  author    = {Alberto Dainotti and
+               Karyn Benson and
+               Alistair King and
+               kc claffy and
+               Michael Kallitsis and
+               Eduard Glatz and
+               Xenofontas A. Dimitropoulos},
+  title     = {Estimating internet address space usage through passive measurements},
+  journal   = ccr,
+  volume    = {44},
+  number    = {2},
+  year      = 2014,
+  pages     = {99-100},
+}
+
+@article{DBLP:journals/ccr/KrencHF14,
+  author    = {Thomas Krenc and
+               Oliver Hohlfeld and
+               Anja Feldmann},
+  title     = {An internet census taken by an illegal botnet: a qualitative assessment of published measurements},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {103-111},
+}
+
+@article{DBLP:journals/ccr/DavidsOS14,
+  author    = {Carol Davids and
+               Gaston Ormazabal and
+               Radu State},
+  title     = {Real-time communications: topics for research and methods of collaboration},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {112-115},
+}
+
+@article{DBLP:journals/ccr/claffyC14,
+  author    = {kc claffy and
+               David D. Clark},
+  title     = {Workshop on internet economics (WIE2013) report},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {116-119},
+}
+
+@article{DBLP:journals/ccr/Stenberg14,
+  author    = {Daniel Stenberg},
+  title     = {HTTP2 explained},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {120-128},
+}
+
+@article{DBLP:journals/ccr/WangMED14,
+  author    = {Yuefeng Wang and
+               Ibrahim Matta and
+               Flavio Esposito and
+               John Day},
+  title     = {Introducing ProtoRINA: a prototype for programming recursive-networking policies},
+  journal   = ccr,
+  volume    = {44},
+  number    = {3},
+  year      = 2014,
+  pages     = {129-131},
+}
+
+@article{DBLP:journals/ccr/CarzanigaKPW13,
+  author    = {Antonio Carzaniga and
+               Koorosh Khazaei and
+               Michele Papalini and
+               Alexander L. Wolf},
+  title     = {Is information-centric multi-tree routing feasible?},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {3-8},
+}
+
+@article{DBLP:journals/ccr/SchlampCB13,
+  author    = {Johann Schlamp and
+               Georg Carle and
+               Ernst W. Biersack},
+  title     = {A forensic case study on as hijacking: the attacker's perspective},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/ccr/TraversoAGGLN13,
+  author    = {Stefano Traverso and
+               Mohamed Ahmed and
+               Michele Garetto and
+               Paolo Giaccone and
+               Emilio Leonardi and
+               Saverio Niccolini},
+  title     = {Temporal locality in today's content caching: why it matters and how to model it},
+  journal   = ccr,
+  volume    = {43},
+  number    = {5},
+  year      = 2013,
+  pages     = {5-12},
+}
+
 @article{DBLP:journals/ccr/LeeL13,
   author    = {Yeonhee Lee and
                Youngseok Lee},
@@ -9,6 +3324,56 @@
   number    = {1},
   year      = 2013,
   pages     = {5-13},
+}
+
+@article{DBLP:journals/ccr/DixitHMLK13,
+  author    = {Advait Abhay Dixit and
+               Fang Hao and
+               Sarit Mukherjee and
+               T. V. Lakshman and
+               Ramana Rao Kompella},
+  title     = {Towards an elastic distributed {SDN} controller},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {7-12},
+}
+
+@article{DBLP:journals/ccr/CallahanAR13,
+  author    = {Thomas Callahan and
+               Mark Allman and
+               Michael Rabinovich},
+  title     = {On modern {DNS} behavior and properties},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {7-15},
+}
+
+@article{DBLP:journals/ccr/CrowcroftFNS13,
+  author    = {Jon Crowcroft and
+               Markus Fidler and
+               Klara Nahrstedt and
+               Ralf Steinmetz},
+  title     = {Is {SDN} the de-constraining constraint of the future internet?},
+  journal   = ccr,
+  volume    = {43},
+  number    = {5},
+  year      = 2013,
+  pages     = {13-18},
+}
+
+@article{DBLP:journals/ccr/WuM13,
+  author    = {Zhe Wu and
+               Harsha V. Madhyastha},
+  title     = {Understanding the latency benefits of multi-cloud webservice deployments},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {13-20},
 }
 
 @article{DBLP:journals/ccr/LiuAW13,
@@ -23,6 +3388,43 @@
   pages     = {14-21},
 }
 
+@article{DBLP:journals/ccr/KhanKKC13,
+  author    = {Akmal Khan and
+               Hyunchul Kim and
+               Taekyoung Kwon and
+               Yanghee Choi},
+  title     = {A comparative study on {IP} prefixes and their origin ases in {BGP} and the {IRR}},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {16-24},
+}
+
+@article{DBLP:journals/ccr/ChatzisSFW13,
+  author    = {Nikolaos Chatzis and
+               Georgios Smaragdakis and
+               Anja Feldmann and
+               Walter Willinger},
+  title     = {There is more to {IXPs} than meets the eye},
+  journal   = ccr,
+  volume    = {43},
+  number    = {5},
+  year      = 2013,
+  pages     = {19-28},
+}
+
+@article{DBLP:journals/ccr/LiangL13,
+  author    = {Yao Liang and
+               Rui Liu},
+  title     = {Routing topology inference for wireless sensor networks},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {21-28},
+}
+
 @article{DBLP:journals/ccr/BeverlyA13,
   author    = {Robert Beverly and
                Mark Allman},
@@ -34,6 +3436,42 @@
   pages     = {22-29},
 }
 
+@article{DBLP:journals/ccr/AbdelberiCKU13,
+  author    = {Chaabane Abdelberi and
+               Emiliano De Cristofaro and
+               Mohamed Ali Kâafar and
+               Ersin Uzun},
+  title     = {Privacy in content-oriented networking: threats and countermeasures},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {25-33},
+}
+
+@article{DBLP:journals/ccr/Camp13,
+  author    = {Joseph David Camp},
+  title     = {Feature interview with Ranveer Chandra: author of 'white space networking with wi-fi like connectivity', best {SIGCOMM} paper 2009},
+  journal   = ccr,
+  volume    = {43},
+  number    = {5},
+  year      = 2013,
+  pages     = {29-31},
+}
+
+@article{DBLP:journals/ccr/SimoncelliDGN13,
+  author    = {Davide Simoncelli and
+               Maurizio Dusi and
+               Francesco Gringoli and
+               Saverio Niccolini},
+  title     = {Stream-monitoring with blockmon: convergence of network measurements and data analytics platforms},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {29-36},
+}
+
 @article{DBLP:journals/ccr/Allman13,
   author    = {Mark Allman},
   title     = {Comments on bufferbloat},
@@ -42,6 +3480,36 @@
   number    = {1},
   year      = 2013,
   pages     = {30-37},
+}
+
+@article{DBLP:journals/ccr/FrankPLSFMRUW13,
+  author    = {Benjamin Frank and
+               Ingmar Poese and
+               Yin Lin and
+               Georgios Smaragdakis and
+               Anja Feldmann and
+               Bruce M. Maggs and
+               Jannis Rake and
+               Steve Uhlig and
+               Rick Weber},
+  title     = {Pushing {CDN-ISP} collaboration to the limit},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {34-44},
+}
+
+@article{DBLP:journals/ccr/SaucezID13,
+  author    = {Damien Saucez and
+               Luigi Iannone and
+               Benoit Donnet},
+  title     = {A first measurement look at the deployment and evolution of thelocator/id separation protocol},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {37-43},
 }
 
 @article{DBLP:journals/ccr/Godfrey13,
@@ -63,6 +3531,31 @@
   number    = {1},
   year      = 2013,
   pages     = {43-45},
+}
+
+@article{DBLP:journals/ccr/PelechrinisKWZ13,
+  author    = {Konstantinos Pelechrinis and
+               Prashant Krishnamurthy and
+               Martin B. H. Weiss and
+               Taieb Znati},
+  title     = {Cognitive radio networks: realistic or not?},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {44-51},
+}
+
+@article{DBLP:journals/ccr/BassoMM13,
+  author    = {Simone Basso and
+               Michela Meo and
+               Juan Carlos De Martin},
+  title     = {Strengthening measurements from the edges: application-level packet loss rate estimation},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {45-51},
 }
 
 @article{DBLP:journals/ccr/ArslanYG13,
@@ -88,6 +3581,89 @@
   pages     = {51-55},
 }
 
+@article{DBLP:journals/ccr/MtibaaFHA13,
+  author    = {Abderrahmen Mtibaa and
+               Afnan Fahim and
+               Khaled A. Harras and
+               Mostafa H. Ammar},
+  title     = {Towards resource sharing in mobile device clouds: power balancing across mobile devices},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {51-56},
+}
+
+@article{DBLP:journals/ccr/StriegelLMPHL13,
+  author    = {Aaron Striegel and
+               Shu Liu and
+               Lei Meng and
+               Christian Poellabauer and
+               David Hachen and
+               Omar Lizardo},
+  title     = {Lessons learned from the netsense smartphone study},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {51-56},
+}
+
+@article{DBLP:journals/ccr/SathiaseelanC13a,
+  author    = {Arjuna Sathiaseelan and
+               Jon Crowcroft},
+  title     = {LCD-Net: lowest cost denominator networking},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {52-57},
+}
+
+@article{DBLP:journals/ccr/WangXBNSS13,
+  author    = {Howard Wang and
+               Yiting Xia and
+               Keren Bergman and
+               T. S. Eugene Ng and
+               Sambit Sahu and
+               Kunwadee Sripanidkulchai},
+  title     = {Rethinking the physical layer of data center networks of the next decade: using optics to enable efficient *-cast connectivity},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {52-58},
+}
+
+@article{DBLP:journals/ccr/KrishnamoorthiBCEMS13,
+  author    = {Vengatanathan Krishnamoorthi and
+               Patrik Bergström and
+               Niklas Carlsson and
+               Derek L. Eager and
+               Anirban Mahanti and
+               Nahid Shahmehri},
+  title     = {Empowering the creative user: personalized {HTTP-based} adaptive streaming of multi-path nonlinear video},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {53-58},
+}
+
+@article{DBLP:journals/ccr/WangRNOR13,
+  author    = {Yaogong Wang and
+               Natalya Rozhnova and
+               Ashok Narayanan and
+               David Oran and
+               Injong Rhee},
+  title     = {An improved hop-by-hop interest shaper for congestion control in named data networking},
+  journal   = ccr,
+  volume    = {43},
+  number    = {4},
+  year      = 2013,
+  pages     = {55-60},
+}
+
 @article{DBLP:journals/ccr/RexfordZ13,
   author    = {Jennifer Rexford and
                Pamela Zave},
@@ -97,6 +3673,186 @@
   number    = {1},
   year      = 2013,
   pages     = {56-59},
+}
+
+@article{DBLP:journals/ccr/BagnuloEBTW13,
+  author    = {Marcelo Bagnulo and
+               Philip Eardley and
+               Trevor Burbridge and
+               Brian Trammell and
+               Rolf Winter},
+  title     = {Standardizing large-scale measurement platforms},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {58-63},
+}
+
+@article{DBLP:journals/ccr/BianchiDCB13,
+  author    = {Giuseppe Bianchi and
+               Andrea Detti and
+               Alberto Caponi and
+               Nicola Blefari-Melazzi},
+  title     = {Check before storing: what is the performance price of content integrity verification in {LRU} caching?},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {59-67},
+}
+
+@article{DBLP:journals/ccr/Perez-CostaFKQSSSV13,
+  author    = {Xavier Pérez Costa and
+               Andreas Festag and
+               Hans-Joerg Kolbe and
+               Jürgen Quittek and
+               Stefan Schmid and
+               Martin Stiemerling and
+               Joerg Swetina and
+               Hans van der Veen},
+  title     = {Latest trends in telecommunication standards},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {64-71},
+}
+
+@article{DBLP:journals/ccr/BraemBBRFNBPGVKNBTM13,
+  author    = {Bart Braem and
+               Chris Blondia and
+               Christoph Barz and
+               Henning Rogge and
+               Felix Freitag and
+               Leandro Navarro and
+               Joseph Bonicioli and
+               Stavros Papathanasiou and
+               Pau Escrich Garcia and
+               Roger Baig Viñas and
+               Aaron L. Kaplan and
+               Axel Neumann and
+               Ivan Vilata i Balaguer and
+               Blaine Tatum and
+               Malcolm Matson},
+  title     = {A case for research with and on community networks},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {68-73},
+}
+
+@article{DBLP:journals/ccr/Partridge13,
+  author    = {Craig Partridge},
+  title     = {An informal history of {ACM} {SIGCOMM} computer communication review 1970-2012},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {72-73},
+}
+
+@article{DBLP:journals/ccr/KaafarBD13,
+  author    = {Mohamed Ali Kâafar and
+               Shlomo Berkovsky and
+               Benoit Donnet},
+  title     = {On the potential of recommendation technologies for efficient content delivery networks},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {74-77},
+}
+
+@article{DBLP:journals/ccr/CalvoGTLMMB13,
+  author    = {Fernando Garcia Calvo and
+               Javier Lucendo de Gregorio and
+               Fernando Soto de Toro and
+               Joaquin Munoz Lopez and
+               Teo Mayo Muniz and
+               José María Miranda and
+               Oscar Gavilan Ballesteros},
+  title     = {Highlights of consumer electronics show (ces) 2013},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {74-78},
+}
+
+@article{DBLP:journals/ccr/Allman13a,
+  author    = {Mark Allman},
+  title     = {On changing the culture of empirical internet assessment},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {78-83},
+}
+
+@article{DBLP:journals/ccr/GuerinB13,
+  author    = {Roch Guérin and
+               Olivier Bonaventure},
+  title     = {Introducing short papers at conext 2013},
+  journal   = ccr,
+  volume    = {43},
+  number    = {2},
+  year      = 2013,
+  pages     = {79},
+}
+
+@article{DBLP:journals/ccr/BurnettF13,
+  author    = {Sam Burnett and
+               Nick Feamster},
+  title     = {Making sense of internet censorship: a new frontier for internet measurement},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {84-89},
+}
+
+@article{DBLP:journals/ccr/Mogul13,
+  author    = {Jeffrey C. Mogul},
+  title     = {Towards more constructive reviewing of {SIGCOMM} papers},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {90-94},
+}
+
+@article{DBLP:journals/ccr/claffyC13,
+  author    = {kc claffy and
+               David D. Clark},
+  title     = {Workshop on internet economics (WIE2012) report},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {95-100},
+}
+
+@article{DBLP:journals/ccr/claffy13,
+  author    = {kc claffy},
+  title     = {The 5th workshop on active internet measurements (AIMS-5) report},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {101-107},
+}
+
+@article{DBLP:journals/ccr/GassS13,
+  author    = {Richard Charles Gass and
+               Damien Saucez},
+  title     = {Notes from an internet chair: offloading network servicesto the cloud for a low budget conference wirelesssolution},
+  journal   = ccr,
+  volume    = {43},
+  number    = {3},
+  year      = 2013,
+  pages     = {108-110},
 }
 
 @article{DBLP:journals/ccr/LamRPVV12,
@@ -338,7 +4094,7 @@
 }
 
 @article{DBLP:journals/ccr/SofiaMDHGGB12,
-  author    = {Rute Sofia and
+  author    = {Rute C. Sofia and
                Paulo Mendes and
                Manuel José Damásio and
                Sara Henriques and
@@ -473,7 +4229,7 @@
 
 @article{DBLP:journals/ccr/TilakP12,
   author    = {Sameer S. Tilak and
-               Philip Papadopoulos},
+               Philip M. Papadopoulos},
   title     = {The case for a rigorous approach to automating software operations and management of large-scale sensor networks},
   journal   = ccr,
   volume    = {42},
@@ -841,9 +4597,9 @@
 }
 
 @article{DBLP:journals/ccr/ChenCYCH12,
-  author    = {Chien-nan Chen and
+  author    = {Chien-Nan (Shannon) Chen and
                Cing-yu Chu and
-               Su-ling Yeh and
+               Su-Ling Yeh and
                Hao-Hua Chu and
                Polly Huang},
   title     = {Measuring the perceptual quality of Skype sources},
@@ -1161,7 +4917,7 @@
 }
 
 @article{DBLP:journals/ccr/VaqueroRB11,
-  author    = {Luis M. Vaquero and
+  author    = {Luis Miguel Vaquero and
                Luis Rodero-Merino and
                Rajkumar Buyya},
   title     = {Dynamically scaling applications in the cloud},
@@ -1681,7 +5437,7 @@
 @article{DBLP:journals/ccr/FarringtonHMYM10,
   author    = {Nathan Farrington and
                Nikhil Handigol and
-               Christoph Mayer and
+               Christoph P. Mayer and
                Kok-Kiong Yap and
                Jeffrey C. Mogul},
   title     = {Report on {WREN} 2009 -- workshop: research on enterprise networking},
@@ -1845,7 +5601,7 @@
 
 @article{DBLP:journals/ccr/CaesarCKRS10,
   author    = {Matthew Caesar and
-               Martin Casado and
+               Martín Casado and
                Teemu Koponen and
                Jennifer Rexford and
                Scott Shenker},
@@ -1871,7 +5627,7 @@
 }
 
 @article{DBLP:journals/ccr/MaederZ10,
-  author    = {Andreas Maeder and
+  author    = {Andreas Mäder and
                Nader Zein},
   title     = {{OFDMA} in the field: current and future challenges},
   journal   = ccr,
@@ -1976,7 +5732,7 @@
 }
 
 @article{DBLP:journals/ccr/TangMML10,
-  author    = {John Tang and
+  author    = {John Kit Tang and
                Mirco Musolesi and
                Cecilia Mascolo and
                Vito Latora},
@@ -2445,7 +6201,7 @@
 }
 
 @article{DBLP:journals/ccr/GonzalezMCL09,
-  author    = {Luis Miguel Vaquero Gonzalez and
+  author    = {Luis Miguel Vaquero González and
                Luis Rodero-Merino and
                Juan Caceres and
                Maik A. Lindner},
@@ -3076,7 +6832,7 @@
   author    = {Tim Strayer and
                Mark Allman and
                Grenville J. Armitage and
-               Steve Bellovin and
+               Steven M. Bellovin and
                Shudong Jin and
                Andrew W. Moore},
   title     = {{IMRG} workshop on application classification and identification report},
@@ -3125,7 +6881,7 @@
                Teemu Koponen and
                Justin Pettit and
                Ben Pfaff and
-               Martin Casado and
+               Martín Casado and
                Nick McKeown and
                Scott Shenker},
   title     = {NOX: towards an operating system for networks},
@@ -3339,7 +7095,7 @@
   author    = {Srikanth Kandula and
                Dina Katabi and
                Shantanu Sinha and
-               Arthur Berger},
+               Arthur W. Berger},
   title     = {Dynamic load balancing without packet reordering},
   journal   = ccr,
   volume    = {37},
@@ -3576,7 +7332,7 @@
 }
 
 @article{DBLP:journals/ccr/Keshav07,
-  author    = {S. Keshav},
+  author    = {Srinivasan Keshav},
   title     = {How to read a paper},
   journal   = ccr,
   volume    = {37},
@@ -3702,7 +7458,7 @@
   author    = {Shimin Guo and
                Mohammad Hossein Falaki and
                Earl A. Oliver and
-               S. Ur Rahman and
+               Sumair Ur Rahman and
                Aaditeshwar Seth and
                Matei A. Zaharia and
                Srinivasan Keshav},
@@ -4273,7 +8029,7 @@
 }
 
 @article{DBLP:journals/ccr/Keshav06,
-  author    = {S. Keshav},
+  author    = {Srinivasan Keshav},
   title     = {Efficient and decentralized computation of approximate global state},
   journal   = ccr,
   volume    = {36},
@@ -5059,7 +8815,7 @@
 
 @article{DBLP:journals/ccr/CaldwellGGGHR04,
   author    = {Donald F. Caldwell and
-               Anna Gilbert and
+               Anna C. Gilbert and
                Joel Gottlieb and
                Albert G. Greenberg and
                Gísli Hjálmtýsson and
@@ -5145,7 +8901,7 @@
 
 @article{DBLP:journals/ccr/GaynorB04,
   author    = {Mark Gaynor and
-               Scott Bradner},
+               Scott O. Bradner},
   title     = {A real options framework to value network, protocol, and service architecture},
   journal   = ccr,
   volume    = {34},
@@ -5374,7 +9130,7 @@
 
 @article{DBLP:journals/ccr/BiswasM04,
   author    = {Sanjit Biswas and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Opportunistic routing in multi-hop wireless networks},
   journal   = ccr,
   volume    = {34},
@@ -5478,7 +9234,7 @@
 }
 
 @article{DBLP:journals/ccr/GurtovF04,
-  author    = {Andrei Gurtov and
+  author    = {Andrei V. Gurtov and
                Sally Floyd},
   title     = {Modeling wireless links for transport protocols},
   journal   = ccr,
@@ -5601,7 +9357,7 @@
                Frank Dabek and
                M. Frans Kaashoek and
                Jinyang Li and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Practical, distributed network coordinates},
   journal   = ccr,
   volume    = {34},
@@ -5737,7 +9493,7 @@
   author    = {David G. Andersen and
                Hari Balakrishnan and
                M. Frans Kaashoek and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Experience with an evolving overlay network testbed},
   journal   = ccr,
   volume    = {33},
@@ -5884,7 +9640,7 @@
 }
 
 @article{DBLP:journals/ccr/TuranyiVC03,
-  author    = {Zoltán Turányi and
+  author    = {Zoltán Richard Turányi and
                András Gergely Valkó and
                Andrew T. Campbell},
   title     = {4+4: an architecture for evolving the Internet address space back toward transparency},
@@ -6095,7 +9851,7 @@
   author    = {Douglas S. J. De Couto and
                Daniel Aguayo and
                Benjamin A. Chambers and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Performance of multihop wireless networks: shortest path is not enough},
   journal   = ccr,
   volume    = {33},
@@ -6743,7 +10499,7 @@
 }
 
 @article{DBLP:journals/ccr/CasadoVAM02,
-  author    = {Martin Casado and
+  author    = {Martín Casado and
                Vikram Vijayaraghavan and
                Guido Appenzeller and
                Nick McKeown},
@@ -6948,7 +10704,7 @@
   author    = {Kwan-Wu Chin and
                John Judge and
                Aidan Williams and
-               Roger Kermode},
+               Roger G. Kermode},
   title     = {Implementation experience with {MANET} routing protocols},
   journal   = ccr,
   volume    = {32},
@@ -7093,7 +10849,7 @@
   author    = {David G. Andersen and
                Hari Balakrishnan and
                M. Frans Kaashoek and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Resilient overlay networks},
   journal   = ccr,
   volume    = {32},
@@ -7214,7 +10970,7 @@
   author    = {Jaeyeon Jung and
                Emil Sit and
                Hari Balakrishnan and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {{DNS} performance and the effectiveness of caching},
   journal   = ccr,
   volume    = {32},
@@ -7964,7 +11720,7 @@
                Michael E. Kounavis and
                Kazuho Miki and
                John B. Vicente and
-               Daniel A. Villela},
+               Daniel A. M. Villela},
   title     = {A survey of programmable networks},
   journal   = ccr,
   volume    = {29},
@@ -8154,8 +11910,8 @@
 }
 
 @article{DBLP:journals/ccr/WilliamsonF99,
-  author    = {Brad Williamson and
-               Craig Farrell},
+  author    = {Brad J. Williamson and
+               Craig A. Farrell},
   title     = {Independent active program representation using ASN. 1},
   journal   = ccr,
   volume    = {29},
@@ -8168,7 +11924,7 @@
   author    = {Stefan Savage and
                Neal Cardwell and
                David Wetherall and
-               Tom Anderson},
+               Thomas E. Anderson},
   title     = {{TCP} congestion control with a misbehaving receiver},
   journal   = ccr,
   volume    = {29},
@@ -8249,7 +12005,7 @@
 
 @article{DBLP:journals/ccr/SinghR98,
   author    = {Suresh Singh and
-               C. S. Raghavendra},
+               Cauligi S. Raghavendra},
   title     = {{PAMAS} - power aware multi-access protocol with signalling for ad hoc networks},
   journal   = ccr,
   volume    = {28},
@@ -8444,7 +12200,7 @@
   author    = {Stéphane Spahni and
                Jean-Raoul Scherrer and
                Dominique Sauquet and
-               Pier-Angelo Sottile},
+               Pier Angelo Sottile},
   title     = {Consensual trends for optimizing the constitution of middleware},
   journal   = ccr,
   volume    = {28},
@@ -8672,7 +12428,7 @@
 }
 
 @article{DBLP:journals/ccr/Heidemann97,
-  author    = {John Heidemann},
+  author    = {John S. Heidemann},
   title     = {Performance interactions between {P-HTTP} and {TCP} implementations},
   journal   = ccr,
   volume    = {27},
@@ -8739,6 +12495,2239 @@
   pages     = {118-135},
 }
 
+@article{DBLP:journals/ccr/TennenhouseW96,
+  author    = {David L. Tennenhouse and
+               David Wetherall},
+  title     = {Towards an active network architecture},
+  journal   = ccr,
+  volume    = {26},
+  number    = {2},
+  year      = 1996,
+  pages     = {5-17},
+}
+
+@article{DBLP:journals/ccr/FallF96,
+  author    = {Kevin R. Fall and
+               Sally Floyd},
+  title     = {Simulation-based comparisons of Tahoe, Reno and {SACK} {TCP}},
+  journal   = ccr,
+  volume    = {26},
+  number    = {3},
+  year      = 1996,
+  pages     = {5-21},
+}
+
+@article{DBLP:journals/ccr/Jablon96,
+  author    = {David P. Jablon},
+  title     = {Strong password-only authenticated key exchange},
+  journal   = ccr,
+  volume    = {26},
+  number    = {5},
+  year      = 1996,
+  pages     = {5-26},
+}
+
+@article{DBLP:journals/ccr/CoffeyS96,
+  author    = {Tom Coffey and
+               Puneet Saidha},
+  title     = {Non-repudiation with mandatory proof of receipt},
+  journal   = ccr,
+  volume    = {26},
+  number    = {1},
+  year      = 1996,
+  pages     = {6-17},
+}
+
+@article{DBLP:journals/ccr/SinghTB96,
+  author    = {Raj K. Singh and
+               Stephen G. Tell and
+               Shaun J. Bharrat},
+  title     = {Comparison of Raw and Internet protocols in a HIPPI/ATM/{SONET} based gigabit network},
+  journal   = ccr,
+  volume    = {26},
+  number    = {1},
+  year      = 1996,
+  pages     = {18-28},
+}
+
+@article{DBLP:journals/ccr/ShenkerCEH96,
+  author    = {Scott Shenker and
+               David D. Clark and
+               Deborah Estrin and
+               Shai Herzog},
+  title     = {Pricing in computer networks: reshaping the research agenda},
+  journal   = ccr,
+  volume    = {26},
+  number    = {2},
+  year      = 1996,
+  pages     = {19-43},
+}
+
+@article{DBLP:journals/ccr/PadmanabhanM96,
+  author    = {Venkata N. Padmanabhan and
+               Jeffrey C. Mogul},
+  title     = {Using predictive prefetching to improve World Wide Web latency},
+  journal   = ccr,
+  volume    = {26},
+  number    = {3},
+  year      = 1996,
+  pages     = {22-36},
+}
+
+@article{DBLP:journals/ccr/FinnHM96,
+  author    = {Gregory G. Finn and
+               Steve Hotz and
+               Rodney Van Meter},
+  title     = {The impact of a zero-scan Internet checksumming mechanism},
+  journal   = ccr,
+  volume    = {26},
+  number    = {5},
+  year      = 1996,
+  pages     = {27-39},
+}
+
+@article{DBLP:journals/ccr/ChanLN96,
+  author    = {Edward Chan and
+               Victor C. S. Lee and
+               Jim M. Ng},
+  title     = {On the performance of bandwidth allocation strategies for interconnecting {ATM} and connectionless networks},
+  journal   = ccr,
+  volume    = {26},
+  number    = {1},
+  year      = 1996,
+  pages     = {29-38},
+}
+
+@article{DBLP:journals/ccr/Ravindran96,
+  author    = {K. Ravindran},
+  title     = {Architectural and protocol frameworks for multicast data transport in multi-service networks},
+  journal   = ccr,
+  volume    = {26},
+  number    = {3},
+  year      = 1996,
+  pages     = {37-58},
+}
+
+@article{DBLP:journals/ccr/Saleh96,
+  author    = {Kassem Saleh},
+  title     = {Synthesis of communications protocols: an annotated bibliography},
+  journal   = ccr,
+  volume    = {26},
+  number    = {5},
+  year      = 1996,
+  pages     = {40-59},
+}
+
+@article{DBLP:journals/ccr/PrithvirajW96,
+  author    = {Narayanan Prithviraj and
+               Carey L. Williamson},
+  title     = {A virtual loss-load congestion control strategy for high speed networks},
+  journal   = ccr,
+  volume    = {26},
+  number    = {2},
+  year      = 1996,
+  pages     = {44-63},
+}
+
+@article{DBLP:journals/ccr/Znaty96,
+  author    = {Simon Znaty},
+  title     = {Service and network management in the {OAMS} open service architecture},
+  journal   = ccr,
+  volume    = {26},
+  number    = {3},
+  year      = 1996,
+  pages     = {59-75},
+}
+
+@article{DBLP:journals/ccr/BrownS96,
+  author    = {Kevin Q. Brown and
+               Suresh Singh},
+  title     = {M-UDP: {UDP} for mobile cellular networks},
+  journal   = ccr,
+  volume    = {26},
+  number    = {5},
+  year      = 1996,
+  pages     = {60-78},
+}
+
+@article{DBLP:journals/ccr/Tuvell96,
+  author    = {Walter Tuvell},
+  title     = {Response to "Problems with {DCE} security services"},
+  journal   = ccr,
+  volume    = {26},
+  number    = {2},
+  year      = 1996,
+  pages     = {64-73},
+}
+
+@article{DBLP:journals/ccr/HuangL96,
+  author    = {Chung-Ming Huang and
+               Ruey-Yang Lee},
+  title     = {Quantification of quality-of-presentations (QOPs) for multimedia synchronization schemes},
+  journal   = ccr,
+  volume    = {26},
+  number    = {3},
+  year      = 1996,
+  pages     = {76-104},
+}
+
+@article{DBLP:journals/ccr/HuangL95,
+  author    = {Chung-Ming Huang and
+               Shiun-Wei Lee},
+  title     = {Timed protocol verification for Estelle-specified protocols},
+  journal   = ccr,
+  volume    = {25},
+  number    = {3},
+  year      = 1995,
+  pages     = {4-32},
+}
+
+@article{DBLP:journals/ccr/WhiteP95,
+  author    = {Gregory B. White and
+               Udo W. Pooch},
+  title     = {Problems with {DCE} security services},
+  journal   = ccr,
+  volume    = {25},
+  number    = {5},
+  year      = 1995,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/ccr/SiuJ95,
+  author    = {Kai-Yeung Siu and
+               Raj Jain},
+  title     = {A brief overview of ATM: protocol layers, {LAN} emulation, and traffic management},
+  journal   = ccr,
+  volume    = {25},
+  number    = {2},
+  year      = 1995,
+  pages     = {6-20},
+}
+
+@article{DBLP:journals/ccr/Oran95,
+  author    = {David Oran},
+  title     = {Contents of the Computer Communication Review 1970-1994},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {9-32},
+}
+
+@article{DBLP:journals/ccr/BoutabaZ95,
+  author    = {Raouf Boutaba and
+               Simon Znaty},
+  title     = {An architectural approach for integrated network and systems management},
+  journal   = ccr,
+  volume    = {25},
+  number    = {5},
+  year      = 1995,
+  pages     = {13-38},
+}
+
+@article{DBLP:journals/ccr/Stiller95,
+  author    = {Burkhard Stiller},
+  title     = {A survey of {UNI} signaling systems and protocols for {ATM} networks},
+  journal   = ccr,
+  volume    = {25},
+  number    = {2},
+  year      = 1995,
+  pages     = {21-33},
+}
+
+@article{DBLP:journals/ccr/Kleinrock95,
+  author    = {Leonard Kleinrock},
+  title     = {Research areas in computer communication},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {33-35},
+}
+
+@article{DBLP:journals/ccr/KandlurSW95,
+  author    = {Dilip D. Kandlur and
+               Debanjan Saha and
+               Marc Willebeek-LeMair},
+  title     = {Protocol architecture for multimedia applications over {ATM} networks},
+  journal   = ccr,
+  volume    = {25},
+  number    = {3},
+  year      = 1995,
+  pages     = {33-43},
+}
+
+@article{DBLP:journals/ccr/Armitage95,
+  author    = {Grenville J. Armitage},
+  title     = {Multicast and multiprotocol support for {ATM} based Internets},
+  journal   = ccr,
+  volume    = {25},
+  number    = {2},
+  year      = 1995,
+  pages     = {34-46},
+}
+
+@article{DBLP:journals/ccr/Kleinrock95a,
+  author    = {Leonard Kleinrock},
+  title     = {Nomadic computing - an opportunity},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {36-40},
+}
+
+@article{DBLP:journals/ccr/Day95,
+  author    = {John Day},
+  title     = {The (un)revised {OSI} reference model},
+  journal   = ccr,
+  volume    = {25},
+  number    = {5},
+  year      = 1995,
+  pages     = {39-55},
+}
+
+@article{DBLP:journals/ccr/Kuo95,
+  author    = {Franklin F. Kuo},
+  title     = {The {ALOHA} System},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {41-44},
+}
+
+@article{DBLP:journals/ccr/AneroussisLP95,
+  author    = {Nikos G. Aneroussis and
+               Aurel A. Lazar and
+               Dimitrios E. Pendarakis},
+  title     = {Taming Xunet {III}},
+  journal   = ccr,
+  volume    = {25},
+  number    = {3},
+  year      = 1995,
+  pages     = {44-65},
+}
+
+@article{DBLP:journals/ccr/Tomlinson95,
+  author    = {Raymond S. Tomlinson},
+  title     = {Selecting sequence numbers},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {45-53},
+}
+
+@article{DBLP:journals/ccr/Henderson95,
+  author    = {Thomas R. Henderson},
+  title     = {Design principles and performance analysis of SSCOP: a new {ATM} adaptation layer protocol},
+  journal   = ccr,
+  volume    = {25},
+  number    = {2},
+  year      = 1995,
+  pages     = {47-59},
+}
+
+@article{DBLP:journals/ccr/McQuillanRR95,
+  author    = {John M. McQuillan and
+               Ira Richer and
+               Eric C. Rosen},
+  title     = {An overview of the new routing algorithm for the {ARPANET}},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {54-60},
+}
+
+@article{DBLP:journals/ccr/CelandroniFPBP95,
+  author    = {Nedo Celandroni and
+               Erina Ferro and
+               Francesco Potorti and
+               Alessandro Bellini and
+               Franco Pirri},
+  title     = {Practical experiences in interconnecting {LANs} via satellite},
+  journal   = ccr,
+  volume    = {25},
+  number    = {5},
+  year      = 1995,
+  pages     = {56-68},
+}
+
+@article{DBLP:journals/ccr/OhsakiMSIM95,
+  author    = {Hiroyuki Ohsaki and
+               Masayuki Murata and
+               Hiroshi Suzuki and
+               Chinatsu Ikeda and
+               Hideo Miyahara},
+  title     = {Rate-based congestion control for {ATM} networks},
+  journal   = ccr,
+  volume    = {25},
+  number    = {2},
+  year      = 1995,
+  pages     = {60-72},
+}
+
+@article{DBLP:journals/ccr/Nagle95,
+  author    = {John Nagle},
+  title     = {Congestion control in IP/{TCP} internetworks},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {61-65},
+}
+
+@article{DBLP:journals/ccr/KarnP95,
+  author    = {Phil Karn and
+               Craig Partridge},
+  title     = {Improving round-trip time estimates in reliable transport protocols},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {66-74},
+}
+
+@article{DBLP:journals/ccr/WuHM95,
+  author    = {Chiung-Shien Wu and
+               Nen-Fu Huang and
+               Gin-Kou Ma},
+  title     = {A dual bus approach for {LAN} interworking with {ATM} networks},
+  journal   = ccr,
+  volume    = {25},
+  number    = {3},
+  year      = 1995,
+  pages     = {66-85},
+}
+
+@article{DBLP:journals/ccr/BrakmoP95,
+  author    = {Lawrence S. Brakmo and
+               Larry L. Peterson},
+  title     = {Performance problems in BSD4. 4{TCP}},
+  journal   = ccr,
+  volume    = {25},
+  number    = {5},
+  year      = 1995,
+  pages     = {69-86},
+}
+
+@article{DBLP:journals/ccr/RaoH95,
+  author    = {Sailesh K. Rao and
+               Mehdi Hatamian},
+  title     = {The {ATM} physical layer},
+  journal   = ccr,
+  volume    = {25},
+  number    = {2},
+  year      = 1995,
+  pages     = {73-81},
+}
+
+@article{DBLP:journals/ccr/KentM95,
+  author    = {Christopher A. Kent and
+               Jeffrey C. Mogul},
+  title     = {Fragmentation considered harmful},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {75-87},
+}
+
+@article{DBLP:journals/ccr/Lee95,
+  author    = {Whay C. Lee},
+  title     = {Topology aggregation for hierarchical routing in {ATM} networks},
+  journal   = ccr,
+  volume    = {25},
+  number    = {2},
+  year      = 1995,
+  pages     = {82-92},
+}
+
+@article{DBLP:journals/ccr/Sreenstrup95,
+  author    = {Martha Sreenstrup},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {25},
+  number    = {5},
+  year      = 1995,
+  pages     = {87-96},
+}
+
+@article{DBLP:journals/ccr/Deering95,
+  author    = {Stephen E. Deering},
+  title     = {Multicast routing in internetworks and extended {LANs}},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {88-101},
+}
+
+@article{DBLP:journals/ccr/SimcoeP95,
+  author    = {Robert J. Simcoe and
+               Tong-Bi Pei},
+  title     = {Perspectives on {ATM} switch architecture and the influence of traffic pattern assumptions on switch design},
+  journal   = ccr,
+  volume    = {25},
+  number    = {2},
+  year      = 1995,
+  pages     = {93-105},
+}
+
+@article{DBLP:journals/ccr/Clark95,
+  author    = {David D. Clark},
+  title     = {The design philosophy of the {DARPA} Internet Protocols},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {102-111},
+}
+
+@article{DBLP:journals/ccr/MockapetrisD95,
+  author    = {Paul V. Mockapetris and
+               Kevin J. Dunlap},
+  title     = {Development of the Domain Name System},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {112-122},
+}
+
+@article{DBLP:journals/ccr/BoggsMK95,
+  author    = {David R. Boggs and
+               Jeffrey C. Mogul and
+               Christopher A. Kent},
+  title     = {Measured capacity of an Ethernet: myths and reality},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {123-136},
+}
+
+@article{DBLP:journals/ccr/BoggsMK95a,
+  author    = {David R. Boggs and
+               Jeffrey C. Mogul and
+               Christopher A. Kent},
+  title     = {Errata for "Measured capacity of an Ethernet: myths and reality"},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {138},
+}
+
+@article{DBLP:journals/ccr/RamakrishnanJ95,
+  author    = {K. K. Ramakrishnan and
+               Raj Jain},
+  title     = {A binary feedback scheme for congestion avoidance in computer networks with a connectionless network layer},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {138-156},
+}
+
+@article{DBLP:journals/ccr/Jacobson95,
+  author    = {V. Jacobson},
+  title     = {Congestion avoidance and control},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {157-187},
+}
+
+@article{DBLP:journals/ccr/Keshav95,
+  author    = {Srinivasan Keshav},
+  title     = {A control-theoretic approach to flow control},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {188-201},
+}
+
+@article{DBLP:journals/ccr/LelandWTW95,
+  author    = {Will E. Leland and
+               Walter Willinger and
+               Murad S. Taqqu and
+               Daniel V. Wilson},
+  title     = {On the self-similar nature of Ethernet traffic},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {202-213},
+}
+
+@article{DBLP:journals/ccr/Adams95,
+  author    = {Jim Adams},
+  title     = {In memory of Walt Kosinski},
+  journal   = ccr,
+  volume    = {25},
+  number    = {1},
+  year      = 1995,
+  pages     = {214},
+}
+
+@article{DBLP:journals/ccr/CampbellCH94,
+  author    = {Andrew T. Campbell and
+               Geoff Coulson and
+               David Hutchison},
+  title     = {A quality of service architecture},
+  journal   = ccr,
+  volume    = {24},
+  number    = {2},
+  year      = 1994,
+  pages     = {6-27},
+}
+
+@article{DBLP:journals/ccr/Vis94,
+  author    = {Jan Vis},
+  title     = {A simple {LAN} performance measure},
+  journal   = ccr,
+  volume    = {24},
+  number    = {1},
+  year      = 1994,
+  pages     = {7-11},
+}
+
+@article{DBLP:journals/ccr/SinghTB94,
+  author    = {Raj K. Singh and
+               Stephen G. Tell and
+               Shaun J. Bharrat},
+  title     = {A programmable network interface for a message-based multicomputer},
+  journal   = ccr,
+  volume    = {24},
+  number    = {3},
+  year      = 1994,
+  pages     = {8-17},
+}
+
+@article{DBLP:journals/ccr/Floyd94,
+  author    = {Sally Floyd},
+  title     = {{TCP} and explicit congestion notification},
+  journal   = ccr,
+  volume    = {24},
+  number    = {5},
+  year      = 1994,
+  pages     = {8-23},
+}
+
+@article{DBLP:journals/ccr/Aziz94,
+  author    = {Ashar Aziz},
+  title     = {A scalable and efficient intra-domain tunneling {mobile-IP} scheme},
+  journal   = ccr,
+  volume    = {24},
+  number    = {1},
+  year      = 1994,
+  pages     = {12-20},
+}
+
+@article{DBLP:journals/ccr/StanberryBN94,
+  author    = {L. C. Stanberry and
+               M. L. Branstetter and
+               Dan M. Nessett},
+  title     = {Vectorized presentation-level services for scientific distributed applications},
+  journal   = ccr,
+  volume    = {24},
+  number    = {3},
+  year      = 1994,
+  pages     = {18-27},
+}
+
+@article{DBLP:journals/ccr/SadikuA94,
+  author    = {Matthew N. O. Sadiku and
+               A. S. Arvind},
+  title     = {Annotated bibliography on Distributed Queue Dual Bus (DQDB)},
+  journal   = ccr,
+  volume    = {24},
+  number    = {1},
+  year      = 1994,
+  pages     = {21-36},
+}
+
+@article{DBLP:journals/ccr/AlankoKLLMR94,
+  author    = {Timo O. Alanko and
+               Markku Kojo and
+               Heimo Laamanen and
+               Mika Liljeberg and
+               Marko Moilanen and
+               Kimmo E. E. Raatikainen},
+  title     = {Measured performance of data transmission over cellular telephone networks},
+  journal   = ccr,
+  volume    = {24},
+  number    = {5},
+  year      = 1994,
+  pages     = {24-44},
+}
+
+@article{DBLP:journals/ccr/Barker94,
+  author    = {Paul Barker},
+  title     = {Providing the X.500 directory user with {QOS} information},
+  journal   = ccr,
+  volume    = {24},
+  number    = {3},
+  year      = 1994,
+  pages     = {28-37},
+}
+
+@article{DBLP:journals/ccr/Mills94,
+  author    = {David L. Mills},
+  title     = {Precision synchronization of computer network clocks},
+  journal   = ccr,
+  volume    = {24},
+  number    = {2},
+  year      = 1994,
+  pages     = {28-43},
+}
+
+@article{DBLP:journals/ccr/ZnatyS94,
+  author    = {Simon Znaty and
+               Jean Sclavos},
+  title     = {Annotated bibliography on network management},
+  journal   = ccr,
+  volume    = {24},
+  number    = {1},
+  year      = 1994,
+  pages     = {37-56},
+}
+
+@article{DBLP:journals/ccr/SadokK94,
+  author    = {Djamel Fawzi Hadj Sadok and
+               Judith Kelner},
+  title     = {Privacy enhanced mail design and implementation perspectives},
+  journal   = ccr,
+  volume    = {24},
+  number    = {3},
+  year      = 1994,
+  pages     = {38-46},
+}
+
+@article{DBLP:journals/ccr/ClarkM94,
+  author    = {Russell J. Clark and
+               Amarnath Mukherjee},
+  title     = {Book Review: {FDDI} Handbook: High Speed Networking Using Fiber And Other Media, by Raj Jain ({Addison-Wesley} 1994)},
+  journal   = ccr,
+  volume    = {24},
+  number    = {2},
+  year      = 1994,
+  pages     = {44},
+}
+
+@article{DBLP:journals/ccr/SibillaF94,
+  author    = {Michelle Sibilla and
+               Fabienne Faure},
+  title     = {Report of the IFIP/{IEEE} international workshop on distributed systems: operations and management},
+  journal   = ccr,
+  volume    = {24},
+  number    = {2},
+  year      = 1994,
+  pages     = {45-50},
+}
+
+@article{DBLP:journals/ccr/VillamizarS94,
+  author    = {Curtis Villamizar and
+               Cheng Song},
+  title     = {High performance {TCP} in {ANSNET}},
+  journal   = ccr,
+  volume    = {24},
+  number    = {5},
+  year      = 1994,
+  pages     = {45-60},
+}
+
+@article{DBLP:journals/ccr/Kadirire94,
+  author    = {James Kadirire},
+  title     = {Minimising packet copies in multicast routing by exploiting geographic spread},
+  journal   = ccr,
+  volume    = {24},
+  number    = {3},
+  year      = 1994,
+  pages     = {47-62},
+}
+
+@article{DBLP:journals/ccr/Fountaine94,
+  author    = {Diane Fountaine},
+  title     = {Draft report of the Federal Internetworking Requirements Panel, and selected responses},
+  journal   = ccr,
+  volume    = {24},
+  number    = {2},
+  year      = 1994,
+  pages     = {51-94},
+}
+
+@article{DBLP:journals/ccr/LuPC94,
+  author    = {G. J. Lu and
+               H. K. Pung and
+               T. S. Chua},
+  title     = {Mechanisms of {MPEG} stream synchronization},
+  journal   = ccr,
+  volume    = {24},
+  number    = {1},
+  year      = 1994,
+  pages     = {57-67},
+}
+
+@article{DBLP:journals/ccr/FioriniCTS94,
+  author    = {D. Fiorini and
+               Marco Chiani and
+               Velio Tralli and
+               C. Salati},
+  title     = {Can we trust in HDLC?},
+  journal   = ccr,
+  volume    = {24},
+  number    = {5},
+  year      = 1994,
+  pages     = {61-80},
+}
+
+@article{DBLP:journals/ccr/ZnatyS94a,
+  author    = {Simon Znaty and
+               Jean Sclavos},
+  title     = {Network management viewpoints: a new way of encompassing the network management complexity},
+  journal   = ccr,
+  volume    = {24},
+  number    = {3},
+  year      = 1994,
+  pages     = {63-80},
+}
+
+@article{DBLP:journals/ccr/KhalilKK94,
+  author    = {Ehab A. Khalil and
+               Mohid Khalid and
+               H. B. Kekre},
+  title     = {Data traffic in a new centralized switch node architecture for {LAN}},
+  journal   = ccr,
+  volume    = {24},
+  number    = {1},
+  year      = 1994,
+  pages     = {68-94},
+}
+
+@article{DBLP:journals/ccr/Oran94b,
+  author    = {David Oran},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {24},
+  number    = {3},
+  year      = 1994,
+  pages     = {81-94},
+}
+
+@article{DBLP:journals/ccr/SiuT94,
+  author    = {Kai-Yeung Siu and
+               Hong-Yi Tzeng},
+  title     = {Intelligent congestion control for {ABR} service in {ATM} networks},
+  journal   = ccr,
+  volume    = {24},
+  number    = {5},
+  year      = 1994,
+  pages     = {81-106},
+}
+
+@article{DBLP:journals/ccr/Nessett94,
+  author    = {Dan M. Nessett},
+  title     = {{ISOC} symposium on network and distributed systems security},
+  journal   = ccr,
+  volume    = {24},
+  number    = {2},
+  year      = 1994,
+  pages     = {95-102},
+}
+
+@article{DBLP:journals/ccr/BlairCCDGS94,
+  author    = {Gordon S. Blair and
+               Andrew T. Campbell and
+               Geoff Coulson and
+               Nigel Davies and
+               Francisco Garcia and
+               Doug Shepherd},
+  title     = {Summary of the 4th international workshop on Network and Operating System Support for Digital Audio and Video (NOSSDAV'93)},
+  journal   = ccr,
+  volume    = {24},
+  number    = {1},
+  year      = 1994,
+  pages     = {95-106},
+}
+
+@article{DBLP:journals/ccr/Oran94a,
+  author    = {David Oran},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {24},
+  number    = {2},
+  year      = 1994,
+  pages     = {103-108},
+}
+
+@article{DBLP:journals/ccr/Pike94,
+  author    = {Rob Pike},
+  title     = {Book Review: The Early History of Data Networks by Gerard Holzmann and Bjorn Pehrson ({IEEE} Computer Society Press)},
+  journal   = ccr,
+  volume    = {24},
+  number    = {5},
+  year      = 1994,
+  pages     = {107-108},
+}
+
+@article{DBLP:journals/ccr/Oran94,
+  author    = {David Oran},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {24},
+  number    = {1},
+  year      = 1994,
+  pages     = {108-114},
+}
+
+@article{DBLP:journals/ccr/Chapin94,
+  author    = {Lyman Chapin},
+  title     = {Status of standards},
+  journal   = ccr,
+  volume    = {24},
+  number    = {2},
+  year      = 1994,
+  pages     = {109-136},
+}
+
+@article{DBLP:journals/ccr/Kurose93,
+  author    = {Jim Kurose},
+  title     = {Open issues and challenges in providing quality of service guarantees in high-speed networks},
+  journal   = ccr,
+  volume    = {23},
+  number    = {1},
+  year      = 1993,
+  pages     = {6-15},
+}
+
+@article{DBLP:journals/ccr/Mirhakkak93,
+  author    = {Mohammad Mirhakkak},
+  title     = {A distributed system security architecture: applying the transport layer security protocol},
+  journal   = ccr,
+  volume    = {23},
+  number    = {5},
+  year      = 1993,
+  pages     = {6-16},
+}
+
+@article{DBLP:journals/ccr/Berstein93,
+  author    = {Greg M. Berstein},
+  title     = {Reserved bandwidth and reservationless traffic in rate allocating servers},
+  journal   = ccr,
+  volume    = {23},
+  number    = {3},
+  year      = 1993,
+  pages     = {6-25},
+}
+
+@article{DBLP:journals/ccr/Kumar93,
+  author    = {Brijesh Kumar},
+  title     = {Effect of packet losses on end-user cost in internetworks with usage based charging},
+  journal   = ccr,
+  volume    = {23},
+  number    = {2},
+  year      = 1993,
+  pages     = {9-15},
+}
+
+@article{DBLP:journals/ccr/BaldeschwielerG93,
+  author    = {John Eric Baldeschwieler and
+               Thomas Gutekunst and
+               Bernhard Plattner},
+  title     = {A survey of X protocol multiplexors},
+  journal   = ccr,
+  volume    = {23},
+  number    = {2},
+  year      = 1993,
+  pages     = {16-24},
+}
+
+@article{DBLP:journals/ccr/TsuchiyaE93,
+  author    = {Paul F. Tsuchiya and
+               Tony L. Eng},
+  title     = {Extending the {IP} internet through address reuse},
+  journal   = ccr,
+  volume    = {23},
+  number    = {1},
+  year      = 1993,
+  pages     = {16-33},
+}
+
+@article{DBLP:journals/ccr/KatsavosV93,
+  author    = {Panagiotis Katsavos and
+               Vijay Varadharajan},
+  title     = {Security protocol for Frame Relay},
+  journal   = ccr,
+  volume    = {23},
+  number    = {5},
+  year      = 1993,
+  pages     = {17-35},
+}
+
+@article{DBLP:journals/ccr/Pendergast93,
+  author    = {Mark O. Pendergast},
+  title     = {Multicast channels for collaborative applications: design and performance evaluation},
+  journal   = ccr,
+  volume    = {23},
+  number    = {2},
+  year      = 1993,
+  pages     = {25-38},
+}
+
+@article{DBLP:journals/ccr/Bellovin93,
+  author    = {Steven M. Bellovin},
+  title     = {Packets found on an internet},
+  journal   = ccr,
+  volume    = {23},
+  number    = {3},
+  year      = 1993,
+  pages     = {26-31},
+}
+
+@article{DBLP:journals/ccr/CohenFFD93,
+  author    = {Danny Cohen and
+               Gregory G. Finn and
+               Robert E. Felderman and
+               Annette L. DeSchon},
+  title     = {The use of message-based multicomputer components to construct gigabit networks},
+  journal   = ccr,
+  volume    = {23},
+  number    = {3},
+  year      = 1993,
+  pages     = {32-44},
+}
+
+@article{DBLP:journals/ccr/RajaU93,
+  author    = {Prasad Raja and
+               Gonzalo Ulloa},
+  title     = {A simple encoder for fieldbus applications},
+  journal   = ccr,
+  volume    = {23},
+  number    = {1},
+  year      = 1993,
+  pages     = {34-44},
+}
+
+@article{DBLP:journals/ccr/KumarC93,
+  author    = {Brijesh Kumar and
+               Jon Crowcroft},
+  title     = {Integrating security in inter-domain routing protocols},
+  journal   = ccr,
+  volume    = {23},
+  number    = {5},
+  year      = 1993,
+  pages     = {36-51},
+}
+
+@article{DBLP:journals/ccr/SchmidtC93,
+  author    = {Andrew Schmidt and
+               Roy Campbell},
+  title     = {Internet protocol traffic analysis with applications for {ATM} switch design},
+  journal   = ccr,
+  volume    = {23},
+  number    = {2},
+  year      = 1993,
+  pages     = {39-52},
+}
+
+@article{DBLP:journals/ccr/Lin93,
+  author    = {Huai-An (Paul) Lin},
+  title     = {Estimation of the optimal performance of ASN.1/{BER} transfer syntax},
+  journal   = ccr,
+  volume    = {23},
+  number    = {3},
+  year      = 1993,
+  pages     = {45-58},
+}
+
+@article{DBLP:journals/ccr/TeraokaT93,
+  author    = {Fumio Teraoka and
+               Mario Tokoro},
+  title     = {Host migration transparency in {IP} networks: the {VIP} approach},
+  journal   = ccr,
+  volume    = {23},
+  number    = {1},
+  year      = 1993,
+  pages     = {45-65},
+}
+
+@article{DBLP:journals/ccr/AndreatosPG93,
+  author    = {A. S. Andreatos and
+               Emmanuel N. Protonotarios and
+               G. De Grandi},
+  title     = {The design of a transceiver for packet video communication on an integrated services network},
+  journal   = ccr,
+  volume    = {23},
+  number    = {5},
+  year      = 1993,
+  pages     = {52-59},
+}
+
+@article{DBLP:journals/ccr/Rutsche93,
+  author    = {Erich Rütsche},
+  title     = {The architecture of a Gb/s multimedia protocol adapter},
+  journal   = ccr,
+  volume    = {23},
+  number    = {3},
+  year      = 1993,
+  pages     = {59-68},
+}
+
+@article{DBLP:journals/ccr/Rekhter93,
+  author    = {Yakov Rekhter},
+  title     = {Forwarding database overhead for inter-domain routing},
+  journal   = ccr,
+  volume    = {23},
+  number    = {1},
+  year      = 1993,
+  pages     = {66-81},
+}
+
+@article{DBLP:journals/ccr/RajaNRHD93,
+  author    = {Prasad Raja and
+               Guevara Noubir and
+               Luis Ruiz and
+               Jean Hernandez and
+               Jean-Dominique Decotignie},
+  title     = {Analysis of polling protocols for fieldbus networks},
+  journal   = ccr,
+  volume    = {23},
+  number    = {3},
+  year      = 1993,
+  pages     = {69-90},
+}
+
+@article{DBLP:journals/ccr/Warner93,
+  author    = {Bill Warner},
+  title     = {Book Review: Interconnections: Bridges and Routers by Radia Perlman ({Addison-Wesley} Publishing Company, Inc.)},
+  journal   = ccr,
+  volume    = {23},
+  number    = {2},
+  year      = 1993,
+  pages     = {74-75},
+}
+
+@article{DBLP:journals/ccr/Partridge93,
+  author    = {Craig Partridge},
+  title     = {Review of the Journal of High Speed Networks},
+  journal   = ccr,
+  volume    = {23},
+  number    = {2},
+  year      = 1993,
+  pages     = {76},
+}
+
+@article{DBLP:journals/ccr/Beers93,
+  author    = {James R. Beers Jr.},
+  title     = {Book Review: Internetworking with TCP/{IP} Volume III: {Client-Server} Programming and Applications by Douglas E. Comer and David L. Stevens (Prentice Hall, 1993)},
+  journal   = ccr,
+  volume    = {23},
+  number    = {1},
+  year      = 1993,
+  pages     = {82-83},
+}
+
+@article{DBLP:journals/ccr/AddeoW92,
+  author    = {Eric J. Addeo and
+               Stephen B. Weinstein},
+  title     = {VideoWindow: experimentation with a more natural form of audio/video teleconferencing},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {7-9},
+}
+
+@article{DBLP:journals/ccr/RekhterC92,
+  author    = {Yakov Rekhter and
+               Bilal Chinoy},
+  title     = {Injecting inter-autonomous system routes into intra-autonomous system routing: a performance analysis},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {7-27},
+}
+
+@article{DBLP:journals/ccr/NikloaidisO92,
+  author    = {I. Nikloaidis and
+               Raif O. Onvural},
+  title     = {A bibliography on performance issues {ATM} networks},
+  journal   = ccr,
+  volume    = {22},
+  number    = {5},
+  year      = 1992,
+  pages     = {8-23},
+}
+
+@article{DBLP:journals/ccr/0026C92,
+  author    = {Zheng Wang and
+               Jon Crowcroft},
+  title     = {Eliminating periodic packet losses in the 4.3-Tahoe {BSD} {TCP} congestion control algorithm},
+  journal   = ccr,
+  volume    = {22},
+  number    = {2},
+  year      = 1992,
+  pages     = {9-16},
+}
+
+@article{DBLP:journals/ccr/AhujaE92,
+  author    = {Sudhir R. Ahuja and
+               J. Robert Ensor},
+  title     = {Call and connection management: making desktop conferencing systems a real service},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {10-13},
+}
+
+@article{DBLP:journals/ccr/HoshiTM92,
+  author    = {Tohru Hoshi and
+               Yasuhiro Takahashi and
+               Kenjiro Mori},
+  title     = {An integrated multimedia desktop communication and collaboration platform for broadband ISDN: the broadband {ISDN} group tele-working system},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {14-15},
+}
+
+@article{DBLP:journals/ccr/ChangM92,
+  author    = {Shih-Fu Chang and
+               David G. Messerschmitt},
+  title     = {Compositing motion-compensated video within the network},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {16-17},
+}
+
+@article{DBLP:journals/ccr/Rekhter92,
+  author    = {Yakov Rekhter},
+  title     = {{IDRP} protocol analysis: storage complexity},
+  journal   = ccr,
+  volume    = {22},
+  number    = {2},
+  year      = 1992,
+  pages     = {17-28},
+}
+
+@article{DBLP:journals/ccr/MiyamotoOYN92,
+  author    = {Yoshihiro Miyamoto and
+               Mutsumi Ohta and
+               Mitsuharu Yano and
+               Takao Nishitani},
+  title     = {A multimedia system based on {MPEG} video coding algorithm},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {18-19},
+}
+
+@article{DBLP:journals/ccr/KurodaNFI92,
+  author    = {Hideo Kuroda and
+               Yukihiro Nataochi and
+               Makoto Fujimura and
+               Masaaki Ikehara},
+  title     = {Full band interframe picture coding system},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {20-22},
+}
+
+@article{DBLP:journals/ccr/TachiIK92,
+  author    = {Takeshi Tachi and
+               Satoru Iai and
+               Nobuhiko Kitawaki},
+  title     = {Proposal of selection method test pictures in {HDTV} subjective quality assessments},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {23-24},
+}
+
+@article{DBLP:journals/ccr/HessSP92,
+  author    = {David K. Hess and
+               David R. Safford and
+               Udo W. Pooch},
+  title     = {A Unix network protocol security study: network information service},
+  journal   = ccr,
+  volume    = {22},
+  number    = {5},
+  year      = 1992,
+  pages     = {24-28},
+}
+
+@article{DBLP:journals/ccr/NahrstedtS92,
+  author    = {Klara Nahrstedt and
+               Jonathan M. Smith},
+  title     = {An integrated multimedia architecture for high-speed networks (brief extended abstract)},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {25-26},
+}
+
+@article{DBLP:journals/ccr/Rothlisberger92,
+  author    = {U. Röthlisberger},
+  title     = {A multimedia network interface},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {27-28},
+}
+
+@article{DBLP:journals/ccr/Mendez92,
+  author    = {Trevor Mendez},
+  title     = {Detection of pathological {TCP} connections using a segment trace filter},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {28-35},
+}
+
+@article{DBLP:journals/ccr/SmitHS92,
+  author    = {Gerard J. M. Smit and
+               Paul J. M. Havinga and
+               Michèl J. P. Smit},
+  title     = {Rattlesnake: a network for real-time multimedia communications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {29-30},
+}
+
+@article{DBLP:journals/ccr/Tsudik92,
+  author    = {Gene Tsudik},
+  title     = {Message authentication with one-way hash functions},
+  journal   = ccr,
+  volume    = {22},
+  number    = {5},
+  year      = 1992,
+  pages     = {29-38},
+}
+
+@article{DBLP:journals/ccr/Rose92,
+  author    = {O. Rose},
+  title     = {The Q-bit scheme: congestion avoidance using rate-adaptation},
+  journal   = ccr,
+  volume    = {22},
+  number    = {2},
+  year      = 1992,
+  pages     = {29-42},
+}
+
+@article{DBLP:journals/ccr/TanabeKTS92,
+  author    = {Shiro Tanabe and
+               Takahiko Kozaki and
+               Akihiko Takase and
+               Yoshito Sakurai},
+  title     = {A large scale {ATM} switching system architecture for multimedia communications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {31-34},
+}
+
+@article{DBLP:journals/ccr/LoebHB92,
+  author    = {Shoshana Loeb and
+               Ralph D. Hill and
+               Tom Brinck},
+  title     = {Lessons from LyricTime: a prototype multimedia system},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {35-36},
+}
+
+@article{DBLP:journals/ccr/Biersack92,
+  author    = {Ernst W. Biersack},
+  title     = {A simulation study of forward error correction in {ATM} networks},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {36-47},
+}
+
+@article{DBLP:journals/ccr/GinigeSGC92,
+  author    = {Athula Ginige and
+               Aruna Seneviratne and
+               Ruben Gonzalez and
+               Sandeep Chandra},
+  title     = {An experimental multimedia system},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {37-38},
+}
+
+@article{DBLP:journals/ccr/OhmoriMSFW92,
+  author    = {Toyoko Ohmori and
+               Kazutoshi Maeno and
+               Shiro Sakata and
+               Hideyuki Fukuoka and
+               Kazuo Watabe},
+  title     = {Distributed cooperative control for application sharing based on multiparty and multimedia desktop conferencing system: {MERMAID}},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {39-40},
+}
+
+@article{DBLP:journals/ccr/ShakarADM92,
+  author    = {A. Udaya Shankar and
+               Cengiz Alaettinoglu and
+               Klaudia Dussa-Zieger and
+               Ibrahim Matta},
+  title     = {Performance comparison of routing protocols under dynamic and static file transfer connections},
+  journal   = ccr,
+  volume    = {22},
+  number    = {5},
+  year      = 1992,
+  pages     = {39-52},
+}
+
+@article{DBLP:journals/ccr/Polyzos92,
+  author    = {George C. Polyzos},
+  title     = {Networking for Sequoia 2000},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {41-42},
+}
+
+@article{DBLP:journals/ccr/IidaSC92,
+  author    = {Ichiro Iida and
+               Kazuo Sakagawa and
+               Akira Chugo},
+  title     = {Dynamic routing for bursty traffic in {ATM} networks},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {43-44},
+}
+
+@article{DBLP:journals/ccr/Newnan92,
+  author    = {Owen Newnan},
+  title     = {SE-OSI: a prototype support environment for Open Systems Interconnection},
+  journal   = ccr,
+  volume    = {22},
+  number    = {2},
+  year      = 1992,
+  pages     = {43-62},
+}
+
+@article{DBLP:journals/ccr/BreslauEZ092,
+  author    = {Lee Breslau and
+               Deborah Estrin and
+               Daniel Zappala and
+               Lixia Zhang},
+  title     = {Exploiting locality to provide adaptive routing of real-time flows in global internets},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {45-46},
+}
+
+@article{DBLP:journals/ccr/Little92,
+  author    = {Thomas D. C. Little},
+  title     = {Protocols for bandwidth-constrained multimedia traffic},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {47-48},
+}
+
+@article{DBLP:journals/ccr/0026CW92,
+  author    = {Zheng Wang and
+               Jon Crowcroft and
+               Ian Wakeman},
+  title     = {A simple {TCP} extension for high-speed paths},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {48-51},
+}
+
+@article{DBLP:journals/ccr/Heinrichs92,
+  author    = {Bernd Heinrichs},
+  title     = {Versatile protocol processing for multimedia communications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {49-50},
+}
+
+@article{DBLP:journals/ccr/ChenBV92,
+  author    = {Mon-Song Chen and
+               Tsipora P. Barzilai and
+               Harrick M. Vin},
+  title     = {Software architecture of DiCE: a distributed collaboration environment},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {51-52},
+}
+
+@article{DBLP:journals/ccr/Landweber92,
+  author    = {Lawrence H. Landweber},
+  title     = {Computer networking courses at the University of Wisconsin - Madison},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {52-61},
+}
+
+@article{DBLP:journals/ccr/ArangoBGGHHLMRS92,
+  author    = {Mauricio Arango and
+               Peter Bates and
+               Gita Gopal and
+               Nancy D. Griffeth and
+               Gary E. Herman and
+               Takako M. Hickey and
+               Will E. Leland and
+               Victor Mak and
+               Lillian Ruston and
+               Mark Segal and
+               Mario P. Vecchi and
+               Abel Weinrib and
+               Sze-Ying Wuu},
+  title     = {Touring machine: a software infrastructure to support multimedia communications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {53-54},
+}
+
+@article{DBLP:journals/ccr/FraserH92,
+  author    = {A. G. Fraser and
+               P. S. Henry},
+  title     = {Transmission facilities for computer communications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {5},
+  year      = 1992,
+  pages     = {53-61},
+}
+
+@article{DBLP:journals/ccr/MasakiAITS92,
+  author    = {Shigeki Masaki and
+               Tomohiko Arikawa and
+               Hideya Ichihara and
+               Masao Tanbara and
+               Kazunori Shimamura},
+  title     = {A promising groupware system for broadband ISDN: {PMTC}},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {55-56},
+}
+
+@article{DBLP:journals/ccr/PhuahDSG92,
+  author    = {Vincent Phuah and
+               José P. Diaz-Gonzalez and
+               Russell Sasnett and
+               Steven Gutfreund},
+  title     = {Developing distributed multimedia applications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {57-60},
+}
+
+@article{DBLP:journals/ccr/YamanakaSS92,
+  author    = {Naoaki Yamanaka and
+               Youichi Sato and
+               Ken-ichi Sato},
+  title     = {Usage parameter control and bandwidth allocation methods for {ATM-based} {B-ISDN}},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {61-62},
+}
+
+@article{DBLP:journals/ccr/CarlsonW92,
+  author    = {Patricia J. Carlson and
+               James C. Wetherbe},
+  title     = {Trends in telecommunication management and configurations},
+  journal   = ccr,
+  volume    = {22},
+  number    = {5},
+  year      = 1992,
+  pages     = {62-73},
+}
+
+@article{DBLP:journals/ccr/NartenY92,
+  author    = {Thomas Narten and
+               Rajendra Yavatkar},
+  title     = {An introductory course in computer communication and networks},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {62-81},
+}
+
+@article{DBLP:journals/ccr/CorazzaGR92,
+  author    = {Giorgio Corazza and
+               G. Galletti and
+               Carla Raffaelli},
+  title     = {Performance analysis of replicated Banyan switches under mixed traffic patterns},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {63-64},
+}
+
+@article{DBLP:journals/ccr/0026C92a,
+  author    = {Zheng Wang and
+               Jon Crowcroft},
+  title     = {Analysis of shortest-path routing algorithms in a dynamic network environment},
+  journal   = ccr,
+  volume    = {22},
+  number    = {2},
+  year      = 1992,
+  pages     = {63-71},
+}
+
+@article{DBLP:journals/ccr/NishizonoI92,
+  author    = {Toshihiro Nishizono and
+               Kazuo Imai},
+  title     = {{ATM} ring module system for broadband networks},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {65-66},
+}
+
+@article{DBLP:journals/ccr/LeeK92,
+  author    = {Wei-Tsong Lee and
+               Ling-Yang Kung},
+  title     = {Design a high-speed multimedia network based on more reliable priority buffer-insertion-ring},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {67-68},
+}
+
+@article{DBLP:journals/ccr/BlairCGHS92,
+  author    = {Gordon S. Blair and
+               Geoff Coulson and
+               Francisco García and
+               David Hutchison and
+               Doug Shepherd},
+  title     = {Towards new transport services to support distributed multimedia applications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {69-70},
+}
+
+@article{DBLP:journals/ccr/LamparterEM92,
+  author    = {Bernd Lamparter and
+               Wolfgang Effelsberg and
+               Norman Michl},
+  title     = {MTP: a movie transmission protocol for multimedia applications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {71-72},
+}
+
+@article{DBLP:journals/ccr/X92a,
+  author    = {},
+  title     = {Report of the International Workshop on Distributed Systems: operations & management},
+  journal   = ccr,
+  volume    = {22},
+  number    = {2},
+  year      = 1992,
+  pages     = {72-82},
+}
+
+@article{DBLP:journals/ccr/SchoolerC92,
+  author    = {Eve M. Schooler and
+               Stephen L. Casner},
+  title     = {An architecture for multimedia connection management},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {73-74},
+}
+
+@article{DBLP:journals/ccr/Keshav92,
+  author    = {Srinivasan Keshav},
+  title     = {Report on the Workshop on Quality of Service Issues in High Speed Networks},
+  journal   = ccr,
+  volume    = {22},
+  number    = {5},
+  year      = 1992,
+  pages     = {74-85},
+}
+
+@article{DBLP:journals/ccr/CordesPKTW92,
+  author    = {Ralf Cordes and
+               Hauke Peyn and
+               Thomas Kummerow and
+               Thomas Töpperwien and
+               Thomas Weidenfeller},
+  title     = {Access methods for distributed multimedia information systems based on private broadband communication networks},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {75-76},
+}
+
+@article{DBLP:journals/ccr/Yavatkar92,
+  author    = {Raj Yavatkar},
+  title     = {Issues of coordination and temporal synchronization in multimedia communication},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {77-78},
+}
+
+@article{DBLP:journals/ccr/LiKG92,
+  author    = {Li Li and
+               Ahmed Karmouch and
+               Nicolas D. Georganas},
+  title     = {Real-time synchronization control in multimedia distributed systems},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {79-87},
+}
+
+@article{DBLP:journals/ccr/Paoletti92,
+  author    = {L. M. Paoletti},
+  title     = {The Department of Defense communications in the 21st century},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {82-94},
+}
+
+@article{DBLP:journals/ccr/Herrtwich92,
+  author    = {Ralf Guido Herrtwich},
+  title     = {Summary of the Second International Workshop on Network and Operating System Support for Digital Audio and Video},
+  journal   = ccr,
+  volume    = {22},
+  number    = {2},
+  year      = 1992,
+  pages     = {83-104},
+}
+
+@article{DBLP:journals/ccr/X92d,
+  author    = {},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {22},
+  number    = {5},
+  year      = 1992,
+  pages     = {86-94},
+}
+
+@article{DBLP:journals/ccr/RanganRVK92,
+  author    = {P. Venkat Rangan and
+               Srinivas Ramanathan and
+               Harrick M. Vin and
+               Thomas Kaeppner},
+  title     = {Media synchronization in distributed multimedia file systems},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {88-89},
+}
+
+@article{DBLP:journals/ccr/SteinmetzM92,
+  author    = {Ralf Steinmetz and
+               Thomas Meyer},
+  title     = {Multimedia synchronization techniques: experiences based on different system structures},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {90-91},
+}
+
+@article{DBLP:journals/ccr/CasnerD92,
+  author    = {Stephen Casner and
+               Stephen E. Deering},
+  title     = {First {IETF} internet audiocast},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {92-97},
+}
+
+@article{DBLP:journals/ccr/AlaettinogluDMS92,
+  author    = {Cengiz Alaettinoglu and
+               Klaudia Dussa-Zieger and
+               Ibrahim Matta and
+               A. Udaya Shankar and
+               Ólafur Gudmundsson},
+  title     = {Introducing MaRS, a routing testbed},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {95-96},
+}
+
+@article{DBLP:journals/ccr/X92,
+  author    = {},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {22},
+  number    = {1},
+  year      = 1992,
+  pages     = {97-107},
+}
+
+@article{DBLP:journals/ccr/CardosoT92,
+  author    = {Artur Cardoso and
+               Eduardo Tovar},
+  title     = {Defining more efficient transfer syntax for application layer {PDUs} in field bus applications},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {98-105},
+}
+
+@article{DBLP:journals/ccr/X92b,
+  author    = {},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {22},
+  number    = {2},
+  year      = 1992,
+  pages     = {105-113},
+}
+
+@article{DBLP:journals/ccr/Eldridge92,
+  author    = {Charles A. Eldridge},
+  title     = {Rate controls in standard transport layer protocols},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {106-120},
+}
+
+@article{DBLP:journals/ccr/X92c,
+  author    = {},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {22},
+  number    = {3},
+  year      = 1992,
+  pages     = {121-128},
+}
+
+@article{DBLP:journals/ccr/ComerCCC91,
+  author    = {Michael H. Comer and
+               Michael W. Condry and
+               Scott Cattanach and
+               Roy Campbell},
+  title     = {Getting the most for your Megabit},
+  journal   = ccr,
+  volume    = {21},
+  number    = {3},
+  year      = 1991,
+  pages     = {5-12},
+}
+
+@article{DBLP:journals/ccr/Mills91,
+  author    = {David L. Mills},
+  title     = {On the chronometry and metrology of computer network timescales and their application to the network time protocol},
+  journal   = ccr,
+  volume    = {21},
+  number    = {5},
+  year      = 1991,
+  pages     = {8-17},
+}
+
+@article{DBLP:journals/ccr/Spragins91,
+  author    = {John D. Spragins},
+  title     = {Rebuttal, by John D. Spragins, book author, to Victor T. Norman's Review of Telecommunications. Protocols and Design written by John D. Spragins, with Joseph L. Hammond and Krzysztof Pawlikowski Addison-Wesley, 1991 in {ACM} Computer Communication Review, January 1991},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {9-10},
+}
+
+@article{DBLP:journals/ccr/Mankin91,
+  author    = {Allison Mankin},
+  title     = {Book Review: The Art of Computer Systems Performance Analysis; Techniques for Experimental Design, Measurement, Simulation and Modelling by Raj Jain (John Wiley and Sons, 1991)},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {11-12},
+}
+
+@article{DBLP:journals/ccr/Norman91,
+  author    = {Victor T. Norman},
+  title     = {Book Review: Telecommunications: Protocols and Design by John D. Spragins, with Joseph L. Hammond and Krzysztof Pawlikowski (Addison-Wesley, 1991)},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {12},
+}
+
+@article{DBLP:journals/ccr/Partridge91,
+  author    = {Craig Partridge},
+  title     = {Book Review: The Art of Computer Systems Performance Analysis; Techniques for Experimental Design, Measurement, Simulation and Modelling by Raj Jain (John Wiley and Sons, 1991)},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {13},
+}
+
+@article{DBLP:journals/ccr/Partridge91a,
+  author    = {Craig Partridge},
+  title     = {Book Review: Abstract Syntax Notation One ({ASN} .1): The Tutorial and Reference by Douglas Steedman (Technology Appraisals Ltd. {ISBN} 1-871802-06-7)},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {13},
+}
+
+@article{DBLP:journals/ccr/TangW91,
+  author    = {Michael T. Tang and
+               Jyh-Horng Wen},
+  title     = {Performance analysis of indoor multipath interfered packet radios at the presence of capture effect},
+  journal   = ccr,
+  volume    = {21},
+  number    = {3},
+  year      = 1991,
+  pages     = {13-32},
+}
+
+@article{DBLP:journals/ccr/Fredlund91,
+  author    = {Lars-Åke Fredlund},
+  title     = {Book Review: Design and Validation of Computer Protocols by Gerard J. Holzmann (Prentice Hall, 1991)},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {14},
+}
+
+@article{DBLP:journals/ccr/Meandzija91,
+  author    = {Branislav Meandzija},
+  title     = {International workshop on distributed systems: operation & management},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {14-23},
+}
+
+@article{DBLP:journals/ccr/DromsHGM91,
+  author    = {Ralph E. Droms and
+               Bob Haber and
+               Fengmin Gong and
+               Chris Maeda},
+  title     = {Report from the joint SIGGRAPH/{SIGCOMM} workshop on graphics and networking},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {17-25},
+}
+
+@article{DBLP:journals/ccr/Finn91,
+  author    = {Gregory G. Finn},
+  title     = {An integration of network communication with workstation architecture},
+  journal   = ccr,
+  volume    = {21},
+  number    = {5},
+  year      = 1991,
+  pages     = {18-29},
+}
+
+@article{DBLP:journals/ccr/DeSimone91,
+  author    = {Antonio DeSimone},
+  title     = {Generating burstiness in networks: a simulation study of correlation effects in networks of queues},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {24-31},
+}
+
+@article{DBLP:journals/ccr/FloydJ91,
+  author    = {Sally Floyd and
+               Van Jacobson},
+  title     = {Traffic phase effects in packet-switched gateways},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {26-42},
+}
+
+@article{DBLP:journals/ccr/Floyd91,
+  author    = {Sally Floyd},
+  title     = {Connections with multiple congested gateways in packet-switched networks part 1: one-way traffic},
+  journal   = ccr,
+  volume    = {21},
+  number    = {5},
+  year      = 1991,
+  pages     = {30-47},
+}
+
+@article{DBLP:journals/ccr/0026C91,
+  author    = {Zheng Wang and
+               Jon Crowcroft},
+  title     = {A new congestion control scheme: slow start and search (Tri-S)},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {32-43},
+}
+
+@article{DBLP:journals/ccr/DeP91,
+  author    = {Aloknath De and
+               N. Prithviraj},
+  title     = {Ring-connected ring (RCR) topology for high-speed networking: analysis and implementation},
+  journal   = ccr,
+  volume    = {21},
+  number    = {3},
+  year      = 1991,
+  pages     = {33-44},
+}
+
+@article{DBLP:journals/ccr/WilderRM91,
+  author    = {Rick Wilder and
+               K. K. Ramakrishnan and
+               Allison Mankin},
+  title     = {Dynamics of congestion control and avoidance of two-way traffic in an {OSI} testbed},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {43-58},
+}
+
+@article{DBLP:journals/ccr/Rekhter91,
+  author    = {Yakov Rekhter},
+  title     = {Constructing {intra-AS} path segments for an {inter-AS} path},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {44-57},
+}
+
+@article{DBLP:journals/ccr/ZielinskiCMHR91,
+  author    = {Krzysztof Zielinski and
+               M. Chopping and
+               D. Milway and
+               A. Hopper and
+               B. Robertson},
+  title     = {The metrobridge: a backbone network distributed switch},
+  journal   = ccr,
+  volume    = {21},
+  number    = {3},
+  year      = 1991,
+  pages     = {45-60},
+}
+
+@article{DBLP:journals/ccr/NgC91,
+  author    = {Jim M. Ng and
+               Edward Chan},
+  title     = {Bridge channel access algorithms for integrated services ethernets},
+  journal   = ccr,
+  volume    = {21},
+  number    = {5},
+  year      = 1991,
+  pages     = {48-57},
+}
+
+@article{DBLP:journals/ccr/Lynch91,
+  author    = {Clifford A. Lynch},
+  title     = {The Z39.50 information retrieval protocol: an overview and status report},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {58-70},
+}
+
+@article{DBLP:journals/ccr/Haas91,
+  author    = {Zygmunt J. Haas},
+  title     = {Adaptive admission congestion control},
+  journal   = ccr,
+  volume    = {21},
+  number    = {5},
+  year      = 1991,
+  pages     = {58-76},
+}
+
+@article{DBLP:journals/ccr/FoudriatMOKP91,
+  author    = {Edwin C. Foudriat and
+               Kurt Maly and
+               C. Michael Overstreet and
+               Sanjeev Khanna and
+               Frank Paterra},
+  title     = {A carrier sensed multiple access protocol high data rate ring networks},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {59-70},
+}
+
+@article{DBLP:journals/ccr/Barker91,
+  author    = {Paul Barker},
+  title     = {Managing data derived from multiple sources in an X.500 Directory},
+  journal   = ccr,
+  volume    = {21},
+  number    = {3},
+  year      = 1991,
+  pages     = {61-70},
+}
+
+@article{DBLP:journals/ccr/EstrinS91,
+  author    = {Deborah Estrin and
+               Martha Steenstrup},
+  title     = {Inter domain policy routing: overview of architecture and protocols},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {71-78},
+}
+
+@article{DBLP:journals/ccr/Strayer91,
+  author    = {W. Timothy Strayer},
+  title     = {A study of preemptable vs. non-preemptable token reservation access protocols},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {71-80},
+}
+
+@article{DBLP:journals/ccr/Chapin91a,
+  author    = {Lyman Chapin},
+  title     = {Computer communication standards},
+  journal   = ccr,
+  volume    = {21},
+  number    = {5},
+  year      = 1991,
+  pages     = {77-101},
+}
+
+@article{DBLP:journals/ccr/McCaig91,
+  author    = {J. M. McCaig},
+  title     = {A strategy for synchronising simplex message streams},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {79-98},
+}
+
+@article{DBLP:journals/ccr/SidhuCB91,
+  author    = {Deepinder P. Sidhu and
+               Anthony Chung and
+               Thomas P. Blumer},
+  title     = {Experience with formal methods in protocol development},
+  journal   = ccr,
+  volume    = {21},
+  number    = {2},
+  year      = 1991,
+  pages     = {81-101},
+}
+
+@article{DBLP:journals/ccr/NicholsonGBYR91,
+  author    = {Andy Nicholson and
+               Joe Golio and
+               David A. Borman and
+               Jeff Young and
+               Wayne Roiger},
+  title     = {High speed networking at Cray research},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {99-110},
+}
+
+@article{DBLP:journals/ccr/Chapin91,
+  author    = {Lyman Chapin},
+  title     = {Status of {OSI} (and related) standards},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {111-131},
+}
+
+@article{DBLP:journals/ccr/X91,
+  author    = {},
+  title     = {Bibliography of recent publications on computer communication},
+  journal   = ccr,
+  volume    = {21},
+  number    = {1},
+  year      = 1991,
+  pages     = {132-145},
+}
+
 @article{DBLP:journals/ccr/KarnP87,
   author    = {Phil Karn and
                Craig Partridge},
@@ -8751,7 +14740,7 @@
 }
 
 @article{DBLP:journals/ccr/PartridgeML87,
-  author    = {C. Partridge and
+  author    = {Craig Partridge and
                C. Mooers and
                M. Laubach},
   title     = {The {CSNET} information server: automatic document distribution using electronic mail},
@@ -8833,8 +14822,8 @@
 }
 
 @article{DBLP:journals/ccr/GruchevskyP87,
-  author    = {S. Gruchevsky and
-               D. Piscitello},
+  author    = {Steven A. Gruchevsky and
+               David M. Piscitello},
   title     = {The Burroughs integrated adaptive routing system (BIASTM)},
   journal   = ccr,
   volume    = {17},
@@ -9197,7 +15186,7 @@
 }
 
 @article{DBLP:journals/ccr/LudwigD87,
-  author    = {L. F. Ludwig and
+  author    = {Lester F. Ludwig and
                Dennis F. Dunn},
   title     = {Laboratory for emulation and study of integrated and coordinated media communication},
   journal   = ccr,
@@ -9228,7 +15217,7 @@
 }
 
 @article{DBLP:journals/ccr/Ludwig87,
-  author    = {Leater F. Ludwig},
+  author    = {Lester F. Ludwig},
   title     = {A threaded/flow approach to reconfigurable distributed systems and service primitives architectures},
   journal   = ccr,
   volume    = {17},

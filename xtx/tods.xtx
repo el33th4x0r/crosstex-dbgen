@@ -1,5 +1,1680 @@
 @include journals-cs
 
+@article{DBLP:journals/tods/Jensen18,
+  author    = {Christian S. Jensen},
+  title     = {Editorial: Updates to the Editorial Board},
+  journal   = tods,
+  volume    = {43},
+  number    = {1},
+  year      = 2018,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/DemertzisPPDGP18,
+  author    = {Ioannis Demertzis and
+               Stavros Papadopoulos and
+               Odysseas Papapetrou and
+               Antonios Deligiannakis and
+               Minos N. Garofalakis and
+               Charalampos Papamanthou},
+  title     = {Practical Private Range Search in Depth},
+  journal   = tods,
+  volume    = {43},
+  number    = {1},
+  year      = 2018,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/ChungMBK18,
+  author    = {Yeounoh Chung and
+               Michael Lind Mortensen and
+               Carsten Binnig and
+               Tim Kraska},
+  title     = {Estimating the Impact of Unknown Unknowns on Aggregate Query Results},
+  journal   = tods,
+  volume    = {43},
+  number    = {1},
+  year      = 2018,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/ShaikhhaKK18,
+  author    = {Amir Shaikhha and
+               Yannis Klonatos and
+               Christoph Koch},
+  title     = {Building Efficient Query Engines in a {High-Level} Language},
+  journal   = tods,
+  volume    = {43},
+  number    = {1},
+  year      = 2018,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/LibkinRSV18,
+  author    = {Leonid Libkin and
+               Juan L. Reutter and
+               Adrián Soto and
+               Domagoj Vrgoc},
+  title     = {TriAL: A Navigational Algebra for {RDF} Triplestores},
+  journal   = tods,
+  volume    = {43},
+  number    = {1},
+  year      = 2018,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/CaoFGL18,
+  author    = {Yang Cao and
+               Wenfei Fan and
+               Floris Geerts and
+               Ping Lu},
+  title     = {Bounded Query Rewriting Using Views},
+  journal   = tods,
+  volume    = {43},
+  number    = {1},
+  year      = 2018,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/BerkholzKS18,
+  author    = {Christoph Berkholz and
+               Jens Keppeler and
+               Nicole Schweikardt},
+  title     = {Answering FO+{MOD} Queries under Updates on Bounded Degree Databases},
+  journal   = tods,
+  volume    = {43},
+  number    = {2},
+  year      = 2018,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/BarceloKPS18,
+  author    = {Pablo Barceló and
+               Markus Kröll and
+               Reinhard Pichler and
+               Sebastian Skritek},
+  title     = {Efficient Evaluation and Static Analysis for {Well-Designed} Pattern Trees with Projection},
+  journal   = tods,
+  volume    = {43},
+  number    = {2},
+  year      = 2018,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/LazersonKS18,
+  author    = {Arnon Lazerson and
+               Daniel Keren and
+               Assaf Schuster},
+  title     = {Lightweight Monitoring of Distributed Streams},
+  journal   = tods,
+  volume    = {43},
+  number    = {2},
+  year      = 2018,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/QiZSY18,
+  author    = {Jianzhong Qi and
+               Fei Zuo and
+               Hanan Samet and
+               Jia Cheng Yao},
+  title     = {{K-Regret} Queries Using Multiplicative Utility Functions},
+  journal   = tods,
+  volume    = {43},
+  number    = {2},
+  year      = 2018,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/KimelfeldR18,
+  author    = {Benny Kimelfeld and
+               Christopher Ré},
+  title     = {A Relational Framework for Classifier Engineering},
+  journal   = tods,
+  volume    = {43},
+  number    = {3},
+  year      = 2018,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/SchwentickVZ18,
+  author    = {Thomas Schwentick and
+               Nils Vortmeier and
+               Thomas Zeume},
+  title     = {Dynamic Complexity under Definable Changes},
+  journal   = tods,
+  volume    = {43},
+  number    = {3},
+  year      = 2018,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/ArenasGP18,
+  author    = {Marcelo Arenas and
+               Georg Gottlob and
+               Andreas Pieris},
+  title     = {Expressive Languages for Querying the Semantic Web},
+  journal   = tods,
+  volume    = {43},
+  number    = {3},
+  year      = 2018,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/PolychroniouZR18,
+  author    = {Orestis Polychroniou and
+               Wangda Zhang and
+               Kenneth A. Ross},
+  title     = {Distributed Joins and Data Placement for Minimal Network Traffic},
+  journal   = tods,
+  volume    = {43},
+  number    = {3},
+  year      = 2018,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/AbuzaidBDGMNRS18,
+  author    = {Firas Abuzaid and
+               Peter Bailis and
+               Jialin Ding and
+               Edward Gan and
+               Samuel Madden and
+               Deepak Narayanan and
+               Kexin Rong and
+               Sahaana Suri},
+  title     = {MacroBase: Prioritizing Attention in Fast Data},
+  journal   = tods,
+  volume    = {43},
+  number    = {4},
+  year      = 2018,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/DayanAI18,
+  author    = {Niv Dayan and
+               Manos Athanassoulis and
+               Stratos Idreos},
+  title     = {Optimal Bloom Filters and Adaptive Merging for {LSM-Trees}},
+  journal   = tods,
+  volume    = {43},
+  number    = {4},
+  year      = 2018,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/MeneghettiKG18,
+  author    = {Niccolò Meneghetti and
+               Oliver Kennedy and
+               Wolfgang Gatterbauer},
+  title     = {Learning From Query-Answers: A Scalable Approach to Belief Updating and Parameter Learning},
+  journal   = tods,
+  volume    = {43},
+  number    = {4},
+  year      = 2018,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/FanYXZLYLCX18,
+  author    = {Wenfei Fan and
+               Wenyuan Yu and
+               Jingbo Xu and
+               Jingren Zhou and
+               Xiaojian Luo and
+               Qiang Yin and
+               Ping Lu and
+               Yang Cao and
+               Ruiqi Xu},
+  title     = {Parallelizing Sequential Graph Computations},
+  journal   = tods,
+  volume    = {43},
+  number    = {4},
+  year      = 2018,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/Jensen17,
+  author    = {Christian S. Jensen},
+  title     = {Editorial: Updates to the Editorial Board},
+  journal   = tods,
+  volume    = {42},
+  number    = {1},
+  year      = 2017,
+}
+
+@article{DBLP:journals/tods/Beame0RS17,
+  author    = {Paul Beame and
+               Jerry Li and
+               Sudeepa Roy and
+               Dan Suciu},
+  title     = {Exact Model Counting of Query Expressions: Limitations of Propositional Methods},
+  journal   = tods,
+  volume    = {42},
+  number    = {1},
+  year      = 2017,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/LiuGGIJ17,
+  author    = {Xiufeng Liu and
+               Lukasz Golab and
+               Wojciech M. Golab and
+               Ihab F. Ilyas and
+               Shichao Jin},
+  title     = {Smart Meter Data Analytics: Systems, Algorithms, and Benchmarking},
+  journal   = tods,
+  volume    = {42},
+  number    = {1},
+  year      = 2017,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/CurrimSSZ17,
+  author    = {Sabah Currim and
+               Richard T. Snodgrass and
+               Young-Kyoon Suh and
+               Rui Zhang},
+  title     = {{DBMS} Metrology: Measuring Query Time},
+  journal   = tods,
+  volume    = {42},
+  number    = {1},
+  year      = 2017,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/0001ALYY17,
+  author    = {You Wu and
+               Pankaj K. Agarwal and
+               Chengkai Li and
+               Jun Yang and
+               Cong Yu},
+  title     = {Computational Fact Checking through Query Perturbations},
+  journal   = tods,
+  volume    = {42},
+  number    = {1},
+  year      = 2017,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/TeflioudiG17,
+  author    = {Christina Teflioudi and
+               Rainer Gemulla},
+  title     = {Exact and Approximate Maximum Inner Product Search with {LEMP}},
+  journal   = tods,
+  volume    = {42},
+  number    = {1},
+  year      = 2017,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/ShiCDO17,
+  author    = {Xiaogang Shi and
+               Bin Cui and
+               Gillian Dobbie and
+               Beng Chin Ooi},
+  title     = {UniAD: A Unified Ad Hoc Data Processing System},
+  journal   = tods,
+  volume    = {42},
+  number    = {1},
+  year      = 2017,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/Song017,
+  author    = {Shaoxu Song and
+               Lei Chen},
+  title     = {Response to "Differential Dependencies Revisited"},
+  journal   = tods,
+  volume    = {42},
+  number    = {1},
+  year      = 2017,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/PaparrizosG17,
+  author    = {John Paparrizos and
+               Luis Gravano},
+  title     = {Fast and Accurate {Time-Series} Clustering},
+  journal   = tods,
+  volume    = {42},
+  number    = {2},
+  year      = 2017,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/KoutrisW17,
+  author    = {Paraschos Koutris and
+               Jef Wijsen},
+  title     = {Consistent Query Answering for {Self-Join-Free} Conjunctive Queries Under Primary Key Constraints},
+  journal   = tods,
+  volume    = {42},
+  number    = {2},
+  year      = 2017,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/YuCRW17,
+  author    = {Yanwei Yu and
+               Lei Cao and
+               Elke A. Rundensteiner and
+               Qin Wang},
+  title     = {Outlier Detection over {Massive-Scale} Trajectory Streams},
+  journal   = tods,
+  volume    = {42},
+  number    = {2},
+  year      = 2017,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/HanSZ17,
+  author    = {Yunheng Han and
+               Weiwei Sun and
+               Baihua Zheng},
+  title     = {COMPRESS: A Comprehensive Framework of Trajectory Compression in Road Networks},
+  journal   = tods,
+  volume    = {42},
+  number    = {2},
+  year      = 2017,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/CateKQT17,
+  author    = {Balder ten Cate and
+               Phokion G. Kolaitis and
+               Kun Qian and
+               Wang-Chiew Tan},
+  title     = {Approximation Algorithms for {Schema-Mapping} Discovery from Data Examples},
+  journal   = tods,
+  volume    = {42},
+  number    = {2},
+  year      = 2017,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/ManiuCS17,
+  author    = {Silviu Maniu and
+               Reynold Cheng and
+               Pierre Senellart},
+  title     = {An Indexing Framework for Queries on Probabilistic Graphs},
+  journal   = tods,
+  volume    = {42},
+  number    = {2},
+  year      = 2017,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/GanT17,
+  author    = {Junhao Gan and
+               Yufei Tao},
+  title     = {On the Hardness and Approximation of Euclidean {DBSCAN}},
+  journal   = tods,
+  volume    = {42},
+  number    = {3},
+  year      = 2017,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/MartensNNS17,
+  author    = {Wim Martens and
+               Frank Neven and
+               Matthias Niewerth and
+               Thomas Schwentick},
+  title     = {BonXai: Combining the Simplicity of {DTD} with the Expressiveness of {XML} Schema},
+  journal   = tods,
+  volume    = {42},
+  number    = {3},
+  year      = 2017,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/ZhengZCZ17,
+  author    = {Weiguo Zheng and
+               Lei Zou and
+               Lei Chen and
+               Dongyan Zhao},
+  title     = {Efficient {SimRank-Based} Similarity Join},
+  journal   = tods,
+  volume    = {42},
+  number    = {3},
+  year      = 2017,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/KaminskiKG17,
+  author    = {Mark Kaminski and
+               Egor V. Kostylev and
+               Bernardo Cuenca Grau},
+  title     = {Query Nesting, Assignment, and Aggregation in {SPARQL} 1.1},
+  journal   = tods,
+  volume    = {42},
+  number    = {3},
+  year      = 2017,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/TschirschnitzPN17,
+  author    = {Fabian Tschirschnitz and
+               Thorsten Papenbrock and
+               Felix Naumann},
+  title     = {Detecting Inclusion Dependencies on Very Many Tables},
+  journal   = tods,
+  volume    = {42},
+  number    = {3},
+  year      = 2017,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/SchubertSEKX17,
+  author    = {Erich Schubert and
+               Jörg Sander and
+               Martin Ester and
+               Hans-Peter Kriegel and
+               Xiaowei Xu},
+  title     = {{DBSCAN} Revisited, Revisited: Why and How You Should (Still) Use {DBSCAN}},
+  journal   = tods,
+  volume    = {42},
+  number    = {3},
+  year      = 2017,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/tods/AbergerLTNOR17,
+  author    = {Christopher R. Aberger and
+               Andrew Lamb and
+               Susan Tu and
+               Andres Nötzli and
+               Kunle Olukotun and
+               Christopher Ré},
+  title     = {EmptyHeaded: A Relational Engine for Graph Processing},
+  journal   = tods,
+  volume    = {42},
+  number    = {4},
+  year      = 2017,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/tods/ArenasU17,
+  author    = {Marcelo Arenas and
+               Martín Ugarte},
+  title     = {Designing a Query Language for RDF: Marrying Open and Closed Worlds},
+  journal   = tods,
+  volume    = {42},
+  number    = {4},
+  year      = 2017,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/tods/BaranyCKOV17,
+  author    = {Vince Bárány and
+               Balder ten Cate and
+               Benny Kimelfeld and
+               Dan Olteanu and
+               Zografoula Vagena},
+  title     = {Declarative Probabilistic Programming with Datalog},
+  journal   = tods,
+  volume    = {42},
+  number    = {4},
+  year      = 2017,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/tods/AlvaroCHM17,
+  author    = {Peter Alvaro and
+               Neil Conway and
+               Joseph M. Hellerstein and
+               David Maier},
+  title     = {Blazes: Coordination Analysis and Placement for Distributed Programs},
+  journal   = tods,
+  volume    = {42},
+  number    = {4},
+  year      = 2017,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/tods/ColazzoGS17,
+  author    = {Dario Colazzo and
+               Giorgio Ghelli and
+               Carlo Sartiani},
+  title     = {Linear Time Membership in a Class of Regular Expressions with Counting, Interleaving, and Unordered Concatenation},
+  journal   = tods,
+  volume    = {42},
+  number    = {4},
+  year      = 2017,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/tods/ZhangCPSX17,
+  author    = {Jun Zhang and
+               Graham Cormode and
+               Cecilia M. Procopiuc and
+               Divesh Srivastava and
+               Xiaokui Xiao},
+  title     = {PrivBayes: Private Data Release via Bayesian Networks},
+  journal   = tods,
+  volume    = {42},
+  number    = {4},
+  year      = 2017,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/tods/Jensen16,
+  author    = {Christian S. Jensen},
+  title     = {Editorial: Updates to the Editorial Board},
+  journal   = tods,
+  volume    = {41},
+  number    = {1},
+  year      = 2016,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/Libkin16,
+  author    = {Leonid Libkin},
+  title     = {{SQL's} {Three-Valued} Logic and Certain Answers},
+  journal   = tods,
+  volume    = {41},
+  number    = {1},
+  year      = 2016,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/ZhangKR16,
+  author    = {Ce Zhang and
+               Arun Kumar and
+               Christopher Ré},
+  title     = {Materialization Optimizations for Feature Selection Workloads},
+  journal   = tods,
+  volume    = {41},
+  number    = {1},
+  year      = 2016,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/OlteanuS16,
+  author    = {Dan Olteanu and
+               Sebastiaan J. van Schaik},
+  title     = {ENFrame: A Framework for Processing Probabilistic Data},
+  journal   = tods,
+  volume    = {41},
+  number    = {1},
+  year      = 2016,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/FinkO16,
+  author    = {Robert Fink and
+               Dan Olteanu},
+  title     = {Dichotomies for Queries with Negation in Probabilistic Databases},
+  journal   = tods,
+  volume    = {41},
+  number    = {1},
+  year      = 2016,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/ZhouQXWLI16,
+  author    = {Xiaoling Zhou and
+               Jianbin Qin and
+               Chuan Xiao and
+               Wei Wang and
+               Xuemin Lin and
+               Yoshiharu Ishikawa},
+  title     = {BEVA: An Efficient Query Processing Algorithm for {Error-Tolerant} Autocompletion},
+  journal   = tods,
+  volume    = {41},
+  number    = {1},
+  year      = 2016,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/FaginKRV16,
+  author    = {Ronald Fagin and
+               Benny Kimelfeld and
+               Frederick Reiss and
+               Stijn Vansummeren},
+  title     = {Declarative Cleaning of Inconsistencies in Information Extraction},
+  journal   = tods,
+  volume    = {41},
+  number    = {1},
+  year      = 2016,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/PhamSL16,
+  author    = {Huy Pham and
+               Cyrus Shahabi and
+               Yan Liu},
+  title     = {Inferring Social Strength from Spatiotemporal Data},
+  journal   = tods,
+  volume    = {41},
+  number    = {1},
+  year      = 2016,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/CheungMS16,
+  author    = {Alvin Cheung and
+               Samuel Madden and
+               Armando Solar-Lezama},
+  title     = {Sloth: Being Lazy Is a Virtue (When Issuing Database Queries)},
+  journal   = tods,
+  volume    = {41},
+  number    = {2},
+  year      = 2016,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/Jensen16a,
+  author    = {Christian S. Jensen},
+  title     = {Editorial: The Dark Citations of {TODS} Papers and What to Do about It - or: Cite the Journal Paper},
+  journal   = tods,
+  volume    = {41},
+  number    = {2},
+  year      = 2016,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/CaruccioPT16,
+  author    = {Loredana Caruccio and
+               Giuseppe Polese and
+               Genoveffa Tortora},
+  title     = {Synchronization of Queries and Views Upon Schema Evolutions: A Survey},
+  journal   = tods,
+  volume    = {41},
+  number    = {2},
+  year      = 2016,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/DengFG16,
+  author    = {Ting Deng and
+               Wenfei Fan and
+               Floris Geerts},
+  title     = {Capturing Missing Tuples and Missing Values},
+  journal   = tods,
+  volume    = {41},
+  number    = {2},
+  year      = 2016,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/DuttH16,
+  author    = {Anshuman Dutt and
+               Jayant R. Haritsa},
+  title     = {Plan Bouquets: A Fragrant Approach to Robust Query Processing},
+  journal   = tods,
+  volume    = {41},
+  number    = {2},
+  year      = 2016,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/JungSSK16,
+  author    = {Jinhong Jung and
+               Kijung Shin and
+               Lee Sael and
+               U. Kang},
+  title     = {Random Walk with Restart on Large Graphs Using Block Elimination},
+  journal   = tods,
+  volume    = {41},
+  number    = {2},
+  year      = 2016,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/ArenasD16,
+  author    = {Marcelo Arenas and
+               Gonzalo I. Diaz},
+  title     = {The Exact Complexity of the {First-Order} Logic Definability Problem},
+  journal   = tods,
+  volume    = {41},
+  number    = {2},
+  year      = 2016,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/CohenW16,
+  author    = {Sara Cohen and
+               Yaacov Y. Weiss},
+  title     = {The Complexity of Learning Tree Patterns from Example Graphs},
+  journal   = tods,
+  volume    = {41},
+  number    = {2},
+  year      = 2016,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/BailisFGHS16,
+  author    = {Peter Bailis and
+               Alan Fekete and
+               Ali Ghodsi and
+               Joseph M. Hellerstein and
+               Ion Stoica},
+  title     = {Scalable Atomic Visibility with {RAMP} Transactions},
+  journal   = tods,
+  volume    = {41},
+  number    = {3},
+  year      = 2016,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/ToNP16,
+  author    = {Quoc-Cuong To and
+               Benjamin Nguyen and
+               Philippe Pucheral},
+  title     = {Private and Scalable Execution of {SQL} Aggregates on a Secure Decentralized Architecture},
+  journal   = tods,
+  volume    = {41},
+  number    = {3},
+  year      = 2016,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/BurdickFKPT16,
+  author    = {Douglas Burdick and
+               Ronald Fagin and
+               Phokion G. Kolaitis and
+               Lucian Popa and
+               Wang-Chiew Tan},
+  title     = {A Declarative Framework for Linking Entities},
+  journal   = tods,
+  volume    = {41},
+  number    = {3},
+  year      = 2016,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/BourhisPRS16,
+  author    = {Pierre Bourhis and
+               Gabriele Puppis and
+               Cristian Riveros and
+               Slawek Staworko},
+  title     = {Bounded Repairability for Regular Tree Languages},
+  journal   = tods,
+  volume    = {41},
+  number    = {3},
+  year      = 2016,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/BenderEHK16,
+  author    = {Michael A. Bender and
+               Roozbeh Ebrahimi and
+               Haodong Hu and
+               Bradley C. Kuszmaul},
+  title     = {{B-Trees} and {Cache-Oblivious} {B-Trees} with {Different-Sized} Atomic Keys},
+  journal   = tods,
+  volume    = {41},
+  number    = {3},
+  year      = 2016,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/tods/MazowieckiMW16,
+  author    = {Filip Mazowiecki and
+               Filip Murlak and
+               Adam Witkowski},
+  title     = {Monadic Datalog and Regular Tree Pattern Queries},
+  journal   = tods,
+  volume    = {41},
+  number    = {3},
+  year      = 2016,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/tods/AmelootKNZ16,
+  author    = {Tom J. Ameloot and
+               Bas Ketsman and
+               Frank Neven and
+               Daniel Zinn},
+  title     = {Weaker Forms of Monotonicity for Declarative Networking: A More {Fine-Grained} Answer to the {CALM-Conjecture}},
+  journal   = tods,
+  volume    = {40},
+  number    = {4},
+  year      = 2016,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/tods/TianOZGP16,
+  author    = {Yuanyuan Tian and
+               Fatma Özcan and
+               Tao Zou and
+               Romulo Goncalves and
+               Hamid Pirahesh},
+  title     = {Building a Hybrid Warehouse: Efficient Joins between Data Stored in {HDFS} and Enterprise Warehouse},
+  journal   = tods,
+  volume    = {41},
+  number    = {4},
+  year      = 2016,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/tods/BenediktCT16,
+  author    = {Michael Benedikt and
+               Balder ten Cate and
+               Efthymia Tsamoura},
+  title     = {Generating Plans from Proofs},
+  journal   = tods,
+  volume    = {40},
+  number    = {4},
+  year      = 2016,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/tods/KhamisNRR16,
+  author    = {Mahmoud Abo Khamis and
+               Hung Q. Ngo and
+               Christopher Ré and
+               Atri Rudra},
+  title     = {Joins via Geometric Resolutions: Worst Case and Beyond},
+  journal   = tods,
+  volume    = {41},
+  number    = {4},
+  year      = 2016,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/tods/PapadimitriouKM16,
+  author    = {Dimitra Papadimitriou and
+               Georgia Koutrika and
+               John Mylopoulos and
+               Yannis Velegrakis},
+  title     = {The Goal Behind the Action: Toward {Goal-Aware} Systems and Applications},
+  journal   = tods,
+  volume    = {41},
+  number    = {4},
+  year      = 2016,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/tods/TiakasVPMG16,
+  author    = {Eleftherios Tiakas and
+               George Valkanas and
+               Apostolos N. Papadopoulos and
+               Yannis Manolopoulos and
+               Dimitrios Gunopulos},
+  title     = {Processing Top-k Dominating Queries in Metric Spaces},
+  journal   = tods,
+  volume    = {40},
+  number    = {4},
+  year      = 2016,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/tods/BonifatiCS16,
+  author    = {Angela Bonifati and
+               Radu Ciucanu and
+               Slawek Staworko},
+  title     = {Learning Join Queries from User Examples},
+  journal   = tods,
+  volume    = {40},
+  number    = {4},
+  year      = 2016,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/tods/FazzingaFFP16,
+  author    = {Bettina Fazzinga and
+               Sergio Flesca and
+               Filippo Furfaro and
+               Francesco Parisi},
+  title     = {Exploiting Integrity Constraints for Cleaning Trajectories of {RFID-Monitored} Objects},
+  journal   = tods,
+  volume    = {41},
+  number    = {4},
+  year      = 2016,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/tods/MaaboutOWH16,
+  author    = {Sofian Maabout and
+               Carlos Ordonez and
+               Patrick Kamnang Wanko and
+               Nicolas Hanusse},
+  title     = {Skycube Materialization Using the Topmost Skyline or Functional Dependencies},
+  journal   = tods,
+  volume    = {41},
+  number    = {4},
+  year      = 2016,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/tods/YangQWZW016,
+  author    = {Xiaochun Yang and
+               Tao Qiu and
+               Bin Wang and
+               Baihua Zheng and
+               Yaoshu Wang and
+               Chen Li},
+  title     = {Negative Factor: Improving {Regular-Expression} Matching in Strings},
+  journal   = tods,
+  volume    = {40},
+  number    = {4},
+  year      = 2016,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/tods/DignosBGJ16,
+  author    = {Anton Dignös and
+               Michael H. Böhlen and
+               Johann Gamper and
+               Christian S. Jensen},
+  title     = {Extending the Kernel of a Relational {DBMS} with Comprehensive Support for Sequenced Temporal Queries},
+  journal   = tods,
+  volume    = {41},
+  number    = {4},
+  year      = 2016,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/tods/Zhou0GD16,
+  author    = {Zhuojie Zhou and
+               Nan Zhang and
+               Zhiguo Gong and
+               Gautam Das},
+  title     = {Faster Random Walks by Rewiring Online Social Networks {On-the-Fly}},
+  journal   = tods,
+  volume    = {40},
+  number    = {4},
+  year      = 2016,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/tods/BourhisMMP16,
+  author    = {Pierre Bourhis and
+               Marco Manna and
+               Michael Morak and
+               Andreas Pieris},
+  title     = {{Guarded-Based} Disjunctive {Tuple-Generating} Dependencies},
+  journal   = tods,
+  volume    = {41},
+  number    = {4},
+  year      = 2016,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/tods/Jensen15,
+  author    = {Christian S. Jensen},
+  title     = {Editorial: Updates to the Editorial Board},
+  journal   = tods,
+  volume    = {40},
+  number    = {1},
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/PripuzicZA15,
+  author    = {Kresimir Pripuzic and
+               Ivana Podnar Zarko and
+               Karl Aberer},
+  title     = {Time- and {Space-Efficient} Sliding Window Top-k Query Processing},
+  journal   = tods,
+  volume    = {40},
+  number    = {1},
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/OlteanuZ15,
+  author    = {Dan Olteanu and
+               Jakub Závodný},
+  title     = {Size Bounds for Factorised Representations of Query Results},
+  journal   = tods,
+  volume    = {40},
+  number    = {1},
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/PawlikA15,
+  author    = {Mateusz Pawlik and
+               Nikolaus Augsten},
+  title     = {Efficient Computation of the Tree Edit Distance},
+  journal   = tods,
+  volume    = {40},
+  number    = {1},
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/DrosouP15,
+  author    = {Marina Drosou and
+               Evaggelia Pitoura},
+  title     = {Multiple Radii {DisC} Diversity: Result Diversification Based on Dissimilarity and Coverage},
+  journal   = tods,
+  volume    = {40},
+  number    = {1},
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/BenediktBL15,
+  author    = {Michael Benedikt and
+               Pierre Bourhis and
+               Clemens Ley},
+  title     = {Analysis of Schemas with Access Restrictions},
+  journal   = tods,
+  volume    = {40},
+  number    = {1},
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/AthanassoulisCA15,
+  author    = {Manos Athanassoulis and
+               Shimin Chen and
+               Anastasia Ailamaki and
+               Phillip B. Gibbons and
+               Radu Stoica},
+  title     = {Online Updates on Data Warehouses via Judicious Use of {Solid-State} Storage},
+  journal   = tods,
+  volume    = {40},
+  number    = {1},
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/Jensen15a,
+  author    = {Christian S. Jensen},
+  title     = {Editorial: The Best of Two Worlds - Present Your {TODS} Paper at {SIGMOD}},
+  journal   = tods,
+  volume    = {40},
+  number    = {2},
+  year      = 2015,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/BeedkarBGM15,
+  author    = {Kaustubh Beedkar and
+               Klaus Berberich and
+               Rainer Gemulla and
+               Iris Miliaraki},
+  title     = {Closing the Gap: Sequence Mining at Scale},
+  journal   = tods,
+  volume    = {40},
+  number    = {2},
+  year      = 2015,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/Ameloot15,
+  author    = {Tom J. Ameloot},
+  title     = {Deciding Determinism with Fairness for Simple Transducer Networks},
+  journal   = tods,
+  volume    = {40},
+  number    = {2},
+  year      = 2015,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/NagendraC15,
+  author    = {Mithila Nagendra and
+               K. Selçuk Candan},
+  title     = {Efficient Processing of {Skyline-Join} Queries over Multiple Data Sources},
+  journal   = tods,
+  volume    = {40},
+  number    = {2},
+  year      = 2015,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/YuanZWXYH15,
+  author    = {Ganzhao Yuan and
+               Zhenjie Zhang and
+               Marianne Winslett and
+               Xiaokui Xiao and
+               Yin Yang and
+               Zhifeng Hao},
+  title     = {Optimizing Batch Linear Queries under Exact and Approximate Differential Privacy},
+  journal   = tods,
+  volume    = {40},
+  number    = {2},
+  year      = 2015,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/TermehchyVCW15,
+  author    = {Arash Termehchy and
+               Ali Vakilian and
+               Yodsawalai Chodpathumwan and
+               Marianne Winslett},
+  title     = {{Cost-Effective} Conceptual Design for Information Extraction},
+  journal   = tods,
+  volume    = {40},
+  number    = {2},
+  year      = 2015,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/CaoCGJO15,
+  author    = {Xin Cao and
+               Gao Cong and
+               Tao Guo and
+               Christian S. Jensen and
+               Beng Chin Ooi},
+  title     = {Efficient Processing of Spatial Group Keyword Queries},
+  journal   = tods,
+  volume    = {40},
+  number    = {2},
+  year      = 2015,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/VincentLLL15,
+  author    = {Millist W. Vincent and
+               Jixue Liu and
+               Hong-Cheu Liu and
+               Sebastian Link},
+  title     = {Technical Correspondence: "Differential Dependencies: Reasoning and Discovery" Revisited},
+  journal   = tods,
+  volume    = {40},
+  number    = {2},
+  year      = 2015,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/LuLWLX15,
+  author    = {Jiaheng Lu and
+               Chunbin Lin and
+               Wei Wang and
+               Chen Li and
+               Xiaokui Xiao},
+  title     = {Boosting the Quality of Approximate String Matching by Synonyms},
+  journal   = tods,
+  volume    = {40},
+  number    = {3},
+  year      = 2015,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/RusuZWJ15,
+  author    = {Florin Rusu and
+               Zixuan Zhuang and
+               Mingxi Wu and
+               Chris Jermaine},
+  title     = {{Workload-Driven} Antijoin Cardinality Estimation},
+  journal   = tods,
+  volume    = {40},
+  number    = {3},
+  year      = 2015,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/ChenLWXML15,
+  author    = {Zitong Chen and
+               Yubao Liu and
+               Raymond Chi-Wing Wong and
+               Jiamin Xiong and
+               Ganglin Mai and
+               Cheng Long},
+  title     = {Optimal Location Queries in Road Networks},
+  journal   = tods,
+  volume    = {40},
+  number    = {3},
+  year      = 2015,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/RietveldW15,
+  author    = {Kristian F. D. Rietveld and
+               Harry A. G. Wijshoff},
+  title     = {Reducing Layered Database Applications to their Essence through Vertical Integration},
+  journal   = tods,
+  volume    = {40},
+  number    = {3},
+  year      = 2015,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/ChengR15,
+  author    = {Yu Cheng and
+               Florin Rusu},
+  title     = {SCANRAW: A Database {Meta-Operator} for Parallel {In-Situ} Processing and Loading},
+  journal   = tods,
+  volume    = {40},
+  number    = {3},
+  year      = 2015,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/tods/ParchasGPB15,
+  author    = {Panos Parchas and
+               Francesco Gullo and
+               Dimitris Papadias and
+               Francesco Bonchi},
+  title     = {Uncertain Graph Processing through Representative Instances},
+  journal   = tods,
+  volume    = {40},
+  number    = {3},
+  year      = 2015,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/tods/KostylevRS14,
+  author    = {Egor V. Kostylev and
+               Juan L. Reutter and
+               András Z. Salamon},
+  title     = {Classification of annotation semirings over containment of conjunctive queries},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@article{DBLP:journals/tods/YiWW14,
+  author    = {Ke Yi and
+               Lu Wang and
+               Zhewei Wei},
+  title     = {Indexing for summary queries: Theory and practice},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {2-1},
+}
+
+@article{DBLP:journals/tods/KiferM14,
+  author    = {Daniel Kifer and
+               Ashwin Machanavajjhala},
+  title     = {Pufferfish: A framework for mathematical privacy definitions},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@article{DBLP:journals/tods/MaCFHW14,
+  author    = {Shuai Ma and
+               Yang Cao and
+               Wenfei Fan and
+               Jinpeng Huai and
+               Tianyu Wo},
+  title     = {Strong simulation: Capturing topology in graph pattern matching},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/GatterbauerS14,
+  author    = {Wolfgang Gatterbauer and
+               Dan Suciu},
+  title     = {Oblivious bounds on the probability of boolean functions},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@article{DBLP:journals/tods/FangNFL14,
+  author    = {Qiong Fang and
+               Wilfred Ng and
+               Jianlin Feng and
+               Yuliang Li},
+  title     = {Mining order-preserving submatrices from probabilistic matrices},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/WangLF14,
+  author    = {Jiannan Wang and
+               Guoliang Li and
+               Jianhua Feng},
+  title     = {Extending string similarity join to tolerant fuzzy token matching},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/SenT14,
+  author    = {Siddhartha Sen and
+               Robert Endre Tarjan},
+  title     = {Deletion without rebalancing in multiway search trees},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/Nekrich14,
+  author    = {Yakov Nekrich},
+  title     = {Efficient range searching for categorical and plain data},
+  journal   = tods,
+  volume    = {39},
+  number    = {1},
+  year      = 2014,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/XuT14,
+  author    = {Pan Xu and
+               Srikanta Tirthapura},
+  title     = {Optimality of Clustering Properties of {Space-Filling} Curves},
+  journal   = tods,
+  volume    = {39},
+  number    = {2},
+  year      = 2014,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/ThomsonDWRSA14,
+  author    = {Alexander Thomson and
+               Thaddeus Diamond and
+               Shu-Chun Weng and
+               Kun Ren and
+               Philip Shao and
+               Daniel J. Abadi},
+  title     = {Fast Distributed Transactions and Strongly Consistent Replication for {OLTP} Database Systems},
+  journal   = tods,
+  volume    = {39},
+  number    = {2},
+  year      = 2014,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/NykielPMKK14,
+  author    = {Tomasz Nykiel and
+               Michalis Potamias and
+               Chaitanya Mishra and
+               George Kollios and
+               Nick Koudas},
+  title     = {Sharing across Multiple {MapReduce} Jobs},
+  journal   = tods,
+  volume    = {39},
+  number    = {2},
+  year      = 2014,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/LuLCWS14,
+  author    = {Ying Lu and
+               Jiaheng Lu and
+               Gao Cong and
+               Wei Wu and
+               Cyrus Shahabi},
+  title     = {Efficient Algorithms and Cost Models for Reverse {Spatial-Keyword} {k-Nearest} Neighbor Search},
+  journal   = tods,
+  volume    = {39},
+  number    = {2},
+  year      = 2014,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/BartoliniCP14,
+  author    = {Ilaria Bartolini and
+               Paolo Ciaccia and
+               Marco Patella},
+  title     = {Domination in the Probabilistic World: Computing Skylines for Arbitrary Correlations and Ranking Semantics},
+  journal   = tods,
+  volume    = {39},
+  number    = {2},
+  year      = 2014,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/DengF14,
+  author    = {Ting Deng and
+               Wenfei Fan},
+  title     = {On the Complexity of Query Result Diversification},
+  journal   = tods,
+  volume    = {39},
+  number    = {2},
+  year      = 2014,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/GiatrakosDGSS14,
+  author    = {Nikos Giatrakos and
+               Antonios Deligiannakis and
+               Minos N. Garofalakis and
+               Izchak Sharfman and
+               Assaf Schuster},
+  title     = {Distributed Geometric Query Monitoring Using Prediction Models},
+  journal   = tods,
+  volume    = {39},
+  number    = {2},
+  year      = 2014,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/LeiR14,
+  author    = {Chuan Lei and
+               Elke A. Rundensteiner},
+  title     = {Robust Distributed Query Processing for Streaming Data},
+  journal   = tods,
+  volume    = {39},
+  number    = {2},
+  year      = 2014,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/Jensen14,
+  author    = {Christian S. Jensen},
+  title     = {Editorial},
+  journal   = tods,
+  volume    = {39},
+  number    = {3},
+  year      = 2014,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/0003QSH14,
+  author    = {Rui Zhang and
+               Jianzhong Qi and
+               Martin Stradling and
+               Jin Huang},
+  title     = {Towards a Painless Index for Spatial Objects},
+  journal   = tods,
+  volume    = {39},
+  number    = {3},
+  year      = 2014,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/tods/TattiMC14,
+  author    = {Nikolaj Tatti and
+               Fabian Moerchen and
+               Toon Calders},
+  title     = {Finding Robust Itemsets under Subsampling},
+  journal   = tods,
+  volume    = {39},
+  number    = {3},
+  year      = 2014,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/tods/ChoiCT14,
+  author    = {Dong-Wan Choi and
+               Chin-Wan Chung and
+               Yufei Tao},
+  title     = {Maximizing Range Sum in External Memory},
+  journal   = tods,
+  volume    = {39},
+  number    = {3},
+  year      = 2014,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/tods/KarwaRSY14,
+  author    = {Vishesh Karwa and
+               Sofya Raskhodnikova and
+               Adam D. Smith and
+               Grigory Yaroslavtsev},
+  title     = {Private Analysis of Graph Structure},
+  journal   = tods,
+  volume    = {39},
+  number    = {3},
+  year      = 2014,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/tods/PangD14,
+  author    = {HweeHwa Pang and
+               Xuhua Ding},
+  title     = {{Privacy-Preserving} {Ad-Hoc} {Equi-Join} on Outsourced Data},
+  journal   = tods,
+  volume    = {39},
+  number    = {3},
+  year      = 2014,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/tods/Malvestuto14,
+  author    = {Francesco M. Malvestuto},
+  title     = {A {Join-Like} Operator to Combine Data Cubes and Answer Queries from Multiple Data Cubes},
+  journal   = tods,
+  volume    = {39},
+  number    = {3},
+  year      = 2014,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/tods/GottlobOP14,
+  author    = {Georg Gottlob and
+               Giorgio Orsi and
+               Andreas Pieris},
+  title     = {Query Rewriting and Optimization for Ontological Databases},
+  journal   = tods,
+  volume    = {39},
+  number    = {3},
+  year      = 2014,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/tods/Jensen14a,
+  author    = {Christian S. Jensen},
+  title     = {Foreword to Invited Articles Issue},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/tods/HuTC14,
+  author    = {Xiaocheng Hu and
+               Yufei Tao and
+               Chin-Wan Chung},
+  title     = {I/{O-Efficient} Algorithms on Triangle Listing and Counting},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/tods/ArenasDNUBV14,
+  author    = {Marcelo Arenas and
+               Jonny Daenen and
+               Frank Neven and
+               Martín Ugarte and
+               Jan Van den Bussche and
+               Stijn Vansummeren},
+  title     = {Discovering {XSD} Keys from {XML} Data},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {28-1},
+}
+
+@article{DBLP:journals/tods/JungHFHY14,
+  author    = {Hyungsoo Jung and
+               Hyuck Han and
+               Alan Fekete and
+               Gernot Heiser and
+               Heon Young Yeom},
+  title     = {A Scalable Lock Manager for Multicores},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {29-1},
+}
+
+@article{DBLP:journals/tods/PapadopoulosCDG14,
+  author    = {Stavros Papadopoulos and
+               Graham Cormode and
+               Antonios Deligiannakis and
+               Minos N. Garofalakis},
+  title     = {Lightweight Query Authentication on Streams},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {30-1},
+}
+
+@article{DBLP:journals/tods/GheerbrantLS14,
+  author    = {Amélie Gheerbrant and
+               Leonid Libkin and
+               Cristina Sirangelo},
+  title     = {Naïve Evaluation of Queries over Incomplete Databases},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {31-1},
+}
+
+@article{DBLP:journals/tods/KimelfeldK14,
+  author    = {Benny Kimelfeld and
+               Phokion G. Kolaitis},
+  title     = {The Complexity of Mining Maximal Frequent Subgraphs},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {32-1},
+}
+
+@article{DBLP:journals/tods/BienvenuCLW14,
+  author    = {Meghyn Bienvenu and
+               Balder ten Cate and
+               Carsten Lutz and
+               Frank Wolter},
+  title     = {{Ontology-Based} Data Access: A Study through Disjunctive Datalog, CSP, and {MMSNP}},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {33-1},
+}
+
+@article{DBLP:journals/tods/LiLMS14,
+  author    = {Chao Li and
+               Daniel Yang Li and
+               Gerome Miklau and
+               Dan Suciu},
+  title     = {A Theory of Pricing Private Data},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {34-1},
+}
+
+@article{DBLP:journals/tods/DavidsonKMR14,
+  author    = {Susan B. Davidson and
+               Sanjeev Khanna and
+               Tova Milo and
+               Sudeepa Roy},
+  title     = {Top-k and Clustering with Noisy Comparisons},
+  journal   = tods,
+  volume    = {39},
+  number    = {4},
+  year      = 2014,
+  pages     = {35-1},
+}
+
 @article{DBLP:journals/tods/PapavasileiouFFKC13,
   author    = {Vicky Papavasileiou and
                Giorgos Flouris and
@@ -11,7 +1686,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {1},
+  pages     = {1-1},
 }
 
 @article{DBLP:journals/tods/Jaiswal0M13,
@@ -23,7 +1698,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {2},
+  pages     = {2-1},
 }
 
 @article{DBLP:journals/tods/GrustR13,
@@ -34,7 +1709,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {3},
+  pages     = {3-1},
 }
 
 @article{DBLP:journals/tods/BenzakenCCN13,
@@ -47,7 +1722,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {4},
+  pages     = {4-1},
 }
 
 @article{DBLP:journals/tods/DasAA13,
@@ -59,7 +1734,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {5},
+  pages     = {5-1},
 }
 
 @article{DBLP:journals/tods/FranceschetGMP13,
@@ -72,7 +1747,7 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {6},
+  pages     = {6-1},
 }
 
 @article{DBLP:journals/tods/WuYJ13,
@@ -84,7 +1759,268 @@
   volume    = {38},
   number    = {1},
   year      = 2013,
-  pages     = {7},
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/SadoghiJ13,
+  author    = {Mohammad Sadoghi and
+               Hans-Arno Jacobsen},
+  title     = {Analysis and optimization for boolean expression indexing},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/LiDF13,
+  author    = {Guoliang Li and
+               Dong Deng and
+               Jianhua Feng},
+  title     = {A partition-based method for string similarity joins with edit-distance constraints},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/CatalloCFMT13,
+  author    = {Ilio Catallo and
+               Eleonora Ciceri and
+               Piero Fraternali and
+               Davide Martinenghi and
+               Marco Tagliasacchi},
+  title     = {Top-k diversity queries over bounded regions},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/FazzingaFFM13,
+  author    = {Bettina Fazzinga and
+               Sergio Flesca and
+               Filippo Furfaro and
+               Elio Masciari},
+  title     = {{RFID-data} compression for supporting aggregate queries},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/PavlouS13,
+  author    = {Kyriacos E. Pavlou and
+               Richard T. Snodgrass},
+  title     = {Generalizing database forensics},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/Cheney13,
+  author    = {James Cheney},
+  title     = {Revisiting "forward node-selecting queries over trees"},
+  journal   = tods,
+  volume    = {38},
+  number    = {2},
+  year      = 2013,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/BonifatiGMS13,
+  author    = {Angela Bonifati and
+               Martin Hugh Goodfellow and
+               Ioana Manolescu and
+               Domenica Sileo},
+  title     = {Algebraic incremental maintenance of {XML} views},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/ColazzoGPS13,
+  author    = {Dario Colazzo and
+               Giorgio Ghelli and
+               Luca Pardini and
+               Carlo Sartiani},
+  title     = {Almost-linear inclusion for {XML} regular expression types},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/Qin0XLLW13,
+  author    = {Jianbin Qin and
+               Wei Wang and
+               Chuan Xiao and
+               Yifei Lu and
+               Xuemin Lin and
+               Haixun Wang},
+  title     = {Asymmetric signature schemes for efficient exact edit similarity query processing},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/LevandoskiEMK13,
+  author    = {Justin J. Levandoski and
+               Ahmed Eldawy and
+               Mohamed F. Mokbel and
+               Mohamed E. Khalefa},
+  title     = {Flexible and extensible preference evaluation in database systems},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/FanWW13,
+  author    = {Wenfei Fan and
+               Xin Wang and
+               Yinghui Wu},
+  title     = {Incremental graph pattern matching},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/KarvounarakisGIT13,
+  author    = {Grigoris Karvounarakis and
+               Todd J. Green and
+               Zachary G. Ives and
+               Val Tannen},
+  title     = {Collaborative data sharing via update exchange and provenance},
+  journal   = tods,
+  volume    = {38},
+  number    = {3},
+  year      = 2013,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/tods/Ozsoyoglu13,
+  author    = {Z. Meral Özsoyoglu},
+  title     = {Foreword to invited papers issue},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/tods/MozafariZDZ13,
+  author    = {Barzan Mozafari and
+               Kai Zeng and
+               Loris D'Antoni and
+               Carlo Zaniolo},
+  title     = {High-performance complex event processing over hierarchical data},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/tods/SarmaLGMH13,
+  author    = {Anish Das Sarma and
+               Hongrae Lee and
+               Hector Gonzalez and
+               Jayant Madhavan and
+               Alon Y. Halevy},
+  title     = {Consistent thinning of large geographical data for map visualization},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {22-1},
+}
+
+@article{DBLP:journals/tods/TeubnerWN13,
+  author    = {Jens Teubner and
+               Louis Woods and
+               Chongling Nie},
+  title     = {{XLynx} - An {FPGA-based} {XML} filter for hybrid {XQuery} processing},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/tods/LosemannM13,
+  author    = {Katja Losemann and
+               Wim Martens},
+  title     = {The complexity of regular expressions and property paths in {SPARQL}},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/tods/Letelier0PS13,
+  author    = {Andrés Letelier and
+               Jorge Pérez and
+               Reinhard Pichler and
+               Sebastian Skritek},
+  title     = {Static analysis and optimization of semantic web queries},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/tods/AgarwalCHPWY13,
+  author    = {Pankaj K. Agarwal and
+               Graham Cormode and
+               Zengfeng Huang and
+               Jeff M. Phillips and
+               Zhewei Wei and
+               Ke Yi},
+  title     = {Mergeable summaries},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/tods/KonradM13,
+  author    = {Christian Konrad and
+               Frédéric Magniez},
+  title     = {Validating {XML} documents in the streaming model with external memory},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/tods/CateDK13,
+  author    = {Balder ten Cate and
+               Víctor Dalmau and
+               Phokion G. Kolaitis},
+  title     = {Learning schema mappings},
+  journal   = tods,
+  volume    = {38},
+  number    = {4},
+  year      = 2013,
+  pages     = {28-1},
 }
 
 @article{DBLP:journals/tods/Graefe12,
@@ -94,7 +2030,7 @@
   volume    = {37},
   number    = {1},
   year      = 2012,
-  pages     = {1},
+  pages     = {1-1},
 }
 
 @article{DBLP:journals/tods/MartinenghiT12,
@@ -105,7 +2041,7 @@
   volume    = {37},
   number    = {1},
   year      = 2012,
-  pages     = {2},
+  pages     = {2-1},
 }
 
 @article{DBLP:journals/tods/Nuray-TuranKMY12,
@@ -118,7 +2054,7 @@
   volume    = {37},
   number    = {1},
   year      = 2012,
-  pages     = {3},
+  pages     = {3-1},
 }
 
 @article{DBLP:journals/tods/LiuC12,
@@ -129,7 +2065,7 @@
   volume    = {37},
   number    = {1},
   year      = 2012,
-  pages     = {4},
+  pages     = {4-1},
 }
 
 @article{DBLP:journals/tods/YangRW12,
@@ -141,7 +2077,7 @@
   volume    = {37},
   number    = {1},
   year      = 2012,
-  pages     = {5},
+  pages     = {5-1},
 }
 
 @article{DBLP:journals/tods/ReS12,
@@ -152,7 +2088,7 @@
   volume    = {37},
   number    = {1},
   year      = 2012,
-  pages     = {6},
+  pages     = {6-1},
 }
 
 @article{DBLP:journals/tods/Nuray-TuranKM12,
@@ -164,7 +2100,7 @@
   volume    = {37},
   number    = {1},
   year      = 2012,
-  pages     = {7},
+  pages     = {7-1},
 }
 
 @article{DBLP:journals/tods/SchneiderCVY12,
@@ -177,7 +2113,7 @@
   volume    = {37},
   number    = {2},
   year      = 2012,
-  pages     = {8},
+  pages     = {8-1},
 }
 
 @article{DBLP:journals/tods/Wijsen12,
@@ -187,7 +2123,7 @@
   volume    = {37},
   number    = {2},
   year      = 2012,
-  pages     = {9},
+  pages     = {9-1},
 }
 
 @article{DBLP:journals/tods/AbiteboulBV12,
@@ -199,7 +2135,7 @@
   volume    = {37},
   number    = {2},
   year      = 2012,
-  pages     = {10},
+  pages     = {10-1},
 }
 
 @article{DBLP:journals/tods/TassaG12,
@@ -210,7 +2146,7 @@
   volume    = {37},
   number    = {2},
   year      = 2012,
-  pages     = {11},
+  pages     = {11-1},
 }
 
 @article{DBLP:journals/tods/ShengTL12,
@@ -222,7 +2158,7 @@
   volume    = {37},
   number    = {2},
   year      = 2012,
-  pages     = {12},
+  pages     = {12-1},
 }
 
 @article{DBLP:journals/tods/HartmannL12,
@@ -233,7 +2169,7 @@
   volume    = {37},
   number    = {2},
   year      = 2012,
-  pages     = {13},
+  pages     = {13-1},
 }
 
 @article{DBLP:journals/tods/ZhangLZCZ12,
@@ -247,7 +2183,7 @@
   volume    = {37},
   number    = {2},
   year      = 2012,
-  pages     = {14},
+  pages     = {14-1},
 }
 
 @article{DBLP:journals/tods/XiaZFCW12,
@@ -261,7 +2197,7 @@
   volume    = {37},
   number    = {2},
   year      = 2012,
-  pages     = {15},
+  pages     = {15-1},
 }
 
 @article{DBLP:journals/tods/Ozsoyoglu12,
@@ -271,7 +2207,7 @@
   volume    = {37},
   number    = {3},
   year      = 2012,
-  pages     = {16},
+  pages     = {16-1},
 }
 
 @article{DBLP:journals/tods/GraefeKK12,
@@ -283,7 +2219,7 @@
   volume    = {37},
   number    = {3},
   year      = 2012,
-  pages     = {17},
+  pages     = {17-1},
 }
 
 @article{DBLP:journals/tods/WangY12,
@@ -294,7 +2230,7 @@
   volume    = {37},
   number    = {3},
   year      = 2012,
-  pages     = {18},
+  pages     = {18-1},
 }
 
 @article{DBLP:journals/tods/DavidLT12,
@@ -306,7 +2242,7 @@
   volume    = {37},
   number    = {3},
   year      = 2012,
-  pages     = {19},
+  pages     = {19-1},
 }
 
 @article{DBLP:journals/tods/LemireKG12,
@@ -318,7 +2254,7 @@
   volume    = {37},
   number    = {3},
   year      = 2012,
-  pages     = {20},
+  pages     = {20-1},
 }
 
 @article{DBLP:journals/tods/0003K0BGK12,
@@ -333,7 +2269,7 @@
   volume    = {37},
   number    = {3},
   year      = 2012,
-  pages     = {21},
+  pages     = {21-1},
 }
 
 @article{DBLP:journals/tods/DamaggioDV12,
@@ -345,7 +2281,7 @@
   volume    = {37},
   number    = {3},
   year      = 2012,
-  pages     = {22},
+  pages     = {22-1},
 }
 
 @article{DBLP:journals/tods/Ozsoyoglu12a,
@@ -355,7 +2291,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {23},
+  pages     = {23-1},
 }
 
 @article{DBLP:journals/tods/KimelfeldVW12,
@@ -367,7 +2303,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {24},
+  pages     = {24-1},
 }
 
 @article{DBLP:journals/tods/FanGW12,
@@ -379,7 +2315,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {25},
+  pages     = {25-1},
 }
 
 @article{DBLP:journals/tods/ShengT12,
@@ -390,7 +2326,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {26},
+  pages     = {26-1},
 }
 
 @article{DBLP:journals/tods/LiMDMS12,
@@ -404,7 +2340,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {27},
+  pages     = {27-1},
 }
 
 @article{DBLP:journals/tods/LiPT12,
@@ -416,7 +2352,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {28},
+  pages     = {28-1},
 }
 
 @article{DBLP:journals/tods/XieDSZZ12,
@@ -430,7 +2366,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {29},
+  pages     = {29-1},
 }
 
 @article{DBLP:journals/tods/AmsterdamerDMT12,
@@ -443,7 +2379,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {30},
+  pages     = {30-1},
 }
 
 @article{DBLP:journals/tods/BarceloLLW12,
@@ -456,7 +2392,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {31},
+  pages     = {31-1},
 }
 
 @article{DBLP:journals/tods/CongFKLL12,
@@ -470,7 +2406,7 @@
   volume    = {37},
   number    = {4},
   year      = 2012,
-  pages     = {32},
+  pages     = {32-1},
 }
 
 @article{DBLP:journals/tods/WangL11,
@@ -481,7 +2417,7 @@
   volume    = {36},
   number    = {1},
   year      = 2011,
-  pages     = {1},
+  pages     = {1-1},
 }
 
 @article{DBLP:journals/tods/NergizTS11,
@@ -493,7 +2429,7 @@
   volume    = {36},
   number    = {1},
   year      = 2011,
-  pages     = {2},
+  pages     = {2-1},
 }
 
 @article{DBLP:journals/tods/Gross-Amblard11,
@@ -503,7 +2439,7 @@
   volume    = {36},
   number    = {1},
   year      = 2011,
-  pages     = {3},
+  pages     = {3-1},
 }
 
 @article{DBLP:journals/tods/TermehchyW11,
@@ -514,7 +2450,7 @@
   volume    = {36},
   number    = {1},
   year      = 2011,
-  pages     = {4},
+  pages     = {4-1},
 }
 
 @article{DBLP:journals/tods/CautisDOV11,
@@ -527,7 +2463,7 @@
   volume    = {36},
   number    = {1},
   year      = 2011,
-  pages     = {5},
+  pages     = {5-1},
 }
 
 @article{DBLP:journals/tods/LiuDC11,
@@ -539,7 +2475,7 @@
   volume    = {36},
   number    = {1},
   year      = 2011,
-  pages     = {6},
+  pages     = {6-1},
 }
 
 @article{DBLP:journals/tods/JinRXW11,
@@ -552,7 +2488,7 @@
   volume    = {36},
   number    = {1},
   year      = 2011,
-  pages     = {7},
+  pages     = {7-1},
 }
 
 @article{DBLP:journals/tods/LawWZ11,
@@ -564,7 +2500,7 @@
   volume    = {36},
   number    = {2},
   year      = 2011,
-  pages     = {8},
+  pages     = {8-1},
 }
 
 @article{DBLP:journals/tods/GaoZCCL11,
@@ -578,7 +2514,7 @@
   volume    = {36},
   number    = {2},
   year      = 2011,
-  pages     = {9},
+  pages     = {9-1},
 }
 
 @article{DBLP:journals/tods/YiuJML11,
@@ -591,7 +2527,7 @@
   volume    = {36},
   number    = {2},
   year      = 2011,
-  pages     = {10},
+  pages     = {10-1},
 }
 
 @article{DBLP:journals/tods/FaginKPT11,
@@ -604,7 +2540,7 @@
   volume    = {36},
   number    = {2},
   year      = 2011,
-  pages     = {11},
+  pages     = {11-1},
 }
 
 @article{DBLP:journals/tods/AtallahQY11,
@@ -616,7 +2552,7 @@
   volume    = {36},
   number    = {2},
   year      = 2011,
-  pages     = {12},
+  pages     = {12-1},
 }
 
 @article{DBLP:journals/tods/LeeY11,
@@ -627,7 +2563,7 @@
   volume    = {36},
   number    = {2},
   year      = 2011,
-  pages     = {13},
+  pages     = {13-1},
 }
 
 @article{DBLP:journals/tods/HernichLS11,
@@ -639,7 +2575,7 @@
   volume    = {36},
   number    = {2},
   year      = 2011,
-  pages     = {14},
+  pages     = {14-1},
 }
 
 @article{DBLP:journals/tods/XiaoWLYW11,
@@ -653,7 +2589,7 @@
   volume    = {36},
   number    = {3},
   year      = 2011,
-  pages     = {15},
+  pages     = {15-1},
 }
 
 @article{DBLP:journals/tods/Song011,
@@ -664,7 +2600,7 @@
   volume    = {36},
   number    = {3},
   year      = 2011,
-  pages     = {16},
+  pages     = {16-1},
 }
 
 @article{DBLP:journals/tods/PapapetrouAPKG11,
@@ -678,7 +2614,7 @@
   volume    = {36},
   number    = {3},
   year      = 2011,
-  pages     = {17},
+  pages     = {17-1},
 }
 
 @article{DBLP:journals/tods/JampaniXWPJH11,
@@ -693,7 +2629,7 @@
   volume    = {36},
   number    = {3},
   year      = 2011,
-  pages     = {18},
+  pages     = {18-1},
 }
 
 @article{DBLP:journals/tods/StefanidisKP11,
@@ -705,7 +2641,7 @@
   volume    = {36},
   number    = {3},
   year      = 2011,
-  pages     = {19},
+  pages     = {19-1},
 }
 
 @article{DBLP:journals/tods/Ozsoyoglu11,
@@ -715,7 +2651,7 @@
   volume    = {36},
   number    = {4},
   year      = 2011,
-  pages     = {20},
+  pages     = {20-1},
 }
 
 @article{DBLP:journals/tods/ChengKFYZ11,
@@ -729,7 +2665,7 @@
   volume    = {36},
   number    = {4},
   year      = 2011,
-  pages     = {21},
+  pages     = {21-1},
 }
 
 @article{DBLP:journals/tods/KimCSSNKLBD11,
@@ -747,7 +2683,7 @@
   volume    = {36},
   number    = {4},
   year      = 2011,
-  pages     = {22},
+  pages     = {22-1},
 }
 
 @article{DBLP:journals/tods/AlexeCKT11,
@@ -760,7 +2696,7 @@
   volume    = {36},
   number    = {4},
   year      = 2011,
-  pages     = {23},
+  pages     = {23-1},
 }
 
 @article{DBLP:journals/tods/CohenW11,
@@ -771,7 +2707,7 @@
   volume    = {36},
   number    = {4},
   year      = 2011,
-  pages     = {24},
+  pages     = {24-1},
 }
 
 @article{DBLP:journals/tods/AbiteboulCKNS11,
@@ -785,7 +2721,7 @@
   volume    = {36},
   number    = {4},
   year      = 2011,
-  pages     = {25},
+  pages     = {25-1},
 }
 
 @article{DBLP:journals/tods/BaiGKL11,
@@ -798,7 +2734,7 @@
   volume    = {36},
   number    = {4},
   year      = 2011,
-  pages     = {26},
+  pages     = {26-1},
 }
 
 @article{DBLP:journals/tods/GoncalvesK11,
@@ -809,65 +2745,7 @@
   volume    = {36},
   number    = {4},
   year      = 2011,
-  pages     = {27},
-}
-
-@article{DBLP:journals/tods/AugstenBG10,
-  author    = {Nikolaus Augsten and
-               Michael H. Böhlen and
-               Johann Gamper},
-  title     = {The pq-gram distance between ordered labeled trees},
-  journal   = tods,
-  volume    = {35},
-  number    = {1},
-  year      = 2010,
-}
-
-@article{DBLP:journals/tods/BexNSV10,
-  author    = {Geert Jan Bex and
-               Frank Neven and
-               Thomas Schwentick and
-               Stijn Vansummeren},
-  title     = {Inference of concise regular expressions and {DTDs}},
-  journal   = tods,
-  volume    = {35},
-  number    = {2},
-  year      = 2010,
-}
-
-@article{DBLP:journals/tods/ChenNOT10,
-  author    = {Su Chen and
-               Mario A. Nascimento and
-               Beng Chin Ooi and
-               Kian-Lee Tan},
-  title     = {Continuous online index tuning in moving object databases},
-  journal   = tods,
-  volume    = {35},
-  number    = {3},
-  year      = 2010,
-}
-
-@article{DBLP:journals/tods/DeneckerCBA10,
-  author    = {Marc Denecker and
-               Alvaro Cortés-Calabuig and
-               Maurice Bruynooghe and
-               Ofer Arieli},
-  title     = {Towards a logical reconstruction of a theory for locally closed databases},
-  journal   = tods,
-  volume    = {35},
-  number    = {3},
-  year      = 2010,
-}
-
-@article{DBLP:journals/tods/FlescaFP10,
-  author    = {Sergio Flesca and
-               Filippo Furfaro and
-               Francesco Parisi},
-  title     = {Querying and repairing inconsistent numerical databases},
-  journal   = tods,
-  volume    = {35},
-  number    = {2},
-  year      = 2010,
+  pages     = {27-1},
 }
 
 @article{DBLP:journals/tods/GhanemELA10,
@@ -880,48 +2758,19 @@
   volume    = {35},
   number    = {1},
   year      = 2010,
+  pages     = {1-1},
 }
 
-@article{DBLP:journals/tods/Graefe10,
-  author    = {Goetz Graefe},
-  title     = {A survey of B-tree locking techniques},
-  journal   = tods,
-  volume    = {35},
-  number    = {3},
-  year      = 2010,
-}
-
-@article{DBLP:journals/tods/HuXODN10,
-  author    = {Haibo Hu and
-               Jianliang Xu and
-               Sai Tung On and
-               Jing Du and
-               Joseph Kee-Yin Ng},
-  title     = {Privacy-aware location data publishing},
-  journal   = tods,
-  volume    = {35},
-  number    = {3},
-  year      = 2010,
-}
-
-@article{DBLP:journals/tods/KolahiL10,
-  author    = {Solmaz Kolahi and
-               Leonid Libkin},
-  title     = {An information-theoretic analysis of worst-case redundancy in database design},
+@article{DBLP:journals/tods/WuSS10,
+  author    = {Kesheng Wu and
+               Arie Shoshani and
+               Kurt Stockinger},
+  title     = {Analyses of multi-level and multi-component compressed bitmap indexes},
   journal   = tods,
   volume    = {35},
   number    = {1},
   year      = 2010,
-}
-
-@article{DBLP:journals/tods/KoutrikaI10,
-  author    = {Georgia Koutrika and
-               Yannis E. Ioannidis},
-  title     = {Personalizing queries based on networks of composite preferences},
-  journal   = tods,
-  volume    = {35},
-  number    = {2},
-  year      = 2010,
+  pages     = {2-1},
 }
 
 @article{DBLP:journals/tods/LianC10,
@@ -932,49 +2781,30 @@
   volume    = {35},
   number    = {1},
   year      = 2010,
+  pages     = {3-1},
 }
 
-@article{DBLP:journals/tods/LiuC10,
-  author    = {Ziyang Liu and
-               Yi Chen},
-  title     = {Return specification inference and result clustering for keyword search on {XML}},
+@article{DBLP:journals/tods/AugstenBG10,
+  author    = {Nikolaus Augsten and
+               Michael H. Böhlen and
+               Johann Gamper},
+  title     = {The pq-gram distance between ordered labeled trees},
   journal   = tods,
   volume    = {35},
-  number    = {2},
+  number    = {1},
   year      = 2010,
+  pages     = {4-1},
 }
 
-@article{DBLP:journals/tods/LiuHC10,
-  author    = {Ziyang Liu and
-               Yu Huang and
-               Yi Chen},
-  title     = {Improving {XML} search by generating and utilizing informative result snippets},
+@article{DBLP:journals/tods/KolahiL10,
+  author    = {Solmaz Kolahi and
+               Leonid Libkin},
+  title     = {An information-theoretic analysis of worst-case redundancy in database design},
   journal   = tods,
   volume    = {35},
-  number    = {3},
+  number    = {1},
   year      = 2010,
-}
-
-@article{DBLP:journals/tods/LiuWY10,
-  author    = {Hongyan Liu and
-               Xiaoyu Wang and
-               Yinghui Yang},
-  title     = {Comments on "an integrated efficient solution for computing frequent and top-k elements in data streams"},
-  journal   = tods,
-  volume    = {35},
-  number    = {2},
-  year      = 2010,
-}
-
-@article{DBLP:journals/tods/NashSV10,
-  author    = {Alan Nash and
-               Luc Segoufin and
-               Victor Vianu},
-  title     = {Views and queries: Determinacy and rewriting},
-  journal   = tods,
-  volume    = {35},
-  number    = {3},
-  year      = 2010,
+  pages     = {5-1},
 }
 
 @article{DBLP:journals/tods/SchnaitterP10,
@@ -985,6 +2815,7 @@
   volume    = {35},
   number    = {1},
   year      = 2010,
+  pages     = {6-1},
 }
 
 @article{DBLP:journals/tods/SororMASKK10,
@@ -999,18 +2830,19 @@
   volume    = {35},
   number    = {1},
   year      = 2010,
+  pages     = {7-1},
 }
 
-@article{DBLP:journals/tods/TaoYSK10,
-  author    = {Yufei Tao and
-               Ke Yi and
-               Cheng Sheng and
-               Panos Kalnis},
-  title     = {Efficient and accurate nearest neighbor and closest pair search in high-dimensional space},
+@article{DBLP:journals/tods/XiaoTK10,
+  author    = {Xiaokui Xiao and
+               Yufei Tao and
+               Nick Koudas},
+  title     = {Transparent anonymization: Thwarting adversaries who know the algorithm},
   journal   = tods,
   volume    = {35},
-  number    = {3},
+  number    = {2},
   year      = 2010,
+  pages     = {8-1},
 }
 
 @article{DBLP:journals/tods/UMYM10,
@@ -1023,6 +2855,31 @@
   volume    = {35},
   number    = {2},
   year      = 2010,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/LiuC10,
+  author    = {Ziyang Liu and
+               Yi Chen},
+  title     = {Return specification inference and result clustering for keyword search on {XML}},
+  journal   = tods,
+  volume    = {35},
+  number    = {2},
+  year      = 2010,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/BexNSV10,
+  author    = {Geert Jan Bex and
+               Frank Neven and
+               Thomas Schwentick and
+               Stijn Vansummeren},
+  title     = {Inference of concise regular expressions and {DTDs}},
+  journal   = tods,
+  volume    = {35},
+  number    = {2},
+  year      = 2010,
+  pages     = {11-1},
 }
 
 @article{DBLP:journals/tods/VimercatiFJPS10,
@@ -1036,28 +2893,129 @@
   volume    = {35},
   number    = {2},
   year      = 2010,
+  pages     = {12-1},
 }
 
-@article{DBLP:journals/tods/WuSS10,
-  author    = {Kesheng Wu and
-               Arie Shoshani and
-               Kurt Stockinger},
-  title     = {Analyses of multi-level and multi-component compressed bitmap indexes},
-  journal   = tods,
-  volume    = {35},
-  number    = {1},
-  year      = 2010,
-}
-
-@article{DBLP:journals/tods/XiaoTK10,
-  author    = {Xiaokui Xiao and
-               Yufei Tao and
-               Nick Koudas},
-  title     = {Transparent anonymization: Thwarting adversaries who know the algorithm},
+@article{DBLP:journals/tods/KoutrikaI10,
+  author    = {Georgia Koutrika and
+               Yannis E. Ioannidis},
+  title     = {Personalizing queries based on networks of composite preferences},
   journal   = tods,
   volume    = {35},
   number    = {2},
   year      = 2010,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/FlescaFP10,
+  author    = {Sergio Flesca and
+               Filippo Furfaro and
+               Francesco Parisi},
+  title     = {Querying and repairing inconsistent numerical databases},
+  journal   = tods,
+  volume    = {35},
+  number    = {2},
+  year      = 2010,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/LiuWY10,
+  author    = {Hongyan Liu and
+               Xiaoyu Wang and
+               Yinghui Yang},
+  title     = {Comments on "an integrated efficient solution for computing frequent and top-k elements in data streams"},
+  journal   = tods,
+  volume    = {35},
+  number    = {2},
+  year      = 2010,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/Graefe10,
+  author    = {Goetz Graefe},
+  title     = {A survey of B-tree locking techniques},
+  journal   = tods,
+  volume    = {35},
+  number    = {3},
+  year      = 2010,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/ChenNOT10,
+  author    = {Su Chen and
+               Mario A. Nascimento and
+               Beng Chin Ooi and
+               Kian-Lee Tan},
+  title     = {Continuous online index tuning in moving object databases},
+  journal   = tods,
+  volume    = {35},
+  number    = {3},
+  year      = 2010,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/HuXODN10,
+  author    = {Haibo Hu and
+               Jianliang Xu and
+               Sai Tung On and
+               Jing Du and
+               Joseph Kee-Yin Ng},
+  title     = {Privacy-aware location data publishing},
+  journal   = tods,
+  volume    = {35},
+  number    = {3},
+  year      = 2010,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/LiuHC10,
+  author    = {Ziyang Liu and
+               Yu Huang and
+               Yi Chen},
+  title     = {Improving {XML} search by generating and utilizing informative result snippets},
+  journal   = tods,
+  volume    = {35},
+  number    = {3},
+  year      = 2010,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/tods/TaoYSK10,
+  author    = {Yufei Tao and
+               Ke Yi and
+               Cheng Sheng and
+               Panos Kalnis},
+  title     = {Efficient and accurate nearest neighbor and closest pair search in high-dimensional space},
+  journal   = tods,
+  volume    = {35},
+  number    = {3},
+  year      = 2010,
+  pages     = {20-1},
+}
+
+@article{DBLP:journals/tods/NashSV10,
+  author    = {Alan Nash and
+               Luc Segoufin and
+               Victor Vianu},
+  title     = {Views and queries: Determinacy and rewriting},
+  journal   = tods,
+  volume    = {35},
+  number    = {3},
+  year      = 2010,
+  pages     = {21-1},
+}
+
+@article{DBLP:journals/tods/DeneckerCBA10,
+  author    = {Marc Denecker and
+               Alvaro Cortés-Calabuig and
+               Maurice Bruynooghe and
+               Ofer Arieli},
+  title     = {Towards a logical reconstruction of a theory for locally closed databases},
+  journal   = tods,
+  volume    = {35},
+  number    = {3},
+  year      = 2010,
+  pages     = {22-1},
 }
 
 @article{DBLP:journals/tods/Ozsoyoglu10,
@@ -1067,7 +3025,7 @@
   volume    = {35},
   number    = {4},
   year      = 2010,
-  pages     = {23},
+  pages     = {23-1},
 }
 
 @article{DBLP:journals/tods/IvanovaKNG10,
@@ -1080,7 +3038,7 @@
   volume    = {35},
   number    = {4},
   year      = 2010,
-  pages     = {24},
+  pages     = {24-1},
 }
 
 @article{DBLP:journals/tods/GhotingM10,
@@ -1091,7 +3049,7 @@
   volume    = {35},
   number    = {4},
   year      = 2010,
-  pages     = {25},
+  pages     = {25-1},
 }
 
 @article{DBLP:journals/tods/BerindeICS10,
@@ -1104,7 +3062,7 @@
   volume    = {35},
   number    = {4},
   year      = 2010,
-  pages     = {26},
+  pages     = {26-1},
 }
 
 @article{DBLP:journals/tods/FanG10,
@@ -1115,7 +3073,7 @@
   volume    = {35},
   number    = {4},
   year      = 2010,
-  pages     = {27},
+  pages     = {27-1},
 }
 
 @article{DBLP:journals/tods/FletcherBGV10,
@@ -1128,7 +3086,7 @@
   volume    = {35},
   number    = {4},
   year      = 2010,
-  pages     = {28},
+  pages     = {28-1},
 }
 
 @article{DBLP:journals/tods/BjorklundGM10,
@@ -1140,73 +3098,18 @@
   volume    = {35},
   number    = {4},
   year      = 2010,
-  pages     = {29},
+  pages     = {29-1},
 }
 
-@article{DBLP:journals/tods/AbiteboulSV09,
-  author    = {Serge Abiteboul and
-               Luc Segoufin and
-               Victor Vianu},
-  title     = {Static analysis of active {XML} systems},
-  journal   = tods,
-  volume    = {34},
-  number    = {4},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/AgarwalXYY09,
-  author    = {Pankaj K. Agarwal and
-               Junyi Xie and
-               Jun Yang and
-               Hai Yu},
-  title     = {Input-sensitive scalable continuous join query processing},
-  journal   = tods,
-  volume    = {34},
-  number    = {3},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/AngiulliFP09,
-  author    = {Fabrizio Angiulli and
-               Fabio Fassetti and
-               Luigi Palopoli},
-  title     = {Detecting outlying properties of exceptional objects},
+@article{DBLP:journals/tods/MishraK09,
+  author    = {Chaitanya Mishra and
+               Nick Koudas},
+  title     = {The design of a query monitoring system},
   journal   = tods,
   volume    = {34},
   number    = {1},
   year      = 2009,
-}
-
-@article{DBLP:journals/tods/ArenasPR09,
-  author    = {Marcelo Arenas and
-               Jorge Pérez and
-               Cristian Riveros},
-  title     = {The recovery of a schema mapping: Bringing exchanged data back},
-  journal   = tods,
-  volume    = {34},
-  number    = {4},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/BenediktK09,
-  author    = {Michael Benedikt and
-               Christoph Koch},
-  title     = {From {XQuery} to relational logics},
-  journal   = tods,
-  volume    = {34},
-  number    = {4},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/CahillRF09,
-  author    = {Michael J. Cahill and
-               Uwe Röhm and
-               Alan David Fekete},
-  title     = {Serializable isolation for snapshot databases},
-  journal   = tods,
-  volume    = {34},
-  number    = {4},
-  year      = 2009,
+  pages     = {1-1},
 }
 
 @article{DBLP:journals/tods/ChengKN09,
@@ -1218,28 +3121,40 @@
   volume    = {34},
   number    = {1},
   year      = 2009,
+  pages     = {2-1},
 }
 
-@article{DBLP:journals/tods/ChowMA09,
-  author    = {Chi-Yin Chow and
-               Mohamed F. Mokbel and
-               Walid G. Aref},
-  title     = {Casper*: Query processing for location services without compromising privacy},
+@article{DBLP:journals/tods/SpiegelP09,
+  author    = {Joshua Spiegel and
+               Neoklis Polyzotis},
+  title     = {{TuG} synopses for approximate query answering},
   journal   = tods,
   volume    = {34},
-  number    = {4},
+  number    = {1},
   year      = 2009,
+  pages     = {3-1},
 }
 
-@article{DBLP:journals/tods/CohenKS09,
-  author    = {Sara Cohen and
-               Benny Kimelfeld and
-               Yehoshua Sagiv},
-  title     = {Incorporating constraints in probabilistic {XML}},
+@article{DBLP:journals/tods/KramerS09,
+  author    = {Jürgen Krämer and
+               Bernhard Seeger},
+  title     = {Semantics and implementation of continuous sliding window queries over data streams},
   journal   = tods,
   volume    = {34},
-  number    = {3},
+  number    = {1},
   year      = 2009,
+  pages     = {4-1},
+}
+
+@article{DBLP:journals/tods/JainI09,
+  author    = {Alpa Jain and
+               Panagiotis G. Ipeirotis},
+  title     = {A quality-aware optimizer for information extraction},
+  journal   = tods,
+  volume    = {34},
+  number    = {1},
+  year      = 2009,
+  pages     = {5-1},
 }
 
 @article{DBLP:journals/tods/ConsidineHLBK09,
@@ -1253,6 +3168,32 @@
   volume    = {34},
   number    = {1},
   year      = 2009,
+  pages     = {6-1},
+}
+
+@article{DBLP:journals/tods/AngiulliFP09,
+  author    = {Fabrizio Angiulli and
+               Fabio Fassetti and
+               Luigi Palopoli},
+  title     = {Detecting outlying properties of exceptional objects},
+  journal   = tods,
+  volume    = {34},
+  number    = {1},
+  year      = 2009,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/WongFWP09,
+  author    = {Raymond Chi-Wing Wong and
+               Ada Wai-Chee Fu and
+               Ke Wang and
+               Jian Pei},
+  title     = {Anonymization-based attacks in privacy-preserving data publishing},
+  journal   = tods,
+  volume    = {34},
+  number    = {2},
+  year      = 2009,
+  pages     = {8-1},
 }
 
 @article{DBLP:journals/tods/GhinitaKKM09,
@@ -1265,6 +3206,7 @@
   volume    = {34},
   number    = {2},
   year      = 2009,
+  pages     = {9-1},
 }
 
 @article{DBLP:journals/tods/HartmannL09,
@@ -1275,6 +3217,133 @@
   volume    = {34},
   number    = {2},
   year      = 2009,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/LinKJPA09,
+  author    = {Yi Lin and
+               Bettina Kemme and
+               Ricardo Jiménez-Peris and
+               Marta Patiño-Martínez and
+               José Enrique Armendáriz-Iñigo},
+  title     = {Snapshot isolation and integrity constraints in replicated databases},
+  journal   = tods,
+  volume    = {34},
+  number    = {2},
+  year      = 2009,
+  pages     = {11-1},
+}
+
+@article{DBLP:journals/tods/SuWL09,
+  author    = {Weifeng Su and
+               Jiying Wang and
+               Frederick H. Lochovsky},
+  title     = {ODE: Ontology-assisted data extraction},
+  journal   = tods,
+  volume    = {34},
+  number    = {2},
+  year      = 2009,
+  pages     = {12-1},
+}
+
+@article{DBLP:journals/tods/AgarwalXYY09,
+  author    = {Pankaj K. Agarwal and
+               Junyi Xie and
+               Jun Yang and
+               Hai Yu},
+  title     = {Input-sensitive scalable continuous join query processing},
+  journal   = tods,
+  volume    = {34},
+  number    = {3},
+  year      = 2009,
+  pages     = {13-1},
+}
+
+@article{DBLP:journals/tods/SharifzadehSK09,
+  author    = {Mehdi Sharifzadeh and
+               Cyrus Shahabi and
+               Leyla Kazemi},
+  title     = {Processing spatial skyline queries in both vector spaces and spatial network databases},
+  journal   = tods,
+  volume    = {34},
+  number    = {3},
+  year      = 2009,
+  pages     = {14-1},
+}
+
+@article{DBLP:journals/tods/YiLCHKS09,
+  author    = {Ke Yi and
+               Feifei Li and
+               Graham Cormode and
+               Marios Hadjieleftheriou and
+               George Kollios and
+               Divesh Srivastava},
+  title     = {Small synopses for group-by query verification on outsourced data streams},
+  journal   = tods,
+  volume    = {34},
+  number    = {3},
+  year      = 2009,
+  pages     = {15-1},
+}
+
+@article{DBLP:journals/tods/PerezAG09,
+  author    = {Jorge Pérez and
+               Marcelo Arenas and
+               Claudio Gutiérrez},
+  title     = {Semantics and complexity of {SPARQL}},
+  journal   = tods,
+  volume    = {34},
+  number    = {3},
+  year      = 2009,
+  pages     = {16-1},
+}
+
+@article{DBLP:journals/tods/MarkowetzYP09,
+  author    = {Alexander Markowetz and
+               Yin Yang and
+               Dimitris Papadias},
+  title     = {Keyword search over relational tables and streams},
+  journal   = tods,
+  volume    = {34},
+  number    = {3},
+  year      = 2009,
+  pages     = {17-1},
+}
+
+@article{DBLP:journals/tods/CohenKS09,
+  author    = {Sara Cohen and
+               Benny Kimelfeld and
+               Yehoshua Sagiv},
+  title     = {Incorporating constraints in probabilistic {XML}},
+  journal   = tods,
+  volume    = {34},
+  number    = {3},
+  year      = 2009,
+  pages     = {18-1},
+}
+
+@article{DBLP:journals/tods/ShashaLO09,
+  author    = {Dennis E. Shasha and
+               Maurizio Lenzerini and
+               Z. Meral Özsoyoglu},
+  title     = {Foreword to {TODS} SIGMOD/{PODS} 2008 special issue},
+  journal   = tods,
+  volume    = {34},
+  number    = {4},
+  year      = 2009,
+  pages     = {19-1},
+}
+
+@article{DBLP:journals/tods/CahillRF09,
+  author    = {Michael J. Cahill and
+               Uwe Röhm and
+               Alan David Fekete},
+  title     = {Serializable isolation for snapshot databases},
+  journal   = tods,
+  volume    = {34},
+  number    = {4},
+  year      = 2009,
+  pages     = {20-1},
 }
 
 @article{DBLP:journals/tods/HeLYFGLS09,
@@ -1290,140 +3359,66 @@
   volume    = {34},
   number    = {4},
   year      = 2009,
+  pages     = {21-1},
 }
 
-@article{DBLP:journals/tods/JainI09,
-  author    = {Alpa Jain and
-               Panagiotis G. Ipeirotis},
-  title     = {A quality-aware optimizer for information extraction},
-  journal   = tods,
-  volume    = {34},
-  number    = {1},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/KramerS09,
-  author    = {Jürgen Krämer and
-               Bernhard Seeger},
-  title     = {Semantics and implementation of continuous sliding window queries over data streams},
-  journal   = tods,
-  volume    = {34},
-  number    = {1},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/LinKJPA09,
-  author    = {Yi Lin and
-               Bettina Kemme and
-               Ricardo Jiménez-Peris and
-               Marta Patiño-Martínez and
-               José Enrique Armendáriz-Iñigo},
-  title     = {Snapshot isolation and integrity constraints in replicated databases},
-  journal   = tods,
-  volume    = {34},
-  number    = {2},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/MarkowetzYP09,
-  author    = {Alexander Markowetz and
-               Yin Yang and
-               Dimitris Papadias},
-  title     = {Keyword search over relational tables and streams},
-  journal   = tods,
-  volume    = {34},
-  number    = {3},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/MishraK09,
-  author    = {Chaitanya Mishra and
-               Nick Koudas},
-  title     = {The design of a query monitoring system},
-  journal   = tods,
-  volume    = {34},
-  number    = {1},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/PerezAG09,
-  author    = {Jorge Pérez and
-               Marcelo Arenas and
-               Claudio Gutierrez},
-  title     = {Semantics and complexity of {SPARQL}},
-  journal   = tods,
-  volume    = {34},
-  number    = {3},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/SharifzadehSK09,
-  author    = {Mehdi Sharifzadeh and
-               Cyrus Shahabi and
-               Leyla Kazemi},
-  title     = {Processing spatial skyline queries in both vector spaces and spatial network databases},
-  journal   = tods,
-  volume    = {34},
-  number    = {3},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/ShashaLO09,
-  author    = {Dennis Shasha and
-               Maurizio Lenzerini and
-               Z. Meral Özsoyoglu},
-  title     = {Foreword to {TODS} SIGMOD/{PODS} 2008 special issue},
+@article{DBLP:journals/tods/ArenasPR09,
+  author    = {Marcelo Arenas and
+               Jorge Pérez and
+               Cristian Riveros},
+  title     = {The recovery of a schema mapping: Bringing exchanged data back},
   journal   = tods,
   volume    = {34},
   number    = {4},
   year      = 2009,
+  pages     = {22-1},
 }
 
-@article{DBLP:journals/tods/SpiegelP09,
-  author    = {Joshua Spiegel and
-               Neoklis Polyzotis},
-  title     = {{TuG} synopses for approximate query answering},
+@article{DBLP:journals/tods/AbiteboulSV09,
+  author    = {Serge Abiteboul and
+               Luc Segoufin and
+               Victor Vianu},
+  title     = {Static analysis of active {XML} systems},
   journal   = tods,
   volume    = {34},
+  number    = {4},
+  year      = 2009,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/tods/ChowMA09,
+  author    = {Chi-Yin Chow and
+               Mohamed F. Mokbel and
+               Walid G. Aref},
+  title     = {Casper*: Query processing for location services without compromising privacy},
+  journal   = tods,
+  volume    = {34},
+  number    = {4},
+  year      = 2009,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/tods/BenediktK09,
+  author    = {Michael Benedikt and
+               Christoph Koch},
+  title     = {From {XQuery} to relational logics},
+  journal   = tods,
+  volume    = {34},
+  number    = {4},
+  year      = 2009,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/tods/HristidisHP08,
+  author    = {Vagelis Hristidis and
+               Heasoo Hwang and
+               Yannis Papakonstantinou},
+  title     = {Authority-based keyword search in databases},
+  journal   = tods,
+  volume    = {33},
   number    = {1},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/SuWL09,
-  author    = {Weifeng Su and
-               Jiying Wang and
-               Frederick H. Lochovsky},
-  title     = {ODE: Ontology-assisted data extraction},
-  journal   = tods,
-  volume    = {34},
-  number    = {2},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/WongFWP09,
-  author    = {Raymond Chi-Wing Wong and
-               Ada Wai-Chee Fu and
-               Ke Wang and
-               Jian Pei},
-  title     = {Anonymization-based attacks in privacy-preserving data publishing},
-  journal   = tods,
-  volume    = {34},
-  number    = {2},
-  year      = 2009,
-}
-
-@article{DBLP:journals/tods/YiLCHKS09,
-  author    = {Ke Yi and
-               Feifei Li and
-               Graham Cormode and
-               Marios Hadjieleftheriou and
-               George Kollios and
-               Divesh Srivastava},
-  title     = {Small synopses for group-by query verification on outsourced data streams},
-  journal   = tods,
-  volume    = {34},
-  number    = {3},
-  year      = 2009,
+  year      = 2008,
+  pages     = {1-1},
 }
 
 @article{DBLP:journals/tods/AggarwalY08,
@@ -1434,6 +3429,7 @@
   volume    = {33},
   number    = {1},
   year      = 2008,
+  pages     = {2-1},
 }
 
 @article{DBLP:journals/tods/BalazinskaBMS08,
@@ -1446,62 +3442,7 @@
   volume    = {33},
   number    = {1},
   year      = 2008,
-}
-
-@article{DBLP:journals/tods/BartoliniCP08,
-  author    = {Ilaria Bartolini and
-               Paolo Ciaccia and
-               Marco Patella},
-  title     = {Efficient sort-based skyline evaluation},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/BunemanCV08,
-  author    = {Peter Buneman and
-               James Cheney and
-               Stijn Vansummeren},
-  title     = {On the expressiveness of implicit provenance in query and update languages},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/CormodeG08,
-  author    = {Graham Cormode and
-               Minos N. Garofalakis},
-  title     = {Approximate continuous querying over distributed streams},
-  journal   = tods,
-  volume    = {33},
-  number    = {2},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/EiterFGL08,
-  author    = {Thomas Eiter and
-               Michael Fink and
-               Gianluigi Greco and
-               Domenico Lembo},
-  title     = {Repair localization for query answering from inconsistent databases},
-  journal   = tods,
-  volume    = {33},
-  number    = {2},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/FaginKPT08,
-  author    = {Ronald Fagin and
-               Phokion G. Kolaitis and
-               Lucian Popa and
-               Wang Chiew Tan},
-  title     = {Quasi-inverses of schema mappings},
-  journal   = tods,
-  volume    = {33},
-  number    = {2},
-  year      = 2008,
+  pages     = {3-1},
 }
 
 @article{DBLP:journals/tods/FanB08,
@@ -1512,206 +3453,7 @@
   volume    = {33},
   number    = {1},
   year      = 2008,
-}
-
-@article{DBLP:journals/tods/FanGJK08,
-  author    = {Wenfei Fan and
-               Floris Geerts and
-               Xibei Jia and
-               Anastasios Kementsietsidis},
-  title     = {Conditional functional dependencies for capturing data inconsistencies},
-  journal   = tods,
-  volume    = {33},
-  number    = {2},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/FanGN08,
-  author    = {Wenfei Fan and
-               Floris Geerts and
-               Frank Neven},
-  title     = {Expressiveness and complexity of {XML} publishing transducers},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/GhelliRS08,
-  author    = {Giorgio Ghelli and
-               Kristoffer Høgsbro Rose and
-               Jérôme Siméon},
-  title     = {Commutativity analysis for {XML} updates},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/HeL08,
-  author    = {Bingsheng He and
-               Qiong Luo},
-  title     = {Cache-oblivious databases: Limitations and opportunities},
-  journal   = tods,
-  volume    = {33},
-  number    = {2},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/HristidisHP08,
-  author    = {Vagelis Hristidis and
-               Heasoo Hwang and
-               Yannis Papakonstantinou},
-  title     = {Authority-based keyword search in databases},
-  journal   = tods,
-  volume    = {33},
-  number    = {1},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/JacoxS08,
-  author    = {Edwin H. Jacox and
-               Hanan Samet},
-  title     = {Metric space similarity joins},
-  journal   = tods,
-  volume    = {33},
-  number    = {2},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/JayramMMV08,
-  author    = {T. S. Jayram and
-               Andrew McGregor and
-               S. Muthukrishnan and
-               Erik Vee},
-  title     = {Estimating statistical aggregates on probabilistic data streams},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/JermaineAPD08,
-  author    = {Chris Jermaine and
-               Subramanian Arumugam and
-               Abhijit Pol and
-               Alin Dobra},
-  title     = {Scalable approximate query processing with the {DBO} engine},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/KarrasM08,
-  author    = {Panagiotis Karras and
-               Nikos Mamoulis},
-  title     = {Hierarchical synopses with optimal error guarantees},
-  journal   = tods,
-  volume    = {33},
-  number    = {3},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/KeCN08,
-  author    = {Yiping Ke and
-               James Cheng and
-               Wilfred Ng},
-  title     = {Correlated pattern mining in quantitative databases},
-  journal   = tods,
-  volume    = {33},
-  number    = {3},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/LeFevreDR08,
-  author    = {Kristen LeFevre and
-               David J. DeWitt and
-               Raghu Ramakrishnan},
-  title     = {Workload-aware anonymization techniques for large-scale datasets},
-  journal   = tods,
-  volume    = {33},
-  number    = {3},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/LesterMZ08,
-  author    = {Nicholas Lester and
-               Alistair Moffat and
-               Justin Zobel},
-  title     = {Efficient online index construction for text databases},
-  journal   = tods,
-  volume    = {33},
-  number    = {3},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/Libkin08,
-  author    = {Leonid Libkin},
-  title     = {Introduction to the {PODS} 2007 special section},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/MelnikAB08,
-  author    = {Sergey Melnik and
-               Atul Adya and
-               Philip A. Bernstein},
-  title     = {Compiling mappings to bridge applications and databases},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/Ooi08,
-  author    = {Beng Chin Ooi},
-  title     = {Introduction to {ACM} {SIGMOD} 2007 special section},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/Ozsoyoglu08,
-  author    = {Z. Meral Özsoyoglu},
-  title     = {Foreword to {TODS} SIGMOD/PODS/{ICDT} 2007 special issue},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/PavlouS08,
-  author    = {Kyriacos E. Pavlou and
-               Richard T. Snodgrass},
-  title     = {Forensic analysis of database tampering},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/RusuD08,
-  author    = {Florin Rusu and
-               Alin Dobra},
-  title     = {Sketches for size of join estimation},
-  journal   = tods,
-  volume    = {33},
-  number    = {3},
-  year      = 2008,
-}
-
-@article{DBLP:journals/tods/SchwentickS08,
-  author    = {Thomas Schwentick and
-               Dan Suciu},
-  title     = {Introduction to {ICDT} 2007 special section},
-  journal   = tods,
-  volume    = {33},
-  number    = {4},
-  year      = 2008,
+  pages     = {4-1},
 }
 
 @article{DBLP:journals/tods/SharafCLP08,
@@ -1724,28 +3466,79 @@
   volume    = {33},
   number    = {1},
   year      = 2008,
+  pages     = {5-1},
 }
 
-@article{DBLP:journals/tods/SolimanIC08,
-  author    = {Mohamed A. Soliman and
-               Ihab F. Ilyas and
-               Kevin Chen-Chuan Chang},
-  title     = {Probabilistic top-k and ranking-aggregate queries},
+@article{DBLP:journals/tods/FanGJK08,
+  author    = {Wenfei Fan and
+               Floris Geerts and
+               Xibei Jia and
+               Anastasios Kementsietsidis},
+  title     = {Conditional functional dependencies for capturing data inconsistencies},
   journal   = tods,
   volume    = {33},
-  number    = {3},
+  number    = {2},
   year      = 2008,
+  pages     = {6-1},
 }
 
-@article{DBLP:journals/tods/XuJD08,
-  author    = {Fei Xu and
-               Christopher M. Jermaine and
-               Alin Dobra},
-  title     = {Confidence bounds for sampling-based group by estimates},
+@article{DBLP:journals/tods/JacoxS08,
+  author    = {Edwin H. Jacox and
+               Hanan Samet},
+  title     = {Metric space similarity joins},
   journal   = tods,
   volume    = {33},
-  number    = {3},
+  number    = {2},
   year      = 2008,
+  pages     = {7-1},
+}
+
+@article{DBLP:journals/tods/HeL08,
+  author    = {Bingsheng He and
+               Qiong Luo},
+  title     = {Cache-oblivious databases: Limitations and opportunities},
+  journal   = tods,
+  volume    = {33},
+  number    = {2},
+  year      = 2008,
+  pages     = {8-1},
+}
+
+@article{DBLP:journals/tods/CormodeG08,
+  author    = {Graham Cormode and
+               Minos N. Garofalakis},
+  title     = {Approximate continuous querying over distributed streams},
+  journal   = tods,
+  volume    = {33},
+  number    = {2},
+  year      = 2008,
+  pages     = {9-1},
+}
+
+@article{DBLP:journals/tods/EiterFGL08,
+  author    = {Thomas Eiter and
+               Michael Fink and
+               Gianluigi Greco and
+               Domenico Lembo},
+  title     = {Repair localization for query answering from inconsistent databases},
+  journal   = tods,
+  volume    = {33},
+  number    = {2},
+  year      = 2008,
+  pages     = {10-1},
+}
+
+@article{DBLP:journals/tods/FaginKPT08,
+  author    = {Ronald Fagin and
+               Phokion G. Kolaitis and
+               Lucian Popa and
+               Wang Chiew Tan},
+  title     = {Quasi-inverses of schema mappings},
+  journal   = tods,
+  volume    = {33},
+  number    = {2},
+  year      = 2008,
+  pages     = {11-1},
 }
 
 @article{DBLP:journals/tods/ZhangMTGS08,
@@ -1759,117 +3552,227 @@
   volume    = {33},
   number    = {2},
   year      = 2008,
+  pages     = {12-1},
 }
 
-@article{DBLP:journals/tods/BenderH07,
-  author    = {Michael A. Bender and
-               Haodong Hu},
-  title     = {An adaptive packed-memory array},
+@article{DBLP:journals/tods/SolimanIC08,
+  author    = {Mohamed A. Soliman and
+               Ihab F. Ilyas and
+               Kevin Chen-Chuan Chang},
+  title     = {Probabilistic top-k and ranking-aggregate queries},
   journal   = tods,
-  volume    = {32},
-  number    = {4},
-  year      = 2007,
+  volume    = {33},
+  number    = {3},
+  year      = 2008,
+  pages     = {13-1},
 }
 
-@article{DBLP:journals/tods/BrunoC07,
-  author    = {Nicolas Bruno and
-               Surajit Chaudhuri},
-  title     = {Physical design refinement: The &lsquo;merge-reduce&rsquo; approach},
+@article{DBLP:journals/tods/KeCN08,
+  author    = {Yiping Ke and
+               James Cheng and
+               Wilfred Ng},
+  title     = {Correlated pattern mining in quantitative databases},
   journal   = tods,
-  volume    = {32},
-  number    = {4},
-  year      = 2007,
+  volume    = {33},
+  number    = {3},
+  year      = 2008,
+  pages     = {14-1},
 }
 
-@article{DBLP:journals/tods/Bussche07,
-  author    = {Jan Van den Bussche},
-  title     = {Introduction to the {PODS} 2006 special section},
+@article{DBLP:journals/tods/RusuD08,
+  author    = {Florin Rusu and
+               Alin Dobra},
+  title     = {Sketches for size of join estimation},
   journal   = tods,
-  volume    = {32},
-  number    = {4},
-  year      = 2007,
+  volume    = {33},
+  number    = {3},
+  year      = 2008,
+  pages     = {15-1},
 }
 
-@article{DBLP:journals/tods/Chaudhuri07,
-  author    = {Surajit Chaudhuri},
-  title     = {Introduction to {ACM} {SIGMOD} 2006 conference papers},
+@article{DBLP:journals/tods/XuJD08,
+  author    = {Fei Xu and
+               Christopher M. Jermaine and
+               Alin Dobra},
+  title     = {Confidence bounds for sampling-based group by estimates},
   journal   = tods,
-  volume    = {32},
-  number    = {4},
-  year      = 2007,
+  volume    = {33},
+  number    = {3},
+  year      = 2008,
+  pages     = {16-1},
 }
 
-@article{DBLP:journals/tods/Fagin07,
-  author    = {Ronald Fagin},
-  title     = {Inverting schema mappings},
+@article{DBLP:journals/tods/LeFevreDR08,
+  author    = {Kristen LeFevre and
+               David J. DeWitt and
+               Raghu Ramakrishnan},
+  title     = {Workload-aware anonymization techniques for large-scale datasets},
   journal   = tods,
-  volume    = {32},
-  number    = {4},
-  year      = 2007,
+  volume    = {33},
+  number    = {3},
+  year      = 2008,
+  pages     = {17-1},
 }
 
-@article{DBLP:journals/tods/Ioannidis07,
-  author    = {Yannis E. Ioannidis},
-  title     = {Introduction to the {EDBT} 2006 special section},
+@article{DBLP:journals/tods/KarrasM08,
+  author    = {Panagiotis Karras and
+               Nikos Mamoulis},
+  title     = {Hierarchical synopses with optimal error guarantees},
   journal   = tods,
-  volume    = {32},
-  number    = {4},
-  year      = 2007,
+  volume    = {33},
+  number    = {3},
+  year      = 2008,
+  pages     = {18-1},
 }
 
-@article{DBLP:journals/tods/IpeirotisAJG07,
-  author    = {Panagiotis G. Ipeirotis and
-               Eugene Agichtein and
-               Pranay Jain and
-               Luis Gravano},
-  title     = {Towards a query optimizer for text-centric tasks},
+@article{DBLP:journals/tods/LesterMZ08,
+  author    = {Nicholas Lester and
+               Alistair Moffat and
+               Justin Zobel},
+  title     = {Efficient online index construction for text databases},
   journal   = tods,
-  volume    = {32},
-  number    = {4},
-  year      = 2007,
+  volume    = {33},
+  number    = {3},
+  year      = 2008,
+  pages     = {19-1},
 }
 
-@article{DBLP:journals/tods/LiYJ07,
-  author    = {Yunyao Li and
-               Huahai Yang and
-               H. V. Jagadish},
-  title     = {NaLIX: A generic natural language search environment for {XML} data},
+@article{DBLP:journals/tods/Ozsoyoglu08,
+  author    = {Z. Meral Özsoyoglu},
+  title     = {Foreword to {TODS} SIGMOD/PODS/{ICDT} 2007 special issue},
   journal   = tods,
-  volume    = {32},
+  volume    = {33},
   number    = {4},
-  year      = 2007,
+  year      = 2008,
+  pages     = {20-1},
 }
 
-@article{DBLP:journals/tods/PetropoulosDPK07,
-  author    = {Michalis Petropoulos and
-               Alin Deutsch and
-               Yannis Papakonstantinou and
-               Yannis Katsis},
-  title     = {Exporting and interactively querying Web service-accessed sources: The {CLIDE} System},
+@article{DBLP:journals/tods/Ooi08,
+  author    = {Beng Chin Ooi},
+  title     = {Introduction to {ACM} {SIGMOD} 2007 special section},
   journal   = tods,
-  volume    = {32},
+  volume    = {33},
   number    = {4},
-  year      = 2007,
+  year      = 2008,
+  pages     = {21-1},
 }
 
-@article{DBLP:journals/tods/SharfmanSK07,
-  author    = {Izchak Sharfman and
-               Assaf Schuster and
-               Daniel Keren},
-  title     = {A geometric approach to monitoring threshold functions over distributed data streams},
+@article{DBLP:journals/tods/MelnikAB08,
+  author    = {Sergey Melnik and
+               Atul Adya and
+               Philip A. Bernstein},
+  title     = {Compiling mappings to bridge applications and databases},
   journal   = tods,
-  volume    = {32},
+  volume    = {33},
   number    = {4},
-  year      = 2007,
+  year      = 2008,
+  pages     = {22-1},
 }
 
-@article{DBLP:journals/tods/Skopal07,
-  author    = {Tomás Skopal},
-  title     = {Unified framework for fast exact and approximate search in dissimilarity spaces},
+@article{DBLP:journals/tods/JermaineAPD08,
+  author    = {Chris Jermaine and
+               Subramanian Arumugam and
+               Abhijit Pol and
+               Alin Dobra},
+  title     = {Scalable approximate query processing with the {DBO} engine},
   journal   = tods,
-  volume    = {32},
+  volume    = {33},
   number    = {4},
-  year      = 2007,
+  year      = 2008,
+  pages     = {23-1},
+}
+
+@article{DBLP:journals/tods/Libkin08,
+  author    = {Leonid Libkin},
+  title     = {Introduction to the {PODS} 2007 special section},
+  journal   = tods,
+  volume    = {33},
+  number    = {4},
+  year      = 2008,
+  pages     = {24-1},
+}
+
+@article{DBLP:journals/tods/FanGN08,
+  author    = {Wenfei Fan and
+               Floris Geerts and
+               Frank Neven},
+  title     = {Expressiveness and complexity of {XML} publishing transducers},
+  journal   = tods,
+  volume    = {33},
+  number    = {4},
+  year      = 2008,
+  pages     = {25-1},
+}
+
+@article{DBLP:journals/tods/JayramMMV08,
+  author    = {T. S. Jayram and
+               Andrew McGregor and
+               S. Muthukrishnan and
+               Erik Vee},
+  title     = {Estimating statistical aggregates on probabilistic data streams},
+  journal   = tods,
+  volume    = {33},
+  number    = {4},
+  year      = 2008,
+  pages     = {26-1},
+}
+
+@article{DBLP:journals/tods/SchwentickS08,
+  author    = {Thomas Schwentick and
+               Dan Suciu},
+  title     = {Introduction to {ICDT} 2007 special section},
+  journal   = tods,
+  volume    = {33},
+  number    = {4},
+  year      = 2008,
+  pages     = {27-1},
+}
+
+@article{DBLP:journals/tods/BunemanCV08,
+  author    = {Peter Buneman and
+               James Cheney and
+               Stijn Vansummeren},
+  title     = {On the expressiveness of implicit provenance in query and update languages},
+  journal   = tods,
+  volume    = {33},
+  number    = {4},
+  year      = 2008,
+  pages     = {28-1},
+}
+
+@article{DBLP:journals/tods/GhelliRS08,
+  author    = {Giorgio Ghelli and
+               Kristoffer Høgsbro Rose and
+               Jérôme Siméon},
+  title     = {Commutativity analysis for {XML} updates},
+  journal   = tods,
+  volume    = {33},
+  number    = {4},
+  year      = 2008,
+  pages     = {29-1},
+}
+
+@article{DBLP:journals/tods/PavlouS08,
+  author    = {Kyriacos E. Pavlou and
+               Richard T. Snodgrass},
+  title     = {Forensic analysis of database tampering},
+  journal   = tods,
+  volume    = {33},
+  number    = {4},
+  year      = 2008,
+  pages     = {30-1},
+}
+
+@article{DBLP:journals/tods/BartoliniCP08,
+  author    = {Ilaria Bartolini and
+               Paolo Ciaccia and
+               Marco Patella},
+  title     = {Efficient sort-based skyline evaluation},
+  journal   = tods,
+  volume    = {33},
+  number    = {4},
+  year      = 2008,
+  pages     = {31-1},
 }
 
 @article{DBLP:journals/tods/Snodgrass07,
@@ -2096,6 +3999,128 @@
   pages     = {19},
 }
 
+@article{DBLP:journals/tods/Chaudhuri07,
+  author    = {Surajit Chaudhuri},
+  title     = {Introduction to {ACM} {SIGMOD} 2006 conference papers},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {20},
+}
+
+@article{DBLP:journals/tods/IpeirotisAJG07,
+  author    = {Panagiotis G. Ipeirotis and
+               Eugene Agichtein and
+               Pranay Jain and
+               Luis Gravano},
+  title     = {Towards a query optimizer for text-centric tasks},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {21},
+}
+
+@article{DBLP:journals/tods/PetropoulosDPK07,
+  author    = {Michalis Petropoulos and
+               Alin Deutsch and
+               Yannis Papakonstantinou and
+               Yannis Katsis},
+  title     = {Exporting and interactively querying Web service-accessed sources: The {CLIDE} System},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {22},
+}
+
+@article{DBLP:journals/tods/SharfmanSK07,
+  author    = {Izchak Sharfman and
+               Assaf Schuster and
+               Daniel Keren},
+  title     = {A geometric approach to monitoring threshold functions over distributed data streams},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {23},
+}
+
+@article{DBLP:journals/tods/Bussche07,
+  author    = {Jan Van den Bussche},
+  title     = {Introduction to the {PODS} 2006 special section},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {24},
+}
+
+@article{DBLP:journals/tods/Fagin07,
+  author    = {Ronald Fagin},
+  title     = {Inverting schema mappings},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {25},
+}
+
+@article{DBLP:journals/tods/BenderH07,
+  author    = {Michael A. Bender and
+               Haodong Hu},
+  title     = {An adaptive packed-memory array},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {26},
+}
+
+@article{DBLP:journals/tods/Ioannidis07,
+  author    = {Yannis E. Ioannidis},
+  title     = {Introduction to the {EDBT} 2006 special section},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {27},
+}
+
+@article{DBLP:journals/tods/BrunoC07,
+  author    = {Nicolas Bruno and
+               Surajit Chaudhuri},
+  title     = {Physical design refinement: The 'merge-reduce' approach},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {28},
+}
+
+@article{DBLP:journals/tods/Skopal07,
+  author    = {Tomás Skopal},
+  title     = {Unified framework for fast exact and approximate search in dissimilarity spaces},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {29},
+}
+
+@article{DBLP:journals/tods/LiYJ07,
+  author    = {Yunyao Li and
+               Huahai Yang and
+               H. V. Jagadish},
+  title     = {NaLIX: A generic natural language search environment for {XML} data},
+  journal   = tods,
+  volume    = {32},
+  number    = {4},
+  year      = 2007,
+  pages     = {30},
+}
+
 @article{DBLP:journals/tods/WuOS06,
   author    = {Kesheng Wu and
                Ekow J. Otoo and
@@ -2228,7 +4253,7 @@
 }
 
 @article{DBLP:journals/tods/IwerksSS06,
-  author    = {Glenn S. Iwerks and
+  author    = {Glenn Simmons Iwerks and
                Hanan Samet and
                Kenneth P. Smith},
   title     = {Maintenance of K-nn and spatial join queries on continuously moving points},
@@ -2716,7 +4741,7 @@
                Dimitrios Liarokapis and
                Elizabeth J. O'Neil and
                Patrick E. O'Neil and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {Making snapshot isolation serializable},
   journal   = tods,
   volume    = {30},
@@ -3072,7 +5097,7 @@
 @article{DBLP:journals/tods/TrajcevskiWHC04,
   author    = {Goce Trajcevski and
                Ouri Wolfson and
-               Klaus Hinrichs and
+               Klaus H. Hinrichs and
                Sam Chamberlain},
   title     = {Managing uncertainty in moving objects databases},
   journal   = tods,
@@ -4487,7 +6512,7 @@
 }
 
 @article{DBLP:journals/tods/ShashaLSV95,
-  author    = {Dennis Shasha and
+  author    = {Dennis E. Shasha and
                François Llirbat and
                Eric Simon and
                Patrick Valduriez},
@@ -4759,7 +6784,7 @@
 
 @article{DBLP:journals/tods/JohnsonS93,
   author    = {Theodore Johnson and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {The Performance of Current {B-Tree} Algorithms},
   journal   = tods,
   volume    = {18},
@@ -5278,7 +7303,7 @@
 }
 
 @article{DBLP:journals/tods/ShashaW91,
-  author    = {Dennis Shasha and
+  author    = {Dennis E. Shasha and
                Jason Tsong-Li Wang},
   title     = {Optimizing Equijoin Queries In Distributed Databases Where Relations Are Hash Partitioned},
   journal   = tods,
@@ -5930,7 +7955,7 @@
 }
 
 @article{DBLP:journals/tods/ShashaG88,
-  author    = {Dennis Shasha and
+  author    = {Dennis E. Shasha and
                Nathan Goodman},
   title     = {Concurrent Search Structure Algorithms},
   journal   = tods,
@@ -6290,7 +8315,7 @@
 
 @article{DBLP:journals/tods/Keller87,
   author    = {Arthur M. Keller},
-  title     = {Comments on Bancilhon and Spyratos' ``Update Semantics and Relational Views''},
+  title     = {Comments on Bancilhon and Spyratos' "Update Semantics and Relational Views"},
   journal   = tods,
   volume    = {12},
   number    = {3},
@@ -6520,7 +8545,7 @@
   author    = {C. Mohan and
                Bruce G. Lindsay and
                Ron Obermarck},
-  title     = {Transaction Management in the  R* Distributed Database Management System},
+  title     = {Transaction Management in the R* Distributed Database Management System},
   journal   = tods,
   volume    = {11},
   number    = {4},
@@ -7107,7 +9132,7 @@
 @article{DBLP:journals/tods/EffelsbergH84,
   author    = {Wolfgang Effelsberg and
                Theo Härder},
-  title     = {Principles of Database  Buffer Management},
+  title     = {Principles of Database Buffer Management},
   journal   = tods,
   volume    = {9},
   number    = {4},
@@ -7525,7 +9550,7 @@
 
 @article{DBLP:journals/tods/DuS82,
   author    = {David Hung-Chang Du and
-               J. S. Sobolewski},
+               John S. Sobolewski},
   title     = {Disk Allocation for Cartesian Product Files on {Multiple-Disk} Systems},
   journal   = tods,
   volume    = {7},
@@ -9169,7 +11194,7 @@
 
 @article{DBLP:journals/tods/ThomasPB77,
   author    = {D. A. Thomas and
-               B. Pagurek and
+               Bernard Pagurek and
                Raymond J. A. Buhr},
   title     = {Validation Algorithms for Pointer Values in {DBTG} {DataBases}},
   journal   = tods,

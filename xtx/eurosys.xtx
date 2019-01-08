@@ -1,5 +1,3367 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/eurosys/0001BZP18,
+  author    = {Marc Shapiro and
+               Annette Bieniusa and
+               Peter Zeller and
+               Gustavo Petri},
+  title     = {Ensuring referential integrity under causal consistency},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MatosPASC18,
+  author    = {David R. Matos and
+               Miguel L. Pardal and
+               Pedro Adão and
+               António Rito Silva and
+               Miguel P. Correia},
+  title     = {Securing Electronic Health Records in the Cloud},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Morbitzer0HW18,
+  author    = {Mathias Morbitzer and
+               Manuel Huber and
+               Julian Horsch and
+               Sascha Wessel},
+  title     = {SEVered: Subverting {AMD's} Virtual Machine Encryption},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/QuMSL18,
+  author    = {Hang Qu and
+               Omid Mashayekhi and
+               Chinmayee Shah and
+               Philip Levis},
+  title     = {Decoupling the control plane from program control flow for flexibility and performance in cloud computing},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BauwensMB18,
+  author    = {Jim Bauwens and
+               Florian Myter and
+               Elisa Gonzalez Boix},
+  title     = {Constraining the eventual in eventual consistency},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MalekzadehCCH18,
+  author    = {Mohammad Malekzadeh and
+               Richard G. Clegg and
+               Andrea Cavallaro and
+               Hamed Haddadi},
+  title     = {Protecting Sensory Data against Sensitive Inferences},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ParkTJKG18,
+  author    = {Jun Woo Park and
+               Alexey Tumanov and
+               Angela H. Jiang and
+               Michael A. Kozuch and
+               Gregory R. Ganger},
+  title     = {3Sigma: distribution-based cluster scheduling for runtime uncertainty},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TzagarakisPCAM18,
+  author    = {Giannis Tzagarakis and
+               Panagiotis Papadopoulos and
+               Antonios A. Chariton and
+               Elias Athanasopoulos and
+               Evangelos P. Markatos},
+  title     = {Øpass: Zero-storage Password Management Based on Password Reminders},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AmarHM18,
+  author    = {Yousef Amar and
+               Hamed Haddadi and
+               Richard Mortier},
+  title     = {An {Information-Theoretic} Approach to {Time-Series} Data Privacy},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ArefiAC18,
+  author    = {Meisam Navaki Arefi and
+               Geoffrey Alexander and
+               Jedidiah R. Crandall},
+  title     = {PIITracker: Automatic Tracking of Personally Identifiable Information in Windows},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BravoR18,
+  author    = {Manuel Bravo and
+               Luís E. T. Rodrigues},
+  title     = {Towards affordable externally consistent guarantees for geo-replicated systems},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PengBCWG18,
+  author    = {Yanghua Peng and
+               Yixin Bao and
+               Yangrui Chen and
+               Chuan Wu and
+               Chuanxiong Guo},
+  title     = {Optimus: an efficient dynamic resource scheduler for deep learning clusters},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BacaraDHG18,
+  author    = {Christophe Bacara and
+               Damien Deville and
+               Michaël Hauspie and
+               Gilles Grimaud},
+  title     = {Challenges for the design of a privacy-preserving, multi-domain telemetry system for widely-spread network security appliances},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GarefalakisKPSR18,
+  author    = {Panagiotis Garefalakis and
+               Konstantinos Karanasos and
+               Peter R. Pietzuch and
+               Arun Suresh and
+               Sriram Rao},
+  title     = {Medea: scheduling of long running applications in shared production clusters},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Vasilas0K18,
+  author    = {Dimitrios Vasilas and
+               Marc Shapiro and
+               Bradley King},
+  title     = {A modular design for geo-distributed querying: work in progress report},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/XuPFH18,
+  author    = {Min Xu and
+               Antonis Papadimitriou and
+               Ariel Feldman and
+               Andreas Haeberlen},
+  title     = {Using Differential Privacy to Efficiently Mitigate Side Channels in Distributed Analytics},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/RiellaIJSFGR18,
+  author    = {Rodrigo J. Riella and
+               Luciana M. Iantorno and
+               Laerte C. R. Junior and
+               Dilmari Seidel and
+               Keiko V. O. Fonseca and
+               Luiz C. Gomes-Jr and
+               Marcelo de Oliveira Rosa},
+  title     = {Securing Smart Metering applications in Untrusted Clouds with the {SecureCloud} Platform},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SatishSZEZ18,
+  author    = {Arjun Satish and
+               Thomas Shiou and
+               Chuck Zhang and
+               Khaled Elmeleegy and
+               Willy Zwaenepoel},
+  title     = {Scrub: online troubleshooting for large mission-critical applications},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SchagenKBG18,
+  author    = {Nathan Schagen and
+               Koen Koning and
+               Herbert Bos and
+               Cristiano Giuffrida},
+  title     = {Towards Automated Vulnerability Scanning of Network Servers},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BrocanelliW18,
+  author    = {Marco Brocanelli and
+               Xiaorui Wang},
+  title     = {Hang doctor: runtime detection and diagnosis of soft hangs for smartphone apps},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MittererNMC18,
+  author    = {Michael Mitterer and
+               Heiko Niedermayer and
+               Marcel von Maltitz and
+               Georg Carle},
+  title     = {An Experimental Performance Analysis of the Cryptographic Database {ZeroDB}},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PapadopoulosKM18,
+  author    = {Panagiotis Papadopoulos and
+               Nicolas Kourtellis and
+               Evangelos P. Markatos},
+  title     = {Exclusive: How the (synced) Cookie Monster breached my encrypted {VPN} session},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/RahmaniKJ18,
+  author    = {Kia Rahmani and
+               Gowtham Kaki and
+               Suresh Jagannathan},
+  title     = {Fine-grained distributed consistency guarantees with effect orchestration},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/IshiguroK18,
+  author    = {Kenta Ishiguro and
+               Kenji Kono},
+  title     = {Hardening Hypervisors against Vulnerabilities in Instruction Emulators},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiCLLZGGLL18,
+  author    = {Jiaxin Li and
+               Yuxi Chen and
+               Haopeng Liu and
+               Shan Lu and
+               Yiming Zhang and
+               Haryadi S. Gunawi and
+               Xiaohui Gu and
+               Xicheng Lu and
+               Dongsheng Li},
+  title     = {Pcatch: automatically detecting performance cascading bugs in cloud systems},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SzekeresZ18,
+  author    = {Adriana Szekeres and
+               Irene Zhang},
+  title     = {Making consistency more consistent: a unified model for coherence, consistency and isolation},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiangL18,
+  author    = {Hongliang Liang and
+               Mingyu Li},
+  title     = {Bring the Missing Jigsaw Back: {TrustedClock} for {SGX} Enclaves},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MaceF18,
+  author    = {Jonathan Mace and
+               Rodrigo Fonseca},
+  title     = {Universal context propagation for distributed system instrumentation},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MichaelP18,
+  author    = {Ellis Michael and
+               Dan R. K. Ports},
+  title     = {Towards causal datacenter networks},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiWCSWLJX18,
+  author    = {Yiran Li and
+               Da Wei and
+               Xiaoqi Chen and
+               Ziheng Song and
+               Ruihan Wu and
+               Yuxing Li and
+               Xin Jin and
+               Wei Xu},
+  title     = {DumbNet: a smart data center network fabric with dumb switches},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangJ0NRWYZC18,
+  author    = {Yuchao Zhang and
+               Junchen Jiang and
+               Ke Xu and
+               Xiaohui Nie and
+               Martin J. Reed and
+               Haiyang Wang and
+               Guang Yao and
+               Miao Zhang and
+               Kai Chen},
+  title     = {BDS: a centralized near-optimal overlay network for inter-datacenter data replication},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SonchackAKS18,
+  author    = {John Sonchack and
+               Adam J. Aviv and
+               Eric Keller and
+               Jonathan M. Smith},
+  title     = {Turboflow: information rich flow record generation on commodity switches},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HungAGYZ18,
+  author    = {Chien-Chun Hung and
+               Ganesh Ananthanarayanan and
+               Leana Golubchik and
+               Minlan Yu and
+               Mingyang Zhang},
+  title     = {Wide-area analytics with multiple resources},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/XiangWHWLW18,
+  author    = {Yaocheng Xiang and
+               Xiaolin Wang and
+               Zihui Huang and
+               Zeyu Wang and
+               Yingwei Luo and
+               Zhenlin Wang},
+  title     = {DCAPS: dynamic cache allocation with partial sharing},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/XuRFFRL18,
+  author    = {Cong Xu and
+               Karthick Rajamani and
+               Alexandre Ferreira and
+               Wesley M. Felter and
+               Juan Rubio and
+               Yang Li},
+  title     = {dCat: dynamic cache management for efficient, performance-sensitive infrastructure-as-a-service},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangJ18,
+  author    = {Jie Zhang and
+               Myoungsoo Jung},
+  title     = {Flashabacus: a self-governing flash-based accelerator for low-power systems},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/NituTTIH18,
+  author    = {Vlad Nitu and
+               Boris Teabe and
+               Alain Tchana and
+               Canturk Isci and
+               Daniel Hagimont},
+  title     = {Welcome to zombieland: practical and energy-efficient memory disaggregation in a datacenter},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PsaroudakisKGGL18,
+  author    = {Iraklis Psaroudakis and
+               Stefan Kaestle and
+               Matthias Grimmer and
+               Daniel Goodman and
+               Jean-Pierre Lozi and
+               Tim Harris},
+  title     = {Analytics with smart arrays: adaptive and efficient language-independent data},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/YuABBBDDGHHIKMM18,
+  author    = {Yuan Yu and
+               Martín Abadi and
+               Paul Barham and
+               Eugene Brevdo and
+               Mike Burrows and
+               Andy Davis and
+               Jeff Dean and
+               Sanjay Ghemawat and
+               Tim Harley and
+               Peter Hawkins and
+               Michael Isard and
+               Manjunath Kudlur and
+               Rajat Monga and
+               Derek Gordon Murray and
+               Xiaoqiang Zheng},
+  title     = {Dynamic control flow in large-scale machine learning},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JeongJKYC18,
+  author    = {Eunji Jeong and
+               Joo Seong Jeong and
+               Soojeong Kim and
+               Gyeong-In Yu and
+               Byung-Gon Chun},
+  title     = {Improving the expressiveness of deep learning frameworks with recursion},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BindschaedlerMS18,
+  author    = {Laurent Bindschaedler and
+               Jasmina Malicevic and
+               Nicolas Schiper and
+               Ashvin Goel and
+               Willy Zwaenepoel},
+  title     = {Rock you like a hurricane: taming skew in large scale analytics},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GavrielatosKJOG18,
+  author    = {Vasilis Gavrielatos and
+               Antonios Katsarakis and
+               Arpit Joshi and
+               Nicolai Oswald and
+               Boris Grot and
+               Vijay Nagarajan},
+  title     = {Scale-out ccNUMA: exploiting skew with strongly consistent caching},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KroesKKBG18,
+  author    = {Taddeus Kroes and
+               Koen Koning and
+               Erik van der Kouwe and
+               Herbert Bos and
+               Cristiano Giuffrida},
+  title     = {Delta pointers: buffer overflow checks without the checks},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/0001WK18,
+  author    = {Pedro Fonseca and
+               Xi Wang and
+               Arvind Krishnamurthy},
+  title     = {MultiNyx: a multi-level abstraction framework for systematic analysis of hypervisors},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {23-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AublinKOMPLKFEP18,
+  author    = {Pierre-Louis Aublin and
+               Florian Kelbert and
+               Dan O'Keeffe and
+               Divya Muthukumaran and
+               Christian Priebe and
+               Joshua Lind and
+               Robert Krahn and
+               Christof Fetzer and
+               David M. Eyers and
+               Peter R. Pietzuch},
+  title     = {LibSEAL: revealing service integrity violations using trusted execution},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {24-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KrahnTVKBF18,
+  author    = {Robert Krahn and
+               Bohdan Trach and
+               Anjo Vahldiek-Oberwagner and
+               Thomas Knauth and
+               Pramod Bhatotia and
+               Christof Fetzer},
+  title     = {Pesos: policy enhanced secure object store},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LyonsMAH18,
+  author    = {Anna Lyons and
+               Kent McLeod and
+               Hesham Almatary and
+               Gernot Heiser},
+  title     = {Scheduling-context capabilities: a principled, light-weight operating-system mechanism for managing time},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {26-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/0002C18,
+  author    = {Ming Zhao and
+               Jorge Cabrera},
+  title     = {RTVirt: enabling time-sensitive computing on virtualized systems through cross-layer {CPU} scheduling},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {27-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/VangaGB18,
+  author    = {Manohar Vanga and
+               Arpan Gujarati and
+               Björn B. Brandenburg},
+  title     = {Tableau: a high-throughput and predictable {VM} scheduler for high-density workloads},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {28-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AhnPHH18,
+  author    = {Jeongseob Ahn and
+               Chang Hyun Park and
+               Taekyung Heo and
+               Jaehyuk Huh},
+  title     = {Accelerating critical {OS} services in virtualized systems with flexible micro-sliced cores},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {29-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AndroulakiBBCCC18,
+  author    = {Elli Androulaki and
+               Artem Barger and
+               Vita Bortnikov and
+               Christian Cachin and
+               Konstantinos Christidis and
+               Angelo De Caro and
+               David Enyeart and
+               Christopher Ferris and
+               Gennady Laventman and
+               Yacov Manevich and
+               Srinivasan Muralidharan and
+               Chet Murthy and
+               Binh Nguyen and
+               Manish Sethi and
+               Gari Singh and
+               Keith Smith and
+               Alessandro Sorniotti and
+               Chrysoula Stathakopoulou and
+               Marko Vukolic and
+               Sharon Weed Cocco and
+               Jason Yellick},
+  title     = {Hyperledger fabric: a distributed operating system for permissioned blockchains},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {30-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GaoYWL18,
+  author    = {Pin Gao and
+               Lingfan Yu and
+               Yongwei Wu and
+               Jinyang Li},
+  title     = {Low latency {RNN} inference with cellular batching},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {31-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenLZYYC18,
+  author    = {Hongzhi Chen and
+               Miao Liu and
+               Yunjian Zhao and
+               Xiao Yan and
+               Da Yan and
+               James Cheng},
+  title     = {G-Miner: an efficient task-oriented graph mining system},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {32-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KakivayaXHAPSGT18,
+  author    = {Gopal Kakivaya and
+               Lu Xun and
+               Richard Hasha and
+               Shegufta Bakht Ahsan and
+               Todd Pfleiger and
+               Rishi Sinha and
+               Anurag Gupta and
+               Mihail Tarta and
+               Mark Fussell and
+               Vipul Modi and
+               Mansoor Mohsin and
+               Ray Kong and
+               Anmol Ahuja and
+               Oana Platon and
+               Alex Wun and
+               Matthew Snider and
+               Chacko Daniel and
+               Dan Mastrian and
+               Yang Li and
+               Aprameya Rao and
+               Vaishnav Kidambi and
+               Randy Wang and
+               Abhishek Ram and
+               Sumukh Shivaprakash and
+               Rajeet Nair and
+               Alan Warwick and
+               Bharat S. Narasimman and
+               Meng Lin and
+               Jeffrey Chen and
+               Abhay Balkrishna Mhatre and
+               Preetha Subbarayalu and
+               Mert Coskun and
+               Indranil Gupta},
+  title     = {Service fabric: a distributed platform for building microservices in the cloud},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {33-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KashyapMKK18,
+  author    = {Sanidhya Kashyap and
+               Changwoo Min and
+               Kangnyeon Kim and
+               Taesoo Kim},
+  title     = {A scalable ordering primitive for multicore machines},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {34-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SuoRJS18,
+  author    = {Kun Suo and
+               Jia Rao and
+               Hong Jiang and
+               Witawas Srisa-an},
+  title     = {Characterizing and optimizing hotspot parallel garbage collection on multicore systems},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {35-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MinKKKMJK18,
+  author    = {Changwoo Min and
+               Woon-Hak Kang and
+               Mohan Kumar and
+               Sanidhya Kashyap and
+               Steffen Maass and
+               Heeseung Jo and
+               Taesoo Kim},
+  title     = {Solros: a data-centric operating system architecture for heterogeneous computing},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {36-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GuoXXLL18,
+  author    = {Liwei Guo and
+               Tiantu Xu and
+               Mengwei Xu and
+               Xuanzhe Liu and
+               Felix Xiaozhu Lin},
+  title     = {Power sandbox: power awareness redefined},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {37-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MorrisSCBK18,
+  author    = {Nathaniel Morris and
+               Christopher Stewart and
+               Lydia Y. Chen and
+               Robert Birke and
+               Jaimie Kelley},
+  title     = {Model-driven computational sprinting},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {38-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TaranovAH18,
+  author    = {Konstantin Taranov and
+               Gustavo Alonso and
+               Torsten Hoefler},
+  title     = {Fast and strongly-consistent per-item resilience in key-value stores},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {39-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/X18,
+  author    = {},
+  title     = {Popular is cheaper: curtailing memory costs in interactive analytics engines},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {40-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PrasadG18,
+  author    = {Aravinda Prasad and
+               K. Gopinath},
+  title     = {A frugal approach to reduce {RCU} grace period overhead},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {41-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/EisenmanGAADHPC18,
+  author    = {Assaf Eisenman and
+               Darryl Gardner and
+               Islam AbdelRahman and
+               Jens Axboe and
+               Siying Dong and
+               Kim M. Hazelwood and
+               Chris Petersen and
+               Asaf Cidon and
+               Sachin Katti},
+  title     = {Reducing {DRAM} footprint with {NVM} in facebook},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {42-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangCSCF18,
+  author    = {Haoyu Zhang and
+               Brian Cho and
+               Ergin Seyfe and
+               Avery Ching and
+               Michael J. Freedman},
+  title     = {Riffle: optimized shuffle service for large-scale data analytics},
+  booktitle = eurosys,
+  year      = 2018,
+  pages     = {43-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GiannoutakisMTF17,
+  author    = {Konstantinos M. Giannoutakis and
+               Antonios T. Makaratzis and
+               Dimitrios Tzovaras and
+               Christos K. Filelis-Papadopoulos and
+               George A. Gravvanis},
+  title     = {On the power consumption modeling for the simulation of Heterogeneous {HPC} clouds},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JungnickelO17,
+  author    = {Tim Jungnickel and
+               Lennart Oldenburg},
+  title     = {pluto: The {CRDT-Driven} {IMAP} Server},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KohneKPSN17,
+  author    = {Andreas Kohne and
+               Marcel Krüger and
+               Marco Pfahlberg and
+               Olaf Spinczyk and
+               Lars Nagel},
+  title     = {Financial Evaluation of {SLA-based} {VM} Scheduling Strategies for Cloud Federations},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SuZCGW17,
+  author    = {Maomeng Su and
+               Mingxing Zhang and
+               Kang Chen and
+               Zhenyu Guo and
+               Yongwei Wu},
+  title     = {RFP: When {RPC} is Faster than {Server-Bypass} with {RDMA}},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/eurosys/Filelis-Papadopoulos17,
+  author    = {C. K. Filelis-Papadopoulos and
+               George A. Gravvanis and
+               John P. Morrison},
+  title     = {{CloudLightning} Simulation and Evaluation Roadmap},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KahvazadehSMMGD17,
+  author    = {Sarang Kahvazadeh and
+               Vitor Barbosa C. Souza and
+               Xavier Masip-Bruin and
+               Eva Marín-Tordera and
+               Jordi Garcia and
+               Rodrigo Diaz},
+  title     = {Securing combined {Fog-to-Cloud} system Through {SDN} Approach},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/YounesAB17,
+  author    = {Georges Younes and
+               Paulo Sérgio Almeida and
+               Carlos Baquero},
+  title     = {Compact Resettable Counters through Causal Stability},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/DitterGF17,
+  author    = {Alexander Ditter and
+               Gabriel Graf and
+               Dietmar Fey},
+  title     = {Fe2vCl2: From Bare Metal to High Performance Computing on Virtual Clusters and Cloud Infrastructure},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/StackXMMTD17,
+  author    = {Paul Stack and
+               Huanhuan Xiong and
+               Dali Mersel and
+               Maxime Makhloufi and
+               Guillaume Terpend and
+               Dapeng Dong},
+  title     = {{Self-Healing} in a Decentralised Cloud Management System},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Zeller17,
+  author    = {Peter Zeller},
+  title     = {Testing properties of weakly consistent programs with Repliss},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/EnesBA017,
+  author    = {Vitor Enes and
+               Carlos Baquero and
+               Paulo Sérgio Almeida and
+               João Leitão},
+  title     = {Borrowing an Identity for a Distributed Counter: Work in progress report},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/RafiqueLRJ17,
+  author    = {Ansar Rafique and
+               Dimitri Van Landuyt and
+               Vincent Reniers and
+               Wouter Joosen},
+  title     = {Towards an Adaptive Middleware for Efficient {Multi-Cloud} Data Storage},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SeleaDF17,
+  author    = {Teodora Selea and
+               Ioan Dragan and
+               Teodor-Florin Fortis},
+  title     = {The {CloudLightning} approach to cloud-user interaction},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ShokerYB17,
+  author    = {Ali Shoker and
+               Houssam Yactine and
+               Carlos Baquero},
+  title     = {As Secure as Possible Eventual Consistency: Work in Progress},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SilvaSMLS17,
+  author    = {Joaquim Silva and
+               Daniel Silva and
+               Eduardo R. B. Marques and
+               Luís M. B. Lopes and
+               Fernando M. A. Silva},
+  title     = {P3-Mobile: Parallel Computing for Mobile {Edge-Clouds}},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TrifunovicPBG17,
+  author    = {Nemanja Trifunovic and
+               Hristina Palikareva and
+               Tobias Becker and
+               Georgi Gaydadjiev},
+  title     = {Cloud Deployment and Management of Dataflow Engines},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MarcelinoBF17,
+  author    = {Gonçalo Marcelino and
+               Valter Balegas and
+               Carla Ferreira},
+  title     = {Bringing Hybrid Consistency Closer to Programmers},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SilvestroBSFK17,
+  author    = {Alessio Silvestro and
+               Roberto Bifulco and
+               Fabian Schneider and
+               Xiaoming Fu and
+               Jussi Kangasharju},
+  title     = {Is today's {DNS} the right solution for middleboxes selection?},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/VinterBRJL17,
+  author    = {Brian Vinter and
+               Jonas Bardino and
+               Martin Rehr and
+               Klaus Birkelund Jensen and
+               Mads Ohm Larsen},
+  title     = {Imaging Data Management System},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PodolskiyGB17,
+  author    = {Vladimir Podolskiy and
+               Hans Michael Gerndt and
+               Shajulin Benedict},
+  title     = {{QoS-based} Cloud Application Management: Approach and Architecture},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TomasZBAB0P17,
+  author    = {Gonçalo Tomás and
+               Peter Zeller and
+               Valter Balegas and
+               Deepthi Devaki Akkoorath and
+               Annette Bieniusa and
+               João Leitão and
+               Nuno M. Preguiça},
+  title     = {FMKe: a {Real-World} Benchmark for {Key-Value} Data Stores},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LoffPBGPR17,
+  author    = {João Loff and
+               Daniel Porto and
+               Carlos Baquero and
+               João Garcia and
+               Nuno M. Preguiça and
+               Rodrigo Rodrigues},
+  title     = {Transparent cross-system consistency},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MohanZGK17,
+  author    = {Nitinder Mohan and
+               Pengyuan Zhou and
+               Keerthana Govindaraj and
+               Jussi Kangasharju},
+  title     = {Grouping Computational Data in Resource Caches of {Edge-Fog} Cloud},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/VilanovaJNEV17,
+  author    = {Lluís Vilanova and
+               Marc Jordà and
+               Nacho Navarro and
+               Yoav Etsion and
+               Mateo Valero},
+  title     = {Direct {Inter-Process} Communication (dIPC): Repurposing the {CODOMs} Architecture to Accelerate {IPC}},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {16-31},
+}
+
+@inproceedings{DBLP:conf/eurosys/GhorbaniG17,
+  author    = {Soudeh Ghorbani and
+               Philip Brighten Godfrey},
+  title     = {COCONUT: Seamless Scale-out of Network Elements},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {32-47},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiuYB17,
+  author    = {Feilong Liu and
+               Lingyan Yin and
+               Spyros Blanas},
+  title     = {Design and Evaluation of an {RDMA-aware} Data Shuffling Operator for Parallel Database Systems},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {48-63},
+}
+
+@inproceedings{DBLP:conf/eurosys/HuangMW17,
+  author    = {Jiamin Huang and
+               Barzan Mozafari and
+               Thomas F. Wenisch},
+  title     = {Statistical Analysis of Latency Through Semantic Profiling},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {64-79},
+}
+
+@inproceedings{DBLP:conf/eurosys/BalmauGTZ17,
+  author    = {Oana Balmau and
+               Rachid Guerraoui and
+               Vasileios Trigonakis and
+               Igor Zablotchi},
+  title     = {FloDB: Unlocking Memory in Persistent {Key-Value} Stores},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {80-94},
+}
+
+@inproceedings{DBLP:conf/eurosys/RedaCSKB17,
+  author    = {Waleed Reda and
+               Marco Canini and
+               P. Lalith Suresh and
+               Dejan Kostic and
+               Sean Braithwaite},
+  title     = {Rein: Taming Tail Latency in {Key-Value} Stores via Multiget Scheduling},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {95-110},
+}
+
+@inproceedings{DBLP:conf/eurosys/BravoRR17,
+  author    = {Manuel Bravo and
+               Luís E. T. Rodrigues and
+               Peter Van Roy},
+  title     = {Saturn: a Distributed Metadata Service for Causal Consistency},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {111-126},
+}
+
+@inproceedings{DBLP:conf/eurosys/HeKAA17,
+  author    = {Jun He and
+               Sudarsun Kannan and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {The Unwritten Contract of Solid State Drives},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {127-144},
+}
+
+@inproceedings{DBLP:conf/eurosys/DavisTL17,
+  author    = {James C. Davis and
+               Arun Thekumparampil and
+               Dongyoon Lee},
+  title     = {Node.fz: Fuzzing the {Server-Side} {Event-Driven} Architecture},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {145-160},
+}
+
+@inproceedings{DBLP:conf/eurosys/YanYCXJ17,
+  author    = {Wenrui Yan and
+               Jie Yao and
+               Qiang Cao and
+               Changsheng Xie and
+               Hong Jiang},
+  title     = {ROS: A Rack-based Optical Storage System with Inline Accessibility for {Long-Term} Data Preservation},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {161-174},
+}
+
+@inproceedings{DBLP:conf/eurosys/SevillaWJAFLM17,
+  author    = {Michael A. Sevilla and
+               Noah Watkins and
+               Ivo Jimenez and
+               Peter Alvaro and
+               Shel Finkelstein and
+               Jeff LeFevre and
+               Carlos Maltzahn},
+  title     = {Malacology: A Programmable Storage System},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {175-190},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhengLPS017,
+  author    = {Wenting Zheng and
+               Frank H. Li and
+               Raluca Ada Popa and
+               Ion Stoica and
+               Rachit Agarwal},
+  title     = {MiniCrypt: Reconciling Encryption and Compression for Big Data Stores},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {191-204},
+}
+
+@inproceedings{DBLP:conf/eurosys/KuvaiskiiOATBFF17,
+  author    = {Dmitrii Kuvaiskii and
+               Oleksii Oleksenko and
+               Sergei Arnautov and
+               Bohdan Trach and
+               Pramod Bhatotia and
+               Pascal Felber and
+               Christof Fetzer},
+  title     = {SGXBOUNDS: Memory Safety for Shielded Execution},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {205-221},
+}
+
+@inproceedings{DBLP:conf/eurosys/BehlDK17,
+  author    = {Johannes Behl and
+               Tobias Distler and
+               Rüdiger Kapitza},
+  title     = {Hybrids on Steroids: {SGX-Based} High Performance {BFT}},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {222-237},
+}
+
+@inproceedings{DBLP:conf/eurosys/OrenbachLMS17,
+  author    = {Meni Orenbach and
+               Pavel Lifshits and
+               Marina Minkin and
+               Mark Silberstein},
+  title     = {Eleos: {ExitLess} {OS} Services for {SGX} Enclaves},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {238-253},
+}
+
+@inproceedings{DBLP:conf/eurosys/GoodmanVH17,
+  author    = {Daniel Goodman and
+               Georgios Varisteas and
+               Tim Harris},
+  title     = {Pandia: comprehensive contention-sensitive thread placement},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {254-269},
+}
+
+@inproceedings{DBLP:conf/eurosys/VolckaertCSBLF17,
+  author    = {Stijn Volckaert and
+               Bart Coppens and
+               Bjorn De Sutter and
+               Koen De Bosschere and
+               Per Larsen and
+               Michael Franz},
+  title     = {Taming Parallelism in a {Multi-Variant} Execution Environment},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {270-285},
+}
+
+@inproceedings{DBLP:conf/eurosys/TeabeNTH17,
+  author    = {Boris Teabe and
+               Vlad Nitu and
+               Alain Tchana and
+               Daniel Hagimont},
+  title     = {The lock holder and the lock waiter pre-emption problems: nip them in the bud using informed spinlocks (I-Spinlock)},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {286-297},
+}
+
+@inproceedings{DBLP:conf/eurosys/AlamLZM17,
+  author    = {Mohammad Mejbah Ul Alam and
+               Tongping Liu and
+               Guangming Zeng and
+               Abdullah Muzahid},
+  title     = {SyncPerf: Categorizing, Detecting, and Diagnosing Synchronization Performance Bugs},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {298-313},
+}
+
+@inproceedings{DBLP:conf/eurosys/Dice17,
+  author    = {Dave Dice},
+  title     = {Malthusian Locks},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {314-327},
+}
+
+@inproceedings{DBLP:conf/eurosys/FonsecaZWK17,
+  author    = {Pedro Fonseca and
+               Kaiyuan Zhang and
+               Xi Wang and
+               Arvind Krishnamurthy},
+  title     = {An Empirical Study on the Correctness of Formally Verified Distributed Systems},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {328-343},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChothiaLDR17,
+  author    = {Zaheer Chothia and
+               John Liagouris and
+               Desislava C. Dimitrova and
+               Timothy Roscoe},
+  title     = {Online Reconstruction of Structural Information from Datacenter Logs},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {344-358},
+}
+
+@inproceedings{DBLP:conf/eurosys/DingH17,
+  author    = {Ning Ding and
+               Y. Charlie Hu},
+  title     = {GfxDoctor: A Holistic Graphics Energy Profiler for Mobile Devices},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {359-373},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenHZL17,
+  author    = {Ang Chen and
+               Andreas Haeberlen and
+               Wenchao Zhou and
+               Boon Thau Loo},
+  title     = {One Primitive to Diagnose Them All: Architectural Support for Internet Diagnostics},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {374-388},
+}
+
+@inproceedings{DBLP:conf/eurosys/BoosVZ17,
+  author    = {Kevin Boos and
+               Emilio Del Vecchio and
+               Lin Zhong},
+  title     = {A Characterization of State Spill in Modern Operating Systems},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {389-404},
+}
+
+@inproceedings{DBLP:conf/eurosys/KouweNG17,
+  author    = {Erik van der Kouwe and
+               Vinod Nigade and
+               Cristiano Giuffrida},
+  title     = {DangSan: Scalable Use-after-free Detection},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {405-419},
+}
+
+@inproceedings{DBLP:conf/eurosys/PomonisPKPK17,
+  author    = {Marios Pomonis and
+               Theofilos Petsios and
+               Angelos D. Keromytis and
+               Michalis Polychronakis and
+               Vasileios P. Kemerlis},
+  title     = {kR^X: Comprehensive Kernel Protection against {Just-In-Time} Code Reuse},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {420-436},
+}
+
+@inproceedings{DBLP:conf/eurosys/KoningCBGA17,
+  author    = {Koen Koning and
+               Xi Chen and
+               Herbert Bos and
+               Cristiano Giuffrida and
+               Elias Athanasopoulos},
+  title     = {No Need to Hide: Protecting Safe Regions on Commodity Hardware},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {437-452},
+}
+
+@inproceedings{DBLP:conf/eurosys/Voron0QS17,
+  author    = {Gauthier Voron and
+               Gaël Thomas and
+               Vivien Quéma and
+               Pierre Sens},
+  title     = {An interface to implement {NUMA} policies in the Xen hypervisor},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {453-467},
+}
+
+@inproceedings{DBLP:conf/eurosys/HsuBRKE17,
+  author    = {Terry Ching-Hsiang Hsu and
+               Helge Brügner and
+               Indrajit Roy and
+               Kimberly Keeton and
+               Patrick Eugster},
+  title     = {NVthreads: Practical Persistence for Multi-threaded Applications},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {468-482},
+}
+
+@inproceedings{DBLP:conf/eurosys/AlistarhLMS17,
+  author    = {Dan Alistarh and
+               William M. Leiserson and
+               Alexander Matveev and
+               Nir Shavit},
+  title     = {Forkscan: Conservative Memory Reclamation for Modern Operating Systems},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {483-498},
+}
+
+@inproceedings{DBLP:conf/eurosys/MemaripourBPZAS17,
+  author    = {Amirsaman Memaripour and
+               Anirudh Badam and
+               Amar Phanishayee and
+               Yanqi Zhou and
+               Ramnatthan Alagappan and
+               Karin Strauss and
+               Steven Swanson},
+  title     = {Atomic In-place Updates for Non-volatile Main Memories with {Kamino-Tx}},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {499-512},
+}
+
+@inproceedings{DBLP:conf/eurosys/RogoraPKMCC17,
+  author    = {Daniele Rogora and
+               Michele Papalini and
+               Koorosh Khazaei and
+               Alessandro Margara and
+               Antonio Carzaniga and
+               Gianpaolo Cugola},
+  title     = {{High-Throughput} Subset Matching on Commodity {GPU-Based} Systems},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {513-526},
+}
+
+@inproceedings{DBLP:conf/eurosys/MaassMKKKK17,
+  author    = {Steffen Maass and
+               Changwoo Min and
+               Sanidhya Kashyap and
+               Woon-Hak Kang and
+               Mohan Kumar and
+               Taesoo Kim},
+  title     = {Mosaic: Processing a {Trillion-Edge} Graph on a Single Machine},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {527-543},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChatzopoulosG0T17,
+  author    = {Georgios Chatzopoulos and
+               Rachid Guerraoui and
+               Tim Harris and
+               Vasileios Trigonakis},
+  title     = {Abstracting {Multi-Core} Topologies with {MCTOP}},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {544-559},
+}
+
+@inproceedings{DBLP:conf/eurosys/PapadimitriouNH17,
+  author    = {Antonis Papadimitriou and
+               Arjun Narayan and
+               Andreas Haeberlen},
+  title     = {DStress: Efficient Differentially Private Computations on Distributed Data},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {560-574},
+}
+
+@inproceedings{DBLP:conf/eurosys/YangKSLCQCC17,
+  author    = {Youngseok Yang and
+               Geon-Woo Kim and
+               Won Wook Song and
+               Yunseong Lee and
+               Andrew Chung and
+               Zhengping Qian and
+               Brian Cho and
+               Byung-Gon Chun},
+  title     = {Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {575-588},
+}
+
+@inproceedings{DBLP:conf/eurosys/HarlapTCGG17,
+  author    = {Aaron Harlap and
+               Alexey Tumanov and
+               Andrew Chung and
+               Gregory R. Ganger and
+               Phillip B. Gibbons},
+  title     = {Proteus: agile {ML} elasticity through tiered reliability in dynamic resource markets},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {589-604},
+}
+
+@inproceedings{DBLP:conf/eurosys/AgacheIR17,
+  author    = {Alexandru Agache and
+               Mihai Ionescu and
+               Costin Raiciu},
+  title     = {CloudTalk: Enabling Distributed Application Optimisations in Public Clouds},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {605-619},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangUGKL17,
+  author    = {Cheng Wang and
+               Bhuvan Urgaonkar and
+               Aayush Gupta and
+               George Kesidis and
+               Qianlin Liang},
+  title     = {Exploiting Spot and Burstable Instances for Improving the Cost-efficacy of {In-Memory} Caches on the Public Cloud},
+  booktitle = eurosys,
+  year      = 2017,
+  pages     = {620-634},
+}
+
+@inproceedings{DBLP:conf/eurosys/HossnyKOH16,
+  author    = {Eman Hossny and
+               Sherif M. Khattab and
+               Fatma A. Omara and
+               Hesham A. Hassan},
+  title     = {Semantic-based generation of {generic-API} adapters for portable cloud applications},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LoziLFGQF16,
+  author    = {Jean-Pierre Lozi and
+               Baptiste Lepers and
+               Justin R. Funston and
+               Fabien Gaud and
+               Vivien Quéma and
+               Alexandra Fedorova},
+  title     = {The Linux scheduler: a decade of wasted cores},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ViottiMV16,
+  author    = {Paolo Viotti and
+               Christopher Meiklejohn and
+               Marko Vukolic},
+  title     = {Towards property-based consistency verification},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChengRL16,
+  author    = {Luwei Cheng and
+               Jia Rao and
+               Francis C. M. Lau},
+  title     = {vScale: automatic and efficient processor scaling for {SMP} virtual machines},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GadeaTII16,
+  author    = {Cristian Gadea and
+               Mircea Trifan and
+               Dan Ionescu and
+               Bogdan Ionescu},
+  title     = {A reference architecture for real-time microservice {API} consumption},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/NajafzadehGYFS16,
+  author    = {Mahsa Najafzadeh and
+               Alexey Gotsman and
+               Hongseok Yang and
+               Carla Ferreira and
+               Marc Shapiro},
+  title     = {The {CISE} tool: proving weakly-consistent applications correct},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CoppietersMB16,
+  author    = {Tim Coppieters and
+               Wolfgang De Meuter and
+               Sebastian Burckhardt},
+  title     = {Serializable eventual consistency: consistency through object method replay},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PanjwaniBGMC16,
+  author    = {Rizwan Panjwani and
+               Sushil Bhojwani and
+               Sudhakar Ganti and
+               Rick McGeer and
+               Yvonne Coady},
+  title     = {PACOFed: principled access control and operations via cloud federation},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TeabeTH16,
+  author    = {Boris Teabe and
+               Alain Tchana and
+               Daniel Hagimont},
+  title     = {Application-specific quantum for multi-core platform scheduler},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BaurD16,
+  author    = {Daniel Baur and
+               Jörg Domaschka},
+  title     = {Experiences from building a cross-cloud orchestration tool},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CuiZGGX16,
+  author    = {Henggang Cui and
+               Hao Zhang and
+               Gregory R. Ganger and
+               Phillip B. Gibbons and
+               Eric P. Xing},
+  title     = {GeePS: scalable deep learning on distributed {GPUs} with a {GPU-specialized} parameter server},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TomsicCS16,
+  author    = {Alejandro Z. Tomsic and
+               Tyler Crain and
+               Marc Shapiro},
+  title     = {PhysiCS-NMSI: efficient consistent snapshots for scalable snapshot isolation},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BrownLP16,
+  author    = {Russell Brown and
+               Zeeshan Lakhani and
+               Paul Place},
+  title     = {Big(ger) sets: decomposed delta {CRDT} sets in Riak},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JiaSSRW16,
+  author    = {Qin Jia and
+               Zhiming Shen and
+               Weijia Song and
+               Robbert van Renesse and
+               Hakim Weatherspoon},
+  title     = {Smart spot instances for the supercloud},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KimHLZDGX16,
+  author    = {Jin Kyu Kim and
+               Qirong Ho and
+               Seunghak Lee and
+               Xun Zheng and
+               Wei Dai and
+               Garth A. Gibson and
+               Eric P. Xing},
+  title     = {STRADS: a distributed framework for scheduled model parallel machine learning},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Fritchie16,
+  author    = {Scott Lystig Fritchie},
+  title     = {Coordinating distributed system configuration changes with humming consensus},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KohnePNS16,
+  author    = {Andreas Kohne and
+               Damian Pasternak and
+               Lars Nagel and
+               Olaf Spinczyk},
+  title     = {Evaluation of {SLA-based} decision strategies for {VM} scheduling in cloud data centers},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SharmaGHIS16,
+  author    = {Prateek Sharma and
+               Tian Guo and
+               Xin He and
+               David E. Irwin and
+               Prashant J. Shenoy},
+  title     = {Flint: batch-interactive data-intensive processing on transient servers},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BalegasDFPR16,
+  author    = {Valter Balegas and
+               Sérgio Duarte and
+               Carla Ferreira and
+               Nuno M. Preguiça and
+               Rodrigo Rodrigues},
+  title     = {Making weak consistency great again},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KashJSSRW16,
+  author    = {Ian A. Kash and
+               Qin Jia and
+               Zhiming Shen and
+               Weijia Song and
+               Robbert van Renesse and
+               Hakim Weatherspoon},
+  title     = {Economics of a supercloud},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KumarARS16,
+  author    = {Gautam Kumar and
+               Ganesh Ananthanarayanan and
+               Sylvia Ratnasamy and
+               Ion Stoica},
+  title     = {Hold 'em or fold 'em?: aggregation queries under performance variations},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HerbJA16,
+  author    = {Tobias Herb and
+               Tim Jungnickel and
+               Christoph Alt},
+  title     = {Weak consistency and stochastic environments: harmonization of replicated machine learning models},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JumagaliyevW16,
+  author    = {Assylbek Jumagaliyev and
+               Jon Whittle},
+  title     = {Model-driven engineering for multi-tenant {SaaS} application development},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangWLSZYHHJX16,
+  author    = {Guosai Wang and
+               Shuhao Wang and
+               Bing Luo and
+               Weisong Shi and
+               Yinghang Zhu and
+               Wenjun Yang and
+               Dianming Hu and
+               Longbo Huang and
+               Xin Jin and
+               Wei Xu},
+  title     = {Increasing large-scale data center capacity by statistical power control},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LavrijsenIJCS16,
+  author    = {Wim Lavrijsen and
+               Costin Iancu and
+               Wibe de Jong and
+               Xin Chen and
+               Karsten Schwan},
+  title     = {Exploiting variability for energy optimization of parallel programs},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZawirskiBBPS16,
+  author    = {Marek Zawirski and
+               Carlos Baquero and
+               Annette Bieniusa and
+               Nuno M. Preguiça and
+               Marc Shapiro},
+  title     = {Eventually consistent register revisited},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BaqueroAL16,
+  author    = {Carlos Baquero and
+               Paulo Sérgio Almeida and
+               Carl Lerche},
+  title     = {The problem with embedded {CRDT} counters and a solution},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhiBL16,
+  author    = {Junji Zhi and
+               Nilton Bila and
+               Eyal de Lara},
+  title     = {Oasis: energy proportionality with hybrid server consolidation},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Stanley-Marbell16,
+  author    = {Phillip Stanley-Marbell and
+               Virginia Estellers and
+               Martin C. Rinard},
+  title     = {Crayon: saving power through shape and color approximation on next-generation displays},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WeilbachKB16,
+  author    = {Christian Weilbach and
+               Konrad Kühne and
+               Annette Bieniusa},
+  title     = {Decoupling conflict resolution with {CDVCS}},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LindeLP16,
+  author    = {Albert van der Linde and
+               João Leitão and
+               Nuno M. Preguiça},
+  title     = {Δ-CRDTs: making Δ-{CRDTs} delta-based},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/OuSL16,
+  author    = {Jiaxin Ou and
+               Jiwu Shu and
+               Youyou Lu},
+  title     = {A high performance file system for non-volatile main memory},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AkkoorathB16,
+  author    = {Deepthi Devaki Akkoorath and
+               Annette Bieniusa},
+  title     = {Highly-scalable concurrent objects},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KannanGS16,
+  author    = {Sudarsun Kannan and
+               Ada Gavrilovska and
+               Karsten Schwan},
+  title     = {pVM: persistent virtual memory for efficient capacity scaling and object storage},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WuZWRHJ16,
+  author    = {Xingbo Wu and
+               Li Zhang and
+               Yandong Wang and
+               Yufei Ren and
+               Michel Hack and
+               Song Jiang},
+  title     = {zExpander: a key-value cache with both high performance and fewer misses},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/DulloorRZSSSJS16,
+  author    = {Subramanya Dulloor and
+               Amitabha Roy and
+               Zheguang Zhao and
+               Narayanan Sundaram and
+               Nadathur Satish and
+               Rajesh Sankaran and
+               Jeff Jackson and
+               Karsten Schwan},
+  title     = {Data tiering in heterogeneous memory systems},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TsaiJAP16,
+  author    = {Chia-che Tsai and
+               Bhushan Jain and
+               Nafees Ahmed Abdul and
+               Donald E. Porter},
+  title     = {A study of modern Linux {API} usage and compatibility: what to support when you're supporting},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LimH16,
+  author    = {Geunsik Lim and
+               MyungJoo Ham},
+  title     = {BB: booting booster for consumer electronics with modern {OS}},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/DongDC16,
+  author    = {Xiaowan Dong and
+               Sandhya Dwarkadas and
+               Alan L. Cox},
+  title     = {Shared address translation revisited},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AtlidakisAGMN16,
+  author    = {Vaggelis Atlidakis and
+               Jeremy Andrus and
+               Roxana Geambasu and
+               Dimitris Mitropoulos and
+               Jason Nieh},
+  title     = {{POSIX} abstractions in modern operating systems: the old, the new, and the missing},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GengJKA16,
+  author    = {Yilong Geng and
+               Vimalkumar Jeyakumar and
+               Abdul Kabbani and
+               Mohammad Alizadeh},
+  title     = {Juggler: a practical reordering resilient network stack for datacenters},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GandhiHZ16,
+  author    = {Rohan Gandhi and
+               Y. Charlie Hu and
+               Ming Zhang},
+  title     = {Yoda: a highly available layer-7 load balancer},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JinHXZ16,
+  author    = {Xinxin Jin and
+               Peng Huang and
+               Tianyin Xu and
+               Yuanyuan Zhou},
+  title     = {NChecker: saving mobile app developers from network disruptions},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangRSC16,
+  author    = {Jiao Zhang and
+               Fengyuan Ren and
+               Ran Shu and
+               Peng Cheng},
+  title     = {TFC: token flow control in data center networks},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {23-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BartoliniMT16,
+  author    = {Davide B. Bartolini and
+               Philipp Miedl and
+               Lothar Thiele},
+  title     = {On the capacity of thermal covert channels in multicores},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {24-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KuvaiskiiFBFF16,
+  author    = {Dmitrii Kuvaiskii and
+               Rasha Faqeh and
+               Pramod Bhatotia and
+               Pascal Felber and
+               Christof Fetzer},
+  title     = {HAFT: hardware-assisted fault tolerance},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenWSCC16,
+  author    = {Yanzhe Chen and
+               Xingda Wei and
+               Jiaxin Shi and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Fast and general distributed transactions using {RDMA} and {HTM}},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {26-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BillahPR16,
+  author    = {Syed Masum Billah and
+               Donald E. Porter and
+               I. V. Ramakrishnan},
+  title     = {Sinter: low-bandwidth remote access for the visually-impaired},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {27-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiJFS16,
+  author    = {Ning Li and
+               Hong Jiang and
+               Dan Feng and
+               Zhan Shi},
+  title     = {PSLO: enforcing the Xth percentile latency and throughput {SLOs} for consolidated {VM} storage},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {28-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KlimovicKTJK16,
+  author    = {Ana Klimovic and
+               Christos Kozyrakis and
+               Eno Thereska and
+               Binu John and
+               Sanjeev Kumar},
+  title     = {Flash storage disaggregation},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {29-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MitraPRB16,
+  author    = {Subrata Mitra and
+               Rajesh Krishna Panta and
+               Moo-Ryong Ra and
+               Saurabh Bagchi},
+  title     = {Partial-parallel-repair (PPR): a distributed technique for repairing erasure coded storage},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {30-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HermanIHTKLS16,
+  author    = {Nathaniel Herman and
+               Jeevana Priya Inala and
+               Yihe Huang and
+               Lillian Tsai and
+               Eddie Kohler and
+               Barbara Liskov and
+               Liuba Shrira},
+  title     = {Type-aware transactions for faster concurrent code},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {31-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangS16,
+  author    = {Chao Wang and
+               Michael F. Spear},
+  title     = {Practical condition synchronization for transactional memory},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {32-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangSP16,
+  author    = {Qi Wang and
+               Timothy Stamler and
+               Gabriel Parmer},
+  title     = {Parallel sections: scaling system-level data-structures},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {33-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/FelberIMR16,
+  author    = {Pascal Felber and
+               Shady Issa and
+               Alexander Matveev and
+               Paolo Romano},
+  title     = {Hardware read-write lock elision},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {34-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TumanovZPKHG16,
+  author    = {Alexey Tumanov and
+               Timothy Zhu and
+               Jun Woo Park and
+               Michael A. Kozuch and
+               Mor Harchol-Balter and
+               Gregory R. Ganger},
+  title     = {TetriSched: global rescheduling with adaptive plan-ahead in dynamic heterogeneous clusters},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {35-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/RasleyKKFVR16,
+  author    = {Jeff Rasley and
+               Konstantinos Karanasos and
+               Srikanth Kandula and
+               Rodrigo Fonseca and
+               Milan Vojnovic and
+               Sriram Rao},
+  title     = {Efficient queue management for cluster scheduling},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {36-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangLCBLM16,
+  author    = {Liang Zhang and
+               James Litton and
+               Frank Cangialosi and
+               Theophilus Benson and
+               Dave Levin and
+               Alan Mislove},
+  title     = {Picocenter: supporting long-lived, mostly-idle applications in cloud environments},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {37-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/NewellKMGAS16,
+  author    = {Andrew Newell and
+               Gabriel Kliot and
+               Ishai Menache and
+               Aditya Gopalan and
+               Soramichi Akiyama and
+               Mark Silberstein},
+  title     = {Optimizing distributed actor systems for dynamic interactive services},
+  booktitle = eurosys,
+  year      = 2016,
+  pages     = {38-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BroduFO15,
+  author    = {Etienne Brodu and
+               Stéphane Frénot and
+               Frédéric Oblé},
+  title     = {Toward automatic update from callbacks to promises},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenSCC15,
+  author    = {Rong Chen and
+               Jiaxin Shi and
+               Yanzhe Chen and
+               Haibo Chen},
+  title     = {PowerLyra: differentiated graph computation and partitioning on skewed graphs},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/NanosGAK15,
+  author    = {Anastassios Nanos and
+               Stefanos Gerangelos and
+               Ioanna Alifieraki and
+               Nectarios Koziris},
+  title     = {V4VSockets: low-overhead intra-node communication in Xen},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/NavalhoDP15,
+  author    = {David Navalho and
+               Sérgio Duarte and
+               Nuno M. Preguiça},
+  title     = {A study of {CRDTs} that do computations},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/DudouetEE15,
+  author    = {Florian Dudouet and
+               Andrew Edmonds and
+               Michael Erne},
+  title     = {Reliable cloud-applications: an implementation through service orchestration},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/eurosys/GogSCGCH15,
+  author    = {Ionel Gog and
+               Malte Schwarzkopf and
+               Natacha Crooks and
+               Matthew P. Grosvenor and
+               Allen Clement and
+               Steven Hand},
+  title     = {Musketeer: all for one, one for all in data processing systems},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiGWZL15,
+  author    = {Mei Li and
+               Xu Gao and
+               Yanjun Wu and
+               Chen Zhao and
+               Mingshu Li},
+  title     = {Characterizing the spatio-temporal burstiness of storage workloads},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TomsicCS15,
+  author    = {Alejandro Z. Tomsic and
+               Tyler Crain and
+               Marc Shapiro},
+  title     = {An empirical perspective on causal consistency},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ToutainH15,
+  author    = {François Toutain and
+               Emmanuel Le Huérou},
+  title     = {A case-study in all-web rich interpersonal communication services},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CotroneoFPR15,
+  author    = {Domenico Cotroneo and
+               Flavio Frattini and
+               Roberto Pietrantuono and
+               Stefano Russo},
+  title     = {State-based robustness testing of {IaaS} cloud platforms},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JanczukowiczBTF15,
+  author    = {Ewa Janczukowicz and
+               Arnaud Braud and
+               Stéphane Tuffin and
+               Gaël Fromentoux and
+               Ahmed Bouabdallah and
+               Jean-Marie Bonnin},
+  title     = {Specialized network services for WebRTC: {TURN-based} architecture proposal},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiKKU15,
+  author    = {Hao Li and
+               Asim Kadav and
+               Erik Kruus and
+               Cristian Ungureanu},
+  title     = {MALT: distributed data-parallelism for existing {ML} applications},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SignesB15,
+  author    = {Amadeo Ascó Signes and
+               Annette Bieniusa},
+  title     = {Adaptive strength geo-replication strategy},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AmiranteCMR15,
+  author    = {Alessandro Amirante and
+               Tobia Castaldi and
+               Lorenzo Miniero and
+               Simon Pietro Romano},
+  title     = {Performance analysis of the Janus {WebRTC} gateway},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChengGB15,
+  author    = {Yue Cheng and
+               Aayush Gupta and
+               Ali Raza Butt},
+  title     = {An in-memory object caching framework with adaptive load balancing},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CostaF15,
+  author    = {Fernando Costa and
+               Paulo Ferreira},
+  title     = {SCOLARS-DV: scalable task validation over the internet},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HoltZPOC15,
+  author    = {Brandon Holt and
+               Irene Zhang and
+               Dan R. K. Ports and
+               Mark Oskin and
+               Luis Ceze},
+  title     = {Claret: using data types for highly concurrent distributed transactions},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CastineiraB15,
+  author    = {Santiago J. Castiñeira and
+               Annette Bieniusa},
+  title     = {Collaborative offline web applications using conflict-free replicated data types},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HaoSZZWL15,
+  author    = {Chunliang Hao and
+               Jie Shen and
+               Heng Zhang and
+               Xiao Zhang and
+               Yanjun Wu and
+               Mingshu Li},
+  title     = {Sparkle: adaptive sample based scheduling for cluster computing},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiC15,
+  author    = {Conglong Li and
+               Alan L. Cox},
+  title     = {GD-Wheel: a cost-aware replacement policy for key-value stores},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ToutainHB15,
+  author    = {François Toutain and
+               Emmanuel Le Huérou and
+               Eric Beaufils},
+  title     = {On webco interoperability},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AazamH15,
+  author    = {Mohammad Aazam and
+               Eui-Nam Huh},
+  title     = {{QoS} degradation based reimbursement for real-time cloud communication},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BalegasDFRPNS15,
+  author    = {Valter Balegas and
+               Sérgio Duarte and
+               Carla Ferreira and
+               Rodrigo Rodrigues and
+               Nuno M. Preguiça and
+               Mahsa Najafzadeh and
+               Marc Shapiro},
+  title     = {Putting consistency back into eventual consistency},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CrainS15,
+  author    = {Tyler Crain and
+               Marc Shapiro},
+  title     = {Designing a causally consistent protocol for geo-distributed partial replication},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Gregoire15,
+  author    = {Jean-Charles Grégoire},
+  title     = {On embedded real time media communications},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MeiklejohnR15,
+  author    = {Christopher Meiklejohn and
+               Peter Van Roy},
+  title     = {Lasp: a language for distributed, eventually consistent computations with {CRDTs}},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PerkinsAAYGMU15,
+  author    = {Dorian Perkins and
+               Nitin Agrawal and
+               Akshat Aranya and
+               Curtis Yu and
+               Younghwan Go and
+               Harsha V. Madhyastha and
+               Cristian Ungureanu},
+  title     = {Simba: tunable end-to-end data consistency for mobile apps},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SalapuraHV15,
+  author    = {Valentina Salapura and
+               Richard E. Harper and
+               Mahesh Viswanathan},
+  title     = {ResilientVM: high performance virtual machine recovery in the cloud},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/eurosys/0001LCPR15,
+  author    = {Cheng Li and
+               João Leitão and
+               Allen Clement and
+               Nuno M. Preguiça and
+               Rodrigo Rodrigues},
+  title     = {Minimizing coordination in replicated systems},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AzevedoPC15,
+  author    = {João Azevedo and
+               Ricardo Lopes Pereira and
+               Paulo Chainho},
+  title     = {An {API} proposal for integrating sensor data into web apps and {WebRTC}},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/PortoL0CKJR15,
+  author    = {Daniel Porto and
+               João Leitão and
+               Cheng Li and
+               Allen Clement and
+               Aniket Kate and
+               Flavio Paiva Junqueira and
+               Rodrigo Rodrigues},
+  title     = {Visigoth fault tolerance},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BessaniMO15,
+  author    = {Alysson Neves Bessani and
+               Ricardo Mendes and
+               Tiago Oliveira},
+  title     = {On the consistency of heterogeneous composite objects},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LenersGAW15,
+  author    = {Joshua B. Leners and
+               Trinabh Gupta and
+               Marcos K. Aguilera and
+               Michael Walfish},
+  title     = {Taming uncertainty in distributed systems with help from the network},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/OhACY15,
+  author    = {Hyeontaek Oh and
+               Sanghong Ahn and
+               Jun Kyun Choi and
+               Jinhong Yang},
+  title     = {{WebRTC} based remote collaborative online learning platform},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BravoRRR15,
+  author    = {Manuel Bravo and
+               Paolo Romano and
+               Luís E. T. Rodrigues and
+               Peter Van Roy},
+  title     = {Reducing the vulnerability window in distributed transactional protocols},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/DistlerBBFJ15,
+  author    = {Tobias Distler and
+               Christopher Bahn and
+               Alysson Neves Bessani and
+               Frank Fischer and
+               Flavio Junqueira},
+  title     = {Extensible distributed coordination},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KaiserBSM15,
+  author    = {Jürgen Kaiser and
+               André Brinkmann and
+               Tim Süß and
+               Dirk Meister},
+  title     = {Deriving and comparing deduplication techniques using a model-based classification},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhouWHHXZ15,
+  author    = {You Zhou and
+               Fei Wu and
+               Ping Huang and
+               Xubin He and
+               Changsheng Xie and
+               Jian Zhou},
+  title     = {An efficient page-level {FTL} to optimize address translation in flash memory},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Vahldiek-Oberwagner15,
+  author    = {Anjo Vahldiek-Oberwagner and
+               Eslam Elnikety and
+               Aastha Mehta and
+               Deepak Garg and
+               Peter Druschel and
+               Rodrigo Rodrigues and
+               Johannes Gehrke and
+               Ansley Post},
+  title     = {Guardat: enforcing data policies at the storage layer},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SirbuPP15,
+  author    = {Alexandru Sirbu and
+               Cristian Pop and
+               Florin Pop},
+  title     = {{MaaS} advanced provisioning and reservation system},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/eurosys/ColmantKFHRS15,
+  author    = {Maxime Colmant and
+               Mascha Kurpicz and
+               Pascal Felber and
+               Loïc Huertas and
+               Romain Rouvoy and
+               Anita Sobe},
+  title     = {Process-level power estimation in {VM-based} systems},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HouSS15,
+  author    = {Kai-Yuan Hou and
+               Kang G. Shin and
+               Jan-Lung Sung},
+  title     = {Application-assisted live migration of virtual machines with Java applications},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SharmaLGIS15,
+  author    = {Prateek Sharma and
+               Stephen Lee and
+               Tian Guo and
+               David E. Irwin and
+               Prashant J. Shenoy},
+  title     = {SpotCheck: designing a derivative {IaaS} cloud on the spot market},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChungJHHC15,
+  author    = {Jae Yoon Chung and
+               Carlee Joe-Wong and
+               Sangtae Ha and
+               James Won-Ki Hong and
+               Mung Chiang},
+  title     = {CYRUS: towards client-defined cloud storage},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/VermaPKOTW15,
+  author    = {Abhishek Verma and
+               Luis Pedrosa and
+               Madhukar Korupolu and
+               David Oppenheimer and
+               Eric Tune and
+               John Wilkes},
+  title     = {Large-scale cluster management at Google with Borg},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HuangBSZ15,
+  author    = {Peng Huang and
+               William J. Bolosky and
+               Abhishek Singh and
+               Yuanyuan Zhou},
+  title     = {ConfValley: a systematic configuration validation framework for cloud services},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ToffettiBBDE15,
+  author    = {Giovanni Toffetti and
+               Sandro Brunner and
+               Martin Blöchlinger and
+               Florian Dudouet and
+               Andrew Edmonds},
+  title     = {An architecture for self-managing microservices},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangCBHTWGZ15,
+  author    = {Hong Zhang and
+               Kai Chen and
+               Wei Bai and
+               Dongsu Han and
+               Chen Tian and
+               Hao Wang and
+               Haibing Guan and
+               Ming Zhang},
+  title     = {Guaranteeing deadlines for inter-datacenter transfers},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ViennotLBGN15,
+  author    = {Nicolas Viennot and
+               Mathias Lécuyer and
+               Jonathan Bell and
+               Roxana Geambasu and
+               Jason Nieh},
+  title     = {Synapse: a microservices architecture for heterogeneous-database web applications},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KimJLMSM15,
+  author    = {Joongi Kim and
+               Keon Jang and
+               Keunhong Lee and
+               Sangwook Ma and
+               Junhyun Shim and
+               Sue B. Moon},
+  title     = {{NBA} (network balancing act): a high-performance packet processing framework for heterogeneous processors},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/StoenescuOPAMBM15,
+  author    = {Radu Stoenescu and
+               Vladimir Andrei Olteanu and
+               Matei Popovici and
+               Mohamed Ahmed and
+               João Martins and
+               Roberto Bifulco and
+               Filipe Manco and
+               Felipe Huici and
+               Georgios Smaragdakis and
+               Mark Handley and
+               Costin Raiciu},
+  title     = {In-Net: in-network processing for the masses},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {23-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HofJNW15,
+  author    = {Alexander Van't Hof and
+               Hani Jamjoom and
+               Jason Nieh and
+               Dan Williams},
+  title     = {Flux: multi-surface computing in Android},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {24-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/YangMBMJH15,
+  author    = {Fan Yang and
+               Nelson Matthys and
+               Rafael Bachiller and
+               Sam Michiels and
+               Wouter Joosen and
+               Danny Hughes},
+  title     = {μPnP: plug and play peripherals for the internet of things},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/XuW15,
+  author    = {Yuanzhong Xu and
+               Emmett Witchel},
+  title     = {Maxoid: transparently confining mobile applications with custom views of state},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {26-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/XiaLTMGZC15,
+  author    = {Yubin Xia and
+               Yutao Liu and
+               Cheng Tan and
+               Mingyang Ma and
+               Haibing Guan and
+               Binyu Zang and
+               Haibo Chen},
+  title     = {TinMan: eliminating confidential mobile data exposure with security oriented offloading},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {27-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/NarayanFPH15,
+  author    = {Arjun Narayan and
+               Ariel Feldman and
+               Antonis Papadimitriou and
+               Andreas Haeberlen},
+  title     = {Verifiable differential privacy},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {28-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BarbalaceSAJRKM15,
+  author    = {Antonio Barbalace and
+               Marina Sadini and
+               Saif Ansary and
+               Christopher Jelesnianski and
+               Akshay Ravichandran and
+               Cagil Kendir and
+               Alastair Murray and
+               Binoy Ravindran},
+  title     = {Popcorn: bridging the programmability gap in {heterogeneous-ISA} platforms},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {29-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GruenwaldSKZ15,
+  author    = {Charles Gruenwald III and
+               Filippo Sironi and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Hare: a file system for non-cache-coherent multicores},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {30-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MerrifieldDE15,
+  author    = {Timothy Merrifield and
+               Joseph Devietti and
+               Jakob Eriksson},
+  title     = {High-performance determinism with total store order consistency},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {31-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Golan-GuetaBHK15,
+  author    = {Guy Golan-Gueta and
+               Edward Bortnikov and
+               Eshcar Hillel and
+               Idit Keidar},
+  title     = {Scaling concurrent log-structured data stores},
+  booktitle = eurosys,
+  year      = 2015,
+  pages     = {32-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BrownCME14,
+  author    = {Russell Brown and
+               Sean Cribbs and
+               Christopher Meiklejohn and
+               Sam Elliott},
+  title     = {Riak {DT} map: a composable, convergent replicated dictionary},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HanMLWYZPCC14,
+  author    = {Wentao Han and
+               Youshan Miao and
+               Kaiwei Li and
+               Ming Wu and
+               Fan Yang and
+               Lidong Zhou and
+               Vijayan Prabhakaran and
+               Wenguang Chen and
+               Enhong Chen},
+  title     = {Chronos: a graph engine for temporal graph analysis},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhangCL14,
+  author    = {Zhuoyao Zhang and
+               Ludmila Cherkasova and
+               Boon Thau Loo},
+  title     = {Exploiting cloud heterogeneity for optimized cost/performance {MapReduce} processing},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/CoppietersPMC14,
+  author    = {Tim Coppieters and
+               Laure Philips and
+               Wolfgang De Meuter and
+               Tom Van Cutsem},
+  title     = {An open implementation of cloud types for the web},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LeiteRTWEM14,
+  author    = {Alessandro Ferreira Leite and
+               Tainá Raiol and
+               Claude Tadonki and
+               Maria Emilia M. T. Walter and
+               Christine Eisenbeis and
+               Alba Cristina Magalhaes Alves de Melo},
+  title     = {Excalibur: an autonomic cloud architecture for executing parallel applications},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TanCHHMMZ14,
+  author    = {Jian Tan and
+               Alicia Chin and
+               Zane Zhenhua Hu and
+               Yonggang Hu and
+               Shicong Meng and
+               Xiaoqiao Meng and
+               Li Zhang},
+  title     = {DynMR: dynamic {MapReduce} with {ReduceTask} interleaving and {MapTask} backfilling},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AlmeidaSB14,
+  author    = {Paulo Sérgio Almeida and
+               Ali Shoker and
+               Carlos Baquero},
+  title     = {Efficient state-based {CRDTs} by decomposition},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/EscrivaDWS14,
+  author    = {Robert Escriva and
+               Ayush Dubey and
+               Bernard Wong and
+               Emin Gün Sirer},
+  title     = {Kronos: the design and implementation of an event ordering service},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiuLDSZ14,
+  author    = {Kuien Liu and
+               Yaguang Li and
+               Jian Dai and
+               Shuo Shang and
+               Kai Zheng},
+  title     = {Compressing large scale urban trajectory data},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BrunoF14,
+  author    = {Rodrigo Bruno and
+               Paulo Ferreira},
+  title     = {freeCycles: efficient data distribution for volunteer computing},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/DavoliM14,
+  author    = {Antonio Davoli and
+               Alessandro Mei},
+  title     = {Triton: a peer-assisted cloud storage system},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LeverichK14,
+  author    = {Jacob Leverich and
+               Christos Kozyrakis},
+  title     = {Reconciling high server utilization and sub-millisecond quality-of-service},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Iwanicki14,
+  author    = {Konrad Iwanicki},
+  title     = {Beyond replicated storage: eventually-consistent distributed data structures},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Malicevic0Z14,
+  author    = {Jasmina Malicevic and
+               Amitabha Roy and
+               Willy Zwaenepoel},
+  title     = {Scale-up graph processing in the cloud: challenges and solutions},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZhouTZKPSV14,
+  author    = {Junlan Zhou and
+               Malveeka Tewari and
+               Min Zhu and
+               Abdul Kabbani and
+               Leon Poutievski and
+               Arjun Singh and
+               Amin Vahdat},
+  title     = {WCMP: weighted cost multipathing for improved fairness in data centers},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/FiskH14,
+  author    = {Michael E. Fisk and
+               Curtis L. Hash Jr.},
+  title     = {FileMap: map-reduce program execution on loosely-coupled distributed systems},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LefebvreKC14,
+  author    = {Sylvain Lefebvre and
+               Sathiya Prabhu Kumar and
+               Raja Chiky},
+  title     = {Simizer: evaluating consistency trade offs through simulation},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ZarifisMCKYP14,
+  author    = {Kyriakos Zarifis and
+               Rui Miao and
+               Matt Calder and
+               Ethan Katz-Bassett and
+               Minlan Yu and
+               Jitendra Padhye},
+  title     = {DIBS: just-in-time congestion mitigation for data centers},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {6-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/BaqueroAS14,
+  author    = {Carlos Baquero and
+               Paulo Sérgio Almeida and
+               Ali Shoker},
+  title     = {Making operation-based {CRDTs} operation-based},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ChenSIF14,
+  author    = {Jay Chen and
+               Lakshmi Subramanian and
+               Janardhan R. Iyengar and
+               Bryan Ford},
+  title     = {TAQ: enhancing fairness and performance predictability in small packet regimes},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {7-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Grishchenko14,
+  author    = {Victor Grishchenko},
+  title     = {Citrea and swarm: partially ordered op logs in the browser: implementing a collaborative editor and an object sync library in {JavaScript}},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/JainTJP14,
+  author    = {Bhushan Jain and
+               Chia-che Tsai and
+               Jitin John and
+               Donald E. Porter},
+  title     = {Practical techniques to obviate setuid-to-root binaries},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {8-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Ahmed-NacerUBP14,
+  author    = {Mehdi Ahmed-Nacer and
+               Pascal Urso and
+               Valter Balegas and
+               Nuno M. Preguiça},
+  title     = {Merging {OT} and {CRDT} algorithms},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/TsaiABJJJKKOP14,
+  author    = {Chia-che Tsai and
+               Kumar Saurabh Arora and
+               Nehal Bandi and
+               Bhushan Jain and
+               William Jannen and
+               Jitin John and
+               Harry A. Kalodner and
+               Vrushali Kulkarni and
+               Daniela A. S. de Oliveira and
+               Donald E. Porter},
+  title     = {Cooperation and security isolation of library {OSes} for multi-process applications},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {9-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KoeberlSSV14,
+  author    = {Patrick Koeberl and
+               Steffen Schulz and
+               Ahmad-Reza Sadeghi and
+               Vijay Varadharajan},
+  title     = {TrustLite: a security architecture for tiny embedded devices},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WojciechowskiS14,
+  author    = {Pawel T. Wojciechowski and
+               Konrad Siek},
+  title     = {Having your cake and eating it too: combining strong and eventual consistency},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {10-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/GuoHYZZZ14,
+  author    = {Zhenyu Guo and
+               Chuntao Hong and
+               Mao Yang and
+               Dong Zhou and
+               Lidong Zhou and
+               Li Zhuang},
+  title     = {Rex: replication at the speed of multi-core},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/OzkanMT14,
+  author    = {Burcu Kulahcioglu Ozkan and
+               Erdal Mutlu and
+               Serdar Tasiran},
+  title     = {Towards verifying eventually consistent applications},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {11-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/FragkoulisSLB14,
+  author    = {Marios Fragkoulis and
+               Diomidis Spinellis and
+               Panos Louridas and
+               Angelos Bilas},
+  title     = {Relational access to Unix kernel data structures},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/FrancuzikSW14,
+  author    = {Szymon Francuzik and
+               Cezary Sobaniec and
+               Dariusz Wawrzyniak},
+  title     = {A generic model of consistency guarantees for replicated services},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {12-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/Meiklejohn14,
+  author    = {Christopher Meiklejohn},
+  title     = {On the composability of the Riak {DT} map: expanding from embedded to multi-key structures},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/MokhtarianJ14,
+  author    = {Kianoosh Mokhtarian and
+               Hans-Arno Jacobsen},
+  title     = {Caching in video CDNs: building strong lines of defense},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {13-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/VolosNPVSS14,
+  author    = {Haris Volos and
+               Sanketh Nalli and
+               Sankaralingam Panneerselvam and
+               Venkatanathan Varadarajan and
+               Prashant Saxena and
+               Michael M. Swift},
+  title     = {Aerie: flexible file-system interfaces to storage-class memory},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {14-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/RaoKKLRSJ14,
+  author    = {Dulloor Subramanya Rao and
+               Sanjay Kumar and
+               Anil Keshavamurthy and
+               Philip Lantz and
+               Dheeraj Reddy and
+               Rajesh Sankaran and
+               Jeff Jackson},
+  title     = {System software for persistent memory},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {15-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangSJOLZC14,
+  author    = {Peng Wang and
+               Guangyu Sun and
+               Song Jiang and
+               Jian Ouyang and
+               Shiding Lin and
+               Chen Zhang and
+               Jason Cong},
+  title     = {An efficient design and implementation of {LSM-tree} based key-value store on open-channel {SSD}},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {16-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/ShueF14,
+  author    = {David Shue and
+               Michael J. Freedman},
+  title     = {From application requests to virtual IOPs: provisioned key-value storage with Libra},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {17-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HuYTY14,
+  author    = {Gang Hu and
+               Xinhao Yuan and
+               Yang Tang and
+               Junfeng Yang},
+  title     = {Efficiently, effectively detecting mobile app bugs with {AppDoctor}},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {18-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AndersonWCGMD14,
+  author    = {Jonathan Anderson and
+               Robert N. M. Watson and
+               David Chisnall and
+               Khilan Gudka and
+               Ilias Marinos and
+               Brooks Davis},
+  title     = {TESLA: temporally enhanced system logic assertions},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {19-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/KestorUCT14,
+  author    = {Gokcen Kestor and
+               Osman S. Unsal and
+               Adrián Cristal and
+               Serdar Tasiran},
+  title     = {T-Rex: a dynamic race detection tool for C/C++ transactional memory applications},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {20-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AndreKMSSK14,
+  author    = {Fabien André and
+               Anne-Marie Kermarrec and
+               Erwan Le Merrer and
+               Nicolas Le Scouarnec and
+               Gilles Straub and
+               Alexandre van Kempen},
+  title     = {Archiving cold data in warehouses with clustered network coding},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {21-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HuangWHX14,
+  author    = {Ping Huang and
+               Guanying Wu and
+               Xubin He and
+               Weijun Xiao},
+  title     = {An aggressive worn-out flash block management scheme to alleviate {SSD} performance degradation},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {22-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/SubramanianSTAA14,
+  author    = {Sriram Subramanian and
+               Swaminathan Sundararaman and
+               Nisha Talagala and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Snapshots in a flash with {ioSnap}},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {23-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/HarrisMM14,
+  author    = {Tim Harris and
+               Martin Maas and
+               Virendra J. Marathe},
+  title     = {Callisto: co-scheduling parallel runtime systems},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {24-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/AlistarhEHMS14,
+  author    = {Dan Alistarh and
+               Patrick Eugster and
+               Maurice Herlihy and
+               Alexander Matveev and
+               Nir Shavit},
+  title     = {StackTrack: an automated transactional approach to concurrent memory reclamation},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {25-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/WangQLC14,
+  author    = {Zhaoguo Wang and
+               Hao Qian and
+               Jinyang Li and
+               Haibo Chen},
+  title     = {Using restricted transactional memory to build a scalable in-memory database},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {26-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiAKF14,
+  author    = {Xiaozhou Li and
+               David G. Andersen and
+               Michael Kaminsky and
+               Michael J. Freedman},
+  title     = {Algorithmic improvements for fast concurrent Cuckoo hashing},
+  booktitle = eurosys,
+  year      = 2014,
+  pages     = {27-1},
+}
+
+@inproceedings{DBLP:conf/eurosys/LiangLDNLHTJ13,
+  author    = {John Liang and
+               James Luo and
+               Mark Drayton and
+               Rajesh Nishtala and
+               Richard Liu and
+               Nick Hammer and
+               Jason Taylor and
+               Bill Jia},
+  title     = {Storage and performance optimization of long tail key access in a social network},
+  booktitle = eurosys,
+  year      = 2013,
+  pages     = {1-6},
+}
+
 @inproceedings{DBLP:conf/eurosys/QianHSWZZZYZ13,
   author    = {Zhengping Qian and
                Yong He and
@@ -16,6 +3378,26 @@
   pages     = {1-14},
 }
 
+@inproceedings{DBLP:conf/eurosys/MooreBE13,
+  author    = {Laura R. Moore and
+               Kathryn Bean and
+               Tariq Ellahi},
+  title     = {Transforming reactive auto-scaling into proactive auto-scaling},
+  booktitle = eurosys,
+  year      = 2013,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/eurosys/El-khatibBS13,
+  author    = {Yehia El-khatib and
+               Gordon S. Blair and
+               Bholanathsingh Surajbali},
+  title     = {Experiences of using a hybrid cloud to construct an environmental virtual observatory},
+  booktitle = eurosys,
+  year      = 2013,
+  pages     = {13-18},
+}
+
 @inproceedings{DBLP:conf/eurosys/KeIY13,
   author    = {Qifa Ke and
                Michael Isard and
@@ -24,6 +3406,27 @@
   booktitle = eurosys,
   year      = 2013,
   pages     = {15-28},
+}
+
+@inproceedings{DBLP:conf/eurosys/KacheleH13,
+  author    = {Steffen Kächele and
+               Franz J. Hauck},
+  title     = {Component-based scalability for cloud applications},
+  booktitle = eurosys,
+  year      = 2013,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/eurosys/BeernaertGMVO13,
+  author    = {Leander Beernaert and
+               Pedro Gomes and
+               Miguel Matos and
+               Ricardo Vilaça and
+               Rui Oliveira},
+  title     = {Evaluating Cassandra as a manager of large file sets},
+  booktitle = eurosys,
+  year      = 2013,
+  pages     = {25-30},
 }
 
 @inproceedings{DBLP:conf/eurosys/AgarwalMPMMS13,
@@ -37,6 +3440,17 @@
   booktitle = eurosys,
   year      = 2013,
   pages     = {29-42},
+}
+
+@inproceedings{DBLP:conf/eurosys/NavalhoDPS13,
+  author    = {David Navalho and
+               Sérgio Duarte and
+               Nuno M. Preguiça and
+               Marc Shapiro},
+  title     = {Incremental stream processing using computational conflict-free replicated data types},
+  booktitle = eurosys,
+  year      = 2013,
+  pages     = {31-36},
 }
 
 @inproceedings{DBLP:conf/eurosys/SchultzL13,
@@ -74,7 +3488,7 @@
 @inproceedings{DBLP:conf/eurosys/AlmeidaLR13,
   author    = {Sérgio Almeida and
                João Leitão and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {ChainReaction: a causal+ consistent datastore based on chain replication},
   booktitle = eurosys,
   year      = 2013,
@@ -604,7 +4018,7 @@
   author    = {Aleksey Pesterev and
                Jacob Strauss and
                Nickolai Zeldovich and
-               Robert T. Morris},
+               Robert Tappan Morris},
   title     = {Improving network connection locality on multicore systems},
   booktitle = eurosys,
   year      = 2012,
@@ -1170,7 +4584,7 @@
 @inproceedings{DBLP:conf/eurosys/PesterevZM10,
   author    = {Aleksey Pesterev and
                Nickolai Zeldovich and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Locating cache performance bottlenecks using data profiling},
   booktitle = eurosys,
   year      = 2010,
@@ -1183,7 +4597,7 @@
                Mahesh Balakrishnan and
                Ken Birman and
                Robert Burgess and
-               Gregory Chockler and
+               Gregory V. Chockler and
                Haoyuan Li and
                Yoav Tock},
   title     = {Dr. multicast: Rx for data center communication scalability},
@@ -1410,7 +4824,7 @@
   author    = {Alexander Yip and
                Neha Narula and
                Maxwell N. Krohn and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Privacy-preserving browser-side scripting with {BFlow}},
   booktitle = eurosys,
   year      = 2009,
@@ -1432,7 +4846,7 @@
 @inproceedings{DBLP:conf/eurosys/RoyHH09,
   author    = {Amitabha Roy and
                Steven Hand and
-               Timothy L. Harris},
+               Tim Harris},
   title     = {A runtime system for software lock elision},
   booktitle = eurosys,
   year      = 2009,
@@ -1826,7 +5240,7 @@
   author    = {Anil Madhavapeddy and
                Alex Ho and
                Tim Deegan and
-               David Scott and
+               David J. Scott and
                Ripduman Sohan},
   title     = {Melange: creating a "functional" internet},
   booktitle = eurosys,

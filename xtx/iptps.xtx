@@ -67,7 +67,7 @@
 @inproceedings{DBLP:conf/iptps/LeitaoRR10,
   author    = {João Leitão and
                Robbert van Renesse and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Balancing gossip exchanges in networks with firewalls},
   booktitle = iptps,
   year      = 2010,
@@ -223,7 +223,7 @@
                Thom Haddow and
                Jonathan Ledlie and
                Moez Draief and
-               Peter Pietzuch},
+               Peter R. Pietzuch},
   title     = {Deconstructing internet paths: an approach for {AS-level} detour route discovery},
   booktitle = iptps,
   year      = 2009,
@@ -525,7 +525,7 @@
                Rodrigo Rodrigues and
                Carlos Ribeiro and
                Paulo Ferreira and
-               Luís Rodrigues},
+               Luís E. T. Rodrigues},
   title     = {Verme: Worm Containment in {Peer-to-Peer} Overlays},
   booktitle = iptps,
   year      = 2007,
@@ -571,7 +571,7 @@
   author    = {Jonathan Ledlie and
                Michael Mitzenmacher and
                Margo I. Seltzer and
-               Peter Pietzuch},
+               Peter R. Pietzuch},
   title     = {Wired Geometric Routing},
   booktitle = iptps,
   year      = 2007,
@@ -629,7 +629,7 @@
   author    = {Jeremy Stribling and
                Emil Sit and
                M. Frans Kaashoek and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Don't Give Up on Distributed File Systems},
   booktitle = iptps,
   year      = 2007,
@@ -714,7 +714,7 @@
                Chris Lesniewski-Laas and
                Sean C. Rhea and
                M. Frans Kaashoek and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {{User-Relative} Names for Globally Connected Personal Devices},
   booktitle = iptps,
   year      = 2006,
@@ -839,7 +839,7 @@
                Frank Dabek and
                Byung-Gon Chun and
                Hakim Weatherspoon and
-               Robert Morris and
+               Robert Tappan Morris and
                M. Frans Kaashoek and
                John Kubiatowicz},
   title     = {Proactive Replication for Data Durability},
@@ -986,7 +986,7 @@
                Jinyang Li and
                M. Frans Kaashoek and
                David R. Karger and
-               Robert Morris and
+               Robert Tappan Morris and
                Scott Shenker},
   title     = {OverCite: A Cooperative Digital Research Library},
   booktitle = iptps,
@@ -1106,7 +1106,7 @@
 }
 
 @inproceedings{DBLP:conf/iptps/Le-BlondGL05,
-  author    = {Stevens Le-Blond and
+  author    = {Stevens Le Blond and
                Jean-Loup Guillaume and
                Matthieu Latapy},
   title     = {Clustering in P2P Exchanges and Consequences on Performances},
@@ -1273,7 +1273,7 @@
   author    = {Jinyang Li and
                Jeremy Stribling and
                Thomer M. Gil and
-               Robert Morris and
+               Robert Tappan Morris and
                M. Frans Kaashoek},
   title     = {Comparing the Performance of Distributed Hash Tables Under Churn},
   booktitle = iptps,
@@ -1662,7 +1662,7 @@
                Joseph M. Hellerstein and
                M. Frans Kaashoek and
                David R. Karger and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {On the Feasibility of {Peer-to-Peer} Web Indexing and Search},
   booktitle = iptps,
   year      = 2003,
@@ -1734,7 +1734,7 @@
   author    = {Marcelo Pias and
                Jon Crowcroft and
                Steve R. Wilbur and
-               Timothy L. Harris and
+               Tim Harris and
                Saleem N. Bhatti},
   title     = {Lighthouses for Scalable Distributed Location},
   booktitle = iptps,
@@ -1876,7 +1876,7 @@
   author    = {Michael J. Freedman and
                Emil Sit and
                Josh Cates and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Introducing Tarzan, a {Peer-to-Peer} Anonymizing Network Layer},
   booktitle = iptps,
   year      = 2002,
@@ -1906,7 +1906,7 @@
 @inproceedings{DBLP:conf/iptps/CoxMM02,
   author    = {Russ Cox and
                Athicha Muthitacharoen and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Serving {DNS} Using a {Peer-to-Peer} Lookup Service},
   booktitle = iptps,
   year      = 2002,
@@ -2007,7 +2007,7 @@
 
 @inproceedings{DBLP:conf/iptps/SitM02,
   author    = {Emil Sit and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Security Considerations for {Peer-to-Peer} Distributed Hash Tables},
   booktitle = iptps,
   year      = 2002,
