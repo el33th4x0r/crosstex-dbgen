@@ -1,5 +1,437 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/webdb/AssadiMN18,
+  author    = {Ahmad Assadi and
+               Tova Milo and
+               Slava Novgorodov},
+  title     = {Cleaning Data with Constraints and Experts},
+  booktitle = webdb,
+  year      = 2018,
+  pages     = {1-1},
+}
+
+@inproceedings{DBLP:conf/webdb/MilchevskiNM18,
+  author    = {Evica Milchevski and
+               Fabian Neffgen and
+               Sebastian Michel},
+  title     = {Processing {Class-Constraint} {K-NN} Queries with {MISP}},
+  booktitle = webdb,
+  year      = 2018,
+  pages     = {2-1},
+}
+
+@inproceedings{DBLP:conf/webdb/Ananthanarayanan18,
+  author    = {Rema Ananthanarayanan and
+               Pranay Kr. Lohia and
+               Srikanta Bedathur},
+  title     = {DataVizard: Recommending Visual Presentations for Structured Data},
+  booktitle = webdb,
+  year      = 2018,
+  pages     = {3-1},
+}
+
+@inproceedings{DBLP:conf/webdb/CaoMT18,
+  author    = {Tien Duc Cao and
+               Ioana Manolescu and
+               Xavier Tannier},
+  title     = {Searching for Truth in a Database of Statistics},
+  booktitle = webdb,
+  year      = 2018,
+  pages     = {4-1},
+}
+
+@inproceedings{DBLP:conf/webdb/CannaviccioABM18,
+  author    = {Matteo Cannaviccio and
+               Lorenzo Ariemma and
+               Denilson Barbosa and
+               Paolo Merialdo},
+  title     = {Leveraging Wikipedia Table Schemas for Knowledge Graph Augmentation},
+  booktitle = webdb,
+  year      = 2018,
+  pages     = {5-1},
+}
+
+@inproceedings{DBLP:conf/webdb/BykauLSV17,
+  author    = {Siarhei Bykau and
+               Jihwan Lee and
+               Divesh Srivastava and
+               Yannis Velegrakis},
+  title     = {"Tell me more" using Ladders in Wikipedia},
+  booktitle = webdb,
+  year      = 2017,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/webdb/CohenY17,
+  author    = {Sara Cohen and
+               Moran Yashinski},
+  title     = {Crowdsourcing with Diverse Groups of Users},
+  booktitle = webdb,
+  year      = 2017,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/webdb/FloresS17,
+  author    = {Paulo Arion Flores and
+               Frank Siqueira},
+  title     = {Invariant Control in Eventually Consistent Databases},
+  booktitle = webdb,
+  year      = 2017,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/webdb/GalarragaHR17,
+  author    = {Luis Galárraga and
+               Katja Hose and
+               Simon Razniewski},
+  title     = {Enabling Completeness-aware Querying in {SPARQL}},
+  booktitle = webdb,
+  year      = 2017,
+  pages     = {19-22},
+}
+
+@inproceedings{DBLP:conf/webdb/PalM17,
+  author    = {Koninika Pal and
+               Sebastian Michel},
+  title     = {{LSH-Based} Probabilistic Pruning of Inverted Indices for Sets and Ranked Lists},
+  booktitle = webdb,
+  year      = 2017,
+  pages     = {23-28},
+}
+
+@inproceedings{DBLP:conf/webdb/TangL17,
+  author    = {Mengzi Tang and
+               Li Li},
+  title     = {Role-aware Conformity Influence Analysis in Recommender Systems},
+  booktitle = webdb,
+  year      = 2017,
+  pages     = {29-34},
+}
+
+@inproceedings{DBLP:conf/webdb/VakilianCTN17,
+  author    = {Ali Vakilian and
+               Yodsawalai Chodpathumwan and
+               Arash Termehchy and
+               Amir Nayyeri},
+  title     = {{Cost-Effective} Conceptual Design Over Taxonomies},
+  booktitle = webdb,
+  year      = 2017,
+  pages     = {35-40},
+}
+
+@inproceedings{DBLP:conf/webdb/ZhangZF17,
+  author    = {Jiahui Zhang and
+               Xiaowang Zhang and
+               Zhiyong Feng},
+  title     = {A Path Querying Language for Federation of {RDF} and Relational Database},
+  booktitle = webdb,
+  year      = 2017,
+  pages     = {41-46},
+}
+
+@inproceedings{DBLP:conf/webdb/YouWWQ16,
+  author    = {Zhenni You and
+               Diqian Wu and
+               Yi Wang and
+               Tieyun Qian},
+  title     = {Fast and accurate identification of implicit enterprise users in social media},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/webdb/HanFZWRJ16,
+  author    = {Xingwang Han and
+               Zhiyong Feng and
+               Xiaowang Zhang and
+               Xin Wang and
+               Guozheng Rao and
+               Shuo Jiang},
+  title     = {On the statistical analysis of practical {SPARQL} queries},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/webdb/OulabiMB16,
+  author    = {Yaser Oulabi and
+               Robert Meusel and
+               Christian Bizer},
+  title     = {Fusing time-dependent web table data},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/webdb/LehmbergB16,
+  author    = {Oliver Lehmberg and
+               Christian Bizer},
+  title     = {Web table column categorisation and profiling},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/webdb/MazumdarWWZJ16,
+  author    = {Parijat Mazumdar and
+               Li Wang and
+               Marianne Winslett and
+               Zhenjie Zhang and
+               Deokwoo Jung},
+  title     = {An index scheme for fast data stream to distributed append-only store},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/webdb/NahshonPV16,
+  author    = {Yoav Nahshon and
+               Liat Peterfreund and
+               Stijn Vansummeren},
+  title     = {Incorporating information extraction in the relational database model},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/webdb/Ben-BasatK16,
+  author    = {Ran Ben-Basat and
+               Elad Kravi},
+  title     = {The ranking game},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/webdb/StoyanovichIP16,
+  author    = {Julia Stoyanovich and
+               Lovro Ilijasic and
+               Haoyue Ping},
+  title     = {Workload-driven learning of mallows mixtures with pairwise preference data},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {8},
+}
+
+@inproceedings{DBLP:conf/webdb/CannaviccioBM16,
+  author    = {Matteo Cannaviccio and
+               Denilson Barbosa and
+               Paolo Merialdo},
+  title     = {Accurate fact harvesting from natural language text in wikipedia with Lector},
+  booktitle = webdb,
+  year      = 2016,
+  pages     = {9},
+}
+
+@inproceedings{DBLP:conf/webdb/AbiteboulDESWSS15,
+  author    = {Serge Abiteboul and
+               Xin Luna Dong and
+               Oren Etzioni and
+               Divesh Srivastava and
+               Gerhard Weikum and
+               Julia Stoyanovich and
+               Fabian M. Suchanek},
+  title     = {The elephant in the room: getting value from Big Data},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {1-5},
+}
+
+@inproceedings{DBLP:conf/webdb/LiZ0XZZ15,
+  author    = {Zhixu Li and
+               Xiangliang Zhang and
+               Hai Huang and
+               Qing Xie and
+               Jia Zhu and
+               Xiaofang Zhou},
+  title     = {Addressing Instance Ambiguity in Web Harvesting},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {6-12},
+}
+
+@inproceedings{DBLP:conf/webdb/TalaikaBAS15,
+  author    = {Aliaksandr Talaika and
+               Joanna Biega and
+               Antoine Amarilli and
+               Fabian M. Suchanek},
+  title     = {IBEX: Harvesting Entities from the Web Using Unique Identifiers},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {13-19},
+}
+
+@inproceedings{DBLP:conf/webdb/DasLSKW15,
+  author    = {G. Sujatha Das and
+               Xiang Li and
+               Ang Sun and
+               Hakan Kardes and
+               Xin Wang},
+  title     = {{Person-Name} Parsing for Linking User Web Profiles},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {20-26},
+}
+
+@inproceedings{DBLP:conf/webdb/BaHSW15,
+  author    = {Mouhamadou Lamine Ba and
+               Roxana Horincar and
+               Pierre Senellart and
+               Huayu Wu},
+  title     = {Truth Finding with Attribute Partitioning},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {27-33},
+}
+
+@inproceedings{DBLP:conf/webdb/RazniewskiN15,
+  author    = {Simon Razniewski and
+               Werner Nutt},
+  title     = {Long-term Optimization of Update Frequencies for Decaying Information},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {34-40},
+}
+
+@inproceedings{DBLP:conf/webdb/StoyanovichJG15,
+  author    = {Julia Stoyanovich and
+               Marie Jacob and
+               Xuemei Gong},
+  title     = {Analyzing Crowd Rankings},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {41-47},
+}
+
+@inproceedings{DBLP:conf/webdb/Przyjaciel-Zablocki15,
+  author    = {Martin Przyjaciel-Zablocki and
+               Alexander Schätzle and
+               Georg Lausen},
+  title     = {TriAL-QL: Distributed Processing of Navigational Queries},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {48-54},
+}
+
+@inproceedings{DBLP:conf/webdb/OitaS15,
+  author    = {Marilena Oita and
+               Pierre Senellart},
+  title     = {FOREST: Focused Object Retrieval by Exploiting Significant Tag Paths},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {55-61},
+}
+
+@inproceedings{DBLP:conf/webdb/Movshovitz-Attias15,
+  author    = {Dana Movshovitz-Attias and
+               Steven Euijong Whang and
+               Natalya Fridman Noy and
+               Alon Y. Halevy},
+  title     = {Discovering Subsumption Relationships for {Web-Based} Ontologies},
+  booktitle = webdb,
+  year      = 2015,
+  pages     = {62-69},
+}
+
+@inproceedings{DBLP:conf/webdb/Doan13,
+  author    = {AnHai Doan},
+  title     = {Badger: Toward Crowdsourcing the Building of Structured Knowledge Bases},
+  booktitle = webdb,
+  year      = 2013,
+}
+
+@inproceedings{DBLP:conf/webdb/ChasseurLP13,
+  author    = {Craig Chasseur and
+               Yinan Li and
+               Jignesh M. Patel},
+  title     = {Enabling {JSON} Document Stores in Relational Systems},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {1-6},
+}
+
+@inproceedings{DBLP:conf/webdb/SherkhonovM13,
+  author    = {Evgeny Sherkhonov and
+               Maarten Marx},
+  title     = {Containment for Tree Patterns with Attribute Value Comparisons},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {7-12},
+}
+
+@inproceedings{DBLP:conf/webdb/BonevaCS13,
+  author    = {Iovka Boneva and
+               Radu Ciucanu and
+               Slawek Staworko},
+  title     = {Simple Schemas for Unordered {XML}},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {13-18},
+}
+
+@inproceedings{DBLP:conf/webdb/Barbosa13,
+  author    = {Luciano Barbosa},
+  title     = {Mining Enterprise Websites for Association Thesaurus Construction},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {19-24},
+}
+
+@inproceedings{DBLP:conf/webdb/PolychronopoulosADGP13,
+  author    = {Vassilis Polychronopoulos and
+               Luca de Alfaro and
+               James Davis and
+               Hector Garcia-Molina and
+               Neoklis Polyzotis},
+  title     = {{Human-Powered} Top-k Lists},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {25-30},
+}
+
+@inproceedings{DBLP:conf/webdb/AliL13,
+  author    = {Muneeb Ali and
+               Andrea S. LaPaugh},
+  title     = {Enabling {Author-Centric} Ranking of Web Content},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {31-36},
+}
+
+@inproceedings{DBLP:conf/webdb/AgarwalBKUZ13,
+  author    = {Sumit Agarwal and
+               Daniel Bellinger and
+               Oliver Kennedy and
+               Ankur Upadhyay and
+               Lukasz Ziarek},
+  title     = {Monadic Logs for Collaborative Web Applications},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {37-42},
+}
+
+@inproceedings{DBLP:conf/webdb/AbbassiLX13,
+  author    = {Zeinab Abbassi and
+               Laks V. S. Lakshmanan and
+               Min Xie},
+  title     = {Fair Recommendations for Online Barter Exchange Networks},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {43-48},
+}
+
+@inproceedings{DBLP:conf/webdb/AntenucciCLRS13,
+  author    = {Dolan Antenucci and
+               Michael J. Cafarella and
+               Margaret Levenstein and
+               Christopher Ré and
+               Matthew Shapiro},
+  title     = {Ringtail: Feature Selection For Easier Nowcasting},
+  booktitle = webdb,
+  year      = 2013,
+  pages     = {49-54},
+}
+
 @inproceedings{DBLP:conf/webdb/KashyapH12,
   author    = {Abhijith Kashyap and
                Vagelis Hristidis},
@@ -231,7 +663,7 @@
 }
 
 @inproceedings{DBLP:conf/webdb/Bizer10,
-  author    = {Chris Bizer},
+  author    = {Christian Bizer},
   title     = {Web of Linked Data - A global public data space on the Web},
   booktitle = webdb,
   year      = 2010,
@@ -741,7 +1173,7 @@
 }
 
 @inproceedings{DBLP:conf/webdb/GutierrezHV06,
-  author    = {Claudio Gutierrez and
+  author    = {Claudio Gutiérrez and
                Carlos A. Hurtado and
                Alejandro A. Vaisman},
   title     = {The Meaning of Erasing in {RDF} under the {Katsuno-Mendelzon} Approach},
@@ -1079,9 +1511,16 @@
   pages     = {154-156},
 }
 
+@inproceedings{DBLP:conf/webdb/Raghavan04,
+  author    = {Prabhakar Raghavan},
+  title     = {Text Centric Structure Extraction and Exploitation},
+  booktitle = webdb,
+  year      = 2004,
+}
+
 @inproceedings{DBLP:conf/webdb/FetterlyMN04,
   author    = {Dennis Fetterly and
-               Mark Manasse and
+               Mark S. Manasse and
                Marc Najork},
   title     = {Spam, Damn Spam, and Statistics: Using Statistical Analysis to Locate Spam Web Pages},
   booktitle = webdb,
@@ -1267,7 +1706,7 @@
   author    = {Oren Etzioni and
                Alon Y. Halevy and
                Henry M. Levy and
-               Luke McDowell},
+               Luke K. McDowell},
   title     = {Semantic Email: Adding Lightweight Data Manipulation Capabilities to the Email Habitat},
   booktitle = webdb,
   year      = 2003,
@@ -1938,7 +2377,7 @@
 
 @inproceedings{DBLP:conf/webdb/DoanDL00,
   author    = {AnHai Doan and
-               Pedro Domingos and
+               Pedro M. Domingos and
                Alon Y. Levy},
   title     = {Learning Source Description for Data Integration},
   booktitle = webdb,

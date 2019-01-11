@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 # Countries, alphabetically sorted by "name"
 # These are translated into @country definitions for CrossTeX
 COUNTRIES = [('USA', {'name': ''})
@@ -417,7 +419,7 @@ if __name__ == '__main__':
     f.write('\n% US Locations\n')
     for loc, attrs in US_LOCATIONS:
         newattrs = {}
-        for k, v in attrs.iteritems():
+        for k, v in attrs.items():
             if k == 'state':
                 newattrs[k] = v
             else:
@@ -432,7 +434,7 @@ if __name__ == '__main__':
     f.write('\n% International Locations\n@default country=""\n')
     for loc, attrs in INTL_LOCATIONS:
         newattrs = {}
-        for k, v in attrs.iteritems():
+        for k, v in attrs.items():
             if k == 'country':
                 newattrs[k] = v
             else:

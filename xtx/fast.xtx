@@ -1,5 +1,2183 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/fast/GunawiSSGSLESBM18,
+  author    = {Haryadi S. Gunawi and
+               Riza O. Suminto and
+               Russell Sears and
+               Casey Golliher and
+               Swaminathan Sundararaman and
+               Xing Lin and
+               Tim Emami and
+               Weiguang Sheng and
+               Nematollah Bidokhti and
+               Caitie McCaffrey and
+               Gary Grider and
+               Parks M. Fields and
+               Kevin Harms and
+               Robert B. Ross and
+               Andree Jacobson and
+               Robert Ricci and
+               Kirk Webb and
+               Peter Alvaro and
+               H. Birali Runesha and
+               Mingzhe Hao and
+               Huaicheng Li},
+  title     = {{Fail-Slow} at Scale: Evidence of Hardware Performance Faults in Large Production Systems},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/fast/AlagappanGLACAA18,
+  author    = {Ramnatthan Alagappan and
+               Aishwarya Ganesan and
+               Eric Lee and
+               Aws Albarghouthi and
+               Vijay Chidambaram and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {{Protocol-Aware} Recovery for {Consensus-Based} Storage},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {15-32},
+}
+
+@inproceedings{DBLP:conf/fast/KesavanKB18,
+  author    = {Ram Kesavan and
+               Harendra Kumar and
+               Sushrut Bhowmik},
+  title     = {{WAFL} Iron: Repairing Live Enterprise File Systems},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {33-48},
+}
+
+@inproceedings{DBLP:conf/fast/TavakkolGSGM18,
+  author    = {Arash Tavakkol and
+               Juan Gómez-Luna and
+               Mohammad Sadrosadati and
+               Saugata Ghose and
+               Onur Mutlu},
+  title     = {MQSim: A Framework for Enabling Realistic Studies of Modern {Multi-Queue} {SSD} Devices},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {49-66},
+}
+
+@inproceedings{DBLP:conf/fast/LiuKJK18,
+  author    = {Chun-Yi Liu and
+               Jagadish Kotra and
+               Myoungsoo Jung and
+               Mahmut T. Kandemir},
+  title     = {PEN: Design and Evaluation of {Partial-Erase} for 3D {NAND-Based} High Density {SSDs}},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {67-82},
+}
+
+@inproceedings{DBLP:conf/fast/LiHTSBG18,
+  author    = {Huaicheng Li and
+               Mingzhe Hao and
+               Michael Hao Tong and
+               Swaminathan Sundararaman and
+               Matias Bjørling and
+               Haryadi S. Gunawi},
+  title     = {The {CASE} of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {83-90},
+}
+
+@inproceedings{DBLP:conf/fast/SunFCLBG18,
+  author    = {Kuei Sun and
+               Daniel Fryer and
+               Joseph Chu and
+               Matthew Lakier and
+               Angela Demke Brown and
+               Ashvin Goel},
+  title     = {Spiffy: Enabling {File-System} Aware Storage Applications},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {91-104},
+}
+
+@inproceedings{DBLP:conf/fast/GatlaHZDMBGM18,
+  author    = {Om Rameshwar Gatla and
+               Muhammad Hameed and
+               Mai Zheng and
+               Viacheslav Dubeyko and
+               Adam Manzanares and
+               Filip Blagojevic and
+               Cyril Guyot and
+               Robert Mateescu},
+  title     = {Towards Robust File System Checkers},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {105-122},
+}
+
+@inproceedings{DBLP:conf/fast/ZhanCJKBFJJPY18,
+  author    = {Yang Zhan and
+               Alexander Conway and
+               Yizheng Jiao and
+               Eric Knorr and
+               Michael A. Bender and
+               Martin Farach-Colton and
+               William Jannen and
+               Rob Johnson and
+               Donald E. Porter and
+               Jun Yuan},
+  title     = {The Full Path to {Full-Path} Indexing},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {123-138},
+}
+
+@inproceedings{DBLP:conf/fast/VajhaRPKLSKBYNH18,
+  author    = {Myna Vajha and
+               Vinayak Ramkumar and
+               Bhagyashree Puranik and
+               Ganesh R. Kini and
+               Elita Lobo and
+               Birenjith Sasidharan and
+               P. Vijay Kumar and
+               Alexander Barg and
+               Min Ye and
+               Srinivasan Narayanamurthy and
+               Syed Hussain and
+               Siddhartha Nandi},
+  title     = {Clay Codes: Moulding {MDS} Codes to Yield an {MSR} Code},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {139-154},
+}
+
+@inproceedings{DBLP:conf/fast/XiaoLZXLLZL18,
+  author    = {He Xiao and
+               Zhenhua Li and
+               Ennan Zhai and
+               Tianyin Xu and
+               Yang Li and
+               Yunhao Liu and
+               Quanlu Zhang and
+               Yao Liu},
+  title     = {Towards Web-based Delta Synchronization for Cloud Storage Services},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {155-168},
+}
+
+@inproceedings{DBLP:conf/fast/Zuck0BPT18,
+  author    = {Aviad Zuck and
+               Yue Li and
+               Jehoshua Bruck and
+               Donald E. Porter and
+               Dan Tsafrir},
+  title     = {Stash in a Flash},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {169-188},
+}
+
+@inproceedings{DBLP:conf/fast/HwangKWN18,
+  author    = {Deukyeon Hwang and
+               Wook-Hee Kim and
+               Youjip Won and
+               Beomseok Nam},
+  title     = {Endurable Transient Inconsistency in {Byte-Addressable} Persistent B+-Tree},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {187-200},
+}
+
+@inproceedings{DBLP:conf/fast/YeonJLL18,
+  author    = {Jeseong Yeon and
+               Minseong Jeong and
+               Sungjin Lee and
+               Eunji Lee},
+  title     = {RFLUSH: Rethink the Flush},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {201-210},
+}
+
+@inproceedings{DBLP:conf/fast/WonJCOSHC18,
+  author    = {Youjip Won and
+               Jaemin Jung and
+               Gyeongyeol Choi and
+               Joontaek Oh and
+               Seongbae Son and
+               Joo Young Hwang and
+               Sangyeun Cho},
+  title     = {{Barrier-Enabled} {IO} Stack for Flash Storage},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {211-226},
+}
+
+@inproceedings{DBLP:conf/fast/SonKYH18,
+  author    = {Yongseok Son and
+               Sunggon Kim and
+               Heon Y. Yeom and
+               Hyuck Han},
+  title     = {{High-Performance} Transaction Processing in Journaling File Systems},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {227-240},
+}
+
+@inproceedings{DBLP:conf/fast/KannanAAWXP18,
+  author    = {Sudarsun Kannan and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Yuangang Wang and
+               Jun Xu and
+               Gopinath Palani},
+  title     = {Designing a True {Direct-Access} File System with {DevFS}},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {241-256},
+}
+
+@inproceedings{DBLP:conf/fast/RhoJSSHCLJ18,
+  author    = {Eunhee Rho and
+               Kanchan Joshi and
+               Seung-Uk Shin and
+               Nitesh Jagadeesh Shetty and
+               Joo Young Hwang and
+               Sangyeun Cho and
+               Daniel D. G. Lee and
+               Jaeheon Jeong},
+  title     = {FStream: Managing Flash Streams in the File System},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {257-264},
+}
+
+@inproceedings{DBLP:conf/fast/AnwarMTLRCZNWLH18,
+  author    = {Ali Anwar and
+               Mohamed Mohamed and
+               Vasily Tarasov and
+               Michael Littley and
+               Lukas Rupprecht and
+               Yue Cheng and
+               Nannan Zhao and
+               Dimitris Skourtis and
+               Amit Warke and
+               Heiko Ludwig and
+               Dean Hildebrand and
+               Ali Raza Butt},
+  title     = {Improving Docker Registry Design Based on Production Workload Analysis},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {265-278},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangHMYWZ18,
+  author    = {Guangyan Zhang and
+               Zican Huang and
+               Xiaosong Ma and
+               Songlin Yang and
+               Zhufan Wang and
+               Weimin Zheng},
+  title     = {RAID+: Deterministic and Balanced Data Distribution for Large Disk Enclosures},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {279-294},
+}
+
+@inproceedings{DBLP:conf/fast/GlassGKPS18,
+  author    = {Gideon Glass and
+               Arjun Gopalan and
+               Dattatraya Koujalagi and
+               Abhinand Palicherla and
+               Sumedh Sakdeo},
+  title     = {Logical Synchronous Replication in the Tintri {VMstore} File System},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {295-308},
+}
+
+@inproceedings{DBLP:conf/fast/CaoWWD18,
+  author    = {Zhichao Cao and
+               Hao Wen and
+               Fenggang Wu and
+               David H. C. Du},
+  title     = {ALACC: Accelerating Restore Performance of Data Deduplication Systems Using Adaptive {Look-Ahead} Window Assisted Chunk Caching},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {309-324},
+}
+
+@inproceedings{DBLP:conf/fast/XiaTLLW18,
+  author    = {Nai Xia and
+               Chen Tian and
+               Yan Luo and
+               Hang Liu and
+               Xiaoliang Wang},
+  title     = {UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling},
+  booktitle = fast,
+  year      = 2018,
+  pages     = {325-340},
+}
+
+@inproceedings{DBLP:conf/fast/Keeton17,
+  author    = {Kimberly Keeton},
+  title     = {{Memory-Driven} Computing},
+  booktitle = fast,
+  year      = 2017,
+}
+
+@inproceedings{DBLP:conf/fast/KesavanSGP17,
+  author    = {Ram Kesavan and
+               Rohit Singh and
+               Travis Grusecki and
+               Yuvraj Patel},
+  title     = {Algorithms and Data Structures for Efficient Free Space Reclamation in {WAFL}},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/fast/YanLHTSCG17,
+  author    = {Shiqin Yan and
+               Huaicheng Li and
+               Mingzhe Hao and
+               Michael Hao Tong and
+               Swaminathan Sundararaman and
+               Andrew A. Chien and
+               Haryadi S. Gunawi},
+  title     = {{Tiny-Tail} Flash: {Near-Perfect} Elimination of Garbage Collection Tail Latencies in {NAND} {SSDs}},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {15-28},
+}
+
+@inproceedings{DBLP:conf/fast/DouglisDSWYB17,
+  author    = {Fred Douglis and
+               Abhinav Duggal and
+               Philip Shilane and
+               Tony Wong and
+               Shiqin Yan and
+               Fabiano C. Botelho},
+  title     = {The Logic of Physical Garbage Collection in Deduplicating Storage},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {29-44},
+}
+
+@inproceedings{DBLP:conf/fast/ConwayBJJZYBJKP17,
+  author    = {Alexander Conway and
+               Ainesh Bakshi and
+               Yizheng Jiao and
+               William Jannen and
+               Yang Zhan and
+               Jun Yuan and
+               Michael A. Bender and
+               Rob Johnson and
+               Bradley C. Kuszmaul and
+               Donald E. Porter and
+               Martin Farach-Colton},
+  title     = {File Systems Fated for Senescence? Nonsense, Says Science!},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {45-58},
+}
+
+@inproceedings{DBLP:conf/fast/VangoorTZ17,
+  author    = {Bharath Kumar Reddy Vangoor and
+               Vasily Tarasov and
+               Erez Zadok},
+  title     = {To {FUSE} or Not to FUSE: Performance of {User-Space} File Systems},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {59-72},
+}
+
+@inproceedings{DBLP:conf/fast/DouCF17,
+  author    = {Xianzheng Dou and
+               Peter M. Chen and
+               Jason Flinn},
+  title     = {Knockoff: Cheap Versions in the Cloud},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {73-88},
+}
+
+@inproceedings{DBLP:conf/fast/NiaziIHDGR17,
+  author    = {Salman Niazi and
+               Mahmoud Ismail and
+               Seif Haridi and
+               Jim Dowling and
+               Steffen Grohsschmiedt and
+               Mikael Ronström},
+  title     = {HopsFS: Scaling Hierarchical File System Metadata Using {NewSQL} Databases},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {89-104},
+}
+
+@inproceedings{DBLP:conf/fast/AghayevTGD17,
+  author    = {Abutalib Aghayev and
+               Theodore Y. Ts'o and
+               Garth Gibson and
+               Peter Desnoyers},
+  title     = {Evolving Ext4 for Shingled Disks},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {105-120},
+}
+
+@inproceedings{DBLP:conf/fast/HeD17,
+  author    = {Weiping He and
+               David H. C. Du},
+  title     = {SMaRT: An Approach to Shingled Magnetic Recording Translation},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {121-134},
+}
+
+@inproceedings{DBLP:conf/fast/LiWZZD017,
+  author    = {Yin Li and
+               Hao Wang and
+               Xuebin Zhang and
+               Ning Zheng and
+               Shafa Dahandeh and
+               Tong Zhang},
+  title     = {Facilitating Magnetic Recording Technology Scaling for Data Center Hard Disk Drives through {Filesystem-Level} Transparent Local Erasure Coding},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {135-148},
+}
+
+@inproceedings{DBLP:conf/fast/GanesanAAA17,
+  author    = {Aishwarya Ganesan and
+               Ramnatthan Alagappan and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Redundancy Does Not Imply Fault Tolerance: Analysis of Distributed Storage Reactions to Single Errors and Corruptions},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {149-166},
+}
+
+@inproceedings{DBLP:conf/fast/BortnikovHKKMPP17,
+  author    = {Edward Bortnikov and
+               Eshcar Hillel and
+               Idit Keidar and
+               Ivan Kelly and
+               Matthieu Morel and
+               Sameer Paranjpye and
+               Francisco Perez-Sorrosal and
+               Ohad Shacham},
+  title     = {Omid, Reloaded: Scalable and {Highly-Available} Transaction Processing},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {167-180},
+}
+
+@inproceedings{DBLP:conf/fast/PillaiALCAA17,
+  author    = {Thanumalayan Sankaranarayana Pillai and
+               Ramnatthan Alagappan and
+               Lanyue Lu and
+               Vijay Chidambaram and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Application Crash Consistency and Performance with {CCFS}},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {181-196},
+}
+
+@inproceedings{DBLP:conf/fast/KumarPKM17,
+  author    = {Harendra Kumar and
+               Yuvraj Patel and
+               Ram Kesavan and
+               Sumith Makam},
+  title     = {High Performance Metadata Integrity Protection in the {WAFL} {Copy-on-Write} File System},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {197-212},
+}
+
+@inproceedings{DBLP:conf/fast/WiresW17,
+  author    = {Jake Wires and
+               Andrew Warfield},
+  title     = {Mirador: An Active Control Plane for Datacenter Storage},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {213-228},
+}
+
+@inproceedings{DBLP:conf/fast/LautenschlagerP17,
+  author    = {Florian Lautenschlager and
+               Michael Philippsen and
+               Andreas Kumlehn and
+               Josef Adersberger},
+  title     = {Chronix: Long Term Storage and Retrieval Technology for Anomaly Detection in Operational Data},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {229-242},
+}
+
+@inproceedings{DBLP:conf/fast/TinedoSZALMR17,
+  author    = {Raúl Gracia Tinedo and
+               Josep Sampé and
+               Edgar Zamora-Gómez and
+               Marc Sánchez Artigas and
+               Pedro García López and
+               Yosef Moatti and
+               Eran Rom},
+  title     = {Crystal: {Software-Defined} Storage for {Multi-Tenant} Object Stores},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {243-256},
+}
+
+@inproceedings{DBLP:conf/fast/LeeLSNN17,
+  author    = {Se Kwon Lee and
+               K. Hyun Lim and
+               Hyunsub Song and
+               Beomseok Nam and
+               Sam H. Noh},
+  title     = {WORT: Write Optimal Radix Tree for Persistent Memory Storage Systems},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {257-270},
+}
+
+@inproceedings{DBLP:conf/fast/KimSJK17,
+  author    = {Hyukjoong Kim and
+               Dongkun Shin and
+               Yunho Jeong and
+               Kyung Ho Kim},
+  title     = {SHRD: Improving Spatial Locality in Flash Storage Accesses by Sequentializing in Host and Randomizing in Device},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {271-284},
+}
+
+@inproceedings{DBLP:conf/fast/LiuH17,
+  author    = {Hang Liu and
+               H. Howie Huang},
+  title     = {Graphene: {Fine-Grained} {IO} Management for Graph Computing},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {285-300},
+}
+
+@inproceedings{DBLP:conf/fast/ChenHNSSZ17,
+  author    = {Ming Chen and
+               Dean Hildebrand and
+               Henry Nelson and
+               Jasmit Saluja and
+               Ashok Sankar Harihara Subramony and
+               Erez Zadok},
+  title     = {vNFS: Maximizing {NFS} Performance with Compounds and Vectorized I/O},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {301-314},
+}
+
+@inproceedings{DBLP:conf/fast/HaghdoostHFD17,
+  author    = {Alireza Haghdoost and
+               Weiping He and
+               Jerry Fredin and
+               David H. C. Du},
+  title     = {On the Accuracy and Scalability of Intensive I/O Workload Replay},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {315-328},
+}
+
+@inproceedings{DBLP:conf/fast/CaoTRHZ17,
+  author    = {Zhen Cao and
+               Vasily Tarasov and
+               Hari Prasath Raman and
+               Dean Hildebrand and
+               Erez Zadok},
+  title     = {On the Performance Variation in Modern Storage Stacks},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {329-344},
+}
+
+@inproceedings{DBLP:conf/fast/KimKLJ17,
+  author    = {Sangwook Kim and
+               Hwanju Kim and
+               Joonwon Lee and
+               Jinkyu Jeong},
+  title     = {Enlightening the I/O Path: A Holistic Approach for Application Performance},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {345-358},
+}
+
+@inproceedings{DBLP:conf/fast/BjorlingGB17,
+  author    = {Matias Bjørling and
+               Javier Gonzalez and
+               Philippe Bonnet},
+  title     = {LightNVM: The Linux {Open-Channel} {SSD} Subsystem},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {359-374},
+}
+
+@inproceedings{DBLP:conf/fast/HuangBCNSSQ17,
+  author    = {Jian Huang and
+               Anirudh Badam and
+               Laura Caulfield and
+               Suman Nath and
+               Sudipta Sengupta and
+               Bikash Sharma and
+               Moinuddin K. Qureshi},
+  title     = {FlashBlox: Achieving Both Performance Isolation and Uniform Lifetime for Virtualized {SSDs}},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {375-390},
+}
+
+@inproceedings{DBLP:conf/fast/ShenCJS17,
+  author    = {Zhaoyan Shen and
+               Feng Chen and
+               Yichen Jia and
+               Zili Shao},
+  title     = {DIDACache: A Deep Integration of Device and Application for Flash Based {Key-Value} Caching},
+  booktitle = fast,
+  year      = 2017,
+  pages     = {391-405},
+}
+
+@inproceedings{DBLP:conf/fast/YuanZJPACDKWBFJ16,
+  author    = {Jun Yuan and
+               Yang Zhan and
+               William Jannen and
+               Prashant Pandey and
+               Amogh Akshintala and
+               Kanchan Chandnani and
+               Pooja Deo and
+               Zardosht Kasheff and
+               Leif Walsh and
+               Michael A. Bender and
+               Martin Farach-Colton and
+               Rob Johnson and
+               Bradley C. Kuszmaul and
+               Donald E. Porter},
+  title     = {Optimizing Every Operation in a Write-optimized File System},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangCW16,
+  author    = {Shuanglong Zhang and
+               Helen Catanese and
+               An-I Andy Wang},
+  title     = {The Composite-file File System: Decoupling the {One-to-One} Mapping of Files and Metadata for Better Performance},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {15-22},
+}
+
+@inproceedings{DBLP:conf/fast/ShinBMW16,
+  author    = {Ji-Yong Shin and
+               Mahesh Balakrishnan and
+               Tudor Marian and
+               Hakim Weatherspoon},
+  title     = {Isotope: Transactional Isolation for Block Storage},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {23-37},
+}
+
+@inproceedings{DBLP:conf/fast/AndersenC16,
+  author    = {Michael P. Andersen and
+               David E. Culler},
+  title     = {BTrDB: Optimizing Storage System Design for Timeseries Processing},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {39-52},
+}
+
+@inproceedings{DBLP:conf/fast/ManousakisSMNB16,
+  author    = {Ioannis Manousakis and
+               Sriram Sankar and
+               Gregg McKnight and
+               Thu D. Nguyen and
+               Ricardo Bianchini},
+  title     = {Environmental Conditions and Disk Reliability in Free-cooled Datacenters},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {53-65},
+}
+
+@inproceedings{DBLP:conf/fast/SchroederLM16,
+  author    = {Bianca Schroeder and
+               Raghav Lagisetty and
+               Arif Merchant},
+  title     = {Flash Reliability in Production: The Expected and the Unexpected},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {67-80},
+}
+
+@inproceedings{DBLP:conf/fast/Pamies-JuarezBM16,
+  author    = {Lluis Pamies-Juarez and
+               Filip Blagojevic and
+               Robert Mateescu and
+               Cyril Guyot and
+               Eyal En Gad and
+               Zvonimir Bandic},
+  title     = {Opening the Chrysalis: On the Real Repair Performance of {MSR} Codes},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {81-94},
+}
+
+@inproceedings{DBLP:conf/fast/MargagliaYYLSB16,
+  author    = {Fabio Margaglia and
+               Gala Yadgar and
+               Eitan Yaakobi and
+               Yue Li and
+               Assaf Schuster and
+               André Brinkmann},
+  title     = {The Devil Is in the Details: Implementing Flash Page Reuse with {WOM} Codes},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {95-109},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangLWZ016,
+  author    = {Xuebin Zhang and
+               Jiangpeng Li and
+               Hao Wang and
+               Kai Zhao and
+               Tong Zhang},
+  title     = {Reducing {Solid-State} Storage Device Write Stress through Opportunistic In-place Delta Compression},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {111-124},
+}
+
+@inproceedings{DBLP:conf/fast/LiSXWJZS16,
+  author    = {Qiao Li and
+               Liang Shi and
+               Chun Jason Xue and
+               Kaijie Wu and
+               Cheng Ji and
+               Qingfeng Zhuge and
+               Edwin Hsing-Mean Sha},
+  title     = {Access Characteristic Guided Read and Write Cost Regulation for Performance Improvement on Flash Memory},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {125-132},
+}
+
+@inproceedings{DBLP:conf/fast/LuPAA16,
+  author    = {Lanyue Lu and
+               Thanumalayan Sankaranarayana Pillai and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {WiscKey: Separating Keys from Values in {SSD-conscious} Storage},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {133-148},
+}
+
+@inproceedings{DBLP:conf/fast/LimAK16,
+  author    = {Hyeontaek Lim and
+               David G. Andersen and
+               Michael Kaminsky},
+  title     = {Towards Accurate and Fast Evaluation of {Multi-Stage} Log-structured Designs},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {149-166},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangDC16,
+  author    = {Heng Zhang and
+               Mingkai Dong and
+               Haibo Chen},
+  title     = {Efficient and Available In-memory {KV-Store} with Hybrid Erasure Coding and Replication},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {167-180},
+}
+
+@inproceedings{DBLP:conf/fast/HarterSLAA16,
+  author    = {Tyler Harter and
+               Brandon Salmon and
+               Rose Liu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Slacker: Fast Distribution with Lazy Docker Containers},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {181-195},
+}
+
+@inproceedings{DBLP:conf/fast/StefanoviciSOT16,
+  author    = {Ioan A. Stefanovici and
+               Bianca Schroeder and
+               Greg O'Shea and
+               Eno Thereska},
+  title     = {sRoute: Treating the Storage Stack Like a Network},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {197-212},
+}
+
+@inproceedings{DBLP:conf/fast/LegtchenkoLRDB16,
+  author    = {Sergey Legtchenko and
+               Xiaozhou Li and
+               Antony I. T. Rowstron and
+               Austin Donnelly and
+               Richard Black},
+  title     = {Flamingo: Enabling Evolvable {HDD-based} {Near-Line} Storage},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {213-226},
+}
+
+@inproceedings{DBLP:conf/fast/KhatibB16,
+  author    = {Mohammed G. Khatib and
+               Zvonimir Bandic},
+  title     = {PCAP: Performance-aware Power Capping for the Disk Drive in the Cloud},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {227-240},
+}
+
+@inproceedings{DBLP:conf/fast/ChenLXC16,
+  author    = {Qingshu Chen and
+               Liang Liang and
+               Yubin Xia and
+               Haibo Chen},
+  title     = {Mitigating Sync Amplification for Copy-on-write Virtual Disk},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {241-247},
+}
+
+@inproceedings{DBLP:conf/fast/DeligiannisMTCD16,
+  author    = {Pantazis Deligiannis and
+               Matt McCutchen and
+               Paul Thomson and
+               Shuo Chen and
+               Alastair F. Donaldson and
+               John Erickson and
+               Cheng Huang and
+               Akash Lal and
+               Rashmi Mudduluru and
+               Shaz Qadeer and
+               Wolfram Schulte},
+  title     = {Uncovering Bugs in Distributed Storage Systems during Testing (Not in Production!)},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {249-262},
+}
+
+@inproceedings{DBLP:conf/fast/HaoSKCG16,
+  author    = {Mingzhe Hao and
+               Gokul Soundararajan and
+               Deepak R. Kenchammana-Hosekote and
+               Andrew A. Chien and
+               Haryadi S. Gunawi},
+  title     = {The Tail at Store: A Revelation from Millions of Hours of Disk and {SSD} Deployments},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {263-276},
+}
+
+@inproceedings{DBLP:conf/fast/HarnikKS16,
+  author    = {Danny Harnik and
+               Ety Khaitzin and
+               Dmitry Sotnikov},
+  title     = {Estimating Unseen Deduplication - from Theory to Practice},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {277-290},
+}
+
+@inproceedings{DBLP:conf/fast/ChenS16,
+  author    = {Zhuan Chen and
+               Kai Shen},
+  title     = {OrderMergeDedup: Efficient, {Failure-Consistent} Deduplication on Flash},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {291-299},
+}
+
+@inproceedings{DBLP:conf/fast/LiJRNZZ16,
+  author    = {Wenji Li and
+               Gregory Jean-Baptise and
+               Juan Riveros and
+               Giri Narasimhan and
+               Tony Zhang and
+               Ming Zhao},
+  title     = {CacheDedup: In-line Deduplication for Flash Caching},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {301-314},
+}
+
+@inproceedings{DBLP:conf/fast/MandalKOSSZTZ16,
+  author    = {Sonam Mandal and
+               Geoff Kuenning and
+               Dongju Ok and
+               Varun Shastry and
+               Philip Shilane and
+               Sun Zhen and
+               Vasily Tarasov and
+               Erez Zadok},
+  title     = {Using Hints to Improve Inline Block-layer Deduplication},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {315-322},
+}
+
+@inproceedings{DBLP:conf/fast/XuS16,
+  author    = {Jian Xu and
+               Steven Swanson},
+  title     = {NOVA: A Log-structured File System for Hybrid Volatile/Non-volatile Main Memories},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {323-338},
+}
+
+@inproceedings{DBLP:conf/fast/LeeLJXKA16,
+  author    = {Sungjin Lee and
+               Ming Liu and
+               Sang Woo Jun and
+               Shuotao Xu and
+               Jihong Kim and
+               Arvind},
+  title     = {{Application-Managed} Flash},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {339-353},
+}
+
+@inproceedings{DBLP:conf/fast/ArteagaCXS016,
+  author    = {Dulcardo Arteaga and
+               Jorge Cabrera and
+               Jing Xu and
+               Swaminathan Sundararaman and
+               Ming Zhao},
+  title     = {CloudCache: On-demand Flash Cache Management for Cloud Computing},
+  booktitle = fast,
+  year      = 2016,
+  pages     = {355-369},
+}
+
+@inproceedings{DBLP:conf/fast/ThomsonA15,
+  author    = {Alexander Thomson and
+               Daniel J. Abadi},
+  title     = {CalvinFS: Consistent {WAN} Replication and Scalable Metadata Management for Distributed File Systems},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {1-14},
+}
+
+@inproceedings{DBLP:conf/fast/GrawinkelNMPBS15,
+  author    = {Matthias Grawinkel and
+               Lars Nagel and
+               Markus Mäsker and
+               Federico Padua and
+               André Brinkmann and
+               Lennart Sorth},
+  title     = {Analysis of the {ECMWF} Storage Landscape},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {15-27},
+}
+
+@inproceedings{DBLP:conf/fast/MalkaAT15,
+  author    = {Moshe Malka and
+               Nadav Amit and
+               Dan Tsafrir},
+  title     = {Efficient {Intra-Operating} System Protection Against Harmful {DMAs}},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {29-44},
+}
+
+@inproceedings{DBLP:conf/fast/ZhengMBVPS15,
+  author    = {Da Zheng and
+               Disa Mhembere and
+               Randal C. Burns and
+               Joshua T. Vogelstein and
+               Carey E. Priebe and
+               Alexander S. Szalay},
+  title     = {FlashGraph: Processing {Billion-Node} Graphs on an Array of Commodity {SSDs}},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {45-58},
+}
+
+@inproceedings{DBLP:conf/fast/Hatzieleftheriou15,
+  author    = {Andromachi Hatzieleftheriou and
+               Stergios V. Anastasiadis},
+  title     = {Host-side Filesystem Journaling for Durable Shared Storage},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {59-66},
+}
+
+@inproceedings{DBLP:conf/fast/KimAVS15,
+  author    = {Youngjae Kim and
+               Scott Atchley and
+               Geoffroy Vallée and
+               Galen M. Shipman},
+  title     = {LADS: Optimizing Data Transfers Using {Layout-Aware} Data Scheduling},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {67-80},
+}
+
+@inproceedings{DBLP:conf/fast/RashmiNWSR15,
+  author    = {K. V. Rashmi and
+               Preetum Nakkiran and
+               Jingyan Wang and
+               Nihar B. Shah and
+               Kannan Ramchandran},
+  title     = {Having Your Cake and Eating It Too: Jointly Optimal Erasure Codes for I/O, Storage, and Network-bandwidth},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {81-94},
+}
+
+@inproceedings{DBLP:conf/fast/WaldspurgerPGA15,
+  author    = {Carl A. Waldspurger and
+               Nohhyun Park and
+               Alexander T. Garthwaite and
+               Irfan Ahmad},
+  title     = {Efficient {MRC} Construction with {SHARDS}},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {95-110},
+}
+
+@inproceedings{DBLP:conf/fast/WeissSSTAA15,
+  author    = {Zev Weiss and
+               Sriram Subramanian and
+               Swaminathan Sundararaman and
+               Nisha Talagala and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {ANViL: Advanced Virtualization for Modern {Non-Volatile} Memory Devices},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {111-118},
+}
+
+@inproceedings{DBLP:conf/fast/HeNAA15,
+  author    = {Jun He and
+               Duy Nguyen and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Reducing File System Tail Latencies with Chopper},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {119-133},
+}
+
+@inproceedings{DBLP:conf/fast/AghayevD15,
+  author    = {Abutalib Aghayev and
+               Peter Desnoyers},
+  title     = {{Skylight-A} Window on Shingled Disk Operation},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {135-149},
+}
+
+@inproceedings{DBLP:conf/fast/CampelloLKRU15,
+  author    = {Daniel Campello and
+               Hector López and
+               Ricardo Koller and
+               Raju Rangaswami and
+               Luis Useche},
+  title     = {Non-blocking Writes to Files},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {151-165},
+}
+
+@inproceedings{DBLP:conf/fast/YangWCWYH15,
+  author    = {Jun Yang and
+               Qingsong Wei and
+               Cheng Chen and
+               Chundong Wang and
+               Khai Leong Yong and
+               Bingsheng He},
+  title     = {NV-Tree: Reducing Consistency Cost for {NVM-based} Single Level Systems},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {167-181},
+}
+
+@inproceedings{DBLP:conf/fast/KimLN15,
+  author    = {Jaeho Kim and
+               Donghee Lee and
+               Sam H. Noh},
+  title     = {Towards {SLO} Complying {SSDs} Through {OPS} Isolation},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {183-189},
+}
+
+@inproceedings{DBLP:conf/fast/JeongLK15,
+  author    = {Daeho Jeong and
+               Youngjae Lee and
+               Jin-Soo Kim},
+  title     = {Boosting {Quasi-Asynchronous} I/O for Better Responsiveness in Mobile Devices},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {191-202},
+}
+
+@inproceedings{DBLP:conf/fast/VermaMPMKM15,
+  author    = {Rajat Verma and
+               Anton Ajay Mendez and
+               Stan Park and
+               Sandya S. Mannarswamy and
+               Terence Kelly and
+               Charles B. Morrey III},
+  title     = {{Failure-Atomic} Updates of Application Data in a Linux File System},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {203-211},
+}
+
+@inproceedings{DBLP:conf/fast/XiaSBP15,
+  author    = {Mingyuan Xia and
+               Mohit Saxena and
+               Mario Blaum and
+               David Pease},
+  title     = {A Tale of Two Erasure Codes in {HDFS}},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {213-226},
+}
+
+@inproceedings{DBLP:conf/fast/LiZZMZ015,
+  author    = {Jiangpeng Li and
+               Kai Zhao and
+               Xuebin Zhang and
+               Jun Ma and
+               Ming Zhao and
+               Tong Zhang},
+  title     = {How Much Can Data Compressibility Help to Improve {NAND} Flash Memory Lifetime?},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {227-240},
+}
+
+@inproceedings{DBLP:conf/fast/MaDLSCH15,
+  author    = {Ao Ma and
+               Fred Douglis and
+               Guanlin Lu and
+               Darren Sawyer and
+               Surendar Chandra and
+               Windsor W. Hsu},
+  title     = {RAIDShield: Characterizing, Monitoring, and Proactively Protecting Against Disk Failures},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {241-256},
+}
+
+@inproceedings{DBLP:conf/fast/YadgarYS15,
+  author    = {Gala Yadgar and
+               Eitan Yaakobi and
+               Assaf Schuster},
+  title     = {Write Once, Get 50% Free: Saving {SSD} Erase Costs Using {WOM} Codes},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {257-271},
+}
+
+@inproceedings{DBLP:conf/fast/LeeSHC15,
+  author    = {Changman Lee and
+               Dongho Sim and
+               Joo Young Hwang and
+               Sangyeun Cho},
+  title     = {F2FS: A New File System for Flash Storage},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {273-286},
+}
+
+@inproceedings{DBLP:conf/fast/BhagwatPOVJK15,
+  author    = {Deepavali Bhagwat and
+               Mahesh Patil and
+               Michal Ostrowski and
+               Murali Vilayannur and
+               Woon Jung and
+               Chethan Kumar},
+  title     = {A Practical Implementation of Clustered Fault Tolerant Write Acceleration in a Virtualized Environment},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {287-300},
+}
+
+@inproceedings{DBLP:conf/fast/JannenYZAEJMPRW15,
+  author    = {William Jannen and
+               Jun Yuan and
+               Yang Zhan and
+               Amogh Akshintala and
+               John Esmet and
+               Yizheng Jiao and
+               Ankur Mittal and
+               Prashant Pandey and
+               Phaneendra Reddy and
+               Leif Walsh and
+               Michael A. Bender and
+               Martin Farach-Colton and
+               Rob Johnson and
+               Bradley C. Kuszmaul and
+               Donald E. Porter},
+  title     = {BetrFS: A {Right-Optimized} {Write-Optimized} File System},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {301-315},
+}
+
+@inproceedings{DBLP:conf/fast/TinedoHNSTZ15,
+  author    = {Raúl Gracia Tinedo and
+               Danny Harnik and
+               Dalit Naor and
+               Dmitry Sotnikov and
+               Sivan Toledo and
+               Aviad Zuck},
+  title     = {SDGen: Mimicking Datasets for Content Generation in Storage Benchmarks},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {317-330},
+}
+
+@inproceedings{DBLP:conf/fast/FuFHHCXZT15,
+  author    = {Min Fu and
+               Dan Feng and
+               Yu Hua and
+               Xubin He and
+               Zuoning Chen and
+               Wen Xia and
+               Yucheng Zhang and
+               Yujuan Tan},
+  title     = {Design Tradeoffs for Data Deduplication Performance in Backup Workloads},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {331-344},
+}
+
+@inproceedings{DBLP:conf/fast/KangarlouSS15,
+  author    = {Ardalan Kangarlou and
+               Sandip Shete and
+               John D. Strunk},
+  title     = {Chronicle: Capture and Analysis of {NFS} Workloads at Line Rate},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {345-358},
+}
+
+@inproceedings{DBLP:conf/fast/GoAAU15,
+  author    = {Younghwan Go and
+               Nitin Agrawal and
+               Akshat Aranya and
+               Cristian Ungureanu},
+  title     = {Reliable, Consistent, and Efficient Data Sync for Mobile Apps},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {359-372},
+}
+
+@inproceedings{DBLP:conf/fast/TangHLKL15,
+  author    = {Linpeng Tang and
+               Qi Huang and
+               Wyatt Lloyd and
+               Sanjeev Kumar and
+               Kai Li},
+  title     = {RIPQ: Advanced Photo Caching on Flash for Facebook},
+  booktitle = fast,
+  year      = 2015,
+  pages     = {373-386},
+}
+
+@inproceedings{DBLP:conf/fast/RumbleKO14,
+  author    = {Stephen M. Rumble and
+               Ankita Kejriwal and
+               John K. Ousterhout},
+  title     = {Log-structured memory for {DRAM-based} storage},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/fast/CullyWMJFDSLFW14,
+  author    = {Brendan Cully and
+               Jake Wires and
+               Dutch T. Meyer and
+               Kevin Jamieson and
+               Keir Fraser and
+               Tim Deegan and
+               Daniel Stodden and
+               Geoffrey Lefebvre and
+               Daniel Ferstay and
+               Andrew Warfield},
+  title     = {Strata: scalable high-performance storage on virtualized non-volatile memory},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {17-31},
+}
+
+@inproceedings{DBLP:conf/fast/KimSDC14,
+  author    = {Hyojun Kim and
+               Sangeetha Seshadri and
+               Clement L. Dickey and
+               Lawrence Chiu},
+  title     = {Evaluating phase change memory for enterprise storage systems: a study of caching and tiering approaches},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {33-45},
+}
+
+@inproceedings{DBLP:conf/fast/JimenezNI14,
+  author    = {Xavier Jimenez and
+               David Novo and
+               Paolo Ienne},
+  title     = {Wear unleveling: improving {NAND} flash lifetime by balancing page endurance},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {47-59},
+}
+
+@inproceedings{DBLP:conf/fast/JeongHLK14,
+  author    = {Jaeyong Jeong and
+               Sangwook Shane Hahn and
+               Sungjin Lee and
+               Jihong Kim},
+  title     = {Lifetime improvement of {NAND} flash-based storage systems using dynamic program and erase scaling},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {61-74},
+}
+
+@inproceedings{DBLP:conf/fast/LuSW14,
+  author    = {Youyou Lu and
+               Jiwu Shu and
+               Wei Wang},
+  title     = {ReconFS: a reconstructable file system on flash storage},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {75-88},
+}
+
+@inproceedings{DBLP:conf/fast/MazurekLMSBGGR14,
+  author    = {Michelle L. Mazurek and
+               Yuan Liang and
+               William Melicher and
+               Manya Sleeper and
+               Lujo Bauer and
+               Gregory R. Ganger and
+               Nitin Gupta and
+               Michael K. Reiter},
+  title     = {Toward strong, usable access control for shared distributed data},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {89-103},
+}
+
+@inproceedings{DBLP:conf/fast/LiBCSWZ14,
+  author    = {Jing Li and
+               Anirudh Badam and
+               Ranveer Chandra and
+               Steven Swanson and
+               Bruce L. Worthington and
+               Qi Zhang},
+  title     = {On the energy overhead of mobile storage systems},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {105-118},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangDAA14,
+  author    = {Yupu Zhang and
+               Chris Dragga and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {ViewBox: integrating local file systems with cloud storage services},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {119-132},
+}
+
+@inproceedings{DBLP:conf/fast/MirandaC14,
+  author    = {A. Miranda and
+               T. Cortes},
+  title     = {CRAID: online {RAID} upgrades using dynamic hot data reorganization},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {133-146},
+}
+
+@inproceedings{DBLP:conf/fast/LiL14,
+  author    = {Mingqiang Li and
+               Patrick P. C. Lee},
+  title     = {{STAIR} codes: a general family of erasure codes for tolerating device and sector failures in practical storage systems},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {147-162},
+}
+
+@inproceedings{DBLP:conf/fast/ChanDLC14,
+  author    = {Jeremy C. W. Chan and
+               Qian Ding and
+               Patrick P. C. Lee and
+               Helen H. W. Chan},
+  title     = {Parity logging with reserved space: towards efficient updates and recovery in erasure-coded clustered storage},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {163-176},
+}
+
+@inproceedings{DBLP:conf/fast/BirkeBCSE14,
+  author    = {Robert Birke and
+               Mathias Björkqvist and
+               Lydia Y. Chen and
+               Evgenia Smirni and
+               Ton Engbersen},
+  title     = {(Big)data in a virtualized world: volume, velocity, and variety in cloud datacenters},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {177-189},
+}
+
+@inproceedings{DBLP:conf/fast/JohnsonKMSVBBCCDEKMMNOSSSTTZ14,
+  author    = {Charles Johnson and
+               Kimberly Keeton and
+               Charles B. Morrey III and
+               Craig A. N. Soules and
+               Alistair C. Veitch and
+               Stephen Bacon and
+               Oskar Batuner and
+               Marcelo Condotta and
+               Hamilton Coutinho and
+               Patrick J. Doyle and
+               Rafael Eichelberger and
+               Hugo Kiehl and
+               Guilherme R. Magalhaes and
+               James McEvoy and
+               Padmanabhan Nagarajan and
+               Patrick Osborne and
+               Joaquim Souza and
+               Andy Sparkes and
+               Mike Spitzer and
+               Sébastien Tandel and
+               Lincoln Thomas and
+               Sebastian Zangaro},
+  title     = {From research to practice: experiences engineering a production metadata database for a scale out file system},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {191-198},
+}
+
+@inproceedings{DBLP:conf/fast/HarterBDATAA14,
+  author    = {Tyler Harter and
+               Dhruba Borthakur and
+               Siying Dong and
+               Amitanand S. Aiyer and
+               Liyin Tang and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Analysis of {HDFS} under HBase: a facebook messages case study},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {199-212},
+}
+
+@inproceedings{DBLP:conf/fast/LiuGMV14,
+  author    = {Yang Liu and
+               Raghul Gunasekaran and
+               Xiaosong Ma and
+               Sudharshan S. Vazhkudai},
+  title     = {Automatic identification of application I/O signatures from noisy server-side traces},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {213-228},
+}
+
+@inproceedings{DBLP:conf/fast/WangV14,
+  author    = {Hui Wang and
+               Peter J. Varman},
+  title     = {Balancing fairness and efficiency in tiered storage systems with bottleneck-aware allocation},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {229-242},
+}
+
+@inproceedings{DBLP:conf/fast/XuCKTGKG14,
+  author    = {Lianghong Xu and
+               James Cipar and
+               Elie Krevat and
+               Alexey Tumanov and
+               Nitin Gupta and
+               Michael A. Kozuch and
+               Gregory R. Ganger},
+  title     = {SpringFS: bridging agility and performance in elastic distributed storage},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {243-255},
+}
+
+@inproceedings{DBLP:conf/fast/LinLDSW14,
+  author    = {Xing Lin and
+               Guanlin Lu and
+               Fred Douglis and
+               Philip Shilane and
+               Grant Wallace},
+  title     = {Migratory compression: coarse-grained data reordering to improve compressibility},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {257-271},
+}
+
+@inproceedings{DBLP:conf/fast/KimNPW14,
+  author    = {Wook-Hee Kim and
+               Beomseok Nam and
+               Dongil Park and
+               Youjip Won},
+  title     = {Resolving journaling of journal anomaly in android I/O: multi-version B-tree with lazy split},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {273-285},
+}
+
+@inproceedings{DBLP:conf/fast/ShenPZ14,
+  author    = {Kai Shen and
+               Stan Park and
+               Meng Zhu},
+  title     = {Journaling of journal is (almost) free},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {287-293},
+}
+
+@inproceedings{DBLP:conf/fast/FryerQSLBG14,
+  author    = {Daniel Fryer and
+               Dai Qin and
+               Jack Sun and
+               Kah Wai Lee and
+               Angela Demke Brown and
+               Ashvin Goel},
+  title     = {Checking the integrity of transactional mechanisms},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {295-308},
+}
+
+@inproceedings{DBLP:conf/fast/VucinicWGMBFMBXSB14,
+  author    = {Dejan Vucinic and
+               Qingbo Wang and
+               Cyril Guyot and
+               Robert Mateescu and
+               Filip Blagojevic and
+               Luiz Franca-Neto and
+               Damien Le Moal and
+               Trevor Bunker and
+               Jian Xu and
+               Steven Swanson and
+               Zvonimir Bandic},
+  title     = {{DC} express: shortest latency protocol for reading phase change memory over {PCI} express},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {309-315},
+}
+
+@inproceedings{DBLP:conf/fast/KangZWHH14,
+  author    = {Junbin Kang and
+               Benlong Zhang and
+               Tianyu Wo and
+               Chunming Hu and
+               Jinpeng Huai},
+  title     = {MultiLanes: providing virtualized storage for {OS-level} virtualization on many cores},
+  booktitle = fast,
+  year      = 2014,
+  pages     = {317-329},
+}
+
+@inproceedings{DBLP:conf/fast/MaDAA13,
+  author    = {Ao Ma and
+               Chris Dragga and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Ffsck: the fast file system checker},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/fast/ShettySMASZ13,
+  author    = {Pradeep Shetty and
+               Richard P. Spillane and
+               Ravikant Malpani and
+               Binesh Andrews and
+               Justin Seyster and
+               Erez Zadok},
+  title     = {Building workload-independent storage with {VT-trees}},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {17-30},
+}
+
+@inproceedings{DBLP:conf/fast/LuAAL13,
+  author    = {Lanyue Lu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau and
+               Shan Lu},
+  title     = {A study of Linux file system evolution},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {31-44},
+}
+
+@inproceedings{DBLP:conf/fast/KollerMRSTZ13,
+  author    = {Ricardo Koller and
+               Leonardo Mármol and
+               Raju Rangaswami and
+               Swaminathan Sundararaman and
+               Nisha Talagala and
+               Ming Zhao},
+  title     = {Write policies for host-side flash caches},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {45-58},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangSSBSAA13,
+  author    = {Yiying Zhang and
+               Gokul Soundararajan and
+               Mark W. Storer and
+               Lakshmi N. Bairavasundaram and
+               Sethuraman Subbiah and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Warming up storage-level caches with bonfire},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {59-72},
+}
+
+@inproceedings{DBLP:conf/fast/LeeBN13,
+  author    = {Eunji Lee and
+               Hyokyung Bahn and
+               Sam H. Noh},
+  title     = {Unioning of the buffer cache and journaling layers with non-volatile memory},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {73-80},
+}
+
+@inproceedings{DBLP:conf/fast/BotelhoSGH13,
+  author    = {Fabiano C. Botelho and
+               Philip Shilane and
+               Nitin Garg and
+               Windsor Hsu},
+  title     = {Memory efficient sanitization of a deduplicated storage system},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {81-94},
+}
+
+@inproceedings{DBLP:conf/fast/PlankBH13,
+  author    = {James S. Plank and
+               Mario Blaum and
+               James L. Hafner},
+  title     = {{SD} codes: erasure codes designed for how storage systems really fail},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {95-104},
+}
+
+@inproceedings{DBLP:conf/fast/DoHLGAA13,
+  author    = {Thanh Do and
+               Tyler Harter and
+               Yingchao Liu and
+               Haryadi S. Gunawi and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {HARDFS: hardening {HDFS} with selective and lightweight versioning},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {105-118},
+}
+
+@inproceedings{DBLP:conf/fast/TiwariBVKMDS13,
+  author    = {Devesh Tiwari and
+               Simona Boboila and
+               Sudharshan S. Vazhkudai and
+               Youngjae Kim and
+               Xiaosong Ma and
+               Peter Desnoyers and
+               Yan Solihin},
+  title     = {Active flash: towards energy-efficient, in-situ data analytics on extreme-scale machines},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {119-132},
+}
+
+@inproceedings{DBLP:conf/fast/MihailescuSA13,
+  author    = {Madalin Mihailescu and
+               Gokul Soundararajan and
+               Cristiana Amza},
+  title     = {MixApart: decoupled analytics for shared storage systems},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {133-146},
+}
+
+@inproceedings{DBLP:conf/fast/LiDOKML13,
+  author    = {Yan Li and
+               Nakul Sanjay Dhotre and
+               Yasuhiro Ohara and
+               Thomas M. Kroeger and
+               Ethan L. Miller and
+               Darrell D. E. Long},
+  title     = {Horus: fine-grained encryption-based security for large-scale storage},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {147-160},
+}
+
+@inproceedings{DBLP:conf/fast/StrzelczakAHSSWD13,
+  author    = {Przemyslaw Strzelczak and
+               Elzbieta Adamczyk and
+               Urszula Herman-Izycka and
+               Jakub Sakowicz and
+               Lukasz Slusarczyk and
+               Jaroslaw Wrona and
+               Cezary Dubnicki},
+  title     = {Concurrent deletion in a distributed content-addressable storage system with global deduplication},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {161-174},
+}
+
+@inproceedings{DBLP:conf/fast/MeisterBS13,
+  author    = {Dirk Meister and
+               André Brinkmann and
+               Tim Süß},
+  title     = {File recipe compression in data deduplication systems},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {175-182},
+}
+
+@inproceedings{DBLP:conf/fast/LillibridgeEB13,
+  author    = {Mark Lillibridge and
+               Kave Eshghi and
+               Deepavali Bhagwat},
+  title     = {Improving restore speed for backup systems that use inline chunk-based deduplication},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {183-198},
+}
+
+@inproceedings{DBLP:conf/fast/LorchPM0S13,
+  author    = {Jacob R. Lorch and
+               Bryan Parno and
+               James W. Mickens and
+               Mariana Raykova and
+               Joshua Schiffman},
+  title     = {Shroud: ensuring private access to large-scale data in the data center},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {199-214},
+}
+
+@inproceedings{DBLP:conf/fast/SaxenaZSAA13,
+  author    = {Mohit Saxena and
+               Yiying Zhang and
+               Michael M. Swift and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Getting real: lessons in transitioning research simulations into hardware systems},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {215-228},
+}
+
+@inproceedings{DBLP:conf/fast/HarnikKMST13,
+  author    = {Danny Harnik and
+               Ronen I. Kat and
+               Oded Margalit and
+               Dmitry Sotnikov and
+               Avishay Traeger},
+  title     = {To Zip or not to Zip: effective resource usage for real-time compression},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {229-242},
+}
+
+@inproceedings{DBLP:conf/fast/ZhaoZS0ZZ13,
+  author    = {Kai Zhao and
+               Wenzhe Zhao and
+               Hongbin Sun and
+               Tong Zhang and
+               Xiaodong Zhang and
+               Nanning Zheng},
+  title     = {LDPC-in-SSD: making advanced error correction codes work effectively in solid state drives},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {243-256},
+}
+
+@inproceedings{DBLP:conf/fast/LuSZ13,
+  author    = {Youyou Lu and
+               Jiwu Shu and
+               Weimin Zheng},
+  title     = {Extending the lifetime of flash-based storage through reducing write amplification from file systems},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {257-270},
+}
+
+@inproceedings{DBLP:conf/fast/ZhengTQL13,
+  author    = {Mai Zheng and
+               Joseph Tucek and
+               Feng Qin and
+               Mark Lillibridge},
+  title     = {Understanding the robustness of {SSDS} under power fault},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {271-284},
+}
+
+@inproceedings{DBLP:conf/fast/ShinBMW13,
+  author    = {Ji-Yong Shin and
+               Mahesh Balakrishnan and
+               Tudor Marian and
+               Hakim Weatherspoon},
+  title     = {Gecko: contention-oblivious disk arrays for cloud storage},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {285-298},
+}
+
+@inproceedings{DBLP:conf/fast/PlankGM13,
+  author    = {James S. Plank and
+               Kevin M. Greenan and
+               Ethan L. Miller},
+  title     = {Screaming fast Galois field arithmetic using intel {SIMD} instructions},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {299-306},
+}
+
+@inproceedings{DBLP:conf/fast/TarasovHKZ13,
+  author    = {Vasily Tarasov and
+               Dean Hildebrand and
+               Geoff Kuenning and
+               Erez Zadok},
+  title     = {Virtual machine workloads: the case for new benchmarks for {NAS}},
+  booktitle = fast,
+  year      = 2013,
+  pages     = {307-320},
+}
+
+@inproceedings{DBLP:conf/fast/ZhangAAA12,
+  author    = {Yiying Zhang and
+               Leo Prasath Arulraj and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {De-indirection for flash-based {SSDs} with nameless writes},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {1},
+}
+
+@inproceedings{DBLP:conf/fast/GruppDS12,
+  author    = {Laura M. Grupp and
+               John D. Davis and
+               Steven Swanson},
+  title     = {The bleak future of {NAND} flash memory},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {2},
+}
+
+@inproceedings{DBLP:conf/fast/YangMH12,
+  author    = {Jisoo Yang and
+               Dave B. Minturn and
+               Frank Hady},
+  title     = {When poll is better than interrupt},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {3},
+}
+
+@inproceedings{DBLP:conf/fast/WallaceDQSSCH12,
+  author    = {Grant Wallace and
+               Fred Douglis and
+               Hangwei Qian and
+               Philip Shilane and
+               Stephen Smaldone and
+               Mark Chamness and
+               Windsor Hsu},
+  title     = {Characteristics of backup workloads in production systems},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {4},
+}
+
+@inproceedings{DBLP:conf/fast/ShilaneHWH12,
+  author    = {Philip Shilane and
+               Mark Huang and
+               Grant Wallace and
+               Windsor Hsu},
+  title     = {{WAN} optimized replication of backup datasets using stream-informed delta compression},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {5},
+}
+
+@inproceedings{DBLP:conf/fast/LiGLZ12,
+  author    = {Zhichao Li and
+               Kevin M. Greenan and
+               Andrew W. Leung and
+               Erez Zadok},
+  title     = {Power consumption in enterprise-scale backup storage systems},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {6},
+}
+
+@inproceedings{DBLP:conf/fast/FryerSMCBGB12,
+  author    = {Daniel Fryer and
+               Kuei Sun and
+               Rahat Mahmood and
+               Tinghao Cheng and
+               Shaun Benjamin and
+               Ashvin Goel and
+               Angela Demke Brown},
+  title     = {Recon: verifying file system consistency at runtime},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {7},
+}
+
+@inproceedings{DBLP:conf/fast/LeHW12,
+  author    = {Duy Le and
+               Hai Huang and
+               Haining Wang},
+  title     = {Understanding performance implications of nested file systems in a virtualized environment},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {8},
+}
+
+@inproceedings{DBLP:conf/fast/ChidambaramSAA12,
+  author    = {Vijay Chidambaram and
+               Tushar Sharma and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Consistency without ordering},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {9},
+}
+
+@inproceedings{DBLP:conf/fast/WuH12,
+  author    = {Guanying Wu and
+               Xubin He},
+  title     = {Reducing {SSD} read latency via {NAND} flash program and erase suspension},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {10},
+}
+
+@inproceedings{DBLP:conf/fast/LiuYW12,
+  author    = {Ren-Shuo Liu and
+               Chia-Lin Yang and
+               Wei Wu},
+  title     = {Optimizing {NAND} flash-based {SSDs} via retention relaxation},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {11},
+}
+
+@inproceedings{DBLP:conf/fast/MinKCLE12,
+  author    = {Changwoo Min and
+               Kangnyeon Kim and
+               Hyunjin Cho and
+               Sang-Won Lee and
+               Young Ik Eom},
+  title     = {SFS: random write considered harmful in solid state drives},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {12},
+}
+
+@inproceedings{DBLP:conf/fast/ParkS12,
+  author    = {Stan Park and
+               Kai Shen},
+  title     = {FIOS: a fair, efficient flash I/O scheduler},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {13},
+}
+
+@inproceedings{DBLP:conf/fast/BhatotiaRV12,
+  author    = {Pramod Bhatotia and
+               Rodrigo Rodrigues and
+               Akshat Verma},
+  title     = {Shredder: {GPU-accelerated} incremental storage and computation},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {14},
+}
+
+@inproceedings{DBLP:conf/fast/Ben-YehudaFRTBY12,
+  author    = {Muli Ben-Yehuda and
+               Michael Factor and
+               Eran Rom and
+               Avishay Traeger and
+               Eran Borovik and
+               Ben-Ami Yassour},
+  title     = {Adding advanced storage controller functionality via low-overhead virtualization},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {15},
+}
+
+@inproceedings{DBLP:conf/fast/MazurekTGHS12,
+  author    = {Michelle L. Mazurek and
+               Eno Thereska and
+               Dinan Gunawardena and
+               Richard H. R. Harper and
+               James Scott},
+  title     = {ZZFS: a hybrid device and cloud file system for spontaneous users},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {16},
+}
+
+@inproceedings{DBLP:conf/fast/KimAU12,
+  author    = {Hyojun Kim and
+               Nitin Agrawal and
+               Cristian Ungureanu},
+  title     = {Revisiting storage for smartphones},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {17},
+}
+
+@inproceedings{DBLP:conf/fast/SumbalyKGFSS12,
+  author    = {Roshan Sumbaly and
+               Jay Kreps and
+               Lei Gao and
+               Alex Feinberg and
+               Chinmay Soman and
+               Sam Shah},
+  title     = {Serving large-scale batch computed data with project Voldemort},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {18},
+}
+
+@inproceedings{DBLP:conf/fast/VrableSV12,
+  author    = {Michael Vrable and
+               Stefan Savage and
+               Geoffrey M. Voelker},
+  title     = {BlueSky: a cloud-backed file system for the enterprise},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {19},
+}
+
+@inproceedings{DBLP:conf/fast/KhanBPPH12,
+  author    = {Osama Khan and
+               Randal C. Burns and
+               James S. Plank and
+               William Pierce and
+               Cheng Huang},
+  title     = {Rethinking erasure codes for cloud file systems: minimizing I/O for recovery and degraded reads},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {20},
+}
+
+@inproceedings{DBLP:conf/fast/HuCLT12,
+  author    = {Yuchong Hu and
+               Henry C. H. Chen and
+               Patrick P. C. Lee and
+               Yang Tang},
+  title     = {NCCloud: applying network coding for the storage repair in a cloud-of-clouds},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {21},
+}
+
+@inproceedings{DBLP:conf/fast/TarasovKMHPKZ12,
+  author    = {Vasily Tarasov and
+               Santhosh Kumar and
+               Jack Ma and
+               Dean Hildebrand and
+               Anna Povzner and
+               Geoff Kuenning and
+               Erez Zadok},
+  title     = {Extracting flexible, replayable models from large block traces},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {22},
+}
+
+@inproceedings{DBLP:conf/fast/MadhyasthaMPKSSV12,
+  author    = {Harsha V. Madhyastha and
+               John McCullough and
+               George Porter and
+               Rishi Kapoor and
+               Stefan Savage and
+               Alex C. Snoeren and
+               Amin Vahdat},
+  title     = {scc: cluster storage provisioning informed by application characteristics and {SLAs}},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {23},
+}
+
+@inproceedings{DBLP:conf/fast/SrinivasanBGV12,
+  author    = {Kiran Srinivasan and
+               Timothy Bisson and
+               Garth R. Goodson and
+               Kaladhar Voruganti},
+  title     = {iDedup: latency-aware, inline data deduplication for primary storage},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {24},
+}
+
+@inproceedings{DBLP:conf/fast/OhCLN12,
+  author    = {Yongseok Oh and
+               Jongmoo Choi and
+               Donghee Lee and
+               Sam H. Noh},
+  title     = {Caching less for better performance: balancing cache size and update cost of flash memory cache in hybrid storage systems},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {25},
+}
+
+@inproceedings{DBLP:conf/fast/LeeKKK12,
+  author    = {Sungjin Lee and
+               Taejin Kim and
+               Kyungho Kim and
+               Jihong Kim},
+  title     = {Lifetime management of flash-based {SSDs} using recovery-aware dynamic throttling},
+  booktitle = fast,
+  year      = 2012,
+  pages     = {26},
+}
+
 @inproceedings{DBLP:conf/fast/MeyerB11,
   author    = {Dutch T. Meyer and
                William J. Bolosky},
@@ -151,7 +2329,7 @@
 
 @inproceedings{DBLP:conf/fast/AgrawalAAA11,
   author    = {Nitin Agrawal and
-               Leo Arulraj and
+               Leo Prasath Arulraj and
                Andrea C. Arpaci-Dusseau and
                Remzi H. Arpaci-Dusseau},
   title     = {Emulating Goliath Storage Systems with David},
@@ -363,7 +2541,7 @@
 @inproceedings{DBLP:conf/fast/YadwadkarBGNS10,
   author    = {Neeraja J. Yadwadkar and
                Chiranjib Bhattacharyya and
-               K. Gopinath and
+               Kanchi Gopinath and
                Thirumale Niranjan and
                Sai Susarla},
   title     = {Discovery of Application Workloads from Network File Traces},
@@ -855,7 +3033,7 @@
 @inproceedings{DBLP:conf/fast/TsafrirHWS08,
   author    = {Dan Tsafrir and
                Tomer Hertz and
-               David Wagner and
+               David A. Wagner and
                Dilma Da Silva},
   title     = {Portably Solving File {TOCTTOU} Races with Hardness Amplification},
   booktitle = fast,

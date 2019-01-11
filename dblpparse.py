@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 import collections
 import datetime
 import errno
@@ -109,7 +111,7 @@ class CitationContainer:
                     if algorithm_re.search(substr) is not None:
                         acronym = substr # To make the next conditional always fail
                     if acronym.lower() != substr.lower():
-                        print 'WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs
+                        print('WARNING:  unhandled parenthetical %s in title for "%s"' % (repr(substr), citekey), citeattrs)
                     ptr = closeparen + 1
                     if equation == stack[-1]:
                         equation = None
@@ -138,7 +140,7 @@ class CitationContainer:
                     pagesrt = (-1, p)
                     pages = '  pages     = {%s},\n' % pagesrt[1]
                 else:
-                    print 'ERROR:  corrupt "pages" %r' % p
+                    print('ERROR:  corrupt "pages" %r' % p)
         return pagesrt, pages
 
     def _to_upper_quoted(self, s):
@@ -176,23 +178,23 @@ class Conference(CitationContainer):
 
     def add_inproc(self, citetype, citekey, citeattrs):
         if 'author' not in citeattrs:
-            print 'ERROR:  key "%s" has no attribute "author"' % citekey
+            print('ERROR:  key "%s" has no attribute "author"' % citekey)
             return
         if 'title' not in citeattrs:
-            print 'ERROR:  key "%s" has no attribute "title"' % citekey
+            print('ERROR:  key "%s" has no attribute "title"' % citekey)
             return
         if 'booktitle' not in citeattrs:
-            print 'ERROR:  key "%s" has no attribute "booktitle"' % citekey
+            print('ERROR:  key "%s" has no attribute "booktitle"' % citekey)
             return
         if 'year' not in citeattrs:
-            print 'ERROR:  key "%s" has no attribute "year"' % citekey
+            print('ERROR:  key "%s" has no attribute "year"' % citekey)
             return
         if 'pages' not in citeattrs:
-            print 'INFO:  key "%s" has no attribute "pages"' % citekey
+            print('INFO:  key "%s" has no attribute "pages"' % citekey)
         try:
             citeattrs['year'] = int(citeattrs['year'])
         except ValueError:
-            print 'ERROR:  key "%s" has non-integer "year"' % citekey
+            print('ERROR:  key "%s" has non-integer "year"' % citekey)
             return
         templ = '''\n@inproceedings{DBLP:%s,
   author    = {%s},
@@ -219,7 +221,7 @@ class Conference(CitationContainer):
         self._out.truncate(0)
         self._out.write('@include conferences-cs\n')
         for year, pages, citekey, bibtex in sorted(tmp):
-            self._out.write(bibtex.encode('utf8'))
+            self._out.write(bibtex)
         self._out.flush()
 
     def write_citation(self, fout):
@@ -228,7 +230,7 @@ class Conference(CitationContainer):
         yearsstr = ''
         for year, (addr, mon) in reversed(sorted(years.items())):
             if addr is None or mon is None:
-                print 'WARNING:  conference "%s" missing information for year %i' % (self._slug, year)
+                print('WARNING:  conference "%s" missing information for year %i' % (self._slug, year))
             else:
                 yearsstr += '  [year=%04i] address=%s, month=%s,\n' % (year, addr, mon)
         if self._shortname == self._longname:
@@ -242,16 +244,16 @@ class Conference(CitationContainer):
   longname  = "%s",
 %s}\n'''
             citation = templ % (self._citetype, self._slug, self._shortname, self._longname, yearsstr)
-        fout.write(citation.encode('utf8'))
+        fout.write(citation)
 
     def _extract_year(self, citekey, citeattrs):
         if 'year' in citeattrs:
             try:
                 return int(citeattrs['year'])
             except ValueError as e:
-                print 'WARNING:  key "%s" has non-numeric year' % citekey
+                print('WARNING:  key "%s" has non-numeric year' % citekey)
         else:
-            print 'WARNING:  no year for "%s"' % citekey
+            print('WARNING:  no year for "%s"' % citekey)
 
     def _extract_location(self, citekey, citeattrs):
         if citekey in MANUAL_LOCATIONS:
@@ -269,20 +271,20 @@ class Conference(CitationContainer):
                         loc = LOCATION_AMBIGUITIES[p][x]
                 if count == 1:
                     return loc
-                print 'WARNING:  "%s" resolves to ambiguous location' % citekey, citeattrs
+                print('WARNING:  "%s" resolves to ambiguous location' % citekey, citeattrs)
                 return
             if p in LOCATIONS:
                 return p
             if p in LOCATION_ALIASES:
                 return LOCATION_ALIASES[p]
-        print 'WARNING:  no location for "%s"' % citekey, citeattrs
+        print('WARNING:  no location for "%s"' % citekey, citeattrs)
 
     def _extract_month(self, citekey, citeattrs):
         possible = citeattrs.get('title', '').split(' ')
         for p in possible:
             if p in MONTHS:
                 return MONTHS[p]
-        for month, abbrev in MONTHS.iteritems():
+        for month, abbrev in MONTHS.items():
             if month in citeattrs.get('title', ''):
                 return abbrev
         try:
@@ -292,7 +294,7 @@ class Conference(CitationContainer):
                 return overrides.CONFERENCE_LOCATIONS[self._slug][year][1]
         except ValueError:
             pass
-        print 'WARNING:  no month for "%s"' % citekey, citeattrs
+        print('WARNING:  no month for "%s"' % citekey, citeattrs)
 
 
 class Journal(CitationContainer):
@@ -305,20 +307,20 @@ class Journal(CitationContainer):
 
     def add_article(self, citetype, citekey, citeattrs):
         if 'author' not in citeattrs:
-            print 'ERROR:  key "%s" has no attribute "author"' % citekey
+            print('ERROR:  key "%s" has no attribute "author"' % citekey)
             return
         if 'title' not in citeattrs:
-            print 'ERROR:  key "%s" has no attribute "title"' % citekey
+            print('ERROR:  key "%s" has no attribute "title"' % citekey)
             return
         if 'journal' not in citeattrs:
-            print 'ERROR:  key "%s" has no attribute "journal"' % citekey
+            print('ERROR:  key "%s" has no attribute "journal"' % citekey)
             return
         if 'volume' not in citeattrs:
-            print 'WARNING:  key "%s" has no attribute "volume"' % citekey
+            print('WARNING:  key "%s" has no attribute "volume"' % citekey)
         if 'number' not in citeattrs and citekey not in overrides.JOURNAL_NUMBERS:
-            print 'WARNING:  key "%s" has no attribute "number"' % citekey
+            print('WARNING:  key "%s" has no attribute "number"' % citekey)
         if 'year' not in citeattrs:
-            print 'ERROR:  key "%s" has no attribute "year"' % citekey
+            print('ERROR:  key "%s" has no attribute "year"' % citekey)
             return
         if 'pages' not in citeattrs:
             pass
@@ -326,7 +328,7 @@ class Journal(CitationContainer):
         try:
             citeattrs['year'] = int(citeattrs['year'])
         except ValueError:
-            print 'ERROR:  key "%s" has non-integer "year"' % citekey
+            print('ERROR:  key "%s" has non-integer "year"' % citekey)
             return
         templ = '''\n@article{DBLP:%s,
   author    = {%s},
@@ -357,7 +359,7 @@ class Journal(CitationContainer):
         self._out.truncate(0)
         self._out.write('@include journals-cs\n')
         for year, pages, citekey, bibtex in sorted(tmp):
-            self._out.write(bibtex.encode('utf8'))
+            self._out.write(bibtex)
         self._out.flush()
 
     def write_citation(self, fout):
@@ -367,8 +369,7 @@ class Journal(CitationContainer):
         else:
             templ = '''@journal{%s, shortname = "%s", longname  = "%s"}\n'''
             citation = templ % (self._slug, self._shortname, self._longname)
-        fout.write(citation.encode('utf8'))
-
+        fout.write(citation)
 
 class DBLPProcessor:
 
@@ -484,6 +485,7 @@ class DBLPProcessor:
                     conf.add_inproc(citetype, citekey, citeattrs)
             elif citetype == 'article' and crossref is None:
                 journal = citeattrs.get('journal', None)
+
                 j = self._lookup_container_by_name(journal)
                 if j and hasattr(j, 'add_article'):
                     j.add_article(citetype, citekey, citeattrs)
@@ -505,14 +507,19 @@ class DBLPProcessor:
             fout.write(str(datetime.datetime.now()) + '\n')
 
     def _lookup_container_by_name(self, name):
+        if name is None:
+            return None
+
         container = self._shortnames.get(name, None)
         container = container or self._longnames.get(name, None)
         container = container or self._names.get(name, None)
+
         if container is not None:
             return container
-        names = itertools.chain(self._names.iteritems(),
-                                self._longnames.iteritems(),
-                                self._shortnames.iteritems())
+
+        names = itertools.chain(self._names.items(),
+                                self._longnames.items(),
+                                self._shortnames.items())
         for n, container in names:
             if n in name:
                 return container
@@ -529,7 +536,7 @@ class DBLPProcessor:
         with open(self._cachefilename, 'w') as fout:
             e = lxml.etree.iterparse(self._infilename, events=('start', 'end'),
                                      dtd_validation=True, load_dtd=True)
-            event, element = e.next()
+            event, element = next(e)
             assert event == 'start'
             assert element.tag == 'dblp'
 
@@ -542,7 +549,7 @@ class DBLPProcessor:
                 citeattrs = {'author': []}
                 count = 0
                 while True:
-                    event, element = e.next()
+                    event, element = next(e)
                     if event == 'end' and element.tag == citetype and count == 0:
                         break
                     elif event == 'end' and element.tag == citetype:

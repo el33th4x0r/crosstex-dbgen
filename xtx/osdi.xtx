@@ -1,12 +1,2148 @@
 @include conferences-cs
 
+@inproceedings{DBLP:conf/osdi/X18,
+  author    = {},
+  title     = {Differential Energy Profiling: Energy Optimization via Diffing Similar Apps},
+  booktitle = osdi,
+  year      = 2018,
+}
+
+@inproceedings{DBLP:conf/osdi/HuangGLZD18,
+  author    = {Peng Huang and
+               Chuanxiong Guo and
+               Jacob R. Lorch and
+               Lidong Zhou and
+               Yingnong Dang},
+  title     = {Capturing and Enhancing In Situ System Observability for Failure Detection},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/osdi/CuiGKNSWY18,
+  author    = {Weidong Cui and
+               Xinyang Ge and
+               Baris Kasikci and
+               Ben Niu and
+               Upamanyu Sharma and
+               Ruoyu Wang and
+               Insu Yun},
+  title     = {REPT: Reverse Debugging of Failures in Deployed Software},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {17-32},
+}
+
+@inproceedings{DBLP:conf/osdi/MohanMPRC18,
+  author    = {Jayashree Mohan and
+               Ashlie Martinez and
+               Soujanya Ponnapalli and
+               Pandian Raju and
+               Vijay Chidambaram},
+  title     = {Finding {Crash-Consistency} Bugs with Bounded {Black-Box} Crash Testing},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {33-50},
+}
+
+@inproceedings{DBLP:conf/osdi/AlquraanTAA18,
+  author    = {Ahmed Alquraan and
+               Hatem Takruri and
+               Mohammed Alfatafta and
+               Samer Al-Kiswany},
+  title     = {An Analysis of {Network-Partitioning} Failures in Cloud Systems},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {51-68},
+}
+
+@inproceedings{DBLP:conf/osdi/ShanHCZ18,
+  author    = {Yizhou Shan and
+               Yutong Huang and
+               Yilun Chen and
+               Yiying Zhang},
+  title     = {LegoOS: A Disseminated, Distributed {OS} for Hardware Resource Disaggregation},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {69-87},
+}
+
+@inproceedings{DBLP:conf/osdi/CutlerKM18,
+  author    = {Cody Cutler and
+               M. Frans Kaashoek and
+               Robert Tappan Morris},
+  title     = {The benefits and costs of writing a {POSIX} kernel in a high-level language},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {89-105},
+}
+
+@inproceedings{DBLP:conf/osdi/KhawajaLPWSR18,
+  author    = {Ahmed Khawaja and
+               Joshua Landgraf and
+               Rohith Prakash and
+               Michael Wei and
+               Eric Schkufza and
+               Christopher J. Rossbach},
+  title     = {Sharing, Protection, and Compatibility for Reconfigurable Fabric with {AmorphOS}},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {107-127},
+}
+
+@inproceedings{DBLP:conf/osdi/MaengL18,
+  author    = {Kiwan Maeng and
+               Brandon Lucia},
+  title     = {Adaptive Dynamic Checkpointing for Safe Efficient Intermittent Computing},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {129-144},
+}
+
+@inproceedings{DBLP:conf/osdi/QinLSKO18,
+  author    = {Henry Qin and
+               Qian Li and
+               Jacqueline Speiser and
+               Peter Kraft and
+               John K. Ousterhout},
+  title     = {Arachne: {Core-Aware} Thread Management},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {145-160},
+}
+
+@inproceedings{DBLP:conf/osdi/YangLAA18,
+  author    = {Suli Yang and
+               Jing Liu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Principled Schedulability Analysis for Distributed Storage Systems using Thread Architecture Models},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {161-176},
+}
+
+@inproceedings{DBLP:conf/osdi/SriramanW18,
+  author    = {Akshitha Sriraman and
+               Thomas F. Wenisch},
+  title     = {µTune: {Auto-Tuned} Threading for {OLDI} Microservices},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {177-194},
+}
+
+@inproceedings{DBLP:conf/osdi/BergerBZ0H18,
+  author    = {Daniel S. Berger and
+               Benjamin Berg and
+               Timothy Zhu and
+               Siddhartha Sen and
+               Mor Harchol-Balter},
+  title     = {RobinHood: Tail Latency Aware Caching - Dynamic Reallocation from {Cache-Rich} to {Cache-Poor}},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {195-212},
+}
+
+@inproceedings{DBLP:conf/osdi/GjengsetSBAEKKM18,
+  author    = {Jon Gjengset and
+               Malte Schwarzkopf and
+               Jonathan Behrens and
+               Lara Timbó Araújo and
+               Martin Ek and
+               Eddie Kohler and
+               M. Frans Kaashoek and
+               Robert Tappan Morris},
+  title     = {Noria: dynamic, partially-stateful data-flow for high-performance web applications},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {213-231},
+}
+
+@inproceedings{DBLP:conf/osdi/WeiD0C18,
+  author    = {Xingda Wei and
+               Zhiyuan Dong and
+               Rong Chen and
+               Haibo Chen},
+  title     = {Deconstructing {RDMA-enabled} Distributed Transactions: Hybrid is Better!},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {233-251},
+}
+
+@inproceedings{DBLP:conf/osdi/MahajanCA018,
+  author    = {Kshiteej Mahajan and
+               Mosharaf Chowdhury and
+               Aditya Akella and
+               Shuchi Chawla},
+  title     = {Dynamic Query {Re-Planning} using {QOOP}},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {253-267},
+}
+
+@inproceedings{DBLP:conf/osdi/HsiehABVBPGM18,
+  author    = {Kevin Hsieh and
+               Ganesh Ananthanarayanan and
+               Peter Bodík and
+               Shivaram Venkataraman and
+               Paramvir Bahl and
+               Matthai Philipose and
+               Phillip B. Gibbons and
+               Onur Mutlu},
+  title     = {Focus: Querying Large Video Datasets with Low Latency and Low Cost},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {269-286},
+}
+
+@inproceedings{DBLP:conf/osdi/Sigurbjarnarson18,
+  author    = {Helgi Sigurbjarnarson and
+               Luke Nelson and
+               Bruno Castro-Karney and
+               James Bornholt and
+               Emina Torlak and
+               Xi Wang},
+  title     = {Nickel: A Framework for Design and Verification of Information Flow Control Systems},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {287-305},
+}
+
+@inproceedings{DBLP:conf/osdi/ChajedKLZ18,
+  author    = {Tej Chajed and
+               M. Frans Kaashoek and
+               Butler W. Lampson and
+               Nickolai Zeldovich},
+  title     = {Verifying concurrent software using movers in {CSPEC}},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {306-322},
+}
+
+@inproceedings{DBLP:conf/osdi/IleriCCKZ18,
+  author    = {Atalay Ileri and
+               Tej Chajed and
+               Adam Chlipala and
+               M. Frans Kaashoek and
+               Nickolai Zeldovich},
+  title     = {Proving confidentiality in a file system using {DiskSec}},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {323-338},
+}
+
+@inproceedings{DBLP:conf/osdi/SettyAGL18,
+  author    = {Srinath T. V. Setty and
+               Sebastian Angel and
+               Trinabh Gupta and
+               Jonathan Lee},
+  title     = {Proving the correct execution of concurrent services in zero-knowledge},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {339-356},
+}
+
+@inproceedings{DBLP:conf/osdi/LockermanFKSAA018,
+  author    = {Joshua Lockerman and
+               Jose M. Faleiro and
+               Juno Kim and
+               Soham Sankaran and
+               Daniel J. Abadi and
+               James Aspnes and
+               Siddhartha Sen and
+               Mahesh Balakrishnan},
+  title     = {The FuzzyLog: A Partially Ordered Shared Log},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {357-372},
+}
+
+@inproceedings{DBLP:conf/osdi/VeeraraghavanMM18,
+  author    = {Kaushik Veeraraghavan and
+               Justin Meza and
+               Scott Michelson and
+               Sankaralingam Panneerselvam and
+               Alex Gyori and
+               David Chou and
+               Sonia Margulis and
+               Daniel Obenshain and
+               Shruti Padmanabha and
+               Ashish Shah and
+               Yee Jiun Song and
+               Tianyin Xu},
+  title     = {Maelstrom: Mitigating Datacenter-level Disasters by Draining Interdependent Traffic Safely and Efficiently},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {373-389},
+}
+
+@inproceedings{DBLP:conf/osdi/AlagappanGLAA18,
+  author    = {Ramnatthan Alagappan and
+               Aishwarya Ganesan and
+               Jing Liu and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Fault-Tolerance, Fast and Slow: Exploiting Failure Asynchrony in Distributed Systems},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {390-408},
+}
+
+@inproceedings{DBLP:conf/osdi/MaricqDJMSRK18,
+  author    = {Aleksander Maricq and
+               Dmitry Duplyakin and
+               Ivo Jimenez and
+               Carlos Maltzahn and
+               Ryan Stutsman and
+               Robert Ricci and
+               Ana Klimovic},
+  title     = {Taming Performance Variability},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {409-425},
+}
+
+@inproceedings{DBLP:conf/osdi/KlimovicWSTPK18,
+  author    = {Ana Klimovic and
+               Yawen Wang and
+               Patrick Stuedi and
+               Animesh Trivedi and
+               Jonas Pfefferle and
+               Christos Kozyrakis},
+  title     = {Pocket: Elastic Ephemeral Storage for Serverless Analytics},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {427-444},
+}
+
+@inproceedings{DBLP:conf/osdi/AnnamalaiRSZPSN18,
+  author    = {Muthukaruppan Annamalai and
+               Kaushik Ravichandran and
+               Harish Srinivas and
+               Igor Zinkovsky and
+               Luning Pan and
+               Tony Savor and
+               David Nagle and
+               Michael Stumm},
+  title     = {Sharding the Shards: Managing Datastore Locality at Scale with Akkio},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {445-460},
+}
+
+@inproceedings{DBLP:conf/osdi/Zuo0W18,
+  author    = {Pengfei Zuo and
+               Yu Hua and
+               Jie Wu},
+  title     = {{Write-Optimized} and {High-Performance} Hashing Index Scheme for Persistent Memory},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {461-476},
+}
+
+@inproceedings{DBLP:conf/osdi/0048KGKLACKKKJ18,
+  author    = {Jie Zhang and
+               Miryeong Kwon and
+               Donghyun Gouk and
+               Sungjoon Koh and
+               Changlim Lee and
+               Mohammad Alian and
+               Myoungjun Chun and
+               Mahmut Taylan Kandemir and
+               Nam Sung Kim and
+               Jihong Kim and
+               Myoungsoo Jung},
+  title     = {FlashShare: Punching Through Server Storage Stack from Kernel to Firmware for {Ultra-Low} Latency {SSDs}},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {477-492},
+}
+
+@inproceedings{DBLP:conf/osdi/BhagwanKMP18,
+  author    = {Ranjita Bhagwan and
+               Rahul Kumar and
+               Chandra Shekhar Maddila and
+               Adithya Abraham Philip},
+  title     = {Orca: Differential Bug Localization in {Large-Scale} Services},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {493-509},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhouGMW18,
+  author    = {Fang Zhou and
+               Yifan Gan and
+               Sixiang Ma and
+               Yang Wang},
+  title     = {wPerf: Generic {Off-CPU} Analysis to Identify Bottleneck Waiting Events},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {527-543},
+}
+
+@inproceedings{DBLP:conf/osdi/QuinnFC18,
+  author    = {Andrew Quinn and
+               Jason Flinn and
+               Michael J. Cafarella},
+  title     = {Sledgehammer: {Cluster-Fueled} Debugging},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {545-560},
+}
+
+@inproceedings{DBLP:conf/osdi/MoritzNWTLLEYPJ18,
+  author    = {Philipp Moritz and
+               Robert Nishihara and
+               Stephanie Wang and
+               Alexey Tumanov and
+               Richard Liaw and
+               Eric Liang and
+               Melih Elibol and
+               Zongheng Yang and
+               William Paul and
+               Michael I. Jordan and
+               Ion Stoica},
+  title     = {Ray: A Distributed Framework for Emerging {AI} Applications},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {561-577},
+}
+
+@inproceedings{DBLP:conf/osdi/ChenMJZYSCWHCGK18,
+  author    = {Tianqi Chen and
+               Thierry Moreau and
+               Ziheng Jiang and
+               Lianmin Zheng and
+               Eddie Q. Yan and
+               Haichen Shen and
+               Meghan Cowan and
+               Leyuan Wang and
+               Yuwei Hu and
+               Luis Ceze and
+               Carlos Guestrin and
+               Arvind Krishnamurthy},
+  title     = {TVM: An Automated {End-to-End} Optimizing Compiler for Deep Learning},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {578-594},
+}
+
+@inproceedings{DBLP:conf/osdi/XiaoBRSKHPPZZYZ18,
+  author    = {Wencong Xiao and
+               Romil Bhardwaj and
+               Ramachandran Ramjee and
+               Muthian Sivathanu and
+               Nipun Kwatra and
+               Zhenhua Han and
+               Pratyush Patel and
+               Xuan Peng and
+               Hanyu Zhao and
+               Quanlu Zhang and
+               Fan Yang and
+               Lidong Zhou},
+  title     = {Gandiva: Introspective Cluster Scheduling for Deep Learning},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {595-610},
+}
+
+@inproceedings{DBLP:conf/osdi/LeeSCSWI18,
+  author    = {Yunseong Lee and
+               Alberto Scolari and
+               Byung-Gon Chun and
+               Marco Domenico Santambrogio and
+               Markus Weimer and
+               Matteo Interlandi},
+  title     = {PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {611-626},
+}
+
+@inproceedings{DBLP:conf/osdi/KulkarniMNZRS18,
+  author    = {Chinmay Kulkarni and
+               Sara Moore and
+               Mazhar Naqvi and
+               Tian Zhang and
+               Robert Ricci and
+               Ryan Stutsman},
+  title     = {Splinter: {Bare-Metal} Extensions for {Multi-Tenant} {Low-Latency} Storage},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {627-643},
+}
+
+@inproceedings{DBLP:conf/osdi/YeoJKSH18,
+  author    = {Hyunho Yeo and
+               Youngmok Jung and
+               Jaehong Kim and
+               Jinwoo Shin and
+               Dongsu Han},
+  title     = {Neural Adaptive Content-aware Internet Video Delivery},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {645-661},
+}
+
+@inproceedings{DBLP:conf/osdi/PhothilimthanaL18,
+  author    = {Phitchaya Mangpo Phothilimthana and
+               Ming Liu and
+               Antoine Kaufmann and
+               Simon Peter and
+               Rastislav Bodík and
+               Thomas E. Anderson},
+  title     = {Floem: A Programming System for {NIC-Accelerated} Network Applications},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {663-679},
+}
+
+@inproceedings{DBLP:conf/osdi/VolosVB18,
+  author    = {Stavros Volos and
+               Kapil Vaswani and
+               Rodrigo Bruno},
+  title     = {Graviton: Trusted Execution Environments on {GPUs}},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {681-696},
+}
+
+@inproceedings{DBLP:conf/osdi/KonothOTABGR18,
+  author    = {Radhesh Krishnan Konoth and
+               Marco Oliverio and
+               Andrei Tatar and
+               Dennis Andriesse and
+               Herbert Bos and
+               Cristiano Giuffrida and
+               Kaveh Razavi},
+  title     = {ZebRAM: Comprehensive and Compatible Software Protection Against Rowhammer Attacks},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {697-710},
+}
+
+@inproceedings{DBLP:conf/osdi/LazarGZ18,
+  author    = {David Lazar and
+               Yossi Gilad and
+               Nickolai Zeldovich},
+  title     = {Karaoke: Distributed Private Messaging Immune to Passive Traffic Analysis},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {711-725},
+}
+
+@inproceedings{DBLP:conf/osdi/Crooks0CHAA18,
+  author    = {Natacha Crooks and
+               Matthew Burke and
+               Ethan Cecchetti and
+               Sitar Harel and
+               Rachit Agarwal and
+               Lorenzo Alvisi},
+  title     = {Obladi: Oblivious Serializable Transactions in the Cloud},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {727-743},
+}
+
+@inproceedings{DBLP:conf/osdi/IyerL0VBS18,
+  author    = {Anand Padmanabha Iyer and
+               Zaoxing Liu and
+               Xin Jin and
+               Shivaram Venkataraman and
+               Vladimir Braverman and
+               Ion Stoica},
+  title     = {ASAP: Fast, Approximate Graph Pattern Mining at Scale},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {745-761},
+}
+
+@inproceedings{DBLP:conf/osdi/WangZTNX18,
+  author    = {Kai Wang and
+               Zhiqiang Zuo and
+               John Thorpe and
+               Tien Quang Nguyen and
+               Guoqing Harry Xu},
+  title     = {RStream: Marrying Relational Algebra with Streaming for Efficient Graph Mining on A Single Machine},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {763-782},
+}
+
+@inproceedings{DBLP:conf/osdi/KalavriLHDFR18,
+  author    = {Vasiliki Kalavri and
+               John Liagouris and
+               Moritz Hoffmann and
+               Desislava C. Dimitrova and
+               Matthew Forshaw and
+               Timothy Roscoe},
+  title     = {Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {783-798},
+}
+
+@inproceedings{DBLP:conf/osdi/EssertelTDBOR18,
+  author    = {Grégory M. Essertel and
+               Ruby Y. Tahboub and
+               James M. Decker and
+               Kevin J. Brown and
+               Kunle Olukotun and
+               Tiark Rompf},
+  title     = {Flare: Optimizing Apache Spark with Native Compilation for {Scale-Up} Architectures and {Medium-Size} Data},
+  booktitle = osdi,
+  year      = 2018,
+  pages     = {799-815},
+}
+
+@inproceedings{DBLP:conf/osdi/CarnsJCASSR16,
+  author    = {Philip H. Carns and
+               John Jenkins and
+               Charles D. Cranor and
+               Scott Atchley and
+               Sangmin Seo and
+               Shane Snyder and
+               Robert B. Ross},
+  title     = {Enabling {NVM} for {Data-Intensive} Scientific Services},
+  booktitle = osdi,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/osdi/ChauhanCCSMS16,
+  author    = {Himanshu Chauhan and
+               Irina Calciu and
+               Vijay Chidambaram and
+               Eric Schkufza and
+               Onur Mutlu and
+               Pratap Subrahmanyam},
+  title     = {NVMOVE: Helping Programmers Move to {Byte-Based} Persistence},
+  booktitle = osdi,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/osdi/LavaeeCKD16,
+  author    = {Rahman Lavaee and
+               I. Stephen Choi and
+               Yang-Suk Kee and
+               Chen Ding},
+  title     = {ElCached: Elastic {Multi-Level} {Key-Value} Cache},
+  booktitle = osdi,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/osdi/ShihabZGSJ16,
+  author    = {Mustafa Shihab and
+               Jie Zhang and
+               Shuwen Gao and
+               Josep Sloan and
+               Myoungsoo Jung},
+  title     = {Couture: Tailoring {STT-MRAM} for Persistent Main Memory},
+  booktitle = osdi,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/osdi/VerschorenH16,
+  author    = {Robin Verschoren and
+               Benny Van Houdt},
+  title     = {On the Impact of Garbage Collection on {Flash-Based} {SSD} Endurance},
+  booktitle = osdi,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangKPJK16,
+  author    = {Jie Zhang and
+               Miryeong Kwon and
+               Chanyoung Park and
+               Myoungsoo Jung and
+               Songkuk Kim},
+  title     = {ROSS: A Design of {Read-Oriented} {STT-MRAM} Storage for {Energy-Efficient} {Non-Uniform} Cache Architecture},
+  booktitle = osdi,
+  year      = 2016,
+}
+
+@inproceedings{DBLP:conf/osdi/Sigurbjarnarson16,
+  author    = {Helgi Sigurbjarnarson and
+               James Bornholt and
+               Emina Torlak and
+               Xi Wang},
+  title     = {{Push-Button} Verification of File Systems via Crash Refinement},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/osdi/WoudeH16,
+  author    = {Joel van der Woude and
+               Matthew Hicks},
+  title     = {Intermittent Computation without Hardware Support or Programmer Intervention},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {17-32},
+}
+
+@inproceedings{DBLP:conf/osdi/KaestleAHHRR16,
+  author    = {Stefan Kaestle and
+               Reto Achermann and
+               Roni Haecki and
+               Moritz Hoffmann and
+               Sabela Ramos and
+               Timothy Roscoe},
+  title     = {{Machine-Aware} Atomic Broadcast Trees for Multicores},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {33-48},
+}
+
+@inproceedings{DBLP:conf/osdi/LittonVE0BD16,
+  author    = {James Litton and
+               Anjo Vahldiek-Oberwagner and
+               Eslam Elnikety and
+               Deepak Garg and
+               Bobby Bhattacharjee and
+               Peter Druschel},
+  title     = {{Light-Weight} Contexts: An {OS} Abstraction for Safety and Performance},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {49-64},
+}
+
+@inproceedings{DBLP:conf/osdi/GrandlCAA16,
+  author    = {Robert Grandl and
+               Mosharaf Chowdhury and
+               Aditya Akella and
+               Ganesh Ananthanarayanan},
+  title     = {Altruistic Scheduling in {Multi-Resource} Clusters},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {65-80},
+}
+
+@inproceedings{DBLP:conf/osdi/GrandlKRAK16,
+  author    = {Robert Grandl and
+               Srikanth Kandula and
+               Sriram Rao and
+               Aditya Akella and
+               Janardhan Kulkarni},
+  title     = {GRAPHENE: Packing and {Dependency-Aware} Scheduling for {Data-Parallel} Clusters},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {81-97},
+}
+
+@inproceedings{DBLP:conf/osdi/GogSGWH16,
+  author    = {Ionel Gog and
+               Malte Schwarzkopf and
+               Adam Gleave and
+               Robert N. M. Watson and
+               Steven Hand},
+  title     = {Firmament: Fast, Centralized Cluster Scheduling at Scale},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {99-115},
+}
+
+@inproceedings{DBLP:conf/osdi/JyothiCMNTYMGKK16,
+  author    = {Sangeetha Abdu Jyothi and
+               Carlo Curino and
+               Ishai Menache and
+               Shravan Matthur Narayanamurthy and
+               Alexey Tumanov and
+               Jonathan Yaniv and
+               Ruslan Mavlyutov and
+               Iñigo Goiri and
+               Subru Krishnan and
+               Janardhan Kulkarni and
+               Sriram Rao},
+  title     = {Morpheus: Towards Automated {SLOs} for Enterprise Clusters},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {117-134},
+}
+
+@inproceedings{DBLP:conf/osdi/LuHNML16,
+  author    = {Haonan Lu and
+               Christopher Hodsdon and
+               Khiem Ngo and
+               Shuai Mu and
+               Wyatt Lloyd},
+  title     = {The {SNOW} Theorem and {Latency-Optimal} {Read-Only} Transactions},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {135-150},
+}
+
+@inproceedings{DBLP:conf/osdi/AlagappanGPPAA16,
+  author    = {Ramnatthan Alagappan and
+               Aishwarya Ganesan and
+               Yuvraj Patel and
+               Thanumalayan Sankaranarayana Pillai and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Correlated Crash Vulnerabilities},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {151-167},
+}
+
+@inproceedings{DBLP:conf/osdi/GuerraouiPS16,
+  author    = {Rachid Guerraoui and
+               Matej Pavlovic and
+               Dragos-Adrian Seredinschi},
+  title     = {Incremental Consistency Guarantees for Replicated Objects},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {169-184},
+}
+
+@inproceedings{DBLP:conf/osdi/KaliaKA16,
+  author    = {Anuj Kalia and
+               Michael Kaminsky and
+               David G. Andersen},
+  title     = {FaSST: Fast, Scalable and Simple Distributed Transactions with {Two-Sided} (RDMA) Datagram {RPCs}},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {185-201},
+}
+
+@inproceedings{DBLP:conf/osdi/PandaHJWRS16,
+  author    = {Aurojit Panda and
+               Sangjin Han and
+               Keon Jang and
+               Melvin Walls and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {NetBricks: Taking the V out of {NFV}},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {203-216},
+}
+
+@inproceedings{DBLP:conf/osdi/FayazSFMMSV16,
+  author    = {Seyed Kaveh Fayaz and
+               Tushar Sharma and
+               Ari Fogel and
+               Ratul Mahajan and
+               Todd D. Millstein and
+               Vyas Sekar and
+               George Varghese},
+  title     = {Efficient Network Reachability Analysis Using a Succinct Control Plane Representation},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {217-232},
+}
+
+@inproceedings{DBLP:conf/osdi/Tammana0L16,
+  author    = {Praveen Tammana and
+               Rachit Agarwal and
+               Myungjin Lee},
+  title     = {Simplifying Datacenter Network Debugging with {PathDump}},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {233-248},
+}
+
+@inproceedings{DBLP:conf/osdi/GaoNKCH0RS16,
+  author    = {Peter Xiang Gao and
+               Akshay Narayan and
+               Sagar Karandikar and
+               Joao Carreira and
+               Sangjin Han and
+               Rachit Agarwal and
+               Sylvia Ratnasamy and
+               Scott Shenker},
+  title     = {Network Requirements for Resource Disaggregation},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {249-264},
+}
+
+@inproceedings{DBLP:conf/osdi/AbadiBCCDDDGIIK16,
+  author    = {Martín Abadi and
+               Paul Barham and
+               Jianmin Chen and
+               Zhifeng Chen and
+               Andy Davis and
+               Jeffrey Dean and
+               Matthieu Devin and
+               Sanjay Ghemawat and
+               Geoffrey Irving and
+               Michael Isard and
+               Manjunath Kudlur and
+               Josh Levenberg and
+               Rajat Monga and
+               Sherry Moore and
+               Derek Gordon Murray and
+               Benoit Steiner and
+               Paul A. Tucker and
+               Vijay Vasudevan and
+               Pete Warden and
+               Martin Wicke and
+               Yuan Yu and
+               Xiaoqiang Zheng},
+  title     = {TensorFlow: A System for {Large-Scale} Machine Learning},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {265-283},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangWCQLZ16,
+  author    = {Mingxing Zhang and
+               Yongwei Wu and
+               Kang Chen and
+               Xuehai Qian and
+               Xue Li and
+               Weimin Zheng},
+  title     = {Exploring the Hidden Dimension in Graph Processing},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {285-300},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhuCZM16,
+  author    = {Xiaowei Zhu and
+               Wenguang Chen and
+               Weimin Zheng and
+               Xiaosong Ma},
+  title     = {Gemini: A {Computation-Centric} Distributed Graph Processing System},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {301-316},
+}
+
+@inproceedings{DBLP:conf/osdi/ShiYCCL16,
+  author    = {Jiaxin Shi and
+               Youyang Yao and
+               Rong Chen and
+               Haibo Chen and
+               Feifei Li},
+  title     = {Fast and Concurrent {RDF} Queries with {RDMA-Based} Distributed Graph Exploration},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {317-332},
+}
+
+@inproceedings{DBLP:conf/osdi/PorterGFL16,
+  author    = {Barry Porter and
+               Matthew Grieves and
+               Roberto Vito Rodrigues Filho and
+               David Leslie},
+  title     = {REX: A Development Platform and Online Learning Approach for Runtime Emergent Software Systems},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {333-348},
+}
+
+@inproceedings{DBLP:conf/osdi/NguyenFXDLAM16,
+  author    = {Khanh Nguyen and
+               Lu Fang and
+               Guoqing (Harry) Xu and
+               Brian Demsky and
+               Shan Lu and
+               Sanazsadat Alamian and
+               Onur Mutlu},
+  title     = {Yak: A {High-Performance} {Big-Data-Friendly} Garbage Collector},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {349-365},
+}
+
+@inproceedings{DBLP:conf/osdi/Williams-KingGW16,
+  author    = {David Williams-King and
+               Graham Gobieski and
+               Kent Williams-King and
+               James P. Blake and
+               Xinhao Yuan and
+               Patrick Colp and
+               Michelle Zheng and
+               Vasileios P. Kemerlis and
+               Junfeng Yang and
+               William Aiello},
+  title     = {Shuffler: Fast and Deployable Continuous Code {Re-Randomization}},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {367-382},
+}
+
+@inproceedings{DBLP:conf/osdi/LionCSZGY16,
+  author    = {David Lion and
+               Adrian Chiu and
+               Hailong Sun and
+               Xin Zhuang and
+               Nikola Grcevski and
+               Ding Yuan},
+  title     = {Don't Get Caught in the Cold, Warm-up Your JVM: Understand and Eliminate {JVM} Warm-up Overhead in {Data-Parallel} Systems},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {383-400},
+}
+
+@inproceedings{DBLP:conf/osdi/RashmiCKSR16,
+  author    = {K. V. Rashmi and
+               Mosharaf Chowdhury and
+               Jack Kosaian and
+               Ion Stoica and
+               Kannan Ramchandran},
+  title     = {EC-Cache: Load-Balanced, {Low-Latency} Cluster Caching with Online Erasure Coding},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {401-417},
+}
+
+@inproceedings{DBLP:conf/osdi/Curtis-MauryDFK16,
+  author    = {Matthew Curtis-Maury and
+               Vinay Devadas and
+               Vania Fang and
+               Aditya Kulkarni},
+  title     = {To Waffinity and Beyond: A Scalable Architecture for Incremental Parallelization of File System Code},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {419-434},
+}
+
+@inproceedings{DBLP:conf/osdi/ViswanathanAA16,
+  author    = {Raajay Viswanathan and
+               Ganesh Ananthanarayanan and
+               Aditya Akella},
+  title     = {CLARINET: {WAN-Aware} Optimization for Analytics Queries},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {435-450},
+}
+
+@inproceedings{DBLP:conf/osdi/QuinnDCF16,
+  author    = {Andrew Quinn and
+               David Devecsery and
+               Peter M. Chen and
+               Jason Flinn},
+  title     = {JetStream: {Cluster-Scale} Parallelization of Information Flow Queries},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {451-466},
+}
+
+@inproceedings{DBLP:conf/osdi/LiESSP16,
+  author    = {Jialin Li and
+               Ellis Michael and
+               Naveen Kr. Sharma and
+               Adriana Szekeres and
+               Dan R. K. Ports},
+  title     = {Just Say {NO} to Paxos Overhead: Replacing Consensus with Network Ordering},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {467-483},
+}
+
+@inproceedings{DBLP:conf/osdi/LiuVCQV16,
+  author    = {Shengyun Liu and
+               Paolo Viotti and
+               Christian Cachin and
+               Vivien Quéma and
+               Marko Vukolic},
+  title     = {XFT: Practical Fault Tolerance beyond Crashes},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {485-500},
+}
+
+@inproceedings{DBLP:conf/osdi/SettySLZCPR16,
+  author    = {Srinath T. V. Setty and
+               Chunzhi Su and
+               Jacob R. Lorch and
+               Lidong Zhou and
+               Hao Chen and
+               Parveen Patel and
+               Jinglei Ren},
+  title     = {Realizing the {Fault-Tolerance} Promise of Cloud Storage Using Locks with Intent},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {501-516},
+}
+
+@inproceedings{DBLP:conf/osdi/MuNLL16,
+  author    = {Shuai Mu and
+               Lamont Nelson and
+               Wyatt Lloyd and
+               Jinyang Li},
+  title     = {Consolidating Concurrency Control and Consensus for Commits under Conflicts},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {517-532},
+}
+
+@inproceedings{DBLP:conf/osdi/HuntZXPW16,
+  author    = {Tyler Hunt and
+               Zhiting Zhu and
+               Yuanzhong Xu and
+               Simon Peter and
+               Emmett Witchel},
+  title     = {Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {533-549},
+}
+
+@inproceedings{DBLP:conf/osdi/AngelS16,
+  author    = {Sebastian Angel and
+               Srinath T. V. Setty},
+  title     = {Unobservable Communication over Fully Untrusted Infrastructure},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {551-569},
+}
+
+@inproceedings{DBLP:conf/osdi/LazarZ16,
+  author    = {David Lazar and
+               Nickolai Zeldovich},
+  title     = {Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {571-586},
+}
+
+@inproceedings{DBLP:conf/osdi/PapadimitriouBC16,
+  author    = {Antonis Papadimitriou and
+               Ranjita Bhagwan and
+               Nishanth Chandran and
+               Ramachandran Ramjee and
+               Andreas Haeberlen and
+               Harmeet Singh and
+               Abhishek Modi and
+               Saikrishna Badrinarayanan},
+  title     = {Big Data Analytics over Encrypted Datasets with Seabed},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {587-602},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhaoRLYS16,
+  author    = {Xu Zhao and
+               Kirk Rodrigues and
+               Yu Luo and
+               Ding Yuan and
+               Michael Stumm},
+  title     = {{Non-Intrusive} Performance Profiling for Entire Software Stacks Based on the Flow Reconstruction Principle},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {603-618},
+}
+
+@inproceedings{DBLP:conf/osdi/XuJHZLJP16,
+  author    = {Tianyin Xu and
+               Xinxin Jin and
+               Peng Huang and
+               Yuanyuan Zhou and
+               Shan Lu and
+               Long Jin and
+               Shankar Pasupathy},
+  title     = {Early Detection of Configuration Errors to Reduce Failure Damage},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {619-634},
+}
+
+@inproceedings{DBLP:conf/osdi/VeeraraghavanMC16,
+  author    = {Kaushik Veeraraghavan and
+               Justin Meza and
+               David Chou and
+               Wonho Kim and
+               Sonia Margulis and
+               Scott Michelson and
+               Rajesh Nishtala and
+               Daniel Obenshain and
+               Dmitri Perelman and
+               Yee Jiun Song},
+  title     = {Kraken: Leveraging Live Traffic Tests to Identify and Resolve Resource Utilization Bottlenecks in Large Scale Web Services},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {635-651},
+}
+
+@inproceedings{DBLP:conf/osdi/GuSCWKSC16,
+  author    = {Ronghui Gu and
+               Zhong Shao and
+               Hao Chen and
+               Xiongnan (Newman) Wu and
+               Jieung Kim and
+               Vilhelm Sjöberg and
+               David Costanzo},
+  title     = {CertiKOS: An Extensible Architecture for Building Certified Concurrent {OS} Kernels},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {653-669},
+}
+
+@inproceedings{DBLP:conf/osdi/SchatzbergCDKA16,
+  author    = {Dan Schatzberg and
+               James Cadden and
+               Han Dong and
+               Orran Krieger and
+               Jonathan Appavoo},
+  title     = {EbbRT: A Framework for Building {Per-Application} Library Operating Systems},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {671-688},
+}
+
+@inproceedings{DBLP:conf/osdi/ArnautovTGKMPLM16,
+  author    = {Sergei Arnautov and
+               Bohdan Trach and
+               Franz Gregor and
+               Thomas Knauth and
+               André Martin and
+               Christian Priebe and
+               Joshua Lind and
+               Divya Muthukumaran and
+               Dan O'Keeffe and
+               Mark Stillwell and
+               David Goltzsche and
+               David M. Eyers and
+               Rüdiger Kapitza and
+               Peter R. Pietzuch and
+               Christof Fetzer},
+  title     = {SCONE: Secure Linux Containers with Intel {SGX}},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {689-703},
+}
+
+@inproceedings{DBLP:conf/osdi/KwonYPRW16,
+  author    = {Youngjin Kwon and
+               Hangchen Yu and
+               Simon Peter and
+               Christopher J. Rossbach and
+               Emmett Witchel},
+  title     = {Coordinated and Efficient Huge Page Management with Ingens},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {705-721},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangLFHCNKL16,
+  author    = {Irene Zhang and
+               Niel Lebeck and
+               Pedro Fonseca and
+               Brandon Holt and
+               Raymond Cheng and
+               Ariadna Norberg and
+               Arvind Krishnamurthy and
+               Henry M. Levy},
+  title     = {Diamond: Automating Data Management and Storage for Wide-Area, Reactive Applications},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {723-738},
+}
+
+@inproceedings{DBLP:conf/osdi/AdyaMHEMKFGBHPK16,
+  author    = {Atul Adya and
+               Daniel Myers and
+               Jon Howell and
+               Jeremy Elson and
+               Colin Meek and
+               Vishesh Khemani and
+               Stefan Fulger and
+               Pan Gu and
+               Lakshminath Bhuvanagiri and
+               Jason Hunter and
+               Roberto Peon and
+               Larry Kai and
+               Alexander Shraer and
+               Arif Merchant and
+               Kfir Lev-Ari},
+  title     = {Slicer: {Auto-Sharding} for Datacenter Applications},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {739-753},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangPFFGB16,
+  author    = {Yunqi Zhang and
+               George Prekas and
+               Giovanni Matteo Fumarola and
+               Marcus Fontoura and
+               Iñigo Goiri and
+               Ricardo Bianchini},
+  title     = {{History-Based} Harvesting of Spare Cycles and Storage in {Large-Scale} Datacenters},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {755-770},
+}
+
+@inproceedings{DBLP:conf/osdi/ChowVCF16,
+  author    = {Michael Chow and
+               Kaushik Veeraraghavan and
+               Michael J. Cafarella and
+               Jason Flinn},
+  title     = {DQBarge: Improving {Data-Quality} Tradeoffs in {Large-Scale} Internet Services},
+  booktitle = osdi,
+  year      = 2016,
+  pages     = {771-786},
+}
+
+@inproceedings{DBLP:conf/osdi/PeterLZPWKAR14,
+  author    = {Simon Peter and
+               Jialin Li and
+               Irene Zhang and
+               Dan R. K. Ports and
+               Doug Woos and
+               Arvind Krishnamurthy and
+               Thomas E. Anderson and
+               Timothy Roscoe},
+  title     = {Arrakis: The Operating System is the Control Plane},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {1-16},
+}
+
+@inproceedings{DBLP:conf/osdi/ZellwegerGKR14,
+  author    = {Gerd Zellweger and
+               Simon Gerber and
+               Kornilios Kourtis and
+               Timothy Roscoe},
+  title     = {Decoupling Cores, Kernels, and Operating Systems},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {17-31},
+}
+
+@inproceedings{DBLP:conf/osdi/WangLZCT14,
+  author    = {Xi Wang and
+               David Lazar and
+               Nickolai Zeldovich and
+               Adam Chlipala and
+               Zachary Tatlock},
+  title     = {Jitk: A Trustworthy {In-Kernel} Interpreter Infrastructure},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {33-47},
+}
+
+@inproceedings{DBLP:conf/osdi/BelayPKGKB14,
+  author    = {Adam Belay and
+               George Prekas and
+               Ana Klimovic and
+               Samuel Grossman and
+               Christos Kozyrakis and
+               Edouard Bugnion},
+  title     = {IX: A Protected Dataplane Operating System for High Throughput and Low Latency},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {49-65},
+}
+
+@inproceedings{DBLP:conf/osdi/SeshadriGBBDJLS14,
+  author    = {Sudharsan Seshadri and
+               Mark Gahagan and
+               Meenakshi Sundaram Bhaskaran and
+               Trevor Bunker and
+               Arup De and
+               Yanqin Jin and
+               Yang Liu and
+               Steven Swanson},
+  title     = {Willow: A {User-Programmable} {SSD}},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {67-80},
+}
+
+@inproceedings{DBLP:conf/osdi/LuZDAAA14,
+  author    = {Lanyue Lu and
+               Yupu Zhang and
+               Thanh Do and
+               Samer Al-Kiswany and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {Physical Disentanglement in a {Container-Based} File System},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {81-96},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhangSAAGKL14,
+  author    = {Irene Zhang and
+               Adriana Szekeres and
+               Dana Van Aken and
+               Isaac Ackerman and
+               Steven D. Gribble and
+               Arvind Krishnamurthy and
+               Henry M. Levy},
+  title     = {Customizable and Extensible Deployment for Mobile/Cloud Applications},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {97-112},
+}
+
+@inproceedings{DBLP:conf/osdi/SpahnBLBGK14,
+  author    = {Riley Spahn and
+               Jonathan Bell and
+               Michael Lee and
+               Sravan Bhamidipati and
+               Roxana Geambasu and
+               Gail E. Kaiser},
+  title     = {Pebbles: {Fine-Grained} Data Management Abstractions for Modern Operating Systems},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {113-129},
+}
+
+@inproceedings{DBLP:conf/osdi/StefanYMRHKM14,
+  author    = {Deian Stefan and
+               Edward Z. Yang and
+               Petr Marchenko and
+               Alejandro Russo and
+               David Herman and
+               Brad Karp and
+               David Mazières},
+  title     = {Protecting Users by Confining {JavaScript} with {COWL}},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {131-146},
+}
+
+@inproceedings{DBLP:conf/osdi/KuznetsovSPCSS14,
+  author    = {Volodymyr Kuznetsov and
+               Laszlo Szekeres and
+               Mathias Payer and
+               George Candea and
+               R. Sekar and
+               Dawn Song},
+  title     = {{Code-Pointer} Integrity},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {147-163},
+}
+
+@inproceedings{DBLP:conf/osdi/HawblitzelHLNPZZ14,
+  author    = {Chris Hawblitzel and
+               Jon Howell and
+               Jacob R. Lorch and
+               Arjun Narayan and
+               Bryan Parno and
+               Danfeng Zhang and
+               Brian Zill},
+  title     = {Ironclad Apps: {End-to-End} Security via Automated {Full-System} Verification},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {165-181},
+}
+
+@inproceedings{DBLP:conf/osdi/MooreDKC14,
+  author    = {Scott Moore and
+               Christos Dimoulas and
+               Dan King and
+               Stephen Chong},
+  title     = {SHILL: A Secure Shell Scripting Language},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {183-199},
+}
+
+@inproceedings{DBLP:conf/osdi/KimHZHWWS14,
+  author    = {Sangman Kim and
+               Seonggu Huh and
+               Xinya Zhang and
+               Yige Hu and
+               Amir Wated and
+               Emmett Witchel and
+               Mark Silberstein},
+  title     = {GPUnet: Networking Abstractions for {GPU} Programs},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {201-216},
+}
+
+@inproceedings{DBLP:conf/osdi/ChowMFPW14,
+  author    = {Michael Chow and
+               David Meisner and
+               Jason Flinn and
+               Daniel Peek and
+               Thomas F. Wenisch},
+  title     = {The Mystery Machine: End-to-end Performance Analysis of Large-scale Internet Services},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {217-231},
+}
+
+@inproceedings{DBLP:conf/osdi/AngelBKOT14,
+  author    = {Sebastian Angel and
+               Hitesh Ballani and
+               Thomas Karagiannis and
+               Greg O'Shea and
+               Eno Thereska},
+  title     = {End-to-end Performance Isolation Through Virtual Datacenters},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {233-248},
+}
+
+@inproceedings{DBLP:conf/osdi/YuanLZRZZJS14,
+  author    = {Ding Yuan and
+               Yu Luo and
+               Xin Zhuang and
+               Guilherme Renna Rodrigues and
+               Xu Zhao and
+               Yongle Zhang and
+               Pranay Jain and
+               Michael Stumm},
+  title     = {Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed {Data-Intensive} Systems},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {249-265},
+}
+
+@inproceedings{DBLP:conf/osdi/BaumannPH14,
+  author    = {Andrew Baumann and
+               Marcus Peinado and
+               Galen C. Hunt},
+  title     = {Shielding Applications from an Untrusted Cloud with Haven},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {267-283},
+}
+
+@inproceedings{DBLP:conf/osdi/BoutinELSZQWZ14,
+  author    = {Eric Boutin and
+               Jaliya Ekanayake and
+               Wei Lin and
+               Bing Shi and
+               Jingren Zhou and
+               Zhengping Qian and
+               Ming Wu and
+               Lidong Zhou},
+  title     = {Apollo: Scalable and Coordinated Scheduling for {Cloud-Scale} Computing},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {285-300},
+}
+
+@inproceedings{DBLP:conf/osdi/VenkataramanPAFS14,
+  author    = {Shivaram Venkataraman and
+               Aurojit Panda and
+               Ganesh Ananthanarayanan and
+               Michael J. Franklin and
+               Ion Stoica},
+  title     = {The Power of Choice in {Data-Aware} Cluster Scheduling},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {301-316},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhaiCWF14,
+  author    = {Ennan Zhai and
+               Ruichuan Chen and
+               David Isaac Wolinsky and
+               Bryan Ford},
+  title     = {Heading Off Correlated Failures through {Independence-as-a-Service}},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {317-334},
+}
+
+@inproceedings{DBLP:conf/osdi/WiresIDHW14,
+  author    = {Jake Wires and
+               Stephen Ingram and
+               Zachary Drudi and
+               Nicholas J. A. Harvey and
+               Andrew Warfield},
+  title     = {Characterizing Storage Workloads with Counter Stacks},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {335-349},
+}
+
+@inproceedings{DBLP:conf/osdi/BalakrishnanBDEGHLOPR14,
+  author    = {Shobana Balakrishnan and
+               Richard Black and
+               Austin Donnelly and
+               Paul England and
+               Adam Glass and
+               David Harper and
+               Sergey Legtchenko and
+               Aaron Ogus and
+               Eric Peterson and
+               Antony I. T. Rowstron},
+  title     = {Pelican: A Building Block for Exascale Cold Data Storage},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {351-365},
+}
+
+@inproceedings{DBLP:conf/osdi/ArdekaniT14,
+  author    = {Masoud Saeida Ardekani and
+               Douglas B. Terry},
+  title     = {A {Self-Configurable} {Geo-Replicated} Cloud Storage System},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {367-381},
+}
+
+@inproceedings{DBLP:conf/osdi/SubramanianLRHLLPSVTK14,
+  author    = {Muralidhar Subramanian and
+               Wyatt Lloyd and
+               Sabyasachi Roy and
+               Cory Hill and
+               Ernest Lin and
+               Weiwen Liu and
+               Satadru Pan and
+               Shiva Shankar and
+               Sivakumar Viswanathan and
+               Linpeng Tang and
+               Sanjeev Kumar},
+  title     = {f4: Facebook's Warm {BLOB} Storage System},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {383-398},
+}
+
+@inproceedings{DBLP:conf/osdi/LeesatapornwongsaHJLG14,
+  author    = {Tanakorn Leesatapornwongsa and
+               Mingzhe Hao and
+               Pallavi Joshi and
+               Jeffrey F. Lukman and
+               Haryadi S. Gunawi},
+  title     = {SAMC: {Semantic-Aware} Model Checking for Fast Discovery of Deep Bugs in Cloud Systems},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {399-414},
+}
+
+@inproceedings{DBLP:conf/osdi/0001RB14,
+  author    = {Pedro Fonseca and
+               Rodrigo Rodrigues and
+               Björn B. Brandenburg},
+  title     = {SKI: Exposing Kernel Concurrency Bugs through Systematic Schedule Exploration},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {415-431},
+}
+
+@inproceedings{DBLP:conf/osdi/PillaiCAAAA14,
+  author    = {Thanumalayan Sankaranarayana Pillai and
+               Vijay Chidambaram and
+               Ramnatthan Alagappan and
+               Samer Al-Kiswany and
+               Andrea C. Arpaci-Dusseau and
+               Remzi H. Arpaci-Dusseau},
+  title     = {All File Systems Are Not Created Equal: On the Complexity of Crafting {Crash-Consistent} Applications},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {433-448},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhengTHQLYZS14,
+  author    = {Mai Zheng and
+               Joseph Tucek and
+               Dachuan Huang and
+               Feng Qin and
+               Mark Lillibridge and
+               Elizabeth S. Yang and
+               Bill W. Zhao and
+               Shashank Singh},
+  title     = {Torturing Databases for Fun and Profit},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {449-464},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhengTKL14,
+  author    = {Wenting Zheng and
+               Stephen Tu and
+               Eddie Kohler and
+               Barbara Liskov},
+  title     = {Fast Databases with Fast Durability and Recovery Through Multicore Parallelism},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {465-477},
+}
+
+@inproceedings{DBLP:conf/osdi/MuCZLL14,
+  author    = {Shuai Mu and
+               Yang Cui and
+               Yang Zhang and
+               Wyatt Lloyd and
+               Jinyang Li},
+  title     = {Extracting More Concurrency from Distributed Transactions},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {479-494},
+}
+
+@inproceedings{DBLP:conf/osdi/XieSK0YAM14,
+  author    = {Chao Xie and
+               Chunzhi Su and
+               Manos Kapritsos and
+               Yang Wang and
+               Navid Yaghmazadeh and
+               Lorenzo Alvisi and
+               Prince Mahajan},
+  title     = {Salt: Combining {ACID} and {BASE} in a Distributed Database},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {495-509},
+}
+
+@inproceedings{DBLP:conf/osdi/NarulaCKM14,
+  author    = {Neha Narula and
+               Cody Cutler and
+               Eddie Kohler and
+               Robert Tappan Morris},
+  title     = {Phase Reconciliation for Contended {In-Memory} Transactions},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {511-524},
+}
+
+@inproceedings{DBLP:conf/osdi/DevecseryCDFC14,
+  author    = {David Devecsery and
+               Michael Chow and
+               Xianzheng Dou and
+               Jason Flinn and
+               Peter M. Chen},
+  title     = {Eidetic Systems},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {525-540},
+}
+
+@inproceedings{DBLP:conf/osdi/ChenMXHPSZ14,
+  author    = {Ang Chen and
+               W. Brad Moore and
+               Hanjun Xiao and
+               Andreas Haeberlen and
+               Linh Thi Xuan Phan and
+               Micah Sherr and
+               Wenchao Zhou},
+  title     = {Detecting Covert Timing Channels with {Time-Deterministic} Replay},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {541-554},
+}
+
+@inproceedings{DBLP:conf/osdi/ChenKWZK14,
+  author    = {Haogang Chen and
+               Taesoo Kim and
+               Xi Wang and
+               Nickolai Zeldovich and
+               M. Frans Kaashoek},
+  title     = {Identifying Information Disclosure in Web Applications with Retroactive Auditing},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {555-569},
+}
+
+@inproceedings{DBLP:conf/osdi/ChilimbiSAK14,
+  author    = {Trishul M. Chilimbi and
+               Yutaka Suzue and
+               Johnson Apacible and
+               Karthik Kalyanaraman},
+  title     = {Project Adam: Building an Efficient and Scalable Deep Learning Training System},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {571-582},
+}
+
+@inproceedings{DBLP:conf/osdi/LiAPSAJLSS14,
+  author    = {Mu Li and
+               David G. Andersen and
+               Jun Woo Park and
+               Alexander J. Smola and
+               Amr Ahmed and
+               Vanja Josifovski and
+               James Long and
+               Eugene J. Shekita and
+               Bor-Yiing Su},
+  title     = {Scaling Distributed Machine Learning with the Parameter Server},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {583-598},
+}
+
+@inproceedings{DBLP:conf/osdi/GonzalezXDCFS14,
+  author    = {Joseph E. Gonzalez and
+               Reynold S. Xin and
+               Ankur Dave and
+               Daniel Crankshaw and
+               Michael J. Franklin and
+               Ion Stoica},
+  title     = {GraphX: Graph Processing in a Distributed Dataflow Framework},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {599-613},
+}
+
+@inproceedings{DBLP:conf/osdi/BangertZ14,
+  author    = {Julian Bangert and
+               Nickolai Zeldovich},
+  title     = {Nail: A Practical Tool for Parsing and Generating Data Formats},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {615-628},
+}
+
+@inproceedings{DBLP:conf/osdi/ZhaoZLULYS14,
+  author    = {Xu Zhao and
+               Yongle Zhang and
+               David Lion and
+               Muhammad Faizan Ullah and
+               Yu Luo and
+               Ding Yuan and
+               Michael Stumm},
+  title     = {lprof: A Non-intrusive Request Flow Profiler for Distributed Systems},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {629-644},
+}
+
+@inproceedings{DBLP:conf/osdi/MullerAAC14,
+  author    = {Stefan C. Müller and
+               Gustavo Alonso and
+               Adam Amara and
+               André Csillaghy},
+  title     = {Pydron: {Semi-Automatic} Parallelization for {Multi-Core} and the Cloud},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {645-659},
+}
+
+@inproceedings{DBLP:conf/osdi/RyzhykWKLRSV14,
+  author    = {Leonid Ryzhyk and
+               Adam Walker and
+               John Keys and
+               Alexander Legg and
+               Arun Raghunath and
+               Michael Stumm and
+               Mona Vij},
+  title     = {{User-Guided} Device Driver Synthesis},
+  booktitle = osdi,
+  year      = 2014,
+  pages     = {661-676},
+}
+
+@inproceedings{DBLP:conf/osdi/NightingaleEFHHS12,
+  author    = {Edmund B. Nightingale and
+               Jeremy Elson and
+               Jinliang Fan and
+               Owen S. Hofmann and
+               Jon Howell and
+               Yutaka Suzue},
+  title     = {Flat Datacenter Storage},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {1-15},
+}
+
+@inproceedings{DBLP:conf/osdi/GonzalezLGBG12,
+  author    = {Joseph E. Gonzalez and
+               Yucheng Low and
+               Haijie Gu and
+               Danny Bickson and
+               Carlos Guestrin},
+  title     = {PowerGraph: Distributed {Graph-Parallel} Computation on Natural Graphs},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {17-30},
+}
+
+@inproceedings{DBLP:conf/osdi/KyrolaBG12,
+  author    = {Aapo Kyrola and
+               Guy E. Blelloch and
+               Carlos Guestrin},
+  title     = {GraphChi: {Large-Scale} Graph Computation on Just a {PC}},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {31-46},
+}
+
+@inproceedings{DBLP:conf/osdi/GiffinLSTMMR12,
+  author    = {Daniel B. Giffin and
+               Amit Levy and
+               Deian Stefan and
+               David Terei and
+               David Mazières and
+               John C. Mitchell and
+               Alejandro Russo},
+  title     = {Hails: Protecting Data Privacy in Untrusted Web Applications},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {47-60},
+}
+
+@inproceedings{DBLP:conf/osdi/DunnLJKSXSW12,
+  author    = {Alan M. Dunn and
+               Michael Z. Lee and
+               Suman Jana and
+               Sangman Kim and
+               Mark Silberstein and
+               Yuanzhong Xu and
+               Vitaly Shmatikov and
+               Emmett Witchel},
+  title     = {Eternal Sunshine of the Spotless Machine: Protecting Privacy with Ephemeral Channels},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {61-75},
+}
+
+@inproceedings{DBLP:conf/osdi/TangABBGS12,
+  author    = {Yang Tang and
+               Phillip Ames and
+               Sravan Bhamidipati and
+               Ashish Bijlani and
+               Roxana Geambasu and
+               Nikhil Sarda},
+  title     = {CleanOS: Limiting Mobile Data Exposure with Idle Eviction},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {77-91},
+}
+
+@inproceedings{DBLP:conf/osdi/GordonJMMC12,
+  author    = {Mark S. Gordon and
+               Davoud Anoushe Jamshidi and
+               Scott A. Mahlke and
+               Zhuoqing Morley Mao and
+               Xu Chen},
+  title     = {COMET: Code Offload by Migrating Execution Transparently},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {93-106},
+}
+
+@inproceedings{DBLP:conf/osdi/RavindranathPAMOS12,
+  author    = {Lenin Ravindranath and
+               Jitendra Padhye and
+               Sharad Agarwal and
+               Ratul Mahajan and
+               Ian Obermiller and
+               Shahin Shayandeh},
+  title     = {AppInsight: Mobile App Performance Monitoring in the Wild},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {107-120},
+}
+
+@inproceedings{DBLP:conf/osdi/GuoFCZZMLLZZ12,
+  author    = {Zhenyu Guo and
+               Xuepeng Fan and
+               Rishan Chen and
+               Jiaxing Zhang and
+               Hucheng Zhou and
+               Sean McDirmid and
+               Chang Liu and
+               Wei Lin and
+               Jingren Zhou and
+               Lidong Zhou},
+  title     = {Spotting Code Optimizations in {Data-Parallel} Pipelines through {PeriSCOPE}},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {121-133},
+}
+
+@inproceedings{DBLP:conf/osdi/HanMCR12,
+  author    = {Sangjin Han and
+               Scott Marshall and
+               Byung-Gon Chun and
+               Sylvia Ratnasamy},
+  title     = {MegaPipe: A New Programming Interface for Scalable Network I/O},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {135-148},
+}
+
+@inproceedings{DBLP:conf/osdi/NarayanH12,
+  author    = {Arjun Narayan and
+               Andreas Haeberlen},
+  title     = {DJoin: Differentially Private Join Queries over Distributed Databases},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {149-162},
+}
+
+@inproceedings{DBLP:conf/osdi/WangCJZK12,
+  author    = {Xi Wang and
+               Haogang Chen and
+               Zhihao Jia and
+               Nickolai Zeldovich and
+               M. Frans Kaashoek},
+  title     = {Improving Integer Security for Systems with {KINT}},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {163-177},
+}
+
+@inproceedings{DBLP:conf/osdi/WolinskyCFJ12,
+  author    = {David Isaac Wolinsky and
+               Henry Corrigan-Gibbs and
+               Bryan Ford and
+               Aaron Johnson},
+  title     = {Dissent in Numbers: Making Strong Anonymity Scale},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {179-182},
+}
+
+@inproceedings{DBLP:conf/osdi/KimCZ12,
+  author    = {Taesoo Kim and
+               Ramesh Chandra and
+               Nickolai Zeldovich},
+  title     = {Efficient Patch-based Auditing for Web Application Vulnerabilities},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {193-206},
+}
+
+@inproceedings{DBLP:conf/osdi/Levis12,
+  author    = {Philip Levis},
+  title     = {Experiences from a Decade of {TinyOS} Development},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {207-220},
+}
+
+@inproceedings{DBLP:conf/osdi/Jin0D12,
+  author    = {Guoliang Jin and
+               Wei Zhang and
+               Dongdong Deng},
+  title     = {Automated {Concurrency-Bug} Fixing},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {221-236},
+}
+
+@inproceedings{DBLP:conf/osdi/Kapritsos0QCAD12,
+  author    = {Manos Kapritsos and
+               Yang Wang and
+               Vivien Quéma and
+               Allen Clement and
+               Lorenzo Alvisi and
+               Mike Dahlin},
+  title     = {All about Eve: {Execute-Verify} Replication for {Multi-Core} Servers},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {237-250},
+}
+
+@inproceedings{DBLP:conf/osdi/CorbettDEFFFGGHHHKKLLMMNQRRSSTWW12,
+  author    = {James C. Corbett and
+               Jeffrey Dean and
+               Michael Epstein and
+               Andrew Fikes and
+               Christopher Frost and
+               J. J. Furman and
+               Sanjay Ghemawat and
+               Andrey Gubarev and
+               Christopher Heiser and
+               Peter Hochschild and
+               Wilson C. Hsieh and
+               Sebastian Kanthak and
+               Eugene Kogan and
+               Hongyi Li and
+               Alexander Lloyd and
+               Sergey Melnik and
+               David Mwaura and
+               David Nagle and
+               Sean Quinlan and
+               Rajesh Rao and
+               Lindsay Rolig and
+               Yasushi Saito and
+               Michal Szymaniak and
+               Christopher Taylor and
+               Ruth Wang and
+               Dale Woodford},
+  title     = {Spanner: Google's {Globally-Distributed} Database},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {251-264},
+}
+
+@inproceedings{DBLP:conf/osdi/LiPCGPR12,
+  author    = {Cheng Li and
+               Daniel Porto and
+               Allen Clement and
+               Johannes Gehrke and
+               Nuno M. Preguiça and
+               Rodrigo Rodrigues},
+  title     = {Making {Geo-Replicated} Systems Fast as Possible, Consistent when Necessary},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {265-278},
+}
+
+@inproceedings{DBLP:conf/osdi/RenzelmannKS12,
+  author    = {Matthew J. Renzelmann and
+               Asim Kadav and
+               Michael M. Swift},
+  title     = {SymDrive: Testing Drivers without Devices},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {279-292},
+}
+
+@inproceedings{DBLP:conf/osdi/YuanPHLLTZS12,
+  author    = {Ding Yuan and
+               Soyeon Park and
+               Peng Huang and
+               Yang Liu and
+               Michael Mihn-Jong Lee and
+               Xiaoming Tang and
+               Yuanyuan Zhou and
+               Stefan Savage},
+  title     = {Be Conservative: Enhancing Failure Diagnosis with Proactive Logging},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {293-306},
+}
+
+@inproceedings{DBLP:conf/osdi/AttariyanCF12,
+  author    = {Mona Attariyan and
+               Michael Chow and
+               Jason Flinn},
+  title     = {X-ray: Automating {Root-Cause} Diagnosis of Performance Anomalies in Production Software},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {307-320},
+}
+
+@inproceedings{DBLP:conf/osdi/KotlaRRSW12,
+  author    = {Ramakrishna Kotla and
+               Tom Rodeheffer and
+               Indrajit Roy and
+               Patrick Stuedi and
+               Benjamin Wester},
+  title     = {Pasture: Secure Offline Data Access Using Commodity Trusted Hardware},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {321-334},
+}
+
+@inproceedings{DBLP:conf/osdi/BelayBMTMK12,
+  author    = {Adam Belay and
+               Andrea Bittau and
+               Ali José Mashtizadeh and
+               David Terei and
+               David Mazières and
+               Christos Kozyrakis},
+  title     = {Dune: Safe User-level Access to Privileged {CPU} Features},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {335-348},
+}
+
+@inproceedings{DBLP:conf/osdi/ShueFS12,
+  author    = {David Shue and
+               Michael J. Freedman and
+               Anees Shaikh},
+  title     = {Performance Isolation and Fairness for {Multi-Tenant} Cloud Storage},
+  booktitle = osdi,
+  year      = 2012,
+  pages     = {349-362},
+}
+
 @inproceedings{DBLP:conf/osdi/Boyd-WickizerCMPKMZ10,
   author    = {Silas Boyd-Wickizer and
                Austin T. Clements and
                Yandong Mao and
                Aleksey Pesterev and
                M. Frans Kaashoek and
-               Robert Morris and
+               Robert Tappan Morris and
                Nickolai Zeldovich},
   title     = {An Analysis of Linux Scalability to Many Cores},
   booktitle = osdi,
@@ -269,7 +2405,7 @@
 
 @inproceedings{DBLP:conf/osdi/KoponenCGSPZRIIHS10,
   author    = {Teemu Koponen and
-               Martin Casado and
+               Martín Casado and
                Natasha Gude and
                Jeremy Stribling and
                Leon Poutievski and
@@ -290,7 +2426,7 @@
                Glen Gibb and
                Kok-Kiong Yap and
                Guido Appenzeller and
-               Martin Casado and
+               Martín Casado and
                Nick McKeown and
                Guru M. Parulkar},
   title     = {Can the Production Network Be the Testbed?},
@@ -313,10 +2449,10 @@
 @inproceedings{DBLP:conf/osdi/EnckGCCJMS10,
   author    = {William Enck and
                Peter Gilbert and
-               Byung-gon Chun and
+               Byung-Gon Chun and
                Landon P. Cox and
                Jaeyeon Jung and
-               Patrick McDaniel and
+               Patrick D. McDaniel and
                Anmol Sheth},
   title     = {TaintDroid: An {Information-Flow} Tracking System for Realtime Privacy Monitoring on Smartphones},
   booktitle = osdi,
@@ -417,7 +2553,7 @@
                Rong Chen and
                Yandong Mao and
                M. Frans Kaashoek and
-               Robert Morris and
+               Robert Tappan Morris and
                Aleksey Pesterev and
                Lex Stein and
                Ming Wu and
@@ -809,7 +2945,7 @@
 @inproceedings{DBLP:conf/osdi/CastroCH06,
   author    = {Miguel Castro and
                Manuel Costa and
-               Timothy L. Harris},
+               Tim Harris},
   title     = {Securing Software by Enforcing Data-flow Integrity},
   booktitle = osdi,
   year      = 2006,
@@ -885,7 +3021,7 @@
                Chris Lesniewski-Laas and
                Sean C. Rhea and
                M. Frans Kaashoek and
-               Robert Morris},
+               Robert Tappan Morris},
   title     = {Persistent Personal Names for Globally Connected Mobile Devices},
   booktitle = osdi,
   year      = 2006,
@@ -1095,7 +3231,7 @@
   author    = {Jinyuan Li and
                Maxwell N. Krohn and
                David Mazières and
-               Dennis Shasha},
+               Dennis E. Shasha},
   title     = {Secure Untrusted Data Repository (SUNDR)},
   booktitle = osdi,
   year      = 2004,
@@ -1164,7 +3300,7 @@
                Jeremy Stribling and
                Maxwell N. Krohn and
                Hari Balakrishnan and
-               Robert Morris and
+               Robert Tappan Morris and
                Scott Shenker},
   title     = {Middleboxes No Longer Considered Harmful},
   booktitle = osdi,
@@ -1418,7 +3554,7 @@
 
 @inproceedings{DBLP:conf/osdi/MuthitacharoenMGC02,
   author    = {Athicha Muthitacharoen and
-               Robert Morris and
+               Robert Tappan Morris and
                Thomer M. Gil and
                Benjie Chen},
   title     = {Ivy: A Read/Write {Peer-to-Peer} File System},
